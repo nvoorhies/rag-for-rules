@@ -3,3 +3,6 @@ sentence-transformers
 transformers
 torch
 numpy
+notebook
+huggingface_hub[cli]
+accelerate
