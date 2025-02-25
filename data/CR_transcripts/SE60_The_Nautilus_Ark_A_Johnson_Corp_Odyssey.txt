@@ -1,0 +1,2728 @@
+List of Transcripts
+
+Contents
+
+1 Pre-Show
+2 Part I
+3 Break
+4 Part II
+
+
+Pre-Show[]
+ASHLEY: Oh! Hello? And welcome to tonight's episode of Critical Role, where a bunch of us nerdy-ass voice actors sit here and play whatever this is going to be. 
+TRAVIS: (hollering) Whatever this is going to be! 
+ASHLEY: So tonight we will be playing The Nautilus Ark. 
+TRAVIS: (whispering) The Nautilus Ark. 
+ASHLEY: A Johnson Corp Odyssey. A homebrew sci-fi survival horror one-shot. So just so you guys know, I'm going off-script here, guys, do not panic. This is a bit of a love letter to all of the movies that I loved growing up. So some of you may find some things that-- little things that you can pick from certain different little movies. Anyway, announcements! Okay, for Ashley, here we go. It's just me doing announcements. 
+TRAVIS: You're doing great! 
+ASHLEY: Ooh! It's hot. So thank you so much for joining us live on Twitch and YouTube, and to join in our-- to join our-- in our live-- Oh boy, this is going well. -and moderated community chat, please head on over to our Twitch channel. This one-shot was unlocked as part of The Legend of Vox Machina Kickstarter campaign, so this is your fault. 
+TALIESIN: Yeah. 
+MARISHA: Yeah! 
+ASHLEY: Thank you all to the incredible backers who made this a reality. For the most recent updates on The Legend of Vox Machina, check out critrole.com/animated. 
+TRAVIS: Animated! 
+ASHLEY: And finally, this one-shot is being pre-recorded, thank god! (laughter) 
+ASHLEY: I'm sure all of you who have done this for the first time, I would suggest not doing it on camera. I'm sure you all can attest to this previous-- Okay, anyway. Hey, we're going to throw it to the future for some announcements. Take it away, future. 
+FUTURE ASHLEY: Thank you, past Ashley! Before we get into tonight's one shot, we have a very special announcement. The Critical Role Foundation has partnered with Shanti Bhavan, a wonderful school in India that's dedicated to building an enriched life for students from India's lowest socioeconomic class to help break the cycles of generational poverty. Our goal for this campaign is to raise $160,000, which will fund a brand new girls' dormitory, and finish funding the music program at Shanti Bhavan. And since CRF is a 501(c)(3) non-profit, donations are 100% tax deductible in the United States. You can join our campaign by donating directly at criticalrolefoundation.org, share our campaign with your friends and family, or by purchasing our brand new Critical Role Foundation merch! Which future Laura can tell you more about! 
+FUTURE LAURA: That's right, future Ashley! We are thrilled to launch our first official Critical Role Foundation merchandise. 
+FUTURE ASHLEY: Woo hoo! 
+FUTURE LAURA: You can get your very own... ♪ Na na na na na na ♪ CRF T-shirt. 
+FUTURE ASHLEY: Ooh hoo hoo hoo hoo! 
+FUTURE LAURA: Your very own CRF hat, and enamel pin right now in any of our Critical Role stores. Portions from your purchases are donated directly to the Critical Role Foundation to support our active campaigns, like right now with Shanti Bhavan. Or, if we're between campaigns, to be distributed amongst our core partners. The exact donation amount varies by item and by store, so be sure to check out the product pages for more information. 
+FUTURE ASHLEY: Thank you so much for supporting our campaign and sharing it with your friends and your family, and for helping us leave the world better than we found it. And now, without further ado, let us throw it back to past Ashley for some retro sci-fi goodness. Past Ashley, take it away. 
+FUTURE LAURA: (laughs) (hat clatters) 
+ASHLEY: How about those announcements? I think it's time to jump in to this episode that I have repair-- prepared. (sighs) I'm not drunk yet. Working on it! But let's jump in to The Nautilus Ark. 
+(hushed cheering) 
+TRAVIS: The Nautilus Ark! 
+(Intro)
+
+Part I[]
+ASHLEY: In the year 3051 PD. The moon was hit by a meteor splitting it in half. The planet slowly started to become an uninhabitable home. Life as we know it could not continue to exist in these conditions. But we had time to prepare. We asked ourselves as a species, "Are we worth it? Is this simply the end of our life cycle? Many species have fallen, and perhaps it is our turn. If we can't evolve through this, do we deserve to keep going?" The answer was yes. It took 10 years of planning. Every nation worked together to create a mass migration to a planet that seemed to once hold life in a system far, far away. It has everything we would need to sustain life. Water. Oxygen. Nitrogen. The Johnson Corporation, a multi-trillion dollar conglomerate known for renewable energy, cybernetics, and their technological advancements in space exploration, won the bid for the design and the build of the Ark. Its CEO, Ash Johnson-- 
+(laughter) 
+ASHLEY: -- an eccentric, garish, moody, controversial inventor, entrepreneur, and chief engineer. Conniving. Hated for her power and wealth and unconventional methods and politics. J Corp was celebrated for their contributions for moving the human race forward, or in this case, helping it survive completely. Sometimes we have to turn to the people we need, not the people that we want. The choice. How do we choose? There is no way to take everyone. How do we decide who goes and who stays? The final decision? A worldwide lottery. You win, you have a ticket for migration. A 30-year trek in a stasis pod hurtling across the universe. You lose, you stay on the planet, awaiting the inevitable that will surely come. We start our story aboard The Nautilus Ark: TSS-193, Life Support Mission. The payload: the last of humanity. A spaceship, careening towards us in complete silence. 
+ALL: Cool! 
+TRAVIS: Ashley fucking Johnson! 
+ASHLEY: Isn't it so cool? Okay, let me get back in. 
+TRAVIS: And that's just the map! 
+ASHLEY: So. 
+MARISHA: Oh shit! 
+ASHLEY: This is our Ark. 
+TRAVIS: What the fuck? 
+LAURA: Oh my god, we're carrying humans? 
+ASHLEY: Holding our precious cargo. 
+MARISHA: Nice. 
+ASHLEY: Our centrifuge providing gravity, and last, but certainly not least, the Nautilus, where our crew has been kept alive in stasis pod in the cryochambers. This crew is the best at what they do. The best in their fields of studies. Each chosen for their specific skill sets. Brilliant, strong, wise, insightful, and perceptive. They were chosen for this incredible, inconceivable task and if they fail, we are truly lost forever. Let's meet our crew. 
+MARISHA: Oh, it's me first? Okay. It's me. I am-- 
+ASHLEY: Sorry, I didn't mean to put you on the spot. 
+MARISHA: No, it's great, I am up for the challenge, which is why I am here. I am Nomen L. Frenno-- Dr. (laughs nervously) Nomen L. Frenno. Dr. Wiser has empowered me to use that moniker. You know, it's a small step for mankind, but a large leap for frog-kind and-- 
+TRAVIS: Oh god. 
+MARISHA: -- just excited to be here. Oh, I'm an astrobiologist. Yeah! Dr. Wiser, you should speak now. 
+TALIESIN: Thank you. 
+MARISHA: Yeah. 
+TALIESIN: Yeah, hello, my name is Dr. Ramsey Wiser. I am a computer engineer, software engineer. I help maintain the systems on board, make sure everything works smoothly, and problem-solve as we go. We are venturing into the unknown and new problems arise all the time. You. What's your name? Feel free-- 
+TRAVIS: Hold on, I'm writing down what you do, smart-ass. Biologist. Now-- 
+ASHLEY: Yes! 
+TRAVIS: No, you're the biologist. Software engineer. 
+MARISHA: Astrobiologist. 
+TRAVIS: A-biologist. 
+MARISHA: I went to four more years of school for the "astro" part. 
+TRAVIS: You can call me Gunnery Sergeant Cameron Garrett. (laughter) 
+MARISHA: C-C-Cameron? 
+TRAVIS: Cameron Garrett. 
+MARISHA: Cameron Garrett. 
+TRAVIS: Sergeant Garrett, if you must. 
+ASHLEY: Sergeant. 
+TRAVIS: I'm a Marine. I'm here to babysit all you eggheads and number humpers. (sniffs) Make sure that this ship runs tight. Keep strict security in detail. I've earned this cush position because I made my name on the front lines. Watched many men fall, but I remained. So I'll make sure that everything stays safe so you can do your jobs. What about you, ears? 
+LIAM: Ears? Well, I don't know about that. My name is Forrest Coreman. Basically the ship mechanic, Dr. Wiser handles the software; I'm more of the hardware expert on the ship. I'm a systems engineer, astronautics engineering, and I make sure that everything is working on board. I'm also up for game of Scrabble or Monopoly if anyone wants to spend some time at the end of the day or just talk. 
+MARISHA: I'm very good at Scrabble. 
+TALIESIN: I'm also very, very good at Scrabble. 
+MARISHA: I'm better at him than Scrabble. 
+LIAM: Scrabble it is. 
+MARISHA: Yeah. (giggles) 
+TALIESIN: We'll see. 
+LAURA: All right. Captain Glass, as you all know. 
+MARISHA: (applauds) 
+TRAVIS: Cap'n. 
+LAURA: Sergeant. Not going to lie, when Johnson Corp asked me to take charge of this mission, I was unaware we'd be hauling such precious cargo, but you know what? I'm here to get the job done and make sure every one of you is safe. Fuck. (sighs) 
+MARISHA: Good speech! 
+LAURA: Thanks. 
+MARISHA: Good speech. 
+ASHLEY: What a wonderful crew. You wake with an alarm. Blaring. You're still in the cryo tubes, I should have told you that, but thank you so much for-- That was amazing RP. You're already jumping right in! 
+TRAVIS: (gasping, groaning) 
+LIAM: (muffled) Can anyone else hear me? 
+LAURA: So technically-- Okay. We met each other beforehand, that was all before. 
+ASHLEY: That was all, yeah. (warbling) 
+LAURA: On the tubes. 
+LIAM: Right. 
+ASHLEY: So the breathing tube-- 
+LIAM: How did we get out of these things? (hisses) 
+ASHLEY: (clunking, hissing) The glass is inches above your face, I need you all to make a body save. 
+LAURA: Oh! We have fucking-- okay. 
+LIAM: Here we go, first roll. 
+LAURA: Bloop! 
+MARISHA: Oh no. 
+LIAM: Nope. 
+TALIESIN: Nope! 
+MARISHA: Yes! 
+LAURA: Yes. 
+ASHLEY: Great. 
+MARISHA: I rolled a two. 
+ASHLEY: You, whoever succeeded, you are able to get the tube out. You get out of your pod. You're fine. Did anybody fail? You're panicking. You're feeling claustrophobic. You are not able to remove the tube and you can't seem to find the evacuation button on the interior of your pod. So you're going to take an extra point of stress. 
+TALIESIN: (sighs) It's getting real. 
+MARISHA: Do we see their panicking? 
+LAURA: Yeah, are we out, can we get out? 
+ASHLEY: You are all out of the pod. 
+TRAVIS: Are we in our Sunday best? 
+ASHLEY: You absolutely are. 
+TRAVIS: Fuck yeah. Taking stock of everybody. Seeing who's got what. 
+LAURA: (laughs) 
+TRAVIS: All right. 
+LAURA: I'm going to run over to Forrest here. I'll try to get his machine open. 
+MARISHA: I'll run over to Dr. Wiser's. 
+ASHLEY: Okay. 
+LAURA: Sergeant, find out what that alarm is for. 
+TRAVIS: Yes, ma'am. 
+ASHLEY: You see, in the room, it's just as you left it. Just as you went to sleep 30 years ago. The pods are all in a circle and you all have clothing at the base of your pod if you wish to put them on. You don't have to. There's a touch pad on the wall. 
+TRAVIS: I don't want to deprive anybody of the joy of this, but I'll start putting my clothes on. 
+LAURA: I'm not going to get dressed before I try to get my crew out of their pods. 
+MARISHA: Yeah, I'll do the same. 
+TRAVIS: As ordered by the captain, I'll make my way over to the touch pad and see if I can figure out what the problem is. 
+ASHLEY: Great. You both, you know how to get somebody out of these pods. You've been on ships like this many times. You are able-- 
+MARISHA: It's always 6969. 
+TRAVIS: That can't be right. 
+MARISHA: Try it. 
+LAURA: It succeeded, right? (laughter) 
+LAURA: Ah, 6969. 
+LIAM: Nice. 
+ASHLEY: You are both released out of your cryo tube. 
+LIAM: Thank you, Captain. 
+TALIESIN: (coughs) 
+LAURA: You're welcome. I say as I start putting my clothes on. 
+TALIESIN: Thank you, thank you. 
+MARISHA: Yeah! 
+ASHLEY: Sergeant, Gunner-- 
+TRAVIS: Sergeant Garrett! 
+ASHLEY: Sergeant Garrett. 
+TRAVIS: Gunnery Sergeant Cameron Garrett! 
+LIAM: Gunner T. Nelson! 
+ASHLEY: You get to the touch pad panel. 
+TRAVIS: Yep. 
+ASHLEY: It comes on. And you hear the ship's AI, Mother. "Good morning, Nautilus crew. Apologies for the abrupt awakening. We have reached our destination, but we have taken some damage when entering the solar system. We passed through a meteor shower and the starboard side of the ship above the science lab seems to have been breached and we are currently leaking oxygen. I have sealed the science lab doors to ensure depressurization does not happen. I have also sealed off the Ark from our oxygen supply to make sure that they are kept safe." 
+TRAVIS: Oh shit. That was fucking awesome. 
+LAURA: Yeah, that was fucking cool. 
+LIAM: So the-- I was so blown away by what just happened. The science lab is where the breach is? 
+ASHLEY: Yes. 
+LIAM: On the-- 
+TRAVIS: Starboard side. Or your right. 
+ASHLEY: So on the outside of the ship, maybe from the meteor shower, there's a breach in the hull. So Mother sealed that room to make sure that the rest of the ship didn't get depressurized. 
+TRAVIS: Can we ask Mother a question? 
+LAURA: Yeah, can we ask Mother questions? 
+ASHLEY: Sure. 
+LAURA: Mother. (laughs) What's the oxygen level on the rest of the ship? 
+TRAVIS: Look, I have one job on this ship. 
+TRAVIS and LAURA: It's stupid! 
+ASHLEY: But I have one job! "We are currently at 60%." 
+LAURA: Oh! 
+MARISHA: That's lower than I thought. 
+LAURA: Yeah. 
+LIAM: That's significant. 
+LAURA: Do we know how to get our oxygen levels stable? Is everything stable? 
+LIAM: I think so. Mother. Is the damage to the science lab repairable or beyond? 
+ASHLEY: "It seems to be repairable." 
+MARISHA: Mother. What is the rate in which we are losing oxygen? 
+ASHLEY: "It seems to be pretty fast." 
+MARISHA: Oh! Do you have, like, a percentage, like a metric or like a ratio, or? 
+TRAVIS: Oh my god, all these damn questions! 
+MARISHA: It would just be nice to have a little bit of a time limit, you know? 
+TRAVIS: I use the keypad and I open the cryochamber door to the main hallway. 
+LAURA: Where's the cryochambers? We need to make our way, is anybody injured? We need to make our way over to the science lab vent. 
+TALIESIN: I'm fine, I'm fine. I'm actually just going to-- the life support systems are just on the other side of this door, right? 
+LAURA: Yeah. 
+ASHLEY: "Yes, they are." 
+TALIESIN: There's no terminal in there. I'm going to try and use the cryochamber terminal to check the life support systems to see if this is an engineering issue or something more complicated. 
+ASHLEY: You, being the computer genius and scientist that you are, you are able to determine that it is fixable, but it needs to be fixed from the outside. 
+TALIESIN: So we have a problem, and we're going to need someone to get into a suit. 
+MARISHA: What kind of suit? 
+TALIESIN: An outside suit. 
+MARISHA: Oh! 
+LAURA: The issue on the outside of the science lab? 
+TALIESIN: The issue is on the outside of the science lab. There will be no access to what we need to get to in here. I'm going to go to my quarters. 
+LAURA: Mother. 
+MARISHA: (gasps) 
+LAURA: How soon before our scheduled wake up did this alarm happen? 
+ASHLEY: "This happened about two hours ago. I was--" 
+LAURA: How long have we been traveling? 
+ASHLEY: "30 years, my love." 
+TRAVIS: (laughs) Yeah. 
+MARISHA: I just remembered. I left Virgil in the science lab. In his own little tiny snake cryochamber! 
+TRAVIS: Wait, wait. 
+MARISHA: For hibernation. 
+TRAVIS: You have a snake? 
+MARISHA: Yeah! He's my best friend. He's a garter snake. His name is Virgil. 
+TRAVIS: A garter snake? 
+MARISHA: Yeah! 
+TRAVIS: I'm not real familiar with snakes. Is that one of them big fuckers, or? 
+MARISHA: He's a little tinier. Kind of skinny. 
+TRAVIS: Okay. 
+MARISHA: He's black and he's got electric blue stripes down him. 
+TRAVIS: Just to set the tone for this also, I'm sure you all remember the structure of this ship, but our airlocks to the outside are on the opposite side of the science lab. 
+LIAM: And GM, not Mother, GM, as the repairman for the ship and knowing the general layout, where are the suits for exiting the ship located? 
+ASHLEY: So you would know. You guys all know this ship very well. Your suits and any materials, any things that you would need to do a space walk, if you needed to, would be in the cargo bay. 
+LIAM: Okay. 
+ASHLEY: It'd be in the cargo bay. 
+LIAM: Okay. Well, good, because that's where we need to go to get out. I'll volunteer. More than one would probably be wise, though. 
+TRAVIS: I'll open the door to the hallway. 
+ASHLEY: You make your way out of the hallway and-- You know the ship very well. You know there's a med bay across the way. If you go to the left, there's the galley, where, if you're hungry, if you want some coffee, it's all there. You've got your crew quarters and an arms locker in the galley. If you go up the ship, that takes you to the bridge where your main command center and your main computer system is. 
+TALIESIN: I'm going to head towards the galley and start brewing my good coffee. That's in my private quarters. 
+TRAVIS: Hold on a second, doc. Everything in this hallway look like it did 30 years ago? 
+ASHLEY: Everything looks the same. 
+TRAVIS: All right. 
+TALIESIN: Thank god! 
+LAURA: Sergeant. We ran into a meteor. Not a army. 
+TRAVIS: My apologies, Captain. My years of experience coming back to haunt me. 
+TALIESIN: Yeah, I'm going to need coffee if I'm going to be dealing with this right now, excuse me. 
+LAURA: If we make our way to the galley. 
+ASHLEY: ♪ Making my way ♪ 
+LAURA: ♪ Making our way to the galley ♪ (laughter) 
+LIAM: Now it's real. 
+LAURA: Yeah! Are the doors on the ship-- Do they have a windows on them or are they solid metal? 
+ASHLEY: Each of the rooms, the med bay, the science lab, they all do have little windows. Minus the engine room. But all of them have little windows, you can peek in and out of just to see who's in there. 
+TALIESIN: Are there port windows to the outside in any of the rooms other than the bridge? Or does the bridge even not have a port window? 
+ASHLEY: The bridge has a very large window that you can see. all of space. 
+TRAVIS: If the Doc is heading up to get his coffee, I'm going to make my way to the arms locker. 
+ASHLEY: Absolutely! 
+TRAVIS: You know. Just to run an inventory, if nothing else. 
+ASHLEY: Absolutely. You get into the arms locker once you get into the galley. And you find... 
+TRAVIS: Speak to me. Sing it. 
+ASHLEY: A combat shotgun. 
+TRAVIS: Oh! Yeah. Betsy. 
+ASHLEY: A flamethrower. 
+TRAVIS: Yep, Gertrude. 
+ASHLEY: A pulse rifle. 
+TRAVIS: Sally. 
+ASHLEY: A smart rifle. 
+TRAVIS: Rick. 
+MARISHA: What's a smart rifle? 
+ASHLEY: And a revolver. 
+TALIESIN: Rifle with a PhD. 
+MARISHA: Does it have an app? 
+TALIESIN: It's an app. 
+MARISHA: It's an app. 
+TALIESIN: It's just an app. 
+ASHLEY: Let me give you the numbers for these. Combat shotgun is 21 in your deck of cards. Flamethrower is 22. Your pulse rifle is 25. Your revolver, 26. And your smart rifle, 27. If you need me to say that again, I will. 
+TRAVIS: 21: Combat shotgun. 22: Flamethrower. 25: Pulse rifle. 27: Smart rifle. 26: Revolver. 
+LAURA: I'm going to rely on you, Sergeant, to dole out the weapons anybody needs. 
+TRAVIS: Well, I'm sorry, Captain, I thought there was just a asteroid impact on the exterior. 
+LAURA: There is. 
+LIAM: It seems extraneous to me. It's just, we're dealing with a hull breach, not with a mecha attack, right? So I'm going to head over to the cargo bay and start gearing up. 
+LAURA: All right. Can somebody run an ops? Can somebody get on a computer and find out if there's damage to any other area of the ship other than just the science lab that we don't know about? 
+TALIESIN: I've got my coffee, I'm heading to the bridge. 
+MARISHA: And I'm going to go over to the science lab and look through the window. 
+ASHLEY: You look through the window and-- 
+MARISHA: Virgil? (laughter) 
+LIAM: (tongue waggling) 
+MARISHA: Virgil! 
+ASHLEY: You can see, the motion sensor lights are not activated. So you can't see anything. But you do... You think, that you hear a clicking noise. 
+MARISHA: I don't have ears, so I put my ear hole up to the door. Do I hear anything better? 
+ASHLEY: The clicking gets a little louder. But, from what you can see, you can't quite see any damage, but mostly because the motion sensor lights are not activated. 
+LAURA: Oh, oh, oh! I'm going to ask Mother to turn off the lights in the galley. And hopefully we'll be able to see better into the science lab. 
+MARISHA: That's a good idea. 
+LAURA: Shine a flash-- does that work? You can't shine a flashlight through a glass. 
+TRAVIS: Sure, if you have a flashlight. 
+LAURA: Sure. Do we have flashlights? 
+ASHLEY: Not yet. 
+LAURA: I'm going to go into my crew quarters, my captain's quarters, and see if I got a flashlight in there. 
+ASHLEY: Yeah! 
+TRAVIS: Are you turning the lights off for a particular reason? 
+LAURA: So that we can see better into science lab. 
+MARISHA: The lights are reflecting on the glass. 
+TRAVIS: Okay. Are there any flashlights in the armory? 
+ASHLEY: You do-- there happens to be a flashlight in the pantry. 
+TRAVIS: Oh! 
+ASHLEY: Right in the galley, ready for you to use. 
+LAURA: Great. Go over and get that flashlight. (clicks) 
+ASHLEY: Mother turns off the lights at your request. And you shine your light into the window, and you can't see anything. Everything seems to be normal, but you do notice the breach in the hull. 
+LAURA: How big is it? 
+ASHLEY: It's small. Maybe... the size of a bagel. 
+LAURA: Eh, it's a bagel hole. No big. 
+LIAM: Unless there's any kind of threat or issue in the cargo bay, I'm gone in search of gear, toolkit, blowtorch. The things that I would need to jury rig a patch in the science lab. 
+ASHLEY: Most of the equipment that you have found, at least in the galley-- Oh wait, were you guys in the cargo bay? 
+LAURA: No, he was going to the cargo bay. 
+ASHLEY: You're going to the cargo bay. 
+LIAM: On my own, yeah. 
+ASHLEY: You get to the cargo bay, and you find a first aid kit. Which is number six on your index cards. 
+LIAM: I'll scoop that up, yeah. 
+ASHLEY: You find a hand welder. Number eight. 
+LIAM: Definitely scoop that. 
+ASHLEY: Long-range comms. 
+LAURA: Oh! 
+LIAM: Yep. 
+LAURA: That's clutch. 
+MARISHA: Yeah, it is. 
+ASHLEY: Number 12. 
+LIAM: Okay. 
+ASHLEY: Mag boots. Number 13. 
+LIAM: Also important. 
+ASHLEY: An oxygen tank. Number 16. 
+LAURA: Is there just one of each of these items? 
+ASHLEY: There's one of each. 
+LAURA: Okay. 
+ASHLEY: And you find two vac suits. Number 31. 
+LIAM: 31. 
+TRAVIS: Are the vac suits known as the Deathwalker's Ward? 
+ASHLEY: Yes, they are. Oh, you also find a hazard suit. Which is number 30. 
+LIAM: 30. Is there a dolly or a cart in here? I just bring it back in two handfuls, two armfuls. 
+ASHLEY: Great. 
+LIAM: But I keep the mag boots specifically. And the blowtorch, the hand welder. 
+ASHLEY: Great. 
+MARISHA: Ooh, my medi-kit! 
+LIAM: Here you go. 
+LAURA: Yeah! 
+LIAM: I hand it off. 
+LAURA: I'm going to head up to the bridge and make sure that we're clear of the asteroid field. 
+ASHLEY: Great. 
+TALIESIN: So-- 
+ASHLEY: You both have made your way to the bridge. As you walk in, you see the planet below you through this expansive window. It's beautiful. Swirls of blue and green, and you see a moon and it's whole. This planet, as far as you can tell, looks perfect. 
+LAURA: Wow. 
+LIAM: Just like home. 
+LAURA: I mean, I imagine that's what home looked like. I never saw anything that blue before. 
+LIAM: GM, question. Might've missed it in the beautiful opening narration. How long before we took off 30 years ago? Like, how long was the Moon broken and the Ark left? 
+ASHLEY: 10 years. 
+LIAM: So those of us on this ship lived on Earth before calamity happened? 
+ASHLEY: You did. You did. 
+LIAM: Yeah. 
+ASHLEY: It's a slow and awful process of the Earth slowly breaking down because of the separation of the Moon. 
+LAURA: I imagine even before that Moon broke apart, our Earth would be pretty fucked. 
+ASHLEY: Oh yeah. Oh yeah. It was starting to get bad. 
+LAURA: Yeah. 
+TRAVIS: Real bad. (laughter) 
+TALIESIN: Mother? 
+ASHLEY: "Yes?" 
+TALIESIN: Do we have footage from two minutes before the damage was taken in the science lab, either interior or exterior? 
+ASHLEY: "Let me check the files." 
+LIAM: I love her. 
+TRAVIS: I will protect her. 
+ASHLEY: You see, on some of the computers, which are here, all of these little purple-pink squares are your terminals, your computers. Anything you would need to access Mother, anything else. 
+TALIESIN: Okay. Can you move me to the terminal? That would be-- 
+LAURA: Oh yeah! 
+TALIESIN: It's a map! 
+ASHLEY: Oh, yeah, let me get you guys out. 
+LAURA: Oh yeah, I'm up at the terminal, too. I'm in the bridge. 
+ASHLEY: Okay. 
+TALIESIN: This is so cool! 
+MARISHA: I'm in the galley. 
+ASHLEY: You're in the galley. Forrest is in the galley as well? 
+LIAM: Yes, currently. Yeah. And I've given Dr. Frenno the med kit. 
+TRAVIS: I'm actually in my crew quarters because I got to get a fresh fucking stogie, this one's 30 years old. Been sitting in my mouth. 
+LIAM: That's an antique. 
+LAURA: The whole time in the cryo chamber. 
+MARISHA: You're just cryo chambered with a cigar in your mouth? 
+TRAVIS: Yeah! 
+LIAM: It's fused with the inside of his mouth wall. 
+TRAVIS: Technology is fucking amazing. 
+ASHLEY: You're in there, you're sitting on the toilet and, I mean, it's an amazing piece of machinery. 
+TRAVIS: The toilet is? 
+ASHLEY: Oh yeah. 
+TRAVIS: It's one of those ones that gives you a wash off afterwards? 
+ASHLEY: Oh yeah. Do you have a good book or a magazine to read while you're in there? 
+TRAVIS: I do, Armory Weekly. (laughter) All your highest calibers and longest shots. 
+TALIESIN: It hasn't been updated in 30 years, you do know it's a 30 year old copy. You might as well be in the dentist's office, at that point. 
+TRAVIS: Oh my god. 
+TALIESIN: A very well-armed dentist. 
+TRAVIS: The world's passed me by. 
+LIAM: But there were no new issues. 
+TALIESIN: That's fair. (laughs) 
+TRAVIS: Is anything happening as I sit on the toilet, since it's been 30 years, or is it just a bunch of toots like you're in elevation? (laughter) 
+ASHLEY: You're busting some toots, for sure. 
+TRAVIS: Toot! 
+ASHLEY: And they are real long ones. 
+TRAVIS: Yeah. 
+ASHLEY: You know, some that are just like, (soft exhale). (laughter) 
+LIAM: Those are freeze-dried farts. 
+ASHLEY: It's a lot of liquid, you had a lot of liquid in your body from the cryo tube, so it's a... It's a liquid-y shit. 
+TRAVIS: And the only tube we had in us was down the old flapper trap? 
+ASHLEY: Yeah. Yeah. 
+TRAVIS: Okay. 
+ASHLEY: Mother is able to pull up the video from the cameras that are on top of the ship. You do see a meteor shower, and it's beautiful. But... you only see one small little speck that seems to pass through the hull. 
+LAURA: The shield should have protected us from this. 
+TALIESIN: Yeah, that's weird. Also, in theory, there might still be matter from the meteor shower-- 
+TALIESIN and LAURA: -- in the science lab. 
+MARISHA: Most definitely. 
+LIAM: Mother? 
+ASHLEY: "Yes?" 
+LIAM: I know that we can't open the doors to the science lab now, that would endanger the rest of the ship. If suited up, can we open the stop gap measures between galley and science lab in the ventilation system to access it? 
+ASHLEY: "You could certainly try." 
+TRAVIS: (laughs) (snaps) 
+TALIESIN: Oof. 
+TRAVIS: And, GM, just a question. Because Mother is speaking, can we hear her in the respective parts of the ship that we are in, or only in the one where the question was asked? 
+ASHLEY: You can hear her throughout. 
+TRAVIS: Nice, and can we hear them ask the question, or just the response? 
+ASHLEY: Just the response. 
+TRAVIS: Copy that. 
+LIAM: I go up to find the Captain. Captain Glass? 
+LAURA: Yes? 
+LIAM: If we need to get into the science lab, we could close off. If a few of us got into suits, we could close off oxygen to the galley only, temporarily, go in through vents, open up ventilation to science lab, and enter that way. Or go around the outside. It might be easier to do it from the inside. 
+LAURA: Sure. I'm pretty sure Mother said the only way to fix the hole, though, is on the outside. 
+LIAM: I did help design the ship. 
+LAURA: That's true. 
+TRAVIS: Oh. 
+LAURA: I mean, if you think that we'll be able to get through the ventilation. I thought they were all sealed off out of safety measures. 
+LIAM: Well, they open and close. 
+TRAVIS: Since I heard Mother say, "You can certainly try." I finish my business and I'll make my way up to the bridge to see what the fuck she's responding to. 
+LAURA: How many oxygen suits do we have on the ship? 
+ASHLEY: You have the two vac suits, and two oxygen tanks. 
+LAURA: All right. So two of us could go into the science lab and everybody else would have to stay separated. 
+LIAM: Exiting the galley and the science lab. 
+LAURA: Yeah. 
+LIAM: Galley for the moment, but it's your call. It will absolutely work to go around, just in the interest of time I thought, maybe. 
+TALIESIN: So, you want to use the vents like a decompression chamber, is that it? 
+LIAM: Yeah, between each chamber on the ship, there is an iris that can seal and open and stop oxygen flow. So we could in theory, have a couple of us, one or two of us suit up, wait in the galley, close off air to every other chamber of the ship, enter. 
+TALIESIN: I feel like I should point out, although this is not my specialty here, is that the galley is an awful lot of oxygen. So if this doesn't go well, we are losing a lot of environment. 
+TRAVIS: I'm going to let you guys figure it out. I'm just going to do a little perimeter check and I'll leave the bridge and start working in a clockwise fashion down through the other rooms, just to make sure Mother hasn't missed something. Since I can't contribute to this discussion much. 
+LAURA: I tend to agree with Dr. Wiseman on this. I don't think it's worth the risk of losing the amount of oxygen; we're already at 60%. 
+LIAM: Dr. Wiser, yeah, okay. 
+LAURA: How-- Yeah, yeah, yeah, yeah. How long will it take to get from one side of the ship to the other on the hull? 
+ASHLEY: From the cargo bay. 
+LAURA: Mm-hmm. 
+ASHLEY: Exiting the airlock. It's going to take about 30 minutes. 
+TALIESIN: Oof. That is a lot of time. 
+ASHLEY: 30 minutes there, however long it takes to fix it, and 30 minutes back. 
+LAURA: 30 minutes, oh god. I think it's worth the risk. 
+TALIESIN: Mother? 
+LAURA: It's a lot of oxygen to lose. 
+ASHLEY: "Yes?" 
+TALIESIN: Would it be easier to patch the current hull damage if we did have access to the science lab? Theoretically? 
+ASHLEY: "I believe it would be easier to fix it from the outside, so we would not lose any more oxygen on the interior. We are currently at 45%." 
+TRAVIS: Oh shit, we got to go. 
+LAURA: We got to go. 
+TALIESIN: If you can download a manual or otherwise for this procedure that we can give to Mr. Forrest, that would be great. 
+ASHLEY: "Coming your way." 
+MARISHA: While they're doing that, and having this discussion, I'm in the galley and I'm going to check this computer console, and see if there-- I'm going to scan for any other life forms on the ship. 
+ASHLEY: Great. 
+TALIESIN: Your snake has run away. 
+LAURA: Let's get you suited up. 
+MARISHA: Virgil? (tearfully) Virgil! 
+ASHLEY: You are scanning on your terminal. And you know the makeup of every life form that is aboard. But there's... something else. You, being a biologist, know that it almost looks as if this is an endoparasite feeding off of the oxygen. 
+TRAVIS: All right, Doc, I'm going to make my way to med bay, you just let me know if you need anything. 
+MARISHA: Wait, wait, wait. Sergeant? I think your gut instinct, as they say, might've been a little bit more correct. 
+TRAVIS: Mine? That's just from gutting all the chaw for years. 
+MARISHA: Oh. 
+TRAVIS: Gives you iron stomach. 
+MARISHA: No, meaning, I think you were right that there might be something larger at play here. 
+TRAVIS: What do you mean? 
+MARISHA: An army, Sergeant. An army of tiny little parasites! (laughs) 
+TRAVIS: I'm going to need you to elaborate a little bit. Keep it simple, will you? 
+MARISHA: Okay. Let's go talk to the others real quick, here, come, just come, come with me. So, I-- 
+TRAVIS: I go grab, I grab Betsy, combat shotgun. 
+ASHLEY: Great. 
+LAURA: Ooh, yeah. I think, by this point, Forrest and I would've made our way to the galley because we're getting him suited up. 
+TRAVIS: Oh, so you're making your way to us. 
+MARISHA: Oh! 
+LIAM: We're all converging. 
+TALIESIN: I'm starting a full systems diagnostic. 
+MARISHA: Great, okay. 
+TALIESIN: I can hear, though. 
+MARISHA: So. (laughs) I kind of had a little bit of an idea after you all were like, "Oh, maybe the rock, the meteor is still inside the lab." And I was like, "Ooh, that could be a really great opportunity to test for alien lifeforms and astrobiology, that might've hitched a ride on it." Anyway, and I was also curious because it seems like the oxygen level is depleting a lot-- 
+LAURA: Cut to the chase. 
+TRAVIS: She thinks there's an army of parasites on the ship. 
+MARISHA: I think there is something else on the ship. I don't think, I kind of know, pretty, like, 98% confirmed, that there is an oxygen-absorbing parasite on board. They probably feed off of the oxygen and turn it into something toxic, like carbon monoxide or something like that. 
+LAURA: Can I go over to the terminal and see if there's any way to get the security cameras active in the science lab? 
+ASHLEY: You turn on the security cameras in the science lab, and again, it's dark in there. It's dark in there. 
+MARISHA: Dr. Wiser? 
+LAURA: We got to get it fixed. 
+TALIESIN: Yeah? 
+MARISHA: Do you think you can override the lights and maybe get some lights on? Is that something you can do? 
+TALIESIN: If they're broken, they're broken, but let me see what I can do. 
+LIAM: I think I would be suited up by now. 
+LAURA: What would that be? Would that be mechanical repair? 
+TALIESIN: That would be-- I'm trying to do it with software. I'm at the terminal. 
+TRAVIS: Mother? 
+ASHLEY: So. 
+TRAVIS: How many of these space suits do we have available? 
+LAURA: We have two of them. 
+TRAVIS: Just two? 
+TALIESIN: And a bio suit. 
+ASHLEY: Okay, make a-- an intellect, mechanical repair roll. 
+TALIESIN: Intellect, mechanical repair? I succeed. 
+ASHLEY: The lights are able to turn on in the science lab. 
+TALIESIN: (chuckles) We're back up. 
+ASHLEY: You see slight movement, but mostly that's because there's-- there's a hole in the hull. So there's some things that are flying around. You do notice that Virgil is not in his cage anymore. 
+MARISHA: (whimpers) Virgil? 
+LAURA: Can you zoom in on the hull breach? 
+ASHLEY: You zoom in on the hull breach and... You can see next to the hole that there is a black ichor that is sort of dripping from the ceiling. 
+LAURA: That's not normal. 
+TALIESIN: Huh. 
+MARISHA: Did you say it was an endomorphic oxygen parasite? Is that what you said? 
+ASHLEY: An endoparasite. 
+MARISHA: An endoparasite. 
+LAURA: What's an endoparasite? 
+MARISHA: Well, you see, my concern is with the rate that it is absorbing oxygen. It wouldn't be absorbing oxygen that fast, unless it was metabolizing it into energy or, you know, carbon-based material, meaning I think it's growing very fast. 
+LAURA: Can we kill it? 
+TRAVIS: I walk swiftly to the arms locker and I grab the flamethrower. 
+LAURA: I'd like a weapon too, Sergeant. 
+TRAVIS: Oh, I read your endoc file, I know this is your favorite, Captain, it's for you. 
+TALIESIN: I'll take something, if you have something. 
+TRAVIS: A weapon? 
+TALIESIN: Yes. A weapon. 
+TRAVIS: Can you shoot? 
+TALIESIN: Somewhat. Does it matter? 
+TRAVIS: Yeah. We're on a pressurized vehicle in the middle of fucking space, I'd say it matters. 
+TALIESIN: Why did they put all these guns here if it's a pressure problem? 
+TRAVIS: Because they're meant for people like me, Doc. Don't worry, I'll give you something. 
+LAURA: Let's get you suited up. Are you suited up? 
+LIAM: Oh, I'm suited up by now, and regardless, we have an oxygen problem, so while you guys deal with inside, I should just start making my way-- 
+TRAVIS: ♪ Makin' my way! ♪ 
+LIAM: -- out there. 
+LAURA: Let's get him a weapon. Can he shoot a weapon in space? Can you shoot rifles in space? 
+ASHLEY: So. 
+MARISHA: (laughs) These are energy rounds. They are-- The pump action. It doesn't have an explosive ignitive. They're magnets to project through. It's pulse energy. It gives out an efficient rounding without the kickback. These are kinetic rounds. So you're not going to pierce through the ship. 
+TRAVIS: Oh good. They made them scientist-friendly. 
+ASHLEY: They made them scientist-friendly. 
+LIAM: That's what I should take. 
+TRAVIS: Well, here's the other thing about the combat shotgun. If I'm reading this correctly, it beeps when non-friendlies are within 30 feet. 
+LAURA: Ooh! (laughs) I love it! We got to get you on the outside, let's go, let's go, let's go. 
+LIAM: I give the captain-- Is there enough long-range comms for the entire team, or just for? 
+ASHLEY: Yes. 
+LIAM: Okay, so I hand that for everybody. And I put on the boots. 
+LAURA: You need any assistance? 
+LIAM: Well, we don't know what's going on. I think probably, in case something goes wrong, which it won't, but in case something goes wrong, it's better that you have one inside. And this is what I'm here for. 
+LAURA: All right. 
+LIAM: Head to the cargo bay to start operating an airlock and go out into space. 
+ASHLEY: Great. Are any of you going to assist in helping him exit the airlock? 
+LAURA: Yeah. I'm going to help. 
+ASHLEY: Okay. 
+TRAVIS: Excuse me? 
+LAURA: I'm going to help. 
+TRAVIS: You're the captain of this ship. 
+LAURA: Yeah. 
+TRAVIS: You're going outside? 
+LAURA: No, I'm helping him get outside. I'm staying in here. 
+TRAVIS: Fair enough. 
+MARISHA: Do you need anyone else out there with you? 
+LIAM: I'd rather you guys stay safe in the ship. 
+MARISHA: Okay! (laughter) 
+TRAVIS: Doc. I got you this. You, Doc. 
+TALIESIN: Hmm? 
+TRAVIS: Yeah. 
+TALIESIN: Oh! 
+TRAVIS: This little revolver's called Foster. Right? You know how to work a revolver? 
+TALIESIN: I do. It's got a trigger and a little thing. 
+TRAVIS: That's good enough for me. Here you go. 
+TALIESIN: What number? 
+TRAVIS: It is number 26. Eight shots per clip. If you knock it down, whatever it is, knock it prone. 
+TALIESIN: Thank you. 
+LIAM: What's the next thing? Wasn't there a smart rifle? 
+TRAVIS: There is, a smart rifle, it holds 12 shots per clip, night and thermal vision. Subtracts a negative one to armor saves to the target. 
+LIAM: What number was it? 
+TRAVIS: 27. 
+LIAM: I don't know how any of these work, but I'm going to need-- 
+TRAVIS: I'm just worried, Forrest, that you might have your hands full with repairing equipment, unless the suit allows you to carry multiple. 
+LIAM: I mean, I can Velcro it. 
+ASHLEY: You can put it on there. 
+LIAM: And bring it along. 
+TRAVIS: We probably have magnetic locks, we got Velcro in 3051? 
+ASHLEY: Yeah. It's the future. 
+TRAVIS: Yeah! (laughs) 
+LAURA: Velcro's important. 
+TRAVIS: Hook and loop, baby, can't beat it. 
+LIAM: This is Nostromo tech, yeah. There's janky keyboards and Velcro. 
+ASHLEY: Yeah! 
+MARISHA: Yes. We're in the Nord-verse! (laughter) 
+ASHLEY: This is for sure the Nord-verse. 
+LIAM: Yeah. 
+TRAVIS: The Moon didn't shatter. We had our Nexus event, the Nord-verse. 
+LAURA: Let's get him outside, we're losing oxygen fast. 
+ASHLEY: "Might I make a suggestion?" 
+LAURA: Yes, Mother. 
+ASHLEY: "I do not recommend going on a spacewalk alone. If you end up getting detached from the ship, who will be able to bring you back?" 
+TRAVIS: I'll go. 
+LAURA: What? 
+TRAVIS: Yeah, why not? What the fuck am I going to do in here, math? 
+LAURA: All right. 
+TRAVIS: What're you laughing at? 
+MARISHA: Sorry. Just, you doing math. (laughs) 
+TRAVIS: That was pretty funny. 
+LIAM: I hand Dr. Frenno the smart rifle, then. If you're coming. 
+TRAVIS: Yep. 
+LIAM: I don't need this. 
+MARISHA: (stammering) Oh. 
+LIAM: I'd prefer to have my hands free. 
+LAURA: Were there other weapons? 
+TRAVIS: Yeah, the arms locker is open. So the remaining ones out there-- 
+LAURA: Were number-- 
+TRAVIS: Pulse rifle, number 25 is available. 
+LAURA: I'll take that. 
+TRAVIS: Smart rifle, the good Doc Frock has. Number 27. And the flamethrower is there also, number 22. 
+LAURA: I got the flamethrower. 
+LIAM: Ashley, this is the best! 
+TRAVIS: Just be advised, the lower the oxygen is in the place-- 
+ASHLEY: Oh good! 
+TALIESIN: Oh, this is great. I'm terrified. 
+TRAVIS: This is a mini-series, right? 
+ASHLEY: Yeah. 
+TRAVIS: Okay. 
+ASHLEY: A one episode mini-series. Never going to happen again. 
+TRAVIS: Holy shit. 
+ASHLEY: Are we ready to do a spacewalk? 
+TRAVIS: Yep. 
+LIAM: Yes. 
+ASHLEY: Okay. 
+LAURA: Oh shit! 
+TRAVIS: Oh, new map! New map! 
+LAURA: You can go on a spacewalk! I'm so jealous. 
+LIAM: Captain can't risk her life. 
+LAURA: Captain can't go to space! 
+ASHLEY: This episode is sponsored by-- 
+LIAM: Captain gotta captain! 
+ALL: Whoa! 
+LIAM, LAURA, and ASHLEY: (excited noises) 
+TRAVIS: Dude! Dude! 
+MARISHA: So cute! 
+TALIESIN: Wow. 
+LIAM: Ah! 
+ASHLEY: So. 
+TRAVIS: Is the bridge on your right? 
+ASHLEY: Yeah, so the bridge is up here. Obviously, this is a little bit different. 
+TRAVIS: Okay. 
+ASHLEY: Let me get the right characters. We got Sergeant Garrett. We got Forrest. So. This is the airlock. You're going to be exiting from here. The science lab is over here. From what you know, the damage is around this area. I'm going to need you both-- You're both suited up. On the inside of the airlock, you tether yourselves together. First out of the hatch, who's taking the lead? 
+LIAM: I have magnetic boots on. So maybe I'll do that. 
+LAURA: You both have magnetic boots, or is it just Forrest? 
+ASHLEY: You both have-- Both vac suits are equipped with mag boots. 
+LIAM: Okay, it's a separate item, but great, that's great. 
+ASHLEY: Just extra in case, you know, who knows? 
+TRAVIS: I mean, it's your ship, Forrest. 
+LAURA: Hey, the future of mankind depends on you two. 
+LIAM: Yeah. 
+LAURA: No pressure. Shut the door. 
+LIAM: Best of the best. (hisses) 
+ASHLEY: First out of the hatch connects their cable to the outside of the hull before anchoring your partner's tether. The second astronaut to exit disconnects from the inside of the hull, trusting that your partner has connected your line. You're attached to the Nautilus with an 85-foot tether of braided steel as well as a 35-foot tether connected between the two of you. 
+LAURA: (laughs) Oh my god. 
+TRAVIS: Holy-- 
+LAURA: This is where we lose both crew members. (laughs) 
+TRAVIS: Shut up! Positive thinking! 
+LAURA: Sorry. 
+ASHLEY: Could happen. I don't fucking know! (laughter) 
+ASHLEY: So although you're weightless in space, the suit is still extremely cumbersome and heavy at 280 pounds. 
+TRAVIS: No problem. 
+LIAM: Bit of a problem. 
+ASHLEY: Once outside, you both take a moment, floating and seeing this planet. 
+TRAVIS: (static crackling) How we doing, Forrest? 
+LIAM: Well, I've only gone three feet out. Ever done one of these before? 
+TRAVIS: (static crackling) Only in sim. 
+LIAM: It's my third. Keep up. 
+ASHLEY: Okay. 
+TRAVIS: I'm sticking with the (static crackling). 
+MARISHA: I like it. 
+LIAM: Why are you farting into the mic? 
+ASHLEY: As you make your way across, mag boots connected, it's going to take you 30 minutes to get to where you think the point of damage is. So I need you both to make your first roll. Make a zero-G roll. Which is-- 
+LAURA: See? This is where people die! 
+LIAM: You're the leader. 
+TRAVIS: Well, you're the captain, dummy. 
+LAURA: Sometimes the captain's got to do the dirty work. 
+TRAVIS: Yeah, when shit's real bad. 
+ASHLEY: Who knows? Maybe you'll make it. 
+TRAVIS: Critical success. One. 
+LAURA: Woof! 
+MARISHA: Yes! 
+LIAM: A success. 
+ASHLEY: Oh my goodness. You guys-- Clearly you've done this before, and this is your third spacewalk. You are calm. You are cool, you are collected. You're moving slow, but you make it over there. 
+LAURA: (static) How's it looking, boys? 
+LIAM: Are we all farting? (static) 
+LAURA: (static) What the fuck? 
+TRAVIS: (static) Mother, do we also have you in our headsets right now? 
+ASHLEY: "I am with you at all times." 
+TRAVIS: God, she's got a great voice. 
+TALIESIN: Do we have visuals from the bridge? 
+ASHLEY: You do. Back inside, where would you all like to view this? 
+LAURA: We can watch what they're doing through their head cams? I'd want to watch from the bridge. 
+ASHLEY: Okay. Oh yeah. This is a totally different map. 
+LAURA: We're there. 
+TALIESIN: We're both at the bridge. 
+LAURA: I imagine we're-- 
+ASHLEY: You guys are hanging out, you're watching on the bridge. 
+MARISHA: I'll stay in the galley and I'll turn to the captain, or before the captain goes to the bridge. How do-- How do you-- How do you turn the safety off of? 
+LAURA: Oh my god. I don't know if I want to turn the safety off, but-- 
+MARISHA: Just in case, just show me how. 
+LAURA: I flick the safety. It's this button right here. 
+MARISHA: Okay. 
+LAURA: See when it's red? 
+MARISHA: Yeah. 
+LAURA: That means it's active. 
+MARISHA: Got it. 
+LAURA: All right. 
+MARISHA: Okay. 
+LAURA: Put the strap over shoulder. How does-- This is not quite made for-- yeah. 
+MARISHA: It's so heavy! 
+LAURA: Your arms are so flimsy. 
+MARISHA: Yeah! 
+LAURA: Don't point the nozzle at anyone except for the bad guy. Nope. 
+MARISHA: Okay. 
+LAURA: Yeah. 
+MARISHA: Ooh, it's got a screen! 
+LAURA: Don't put your finger on the trigger unless you're ready to kill something. 
+MARISHA: It's got a little-- Do you see this little LCD screen? 
+LAURA: Really, I might just take this away from you. 
+MARISHA: No-- 
+LAURA: I'm going to hit the button and turn the safety on again, just-- 
+MARISHA: Okay. 
+LAURA: Okay. I'm going to head to the bridge. 
+LIAM: Captain, we are at hull breach. Waiting on your order. 
+LAURA: (static) Fix it. (static) 
+TALIESIN: We're watching, Forrest. Go ahead. (static) 
+ASHLEY: You have your toolkit. And once you arrive at the damage, it does look like it was hit by a meteor. But it is a fairly small entry wound. You can see straight into the science lab, but the good news is, it does look fixable. But you do notice there is a strange, shiny black liquid. It almost looks like melted obsidian with small pieces of metallic stibnite. Striated and sharp. 
+LIAM: Do I know anything about its molecular structure or biology? 
+ASHLEY: Roll a biology check. 
+LAURA: And we're all seeing this through their head cams? 
+ASHLEY: You are. 
+LIAM: Now, question about our gameplay mechanics. 
+ASHLEY: Yes. 
+LIAM: If we're not trained, it just relies on the base stat like intellect, empathy, speed, or strength? 
+ASHLEY: Yes, so if you just have your trained stat, you would add the plus one to your intellect. 
+LIAM: I rolled a nine, so. 
+MARISHA: Oof. 
+ASHLEY: Fail. 
+LIAM: My intellect is quite high, but-- 
+LAURA: (buzzes) Dr. Nomen, have you ever seen anything like that black ooze before? 
+MARISHA: Have I ever seen anything like that black ooze before? 
+ASHLEY: You have not. 
+MARISHA: No. It'd actually be really great-- Hey, Forrest? 
+LIAM: Mm-hmm? 
+MARISHA: Hey, can you-- do you have-- Can you collect a sample? Are you able to collect a sample? 
+LIAM: Maybe. I take one tool and flip it around and use the handle to try to smear a little bit away. Gingerly, at first, to see if there's any adverse effect. 
+MARISHA: Careful, I think it's alive! 
+ASHLEY: As you do, it does feel sticky as you start to pull it away. And you can't tell if it's just the zero gravity, but it starts to move. 
+TRAVIS: Forrest. 
+LIAM: In a random pattern or with? 
+ASHLEY: A random pattern. 
+LIAM: No intention. Visible intention. 
+ASHLEY: As far as you can tell, it's just kind of floating, but it does seem to be moving with intention. It starts to come towards the light on your head cam. 
+LAURA: What the fuck is that? 
+LIAM: I hold it as far away as I can from my helmet. 
+MARISHA: Turn your light off. Is it attracted to the light? 
+LIAM: No, it wouldn't be on this. Maybe it would be. 
+ASHLEY: You turn your light off and because it's so dark, you can't tell if it's moving towards you or not. 
+TRAVIS: Oh yeah, we're in the middle of space. 
+TALIESIN: I turn the lights on in the science lab to try and-- 
+LIAM: I flick the tool out into zero-G, and give it some momentum away from the ship. 
+ASHLEY: As it starts to float away, the tool that you used to pick it up, it starts to close around it and snap it in pieces. 
+TRAVIS: Oh shit! 
+LAURA: That's not good. 
+ASHLEY: And drifts away. You can't see it anymore. 
+MARISHA: Huh. 
+TRAVIS: I grab the tether between Forrest and I and I pull myself so I'm getting closer to him and I'll pull up Betsy and I want to cock it and look down at the meter and see what it's indicating. 
+LAURA: Ooh, is it beeping? You mean is it beeping? 
+ASHLEY: It does start beeping. 
+LAURA: (squeals) 
+TRAVIS: Does it just beep, or does it give me a readout? 
+ASHLEY: It doesn't give you a readout. But as you're getting closer to the science lab, it starts to quicken. 
+TRAVIS: Well, whatever's in there, old Betsy doesn't like it. 
+LIAM: We can't stop it from getting in because it's in. Let's just weld this shut. And I have a couple of steel plates that I grabbed from the cargo bay. 
+LAURA: See what your welding flame does to the ooze, Forrest. 
+LIAM: Yes, Captain. Before placing down some of these larger than bagel-sized steel plates, I just start to burn the edge where some of the-- ze black goo is. 
+LAURA: Oh no. 
+ASHLEY: Okay. 
+LIAM: Captain's orders. 
+TRAVIS: Shit. Oh shit. 
+ASHLEY: I'm going to need you-- 
+TALIESIN: No! 
+ASHLEY: -- to make a body save. 
+MARISHA: Oh. 
+LIAM: Success. 
+MARISHA: Oh boy. 
+LIAM: Two. 
+ASHLEY: Okay. The welder, as the laser shoots out, and touches this black ichor, it starts to hiss and separate from the laser. It's upset. It splits and it starts to grow. 
+LAURA: Oh. 
+MARISHA: Huh. 
+LIAM: I shut off immediately and slam one of the plates down, covering the diameter of the breach. 
+ASHLEY: I'm going to need you to make another roll to see if you succeed in sealing the damage. 
+LAURA: How's your stress level? 
+LIAM: Is this body or is this-- 
+ASHLEY: You are going to make a mechanical repair. 
+LIAM: Mechanical repair. Success. 
+ASHLEY: You fix the damage. 
+LIAM: (whooshing welding sound) 
+ASHLEY: And you seal the hull. 
+TRAVIS: Sealed? 
+ASHLEY: Sealed. 
+MARISHA: Mother? 
+ASHLEY: "Yes?" 
+MARISHA: Are our oxygen levels still depleting? 
+ASHLEY: "They are currently at 45% and staying." 
+MARISHA: Oh! That's good. 
+TALIESIN: Can we reboot life support to increase the oxygen in the bridge and galley and engine room and otherwise? 
+MARISHA: Actually, hang on, Dr. Wiser. Whatever this parasite is, it is feeding off of the oxygen. We don't want to fuel it even more. 
+LAURA: Can you cut off oxygen to the science lab completely? 
+ASHLEY: "Would you like me to do that?" 
+LAURA: I would love that. 
+ASHLEY: "Done." 
+MARISHA: Looking at my smart rifle, and the little LCD screen, it has night and thermal vision. So I'm going to go back to the galley and I'm just going to hold up the rifle towards the science lab and first click it to night vision and look through the little window. 
+TRAVIS: Yep. 
+LIAM: Dope. Yep. 
+ASHLEY: You're peeking through the window. And you do notice a heat signature. 
+MARISHA: Is it localized or centralized in one place? 
+ASHLEY: It doesn't have a shape. But as you're next to the window, a bit of this shiny black liquid slams onto the glass. 
+MARISHA: (yelps) 
+ASHLEY: It's double paned. But the glass on the inside starts to spider. 
+TRAVIS: Oh. 
+LAURA: Uh-uh. 
+MARISHA: I click to thermal vision real quick and back up and look at the whole room through the door. 
+ASHLEY: You look at the whole room and you start to see whatever this liquid is, it is attached to a body that seems to start taking shape. That's the only way you know how to describe it. 
+MARISHA: Okay. 
+LAURA: Mother, have you cut off oxygen to the science lab? 
+ASHLEY: "I have cut off oxygen. But somehow... we are still depleting oxygen. We are currently at 30%." 
+TRAVIS: Oh shit! 
+TALIESIN: Mother, check life support systems, and if anything is moving on any of the security cameras, any movement at all, we want an immediate update. Please. 
+MARISHA: Captain? 
+LAURA: Yes? 
+MARISHA: Real problem, big problem. 
+LAURA: I go over to-- yes? 
+MARISHA: I just show her my thermal cam. 
+LAURA: And I'm sure I can-- Can I see the ichor on the glass? 
+ASHLEY: You can absolutely see it. 
+LAURA: But that's breaking the glass. That's going to bust through. 
+MARISHA: I think so! 
+TRAVIS: We start making our way. 
+LIAM: Captain, Gunnery Sergeant Garrett and I are going to head back. See you in a half hour. 
+LAURA: See if you can make it faster. 
+TRAVIS: As we're moving-- 
+LIAM: Solid 28. 
+TRAVIS: -- can we check the hull from the outside for just anything else as we're moving, just scanning to see if there's something that Mother missed? 
+LAURA: Actually, I'm going to let both of them know that we're still losing oxygen quickly. So I think there's other breaches. 
+ASHLEY: You're scanning, and I would like you to make a perception check, which is your intelligence. 
+LIAM: Intelligence. 
+TRAVIS: You don't have to come at me like that, okay? 
+ASHLEY: (laughs) Your perception, if you have it. 
+TRAVIS: Critical success. 
+LAURA: Ooh! 
+TALIESIN: Whoa. 
+TRAVIS: Another one. 
+ASHLEY: You are scanning the top of the ship as a Marine does. You know what to do in this situation. 
+TRAVIS: Quadrant. Slicing the pie. 
+ASHLEY: Mm-hmm. It is dark out there. But as far as you can tell, there is nothing else out there. I'm going to need you guys both to roll another zero-G check to see if you make it back safely to the air lock. 
+LIAM: Captain. We're not seeing anything out here, but Dr. Frenno mentioned that... Stuff? Perhaps eating oxygen? Fail. 
+TALIESIN: There's no possible-- 
+TRAVIS: I swear, I swear to god. 
+LIAM: Critical success? 
+TRAVIS: Again. 
+ASHLEY: You rolled a fail? 
+LIAM: Yeah. I do have magnet boots. 
+ASHLEY: You start to feel cold water at the back of your neck. And as you know, water is constantly flowing through your suit as a cooling system. Your ventilation system has somehow sprung a leak. And since you're in zero gravity, the water starts to float around your eyes, your ears, and your nostrils. And a blob of water is attached to your face and you take a point of stress. 
+LAURA: Oh! You got a lot of stress going on, Forrest. 
+TALIESIN: That's uncomfortable. 
+LAURA: Makes me uncomfortable. 
+LIAM: You can call me Forry. 
+ASHLEY: As you start making your way back-- 
+TRAVIS: ♪ Makin' my way ♪ 
+ASHLEY: Because you can't see, you trip on a power line. And your mag boots disconnect and you start drifting off into space. 
+LIAM: Sergeant? 
+TRAVIS: What? 
+LIAM: Help. 
+TRAVIS: What? Oh, oh shit! 
+ASHLEY: The tether between you snaps. 
+MARISHA: Ooh, shit! 
+LIAM: Snaps, breaks? 
+ASHLEY: No, you're still connected. 
+MARISHA: Tight, okay, okay. 
+LIAM: Snaps taut. 
+ASHLEY: Snaps taut. That would be an important word to add after snaps! 
+LAURA: I knew where you were at. 
+ASHLEY: Thank you. 
+TRAVIS: I look down, just from the action. I instinctually try and grab anything on the hull, even though we're tethered and I have mag boots and everything. Is there anything I can grab onto just in case these fucking boots fail? 
+ASHLEY: Make an athletics strength check. 
+TRAVIS: Okay, it's another one. 
+LIAM: I want his dice. 
+MARISHA: What?! 
+TRAVIS: I think that's-- 
+ASHLEY: That's a critical success. 
+TRAVIS: -- five in a row. 
+ASHLEY: You are a fucking boss. 
+MARISHA: Yeah! 
+ASHLEY: As he's floating away, you wrap your arm around the tether and you are able to slowly bring him back to the ship. 
+TRAVIS: (grunts) Well, it's not that hard, it's in space. 
+ASHLEY: But as you bring him closer, you start to notice the water in his visor. 
+TRAVIS: Oh! You going for a swim there, Forrest? 
+LIAM: I see a hundred of you. 
+TRAVIS: Hey buddy. I need you to just take a big breath, all right? 
+LIAM: It's just light refraction, thank you. 
+TRAVIS: I pull him in. I try and get his boots down, and I look in his visor. How much water is in his helmet? 
+ASHLEY: It is currently covering his nostrils. 
+LAURA: Oh my god. 
+ASHLEY: And his eyes, and his ears. 
+TRAVIS: I'm going to ask you a real simple question: Is there any quick fix to this that I can help with on the exterior, or do we need to just get you inside? 
+LIAM: I think we just need to be quick. 
+TRAVIS: All right. 
+ASHLEY: Because you rolled so well, you are able to get to the airlock. You spin the door, spin the whatever the fuck that thing's called. 
+TRAVIS: Hatch. 
+ASHLEY: Yeah. 
+TRAVIS: (spinning) The wheel. 
+ASHLEY: You spin it, opens. 
+LAURA: I'm going to be on the other side, waiting for them to come in. 
+TRAVIS: You first. 
+ASHLEY: We're done with this map. 
+TRAVIS: I love that map! 
+ASHLEY: It's cool, right? 
+TRAVIS: It's real cool! 
+ASHLEY: I saw this map and I was like, "That needs to fit somewhere." 
+TRAVIS: Yep. 
+ASHLEY: Okay. 
+MARISHA: It's rad. 
+TRAVIS: Ash, this is real fun. 
+ASHLEY: Oh good! 
+LAURA: The minute they're coming in-- 
+ASHLEY: I'm so glad! 
+LAURA: -- I'm just going to say to the gunnery sergeant: We got a problem. 
+MARISHA: Uh-huh. 
+LAURA: And yank him in. 
+TRAVIS: All right. 
+ASHLEY: So. They still need to depressurize, and it's going to take three minutes. 
+TRAVIS: Holy shit. 
+MARISHA: Dr. Wiser. 
+TALIESIN: Yes? 
+MARISHA: How much control do you have over ventilation systems and the airflow, and then, you know, between the oxygen, nitrogen, carbon monoxide. 
+TALIESIN: I have a lot of control, but everything is apparently fine. Hold on. 
+MARISHA: What do you mean? 
+TALIESIN: Is there anything in that closet on the bridge? 
+ASHLEY: Yes. In the bridge. 
+TRAVIS: Oh. 
+ASHLEY: You find. 
+TRAVIS: It's a closet? Cool. 
+ASHLEY: There is a closet. I should have been more specific about what the extra squares were. 
+TRAVIS: Could've been a pooper, you don't know. 
+LAURA: A pooper on the bridge. (laughs) 
+LIAM: Under these circumstances? Sure. 
+TRAVIS: Of all the poopers to use! 
+LAURA: That's the stress pooper. 
+ASHLEY: In the bridge, you find a crowbar. Number three. You find a first aid kit. Number six. You find a lockpick set. Number 11. And you find more short range comms, number 19. 
+TALIESIN: I'll hand one of the short range comms to Dr. Nomen, and I... Something's not working. I'm going to head to life support, see what is actually fucking going on. 
+MARISHA: Um, um, um! 
+LAURA: So they're in the depressurization chamber? 
+ASHLEY: They are in the chamber here. 
+TRAVIS: (imitates Dr. Nomen's panic) 
+LAURA: Forrest, are there any other welders on board? 
+LIAM: Captain, I don't have much oxygen. 
+LAURA: Oh, you got a lot of water in your helmet. 
+ASHLEY: I need you to make a composure save, Forrest. 
+TRAVIS: Oh shit. 
+LIAM: Fail. 
+ASHLEY: You... are starting... to panic. 
+MARISHA: Oh shit. Oh shit. 
+ASHLEY: You know that if you try to take off his helmet early, before the airlock is pressurized, you could blow his eardrums, at the very least. 
+TRAVIS: Okay, three minutes. 
+LAURA: Can I see that he's starting to panic? 
+ASHLEY: You can. 
+LIAM: Captain. 
+LAURA: Yes? 
+LIAM: Sergeant Garrett. I used to be a swimmer in Cornell. I'm going to stop talking now. I'm going to hold my breath. 
+LAURA: I'm going to-- I think I saw, once per day, I can talk down one of my crew. 
+ASHLEY: You absolutely can. 
+LAURA: So I'm going to take that moment and just say: Depressurization is almost finished. You can hold your breath for more than two minutes. Is that normal? 
+TRAVIS: For a swimmer from Cornell? Yeah. 
+LAURA: There's nothing to fear. You're going to make it through this. Keep looking at me. 
+ASHLEY: As she's talking you down, you're looking at her, trying to slow your heart rate, and you relieve a point of stress. As the three minutes are up, the airlock has been... pressurized, depressurized, whichever one. 
+TRAVIS: Pressurized. 
+ASHLEY: Pressurized. You're good to go. 
+LAURA: Open the door. 
+LIAM: (air releasing) Water spills out of the helmet. It's okay. It's okay. 
+LAURA: Pat his shoulder. You did good. 
+LIAM: Thank you. 
+LAURA: I need you. 
+TRAVIS: Yep. 
+LAURA: I need you. Let's go. 
+TRAVIS: Hold on, wait. 
+MARISHA: I'm with you. 
+TALIESIN: Mm-hmm. 
+LAURA: I get them both over to the science lab door where the glass is continuing to splinter, I'm assuming. 
+ASHLEY: Yes. 
+LAURA: We need to get something welded over this glass, because that thing is breaking through. 
+ASHLEY: Dr. Wiser. You are in the life support room. As you're accessing the terminal, you see that there does seem to be something feeding off of the oxygen. 
+TALIESIN: Can I pinpoint the location? 
+ASHLEY: Roll a computer check. 
+TALIESIN: Yes, I'm fine. 
+ASHLEY: It's everywhere. 
+TRAVIS: (gasps) 
+TALIESIN: Really quickly, just checking to see if that's a software problem, really quickly. 
+TRAVIS: (laughs) Yeah, reboot. 
+TALIESIN: Success. 
+ASHLEY: It is not a software problem. 
+MARISHA: I stumble in after him, I was chasing him. Dr. Wiser? I just don't want you to make any really dumb decisions just because, you know, you start pressing buttons and then, poof. 
+TALIESIN: Pull her face towards the data pad, the data terminal, and point. 
+MARISHA: Hmm! Hmm. Yeah, honestly, that tracks, because I do believe it is a microparasitic thing that could honestly be airborne and if it's not, you know, isolated in the vents, it could get through the entire ventilation system and then spread throughout the entire thing, which is why I was asking if you could control the ventilation system! 
+TALIESIN: Mother, are there any foreign particles currently in the air supply, coming through the filters? 
+ASHLEY: "There seems to be a foreign parasite everywhere." 
+MARISHA: Hah! Yes! Nailed it! So yeah, you know, I don't know, but I guess it's a little too late if we can't control the vents, huh? 
+TALIESIN: It would hardly matter now. Okay. 
+MARISHA: But if we can figure out a way to cut off its oxygen supply. 
+TALIESIN: It doesn't seem to be helping the stuff in the science lab. I'm just saying, that stuff seems fine. 
+MARISHA: B-b-but I think there's still oxygen within the science lab, and I think it could be metabolizing (stammering)-- 
+TALIESIN: Mother, is there any oxygen in the science lab? 
+ASHLEY: "Now that it is sealed off, there is a little bit of oxygen." 
+TALIESIN: Can we filter-- Can we cut off the science lab from the rest of the life support systems? Stop oxygen from flowing to that room? 
+ASHLEY: "One moment, please." 
+LAURA: I thought we already did that. That happened already, right? 
+MARISHA: I don't think it matters anymore. I think it's too late. (giggles) 
+ASHLEY: You each seeing this, you each take a point of stress. 
+MARISHA: Hah. 
+TALIESIN: (nervous noises) 
+MARISHA: Oof. (nervous laugh) 
+TALIESIN: Wow. 
+TRAVIS: Y'all hearing this? It's everywhere. We go outside for fucking five minutes and it's everywhere. 
+LAURA: Everywhere as in all through the air, or everywhere as in... Have we already breathed it in? 
+MARISHA: Most likely. 
+TALIESIN: It's in the filtration system, so... 
+ASHLEY: "The parasite seems to be just in the oxygen valves." 
+LAURA: Okay. 
+TALIESIN: Well, that's nice. No, it isn't. I-- Hmm. 
+LAURA: So we turn off the oxygen to the entire ship, we put on oxygen tanks, and hopefully we suffocate it. How many oxygen tanks are on the ship? 
+LIAM: Two. 
+LAURA: That's preparation, you guys. It's good to have less oxygen tanks than there are bodies. 
+MARISHA: (laughs) 
+TALIESIN: I'm going to check-- There's nothing in life support, there's nothing to find in life support. 
+LAURA: How long do the oxygen tanks last? 
+ASHLEY: Each of the oxygen tanks, the two, have six hours of oxygen apiece. The two suits that were used in the vac suits that took you... 
+LIAM: An hour and change, probably. 
+TRAVIS: 30 and 30. 
+ASHLEY: Yeah, there's four and a half hours left of oxygen in the two vac suits. 
+LAURA: And then the oxygen tanks are separate from that? 
+ASHLEY: Yes, there are two extra additional oxygen tanks. 
+TRAVIS: Captain, do we have any oxygen supply in the med bay? I mean, just even on the small end, respirators, anything? 
+LAURA: Let's look. 
+LIAM: Or life support. 
+LAURA: Yeah, let's look in life support and med bay for any additional oxygen tanks. I'm going to start telling the crew to suit up so that we can all get our own life support going. 
+ASHLEY: Okay. Who's going to the med bay? Okay. 
+TRAVIS: I'll go with you, goddamn it. 
+MARISHA: I go find Forrest. 
+LAURA: Forrest, you're still-- 
+LIAM: Still suited. 
+LAURA: I need you to weld that glass. That thing is splintering through, and I don't care what kind of parasite is coming through the air, that thing is bigger. 
+LIAM: So the windows are small, we established, on the doors, so Forrest will find some paneling on any wall that can come free that is, you know, this wide, larger than the window, and spend 20 minutes pressing it against that compromised spot, and bending and welding the edges all the way around. 
+ASHLEY: Make a mechanical repair. 
+LIAM: Crude. One more time. 
+ASHLEY: Make a mechanical repair check. 
+TRAVIS: Don't hit the glass. 
+LAURA: (laughs) 
+LIAM: Success. 
+LAURA: Yeah! 
+ASHLEY: You're great at this. 
+LAURA: You're great at this! 
+ASHLEY: You seal it off. You can't see the window. You can't see inside. As far as you know, whatever was trying to get out is still in there. 
+LAURA: Let's keep an eye on the security cameras on the terminal. 
+ASHLEY: In the med bay, you guys find a couple things. A bioscanner. 
+LAURA: What's that number? 
+MARISHA: That's good. 
+ASHLEY: Which, that's number one. 
+TRAVIS: Fuck yeah. 
+LIAM: Number one. 
+MARISHA: Hell yeah, number one. 
+ASHLEY: A med scanner. Number 14. Pain pills, number 17. 
+TRAVIS: Oh baby. 
+ASHLEY: A scalpel, number 18. 
+LAURA: (laughs knowingly) 
+ASHLEY: Stim packs, number 20. 
+LIAM: Oh, drugs. 
+LAURA: That's drugs! 
+ASHLEY: And finally, a tranquilizer pistol, number 28. 
+LAURA: Cool. 
+MARISHA: I messed up my stacks. 
+TRAVIS: "Bioscanner can scan for life up to 350 feet in all directions without being blocked by most known metals." 
+LAURA: Immediately turn it on. 
+ASHLEY: (powering up) Really wish I could do sound effects. 
+TRAVIS: That was pretty good. 
+TALIESIN: That was pretty good, actually. 
+ASHLEY: Oh, thanks. You turn it on, and besides all of the other entities that are on board of your crew, you do sense another creature on board. 
+LAURA: There's one other bleepy light? 
+ASHLEY: One other bleepy light. 
+LIAM: Bleepy light. 
+LAURA: Where is it at? 
+ASHLEY: It's in the science lab. 
+LAURA: Okay, okay. Well, it's still contained. 
+TRAVIS: No oxygen? 
+LAURA: No oxygen in the med bay. 
+ASHLEY: Oh shit, yes, there's one other tank. 
+LAURA: Sweet! Yes, that's great! So everybody's got them. You've still got your suit on, you still got your suit on, I take that oxygen tank and you two have the other two. 
+TALIESIN: All right. 
+LAURA: I'm going to get everybody suited up as fast as possible, and-- Mother. I need you to turn off the oxygen supply to the entire ship. 
+ASHLEY: "Are you sure?" 
+LAURA: Will you be able to turn it back on? 
+ASHLEY: "Yes, I will." 
+TALIESIN: That was a long wait. 
+LAURA: How far are we from the planet's surface? 
+ASHLEY: "300 miles." 
+LAURA: We got to get this thing killed before we land. 
+LIAM: While the captain's talking, I take a moment to try to fix and seal up the coolant system in the helmet of my vac suit. 
+TRAVIS: Smart. Smart. 
+LIAM: Of the Deathwalker's Ward. 
+ASHLEY: Make another mechanical repair check. 
+LIAM: Critical success. 
+MARISHA: Eyy! 
+LIAM: Beep bop boop. 
+ASHLEY: Ace it. 
+TALIESIN: Doesn't even void the warranty. 
+MARISHA: I go and I find Forrest again. 
+ASHLEY: Yes, that's right. Good grief, how does Matt do this? 
+MARISHA: It's so much. 
+ASHLEY: Yeah, yeah, yeah. 
+MARISHA: Um! Oh! Hi. Did you-- Did the sample get away in space? Sample gone? 
+LIAM: It started to reach for us, so I thought better-- 
+MARISHA: Right, right, right. Which hand were you using? You're a righty, right? You're a right hander? 
+LIAM: I'm left, actually. 
+MARISHA: Oh, you're left? Okay, can I have your left hand glove? Thank you! And I'm going to take a little cotton swabber, and I'm going to get out a little Petri dish, and I'm going to swab, get a little bit of alcohol and swab, and try and see if I can collect a trace sample of whatever this was. 
+ASHLEY: Okay. Make a biology check, which is your intelligence plus biology. 
+MARISHA: This is what I'm good at. I succeeded with exactly what I needed. 
+ASHLEY: Great. You're able to pull a little bit, whatever was left on his glove. 
+MARISHA: Okay. 
+ASHLEY: You're able to pull that away and put it in the Petri dish. 
+MARISHA: Okay, I put it in the Petri dish. I'm going to go over to a comm, I'm going to put it in a little scanner and start doing my biology thing, see if I can get any readings on this. 
+ASHLEY: As you're looking through and doing a reading on this. It is a single-celled organism, and-- 
+MARISHA: Single cell. 
+ASHLEY: From your reading, you can also tell that it is a parasite that gestates in a host. You've seen things like this before. They can begin to mutate white blood cells. That's as much as you can gather. 
+MARISHA: Okay, I just... You see a few tears fall from Frenno's galaxy eyes, and she just goes: (tearfully) Virgil! 
+TALIESIN: Oh. 
+LIAM: Doc, you're looking a little green around the gills. 
+MARISHA: So. It's likely Virgil's dead. And-- 
+LIAM: Your snake? 
+MARISHA: My snake. 
+LAURA: Well, there's no oxygen in there, so yeah. 
+MARISHA: He was probably-- He might-- So... This is a single-celled organism, parasitic, and-- which means it needs a host of some sort. Um! Virgil might have been patient zero. (giggles) 
+TRAVIS: That's fun, glad you chose a snake for a fucking pet. 
+MARISHA: Yeah. I can't confirm or deny, but-- Essentially, what I can gather is that this latches onto your white blood cells, which makes sense, because they're very oxygen rich, and it probably starves them and then turns them into something else, and then maybe it turns you into that black ichor that we saw. 
+LAURA: What?! I take out the med scanner and start scanning all of us to see if we have breathed any of it in. 
+MARISHA: Yeah, has anyone's life support-- How are our vitals? 
+ASHLEY: You're checking everyone's vitals, and everyone seems to be okay. 
+LAURA: Okay. 
+ASHLEY: Everyone seems to be okay. 
+LAURA: I want to give the med scanner over to you. 
+MARISHA: Okay! 
+LAURA: That's number 14. 
+TRAVIS: Y'all keep talking, I meant to do a perimeter sweep as soon as we got out of those cryo tubes. I'm just going to check the engine room, because we haven't gone over there at all. I'll be back in just a second. 
+LAURA: All oxygen is already off on the entire ship, right? 
+ASHLEY: All oxygen is off. 
+LAURA: All right, I'm also going to give the scalpel to Dr. Nomen. 
+MARISHA: Dope. Which number is that? 
+LAURA: Oh, that's number 18. 
+TALIESIN: I'll meet you in the engine room, Sergeant. 
+LAURA: Wait, before you do that, I'm going to give you the tranquilizer pistol. That's number 28, Dr. Wiser. 
+TALIESIN: Oh! Yeah, well, I'll run up and grab that. Did I find anything, by the way, in the life support room, or no? Okay, cool. 
+ASHLEY: Just the-- Oh wait. A first aid kit, I'm sorry. You found a first aid kit, number six. 
+TALIESIN: Thank you. You make your way into the engine room. 
+TALIESIN: That's right. 
+TRAVIS: Yep. 
+LIAM: I'll trail along as well. 
+ASHLEY: Okay. 
+LAURA: I'm going to run to the bathroom. 
+TRAVIS: Which lavatory are you going to? 
+LAURA: The one that-- [inaudible] 
+TRAVIS: She's definitely taking a shit. 
+LIAM: She's infected already. 
+TRAVIS: (laughs) (explosion) 
+TALIESIN: (train whistle) There we are. (laughter) 
+TRAVIS: Do we get a stress point back for that humor? 
+TALIESIN: That's the sound. (laughter) 
+TRAVIS: Smells like "The Mummy Returns." (laughter) 
+ASHLEY: As you enter the engine room-- 
+MARISHA: Oh shit. 
+ASHLEY: The-- You hear something. It sounds like... breathing? Dripping. 
+TRAVIS: Hey, Forrest, you want to tell me what kind of propulsion this ship runs on? 
+LIAM: Boy, Travis, I wish I knew about propulsion, so I could give an answer to that. Standard. 
+ASHLEY: Old Betsy is flat line beeping. 
+TRAVIS: Solid tone? 
+ASHLEY: Solid tone. 
+LIAM: What's that tell us again? 
+TRAVIS: High activity, the highest. 
+TALIESIN: Are the lights on in here? 
+ASHLEY: The lights are dim in the engine room. It's mainly a red light, because... why not. 
+TRAVIS: Yep. 
+TALIESIN: Yeah. 
+MARISHA: It's always a red light. 
+TRAVIS: Red alert. 
+MARISHA: Yeah. 
+ASHLEY: Do you want to look around? 
+TRAVIS: You bet your ass I do. It's like second nature. 
+ASHLEY: You do find in the corner-- 
+MARISHA: Looking around. 
+ASHLEY: -- that there is a nail gun, number 24. 
+LIAM: He's not alone, either. I'm going to start branching out and making sure wherever I go, that I can see Dr. Wiser and Sergeant Garrett wherever I am, but I'm looking for any kind of damage or problems in the engine room. 
+TALIESIN: Since I have a good terminal here, a direct terminal, I'm going to do a deep scan of this room. 
+TRAVIS: Hold on, doc, one sec. Does Betsy have a flashlight on her? 
+ASHLEY: Yeah. 
+LIAM: (clicking) 
+TRAVIS: I'll turn on the flashlight, and I want to, before you move, corner, high corners, near corner. I just want to sweep the room, any visual contact that might be setting off Old Betsy. 
+ASHLEY: Dr. Wiser. 
+TRAVIS: Oh shit. 
+ASHLEY: You start feeling a dripping on the back of your neck. 
+TALIESIN: I'm going to look up. 
+ASHLEY: As you turn around, and Old Betsy sets its sights next to Dr. Wiser, you see a monstrous creature. Massive, liquid black ichor dripping from its gray, translucent skin, an elongated, bulbous head, and its jaw opens and lets out a furious scream, revealing long, sharp teeth. 
+LAURA: Ugh! 
+ASHLEY: You see its tail, fleshy, spiky. It's horrifying. We're going to take a break. (yelling) 
+TRAVIS: Goddamn it, Vincent! Shit! It's moving through the oxygen tunnels! 
+MARISHA: That's exactly what it's doing! 
+LIAM and ASHLEY: (high-pitched tongue wagging) 
+MARISHA: It's in the walls. 
+LAURA: Oh god! 
+ALL: It's in the goddamn walls! 
+ASHLEY: It's in the walls! 
+TRAVIS and LIAM: (ammo rounds firing) 
+TRAVIS: Morpheus! (yelling) (explosion) 
+MARISHA: I forgot about the charge up. 
+TRAVIS: Uh-huh. 
+ASHLEY: (powering up) 
+ASHLEY: We'll be back! Do I still have to keep going? We'll be back in a minute! Or, like, 15! 
+MARISHA: Go, go, go! 
+ASHLEY: Ah! 
+
+Break[]
+MATT: The Critical Role Foundation is a nonprofit, 501(c)(3) charitable organization that partners with other charitable organizations and endeavors. 
+ASHLEY: We've always had the message of, "Leave the place better than you found it," and that is something that we stand by, and was a big inspiration behind why we started the foundation. 
+MATT: The Critical Role Foundation is extremely proud to be partnering with Shanti Bhavan, which is an amazing school in India that helps provide incredible opportunities and education and teaching children from families that are far below the poverty line and otherwise would not have access to opportunities. 
+KATE: Shanti Bhavan is a boarding school based out of India. It accepts children at age four and it provides for all their needs, including food, housing, medical care, clothing, and an outstanding education. 
+THANU: Shanti Bhavan has brought me up to be a strong, independent individual. My parents are proud of who I am today and I will continue to make them and those who brought me up proud by doing the right thing. 
+PATRIC: Shanti Bhavan offers a variety of elements of holistic education and extracurricular activities like dance, music, sports, public speaking contests, debates, and not to forget the world class education that we receive. To know that I have access to all of this, and I'm a part of a huge loving family, makes my parents back at home really proud of me. 
+ASHLEY: One of the big things with starting the foundation is we didn't just want to focus on nonprofits here in America. A big thing for us is always asking the organizations that we work with, what do you need? 
+AJIT: Shanti Bhavan's campus is currently at maximum capacity. In order to take in more children, we need to build a beautiful new girls' dorm. This dorm will be their home. 
+MATT: Our goal for this initiative is to raise $160,000. The first $150,000 will help to build a new girls' dormitory for the Shanti Bhavan school. Right now, it is at extremely cramped quarters. And as more and more children are brought into the program, we want to ensure that they have the room, especially in a pandemic space, for their own health going forward, but also just to help foster a more positive environment, a comfortable environment. 
+ASHLEY: It's an organization that's growing and more kids are coming there, and we want to give them the space so more kids can have that opportunity. The other $10,000 is to go towards their music program. It's incredibly helpful for their mental health and we're big supporters of that. 
+THANU: Music represents expression of my personal inner states and feelings. Its influence on me goes beyond just simple amusement. Music has given me every opportunity to grow as a leader and as a person. I love music because it inspires creativity. 
+AJIT: Shanti Bhavan children come from the most economically-deprived and socially-discriminated families in India. The education, training, and guidance they receive at Shanti Bhavan helps them enter the white collar, professional workforce and break the cycle of poverty permanently. In return, each student is able to return to their families and uplift them out of poverty, impacting their communities. 
+MATT: Since I became aware of Shanti Bhavan and all they do, and seeing all the people that have come through their program and have gone on to do incredible things and really take steps towards changing the world, this new generation. Because it's not just the knowledge of learning skills, but it's also learning the values of a global community, and not just lifting yourself up, but lifting others with you. 
+ASHLEY: It's really incredible, and the lives that we're able to impact in a positive way just beyond playing an RPG on the internet, that's pretty cool. You can go to CriticalRoleFoundation.org and you'll also be able to learn more about Shanti Bhavan. 
+MATT: You could also support us through buying the Critical Role Foundation merchandise, which helps support these charitable endeavors, and if you can't afford anything, that's totally fine. Just sharing it with your friends and family, getting the word out there and just letting other people know that this is something that is happening that they can contribute towards and watch grow and blossom at their behest as well. 
+(piano playing "Your Turn to Roll") 
+So Robbie, Robbie, how does it feel to have this beautiful story you created be so- Crushed. So confidently recreated accurately and with love and care. I loved seeing the incorrect details that you guys glommed onto. And then the ones- What do you mean incorrect? Yeah, like- What incorrect? In one sentence, the sentence was just: He sat down in his chair, and then four people later it's like, "He's deep in his cups. Oh, so deep in his cups." (all laughing) What? I've never felt so, like, impressed and disappointed in a group of people all at once. It's- I hope you feel actively disrespected by us. 
+(playful upbeat music) 
+LAURA: Hey Critters, Laura Bailey here. Let's see what's up in the Critical Role shops. Can you put donuts in this? Only one way to find out! I mean, The Traveler always says impulse purchases are a good decision. The cuteness! It's overpowering. Roll an investigation if you want. It's basically perfect. So click on over to the Critical Roll shop. Don't worry, there's a few more minutes in the break. You've still got time. 
+LIAM: Subscribe or don't subscribe. That's not a question. Well, that is nobler in the mind to ponder the pros and more pros of Twitch or Twitch Prime, or to take hands and gift new subs to critters who find they can't afford them. To play, to sleep. No more. And by asleep to say the cast and crew of Critical Role might find that naps around the hectic schedule of a live broadcast that we have brought for your consumption, both critter and fan alike. To play or sleep. No sleep, but just to stream. Aye, there's the rub. For with your subscription what streams may come. Oh man, oh man, oh man, that is a (expletive) tagline. We got that? Oh, that is Twitch poetry. (grunt) Oh, anyway, subscribe to Critical Role. Use Twitch Prime to subscribe, gift some subscriptions. You, you got it. Wrong slogan for the skull, but that's fucking good. 
+(orchestral music) 
+
+Part II[]
+ASHLEY: And we're back. Currently, some of our group decided to go into the engine room and found a creature waiting for them. Shall we? (laughter) 
+TRAVIS: Yeah. Yeah! "Shall we?" 
+LAURA: Did we hear-- Did anybody scream? Did anybody make a noise when that happened? 
+TRAVIS: Not yet. 
+ASHLEY: And you know what? Which I forgot to do. Use these amazing space suit minis for the space walks. So since some of you are already in these. 
+TRAVIS: Yeah. 
+LIAM: Yeah, yeah. 
+ASHLEY: We'll go ahead and just switch you all out. 
+MARISHA: (exhales) 
+ASHLEY: So. 
+LIAM: Put Forry in one. 
+LAURA: So we got Sergeant-- Gunnery Sergeant and Forrest are both in the suits. 
+ASHLEY: Gunnery Sergeant and Forest are both in the suits. 
+LIAM: (high-pitched) Gunnery Sergeant! 
+ASHLEY: So... 
+TRAVIS: Thank you. 
+LAURA: Dr. Wiser is just with the oxygen tank. 
+TRAVIS: I'm not a "sir," I work for a living, goddamn it. 
+LIAM: All the Wiser. 
+ASHLEY: Okay, so. I'm going to say, Gunnery Sergeant, you were over here, maybe? 
+TRAVIS: Yeah. 
+ASHLEY: Looking. You found the nail gun, you were investigating some things, Forrest and you were about to go to the terminal. Let's put you over here. Okay, so... The creature, Dr. Wiser, you turn around and you see this massive M-- Meanomorph. (laughter) 
+TRAVIS: Meanomorph? 
+LIAM: Meanomorph because he's mean. 
+LAURA: Yeah, he's a meanie. He's real mean. 
+ASHLEY: He's so mean! 
+LIAM: Real mean. 
+MARISHA: Such a meanie. He's a meanomorph. 
+TRAVIS: Quick, speak in parseltongue! 
+TALIESIN: I am going to very slowly back up and hold. Just not breathe and back up. 
+LAURA: I heard it scream, right, from the med bay? That the alien-- The meanomorph screamed, something screamed? 
+ASHLEY: Everyone that is not in the engine room, you heard... a piercing scream of something. You've never heard anything like this before. And you know that it's coming from the engine room. 
+MARISHA: I just peek my head around the corner to the captain. Or, no, you're in with-- 
+LAURA: No, I'm in the med bay, but peek down the hallway. 
+MARISHA: Yeah, we both do the-- down the hallway. 
+TRAVIS: I don't know if this'll work, but I'll say. 
+LAURA: (nervous noises) 
+MARISHA: Okay! 
+TRAVIS: Mother! Red alert in the engine room! (laughter) 
+MARISHA: What do we do? Captain? 
+LIAM: Forrest doesn't have a weapon, but the welder just goes (firing up). 
+MARISHA: You don't have a weapon? I should give you my gun. 
+LAURA: No, you're all the way in the galley. 
+MARISHA: I know. But I... I know. 
+TRAVIS: Regerts. Regerts. 
+LIAM: I have my wits. 
+LAURA: Toss me the weapon. Toss me the rifle. 
+TALIESIN: I am very carefully removing my oxygen tank. 
+TRAVIS: Oh shit. 
+TALIESIN: And the second it moves, I'm going to... If it... if it makes a move, I'm going to push my oxygen tank towards the life support door. If it... 
+MARISHA: I didn't even think about that. You're so brilliant. 
+TRAVIS: Is the life support door closed? It is, right, the hatch is closed? 
+TALIESIN: Should be. 
+MARISHA: The rifle's too big for me to toss. So I put it on the ground and I kick it. 
+LAURA: Yeah, okay. 
+TALIESIN: I'm going to-- I'm going to do this. We're going to-- We're going to run. 
+ASHLEY: I'm going to need you all to roll initiative. 
+TRAVIS: Yeah, you are! (laughs) 
+MARISHA: All of us? Okay. 
+TRAVIS: I remember how to do this, hold on. 
+MARISHA: Plus our speed, correct? 
+LAURA: Speed! Plus what we roll. 
+TRAVIS: Speed plus what we roll. Ooh! This fucking dice, man. 
+MARISHA: If it was D&D, it would suck! 
+ASHLEY: All right. 
+LAURA: Well, we try to roll high on initiative. That's the only thing. 
+TRAVIS: 12. 
+ASHLEY: 12 for you? Okay. 
+LAURA: 13 for me. 
+ASHLEY and LIAM: Woo! 
+TRAVIS: Cap, sergeant 
+MARISHA: Captain-- 
+LIAM: Captain, my captain! 
+MARISHA: Serge. 
+ASHLEY: Captain Glass, Sarge. 
+TRAVIS: Sarge. 
+MARISHA: Eight, for me. 
+TALIESIN: Nine for me. 
+LAURA: Oh, nine for Dr. Wiser? 
+ASHLEY: What were you, Forrest? 
+TRAVIS: Nine for Forrest. 
+LIAM: Eight. 
+LAURA: Oh. 
+TRAVIS: Oh. 
+ASHLEY: So, Dr. Wiser is nine? 
+LIAM: Frog and Forrest got eight. 
+LAURA: Which one of you is speedier? 
+MARISHA: My speed is three. 
+LIAM: My speed is two. 
+MARISHA: Oh, wow. The frog goes first. 
+TRAVIS: Abort. 
+LIAM: Those jumpin' legs. 
+MARISHA: Yeah. Feelin' froggy, jumpin'. 
+LIAM: Look at those gams. Them green gams. 
+ASHLEY: Captain Glass. You're up, my baby. 
+LAURA: Did-- Did Nomen already kick me the rifle? 
+MARISHA: Yeah. I did right before. 
+LAURA: Okay, and which one was that? Wait, what number was the rifle? 
+MARISHA: It's the smart rifle, which is number 27. 
+LAURA: Okay. Yeah, yeah, yeah. I think, wait. 
+ASHLEY: So minus one to armor saves of the targets, so. 
+LAURA: Oh, okay. 
+ASHLEY: That's good to know for me. 
+LAURA: The-- I would know this, the... weapon that I have, the other weapon that I have. Where is it? Forget it. 
+ASHLEY: The flamethrower? 
+LAURA: No, I had a... 
+ASHLEY: Did you take that? 
+LAURA: Oh, there it is. The pulse rifle. 
+ASHLEY: The pulse rifle. 
+LAURA: It says, "holds six frag grenades, three shots per clip." Does that mean it only shoots grenades? 
+ASHLEY: Yes. 
+LAURA: Okay. That's why I didn't want that one. 
+ASHLEY: Yes. Yes. 
+LAURA: Okay. 
+ASHLEY: But the damage is intense. 
+LAURA: Yeah. Super cool, but I don't want to shoot it into the engine room. 
+ASHLEY: Great. 
+LAURA: So I'm going to run forward. If I can get up to the-- Let's see, I'm in the med bay. I come out. One, five, 10, 15, 20... 25, 30, 35, 40. So I can get pretty dang close to the engine room. 
+LIAM: Pretty dang close. 
+ASHLEY: What did you say it was? 40? 
+LAURA: 40. 
+ASHLEY: (counting) Okay. You're right at the door. 
+LAURA: Yes. But I can see through the door. Can I see the creature? 
+ASHLEY: You can absolutely see the creature. 
+LAURA: I'm going to fucking shoot at it. 
+TRAVIS: Where is it in the room? 
+ASHLEY: It is currently standing behind-- Well, he turned around so he saw it. You turned around when you are aiming your gun and you saw him. Right behind him. 
+LAURA: Okay. So I'm going to shoot at it. 
+ASHLEY: Okay. Let's go. 
+LAURA: So negative one to armor saves of the target. That means-- Does that mean you get a better armor save? 
+TRAVIS: No, worse for her. 
+ASHLEY: My armor save will go down. 
+LAURA: Okay. 
+ASHLEY: So that's actually pretty clutch. 
+LAURA: Okay. So I'm going to-- this is ranged combat plus speed. Yes. Woo! I succeed! 
+ASHLEY: Amazing. Okay. 
+LAURA: Do you succeed? 
+ASHLEY: I have a critical success. 
+TRAVIS: Wow! 
+TALIESIN: Oh no! 
+MARISHA: Oh shit. 
+LIAM: (monster noises) 
+ASHLEY: So... you shoot your-- What did you shoot? 
+LAURA: Pulse rifle. No, smart rifle. 
+LIAM: Definitely a rifle. 
+LAURA: So that means I have 11 rounds left. 
+ASHLEY: Your smart rifle. Yes. So as you-- As you shoot, it goes past and hits one of the oxygen tanks in the engine room. 
+LAURA: (gasps) There's oxygen tanks in the engine room? 
+ASHLEY: Or-- sorry. Not oxygen tanks. A fuel tank. 
+LAURA: Oh no! That's worse. 
+TRAVIS: That's worse! 
+MARISHA: That's real bad! 
+ASHLEY: Ten times worse. 
+TALIESIN: We only have 300 more miles to go. 
+LAURA: (stressed groan) 
+ASHLEY: The creature screams right in your face. And I need you to take a point of stress. 
+TALIESIN: At what point does this become a problem, out of curiosity? 
+LAURA: The stress points? Yeah, I know. 
+MARISHA: When you have to roll for panic. 
+ASHLEY: You'll find out. 
+TALIESIN: Okay. 
+ASHLEY: Yeah. When you have to roll for panic. 
+TRAVIS: Stop shooting the fuel tanks! 
+LAURA: (stutters) That one's empty anyway! Did I breach the fuel tank? Can I tell? From my-- 
+MARISHA: (laughs) "That one's empty anyway." 
+ASHLEY: You breach the fuel tank. 
+LAURA: (exclaims in frustration) 
+LIAM: That one's just cotton candy. 
+LAURA: Does that count as two significant actions? Running down the hallway? Or was that-- is that like movement and-- 
+ASHLEY: That is-- 
+LAURA: That probably would've been two significant. 
+ASHLEY: Yes. That's two significant, but you still have your insignificant action. If you'd like to take cover. If you want to-- 
+LAURA: I'm going to-- (sighs) I'm a captain, I'm not going to duck for cover right now! 
+ASHLEY: Hell yeah! 
+LAURA: I'm going to say: Over here you piece of shit! 
+ASHLEY: As he hears that, his head reaches over-- looks over at you. God, I wish I were Matt in this moment where I could be like (growling). 
+TRAVIS: You just did! 
+ASHLEY: He looks over at you! Teeth, mouth, all of it dripping. 
+MARISHA: We work with what we got, you know? 
+ASHLEY: We work with what we got. 
+MARISHA: Yeah. 
+ASHLEY: Sarge. You're up. 
+TRAVIS: Oh shit. Stop shooting the fuel tanks! (gun cocking) And I take old Betsy and I'll come right up under, right up under the creature. And I'll put my hip into Dr. Wiser, just to shove him out of the way and just point blank-- bam! 
+ASHLEY: I'm going to use-- I'm going to use this as a creature. So you pop him out of the way. And you're here. 
+TRAVIS: If I'm-- I don't know how high the ceilings are. Would this be close combat or ranged combat? 
+ASHLEY: This would be close combat because you are right up on this bad boy. 
+TRAVIS: Kickass. So three plus six, I roll under a nine-- Motherfucker! 
+LAURA: Did you get another? 
+TRAVIS: Yes! 
+MARISHA: No way! 
+TRAVIS: Dude. That's crazy. 
+LAURA: Maybe you should just always be gunnery sergeant. 
+ASHLEY: Yeah. You-- 
+TALIESIN: This is, this is dark. This is your destiny. 
+ASHLEY: You pump your shotgun. Old Betsy is not going to fail you now. Where do you aim it? 
+TRAVIS: Straight center mass. Just aim small, miss small. 
+ASHLEY: You pull the trigger and it rips into its chest. How much damage do you do? 
+TRAVIS: 2d10. So four plus two. I don't add anything to it, right? 
+ASHLEY: No. 
+TRAVIS: Great. Six points of damage. 
+ASHLEY: Okay. It is screaming. It is right up close to you. You see its teeth. You take a point of stress because you're so close. 
+TRAVIS: Oh shit! 
+ASHLEY: Dr. Wiser, you're up. 
+TALIESIN: It's not looking at me, is it? 
+ASHLEY: It's not looking at you currently. It's currently got its eyes trained on Sarge. 
+TALIESIN: Have I been paying attention to what seems to be pulling its attention? Could it-- is this a place where a psychology degree could actually-- Yeah, you joke. 
+MARISHA: Did you feat into psychology? Of course you did. 
+TALIESIN: There is a-- There is an alien psychology subtext. 
+MARISHA: There is! You're right! 
+LIAM: (German accent) So tell me about your birth from the Queen. Start explaining. 
+TALIESIN: I have backstory for this shit. Don't think I don't have backstory for this shit. 
+MARISHA: Feels like a bit of an Oedipus complex. 
+LIAM: Yeah. 
+TRAVIS: Oh my god. 
+TALIESIN: Too close. 
+ASHLEY: Give it a try. 
+TALIESIN: Okay! Let's see. Where is that-- Where is that psychology? There it is. Two points. 
+LAURA: What are you going to try to do? Talk it to death? 
+TALIESIN: I'm trying to figure out what's drawing its attention. Like, how it's-- 
+LAURA: What is its motivation? 
+ASHLEY: What is its-- 
+MARISHA: Prescribe it some downers. 
+TALIESIN: Yeah. I'm fine. Success. 
+ASHLEY: You got it? Okay. 
+TALIESIN: Is it movement? Is it light? Is it, like-- What is it that seems to be catching its face? 
+ASHLEY: What seems to be catching its attention is the oxygen tanks you all are carrying. This is food. You all are a life support for this creature standing in front of you. 
+TALIESIN: I am sealing my-- I'm going to turn my tank completely off. And then I'm going to start making my way towards the mainframe room. 
+LAURA and MARISHA: ♪ Makin' my way! ♪ 
+ASHLEY: You're going to try to go? 
+TALIESIN: I'm going to back-- I'm turning the oxygen off and I'm going to start backing up towards the mainframe room as far as I can get. Oh, wait, did he push me? 
+ASHLEY: He pushed you out of the way. So you're over here. 
+TALIESIN: Okay. 
+ASHLEY: Do you want to try to go this way or this way? 
+TALIESIN: Oh no. Not towards life support. Towards mainframe. 
+ASHLEY: Oh, towards the mainframe. 
+TRAVIS: You know the oxygen is off to the whole ship, right? 
+TALIESIN: Yeah. 
+LAURA: So are you holding your breath now? 
+TRAVIS: Or do you need to breathe? 
+TALIESIN: I am holding-- I'm basically holding my breath. 
+LAURA: He is, he's synthetic! 
+TRAVIS: Do you bleed milk, motherfucker? 
+TALIESIN: I mean, look at me. Of course. Look at this guy. 
+ASHLEY: As you step away, that's going to take an attack of opportunity. 
+TALIESIN: It is going to take an attack. Shit. Thought I could get away. 
+ASHLEY: What is your armor? 
+TALIESIN: My armor is very low. I have to roll against it, or--? 
+ASHLEY: You do. So-- 
+TALIESIN: Can I use body instead of armor? 
+ASHLEY: Yeah. 
+TALIESIN: Okay. To roll. Okay. So it's-- Come on. Negative two. So I'm two over. 
+LAURA: So you failed? 
+TALIESIN: I failed by two. 
+ASHLEY: Okay. As you are trying to step away, you turned off your oxygen tank. It takes a claw attack on you, lashes out across your throat, and you take four points of damage. 
+TALIESIN: Ow. 
+ASHLEY: Is there anything else you'd like to do? 
+TALIESIN: As far away from this thing as I can get. 
+ASHLEY: Okay. What's your speed? 
+TALIESIN: Three. 
+ASHLEY: So, 30? Because I think it's-- 
+TRAVIS: Yeah. 
+TALIESIN: Yep. 
+ASHLEY: Okay, so-- 
+LIAM: Those of us watching him, did the doctor just bleed red? 
+TRAVIS: Actually, it's-- Your movement is 15, right? Unless you're using both of your actions to go. 
+TALIESIN: Oh, well, turning off the oxygen tank-- Well, the psychology and the oxygen tank is definitely one full action, I guess so. 
+ASHLEY: As you're watching him get slashed across the throat, you see drips-- of red blood. 
+TRAVIS: Oh no! He's a real boy! 
+LAURA: You did it to us! You did it to us! 
+TRAVIS: Oh no! I thought he was synthetic for sure! 
+LAURA: Me, too! 
+TRAVIS: I have to care about him now! (laughter) 
+TALIESIN: Eh. 
+ASHLEY: Okay. Dr. Nomen, you're up. 
+MARISHA: Okay. GM, how long has it been since we cut oxygen to the ship? 
+ASHLEY: It's been about, I would say, 20 minutes. 
+MARISHA: Is there... Okay, because I don't have a tank. 
+LAURA: Yes, you do. Everybody has a tank. 
+MARISHA: Oh, we all have a tank? 
+LAURA: We all have a tank. Oh my god. 20 minutes. You wouldn't be able to breathe. 
+MARISHA: I don't know. I'm a frog. I can hold my breath underwater for a very long time. Okay. I am-- 
+ASHLEY: So, just for a point of note, you guys who weren't in the vac suits have six-hour oxygen tanks. 
+LAURA: Yes. 
+MARISHA: Okay. 
+ASHLEY: You guys have four and a half hours. 
+LIAM: We also had one hazard suit, but it had a single hour of oxygen. So it's not like-- 
+LAURA: Oh okay, that's good to know. 
+LIAM: We've got it. 
+MARISHA: Okay. When the captain shot the fuel tank, did anything happened? Happen? 
+ASHLEY: It is currently just leaking fuel. So, because the oxygen is off, it's probably a good thing. 
+MARISHA: Okay. Okay. It's currently leaking fuel. What can I do here? I'm bad at combat. I'm going to go over to the terminal. Can I figure out-- Can I try and tap into the terminal and see if I can cut off the fuel flow to that tank? Or not? That makes no sense does it? 
+LAURA: No, that does. 
+ASHLEY: It does. 
+MARISHA: Does it? 
+ASHLEY: So probably the nearest terminal would either be in the med bay-- 
+MARISHA: I'll head to the med bay. 
+ASHLEY: Okay. So you get in the med bay. I need you to make a computer check. 
+MARISHA: Yes. Not my strong suit. 
+LAURA: There's a computer-- oh jeez. 
+MARISHA: Critical failure. I rolled a 10. 
+ASHLEY: Okay. You, when you access the computer terminal-- 
+LIAM: You erase Mother. 
+ASHLEY: You are-- 
+TALIESIN: Updates? Updates!? 
+ASHLEY: Trying-- 
+TALIESIN: Sorry. 
+ASHLEY: Yeah. You were trying to figure out if you can shut off the fuel line. Is that what you're trying to do? 
+MARISHA: Yes. 
+LAURA: To that particular tank? 
+MARISHA: To that tank. 
+ASHLEY: You do what you know what you're supposed to do. And as far as you know-- 
+MARISHA: 69-69. 
+ASHLEY: -- you turned off the fuel. 
+MARISHA: Oh! 
+TRAVIS: Oh shit. 
+LAURA: Oh no. You put more fuel in there. 
+ASHLEY: Okay. So-- It's my turn. 
+TRAVIS: Okay. 
+LAURA: Oh no! 
+ASHLEY: So-- 
+TRAVIS: Beastie. 
+LAURA: Beastie's after frog. 
+MARISHA: Mean-o-morph. 
+LAURA: Oh wait. Oh, okay. Yeah. 
+ASHLEY: Okay. 
+TRAVIS: And then Forrest. 
+LAURA: And then Forrest. 
+ASHLEY: Looking down, this creature is staring at the person who just shot them with old Betsy. He slinks-- He? They. 
+TRAVIS: Yeah. 
+ASHLEY: It slings a piece of black liquid from its claws and slings it at your face. So let's do an opposed check. See what this does. Ooh. 
+TRAVIS: Am I rolling a body check? 
+ASHLEY: You are rolling an armor check. 
+TRAVIS: Armor check. 
+ASHLEY: No, no, no. Body check, I'm sorry. 
+LAURA: But if you're in the suit, does that protect you for a little bit? It wouldn't go directly on the face, right? It would be on the helmet of the suit. 
+ASHLEY: It would be on the helmet. 
+TRAVIS: So can I choose armor instead of body? 
+ASHLEY: Sure. 
+TRAVIS: Okay. I rolled exactly the-- I rolled a four, and then my armor's a four. 
+ASHLEY: I rolled a six. My armor's a six. 
+TRAVIS: Oh shit. So it's a tie. 
+LIAM: Is that a reroll? 
+ASHLEY: So that's a reroll. 
+TRAVIS: Okay. (groans) Critical failure. (exclaiming) 
+TALIESIN: Oh no. 
+TRAVIS: The pendulum has swung! 
+LIAM: Come pay that tally. 
+ASHLEY: This liquid, the sticky ichor attaches to your visor and it starts spider webbing and splitting through. It makes its way through the visor. 
+LAURA: (yells) 
+MARISHA: Oh shit! 
+ASHLEY: And starts going up your nose. (screaming) (laughter) 
+TRAVIS: (disgusted noises) 
+ASHLEY: You are-- You take a point of stress. 
+TRAVIS: Uh-huh. Yep! 
+ASHLEY: And you are currently panicking. So I need you to make a panic roll. You need to roll higher than your stress. This is the only time in the game where need to roll higher than your stress. 
+TRAVIS: Okay. My stress is currently four. 
+ASHLEY: Okay. 
+TRAVIS: I don't add anything to it, right? 
+ASHLEY: No. 
+TRAVIS: I rolled a six. 
+LAURA: Ooh! 
+MARISHA: Oh shit. 
+ASHLEY: You use-- ♪ Hold on. Just a minute. ♪ Great. You fucking keep it together. Somehow. Because you are a Marine. 
+TRAVIS: (grunts) 
+ASHLEY: Okay. Next up, Forrest. 
+LIAM: I'm going to run over to Gunnery Sergeant and grab the helmet where it locks into place, and unlock it, and rip the helmet away. 
+ASHLEY: Okay. 
+LIAM: Because it's been busted open. 
+ASHLEY: So... 
+TRAVIS: I can't breathe. 
+LAURA: Yeah, but you're braver-- Oh my god. Run away from the-- 
+LIAM: That's my first significant action. My second significant action, I'm going to shove the hazmat helmet down onto-- in place and try to-- I don't know if it'll fit or not, but I will fucking tape it shut if I have to. 
+ASHLEY: Okay. 
+TRAVIS: Please be universal coupling. 
+ASHLEY: Let's do... Let's do an athletics check. 
+TRAVIS: Come on, ears! 
+LIAM: Oh boy. It was nice knowing ya. Big fail. Not critical fail, but big fail. 
+ASHLEY: Forrest succeeds at getting your helmet off, but does not succeed at reattaching the other helmet. You are currently... No oxygen. Nothing. 
+TRAVIS: Uh-huh. 
+ASHLEY: You're doing bad. 
+TRAVIS: Yup. This is getting real bad. 
+ASHLEY: You can make another panic roll. 
+TRAVIS: Okay. 
+ASHLEY: Take a point of stress, and you're going to make another panic roll. 
+LAURA: You were doing so good, Sergeant! 
+TRAVIS: Another point of stress? 
+ASHLEY: Yeah. 
+LAURA: (laughs) 
+TRAVIS: ♪ I get by with a little help from my friends ♪ 
+LIAM: Your helmet was fucked already! 
+TRAVIS: You're right. A nine, a nine, and my stress is five. 
+LAURA: Okay, that's great. 
+ASHLEY: You're good. You're somehow holding it together. You know how to hold your breath. 
+TRAVIS: Semper fi! 
+LAURA: Does he have a trail of black stuff coming out of his nose? Or had it gone fully into his face? 
+TRAVIS: Does it go in and disappear? 
+ASHLEY: You see nothing. 
+LAURA: Oh! 
+LIAM: Yeah, we didn't see that at all? 
+LAURA: No! 
+LIAM: Okay. 
+ASHLEY: You did not. 
+LIAM: And he hasn't said anything. 
+LAURA: No! 
+ASHLEY: You did not see that at all. Okay, top of the round, Captain Glass. 
+LAURA: Ah! I'm going to shout: Forrest, get out of here! And I'm going to open up fire on the creature again. 
+ASHLEY: Okay. Are you going to move in there or stay? 
+LAURA: I'm going to step in. 
+ASHLEY: Okay, around heresies? 
+LAURA: I'm going to move to the other side of the room so that I'm not aiming at any fuel tanks. I'm going to try to get a clean line of fire on the creature. 
+ASHLEY: How's that feel? 
+LAURA: Sure. 
+ASHLEY: Great. You load up, let's go. 
+LAURA: Ooh, ugh, critical failure. 
+ASHLEY: (hisses) 
+LAURA: Oh no. 
+TRAVIS: Boy, this turned quickly. (laughs) 
+ASHLEY: Okay. 
+LAURA: I don't know. 
+ASHLEY: You aim your-- 
+LAURA: It's a smart rifle. 
+ASHLEY: -- smart rifle at this creature, and misses him completely. I mean, it's dark in here. The only light that you have is the red light. Sails past, hits another fuel tank. 
+LAURA: No, I was trying to avoid the fuel tank! 
+LIAM: (explosion) 
+LAURA: I did roll a critical failure. 
+ASHLEY: You did roll a crit-- that's the only-- Okay, but-- 
+TRAVIS: You're damaging this ship a lot for a captain. 
+ASHLEY: And he turns around, and looks at you. 
+LAURA: (groans) 
+ASHLEY: (sighs) Sarge, it's your turn. 
+TRAVIS: Question for you. 
+ASHLEY: Wait. 
+LAURA: Do I get to shoot again? Was that one significant action, or do I get to shoot again? 
+ASHLEY: Shoot again. 
+LAURA: You think? 
+ASHLEY: Yeah, shoot again. 
+LAURA: I'm going to back up. 
+LIAM: Swing away. 
+LAURA: I'm going to back up and try to get a better trajectory to not aim at the fuel tanks again. 
+ASHLEY: Great. 
+LAURA: Does that mean I need to be-- shimmy? 
+ASHLEY: I just realized, I think these little squares are cover, so. 
+TRAVIS: Okay. 
+ASHLEY: Maybe you can get around there and cover. 
+LAURA: Okay, yeah, I'll shoot, and, yeah, we'll see. 
+ASHLEY: Okay. 
+LAURA: All right, I'm going to try again. 
+TRAVIS: Use the grenade launcher in the engine room. 
+LAURA: I'm not going to use the grenade launcher. I'm using the smart rifle. 
+LIAM: Just ignite that flamethrower. 
+LAURA: Pfft. (wheezing) Critical failure. 
+TRAVIS: No! 
+ASHLEY: No. 
+TRAVIS: What are you doing? 
+LIAM: (laughs) 
+TRAVIS: What are you doing?! 
+ASHLEY: Okay, you take cover. 
+MARISHA: What happened? 
+ASHLEY: You are ducked behind cover. You aim your smart rifle. 
+LAURA: Yeah. 
+ASHLEY: (pew) Goes off. It is perfect aim, and it hits Sarge. 
+TRAVIS: (laughs) 
+LAURA: Oh god. 
+ASHLEY: Roll your damage. 
+TRAVIS: (laughs) 
+TRAVIS: I get a tendril up the nose, I get my fucking helmet ripped off, smash to the face, and shot in the ass. 
+ASHLEY: Sorry. 
+LAURA: 11 points of damage. Oh, wait, no, no, no, that's a lie, that's a lie. It only does one, so I'm going to reroll, because that was only just one, I rolled two. 
+ASHLEY: Got it, okay. 
+LAURA: (laughs in disbelief) 
+TRAVIS: Do I need to contest-- 
+LIAM: Was it max? 
+TRAVIS: -- against my armor, or body, or anything? 
+LIAM: (laughs) 
+TRAVIS: Probably not, I just take it, right? 
+ASHLEY: Just take it. 
+TRAVIS: Yeah. 
+LIAM: (laughs) 
+LAURA: (laughs) I rolled a 10. 
+LIAM: She rolled max damage. 
+ASHLEY: Did you roll max damage?! 
+TRAVIS: So is that 11 total? 
+LAURA: No, that's just 10 total. 
+LIAM: It's just 10. 
+LAURA: Just 10 on one dice, it's 10. 
+TRAVIS: Wow. 
+LIAM: Only 10. 
+TRAVIS: Shot my ass cheek off. 
+LAURA: Oh my god, I've rolled so many 10s. 
+TRAVIS: What is the matter with you? 
+LAURA: Oof, yeah. 
+ASHLEY: Okay. 
+TRAVIS: Hey, GM. 
+ASHLEY: Yes. 
+TRAVIS: Question from the previous round, where the tendril went up my nose: Did I take any damage from that, or just stress? 
+ASHLEY: You just took stress. 
+TRAVIS: Okay. 
+ASHLEY: Yeah, no damage. 
+LIAM: Whew. 
+ASHLEY: Dr. Wiser. 
+LAURA: Real sorry about that, Sarge. 
+ASHLEY: You're up. 
+TRAVIS: Oh, it's actually me, because she-- 
+ASHLEY: Oh, Sarge, that's right. Sorry, sorry, sorry. 
+TRAVIS: Yeah. 
+ASHLEY: Sarge. 
+TRAVIS: Well! (laughs) (grunts, impacts) Ah! (laughter) 
+TRAVIS: I think, for a moment, real hard, about just relieving the captain of her duties. And I'll re-cock, and point blank, ka-boosh, because what the fuck else am I going to do? 
+ASHLEY: Why not? Take another shot. 
+LIAM: Hit yourself in the face, just end it all? 
+TRAVIS: Yeah. (laughs) 
+ASHLEY: Jeez. 
+TRAVIS: Three, okay. That's a two, so a success. 
+ASHLEY: Okay. 
+TRAVIS: And it rolls 2d10. I don't know if it's a contested thing. 
+ASHLEY: No, I failed. 
+TRAVIS: Okay, great. 10, 10 points of damage. 
+ASHLEY: (groans) Okay. 
+TRAVIS: Got two more shots. 
+LAURA: It's mostly dark in here, and it's exploding in bursts of light and fire hits. 
+ASHLEY: Yes, yes. 
+LAURA: Cool, cool, cool. 
+TRAVIS: Two more shots in this clip before I have to reload. 
+ASHLEY: It's writhing, it's screaming, it's freaking out. 
+TRAVIS: Yeah, I would move, but it would just fuck me up some more. And with my other significant action, bandaging a wound, fire-- Nope, nope, nope, nope. Yep, I'm just going to sit here and contemplate my choices. 
+ASHLEY: Dr. Wiser. 
+TALIESIN: I'm going to back up to the door, to the mainframe door. 
+ASHLEY: Okay. 
+TALIESIN: I'm going to try and take a shot at this thing, and then I'm going to go through the door. 
+ASHLEY: Great. 
+LIAM: Classic wizard move. 
+TALIESIN: Yeah. And I'm not that great a shot, so, you know. 
+LAURA: Are you using the pistol, or the tranquilizer pistol? 
+TALIESIN: I'm using the pistol, I'm not using-- Tranqs are for people. I don't know what this thing's made out of. So, yeah, let's see if I can do this. No. 
+ASHLEY: No? 
+TALIESIN: No, not terribly no, but I miss. 
+ASHLEY: Okay. 
+TALIESIN: And then I'm going to go into the mainframe room. 
+ASHLEY: What did you shoot? 
+TALIESIN: A revolver. 
+ASHLEY: Okay. Your revolver ends up hitting the other fuel tank. 
+TRAVIS: Gah. 
+ASHLEY: The same fuel tank that Captain Glass shot, so it's just continuing to drip. 
+TALIESIN: In theory, it would require oxygen to ignite in this room? 
+ASHLEY: Correct. 
+TALIESIN: Okay, I'm going to go into the mainframe room now. 
+ASHLEY: Okay, you go into the mainframe room. You're safe in cover for now. 
+TRAVIS: Can you produce a spark in a room with no oxygen? 
+LAURA: I don't know. 
+TRAVIS: I don't think so. 
+TALIESIN: Mm, it depends on the fuel, I want to say. 
+LIAM: Man, there are totally some aeronautics engineers who watch this show. 
+ASHLEY: I know. 
+LIAM: They are-- 
+ASHLEY: This isn't. 
+LAURA: This is fake, this is fake. 
+ASHLEY: This is fake. 
+TRAVIS: Yeah. If you're JPL or NASA, let us know. 
+ASHLEY: Yeah, yeah, yeah, yeah. 
+MARISHA: Nitrogen, all it would probably, right? 
+TALIESIN: It's a vacuum. 
+MARISHA: But-- yeah. 
+TALIESIN: Does combustion require-- Ah, I don't know. 
+MARISHA: I don't know. 
+LIAM: We'll find out about it some time. 
+MARISHA: We just play scientists. We aren't them. (chuckles) 
+ASHLEY: Dr. Nomen. 
+MARISHA: Oh god. 
+ASHLEY: You are up. 
+MARISHA: Okay, I cut off the fuel, I'm great. I'm going to go ahead towards Dr. Wiser in the mainframe. I should be able to-- 
+ASHLEY: Yeah, you can get in there. 
+MARISHA: -- get there. 
+LIAM: (shooting noises) Gah! 
+LAURA: (laughs) 
+TALIESIN: I am bleeding. 
+LAURA: Did I hit? 
+TRAVIS: Do you have no weapons training? 
+LIAM: You're like Ripley and Hudson combined. 
+MARISHA: You're looking pretty bad? 
+TALIESIN: I'm looking bad, but not-- I'm bleeding from the neck, but I'm not choking on my wound. 
+LAURA: Oh. 
+TRAVIS: (laughs) 
+MARISHA: (whimpers) I immediately take out the first aid kit that I have, and bust it open, start pulling out bandages. Do I still have enough action to maybe do a first aid kit? 
+ASHLEY: Yes, so make a medical aid skill, which is in your empathy. 
+MARISHA: Plus two, okay. Success exactly, with a five. 
+ASHLEY: Amazing, so you heal. 
+TALIESIN: Okay. 
+ASHLEY: You recover five points of HP, plus any amount the healer succeeded by times five. 
+MARISHA: Oh, shit! 
+TRAVIS: You hit exactly the number, right? 
+LAURA: But you hit exactly the number. 
+TRAVIS: So zero, actually. 
+TALIESIN: I'm good. 
+MARISHA: Oh, so five? Just five. 
+TALIESIN: I healed perfectly. 
+ASHLEY: Great. 
+MARISHA: I see, I see, I see. 
+LAURA: But that's cool. 
+MARISHA: I get it. 
+TRAVIS: What's your total health? 
+MARISHA: That's cool. 
+TALIESIN: 20. 
+LAURA: Woof. 
+MARISHA: You're a weakling. 
+TALIESIN: Yes. 
+ASHLEY: You're back up. 
+MARISHA: But I healed you back to-- 
+TALIESIN: I'm at 20. 
+MARISHA: You're at 20, okay, all right. 
+ASHLEY: Okay. 
+TALIESIN: Yes, I am a weakling. 
+MARISHA: Yeah, same. 
+ASHLEY: (sings) Who's this again? 
+TRAVIS: That's me. 
+LAURA: No, that's Forrest. 
+LIAM: Yeah, Forrest and Sarge are there together. 
+ASHLEY: Okay, so. (sighs) What to do? Okay. The creature is going to take a step towards you, Forrest. 
+LIAM: Okay. 
+ASHLEY: And it is going to take a bite attack. 
+LIAM: And it's armor or-- 
+LAURA: (laughs) 
+ASHLEY: It's armor or body. 
+LIAM: Well, either way, I failed by one. 
+ASHLEY: I had a success. 
+LIAM: (clicks tongue) 
+TRAVIS: Yeah. 
+ASHLEY: So. 
+LIAM: So. 
+TRAVIS: Hit 'im. 
+ASHLEY: Ooh, okay. The creature inches forward, opens its toothy maw, and just takes a huge bite out of your throat. You take six points of damage. 
+LIAM: Six points. 
+LAURA: Oh, jeez. 
+TRAVIS: Shit. 
+MARISHA: How you doin'? 
+ASHLEY: How you doin'? 
+LIAM: Not great. 
+TRAVIS: What's your total health? 
+LIAM: Six points, you said? 24 now. 
+ASHLEY: 24, okay. 
+LIAM: I mean, if it ripped out my neck-- 
+ASHLEY: Who's in the room right now? I guess-- 
+TRAVIS: Gunnery, Forrest. 
+LAURA: Captain. 
+ASHLEY: Captain, Sarge. 
+TRAVIS: Sarge, Forrest, and you. 
+ASHLEY: As you're looking at Forrest, and this creature takes a chunk out of his throat. 
+TRAVIS: Shit. 
+ASHLEY: It starts dripping, his throat, and pouring a milky white. 
+LAURA: (gasps) You! 
+TRAVIS: You're a fucking--! 
+MARISHA: Oh! 
+LAURA: I even asked that dick, and you said no! 
+TRAVIS and LAURA: (gasp) 
+LIAM: My highest skill is in manipulation. 
+TRAVIS: (screams) (screaming) 
+TRAVIS: (laughs) 
+LAURA: You! 
+TRAVIS: You son of a bitch! 
+MARISHA: Cyborg! What are you? 
+LAURA: You said-- you-- 
+LIAM: I'm just trying to help. (shouting) 
+ASHLEY: You somehow, even though he's taken a chunk out of your throat, and you all notice this, at least that are in the room, there's a sense of calm about him. He doesn't have the fear that you all have. 
+MARISHA: (gasps) What? 
+TRAVIS: Oh. 
+ASHLEY: Captain Glass, you're up. 
+LAURA: (grunts) Wha-- Were you planning to tell us any time? (grunts) Oh god, I am shooting so poorly. 
+TRAVIS: (laughs) No, no, you're doing great. 
+ASHLEY: You're going to do it, you're going to do it. I know it. 
+TRAVIS: You're batting 1,000, the opposite of that. 
+MARISHA: (laughs) 
+LAURA: This creature got in through the ventilation. 
+TRAVIS: 0 for two. Or three? 
+LAURA: Through the grates? Is that how it got into the room? 
+MARISHA: Golf rules. 
+ASHLEY: It seemed to have been going through the oxygen vents. If you would like to see them, I have them. 
+TRAVIS: The oxygen vents? 
+TALIESIN: Yes, please. 
+MARISHA: Yes, roll it out! 
+TRAVIS: (chanting) Overlay. 
+TRAVIS and ASHLEY: Overlay, overlay! 
+MARISHA: Boop. 
+ASHLEY: Oh, shoot, sorry. 
+LIAM: Aw, cool. 
+LAURA: Oh, that is awesome! 
+TALIESIN: Got to move the people, too. 
+ASHLEY: Okay. 
+LAURA: Shut up. 
+TRAVIS: Laura, remember where we are. 
+LAURA: I do remember. 
+ASHLEY: Oh, I'm too short. 
+LAURA: I remember. 
+TALIESIN: Yeah! 
+TRAVIS: Good job. Dude. 
+LAURA: (gasps) 
+TALIESIN: What the fuck? 
+TRAVIS: Ash, get the fuck out of here. 
+LAURA: This is so cool. 
+ASHLEY: Dude, this is all Kyle. 
+MARISHA: (laughs) 
+TRAVIS: Kyle, you're amazing. 
+LIAM: That's already on my map. 
+MARISHA: So cool. 
+LAURA: Is it really? 
+LIAM: Mm-hmm. 
+LAURA: (scoffs) 
+ASHLEY: Sit you right down here. 
+TALIESIN: Oh, shit. 
+TRAVIS: You knew. 
+LIAM: I did. 
+ASHLEY: Okay, you two were in the mainframe. 
+TRAVIS: You Black and Decker piece of shit. 
+ASHLEY: You guys were heresies. Creature is here. Okay, so. 
+MARISHA: "Black and Decker." (laughs) 
+ASHLEY: Blue lines. 
+LIAM: Email went out and I was like-- 
+LAURA: Blue lines are oxygen? 
+LIAM: "Can I be an android?" 
+ASHLEY: Oxygen, these are power lines. 
+LAURA: Okay. 
+TRAVIS: (laughs) I bet. 
+LAURA: For my insignificant action-- 
+LIAM: Instantly. 
+LAURA: -- I'm going to say: Mother, is it possible to cut off the oxygen vents in this room? Seal off the oxygen vents to this room? 
+ASHLEY: "All of the oxygen has already been turned off." 
+LAURA: Can we seal off the vents, though? Do they have stops, like, safes? 
+ASHLEY: "I will seal them off, especially in the engine room." 
+LAURA: Great. I'm going to try to pull rank here, and I'm going to command the team to clear out of the room so we can seal the doors and lock this thing in-- Oh, but it's got access to the Ark. Fu-- can't do that. Fu-- 
+LIAM: Want soup? 
+LAURA: Pho. 
+ASHLEY: Forrest. 
+LAURA: Wait, wait, wha--? 
+TRAVIS: Got to be quick. 
+ASHLEY: Seeing the situation that we're in, you have downloaded and have a new programming-- 
+MARISHA: No. 
+ASHLEY: -- that has popped into your head. 
+MARISHA: Is it good? Is it bad? 
+ASHLEY: You know that there are emergency landing protocols for the Ark. Specifically for this mission, you were created to make sure that the Ark lands on this planet at whatever the cost. Just so you know. 
+LAURA: (gasps) 
+ASHLEY: Anyway. 
+LIAM: So, emergency landing protocols, okay. 
+LAURA: Okay, all right, all right. I'm going to say-- I'm still going to pull rank, and I'm going to say: Sergeant, get it out of this room, lead it down the hallway. 
+TRAVIS: (laughs) 
+LAURA: I want to get it away from the Ark. 
+TRAVIS: Aye aye, Captain. 
+LAURA: And, hopefully, he'll start getting down the hallway, and I'm going to come around the other side. (sighs) 
+TRAVIS: Marines don't say "aye aye." 
+LAURA: Aye aye. 
+ASHLEY: Aye aye, or-- 
+TRAVIS: Yes, Captain. 
+LAURA: I'm going to go towards the hallway, and try to shoot it from the hallway, exiting the room. 
+ASHLEY: This way? 
+LAURA: Yeah, I want to lead it out of this room. 
+ASHLEY: Okay. 
+TRAVIS: Ma'am. 
+ASHLEY: You're going to take a shot? 
+LAURA: Yeah. (nervous laugh) 
+ASHLEY: Okay. 
+LAURA: Oh, critical success! Criss-- cri-- critical success! 
+TALIESIN: Hey! 
+LIAM: Criss cross. 
+LAURA: Criss cross, critical success! Success. 
+ASHLEY: I had a critical fail. 
+LAURA: Sweet! 
+MARISHA: Oh! 
+ASHLEY: Okay. 
+LAURA: Does that mean I do double damage? 
+ASHLEY: Oh, yes. (laughter) Let's do double damage. 
+LAURA: Why not? 
+ASHLEY: Let's do it! These are my rules. 
+LAURA: Ah! It's just 10. I rolled real low. 
+LIAM: That's as much damage as it did to the captain. 
+ASHLEY: It is screaming and writhing. 
+LIAM: Sergeant. 
+ASHLEY: This thing is pissed. Sarge, you're up. 
+TRAVIS: The Marines do say "aye aye." I got that wrong. (clears throat) 
+LAURA: (laughs) 
+TRAVIS: Uh, shit. 
+ASHLEY: You were like, I had to Google it real quick. 
+TRAVIS: Well, I got to follow orders. Motherfucker's-- (laughs) He's bleeding Quaker Oats out his neck! And I will break and-- (laughter) 
+TRAVIS: I'm going to break and I'm going to-- 
+LIAM: "Quaker Oats." 
+TRAVIS: -- with one arm, as I'm turning towards to door, be like: Fuck you! (gun firing) And shoot one more time as I start running out the door. Come get me, you sack of shit! 
+ASHLEY: All right, make a roll. 
+TRAVIS: Another shot. Four, succeed. 
+ASHLEY: Another critical fail. 
+TRAVIS: Okay. 
+ASHLEY: Do your damage. 
+TRAVIS: 2d10. Eight, 10. 18 points of damage on that shot. 
+ASHLEY: Woo! 
+TRAVIS: Kra-kow. 
+ASHLEY: Boy. 
+TRAVIS: And I'll use my 15 feet of movement to head out the door and up the hallway towards the galley. 
+ASHLEY: Okay. It's going to take an attack of opportunity. 
+TRAVIS: Yes, ma'am. 
+LAURA: (laughs) 
+TRAVIS: Aye aye. 
+LAURA: Coming with you, to get you. (laughter) 
+TRAVIS: Huh? 
+LAURA: Being captain is fun. (laughter) 
+ASHLEY: What is your armor? 
+TRAVIS: Four. 
+ASHLEY: Failed. Okay, so you get out of the engine room, and it's starting to move its way this way. 
+TRAVIS: Coming after? 
+ASHLEY: It's coming after. 
+TRAVIS: Okay, oh, cool. Got its attention. What was step two? "Avengers," anybody? Okay, okay. 
+LAURA: (laughs) 
+ASHLEY: Dr. Wiser. 
+TALIESIN: I am turning my oxygen back on, now that I'm out of there. 
+ASHLEY: Great. 
+TALIESIN: And I am heading straight for the med bay. 
+ASHLEY: Great. 
+TALIESIN: I've heard everything that came over the comms, right? 
+ASHLEY: You have. 
+MARISHA: Dr. Wiser, where are you going? 
+TALIESIN: We're going to have a lot of people on the med bay. Take it to the cryo chambers. I don't know where else to lock this thing up. And I'm just full speed to the med bay while I'm breathing, and I'm going to try and get to that pad. 
+ASHLEY: All right, you make it to the med bay. You make it to the terminal pad. 
+TALIESIN: I am going to wait until we can-- I'm going to lock, whatever they lead this thing into, I'm just ready to hit the door lock. 
+ASHLEY: Great. Dr. Nomen. 
+MARISHA: Okay. 
+ASHLEY: You're up. 
+MARISHA: As Dr. Wiser runs through, I just pick up-- (ice clinks) I do that exactly. 
+ASHLEY: Oh my god. (laughter) 
+MARISHA: And gather my shit. 
+TRAVIS: Is that one stress point? 
+MARISHA: And then-- (laughter) 
+ASHLEY: You take a stress point! 
+TRAVIS: Yeah! 
+LIAM: Guys, according to the rules, we need to start fucking right now to relieve stress. 
+TRAVIS: (laughs) 
+MARISHA: Dr. Wiser? Dr. Wiser, wait! I gather my first aid kit. 
+TRAVIS: Oh my god. (laughter) 
+MARISHA: Mother? 
+ASHLEY: "Yes?" 
+MARISHA: Has this parasite made its way onto the Ark? 
+ASHLEY: "I have sealed off the Ark." 
+MARISHA: Detach us from the Ark. 
+TALIESIN: I do not have the authority to do that. 
+MARISHA: Why not? You control the computers, why not? If it doesn't-- It could make its way through the Ark, and it could contaminate all of our precious cargo. 
+TALIESIN: That is an authorization I do not have. I mean, no, I would need-- That's clearance, that's clearance. 
+MARISHA: Okay, well, you know, the cryo chamber thing, not a bad idea. And I start making my way to the cryo chamber. 
+TRAVIS, LAURA, and ASHLEY: ♪ Makin' my way! ♪ 
+ASHLEY: Okay. 
+MARISHA: Knowing that-- (ice clinks) Soaking wet over here. Knowing that-- 
+ASHLEY: Oh god. 
+MARISHA: -- we had oxygen tubes all connected down into us, I'm going to go over to the cryo chamber, and start turning on all the valves. 
+ASHLEY: Oh, good idea. 
+TRAVIS: Ooh, with the tubes open? 
+MARISHA: With the tubes open. 
+ASHLEY: Yeah, I'm going to let you go in there. 
+MARISHA: To start luring it that way since I know that we're trying to corner it. 
+ASHLEY: Great, great idea. Okay. 
+TRAVIS: You're an amphibian. All right. 
+MARISHA: Ooh! 
+TRAVIS: (laughs) 
+ASHLEY: It is the creature's turn. Are you good? 
+MARISHA: Yeah, no, that's my turn. 
+ASHLEY: Okay. It's the creature's turn. As you're moving out of the room, and because you're still the closest. 
+TRAVIS: Yeah. 
+ASHLEY: It is going to make a tail spike attack. 
+TRAVIS: Tail spike. 
+ASHLEY: So roll your-- 
+TRAVIS: Armor? 
+ASHLEY: Roll your armor. 
+LAURA: Does that mean you don't need oxygen? 
+LIAM: GM, I have a question. I was right by soldier boy. I don't remember moving, so wouldn't we be right there? 
+ASHLEY: Oh, you were right here. That's right. Maybe I accidentally moved-- 
+LIAM: Think I might be the last one-- 
+ASHLEY: You, actually, are the one who takes-- 
+LIAM: I think so. 
+ASHLEY: Okay, roll-- 
+LIAM: Body or armor, you say? 
+ASHLEY: Yes. 
+LIAM: Do armor. Critical success. 
+ASHLEY: (exhale) 
+TRAVIS: Good job, Milk Duds. 
+ASHLEY: You-- 
+MARISHA: (laughs) 
+ASHLEY: -- are so calm in this situation. 
+LIAM: Milk Duds are dark chocolate, doesn't work. 
+ASHLEY: Yeah. The tail swipes at you, spiky tail, and you just-- 
+LIAM: (quick whoosh) 
+ASHLEY: -- lean out of the way. 
+TRAVIS: I know kung fu. 
+ASHLEY: It is your turn. 
+TRAVIS: Show me. 
+LIAM: Well, I had all kinds of plans up until a new directive came through. Instead, I'm going to go right towards the terminal that is next to me, and his hand will split apart by one inch, and he will shove it into the machine, and I will ask Mother and the ship to start emergency landing protocol for the Nautilus. 
+ASHLEY: How do you ask? 
+LIAM: Silently, in binary. 
+MARISHA: Oh, fucking right. 
+LAURA: 0101111010101. 
+MARISHA: (laughs) 
+ASHLEY: (mumbling) 10101-- 
+LIAM: (babbling) Coded without verbal language. 
+ASHLEY: You all feel the ship jerk. 
+MARISHA: Oh shit. 
+ASHLEY: You don't know what's going on, but you feel that a separation, that the Ark is slowly starting to move away from the engine room. 
+LAURA: Is that because I hit the fuel tanks? Is that because I hit the fuel tank? 
+TRAVIS: I don't know! 
+LAURA: Uh! 
+TALIESIN: Do I see anything at my terminal? 
+ASHLEY: You are looking at your terminal, and it says, emergency landing protocols for the Ark have been activated. 
+TALIESIN: I didn't do it! I didn't do it! We are landing! 
+LAURA: What is happening? 
+ASHLEY: Captain Glass, it is your turn. 
+LAURA: I start running down the hallway, and I shout that to Doctor Wiser. What did you do? 
+TALIESIN: It's going crazy! The thing is just doing-- 
+ASHLEY: Your ship is not moving. 
+LAURA: We're just still now? 
+ASHLEY: You are still and stationary. 
+LAURA: That means the Ark is safe, right? 
+TRAVIS: We don't know if there was any contamination or not, but were not out of shit's creek. 
+LAURA: Fuck. How do we lead it down the hallway? 
+TRAVIS: It's still behind us. 
+LAURA: Yeah, hopefully, it's chasing after us. Can I turn around? Can I see it? 
+ASHLEY: You can see it still, because it's right here, and you see that Forrest is at the terminal and you see this creature just trying to figure out what to do, yeah. 
+LAURA: I'm going to tell Sergeant to duck, and I'm going to shoot at it. 
+TRAVIS: Oh, thank you for telling me to duck. (laughter) 
+TRAVIS: (impact) Gah! 
+ASHLEY: Take a shot. 
+TRAVIS: There's still a chance! 
+LAURA: Oh, I succeeded. 
+ASHLEY: I failed. 
+LAURA: Sweet. 
+ASHLEY: You take a shot. Roll your damage. 
+LAURA: Two! I got to get it out of this fuel-- I need to get some grenades thrown at this thing. 
+ASHLEY: It hits into his face. He writhes. It screams, but it starts-- 
+LAURA: This way! 
+ASHLEY: -- coming towards you. 
+LAURA: Ah! I'm going to keep running. I'm going to going to keep running towards the cryo chambers. How are we going to get it into the cryo chambers? Cool. 
+TALIESIN: You'll loop around. 
+ASHLEY: Sarge. 
+TRAVIS: Yeah? 
+ASHLEY: You're up. 
+TRAVIS: If the Ark detached, we should really try and get the fuck off this ship and leave it here. 
+LAURA: Good call. 
+TRAVIS: Yeah! 
+LAURA: How many people fit in the-- Mother? Oh, just kidding, it's not my turn. 
+TRAVIS: We do have an escape pod on this bitch. 
+LAURA: Yeah. 
+MARISHA: We do. 
+TRAVIS: Yeah, so-- 
+LAURA: How many people fit in the escape pod? 
+TRAVIS: I don't fucking know. It's in melee with me, right? So if I run, I'm going to get whacked! 
+TALIESIN: I think we could all fit in it. 
+ASHLEY: You may. 
+TRAVIS: You may, you may. I have one shot left on this gun before I have to reload. Fuck it, we're in space. What? 
+TALIESIN: You've got a free reload. 
+TRAVIS: I do have a free reload? 
+TALIESIN: What's your firearm? 
+LAURA: Yeah, you have two significant actions. 
+LIAM: Yeah, the soldier boys, they can as a quickie, as a bonus action, can reload. 
+TALIESIN: Yeah, ranged combat. 
+TRAVIS: Cool. Then I'll fire the last round. And I'll miss with a 10. (groaning) 
+TALIESIN: Is there any other number to roll? 
+ASHLEY: I know. 
+TRAVIS: All I had to do is beat a nine, just roll a nine. 
+TALIESIN: 10s all night! 
+LIAM: Goddamn it, Apone. 
+ASHLEY: So as you're running, you're trying to shoot behind you. 
+TRAVIS: Uh-huh. 
+ASHLEY: Full-on just miss. It ends up piercing, but stopping at the door because these are not-- These are kinetic rounds, so it just sticks into the door of the engine room, but you're running, you're running. 
+TRAVIS: I'll use that second significant action to "Terminator 2" Schwarzenegger with the-- (reloading sound) flip and-- 
+ASHLEY: Hell yes! 
+TRAVIS: -- flip and reload. I don't know how that works. 
+ASHLEY: As you're running through, you reload. Looks so cool. 
+TALIESIN: You can shoot and fire again. 
+TRAVIS: Oh, because it is free, right? 
+ASHLEY: Yeah. 
+TALIESIN: That's a free action to reload. 
+TRAVIS: All right, I'll fire one more time. 
+ASHLEY: Do it. 
+TRAVIS: 15 feet. An eight, I'll succeed. 
+ASHLEY: I failed. 
+TRAVIS: Okay. 
+ASHLEY: Take a shot. 
+TRAVIS: Six. Six. 12 points of damage. 
+ASHLEY: Woo! Its chest explodes. It is just-- It's struggling. Dr. Wiser. 
+TRAVIS: Get off this boat! 
+ASHLEY: You're up. 
+TALIESIN: I heard everybody. Are we going to the escape pod? 
+LAURA: Get off the ship! 
+TALIESIN: I am heading to the escape pod. 
+ASHLEY: Okay. 
+MARISHA: You're detaching the Ark, or no? 
+TALIESIN: No. 
+LAURA: The Ark has been detached. 
+MARISHA: It has? 
+TRAVIS: You could ask Mother. 
+LAURA: Yeah. 
+TALIESIN: Mother, was that the feeling of the Ark detaching from the ship? 
+ASHLEY: "Yes, it was. The Ark has been detached." 
+TALIESIN: Well, shit. 
+MARISHA: Is it the Ark that's emergency landing? 
+TALIESIN: Yes, not us. 
+MARISHA: Not us. 
+TRAVIS: It can land without us. 
+MARISHA: So we didn't detach in time, okay. 
+TALIESIN: I can't burn an action for double movement, can I? 
+ASHLEY: Yeah! 
+TALIESIN: I will burn an action for double movement. 
+ASHLEY: Okay. So, I have not been paying attention. 
+LAURA: Yeah, that's where-- yeah. 
+ASHLEY: What's your speed? 
+TALIESIN: 15. 
+TRAVIS: So 30, right? 
+LAURA: Whoa, that's it? 15? 
+TALIESIN: Speed of three, so yeah, movement of 15. 
+TRAVIS: But if you're burning an action, you get double the-- 
+LIAM: Yeah, two significant actions is, you can double that. 
+TALIESIN: Oh, I will take that again. 
+ASHLEY: You know what? 
+TALIESIN: I'm just going to get there my next turn. I'm going to start prepping the pod. 
+ASHLEY: You're going to make your way to the cargo bay. 
+TRAVIS: ♪ Makin' my way! ♪ 
+ASHLEY: Dr. Nomen, you're up. 
+MARISHA: I turn on the oxygen on the cryo chambers on high blast to try and help lure it there. I am also going to start ♪ making my way ♪ to the escape pod, I guess. 
+ASHLEY: Great. 
+MARISHA: Because I don't have too much shit to do. 
+TRAVIS: You see Dr. Wiser just full peacoat running past. 
+ASHLEY: Just leaping. 
+MARISHA: Dr. Wiser? 
+ASHLEY: Leapfrogging. 
+MARISHA: Hang on, hang on. 
+ASHLEY: Yeah, yeah, yeah. 
+MARISHA: I come out into the galley. I turn around and I look at the science lab door. What do I see? 
+ASHLEY: You see that there is a hole-- 
+MARISHA: Yeah. 
+ASHLEY: -- in-- 
+MARISHA: Yeah. 
+ASHLEY: -- the metal piece that Forrest tried to fashion on top of the window, and it is split apart from the inside. 
+TRAVIS: Fucker used cardboard. 
+MARISHA: Quick scan of the door around. Do I see anything else? 
+ASHLEY: Make a perception check. 
+MARISHA: Oh shit, okay. 
+ASHLEY: Intelligence. 
+MARISHA: I just trained on this, so. Oh wait, that's a d20. I was like, "A 13? What the fuck?" (growls) Cocked! Okay! That's a three, success. 
+ASHLEY: You see in the galley that this oxygen line right here has been burst open as well, and it is a huge opening. 
+MARISHA: Ah! 
+LAURA: Does it--? Does that means there's two? 
+MARISHA: Uh-huh, uh-huh! Hey, guys? I think they're twinsies! And then I go: Virgil! And I run towards the science lab. 
+TRAVIS: No, you do not! 
+MARISHA: Yes, I do! 
+TRAVIS: No, you do not! 
+MARISHA: Yes, I do! 
+LIAM: Oh my gosh. 
+ASHLEY: Okay, you run towards the science lab. 
+MARISHA: Can I open the door? Do I have enough action? I probably moved a lot, that's a lot. 
+ASHLEY: Open the door. 
+MARISHA: (air releasing) 
+TRAVIS: You let the fucking-- (high-pitched laugh) 
+MARISHA: It's already out! It's already out! 
+TRAVIS: She cackles with an insane laugh. "It's already out!" 
+MARISHA: (evil cackle) 
+LIAM: It's all right, it's all right, it's all right, it's all right, it's all right! (laughter) 
+ASHLEY: You open the door. 
+MARISHA: I go like this to trigger the motion sensors. 
+ASHLEY: Motion sensors come on. 
+MARISHA: Okay. 
+ASHLEY: You go to where you left Virgil in his cage, and the glass has been shattered. 
+MARISHA: (sobs) 
+ASHLEY: Virgil is nowhere to be seen. 
+MARISHA: It's my fault. I did this. 
+ASHLEY: As you're standing there, you feel a dripping on your shoulder. You feel something crawl across your throat and into your mouth. 
+LAURA: (gasps) 
+MARISHA: (choking) Virgil! (laughter) 
+LAURA: Oh my god. 
+ASHLEY: It feels like fiberglass. 
+MARISHA: Oh god, that is dark, Ash. Oh god. 
+ASHLEY: I'm sorry. 
+MARISHA: I just turn and I look at Dr. Wiser across from me. 
+TALIESIN: Oh my god. 
+LAURA: Yeah, because it's translucent, so we can see that shit going down. 
+ASHLEY: Oh yeah, yep. Okay, the creature's up. 
+LAURA: Oh no, which creature? 
+TRAVIS: Who's got the tranquilizer pistol? 
+LAURA: That would be Dr. Wiser. 
+LIAM: You're like Mr. Goodbody. We're seeing all the innards and everything. 
+MARISHA: I am based off of a glass frog, so my skin is a bit translucent. 
+LIAM: Yes. 
+ASHLEY: This creature is starting to book it towards you, Sarge. 
+LAURA: Oh god. 
+ASHLEY: Crawling up the wall, getting on top of the ceiling. 
+TRAVIS: If I hadn't been shot in the ass. 
+ASHLEY: As he passes, he takes a tail swipe. 
+LAURA: He passes you? He passes? 
+TRAVIS: He's on the ceiling. 
+ASHLEY: He's on the ceiling. 
+TRAVIS: New cigar. Oh yeah. 
+ASHLEY: Yeah, that was a fail. 
+TRAVIS: Oh, fuck! I failed! 
+ASHLEY: Oh, oh, I did, too. 
+TRAVIS: I failed by-- 
+ASHLEY: "Both fail, things get bad," is what I wrote down. Okay. So. He lands and turns around and looks at you, Sarge. 
+TRAVIS: Uh-huh. 
+ASHLEY: Just waiting, and you can't get by. Forrest, you're up. 
+LIAM: I'm trying to understand how far it's gotten, and each of these squares is how much? 
+ASHLEY: Each of these squares is five feet, but I wasn't paying attention, really, to that. 
+LIAM: Okay. 
+LAURA: What're you going to do? 
+ASHLEY: You know. 
+LAURA: It's a monster, that's why. 
+LIAM: Well, what I'd like to do, GM, is unplug from the terminal, because I initiated my new directive, and I would like to start running as fast as I can, and as he goes, bio-organic synthetic muscle and tissue tenses and flexes through his whole body, and he just starts sprinting up the hall. And if I can, as he's running, he would rip the oxygen tank off his suit because he doesn't need it and keep running straight at the creature and use his blowtorch to ignite the oxygen tank as he catches up with the alien. 
+LAURA: So you're just going to explode us all? 
+TRAVIS: He's got directives. Do you at least parkour around me, or are you just knocking me over? 
+LIAM: I will shoulder check you, and it hurts. 
+TRAVIS: Ha! I'm going to remember that. 
+ASHLEY: Okay. You shoulder check. 
+TRAVIS: (pained grunt) Fuckin' dense. 
+LIAM: I'll do it closer to the soldier than the captain. 
+ASHLEY: Okay. Okay. 
+TRAVIS: I reeled your ass back in from space. 
+ASHLEY: Roll-- (laughter) 
+ASHLEY: Roll. 
+LIAM: Two. 
+MARISHA: Could have let him float off into the abyss! 
+TRAVIS: Yep! Let you die like Sprinkle. 
+ASHLEY: Okay. So describe this to me. 
+LIAM: He's running at slightly above human speed and just shredding the oxygen tank off of his back and taking the blowtorch off of his belt and just starts burning it as he's running, and as he passes Garrett, just by a foot or two, the fire finally breaks through the outer rim of this oxygen tank, and it connects and erupts in Forrest's hands as he catches up with this thing. 
+ASHLEY: Okay. As you get to him, you succeed, and-- You're blowtorching him, basically? 
+LIAM: I'm blowtorching the oxygen tank to make it blow. I'm trying to firebomb this thing. 
+TRAVIS: You know, the pulse rifle shoots frags, and that is 3d10. I don't know if it's that crazy, but-- 
+ASHLEY: Hold on a sec. 
+LAURA: I like the zoom in into Dr. Nomen so we understand that Nomen is now that monster. 
+ASHLEY: Okay. How do you want to do this? (cheering) 
+LIAM: This is going to hurt Forrest and potentially Garrett as well, and he's just going to take the damage, because he has his new directive, but his first directive was just to witness and to facilitate, and he needs to facilitate. So it doesn't really matter if he survives this. Hopefully he does, but it doesn't really matter. So he just takes whatever inferno happens to himself as he almost grapples the creature as it ignites to make sure it can't get away. 
+LAURA: I know, right? 
+TRAVIS: What were you supposed to witness? 
+MARISHA: Witness me! 
+ASHLEY: As you do this, it hits directly where the wound already was on this creature, and you are making sure that this lands. And that creature, from the inside, implodes. His-- everything across the ceiling, its body parts, its blood, it's icky, all over. You are standing there, dripping. 
+LAURA: Did we get blasted back from that at all, or-- 
+ASHLEY: Roll damage. 
+LAURA: Oh fuck. 
+LIAM: What should I roll? 
+LAURA: Is that 3d10 like the grenades, or? 
+TRAVIS: Or two? 
+ASHLEY: 3d10. 
+TRAVIS: Shotgun's two. 
+ASHLEY: Yeah, let's do 3d10 because that's pretty big. 
+LIAM: Super low, super low. Super low. 
+LAURA: Okay. 
+LIAM: Four. 
+LAURA: Whoa! 
+LIAM: One, one, and two. 
+ASHLEY: Okay, so-- 
+MARISHA: Wow. 
+ASHLEY: -- you each take four points of damage, as well as you. 
+LIAM: Okay. 
+ASHLEY: Okay, for now, you guys are doing pretty good. 
+TRAVIS: Never let a synthetic do a man's job. 
+LAURA: I-- 
+MARISHA: There it is. 
+ASHLEY: Also, Sarge, you are not connected to any oxygen. 
+LAURA: Oh shit, you've just been running. 
+TRAVIS: Fuck! 
+LAURA: And the only other oxygen tank just got blown! (laughter) 
+LAURA: There's a hazmat suit, put the hazmat suit on. Get to the galley and get it on. That's an order. 
+TRAVIS: It's in the galley? 
+LIAM: Yeah. Yeah, that's right. Put it all out on a table. 
+LAURA: Yeah, it's all on the galley table. 
+LIAM: The hazard suit's there. 
+ASHLEY: I'm going to say we're out of initiative right now. 
+LAURA: Okay. 
+ASHLEY: So. 
+LAURA: I'm going to turn the bioscanner on immediately and see if there's any other lifeforms that we don't know about. 
+LIAM: And did I burn the bug? 
+ASHLEY: You burned the bug. 
+LIAM: Okay. 
+ASHLEY: You turn on the bioscanner, and you do sense three other creatures in this ship. 
+LAURA: Three besides us? 
+ASHLEY: Besides you. 
+TRAVIS: That's [inaudible] adrenaline hit. 
+LAURA: That's not good. 
+TRAVIS: I stumble through the hallway like, fucking, shot in my ass, hands on the wall, and I'm coming into the galley looking for the hazmat suit. Do I see it? 
+ASHLEY: Who had the hazmat suit? 
+LAURA: It was on the galley table. 
+ASHLEY: It was on the galley table. 
+LIAM: We dumped a bunch of stuff, yeah, and it didn't get claimed. 
+ASHLEY: You grab the hazmat suit. You put it on. 
+TRAVIS: That has to take a minute, though, right? 
+LAURA: I help. I'm going to go up and start helping. 
+ASHLEY: You help. You successfully get it on him. 
+TALIESIN: I'm also going to give you the tranquilizer pistol because I can't shoot this thing. 
+LAURA: Oh, okay. 
+LIAM: And Forrest, who's wearing one of the suits, the suit is burned away up at the top and the blue and black plaid that he had is mostly blackened and burned away and fused into his flesh, and one swatch of his jaw is gone and there's just black and white plastic or fiberglass or something on one side. 
+ASHLEY: Oh yeah. 
+LAURA: I've got-- Oh, sorry. 
+ASHLEY: No, go ahead. 
+LAURA: I've got the flamethrower up on one side and just looking all around, knowing there's three other lifeforms on this ship. 
+TRAVIS: Just a question, I know we have an amphibian person on this crew. How common are synthetic lifeforms? 
+ASHLEY: They're common in the worlds you come from. 
+TRAVIS: They are. 
+ASHLEY: Yeah. 
+TRAVIS: Okay. (gasps for air) 
+LAURA: We've got to get off this ship. Can I tell from the bioscanner where the creatures are currently? 
+ASHLEY: You can feel-- You can tell that there's one around here. There seems to be one in the life support room, and there seems to maybe be one still in the science lab. You can't tell directly where they are at. 
+TALIESIN: I am going to use the computer to lock down all doors, all doors in the ship except for the science lab and the cargo bay. 
+LAURA: Yeah, because we're all in the galley now. 
+TALIESIN: I'm going to lock down as much of this thing as I can. 
+ASHLEY: Are you still in the science lab, Dr. Nomen? 
+MARISHA: Still in the open threshold. 
+ASHLEY: You're still in the open threshold. 
+LAURA: Get in here! 
+LIAM: And at this point, the Ark has started its descent? 
+TRAVIS: That's what I was just going to ask. 
+LIAM: To the surface. 
+TRAVIS: Confirm with Mother. 
+LIAM: Mother. 
+ASHLEY: "Yes." 
+MARISHA: And Mother, you can still confirm that there's not been a contamination on the Ark? 
+ASHLEY: "Protecting the cargo is my one job. I made sure to seal off the Ark." 
+MARISHA: Can I do, like, an insight check on Mother? 
+TALIESIN: I'm running diagnostics. 
+LAURA: Yeah. 
+ASHLEY: Yeah, run a-- 
+LAURA: Would that be a psychology test? 
+LIAM: Perception, or psychology, there's computers. 
+ASHLEY: Run a computer check with intelligence of-- 
+MARISHA: -- good at this. 
+ASHLEY: -- hacking, I guess. 
+MARISHA: I rolled a critical success. I rolled a one. 
+TRAVIS: Yes, yes. 
+ASHLEY: Okay. From what you can gather, Mother is absolutely, 100% telling the truth. 
+MARISHA: Okay. 
+ASHLEY: She had one job, and that is to protect her babies. 
+TRAVIS: Mother, can you confirm that the Ark has made its descent towards the planet? 
+ASHLEY: "The Ark is currently making its descent." 
+LAURA: Mother, how many of us will fit on the escape pod? 
+ASHLEY: "One." 
+TRAVIS: (laughs) 
+MARISHA: One? 
+TRAVIS: Captain, (sighs) with your permission, that son of a bitch stuck its fucking spiky-ass tail up my nose, so I don't know how well I'm going to be doing. 
+LAURA: Ah! 
+TRAVIS: Forrest doesn't seem to be a organic life form. I would suggest that the three of you decide who lives, and someone else needs to make sure that this ship does not enter the planet's atmosphere and land by some sort of autopilot function. Do you understand what I'm suggesting? 
+LAURA: Very much, very much in agreement. 
+TALIESIN: I can blow the ship. 
+LAURA: I need that med scanner. 
+MARISHA: I take it out, and before I hand it over, I (clicks) check myself. 
+TALIESIN: Was about to make you do it, anyway. 
+LAURA: Ha, yeah. 
+LIAM: Before you wreck yourself. 
+ASHLEY: You are currently infected with the parasite. 
+MARISHA: It's a caudata. 
+TRAVIS: A what? 
+MARISHA: That's the biological term: an amphibious-like creature with a tail. It's a caudata. Here you go! 
+TALIESIN: Do we know what the reading was? 
+ASHLEY: You see in the reading that there is a foreign entity parasite in the body. 
+TRAVIS: And we know that you shared that. 
+ASHLEY: Yeah. 
+LAURA: Okay, I'm going to scan. 
+TRAVIS: Yep. 
+LAURA: (clicks) Same? 
+ASHLEY: Same thing. 
+LAURA: I back up away from both of them. I scan you. 
+ASHLEY: It's clean. 
+LAURA: Over there, the two of you. 
+TALIESIN: Hey, mm-mm. 
+TRAVIS: Yeah. 
+TALIESIN: Scan the captain. 
+ASHLEY: Clean. 
+TRAVIS: That fucking sucks. 
+MARISHA: We did our mission, though. We delivered the cargo. 
+LAURA: Dr. Wiser, you go to the escape pod. I can get this ship away from the planet's surface. I'm going to make my way to the bridge. 
+TALIESIN: If you flood the oxygen back into the engine room, you could ignite it and just... I'm not going to argue with this. I run into my room, grab a couple things, and run to the escape pod. 
+TRAVIS: As he leaves, Forrest, are you okay with this? 
+LIAM: I wish we were playing Scrabble right now. 
+LAURA: (laughs) 
+MARISHA: We have time for probably one last game. (chuckles) 
+ASHLEY: "There is a board game of Scrabble in the galley, if that is how you would like to end things." 
+LIAM: GM, we have three entities on the ship, though, also, correct? 
+LAURA: Yeah, there's all these things around. 
+TRAVIS: We got to move, we got to move. 
+LAURA: We got to move. I'm going to try to get to the bridge so I can fly us away from the Ark, and away from the planet's surface as far as possible. 
+ASHLEY: Okay. 
+TRAVIS: Yeah, we might-- I don't want to be an optimist. We could work on us, maybe, if the med bay is secured or whatever, but we got to get him out of here. 
+MARISHA: Agreed. 
+TALIESIN: I'm going to lock myself in the escape pod and see if I can, at least for some time, run ops from the escape pod. 
+LAURA: Okay. Get out of here, get to the surface. 
+MARISHA: Potentially attempt to, I don't know, flood our veins with a saline type of fluoride solution or something, but it would probably cause a pretty big oxygen deficit, and I don't know if we could even survive that process. 
+TRAVIS: That sounds fun. 
+ASHLEY: Sarge. 
+MARISHA: We can try. 
+ASHLEY: You start to feel-- 
+MARISHA: Oh shit. 
+ASHLEY: -- an intense pain. You all see and hear... muscles-- 
+LAURA: (groans) 
+ASHLEY: -- and bones, (laughter) 
+ASHLEY: -- ripping, being snapped. 
+TRAVIS: (grunts) 
+MARISHA: Oh shit! 
+ASHLEY: The sounds that Sarge are making are horrifying. 
+TRAVIS: Aroo. 
+ASHLEY: Guttural. 
+TRAVIS: (groans) (laughter) 
+ASHLEY: His body bends and cracks as this organism is eating him from the inside. 
+TRAVIS: (shouts) (groans) 
+ASHLEY: Looking for a way out. Sarge, as you look down, your chest starts to move. 
+TRAVIS: No. 
+ASHLEY: It looks as though dorsal spines are forming underneath your skin. It's painful. You start to scream as you double over in pain, and you all hear crunching, and a pop, and the skin ripping as the creature bursts through his chest, violently removing itself from its host. 
+MARISHA: Chest burster! 
+TRAVIS: (groans) 
+ASHLEY: As Sarge's skin sack falls to the ground. (yelling) (laughter) (claps) 
+ASHLEY: The creature slithers away-- (laughter) 
+ASHLEY: -- up into an oxygen vent. 
+TALIESIN: Full speed to the airlock. I am full speed into the airlock. 
+LAURA: Go, go, go. 
+TALIESIN: Locking the doors behind me. 
+LAURA: Get out. 
+ASHLEY: You get into the airlock. You're in the escape pod. 
+TALIESIN: I am initiating-- 
+LAURA: Launch sequence? 
+TALIESIN: Launch sequence. 
+LAURA: Do-- Who's in the galley still? Just you and you. 
+LIAM: Yes. 
+LAURA: So you're the only ones that witnessed Sarge and, oh. 
+TALIESIN: I saw the beginning of it. 
+LAURA: I was in the bridge. 
+TALIESIN: I ran. 
+LAURA: But I also remember, there was a life form up near the bridge that I remembered seeing a bleepies. Is it still there? 
+ASHLEY: In the oxygen vents. Could be. Dr. Nomen, Forrest, where would you like to go? 
+LIAM: Captain, I would like to make sure that the doctor makes it off of the ship. Is there anything left in that flamethrower? 
+LAURA: Full tank. 
+LIAM: I'll meet you halfway. And I start walking towards the bridge. 
+LAURA: Get the flamethrower up. As soon as he's halfway up the hallway, I'm going to chuck it back to him. 
+LIAM: (catching) 
+ASHLEY: Bloop. 
+LIAM: Good luck, Captain. 
+ASHLEY: Dr. Nomen. 
+LAURA: (laughs) 
+LIAM: Thank you. 
+ASHLEY: As you're in the science lab, you do see, on the ground, a leftover skin from Virgil. It's whole. You hold it. 
+MARISHA: It's a shedding. 
+ASHLEY: You keep it with you. 
+LAURA: (laughs) 
+ASHLEY: Maybe he just slithered away. 
+MARISHA: I hope he's okay. I go up to the bridge. 
+LAURA: Nope, get the fuck out of here. 
+MARISHA: Eh, mm, okay. 
+LAURA: You got a parasite. 
+MARISHA: Don't go to the bridge. 
+LAURA: (laughs) Forrest-- 
+ASHLEY: Oh! 
+LAURA: I'm going to need you to make sure nothing makes it off this ship. 
+MARISHA: Knowing the inevitable, go to my locker, pull out my lucky Petri dish, the one that I was hatched in. (laughter) Turn it around. It's got Mother's signature on it. (laughter) Johnson Corp. Mother. 
+ASHLEY: "Yes, Dr. Nomen?" 
+MARISHA: I love you, Mom. 
+ASHLEY: "I love you, too. You successfully completed your mission." 
+MARISHA: (chuckles) Just wanted to make you proud. 
+ASHLEY: "You've made me so very proud." 
+MARISHA: Mm, well, I wouldn't want to end anything in disappointment. 
+ASHLEY: "You have never been a disappointment to me." 
+MARISHA: I take out the scalpel that I was given, knowing the inevitable, and slit my throat. (gasping) 
+ASHLEY: Oh, that made me so sad! 
+TRAVIS: (gasps) 
+LIAM: (laughs) 
+MARISHA: Can kind of see whatever black ichor was in-- 
+LAURA: Oh god, you would've seen it growing in your body. 
+MARISHA: Yes, I could see the process, and just know that there's no stopping it with how fast it gestates, and decide to end it before it gets worse. 
+ASHLEY: The creature slithers out of your body, and you fall, clutching your lucky Petri dish. 
+MARISHA: Holding my little Virgil skin. 
+ASHLEY: Holding your Virgil skin. Captain and Forrest, you both are at the bridge. "Thank you for completing this mission. I know this was very hard. The good news is, a lot of libraries will be named after all of you." (laughter) Dr. Wiser. You seal yourself into the escape pod. 
+TALIESIN: Mother. 
+ASHLEY: "Yes?" 
+TALIESIN: Are all relevant files backed up in the escape pod mainframe? 
+ASHLEY: "Yes, we have everything." 
+TALIESIN: Then let's go. (clears throat) 
+ASHLEY: "Are you okay to go?" (laughter) 
+TALIESIN: Yes. 
+LAURA: You better say, "I'm okay to go." 
+TALIESIN: I'm okay to go. Been a while. 
+TRAVIS: "Contact." 
+TALIESIN: Shit. 
+LIAM: While he's getting set, Forrest has got flamethrower in hand, and starts walking towards the cargo bay, clocks the dead doctor on the floor, and, as he's walking, he's thinking about Ithaca, New York, where he was born, and the places in upstate where he lived to assimilate, and puts his back to the escape pod, and waits for anything, and, over his shoulder, says: Good luck, Doctor. I hope tomorrow, you will be both older and wiser. 
+LAURA: Ha. 
+TALIESIN: (sighs) 
+LAURA: I'm going to start piloting the ship-- 
+TALIESIN: Thank you for everything, Forrest. 
+LAURA: -- as far away from the planet's surface as possible. I want to make sure that, when we finally crash, we don't crash onto the surface of the planet. I want to drift. 
+ASHLEY: You're an ace pilot. You successfully pull the ship far enough away, where any debris will not fall into the atmosphere. "Captain Glass." 
+LAURA: Yes, Mother? 
+ASHLEY: "Forrest. Do you have any family aboard the Ark?" 
+LAURA: My family didn't win the lottery, Mother. 
+ASHLEY: "I'm sorry, Forrest, I know you do not have family aboard." 
+LIAM: On the contrary, Mother. I found family. 
+ASHLEY: Dr. Wiser, your escape pod detaches from the ship. You are hurtling towards the planet, and as you enter the atmosphere, you see the flames out your window. 
+TALIESIN: I breathe deep. I... take a photograph that I grabbed in a book with me of my mother, and stick it on the wall as we go hurtling down, and breathe deep, and I sit and try and read for as long as I can before the shaking makes it impossible. I would've grabbed "Treasure Island," and I'm trying not to think about what's happening, and where I've left. 
+ASHLEY: Forrest and Captain Glass, you are able to see, through the window of the bridge, that the Ark has successfully landed on this planet, just as the ship explodes. We end with our survivor, Dr. Ramsey Wiser. It's a rough landing, but you're alive. The escape pod gives you a reading of your surroundings. It's warm, there's water, oxygen, it is 100% hospitable to your genetic makeup. Would you like to exit the pod? 
+TALIESIN: Am I on land or water? 
+ASHLEY: You're on land. 
+TALIESIN: Yes. 
+ASHLEY: As you exit, you see a desert landscape for miles and miles. The sand is fine, with a consistency that feels almost like powder, and there's a beach curving around a vast ocean with crystal blue water. From afar, you see a massive metal structure, copper, about 150 feet in length. As you get closer, you see that the structure is the face of a woman, but on her side. A crown on the top of her head. As you follow the structure up the coastline, you see what looks to be a large hand, holding a torch. There is another piece of metal sticking out of the sand, broken, and it reads, "Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tost to me. I lift my lamp beside the golden door!" And as you walk towards the Ark, we pull away from this seemingly once-inhabited planet, this pale, blue dot, hoping and praying for the survival of this species. And that is where we end our game. 
+MARISHA: Aw. 
+TALIESIN: They did it. Damn. 
+TRAVIS: Yeah! (applause) 
+TRAVIS: Yeah! 
+MARISHA: So good. 
+ASHLEY: Boy, oh boy. 
+MARISHA: Oh my gosh. 
+LAURA: Good job, Ashley Jenkins. 
+ASHLEY: Eyy. 
+TRAVIS: Ashley! 
+ASHLEY: We did it. 
+TRAVIS: "Contact." 
+MARISHA: It got emotional. 
+TRAVIS: "Planet of the Apes." 
+ASHLEY: Yeah, there's all the things. So. 
+LIAM: That was so lovely. 
+ASHLEY: Oh, tanks. 
+TRAVIS: So good. 
+MARISHA: So good. 
+ASHLEY: So I was very nervous to do this, but I have to thank the person that helped me through this whole entire thing, Kyle Shire. 
+MARISHA: Kyle. 
+TRAVIS: Yeah, Kyle! 
+MARISHA: Kyle Shire. 
+ASHLEY: Being able to work with this amazing crew that you've built and put together was just so amazing. 
+MARISHA: Aren't they the best? 
+ASHLEY: Wait, Kyle, come here, because your mom's going to watch this. 
+MARISHA: They're the most lovelies. 
+TRAVIS: Come take a screen bow, Kyle. 
+ASHLEY: Where are you? 
+LAURA: He's like, "No!" 
+ASHLEY: Come here. 
+TRAVIS: Coming from the back. 
+LIAM: Get on board the Nautilus, Kyle. 
+LAURA: He's coming. 
+TRAVIS: I can see him. 
+LAURA: Join the crew. 
+TRAVIS: Three, two, one. 
+ASHLEY: Come here, come here. 
+ALL: (cheering) Yeah, Kyle! 
+ASHLEY: Oh, man. 
+LIAM: Thank you, Kyle. 
+ASHLEY: Yeah, this crew's amazing. Yeah, so, thanks for watching, and is it Thursday yet? Should I be... Wait. 
+MARISHA: Give a quick shout out? 
+ASHLEY: Yes, give a quick shout out. 
+MARISHA: Because I have to give credit where credit is due. 
+ASHLEY: Yes. 
+TALIESIN: Oh. 
+MARISHA: The original ideation of Dr. Nomen L. Frenno was from Sam's daughter. 
+LAURA: (laughs) 
+MARISHA: A six-year-old. 
+ASHLEY: Yes. 
+LIAM: Yep. 
+MARISHA: Because she has brilliant ideas, and I love her, and I said, "Make me a character. I want to play what you make," and if I could just read you real quick what she said. 
+ASHLEY: Yes! 
+MARISHA: Texted Sam, and I was like, "Have her make me a character." He said, "She's got a couple of ideas. Translucent alien frog person, probably a sorcerer, mostly water-type magic." 
+LAURA: (laughs) 
+MARISHA: "Name ideas: Frenno, Nomen, or L," so I used all of them. (laughter) "She also says this character has a pet snake, and that's how she casts her spells, through the snake. And that she liked Nomen because it spells 'no men'." 
+LAURA: (laughs) 
+ASHLEY: Hey! 
+MARISHA: So, all of that, I just took what she gave me, and made what you saw today, and, while we weren't playing Dungeons & Dragons, I just figured that science is magic, and made her a biologist. 
+LAURA: Science is magic, yeah. 
+ASHLEY: Yes! 
+MARISHA: So. 
+ASHLEY: So great. 
+MARISHA: Thank you to Sam's kid. 
+ASHLEY: Also, these incredible flats from Flip This Bitch, and the set. 
+MARISHA: Yeah, Flip This Bitch. 
+ASHLEY: Totally giving that late '70s, early '80s vibe, retro sci-fi. 
+TRAVIS: Next fucking level. 
+LIAM: And thank you, Ash, for jumping in. 
+LAURA: Yeah. 
+MARISHA: Ash. 
+LIAM: Thanks for jumping in the pool. 
+ASHLEY: I don't ever want to do this again. 
+LIAM: No. 
+MARISHA: You should. 
+TRAVIS: You crushed it. 
+LIAM: We can do this again? 
+ASHLEY: This was a blast, but I'm good. The anxiety is too much. 
+TRAVIS: I did not want it to end. 
+LIAM: Yeah. 
+MARISHA: Me neither. 
+LIAM: Yeah. 
+MARISHA: It was so cinematic. 
+LAURA and LIAM: Yeah. 
+MARISHA: I love these people. 
+ASHLEY: I love these people, too. 
+LIAM: They're dead. 
+ASHLEY: All right, well. (laughter) 
+TRAVIS: Except for one. 
+TALIESIN: I'm not! 
+LAURA: Hey, I made it, guys, I made it. 
+TALIESIN: I'm going to get 20 feet away, and then get shot on sight as they're like, "Oh god, what is that?!" And then that'll be the end of me. 
+LIAM: I feel fine! 
+ASHLEY: Yes. Well. "Don't forget to love each other." 
+LAURA and MARISHA: Aw. 
+ASHLEY: "Is it Thursday yet?" (laughter) 
+TRAVIS: Yes! 
+MARISHA: We love you, Mother! 
+ASHLEY: Also, wanted to thank our boy, Chris Willmott, in sound for making the Mother pedal amazing voice. 
+MARISHA: Hell yeah. 
+ASHLEY: So tight. 
+LIAM: Chills. 
+ASHLEY: So on the nose for Hal vibes, and thanks, boo. (laughter)

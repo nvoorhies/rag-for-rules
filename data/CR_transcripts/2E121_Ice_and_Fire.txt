@@ -1,0 +1,2422 @@
+List of Transcripts
+
+Contents
+
+1 Pre-Show
+2 Part I
+3 Break
+4 Part II
+
+
+Pre-Show[]
+MATT: Hello everybody, and welcome to tonight's episode of Critical Role, where a bunch of us nerdy-ass voice actors sit around and play Dungeons & Dragons. 
+ALL: (discordant yelling) We play Dungeons & Dragons! 
+MATT: Just like that. Before we get into tonight's game, we do have some announcements to get through, beginning with our sponsor for this evening's episode, Grim Hollow. Sam? 
+SAM: It's the first sponsor of 2021, everybody, and I am so optimistic for this year. The show, the sponsors, the ads, the fun we're going to have. And I'm going to set the tone tonight with this sponsor. This episode is sponsored by Grim Hollow! 
+LAURA: Your voice is so high! 
+SAM: Because I'm optimistic! (laughter) 
+SAM: A dark fantasy setting in the godless war-torn world filled with curses, plagues, and ghoulish creatures. (laughter) 
+SAM: But, like, fun ones, yeah! Okay, Ghostfire Games' brand new Player's Guide provides tools for players and GMs to bring this awesome genre to life in a civilization that's long forgotten hope! (despondent) And now clings on desperately for survival. (laughter) Speaking of clinging on! How 'bout this balloon, huh? I love it! Ooh, it's not popping! (balloon pops) Oh! (laughter) It popped. This book includes rules for playing lycanthropes, vampires, liches, and fiends, powerful spells that slowly impact the cursed creature over time, and mechanics for role-play progression and say, an inquisitor, a merchant, physician, where you rise through the ranks of your profession with bonuses on the way. Physician? What a great job to have in 2021! (laughter) Huh? Almost as fun as the fun we have here on Critical Role! Where everything in '21, 2021's going to fill our body-- bellies with love, just like this kitten picture, right, guys? (picture ripping) I love it! (laughter) I fucking love it! 
+TRAVIS: Oh no. (laughter) 
+SAM: You can check it out now at bit.ly/crgrimhollow. Bit.ly-- fuck-- /crgrimhollow and use the code CRITROLE at checkout for 10% off. Thanks to Ghostfire Games for starting 2021 off on a cheerful, hopeful note. Almost as comforting as this cute little teddy bear! I just-- 
+TRAVIS: Whoa! 
+MATT: Sam, Sam, Sam, no! Oh, no! (yelling) 
+SAM: (crazed laughter) (calmly) Back to you, Matt. 
+MATT: Wow, cathartic. Thank you, Grim Hollow, for giving Sam an outlet that he obviously needed badly. 
+LAURA: Going good. 
+MATT: Yeah, brush it off a little bit. You're a little-- 
+LIAM: A little fuzzed up there. 
+MATT: There you go, there you go. 
+TRAVIS: Oh no. 
+LIAM: Perfect. (chicken bawk) 
+MATT: Perfect, all right. 
+MARISHA: Its life force. 
+MATT: In case you missed it, we actually released Doom Eternal: Assault on Armaros Station, a 45-page interactive PDF that provides game masters with a fifth edition-compatible adventure themed to our very own Doom Eternal one-shot that we did earlier in 2020. If you haven't checked it out, and you want to play in a game like this, there might be spoilers, so maybe don't yet, play it first and then watch. But if you did watch it, there's a few changes and shifts and fun things in there to keep it fresh. The download does include fully-created character sheets as well as monster stats, interactive and clickable maps, and usable audio files with a few familiar voices in there. This is all based on the module that I created for the one-shot, but this was written by myself and our very own Chris Lockey and was developed by Ivan van Norman of our Darrington Press branch. (cheering) 
+MATT: So you can find and purchase Doom Eternal: Assault on Armaros Station from the Crit Role US store at shop.critrole.com. 
+LAURA: Mancubus! 
+MATT: I know! (laughter) 
+MATT: Most adorable demonic entity. Laura, you had some things you wanted to talk about. 
+LAURA: Oh, I did, I did! So our Fjord and Beau statues that we talked about with Sideshow are available for pre-order right this minute. And they might've been available earlier today, I don't know, but right now they are available. (laughter) Did you...? 
+TRAVIS: No, look, he's got a low dex mod. It's cool. (laughter) 
+LAURA: They're beautiful. Look at them, they're lovely. They're available right now at side.show/criticalrole. And also, I have another thing to tell you guys. We launched a store in Canada! (cheering) 
+MARISHA: Yay! 
+LAURA: Yeah! So anybody in our lovely neighboring country can buy things and not have to worry about, you know, US shipping fees or whatever crazy (stutters) stuff. So yeah, there's a bunch of merch in there. It's ready to go. You can go to look at it at canada.critrole.com. 
+SAM: Not "Sorry, Quebec" this time. 
+LAURA: Aww. 
+MARISHA: You're fucking welcome, Quebec! (laughter) 
+MARISHA: Don't say we never did anything nice for you. (laughter) 
+MATT: All right, thank you. Wonderful transition. 
+MARISHA: I love you. 
+MATT: Love you too. I think that is all of our announcements. So-- 
+TRAVIS: Jesus. 
+MATT: Without further ado, let's go ahead and jump into tonight's episode of Critical Role. 
+(water bubbling)
+(thunder rumbling)
+(explosion)
+♪ Role, Critical Role ♪
+♪ Role, Critical Role ♪
+♪ Role, Critical Role ♪
+♪ Role, Critical Role ♪
+♪ Role, Critical Role ♪
+♪ Role, Critical Role ♪
+♪ Roll the dice ♪
+♪ The adventure begins ♪
+♪ They were always beside you ♪
+♪ Your nerdy best friends ♪
+♪ And the DM to guide you ♪
+♪ And they rise from the flames for the battles ahead ♪
+♪ Villains beware because you're about to be dead ♪
+♪ They got magic and flair ♪
+♪ They got falchions and cunning ♪
+♪ They don't see over there ♪
+♪ There's a monster incoming ♪
+♪ Inspiration is waiting, rise up, don't think twice ♪
+♪ Put your fate in your hands, take a chance, ♪
+♪ roll the dice ♪
+♪ Roll the dice ♪
+♪ Critical Role (roll the dice) ♪
+♪ Critical Role (roll the dice) ♪
+♪ Ooh, ahh ♪
+♪ Can you answer the call ♪
+♪ Diggin' deep in your soul ♪
+♪ As the legend unfolds ♪
+♪ Now it's your turn (your turn, your turn) ♪
+♪ to roll ♪
+(flames whooshing)
+
+Part I[]
+MATT: And welcome back. So last we left off: The Mighty Nein making their way through Eiselcross-- 
+ALL: ♪ Making my way ♪ 
+MATT: I'm waiting for it. I was waiting for it. Had managed to hit up two of the satellite Aeorian ruin segments, the excavation sites of small pieces that had fallen from the ruined city before it collided with Foren itself. After exiting the last one with a massive threshold crest in your, I guess, collective hands, but more so in yours, you managed to escape the depths of this ruin. You brought forth a, I wouldn't say a new friend, per se, but the survivor of a previous expedition, Iver, who oddly found reason to quickly mistrust you. And you kept him along with you for safekeeping and journeyed for an hour beyond the ruin to rest for the night. Before your night's rest could complete, Caduceus found that you had been found yourselves by the Tomb Takers, who had been aware that you had beat them to the A2 ruin and taken what seemed to have been their quarry and reason for traveling there. So instead they beelined it to you to have a conversation. Through some odd trickery, Lucien dispelled your protective dome. And as you all sat there gathering yourselves in the snow, a brief conversation to led you agreeing to travel together. Perhaps along this journey, share some information, perhaps align some of the interests that you carry and perhaps find a way for them to acquire what it is they need from you. And so, picking up where we left off, you all sit amongst the snow, gathering your things as the Tomb Takers and Lucien begin to make their trek towards the actual central ruin of Aeor. It's only but a fraction of time past morning light. Do you wish to try and continue your rest for a full night's sleep? 
+SAM: Would that work? 
+TRAVIS: It'd probably be smart, right? 
+LAURA: I mean-- 
+TALIESIN: I would. 
+TRAVIS: Yeah. 
+LAURA: Yeah. 
+MARISHA: I mean, but-- 
+TRAVIS: I can stay-- I can stay up and wake you bitches up if something goes wrong. 
+LAURA: But, like, are-- is Lucien still sitting right there? 
+MATT: Yeah. 
+LAURA: I'll just peek up my head up over the snow, and say: Lucien, I heard you. You guys didn't sleep either. Don't you need to rest? 
+MATT: "Well, I mean, I'm certain we're going to be traveling together for a few days. I think rest will have to be taken at some point, yes?" 
+LAURA: Yeah. 
+MATT: "There's trust." 
+LAURA: Yeah, so lay down, go to sleep. 
+MATT: "Oh, I think we're--" 
+LAURA: Get some rest. 
+MATT: "I think we're fine for the better part of the coming day. Right, friends?" And the rest of the Tomb Takers, all still eyes wide, looking a little bleary-eyed but nod. "Right. So, unless you're dragging ass behind and would like to make this deal now, we could begin our day's journey." 
+TALIESIN: We'd like a minute more. We did crawl through an underground ruin and fight off a bunch of stuff. It would be nice to take a minute. 
+MATT: "Take a minute, if you like." He takes a small toothpick out and starts like picking it his teeth and just walks away in a circle, looking around the environment. Caleb, at this point, you notice, it wasn't just the dome that vanished. The contents of your amber also scattered open to the ground around you under the snow. 
+LAURA: That amber was in the bag, the whole night. 
+MATT: Oh, but you have it. Oh, interesting. 
+LAURA: Yeah, we did that. 
+MARISHA: We double-wrapped it for freshness. 
+LAURA: Yeah. 
+TRAVIS: For fresh. 
+MATT: I've got an interesting question, then. 
+TRAVIS: Uh-oh. 
+TALIESIN: Oh no. 
+SAM: Oh no. 
+TRAVIS: ♪ Here comes Vess DeRogna. ♪ ♪ Out of the bag! ♪ (laughter) 
+LIAM: We just can't keep her in there. 
+MARISHA: Just up, like-- 
+TRAVIS: (thudding sounds) Oh! (laughter) 
+TALIESIN: Oh, that would be amusing. 
+MATT: Okay. 
+TRAVIS: It seems like a 10th-level dispel something something. 
+MATT: Hmm. 
+LAURA: Hmm. 
+TALIESIN: Huh. 
+MATT: That's all right. 
+LAURA: We learned our lesson on the last time with the amber, hence the reason for the bag. 
+TRAVIS: Well, maybe we'll learn what the scope of-- 
+MATT: Of course. 
+TRAVIS: -- this is, at least. 
+LAURA: Yeah. 
+TALIESIN: I wonder if it's unretrievable now? 
+MATT: No, okay. So actually, no, because you hid it properly, so it didn't-- nothing happened. 
+LAURA: Whew! 
+MATT: You're fine, you're fine. 
+TRAVIS: Here, high five. 
+MATT: I'd forgotten you had put it in the Bag of Holding. 
+SAM: So-- 
+TRAVIS: Good thinking. 
+SAM: So the thing that we got in the amber in the bag? 
+LIAM: Yeah. 
+SAM: Okay. 
+MARISHA: ♪ In a bucket in the bottom of the sea ♪ (laughter) 
+SAM: Cool. We're smart. 
+MARISHA: Yeah. 
+LAURA: We're so smart. 
+SAM: We always do the right thing. (laughs) 
+LIAM: By the way, can I just point out: What a difference. This photo is from 2019, and this is 2020. Man. (laughter) 
+MATT: How it started and how it ended. 
+LIAM: This is after 2020. 
+SAM: Yeah, yeah, yeah. 
+TRAVIS: Can you lean to your right. Sam? Just for, oh, wow, that is-- 
+ASHLEY: Lemme give it a look see? 
+LAURA: You look like a little baby. 
+MATT: That man is never going to give you up, he's never going to let you down. (laughter) Never going to run around-- 
+TRAVIS: And desert you. (laughter) 
+TRAVIS: Oh, man. 
+ASHLEY: Or desert you. 
+MATT: Yeah, yeah? I love it. 
+TRAVIS: Well, yeah, we should finish our rest. 
+TALIESIN: Yeah, let's finish the rest. Let's not be tired. 
+LAURA: We're going to try to do that. 
+MARISHA: I have a feeling-- I'm going to speak very quietly. 
+TRAVIS: It's like two hours, right? 
+MARISHA: I have a feeling he's not going to allow us to do that unless, I don't know, we stall or something. 
+TALIESIN: I'm staying up anyway, so-- because I don't have to sleep from the end of my long rest. I just have to chill. 
+MARISHA: He's being very bitchy and he wants us to go now. 
+ASHLEY: Is-- 
+SAM: Well, I mean, he's not all bad. He has good oral hygiene, you know? He's taking care of his teeth. 
+ASHLEY: Dagen is still-- 
+MATT: Dagen, you don't see anywhere. 
+SAM: That's right. 
+LAURA: That's good. 
+SAM: So I guess some of you guys are just going to go to sleep here in the snow and we'll just stand guard? 
+LAURA: I like the cold. 
+TRAVIS: Yes, sleep. 
+SAM: All right. 
+LIAM: We do an option. I prepared yesterday. I could take us away from here somewhere else. 
+SAM: What does that mean? 
+LIAM: Well, I've been hesitant to bamf us anywhere because of the nature of this place, but it is possible. So we have an option if we want to roll the dice, to spirit away somewhere else. 
+MARISHA: Would we go closer into Aeor or out of here? 
+SAM: Could you get us somewhere you've never been before? 
+LAURA: We're being very quiet, having this conversation. 
+LIAM: That seems dangerous to me. It's not a great option, I just want you aware of it. I could probably get us back to Balenpost. That seems possible? We've been there. Going somewhere we've never been seems foolhardy. 
+MARISHA: Okay. 
+SAM: But we could-- we could arrive with, like, each other's arms and legs and stuff. We don't know what could happen. 
+LAURA: Yeah. 
+TRAVIS: Or ride with butterflies. 
+TALIESIN: I'm making tea and I'm going to offer it to the whole, I'm away from this, so, attempting to-- 
+MATT: Fair enough. 
+LIAM: Or we could do it later. It's just-- it's an option, if we rest. I'm a little hesitant about it as well, because if we leave, they're still going to go about their business. They're still going to find another one of these things. It might take them another week, I don't know. But if we're in danger, I could do it. 
+SAM: Okay, well, should we-- is it something that you need-- that you can cast right away? 
+LIAM: Yeah, if I, certainly-- 
+SAM: Then should we have a signal or something? 
+TRAVIS: Do we need to be touching? 
+SAM: Touching tips? 
+LIAM: No, I just need to see you. 
+TRAVIS: Okay. 
+LAURA: (giggling) 
+MATT: Caduceus make a perception check for me. 
+LIAM: Tips up. 
+LAURA: See, we're doing-- we're talking real quiet, about this dumb-- 
+TALIESIN: 20. 
+LAURA: Ooh, a 20. 
+MATT: You rolled a 20 or a 20 total? 
+TALIESIN: 20 total. 
+MATT: Okay, no worries. Continue. 
+MARISHA: Also, I just wanted to mention, we have a pretty good advantage right now because he doesn't know how much we know and we should keep it that way. 
+LAURA: I'm looking over. Is anybody looking in our direction while we're having this conversation in front of a whole bunch of enemies? 
+MATT: You guys are being very quiet and huddled, but you're not being secretive about having a huddled conversation out in the open. You're-- I mean, you are surrounded by snow that fell off the dome when it collapsed, but you're all just poking your heads out like prairie dogs at the moment and pushing through it and gathering and having this conversation. Yes, exactly. Role-playing, bonus points. 
+TRAVIS: And we can see all of their party? There's no one that is missing? Cree is there, right? Everybody's accounted for? 
+MATT: Yep. All five of the Tomb Takers that you're aware of are present. Of which currently Lucien's turned away from you, looking over towards the sunrise. Seems to be like stretching-- 
+LAURA: He's listening. 
+MATT: Kind of getting himself ready for a journey. And the other four are-- 
+TALIESIN: He's clearly listening. 
+MATT: They're just looking over at you all. 
+ASHLEY: I don't think they're going to let us sleep. 
+SAM: Let's try. 
+TRAVIS: Yeah, one way to find out. 
+SAM: Let's try, yeah. 
+LAURA: Maybe they will. They seem very, very, very charming and handsome. And like really nice people. 
+SAM: Sure. 
+ASHLEY: (yawns) 
+SAM: Why don't you guys rack out? I'll stay up with Ducey and-- 
+TALIESIN: Yeah, I'm just making a little food and tea for everybody who's going to stay up. 
+MARISHA: I'm going to stay up as well. 
+MATT: All right, you guys-- within a short time, two things you pick up on. One, as you're gathering your things, scooping through the snow, you do bump into a piece of metal and realize that of the snow that's fallen in a pile-- 
+SAM: (gasps) 
+MATT: Dagen is there. He's just being very quiet. 
+SAM: Oh. 
+LAURA: Oh, I thought he was buried in the snow and he was like suffocated and we didn't help him. (laughter) 
+MATT: No, no, no, no. 
+MARISHA: We've been having this conversation-- 
+TRAVIS: He's just like-- 
+MARISHA: -- this whole time. 
+MATT: He just-- you get the sense, like, you don't know if he's alive and you wait for a second and you see a faint breath. 
+LAURA: Okay. 
+MATT: And there's a little part of you that imagines that as soon as any sign of anything weird went down, he basically just hid into the snow. 
+LIAM: He's pulling a Schwarzenegger in Predator. 
+TALIESIN: Good call. 
+LAURA: So cool. (laughs) 
+TALIESIN: Do they eat and drink the food? I suppose would be my question. 
+MATT: You offer tea, right? Food, they don't take, but tea, warm tea, three members accept, including Lucien. But after a fifteen minute period of time, Lucien sits up, hands back the cup that you offer him and goes, "Right. Right as rain, right? Shall we be on the road?" 
+SAM: I guess so! 
+MATT: "Don't mean to be rushing you, but we're going out on a limb here, trusting that we can travel together for a bit, and to, ah, I would be remiss if I didn't notice at the disadvantage that you all happen to be at. Consider this just safety for us, as you are quite accomplished individuals to have made your way through two Aeorian ruins. I would not want to find ourselves on the opposite end of a seemingly unhappy and tense group of heroes and adventurers." 
+TALIESIN: I appreciate truth before politeness. 
+LAURA: (laughs) 
+MATT: "Just being upfront." 
+SAM: Sure. 
+MATT: "No funny business. If we wanted you dead right now, we would have already done so." 
+TALIESIN: That's true. A little strange, even, but true. 
+ASHLEY: Yeah. 
+TRAVIS: Sure, how far do you plan to travel today? What is our destination before the sun sets? 
+MATT: "Well, if we leave now, we can certainly make it to the river of lava before the sun sets. Probably camp along the side there. Might be a bit warmer than some of the other accommodations. Then first thing in the morning's light, weather be willing, we'll traverse it." 
+LAURA: Cool. 
+MARISHA: Can I make an insight check on him? 
+MATT: Sure. What are you trying to gather? 
+MARISHA: Would he have actually killed us or does he need us? I just to want to get a beat on his dis-- Wait, why did I roll twice? 
+MATT: Why did you roll twice? 
+MARISHA: I don't know. I thought I was still at disadvantage, but I'm not exhausted anymore. What did I say? I'm going to make an insight check. 
+TALIESIN: Yeah. 
+MARISHA: 22. 
+MATT: 22. You get the sense that he's confident they could've, but... there are-- he's withholding for a reason. 
+MARISHA: Mm-hmm. 
+MATT: You are of some use to him in some way and that's why he hasn't just killed you outright. 
+TRAVIS: That was a 22? 
+MATT: That's as much as you can gather. 
+MARISHA: Okay. 
+SAM: Well, are we taking the lead or you? 
+MATT: "Hmm. Well, we know where we're going. We've been there before, so we can take the lead." 
+TALIESIN: Makes sense. 
+SAM: And just so we know who we're traveling with, it's Lucien, Cree, Zoran? 
+MATT: Points over. (deep, gruff) "Yeah, it's me." 
+TRAVIS: Zoran? 
+MATT: "Yeah, Zoran." 
+LAURA: Zoran. 
+MATT: "What of it?" 
+TRAVIS: And? 
+SAM: And I'll say in Halfling: Hello! Hello, young lady. What's your name? 
+MATT: "Otis." 
+SAM: Oh, you're Otis. 
+MATT: "Ah." 
+SAM: I'm Veth, nice to meet you. 
+MARISHA: Otis has like a tie, what's a tie-- 
+MATT: "Nice to meet you as well." 
+SAM: What village did you come from? 
+MATT: "Oh, well I grew up in Trostenwald originally, but the place is a fucking dump." 
+SAM: Yeah, we've been there. It is a dump. 
+MATT: And there's the elf, goes, "(sighs) And I'm Tyffial. 
+MARISHA: Tyffial. 
+LAURA: Tyffial, yes. 
+MATT: (as Lucien) "So I guess we're taking the lead. Grab your things. Don't wander too far, strength in numbers out here in the dangerous expanse of Eiselcross." 
+TALIESIN: Not that we're particularly helpful right now, but sure. 
+MATT: "Good. (claps) Day's young, lots of walking. Maybe some talking." He begins to pick up as the rest of the group continues to walk. 
+MARISHA: What are we going to do with Dagen? Saying deeply under my breath after they take a few, a couple steps away-- 
+SAM: In Thieves' Cant. 
+MARISHA: In Thieves' Cant. In Halfling Thieves' Cant. 
+MATT: You hear a, you hear a-- 
+LIAM: (babbling) (laughter) 
+MARISHA: It's just [inaudible]. 
+MATT: When you whisper that as you're fairly confident they're a little ways out of earshot, you hear a voice from under the snow muffled, go, (as Dagen) "Don't worry about me." (laughter) "I'm going to follow at a safe distance. I'm not here." 
+LAURA: Awesome. 
+ASHLEY: That's really cool. 
+MARISHA: Okay. 
+TALIESIN: Gone full Predator. 
+MARISHA: Okay, I'm surprised he still wants to come with us, but sure, yeah, hell yeah, man. 
+MATT: "I want the other half of my pay." (laughter) 
+LAURA: He loves us. He's secretly in love with us. 
+TALIESIN: I feel that the phrase, "I want the other half of my money" is probably just three syllables in Thieves' Cant. (laughter) 
+MARISHA: Yeah. 
+TALIESIN: Ta'pluck't. (laughter) 
+ASHLEY: Fair enough. 
+TRAVIS: Okay, we follow. 
+TALIESIN: Yeah, we're walking. 
+MATT: All right, without a full night's rest, everyone does suffer a point of exhaustion who did not complete it, that's all of you. 
+TALIESIN: Got a short rest, though. 
+LIAM: Which is on checks, right? 
+MATT: Exactly, disadvantage on ability checks. But-- 
+LAURA: Where do we put that? 
+SAM: Under conditions, under you hit point maximum. 
+MARISHA: At the very bottom. 
+SAM: The bottom. 
+TALIESIN: But do remember, you got a short rest. I'll just put it in my brain. 
+MATT: Indeed, those of you who got a short rest, you did get that. 
+LAURA: Sure, great, cool. 
+MATT: You're exhausted. It is a fairly, once again, a moderately clear sky for what you've experienced here. There are still, you know, gray clouds, probably, you know, a third of the sky still held by them. But quite a bit of blue is peeking through, it's a calmer, more beautiful morning out here in your travels and it's welcoming, if not for the blearing light that's now finding your eyes and you're all trudging through the snow and ice, exhausted. But you keep pace with the Tomb Takers, who are keeping pretty decent pace, not as fast as you would have been, perhaps if you were following your friend who was guiding you, but not too terribly slow, as you are following in their footsteps, And they're moving at a pretty decent pace. But they keep on about maybe 20 or so feet ahead of you. And occasionally they're just keeping eyes over their shoulders. They're having conversations amongst themselves. You hear a couple distant laughs. You know, they're friends traveling, but there's definitely a separation, at least as much as you guys want to keep it. 
+LAURA: Can I have a piggyback ride and keep sleeping on somebody's back? (laughter) 
+MATT: I don't know if I'd consider that restful sleep. (laughter) 
+LAURA: Just thought I'd ask. 
+ASHLEY: I could try to put you on my shoulders. 
+LAURA: (laughs) Just like across. 
+ASHLEY: You're just like-- (snores) 
+MATT: The kid who's done with Disneyland right about six o'clock. 
+ASHLEY: Yeah, yeah. (laughter) 
+MATT: I've been that kid. I've been that adult. 
+LIAM: Just got sugar and frosting all over your mouth. (laughter) 
+MATT: All right, is there anything in particular you guys want to do as you journey? 
+TALIESIN: Finish a long rest. 
+LIAM: Regret. 
+MATT: You got that. 
+TALIESIN: A lot of regret. 
+SAM: I'll walk up and chat up Otis real quick. 
+MATT: All right. 
+SAM: If she'll have me. 
+MATT: Okay. 
+SAM: Hey there, Otis. 
+MATT: "Oh, hello there." 
+SAM: You seemed-- I just wanted to follow up on what we were talking about before. Do you-- you're from Trostenwald, right? 
+MATT: "I mean, long time ago." 
+SAM: Oh, oh, because we've been there sort of recently. Like, we went to-- I think we stayed at the Nestled Nook Inn. Do you remember that place? 
+MATT: "Right, right now, I remember some of it, aye." 
+SAM: Do have family there, do you have--? 
+MATT: "Don't care." 
+SAM: You don't care about your family? 
+MATT: "I don't care if I have any family." 
+SAM: Oh, but like I meant close family, like, you know, husband, wife, you know, something like that. Kids? 
+MATT: "Not really, not a lot of family work in the Orders." 
+SAM: Not a lot of family work in the Orders, huh? 
+MATT: "Yeah, not really." (laughter) 
+SAM: Yeah, that's what I hear about it. (laughter) 
+MATT: "What are you on about?" 
+SAM: I just, I don't, there's no other, like, like us. I don't run into a lot of us, you know, or I haven't been traveling with any other halflings and it's nice to see a familiar, you know, body. 
+MATT: "Well, you're not wrong, you're not wrong. Traveling with tall folk all the time, it's just kind of-- hmm, I don't know." 
+SAM: You know what the worst part-- 
+MATT: "Good to find someone on your level." 
+SAM: Yeah, no, but the worst part about it is they don't understand, if they don't shower for a few days, when you walk by someone's ass, it stinks, right? I mean, like, and we're down there all the time, smelling crotches and butts. 
+MATT: Otis glances briefly over in Zoran's direction and goes, "Yeah." 
+SAM: Yeah, it's gross. (laughter) 
+MATT: "Yeah." 
+SAM: Well, I don't know what your sort of, you know, specialties are, but when the shit goes down, I got your back, right? 
+MATT: "Right." 
+SAM: And you got mine. 
+MATT: "Right." 
+SAM: Cool, cool. All right, well, I'm going to go check on my stinky friends. 
+MATT: "Of course, of course. Don't be afraid to come talk." 
+SAM: You too! 
+MATT: "Enjoyed the conversation." 
+SAM: Bye in Halfling! (laughter) 
+TALIESIN: Bye in Halfling or buy an halfling? 
+SAM: Either one. 
+TALIESIN: Okay. 
+MATT: Would somebody like to roll for the day's travel? 
+LAURA: Whose turn is it? 
+TRAVIS: Don't look over here; please go counterclockwise. 
+LAURA: I can try it, okay. 
+LIAM: I think it's you. 
+LAURA: Just a good old d20. 
+MATT: Good old d20! 
+LAURA: Let's do it! Eight! 
+MATT: Eight? 
+SAM: I feel like we've done eight before. 
+LAURA: Eight is good. 
+TALIESIN: He might change if you've already hit it. 
+MATT: As you push on through the snow, the sky remains fairly clear. 
+MARISHA: Hey! 
+TRAVIS: What up, what up? 
+MATT: A warmer day than you're used to. Still freezing cold, but some of the days that you've traveled, you actually might catch a little sweat on the inside of some of your furs, and it's nice, familiar. But no issues along the way. For the extended eight-ish or so hours you guys continue moving, you hit the late afternoon. The sun hasn't set yet, but a point of rest is being discussed up ahead. And you can hear Lucien turn back and say, "We're not far. Hope you've got your comforts about you." 
+SAM: Come-- comforts? 
+MATT: "Ah, up over that hill." (snaps) And he points over, it's guiding towards his group and you all. You can see there's a little bit of a rise up, the crest of a couple of hills ahead of you. As you all begin to step up to it, you can reach the top and about 10 feet beyond the crest of that hill, it drops off into what you can immediately see is this expansive river of molten rock slowly flowing from the right to the left, south to north, from where you're located. Well over a mile across to the opposite side, it is just a gulf, and it's just (burbling). Occasionally (poofing) gas erupts from it in places. You can see darkened bits where it's cooled and it's cracking apart. And then the glow from underneath peeks through and pulls it into separate sections. It is ominous, and a deadly idea to traverse. 
+LAURA: Also kind of hypnotic, you know? 
+TALIESIN: Yeah, could stare at that for hours. 
+MATT: It does feel warmer by proximity. 
+LIAM: You get that same feeling when you're in a high tower or something and you have that urge. 
+MATT: Yeah, Lucien turns back goes, "Indeed. Don't do it. Don't, don't jump." 
+LAURA: (laughs) 
+MATT: "(laughs)" 
+LIAM: Day is young. 
+TRAVIS: Okay, cool, cool, very cool. 
+MARISHA: I hate him. 
+SAM: Remember, he's Mollymauk inside. 
+MARISHA: He's not. 
+SAM: We just have to say the right, like, code word to remind him. 
+LAURA: It's like a combination of words. 
+LIAM: Mollymauk was more of an effortless dick, and Lucien is, like, concentrated. 
+MARISHA: Yes. 
+LIAM: Pointed, pointed dick. 
+LAURA: A pointed dick, never fun. Really. 
+MARISHA: Yeah. 
+MATT: Spotted dick, okay. Pointed dick, never. 
+LAURA: Bad idea. 
+MARISHA: What's our plan? Are we supposed to? 
+SAM: Yes, I mean-- 
+MARISHA: -- work with him, what are we doing? 
+SAM: Are we going to camp? Are we going to camp here tonight or try to cross? 
+LAURA: He said we were camping before, yeah? 
+MATT: "You all look pretty tired. You could probably use some rest." 
+TRAVIS: Yeah, we could. 
+LAURA: Are you going to push us in the lava when we go to sleep? 
+MATT: "Hopefully if you don't give us a reason. Come, come, let's all scoop out a place to rest." At which point they begin taking their arms and pulling the snow back to expose some of the ground beneath, pushing some over the edge that falls and tumbles. You're waiting for the hiss, but there is none. And eventually they carve out this little space. You can still see the frozen cracked ground beneath it and elements of grayed, long-dead vegetation and/or grass that maybe has adapted to the colder weather and seems to thrive beneath the snow. It's hard to tell, but in this little space here, it seems like rest can be had. And with the proximity, it's almost comfortable, maybe a little campfire, but nothing too major. You guys won't have to be huddling for warmth necessarily or you could utilize your dome. 
+SAM: Can you? 
+MATT: No, you can not, not without a long rest, right? 
+LIAM: No, I can definitely do it. 
+MATT: Oh, as a ritual, you can. 
+LIAM: I don't know if they are cool with it. 
+LAURA: Well, they'll dispel it anyway. 
+MATT: You haven't asked them. 
+TRAVIS: When the snow was pushed into the river, it didn't hiss because it just instantly turns to vapor or because there's no lava and it's magic! 
+MATT: Do you want to go look? 
+SAM: I think earlier he said that ice can freeze on the lava. 
+LAURA: Yeah. 
+TRAVIS: Oh, because the ice out here is weird or something? 
+LAURA: Yeah. I'm going to make a couple snowballs and chuck them into the river. 
+MATT: Okay. 
+ASHLEY: I kind of want to go look, too. 
+MATT: The snowball (whooshing, poofing). And the snow just rests and moves along. 
+MARISHA: What? 
+TRAVIS: What is that about? 
+LIAM: I pull us a stone, just a stone out of my pouch of components and throw that and see what it does. 
+MATT: (whooshing) Gone. 
+TALIESIN: Huh. 
+TRAVIS: But the snow-- 
+LIAM: That is weird. 
+TRAVIS: I'm going to cast-- 
+TALIESIN: This is weird. 
+SAM: Would it work with water? 
+TRAVIS: I'm going to cast Create Water and it falls in 10 gallons, a 30-foot cube, like rain. 
+MATT: (hissing) You see it just turn immediately to steam and then rise and dissipate. 
+TRAVIS: Huh. 
+ASHLEY: Are we close to the flow shift? 
+LAURA: The what? 
+ASHLEY: The flow shift, is that-- 
+TRAVIS: This is what that is? Oh, oh, we're north of the flow shift. That nexus point, yeah. 
+ASHLEY: Yeah, yeah. 
+LIAM: Why would that be? I wonder if the Aeorian ruins have infused the snow and ice here with some property or? 
+TALIESIN: Or maybe the lava itself has some prop-- 
+LIAM: The lava, yeah. 
+SAM: What about ice? 
+ASHLEY: Wait, which way is the lava flow? 
+SAM: Like, we know snow, but what about ice? 
+LAURA: I don't feel like we have any ice. 
+MATT: You guys are heading eastward. 
+SAM: We can make ice, we all have water spells. 
+TALIESIN: But the lava's going--? 
+MATT: The lava's going south to north. 
+SAM: I do. 
+LAURA: Well, then make some fucking ice. 
+ASHLEY: It's south to north? 
+MATT: Yeah. 
+ASHLEY: So it's going up the-- 
+TALIESIN: It's weird. 
+SAM: I will cast Shape Water and freeze, you can freeze water. I guess I'll pour some water in my hand and freeze it, I don't know. (laughs) 
+MATT: Sure, okay, you pour a little water into your hand and you freeze it, you have a little block of ice. 
+SAM: And throw it. 
+MATT: Okay. You see it hit and skid a little bit. 
+SAM: Oh, okay. 
+LAURA: Oh! 
+SAM: Ice and snow, okay. 
+LAURA: How long-- Are the snowballs that I threw, are they still flowing on the top of it or have they disintegrated? 
+MATT: Yeah, no, they're still on top, just scattered. And they're just moving slowly with the flow. 
+LAURA: Interesting, maybe we can make some ice chunks and sail across. 
+SAM: Yeah, like ice skates. 
+TRAVIS: Ice bridge? 
+TALIESIN: I'm going to fire it. I'm going to try Sacred Flame just to see if it disturbs the lava. 
+MATT: You see a big flash of radiant energy, but it has no impact. It is molten rock and the radiant fire wouldn't necessarily-- 
+TALIESIN: It wouldn't necessarily. That's very strange. 
+LAURA: Hey Lucien, have you guys crossed this river before? 
+MATT: "Uh-huh." 
+LIAM: How do you do it? 
+MATT: You'll see in the morning. 
+TALIESIN: I mean, we can do it just fine on our own, so. (laughter) 
+MATT: "You asked me." 
+TALIESIN: Well, I mean, but we'll tell you how we do it. 
+MATT: "Okay, we'll swap tips in the morning." 
+TALIESIN: All right. 
+MATT: "Excitedly. But," he glances over and you see as Otis is currently kneeling on the ground and in the central space here, clusters of a bit of the grass and then with their hand across the air (flames whoosh) becomes a bit of a fire. "A few more hours of daylight. Who's up for some lunch?" 
+SAM: Some lunch, did you say? 
+MATT: "Yeah, or supper, depending. We've been traveling quite a bit." 
+LAURA: I could eat. 
+SAM: Yeah, sure. 
+MARISHA: For sure. 
+MATT: "All right." They have a heavy pack, which you've seen on Zoran's back. It's this massive pack, that, based on the shape, the weird oblong shape of it and the weight that he carries it with, this one seems to actually contain the other threshold crest from the first ruin. As he sets it down, there's a number of side pouches and rummaging through, pulls out heavy bits of jerky and throws them to each of you. And (as Zoran) "That'll spice up rations a little bit, eh?" 
+SAM: Sure. I'm going to just look at it, see if I can discern what animal it came from. 
+MATT: Roll a nature check. 
+SAM: Nature check. Seven. Oh wait, disadvantage. 
+MATT: Mm-hmm. 
+SAM: Seven. 
+MATT: You hope it's not people. Hard to tell, hard to tell. 
+MARISHA: It's so delicious. 
+MATT: Jerky. 
+TRAVIS: Mm, cob-- 
+SAM: Are they eating it? 
+MATT: Yeah. 
+SAM: Oh, okay, okay. 
+MATT: And they're eating other food. They're not sharing all their rations with you, but they're offering something to pepper up what you brought with you. They assume you took care of yourselves on this journey. 
+LIAM: I eat a boba. 
+MATT: (laughs) 
+TALIESIN: I'll have a bit of that boba. 
+LAURA: I pull out some really stale pastries from Nicodranas. 
+TALIESIN: We need to get you some sort of-- 
+LIAM: Throw it out in the lava. 
+TALIESIN: -- like, pocket oven or something, I don't know. 
+TALIESIN: Someone's got to make that. 
+LAURA: Do they make those? 
+TALIESIN: I mean, someone's got to make a pouch that you just put some dough in and in, like, an hour you've got-- 
+TRAVIS: Bread? 
+TALIESIN: -- bread or something. That seems. 
+LAURA: I'll keep an eye out for some sort of enchantment. A dough enchantment. 
+TALIESIN: Like a little easy bake. Yeah, a bag of easy bake. 
+TRAVIS: License that to Gilmore. 
+LAURA: Honestly, just like a cold bag that will keep, you know, like a little bag of colding, something like that. 
+TALIESIN: I feel like that's beyond science and magic's ability. I'm not sure. 
+LAURA: I don't know, it would be so useful. 
+TALIESIN: So much easier to make something hotter than it is to make something cold. 
+TRAVIS: Cree? I'm not talking to that. Do they carry anything around their neck? Vials, necklaces, any kind of jewelry, anything like that? 
+MATT: Make a perception check. 
+TRAVIS: 12. 
+MARISHA: Come on. 
+SAM: With disadvantage. 
+TRAVIS: Shut up. 12. That didn't really roll. 
+MATT: I mean, you've seen it before. All that you can make out amongst the huddled fur and thick leather and a blanket-like covering beyond that as well. There is a thick chain that occasionally appears around her neck that has a circular red stone in the middle of it. Like a deep, dark red coloration. 
+TRAVIS: And just her or the others as well? 
+MATT: From what you've seen, just her. 
+LAURA: Mm. 
+LIAM: As long as we are sharing a meal, perhaps we can learn a little bit more about each other. I use a Control Flames, which is a cantrip, and I can manipulate shapes out of the fire. And I make the shape of the city on the Astral Sea. It's crude, but it's very clear what it is, floating above the fire. Are you going to make us wait until we arrive before we know what you intend to do, or can you share a little bit in advance? 
+MATT: (as Lucien) "Bread crumbs can be fun." (laughter) Jesus Christ, Sam! 
+ASHLEY: Oh my gosh! 
+SAM: Those are cobwebs because I'm the guy who has his Christmas tree up for, like, a month after Christmas. (laughter) 
+MATT: The joke's funnier when you have to explain it. 
+TRAVIS: -- its own zip code, man. You need to wrist brace to-- 
+LAURA: Those are cobwebs. 
+TRAVIS: Not snow, it's cobwebs. 
+LIAM: Spider in the Christmas tree is supposed to be good luck. 
+TRAVIS: Is that right? 
+LIAM: Yep. 
+LAURA: Oh! 
+LIAM: I have a spider on my tree every year. 
+MATT: "Well, let's see. If we're going to be learning about each other, what do you want: where it started or where it's going?" 
+SAM: Like that meme. 
+LIAM: Well, I am a fan of history. Let's start there. 
+MATT: Leans back and flicks the toothpick. 
+TRAVIS: Ow! 
+MATT: "(chuckles) Sorry." (laughter) "You're a bit broader than I was expecting." 
+TRAVIS: It's okay. 
+LIAM: God, quick, Travis. (laughter) 
+MATT: "Well, me and my friends here, we're-- we're from a disparate collective, you would say, called the Claret Orders." 
+MARISHA: Claret Orders. 
+LIAM: Like wines? 
+LAURA: Oh right, Claret Orders. 
+MATT: "Like wine. So some of us grew up together. Some of us just found like-minded interest in taking the things we learned and eventually sticking out on our own because we've all got an inherent dislike of authority. And in our travels, much like you, were traveling with the good lady. We found ourselves hired by her and others for some time, made some good coin, did some travel. And I found a secret. I found a little peek into something beyond," and he points to the fire, "Something with promise, knowledge. And when I looked in, it looked back. So at that point, Lucien became more of a-- more of a costume. The Nonagon became more of the presence. So that's where it started specifically. Found a book. You seem to be fond of books. Heavy reader?" 
+LIAM: One or two. 
+MATT: "Hmm. Couldn't put this one down. So what are you all doing here? I know you're certainly curious. You wouldn't follow this far, but you have some sort of history with whatever was piloting this for a while. Are you coming to join? Are you coming to stop me?" 
+LIAM: Well, it's a lot of coincidences, really. We were quite fond of our friend. So that alone does draw us in a bit. 
+MATT: "Well, it's hard not to be fond to this." 
+LIAM: You're not entirely different from the friend we knew. 
+LAURA: We've seen you with food on your penis. 
+MATT: At which point, every other member of the Tomb Takers starts laughing. 
+MATT: Lucien's heads slowly turns towards you and goes-- 
+LIAM: All of us. 
+MARISHA: You tried to pass it off as the plague. 
+LIAM: You covered it in egg. 
+MARISHA: It was real gross and a real bad idea, to be totally honest. 
+LAURA: (laughs) 
+MATT: "That wasn't me. That was an aberration." 
+MARISHA: Same dick. (laughter) 
+MATT: He actually laughs to himself at that. (laughs) "Well, I guess there are some secrets I don't have to introduce at some point, right?" 
+LIAM: That's not the only coincidence, though. It's a few things. We have entanglements with the Assembly and with our old friend, your fragment, and we have heard whispers on the wind of the city as well. 
+MATT: "Word is getting around." 
+LIAM: We are curious about the intersections of those threads of fate. 
+MATT: "I can respect that. Well, speaking of intersections. The book that I found, fascinating read. Couldn't understand most of it, but I have my limitations. 
+LIAM: "What is the title?" 
+MATT: "There's not much of a title to it. It's more of a journal." 
+LIAM: Oh, I can respect that. 
+MARISHA: Would you like a second set of eyes on it? 
+MATT: "No, I've done that once already. Didn't end well ... for her." 
+MARISHA: Seems to end well for you. 
+MATT: "So far so good. We were seeking somebody who we knew could possibly understand some of the more complicated aspects of this journal. Having done previous work with the lady, went her made a deal, a contract. She promised to help... help me utilize parts of this tome to truly reach out. You see, once I started reading it, it was just for fun. But then the dreams started coming. Something was spilling into them. And it wanted my help," and his eyes glance back over towards the fire and the shape. "With each dream, a different mind came to me, Luctus, Gaudius, Ira, Vigilan. One by one, the Somnovum came to me and showed me what the city was, a collections of minds, finding emergence, becoming one under these Eyes of Nine. And each visit, they gave me one of these." He reveals the eye on his hand. "That's when I knew it was real. And I had to follow. I had to learn that which they promised to show. So trying to reach past these limitations, the lady was to help, and she's a trained liar. And the ritual was sabotaged. As opposed to placing my spirit out there whole, it shattered me out there to many, many pieces. She took the book for herself. And from what I can tell, tried to take up the same path, but (laughs). The Somnovum found me, put me back together. And in that space, I learned so much more about them than I could've ever hoped for. So, in a way, I'm actually thankful, but one can be thankful and vengeful at the same time." 
+LIAM: Why do you think that was one of these pieces of you landed in a grave and ended up in the circus? What about the others, and where did you go that you would learn about these people? 
+MATT: "Imagine, if you will, you, the idea of you, your singular conscience and every thought you had was accompanied by a hundred screaming thoughts fighting for attention. A weird dissonance of thought. That was the prison I was sent to. My spirit broken and blown across the Astral winds. But it took the Somnovum following my scent, much like I followed hers to find all my pieces and put them back together." 
+LAURA: Do you think they missed any? 
+MATT: "I'm here, aren't I?" 
+LAURA: Are you? 
+MATT: "Well, lucky enough found this-- This body had been vacated and easy enough to come back to." 
+SAM: The Som-nah-vum. Novum? 
+MATT: Mm-hmm. 
+SAM: Are they here on Exandria somewhere? 
+MATT: "Maybe we'll talk more about this tomorrow. It's been a fun conversation, but it seems very one-sided." 
+SAM: Well, you can feel free to ask us anything. About the times, you know, we've died or come back to life or got split into pieces and sent into memory prisons. 
+TALIESIN: Read weird books. 
+MATT: "You've gone through quite a bit of danger. Some would say blindly in some cases, just to follow us up here and even beat us to our own game. I'll ask again: Beyond just idle curiosity, what is it you want?" 
+LAURA: When you first saw your vision, What did you feel? Did you-- did you instantly want the power of what you saw, or-- or did you feel fear? 
+MATT: "(laughs) Fear, fear immensely. I was but a person then; fear is the natural reaction. And I take it by the recognition in your faces, you've perhaps seen shades of the same thing, too." 
+TALIESIN: More than shades. 
+MATT: "Hm." 
+LIAM: We find ourselves very curious about the power you yourself are all consumed with. You're not alone, you have friends. We are accomplished people. I think we may be curious if there is room for us in your plans. 
+MATT: "There might be still. There's-- it's hard to explain. There's a part of me that just-- I feel like you all have a part to play still. Like you've-- you've use to me." 
+MARISHA: Well, we got visions, too. 
+LAURA: Yeah. 
+MARISHA: From the same city. 
+LIAM: We are beyond coincidence at this point. 
+LAURA: Do any of your companions have dreams of the city? 
+MATT: At which point, Lucien looks over and they all glance at each other and nod, and then Cree leans forward a bit. "The dreams that we have are granted through Lucien, through the connection that he's offered." 
+MARISHA: Yeah, that's not what we mean. 
+LAURA: Yeah, I imagine that if the city gave anybody dreams it might mean they were chosen. 
+MATT: "We do not have such dreams. The Nonagon, he's the one who has been chosen. We follow in his steps, his guidance." Cree looks over with a smiling reverence in her face and says, "It is through him." And Lucien shoots a look and she gets a little quiet and goes back to sitting. (as Cree) "Well. We trust him. His vision, and in Somnovum." She looks up with reverence and closes her eyes and clutches that stone around her neck. 
+MARISHA: Do you think you're special, Lucien? I mean, someone who wakes up every day, thinks they're different, blessed. 
+MATT: "I spent my entire life waking up every day knowing that I'm different. Look at me." 
+LAURA: I think you're dreamy. 
+MATT: "That's a new one as the years went on. Didn't start that way. Not a lot of folks are really eager and kind, especially in Shadycreek Run growing up, to those of infernal blood. But yeah, I'd say I feel pretty damn special these days. Not everyone's single-handedly been granted the ability to slaughter a member of the Cerberus Assembly by themselves." 
+MARISHA: Yep, you got that right. 
+MATT: "I think I'm racking up a few goals to check off my box, huh?" 
+LIAM: What about that book of yours? Have you mined it of all its secrets? 
+MATT: "Not all of it. There's some curious pieces I need to suss out." And he glances over in the eastward direction. 
+LIAM: I know that trust is stretched a little thin around this fire, but we have a couple of eggheads here with a-- 
+LAURA: I'm really smart. 
+LIAM: -- very good track record. 
+SAM: Yeah, we're detectives. 
+LIAM: All nine of us. 
+TALIESIN: I'll also say that we have something that you are clearly in dire need of. 
+MATT: "I wouldn't say dire, but certainly convenient need." 
+TALIESIN: We have perspective. When was the last time that you had anybody who didn't just agree with you all the time? How are you ever going to work anything out? 
+MATT: There is a pause and a stare and Lucien leans forward towards you, lips pursed in this hard-to-read, almost imperceptibly frustrated and trying to read you before it curls into a grin. "Oh, I know your type." (laughs) 
+TALIESIN: I don't think you know my type, at least not in a long time. 
+MATT: "Oh, this is going to be a fun journey." 
+TALIESIN: I think so. I'll do my best to be as honest as I possibly can. 
+MATT: "I will say, I admire those who can live a life of perspective. Those who can see their choices from the position of their own mind and make those choices accordingly." 
+TALIESIN: Oh, you-- you missed the point. Perspective doesn't come from yourself; you need others. Perspective is disagreement. You only have two eyes. I know you think you have more, but there's really only two. 
+MATT: He grins and turns his head to the side. "(sighs) You've tipped your hand a bit." 
+TALIESIN: Eh. 
+MATT: "There's a lot you don't understand." 
+TALIESIN: I hope so. That's why we're here. 
+MATT: "I have plenty of perspective. And just for the sake--" 
+LIAM: Not for that entire book, though. 
+MATT: "Speaking of disagreement, I have the perspective of not just myself, not just these fine companions, nor the perspective of nine, quite frankly, batty as shit individuals from a long time ago. Many, many minds of that period. And there's plenty of disagreement." 
+TALIESIN: I'm excited to learn. 
+MATT: "Then listen close, and don't get in my way." 
+TALIESIN: Just talk. All this is, is just talk. 
+MARISHA: What do you have to worry about? Are you so afraid of appearing wrong in front of us? Who are you trying to impress? 
+MATT: "This isn't about impressing. This is about having a conversation." 
+MARISHA: Right, and so we're offering you help and perspective. There's nowhere we can go and nothing we can do. 
+TALIESIN: You have too many yes-men. It's obviously a problem. 
+MATT: "And I am extremely appreciative of such an offer. And if I were, I don't know, interested in passing over an extremely important relic that contained all sorts of, well, sensitive information to individuals that honestly refuse to give over any of the things that is rightfully ours, that we asked for very nicely-- I think maybe our trust needs to grow a little bigger." 
+LIAM: Why don't we make it an exchange? If you let my friend and I examine your book, we will uncover the last of it for you. I wager we will. And you can have your threshold crest. 
+MATT: "Maybe. After all, we still have a few more days of travel to take. Let's see how this friendship blossoms." 
+TRAVIS: Caduceus, pay attention. Do you need us outside of your threshold crest to achieve your goals? 
+MATT: "No." 
+TRAVIS: Do I believe him? 
+MATT: Make an insight check. 
+MARISHA: "Caduceus, pay attention." (laughs) 
+TALIESIN: I didn't know what you were talking about when you said pay attention, so I immediately shifted my focus to you. (laughter) 
+TALIESIN: I assume I had disadvantage? 
+MATT: Yes. 
+TALIESIN: I rolled a one. (laughter) 
+TALIESIN: You seem to believe what you're saying. (laughter) 
+LAURA: Can you roll yourself, too, or--? 
+MATT: No, he said he was going to assist him. Well no, you said-- sorry, you roll for yourself, then. Because he did roll at disadvantage for himself. 
+TALIESIN: Yeah. 
+MATT: Because you did ask the question. 
+TRAVIS: My insight checks are so good with this negative two for a five. 
+TALIESIN: Better than mine. 
+MATT: Yeah. 
+TALIESIN: Actually, not better than mine, to be fair. 
+MATT: Yeah, so. 
+TALIESIN: Mine's a nine with that, but we'll let that go. 
+MATT: I mean, he's a slippery figure in general. 
+TRAVIS: Totally. That was not a check made for me. 
+TALIESIN: Shit. (laughter) 
+TALIESIN: Good call. 
+MATT: Good call, though, good call. 
+TALIESIN: Tomorrow night. 
+ASHLEY: Do we-- who has Molly's coat? Is it in the bag of--? 
+LAURA, MARISHA, and TALIESIN: I think you do. 
+ASHLEY: I might have it, yeah. 
+MARISHA: I have his belt. I think you have his c-- I think we gave it to you when you got back. 
+SAM: We dress up Lucien as Molly and just see if that does it? (laughter) 
+ASHLEY: Bring him back? 
+SAM: Yeah. 
+TALIESIN: Trying to assemble him like a Voltron. 
+LIAM: I've got some eggs. 
+MARISHA: Yeah. (laughs) 
+TRAVIS: We start trying to pull his coat off. Keep your coat on! 
+MARISHA: All right, well, we'll be here in the morning, right? Because we can't go anywhere. You can melt people by looking at them, so. 
+LIAM: Yeah. 
+MATT: "Well, only if they get uppity." 
+SAM: So can we. We can melt people by looking at them, we just haven't shown you yet. 
+TALIESIN: We can? 
+MATT: "I'm sure. Well, you all look a bit tired." 
+SAM: Sure. 
+LAURA: Mm. 
+MATT: "Let's get some rest. 
+LIAM: Sure, sleep on it. Think about those last two chapters you can't crack. Good night. 
+MARISHA: Yasha, let's go and look at the lava real quick. 
+ASHLEY: Oh yeah, yeah, yeah. 
+MARISHA: Yeah. 
+ASHLEY: I wanted to see it anyway. 
+MARISHA: Okay, yeah. Get a better look at this. 
+ASHLEY: Yeah, get a better look. 
+LAURA: Have fun, you guys. 
+MARISHA: Thanks. 
+ASHLEY: Okay, well, stay safe. 
+LIAM: Do you remember our first date by the lava flow? 
+MARISHA: So I was kind of banking on having Caleb's tower, you know? 
+ASHLEY: I was already-- yeah. 
+MARISHA: Yeah, and not, like, 12 other people around us. 
+ASHLEY: Yeah, I feel like that would make for a very interesting first date. 
+MARISHA: That'd be uncomfortable. 
+ASHLEY: But I think I would rather wait for something, I don't know, not this. 
+MARISHA: Not anxiety inducing? 
+ASHLEY: Yeah. Yeah. 
+MARISHA: Okay. 
+ASHLEY: This is weird. 
+MARISHA: A hundred percent weird. 
+ASHLEY: I don't know how to talk to him. 
+MARISHA: I don't know either, I hate him. 
+ASHLEY: Yeah, I kind of do, but at the same time, I want him back. 
+MARISHA: It's frustrating because you can see that one percent of him, that ten percent of him that is that piece of Molly. 
+ASHLEY: Yes! 
+MARISHA: So it's like, you can see this version of him that's better and good and not corrupted by-- well, I was going to say greed and arrogance, but arrogance was always Molly's thing. It's fine. 
+ASHLEY: Already there, it was already there. 
+MARISHA: But-- 
+ASHLEY: But it was cute. 
+MARISHA: It was cute. It was endearing. He had charming arrogance. 
+ASHLEY: Yeah. This is a little different. 
+MARISHA: Yeah. 
+ASHLEY: I think we should put a pin in it. 
+MARISHA: Okay. 
+ASHLEY: And let's stay alert and please don't die in the meantime. 
+MARISHA: Don't die. 
+ASHLEY: Okay. 
+MARISHA: Next time we have the tower. 
+ASHLEY: Okay. 
+MARISHA: Okay. 
+ASHLEY: That's a plan. 
+MARISHA: Shake on it. (laughter) 
+ASHLEY: I kick some snow into the lava. 
+MATT: (laughs) Okay. 
+ASHLEY: It just floats. 
+MARISHA: Or maybe we can build, like, a raft, a snow raft. 
+ASHLEY: We should just build a raft and then leave right now, you and me. 
+MARISHA: Okay! 
+ASHLEY: I'm just kidding. 
+MARISHA: That's a good idea though. It's a very inviting. 
+ASHLEY: Let's go protect. 
+MARISHA: Oh, okay. 
+ASHLEY: Yeah, yeah yeah, let's go. 
+MATT: Okay. 
+SAM: As she comes back, I'm going to grab Yasha. Can we go to the edge of the lava? Just you and me? (laughter) 
+ASHLEY: Oh yeah, sure, let's go. 
+MARISHA: I just squint at Veth as they walk by. 
+SAM: This is not how I pictured tonight going. (laughter) 
+LAURA: Such an asshole. (laughter) 
+SAM: Thought we had a bit more-- 
+ASHLEY: What do you mean? 
+SAM: I had a plan to do something really nice for you, really special, and have a one-on-one moment and-- 
+ASHLEY: Yeah, I mean. 
+SAM: It just didn't happen. 
+ASHLEY: It's okay, I think-- you know what? We'll make sure to do it at another time. 
+SAM: No, I think I can do it now. 
+ASHLEY: Oh! 
+SAM: I wrote you a poem. 
+ASHLEY: Oh, no one's ever written me a poem before. 
+SAM: Yeah, I thought, you know, you've just been so distant from us. I would just want to make sure that you know that you're a part of the team and part of the family and so. 
+ASHLEY: Veth, that's so sweet. 
+SAM: Well, you know, I do what I can. 
+ASHLEY: Should I? 
+SAM: You can sit. 
+ASHLEY: I'll sit, yeah yeah. 
+SAM: Yeah? (laughs) 
+ASHLEY: I'll bunch up some snow. 
+SAM: It's not very long. I had to write it while we were walking today. It was really hard to write while you walk. 
+ASHLEY: Yeah, of course. It gets all weird, I've tried it. 
+SAM: The rhyme scheme kind of falls apart, whatever. 
+ASHLEY: No, no, no, it's fine. 
+SAM: Big, bold, brave Yasha, hair so long, like yummy pasta. (laughter) Sturdy as the Cauldron of Tasha. If you're dirty, we will wash ya. If you cross her, it will cost ya. We'd be sad if we ever lost ya. 
+ASHLEY: Aww. I scoop her up and I give her a big hug. 
+MATT: Aww. (laughs) 
+ASHLEY: Veth, that's so nice, thank you. 
+SAM: Well, you know, I just thought that you needed to hear it from someone because no one's going to tell you you're special out here on these, you know, horrible wastelands. No one's going to just look in your eyes and say, "Hey you, I like you." 
+ASHLEY: Thank you, Veth. May I keep this? 
+SAM: Of course. Yeah, yeah. 
+ASHLEY: This is very special. I'm going to put it in my flower journal. 
+MATT: Okay. 
+SAM: And just remember I was the first person to ever write you a poem. 
+ASHLEY: I will always remember it. Thank you so much, Veth, I will always remember it. 
+SAM: All right. 
+ASHLEY: (stammering) We'll-- We will, we will. 
+SAM: We'll do something more special. Let's put a pin in this. 
+ASHLEY: Yeah, that's a good idea. 
+SAM: Yeah. 
+ASHLEY: Let's do that. 
+SAM: Yeah, we'll do a proper something. 
+ASHLEY: A proper something something 
+SAM: Okay. 
+ASHLEY: Yes, I'm in. Okay. 
+SAM: All right. Shake on it. (laughter) 
+ASHLEY: Let's shake up. Yeah. 
+SAM: Great. 
+LAURA: Such a dick. 
+ASHLEY: Okay. 
+MATT: Fucking troll. 
+TRAVIS: (laughing) Oh my god. 
+SAM: We'll walk back. 
+MATT: Okay All right. 
+TRAVIS: Masterful. 
+SAM: What? 
+MATT: So how are you guys resting? 
+MARISHA: What are you doing 
+SAM: What you want to go talk about it next to the lava? (laughter) 
+LIAM: If I were to throw up any sort of thing for warmth, is that going to be a problem or are we good? 
+SAM: Are you asking Lucien? 
+LIAM: Yeah, I'm looking right at him. 
+MATT: "No, I mean, warmth is a quite necessary out here." 
+LIAM: Okay. You guys are going to be good? 
+MATT: "I think we'll be fine." 
+LIAM: Okay. I walk a little ways off towards where I saw everyone kept going back and forth to over by the lava flow. And I begin to ritually cast the dome there. 
+MATT: You've got it. Okay. Eventually-- 
+LAURA: I'm sorry. Just out of curiosity, have any of us-- or rather, have I-- ever heard of the Claret Order? 
+MATT: Make a history check. 
+TRAVIS: Yeah, how do you spell that? 
+SAM: Yeah, any of those names? 
+LIAM: Claret. 
+MATT: C-L-A, yeah. It's spelled claret. 
+TRAVIS: Oh, that one. 
+MATT: Yeah. 
+LIAM: Claret, that's how it's spelled. 
+SAM: Wait, you know that name? 
+TRAVIS: I mean, I've read the Tal'Dorei Campaign Guide. 
+LAURA: Exactly, like we know personally, but. 
+SAM: I try not to spoil this. 
+LAURA: Yeah, yeah, yeah. 
+TRAVIS: No, that's from the-- It doesn't matter. 
+LAURA: Well, my history is dogshit, but 16. 
+MATT: 16. You've heard a couple of stories. They talk about-- for Nicodranas specifically-- probably a little more like boogeymen. It's supposedly a group of odd outsider warriors that deal with dark magic. And there are some stories that tell them helping people when certain monsters arise and some saying that they are the monsters themselves, but most of the tales end with the general idea of just don't go near them. They're weird and probably not good, but it's just, like, I don't know, a guild or a club. 
+LAURA: Okay. 
+MATT: It's about the best that you can make out with memory. 
+TRAVIS: They've got a really cool symbol, too. 
+MATT: Anybody else would like to do anything or are you going to rest down for the night? 
+TRAVIS: We're in the dome, yes? One, two open per shift, yes? 
+TALIESIN: I don't even know if we need to shift at this point. 
+SAM: Yeah, someone's got to stay up. What if they leave or kill us? 
+ASHLEY: I can take the first shift. 
+TALIESIN: Why haven't they done it yet? In fact, it'd be way easier to kill us an hour ago. 
+SAM: I'll stay up first, it's fine. 
+LIAM: I'll stay up, too. 
+MARISHA: We should let the spellcasters sleep, dear gods. 
+TALIESIN: Yeah. 
+ASHLEY: I can take a second watch. Wake me up when you're done. 
+TALIESIN: Try and wake us up 10 minutes before the-- 
+LAURA: Does it seem like they're laying down to go to sleep at all out there? 
+MATT: Yeah, everyone's bedding down and gathering up around their little fire. Who's taking first watch? All right, perception check from both of you, if you don't mind. 
+SAM: Disadvantage. 
+MATT: At disadvantage. 
+LIAM: Where's my twenties? Oh, at disadvantage, right. Balls. 
+SAM: Six. 
+LIAM: 12. 
+MATT: 12. Somewhat uneventful. I mean, the sky's clear. You know, occasionally the clouds come through and occasionally you can glance them see bits of the stars poking through in the distant, dark void of the night sky. The fire right next to the Tomb Takers begins to dwindle slightly into a warm ember, but they're all mostly resting, except for Lucien, who's just leaning against a rock and looking in your direction. 
+LIAM: While we're having our watch, Caleb has taken out the collar from inside of the Folding Halls of Halas and that power source. And I'm just going to start to, while talking to Veth, but just try to examine them, see if the two things seem compatible, begin the study of these things. 
+MATT: Make an arcana check. 
+LIAM: At disadvantage. 
+MATT: Yes. 
+LIAM: Yeah. (groans) Well, they're both really low rolls. 15. 
+MATT: There might be a way, but there's just so much swimming in your head right now from the conversations earlier, the possibilities, some of the things that Lucien said and trying-- just a lot in your mind trying to occupy that space, and you can't find the concentration tonight to really put it together. 
+LIAM: Perfect. You know, I'm having trouble with this. I think mainly because I'm feeling (sighs) guilty, Veth. 
+SAM: Guilty about what? 
+LIAM: I can't help but feel like I talked to you out here. 
+SAM: Oh. 
+LIAM: I told you I had a place for you to stay with your family. And I told you I could get you back to your family. And we are stuck out here on the edge of nowhere with no way out. And we're heading towards some sort of-- 
+SAM: No, no, no, I mean, that's not your-- you have plenty to feel guilty about in your life without, you know, adding that to it. Listen, deep down inside, you know, I wanted you to talk me into it. I want to be with you all. And I feel more guilt than you could ever know about this. I mean, if I don't go home, my son grows up without a mother. My husband has to find a new wife and he has no game. (laughter) 
+LIAM: He's sweet, though. 
+SAM: He's very sweet, but like woof, but. 
+MATT: I grok that. 
+SAM: But... (laughs) 
+MARISHA: Aw! 
+LIAM: It took me a second. 
+MATT: I wouldn't be better. 
+SAM: But I wanted to come. I wanted to be here. And frankly, you know, we haven't had time for it, but, you know, I've felt awful about it as well. It's like I can't be here for all of you fully and be there for them fully. It's like I'm in two places at the same time mentally, and it's impossible, so. 
+LIAM: You're not doing very-- the guilt is still. You know, I've grown so accustomed to having you at my side. It's been a long time and I just didn't want to leave you behind. I don't really function on my own so much. 
+SAM: I mean, I don't think any of us really do. When Lucien was talking about how his spirit was split into parts and scattered asunder, just made me think about us, the Nein. About how, when we all started, that's how we were; disparate parts of people and it took us coming together to feel whole again. I feel bad for the guy because I know what that's like. And if I left you all, if you left us all, it just wouldn't be the same. So I don't know how to... I don't know how to square it for any of us because this journey will come to an end at some point and-- 
+LIAM: Yeah, I've got a bad feeling about that. 
+SAM: I don't want it to. 
+LIAM: This makes me nervous. 
+SAM: But him looking at you like that, that's-- 
+LIAM: That doesn't help. I've been so wrapped up in my own bullshit for so long. And this is clearly something bigger than all of us, bigger than them, bigger than he. 
+SAM: Thank you for using the proper grammar. 
+LIAM: I feel like it's going to be threading a needle to come out the other side of this, all of us, any of us. 
+SAM: Well, and then the worst part is if we come out the other side and we survive or win or whatever it is, then it's goodbye. 
+LIAM: I don't want to think about that. 
+SAM: Well then, good. Think about your guilt and I'll think about mine. 
+LIAM: Check. 
+SAM: And that'll keep us company. 
+LIAM: I just pull into a hug. I love you. 
+SAM: I will always love you. 
+LIAM: Thank you, I'm sorry, thank you. (chuckles) What a mess! We should wake up the others. 
+MATT: Okay, who's taking the next watch? 
+ASHLEY: I can take next watch. 
+SAM: Hey, Yasha? 
+MARISHA: Are you good? 
+LAURA: Yeah, I can do it, I can take over. 
+SAM: Yasha, Jester? 
+LAURA: Huh? 
+SAM: We forgot to look-- Look for our wheeled friend, maybe. Maybe just scan the horizon or something, good night. 
+ASHLEY: Good night. 
+LIAM: Here, here, wait, hold this. I just put a cat in her hands and I go to sleep. 
+ASHLEY: Oh! It's making biscuits. (chuckling) Hello. 
+LAURA: I hate being awake. 
+ASHLEY: I do, too. I don't like being woken up. 
+LAURA: Me neither. 
+ASHLEY: I just hate it, but I knew-- 
+LAURA: I crawl over some bodies, sit next to Yasha. 
+LIAM: No. 
+LAURA: Sorry. 
+TRAVIS: (fart noise) 
+MARISHA: Not in the dome. 
+ASHLEY: How are you? (laughter) 
+ASHLEY: Yeah. (whooshing) 
+LIAM: ♪ Hot Pocket! ♪ 
+TALIESIN: Roll a-- Hold on, oh, no. 
+ASHLEY: How are you feeling with all this? 
+LAURA: Oh, this is awful. 
+ASHLEY: Yeah. 
+LAURA: How are you and Beau doing? I saw you guys talking. 
+ASHLEY: Well, she asked me out on a date. 
+LAURA: (gasps) She what? 
+ASHLEY: Yeah. Yeah, she asked me out on a date. And we were going to go tonight in the tower-- 
+LAURA: Oh no! 
+ASHLEY: But it's okay, there's a lot going on right now and we have to focus on keeping everybody safe and making sure that the world doesn't end, you know? 
+LAURA: Yeah. That's obviously the most important, yeah. 
+ASHLEY: First and foremost. 
+LAURA: But did you give her the poem? 
+ASHLEY: Well, I was working on it and then I just I ended up writing her letter. I still have a poem, but I just ended up writing her a letter. It felt weird and it felt like really I wasn't ready yet. So I just wrote her a note and yeah, and then she asked me out on a date, yeah. I feel like... I feel like I saw you and Fjord getting very, like, drapey with each other. 
+LAURA: Drapey? 
+ASHLEY: Just like when we were sleeping the other night, you guys-- drapey. 
+LAURA: Yasha! 
+ASHLEY: What? 
+LAURA: He kissed me! (laughter) 
+ASHLEY: What? 
+LAURA: I know! 
+ASHLEY: And?! 
+LAURA: And it was awesome! 
+ASHLEY: Have you kissed somebody before? 
+LAURA: Well, only Fjord, really, underwater, so I don't think it counts. I thought they counted, but I don't think it counts. 
+ASHLEY: What did you feel? What did it feel like? Was it wonderful? 
+LAURA: You know those butterflies that keep appearing around us? 
+ASHLEY: Yeah. 
+LAURA: It felt a lot like that. 
+ASHLEY: Maybe they flew out of your stomach. 
+LAURA: I think I've been holding them inside. 
+ASHLEY: I think-- 
+LIAM: (fart sound) 
+ASHLEY: How wonderful! Was it romantic? 
+LAURA: It pretty romantic. 
+ASHLEY: How do you feel about him? 
+LAURA: I mean. It kind of feels different than I thought it would after all of the books that I read, you know? Like, it feels like we know each other really well, you know. In all those books that I read, it's two strangers coming together and forging this passionate affair. And it doesn't feel like that. It feels like... It feels comfortable instead. But in a good way. 
+ASHLEY: Well, from my experience, which is not a lot, I've found that the passion and the love for somebody is stronger the more you know them and the more you love them. And I've read books, but I don't feel like it's ever really like that. 
+LAURA: Yeah. 
+ASHLEY: It's-- It's better. But I'm excited for you. 
+LAURA: I'm excited for you. 
+ASHLEY: Wow. I can't believe he kissed you. Did he slip you the tongue? 
+LAURA: The teeniest bit. 
+ASHLEY: Just the tip. Wow! 
+LAURA: I'm going to wait to kiss him again until everything dies down, though. Because it feels a little strange to be making out when, like-- 
+ASHLEY: I know. 
+LAURA: I'm going to peek out of the dome. Is Lucien still just staring at-- 
+MATT: Still awake, just staring over at the dome. 
+LAURA: Yeah, it feels creepy to do it when that's happening right there. 
+ASHLEY: Yeah. He's given us a salute. 
+LAURA: I wonder if he can hear us. Can you hear us, Lucien? 
+ASHLEY: Lucien. 
+LAURA: Can you hear us? 
+ASHLEY: Hey, can you hear me? Can you hear me? 
+LAURA: Can you hear me? (laughter) 
+ASHLEY: He's pretending. Well, I'm excited for you. No pressure, whatever happens. But how beautiful to explore those things! 
+LAURA: Yeah. I look over at Beau sleeping. 
+ASHLEY: I cover her up because she's like starfished, pull up her blanket, tuck in her arms. 
+MARISHA: One arm's, like, half on Caduceus, like a leg over Caleb. 
+LAURA: It's pretty tight in here, you know? 
+ASHLEY: Pretty tight, I think I'm ready to sleep in the... I can sleep anywhere, but, man, after sleeping in that tower and having your own place with a fireplace and... It's nice. Well, I hope we make it through. 
+LAURA: (whispering) I hope we destroy the city. 
+ASHLEY: (whispering) I do, too. I want it gone. It's not good, and I hope we can have a part in taking it down, whatever that means. 
+LAURA: Me too. 
+ASHLEY: Yeah. 
+MATT: Okay. 
+LAURA and ASHLEY: Okay. 
+MATT: You finish your watch. Who's taking the last watch? 
+MARISHA: I'll go. 
+LIAM: This wasn't bullshit. 
+MATT: Okay. Beau and-- just Beau? All righty. 
+TRAVIS: Oh, I'll do it. 
+MATT: Okay, the two of you guys take final watch. 
+MARISHA: 'Sup. 
+TRAVIS: Smells like farts in here. (laughter) 
+MARISHA: Deeply. Boba farts. 
+TRAVIS: Only one, one per day. Is Lucien still awake? 
+MARISHA: I poke my head out. Is he still awake? 
+MATT: Yeah, he's still just sitting back there watching. 
+MARISHA: Yeah. 
+MATT: It's really creepy. 
+MARISHA: Does he blink? I poke my head up again. Does he blink? 
+MATT: Make a perception check. 
+MARISHA: After watching for, like-- 
+MATT: With disadvantage. 
+MARISHA: With disadvantage? Oh, that's really good. I rolled 15 and 19. 19 total. 
+MATT: 19 total? You're not seeing him blink, no. 
+MARISHA: It's below freezing outside. How is eyeballs not freezing out of his sockets? 
+TRAVIS: They might be. They might be frozen open. Perhaps this is our chance. 
+MARISHA: I don't think it is-- 
+TRAVIS: Oh. 
+MARISHA: -- but (chuckles). 
+TRAVIS: You and me. You take one eye, I'll take the other. 
+MARISHA: Okay! 
+TRAVIS: Great, great plan. 
+MARISHA: I've got a few ninja stars left. 
+TRAVIS: All we need is two. 
+MARISHA: How wild is your aim? 
+MATT: Bob bob. 
+MARISHA: This could be it. Bob bob. Yeah, the reflection in the moonlight and all you see is Bob. (laughter) 
+TRAVIS: Hey, I meant to tell you, I-- I told Jester how I-- how I... 
+MARISHA: You did? Sorry, Caduceus. 
+TALIESIN: (snores) 
+MARISHA: You did? 
+TRAVIS: Yeah, on the-- real, yeah. 
+MARISHA: How'd it go? 
+TRAVIS: It went okay. I was pretty nervous. 
+MARISHA: Yeah? What do you mean okay, though? What's okay? 
+TRAVIS: No, it was good. I-- uh. We kissed. 
+MARISHA: (gasping) Sorry, Caduceus. Sorry. 
+TALIESIN: (groans) 
+MARISHA: That's so exciting. Was she, like, leaning in? Was she into it or was she like, "Okay." 
+TRAVIS: I don't know. You know, it wasn't... She seemed happy. All I could hear was my (blood pulsing). 
+MARISHA: Yeah. 
+TRAVIS: It was really tough. 
+MARISHA: Yeah. Yeah. That's pretty magical. 
+TRAVIS: Yeah. 
+MARISHA: I mean, I noticed, like, there was a breakfast and you guys were not making eye contact in a weird way. 
+TRAVIS: Oh. Oh, it might be weird now? 
+MARISHA: No, no, I think it was just, like, after that moment and you're, like, you don't want to give anything away, so you try to avoid each other, but also you're really infatuated, so it's not working. 
+TRAVIS: Shit! 
+MARISHA: But you did great. 
+TRAVIS: I got to dial it in. 
+MARISHA: It's good, what? Like, why? 
+TRAVIS: Well, I don't-- it just-- It doesn't seem like we ever get a reprieve from anything, so after the statues sucked her life, I was-- Who knows how long we have. 
+MARISHA: Yeah. 
+TRAVIS: Sorry, that sounded super dark. 
+MARISHA: No, on that note, I kind of-- We were in, like-- We just walked through a creepy forest and we were, like, a mile beneath the earth and I kind of asked Yasha on a date. 
+TRAVIS: You did what?! 
+MARISHA: I know. 
+TRAVIS: You asked her out on a date? 
+SAM: (displeased noises) (laughter) 
+MARISHA: Yeah, yeah. 
+TRAVIS: What'd she say? 
+MARISHA: She said yes. She said yes. That she was-- 
+TRAVIS: Shit! 
+MARISHA: She was, like, really excited. She was like, "I'm happy about this because, like--" I don't know whether it's-- I just want a fresh start with Yasha because we've been through so much. I was thinking about it the other day. I've fought Yasha, like, four times in hand-to-hand combat. 
+TRAVIS: Yeah, you really did. 
+MARISHA: We've had more physical contact through beating the shit out of each other than anything else. So it feels like there's a little bit of this past baggage. 
+TRAVIS: Muscle memory, yeah. 
+MARISHA: Yeah. 
+TRAVIS: I'm with you, yeah. 
+MARISHA: So it just felt like maybe, maybe a date. But, full disclosure, the last time I went on a date-- Growing up, my idea of a date was to get tipsy and then commit a B&E and then get more tipsy and then maybe end the night with blackmail, depending on how the B&E went. 
+TRAVIS: Wow, your romantic life is really unique. 
+MARISHA: Yeah. Yeah. 
+TRAVIS: You're going to go on a date, like, now? 
+MARISHA: Well, same thing, we could die tomorrow. We could die at any point and I think-- 
+TRAVIS: Why don't you just go have a picnic by the lava or something? 
+MARISHA: Well. Peek my head out to Lucien. That's not-- 
+TRAVIS: Right. 
+MARISHA: That's creepy. 
+TRAVIS: Sure. 
+MARISHA: Yeah. 
+TRAVIS: I look at Lucien. Is he blinking yet? (whisper-yell) Lucien! (whisper-yell) Lucien! 
+LIAM: Ugh, meine Auge. 
+MATT: He sits up a bit. 
+TRAVIS: (whispering) You good? It's weird. 
+MARISHA: I know. I know. Anyway, I figure I could just, I don't know, next time we're in the tower-- 
+TRAVIS: Yes! 
+MARISHA: -- make some adjustments. 
+TRAVIS: Sure. 
+MARISHA: Have a little quiet night, have some dinner, eat some bugs. 
+TRAVIS: Yeah, you just got to find a quiet spot. Like, what's above our rooms? Just go to the very top. I'm sure there's a moonlit, starry night you could take advantage of. Yeah! 
+MARISHA: I wonder if Caleb would lend out his penthouse, his upper floor because we've never seen it. 
+TRAVIS: Of course! Just sneak up. It'll be super romantic and it'll be like a B&E without getting fucked up and everything! 
+MARISHA: God, this is the best idea. 
+TRAVIS: Go with what you know. Go with what you know. 
+MARISHA: Okay, okay, I kind of like this. I kind of like this. All right. 
+TRAVIS: All right. 
+MARISHA: You have the best ideas. 
+TRAVIS: Hey, good job. 
+MARISHA: Thanks, Cap'n. We've got this. All right. 
+TRAVIS: Keep watch. 
+MATT: All right. You guys finish your watch. And the sun isn't yet rising when you finish your eight-hour rest, since you went to bed relatively early, waiting for the next morning to come. 
+TRAVIS: We're some old people. 
+MATT: Yep. (laughter) 
+TRAVIS: Oh god! 
+ASHLEY: It's 7:30, it's time for bed. 
+MATT: What is still surreal, though, is in all the nights that you've spent out here in this frozen wasteland that is Eiselcross, there is something odd and beautiful and ominous about that bright orange glow that peeks out of the darkness all through the night. As you all wake up and begin to get your things and mentally prepare yourself for whatever is ahead, you can just see that just the darkness of the snow beyond the source of your light and fire and just pitch black, and then the burning orange glowing embers of this river stretching from right to left. You begin to hear the Tomb Takers rousing, getting up and talking amongst themselves. A little bit of food is being cooked and distributed amongst their group. You guys get yourselves roused, fed and ready just as the sky begins to slowly turn to a lighter color. It's still a fairly clear day and you hear Lucien go, "Well, fuck! Cree, you have that?" And Cree goes, "Of course." And she goes, "Gets the others around," and Otis comes by and starts patting you on the shoulder. And like, "You're all ready?" 
+MARISHA: (disturbed sound) 
+MATT: "Finish your meals, finish your meals." You see Cree step up to the edge and pull out and roll out this scroll this long piece of leather-like parchment, thick, begins to quietly read. Looking up and then about a minute later of reading this, shouts one phrase out and the scroll just vanishes. Not in fire, but just a glowing cinder. Like you watched heat coil back a fine silk gossamer material, and then it's gone. Then nothing and Cree looks back to Lucien and nods. (claps hands) (as Lucien) "All right, get your warm things together, gather your things about, what do you say?" Actually, let me roll [inaudible] for this. Oh! "About 10 minutes." 
+SAM: Had to roll to see how many minutes it would be? What did you roll d10, d12? 
+MATT: d4. 
+TRAVIS: Can I also say: During our watch, I attuned to the smartly-purchased ring of fire resistance. 
+MATT: You got it. 
+TRAVIS: Because lava! 
+MATT: Hey, look at that, man. 
+TRAVIS: We're here. (laughter) 5,000 gold! 
+LIAM: Long game. Long game. 
+MATT: Yeah. 
+LAURA: Can I talk to Cree? 
+MATT: Cree is just looking up at the sky. 
+LAURA: What are we looking at? 
+MATT: Right at that point, you look up and you can see clouds beginning to gather and darken. 
+LAURA: You needed a storm, huh? 
+MATT: "Indeed. So I made one." 
+LAURA: That's impressive. Can you do it again or was that the scroll? 
+MATT: "It was just the one time." 
+LAURA: Oh, bummer. 
+MATT: And over time, over the next 10 minutes-- 
+LIAM: Nifty. 
+MATT: The light snowfall begins to drift from the now dark, covered, gray sky above. And as the snow falls onto the flames below just like the snow you had tossed, it begins to gather until you begin to see patches of snow that block the glow from beneath giving almost leaping stones. 
+TRAVIS: Oh boy! 
+MATT: And as more time passes, seems to be coating the river, somewhat. You see the heavy pouches set up now with Zoran carrying the large pouch. Otis carrying his objects, clicking around inside his-- Hers, I would say, over the shoulder. And you watch as they all prepare themselves and go, (as Lucien) "All right, I think it's time we travel. But let's do it quietly. You see, best we step gingerly, fiery spirits sometimes wade in this burning stream." 
+ASHLEY: Cool. 
+TRAVIS: Fuck! 
+MATT: "So hope you brought your quiet shoes." 
+SAM: Sure. 
+TALIESIN: You have quiet shoes? 
+LAURA: I have Pass Without a Trace. 
+SAM: Hey, that's good. 
+TALIESIN: That's a quiet shoe. 
+SAM: That's good. 
+TRAVIS: So if we're going to be moving now, anyone that would want to join us, should move quickly. 
+SAM: Yeah, I mean, we're all going together, Fjord. 
+TRAVIS: Yep, anyone that would want to follow-- 
+LAURA: It's us, Fjord, don't worry, we want to go. 
+MATT: "All right. Let's search for a way down the embankment." And with that, you all begin scouting along the edge of the cliff face that leads down into this river of lava. It doesn't take more than 20 minutes or so before you find a bit of a jagged path that eventually leads to the surface. And at this point now, the snow has been gathering where you can occasionally see bits of the orange glow breaking through, but now it's just this slow moving powder. 
+TRAVIS: Wow! 
+MATT: As you begin to step down in a single file path formation to the bottom, Lucien goes and takes out a little smooth stone, not quite sure what it is and he takes it and throws it out and it hits the snow and the snow just puffs a little bit, sticks his foot out, and it crunches in the snow. Feels a bit. Looks back at you all with a smile. "Ha!" Does a leap. (crunching) "Right. Right." 
+TRAVIS: Shit. 
+MARISHA: This guy. 
+MATT: "Follow. (shushes)." As he begins to step out, one by one, the Tomb Takers begin to make their way into the center of the lava river, waiting for you all to catch up. 
+SAM: Let's go. Shall we? 
+LAURA: I will cast Pass Without a Trace on us. 
+MATT: Okay, how many people can you affect with that? 
+LAURA: Let me look. 
+TRAVIS: Should I do Underwater Breathing? Do we feel-- 
+SAM: Before we go out there-- 
+LAURA: Each creature within 30 feet of me. 
+MATT: Okay. So you're getting you guys and the Tomb Takers? 
+LAURA: No, just us. 
+MATT: Okay. You got it. 
+TRAVIS: Oh boy. 
+SAM: Before we go out there, should we leave a note for our wheeled friend or anything? Anything that we need to tell him, I guess we can always message him. 
+ASHLEY: I think he's also probably watching-- 
+TALIESIN: We thinking about leaving something in the lava or no? 
+LAURA and SAM: Oh! 
+SAM: Oh! Like a-- 
+TALIESIN: I'm casting Water Walk on myself and Protection from Energy. 
+MATT: Okay. How long does Protection from Energy to last? 
+TALIESIN: An hour. 
+MATT: Okay. 
+MARISHA: We were talking about dumping the-- 
+LAURA: Yeah, but it's-- 
+MARISHA: But it's not the same any more, yeah. 
+LAURA: Can't do it. 
+TRAVIS: I'll summon the Star Razor as well, just to have it out. 
+MATT: You got it, blade is there in your hand. Faint glow lighting you up. Just right off the edge way the five Tomb Takers are there, looking and waiting expectantly. 
+TRAVIS: Oh, was-- 
+MARISHA: On the river or across it? 
+MATT: No, they're on the river. It's a long way to cross, but you guys are moving together. 
+TRAVIS: It's a mile across, right? 
+MATT: Yeah. 
+LAURA: Yeah. 
+MATT: A little over a mile. 
+MARISHA: All right, I follow them. 
+TRAVIS: Yep. 
+MATT: Okay. 
+ASHLEY: Yeah, let's go. 
+MATT: So there'll be four lengths to this journey. For the first length, I need everyone to roll a communal stealth check. 
+MARISHA: Whoa! 
+LIAM: I'm going to use my transmuter's ability to not burn a spell slot. I'm going to turn into a white ermine or white winter weasel. 
+MATT: Okay. Okay. 
+LAURA: Plus 10. 
+MATT: If you'll be doing that, you'd be riding on one of your friends, then? 
+LIAM: If I have to. I was thinking it would be small and light on the snow. 
+MATT: That's true. You still can make a stealth check for your weasel form. Yes, you can do that. Okay, so? 
+TRAVIS: 28. 
+MATT: 28. 
+LAURA: 28. 
+MATT: Nice. 
+LIAM: Ew. 
+TRAVIS: We got the same score. 
+LIAM: That was the weasel. 
+MATT: Natural one, got it. Okay. 
+SAM: 35. 
+ASHLEY: 26. 
+MATT: Okay. 
+TALIESIN: 21. 
+MATT: Okay. 
+MARISHA: 34. 
+MATT: Okay. 
+TRAVIS: Fucking weasels, man. 
+LIAM: It wasn't at advantage, was it? It was just plus 10. Okay. 
+MATT: Okay, some decent rolls all around. The first quarter of the journey, you all quietly gathered together, though still two slightly separate crews. (crunching footsteps) Stepping, the snow falling around you. Every now and then, some of the snow will separate as the embankments pull because the lava flow beneath does not have a continuous flow, it shifts and changes as parts cool and break. And occasionally you'll just see an orange glow appear to the right of you and you have to carefully maneuver around. The anxiety builds. 
+SAM: Fjord, do you want to use your ring? 
+TRAVIS: To do what?! 
+SAM: Do you want me to, like, push you in or something? 
+TRAVIS: No. Why test the merchandise? It was clearly worth every-- 
+SAM: All right, all right. 
+MATT: Now for the second length of this, as you begin to make your way towards the center of this river, I need everybody to make another stealth check, please. 
+LIAM: And I assume that one is the weasel almost going in and going, "Eee!" 
+TRAVIS: Does Pass Without a Trace keep up? 
+TALIESIN: Hey! 
+LIAM: Natural 20. 
+ASHLEY: No way, really? 
+LAURA: Balance. 
+ASHLEY: Wow. 
+LIAM: So 30. 
+TRAVIS: And it stays up, right? Pass Without a Trace? 
+MATT: Okay. Fjord. 
+TRAVIS: 27. 
+LAURA: 33. 
+LIAM: 30. 
+MATT: Yep. 
+SAM: 39. 
+ASHLEY: 26, again. 
+TALIESIN: 31. 
+MARISHA: 31. 
+MATT: Good round of rolls and covered quite well for the Tomb Takers, who did not have a good round that time. They took a few steps. At one point, you see some of the snow crumples inward, and there's just a bright orange glow. And you see Otis kind of, "Ah!" and Zoran grabs them by the scruff of the neck and pulls them back and sets down. 
+LAURA: Which one is carrying the threshold crest? 
+MATT: From you'd guess, Zoran, who has the large pack on the back. The only pack that is large enough and appears to be full enough to be carrying it. 
+LIAM: It's a backpack in the shape of diamond. 
+TALIESIN: Be a shame if that backpack ended up in the lava. 
+MATT: You guys now, continuing to the center of this and you've reached that mid-point where looking front and back, it is an equidistant journey. And you see elements of the river shifting a bit more pockets begin to open, light begins to pour through, but it seems to be working okay. If I could have everybody roll stealth checks again for the third length of this journey. 
+MARISHA: (laughs) 
+MATT: Okay. Okay. 
+TRAVIS: ♪ 26. ♪ 
+MATT: Nice. 
+LAURA: 24. 
+MATT: Okay. 
+LIAM: 17. 
+SAM: 41. 
+MATT: Okay. 
+ASHLEY: 20, total. 
+MATT: Right. 
+LIAM: Yes! 
+TALIESIN: 31. 
+MATT: 31. 
+MARISHA: 30. 
+MATT: Nice. Okay. 
+LAURA: Oh no! 
+MATT: Unfortunately-- 
+SAM: You had to roll a 45. (laughter) 
+MATT: It was it was a pretty decent group DC. Twice in a row, the Tomb Takers had a terrible round. There was a natural one in there that also skewed it heavily in a bad place. But as you all are carefully making your way across. 
+TRAVIS and SAM: ♪ Makin' my way ♪ 
+MATT: One of the straps on Zoran's pack snaps and it swings a bit and Zoran loses his balance and instead hits the ground with a heavy hit. 
+LIAM: Oh no! 
+MATT: He gets back up quickly and as he pulls up, the snow pulls off on the outside and the powder beneath that was being stepped on is a little bit now glowing with the orange. And there's a quiet moment. And Lucien goes (shushing) and you all just tense up. 
+SAM: Yeah, it's not us, Lucien. 
+MATT: "Right, I think we're okay. Let's keep going." Caduceus. 
+TALIESIN: Shit. 
+MATT: Beauregard. 
+TRAVIS: It's never good when it's you two. 
+MATT: Caleb. 
+MARISHA: What?! No! 
+MATT: As you all were walking forward, you see-- you've become familiar with some of these orange glows that begin to break through as the flow shifts and the snow gets pulled apart. You watch as one pack of snow, a lot of orange begins to emerge and you watch the snow begin to rapidly melt and steam begin to rise. As you see a figure begin to drift up atop made of roiling flame, that pops up like a gopher through its gopher hole to look. And as you see, there's no features. It's just an entity of fire rolling and shifting. But you swear you see eyes, you something glowing. And it appears back below. 
+ASHLEY: Anne, Anne, Anne. 
+TRAVIS: I grab Jester's arm and I pull her close to me and I'll use my Channel Divinity to Create Marine layer. 
+MATT: Okay. 
+TRAVIS: And a fog extends anybody within five feet of me is obscured. So I'll just start reaching out and pulling the team. 
+MATT: Well, everyone within five feet of you can still see, it radiates out for 20 feet from you. 
+TRAVIS: Right, yeah, yeah. 
+LAURA: Oh right. 
+TALIESIN: Oh. 
+MARISHA: Okay. 
+LAURA: So yeah, when he-- okay. 
+MARISHA: Gather close to Fjord. 
+TRAVIS: Yeah, just (shushes). Come here. 
+SAM: As we gather close, I would just say: Hey, if this shit is going down, should we use it as an opportunity to take the other threshold crest and run? I'm just throwing it out there. 
+MARISHA: It's honestly not a bad idea. Do you think it's on his back? Do you think it's on Zoran's bag? 
+TRAVIS: They can probably hear us. 
+SAM: No, I'm saying this low, quietly. 
+LIAM: The weasel stands up on two little hind legs and then just goes and grows up. 
+SAM: I'm whispering it. 
+ASHLEY: Yasha, as you guys are having this conversation, you can't really see much because of the fog around you, except for the people immediately around you. And as you take a step forward, your foot gets extremely warm and you glance down and the snow where you're stepping is melted away and you can see the orange glow behind and you just pull your foot back. And as you look back into space, you see this flaming face begin to peer up through. 
+MARISHA: I personally think we should run. 
+MATT: And that's where we're going to take a break. (screaming) 
+TRAVIS: You stepped on its face! 
+MARISHA: Goddamn it! 
+ASHLEY: Oh! Ooh, hoo, hoo, hoo, hoo! 
+MARISHA: How far into this river are we? We had just gotten to half. 
+MATT: You're about, maybe, two-thirds of the way across. 
+TRAVIS: Not a good spot to get in a fight. 
+LAURA: Oh no, I think the fog could actually be a danger. 
+SAM: It's always worked before. (laughter) It's going to be fine. 
+TALIESIN: I have opinions, but I'll wait. 
+ASHLEY: Okay, okay, okay. 
+TRAVIS: I could drop it. I could drop it. 
+MATT: But we'll figure it out, regardless. 
+ASHLEY: Use the fog to dump in the... 
+MARISHA: Oh, oh! 
+TALIESIN: Yeah, yeah. Oh. 
+MARISHA: We have options. We have options. 
+TALIESIN: We have options. 
+SAM: Except we all have to protect Yasha's life. 
+LAURA: Yes, that, too. 
+ASHLEY: I'll be fine. 
+MATT: Okay, well, we'll come back to this in just a moment and see what transpires. 
+SAM: 2021! 
+MATT: We'll see you guys here in a few minutes. 
+
+Break[]
+Wow. Wow. You dive in. Mad respect. Max messaged the rest of us and he was like, "She went full Taliesin." (all laughing) "She went hard mode." Yeah. That's such a compliment. I came with my A game. It was early morning, I had a cup of coffee. I was awake, I had my CEO brain clicking and then I just got kicked in the (bleep) teeth. (laughing) 
+LAURA: (upbeat music) Hey Critters, Laura Bailey here. Let's see what's up in the Critical Role shop. Ooh, look at this. Look at the details, oooh. Oh my gosh, it's so amazing. I mean, the Traveler always says impulse purchases are a good decision. It's so cute, I can't handle it. Hey, look at these. They go on your face. So click on over to the Critical Role shop. Don't worry, there's a few more minutes in the break. You've still got time. 
+(rock music) (cheering) Yeah! We did it! Yeah! Sam Riegel, you just won the Super Bowl. What are you gonna do now? I'm subscribing to Critical Role, yeah! Wonderful, and that- It's about perseverance, like remembering to resubscribe with Twitch Prime every month, yeah! Well, could you- Have done it without my teammates? Come on, no way! And they couldn't have done it without the Twitch subscriptions that I gave them. Right, guys? Yeah! Okay Sam, but what about- What about what inspires me, you mean? Well, Yee-Haw Game Ranch really does. I mean, watching that dehydrated piece of string cheese, Brian Foster every couple of weeks really gets me pumped for the big game! Sam, hold on. We have to- You can't believe it? You can't believe it, is that what you said? Well, it's true, because every Yee-Haw VOD is instantly available as soon as you subscribe. It's amazing! Sam! You did it, guys! Sam! Yeah! Yeah! Sam! Yeah! What, sorry. Just say "I'm going to Disneyland." You're doing a commercial for Disneyland. Oh. Uh... What's a Disneyland? (dramatic music) (whistle blowing) I don't know, I gotta be honest with you. Oooh... I got hit in the head pretty hard out there. Oh my God. I'm not good at sports, (crowd groaning) (whooshing) (crowd cheering) 
+
+Part II[]
+MATT: Welcome back. All right, so, last we left off: The Mighty Nein-- 
+SAM: Oh yeah. 
+MATT: -- were having an issue on the snow-covered lava river. 
+TALIESIN: Shit. 
+MATT: As you had just come across the midway point, close to about the two-thirds section, realizing, with Fjord's fog cloud surrounding you, that these flame entities are now coming up from beneath and apparently do not undergo the same benevolence to the snow that the river itself does. One begins to burn up from below and almost sends Yasha toppling in. So what do you do? 
+MARISHA: Run. 
+TALIESIN: Fly, fly, fly. 
+ASHLEY: Do we go, do we run? 
+LIAM: We're all in this fog cloud that's where we tied it and that thing peeked its face up underneath the fog cloud? 
+MATT: Well, yeah, just right underneath Yasha was standing and she almost fell in and pulled back. 
+LIAM: The only question is are we leaving just with our gem, or are we're trying to grab theirs? 
+TALIESIN: Fly, fly, fly! 
+MATT: It's now rising up, and-- 
+LAURA: Okay, okay, we go. 
+MATT: -- as part of that, 
+MARISHA: Shit. 
+MATT: -- all of you are now on fire. (screaming) 
+LIAM: Metaphorically. 
+SAM: Except Fjord! Fjord, are you protected? 
+MATT: So here's-- 
+TALIESIN: Just Fjord Tough. 
+SAM: Kiss the ring. 
+MATT: So it zooms up and now you see is a full-fledged fire elemental. Has burned up from beneath the snow and the snow melts away and that one section where Yasha was standing, you guys stepped back and now there is this large, gaping, open space where it's just glowing fiery lava. The heat just immediately hits your skin and causes you to wince. And the edges of your brows begin to curl back as the hair burns away. And now this large fire elemental is right there in front of you, and it just rushes through you all immediately and you all catch fire. 
+LAURA and SAM: Well... 
+MATT: So! 
+SAM: I don't like that. 
+MATT: You all take, well, four points of fire damage. 
+LIAM: Fast thinking. 
+MATT: You take two. 
+TALIESIN: I also-- I'm halved as well. 
+MARISHA: And we did get a long rest, correct? 
+LAURA: Yes, we did. 
+MATT: Correct. 
+TALIESIN: Protection from fire. 
+MATT: Indeed, so you take two damage as well, but you are still on fire, which means you have to take an action to try and put it out. And as you guys glance forward, you can see, the Tomb Takers are taking stock of this as you can see other ones starting to push through the snow around you all, and Lucien just goes, "All right, we're running." And you see him pull his blades out. And as he does, he carves them across his forearms and you see this icy material begin to build up on the outside of the blades as he prepares his ice blades and starts running. What are you guys doing? 
+LIAM: I cast Polymorph-- Palsiesmorph on Yasha and push Veth and myself at a giant eagle. 
+LAURA: Okay. I'll cast Polymorph double time on me and Caduceus, and I'll pick up Fjord-- 
+MARISHA: I'll Legolas swing on top of Caduceus. 
+LAURA: Okay and start flying, forward. 
+MATT: You guys all just good with that? 
+TALIESIN: Yeah. 
+MARISHA: As we're going forward, can I keep an eye on the Tomb Takers? 
+LAURA: Yeah, definitely. 
+MATT: Well, you all take six points of fire damage because you're still on fire. Nobody has attempted to put it out yet. You take three, you take three. 
+TRAVIS: I'll use a 1st-level spell to Create Water again and I'll make that rain cloud, that 30-foot cube in front of where we're going to fly through, like a car wash. 
+LAURA: Sick! 
+MATT: Okay, cool. 
+LAURA: That's sick. 
+MATT: Yeah, I'll allow that. And so as that happens, all of you in your eagle forms take off. The spray hits you. As it does, the flames begin to turn into steam and it puts it out immediately and all of you. 
+ASHLEY: That's awesome. 
+MATT: Cool use of that spell! 
+TALIESIN: Nice. 
+LAURA: Question. 
+MATT: Make a perception check. 
+LAURA: Oh yes, and I want to see the Tomb Takers as well. I want to see the order that they're running in. 
+SAM: I hate it. 
+MATT: Go for it. 
+MARISHA: Maybe she does better. 12 for me. My perception's balls. 
+LAURA: 23. 
+MATT: 23? 
+LAURA: Yeah. 
+MATT: Okay. You do see as you are all just taking off in that direction upward, you're passing over the Tomb Takers and you glance down at them and you can see the other elementals flashing around. And Lucien looks up as you guys go by and he goes-- Your polymorphs drop immediately. 
+SAM: What?! 
+LIAM: Wait, what did he do? What did he do? 
+SAM: He canceled them. 
+LIAM: With what, like a hand motion? 
+MATT: He didn't make a hand motion at all. 
+MARISHA: He just looked at it-- 
+MATT: He just looked up at you guys and turned his head a little bit. 
+LIAM: So there is no Counterspell even chance; it's just instant. 
+MATT: There's no spell. 
+LIAM: Okay. 
+TRAVIS: Ooh, what the shit is that?! 
+LAURA: It's anti-magic. 
+MATT: And the polymorphs just shift and all of you are all just rising up are now continuing in an arc through the air over the Tomb Takers and are now about to collide onto the banks of the snow in front of them. Need you all to all roll acrobatics checks, please. 
+SAM: Oh boy. 
+LAURA: Cool, cool, cool, cool, cool, cool, cool. 
+MARISHA: Slow Fall. And a natural 18 for 28 for me. 
+TALIESIN: 13, which for me is pretty good. 
+MATT: Okay. 
+ASHLEY: 17. 
+MATT: Okay. 
+LIAM: 14. 
+SAM: 21. 
+LAURA: 15. (quick whoosh) 
+MATT: Well, you all manage to tumble. You don't take any heavy damage from this. Just a mild, it'd be two points reduced to one because you all rolled pretty well, except for you. You take a full two points of bludgeoning damage and you are prone. 
+TRAVIS: Okay. 
+LIAM: Wow. 
+MATT: At which point, as you all like (groaning), Lucien goes, "We're staying together. We discussed this," and he's just running by and you can see one of the elementals swoops up from underneath behind, it leaps back. Takes two swings with his blades. (heavy die rolls) 
+TRAVIS: That's a heavy fucking dice. 
+MARISHA: Shit. 
+MATT: Yeah, it's the metal one. 
+TRAVIS: Uh-huh. 
+MARISHA: I don't know what to do. 
+MATT: Hits twice. 
+MARISHA: Yeah, nothing. 
+SAM: Push him in the lava. 
+MARISHA: I mean, you said it's all about Otis. I was going to suggest we try to grab Otis, but-- 
+LAURA: Or, wait, is Otis, though? Zoran's the one carrying the bag. 
+SAM: Yeah, but Otis is easiest one to push in the lava. (laughter) 
+MATT: All righty. Slashes twice, and carves through the side of one of these, and you see it flickers back angrily and he just continues to go into a run. The rest of his group, getting their weapons ready you can see now as they do so, they draw blades. They're, like, small hooks or little pointed bits and bracers and hidden within gloves and elements. Where as they draw, they cut through themselves and the blood, familiar to a lot of the stuff you saw Molly do, the blood coat the edge of the blade and begin to enchant the edges of their weapons. They're all going into a run. And they're looking at you as well as like, come on. 
+TRAVIS: Yeah, yeah, we go. 
+MATT: All right. So what are you guys doing this round? 
+MARISHA: Yeah, run, I guess. Yeah, run. 
+MATT: All right. Fjord has to-- 
+LAURA: I'm going to help Fjord up. 
+MATT: So you guys would be a little bit behind the rest of the group. 
+LAURA: Does that mean the Tomb Takers are catching up with us? So our group is ahead of the Tomb Takers. 
+MATT: Correct. 
+LAURA: Okay. 
+MATT: We'll say here, this is more of just a general order of how you guys are traveling, and who's ahead, who's behind. We'll say the Tomb Takers are all catching up right about here. 
+SAM: I feel like we're missing a person. 
+ASHLEY: I don't think Yasha's out there. 
+MATT: Yeah, Yasha is right up here with y'all. Oh god. Oh god. 
+SAM: Oh no. 
+MATT: I'll just put them up here. 
+SAM: Ooh, there's the Tomb Takers! 
+TRAVIS: Where, huh? 
+LAURA: Which ones are which? 
+SAM: Well, you know Cree, you know Zoran. 
+TRAVIS: I got them. (blasting) 
+MATT: There you go. 
+MARISHA: (yelling) 
+LIAM: Oh, so there's no gap at all. They're right there with us. 
+LAURA: Yeah, yeah, they're right there. 
+MATT: So you guys land and slide and they're going into a run and they're just catching up right behind you as you guys are all going. So what are you doing? 
+LIAM: We're all running at this point. 
+LAURA: I'm going to run but I'm going to try to run just a little bit slower so that Zoran and who's coming up on my, what is that, my right side will pass by me. 
+MATT: Okay. 
+LAURA: But I'm looking like I'm running full speed. I'm just looking like I'm maybe not as fast as everybody else. 
+MATT: Okay. You got it. So you are slowing down a little bit. The rest of you push forward. 
+MARISHA: I'm going to do the opposite of what Jes is doing and I'm going to Step of the Wind and trying just full bolt ahead of everybody. 
+MATT: You're way ahead of everybody. Fjord gets to ahead little bit. Everyone falls behind a bit. Lucien comes up beside to you. Cree actually goes on quite a bit faster, the tabaxi form allowing that. The rest of them begin to catch up with Jester in a flanking pattern. There's other three of them around you, at that point. 
+LAURA: Okay. 
+MATT: All right, now you can see the elementals that began to burst through are now gliding through the snow and just carving paths. You can see the dark top as the morning light hasn't quite risen. The sun hasn't quite crested the distant mountains so it's still very dark, other than the underlit glow of the molten rock below. And it's now peeking through in spaces. And now, in its own way, is carving like somebody is drawing across the edge of a star and you can see these streaks, burning to come across your path ahead as they're intersecting and trying to find a way to keep you in the space. So they're not coming directly at you, but they're starting to make the path ahead of you challenging. You guys continue to run forward and run forward. And there is now a couple of gaps you're going to have to jump past and not fall in. 
+SAM: Okay. 
+TALIESIN: Oh boy. 
+MATT: So as you all go running, I need you all to make athletics checks for me, to go ahead and just ensure that you can leap across. 
+LIAM: Across lava? 
+MATT: Yeah. 
+LIAM: I'm ignoring what he did. I'm turning into a giant owl and staying low to the ground. 
+MATT: Okay. You turn into a giant owl. We'll say we'll use this for you. 
+TALIESIN: Oh, thank you. 
+MATT: And as long as you stay low to the ground Lucien does not cancel your form. Ah, fuck, it came out. 
+TALIESIN: Eugh. Yep, you'll be saving me. 
+LIAM: In fact, I'm going to-- yeah. I'm going to float, like, two feet above everyone's heads. 
+MATT: Okay. 
+LIAM: And I'm just-- turning as I fly. 
+MATT: You've got it. 
+LIAM: Just looking for a misstep. 
+MATT: All right. 
+TRAVIS: Natural 20 for a 26. 
+MATT: Nice. 
+LAURA: A natural two, so that would be a five. 
+MATT: All right. 
+LIAM: Oh, I need an acrobatics as a flyer. 
+MATT: Oh sorry, you're flying, you're fine. 
+SAM: 18. 
+MATT: 18. 
+ASHLEY: Six. 
+MATT: Six. 
+TALIESIN: Three. 
+TRAVIS: Fuck, guys. 
+MATT: All right. 
+MARISHA: 28. But I'm really scared for my team now. 
+MATT: So you leap off and turn. You see them all leaping and you see some sliding as the snow sends them off-guard and their momentum shifts. 
+MARISHA: Yeah, I do a front aerial flip over one of the lava flows. And I turn around and I go: Come on, guys! And I see, like, three people just biff it. Yeah. 
+TRAVIS: Biff it. 
+MATT: Oh shit. It's like two natural 20s in a row for the Tomb Takers. 
+TRAVIS: Where was that shit before? 
+MATT: I know, right. 
+SAM: We got this. 
+MATT: Okay! 
+LAURA: Zoran, save me. 
+MATT: And he does. As you begin to fall in, you feel this big meaty hand grab the back of your coat and lift you up and set you back onto your feet scrambling ahead. 
+LAURA: Can I use a reaction? 
+MATT: What are you trying to do? 
+LAURA: Using my sleight of hand, can I try to loosen the second strap that's holding onto his-- 
+MARISHA: Yes, come, come on. 
+MATT: Roll sleight of hand. 
+MARISHA: I knew that's what you were doing. Come on! 
+TRAVIS: Wow! 
+LAURA: Can I Guide myself on this? 
+SAM: Don't sleight the hand that feeds ya! 
+MATT: It's a reaction. As a reaction, you cannot. 
+LAURA: Okay. 18. 
+MATT: 18. Okay. As you get lifted back up, you reach over. This is real quick. This brief moment you have. And as you reach up for the strap that's right there, his hand clasps yours and says, "Just hold on." And he just keeps running. But he's clasping you there to it. So you couldn't loosen it at all and he has seemed-- he saw something, but he assumed that-- 
+LAURA: He thought I was grabbing on to it. 
+MATT: Just grabbing on, and so he's just holding you there. It's odd because in this moment, there is a sense of working together. That was a fucking gamble. 
+TRAVIS: Whoosh! (glubbing) 
+TALIESIN: Clutch. 
+MATT: And he's now holding you right there. As you all continue to run forward, you-- 
+ASHLEY: Die. 
+MATT: No, the only person who was close enough to try and help you would be-- 
+TRAVIS and LAURA: Caleb. 
+MATT: Caleb would be in that vicinity. If you want to go ahead and-- or Veth. The two of you can try to try and catch-- 
+LIAM: Where's Caduceus in there? 
+SAM: Caduceus is farther ahead. 
+MATT: Right there. Yasha is a little bit behind you. 
+LIAM: And they're both going down? 
+TRAVIS: No, Yasha, right? 
+TALIESIN: I'm going down, too. 
+MATT: You got to choose between Yasha or Caduceus. 
+SAM: I'll take Yasha. 
+LIAM: I'll take the healer. (laughter) 
+TRAVIS: Wow. We'll work on that later. (laughter) 
+MATT: All right, because you are flying-- 
+MARISHA: Wow, a clear value was just stated. (laughter) 
+TRAVIS: That was great. 
+ASHLEY: I can heal for 11 points. 
+TALIESIN: I'm a living do-over, to be fair. 
+MATT: All right. 
+LIAM: I was a paladin; I remember those days. 
+MATT: I just need a dexterity check from both of you. 
+SAM: Oh, just dex. 
+MATT: Just a dex check using the dex of your owl as well. 
+LIAM: Oh, okay. (fake sobbing) I don't know what the owl is, but it was a super low roll. 
+LAURA: (chuckles) 
+LIAM: Um. (fake sobbing) 
+TRAVIS: You chose poorly. 
+SAM: I rolled a one. 
+TRAVIS: Oh my god. 
+MARISHA: That's so bad. 
+MATT: It is an ability check. 
+MATT: It's not. 
+LAURA: Can't you just for once use your damn Halfling Luck? 
+SAM: There's no skill. 
+MATT: This isn't Halfling Luck. 
+SAM: I have no skill. 
+MATT: Oh, that's proficiency. No, it's proficiency, you're right, for the... Is that how it works for the-- 
+SAM: Yeah, I have to be proficient in the skill, but you said a dexterity check. 
+LIAM: You rolled a one? 
+SAM: I am not at proficient in dexterity. 
+MATT: That is correct. 
+LIAM: But a halfling, when they roll a one, can re-roll. 
+SAM: True. 
+LAURA: Yeah, that's what I'm talking about. 
+SAM: That is true. Hmm. (smacks lips) It's a shame. (laughter) 
+MATT: Yeah, proficiency bonus. Yeah, you're right. Just double checking for my own sanity. So yeah, no, you both, unfortunately. In the rush of it attempting to swoop down, Caduceus just goes down a little quicker than you thought, and Yasha, you trip and end up going over and you hit it and just pushing through the pain you continue to push forward and kick up over and land, but as you do, your leg (sizzling). 
+ASHLEY: Ow! 
+MATT: And you hear Yasha's yell scream out in the midst of this. Yeah. Let's go ahead and roll some damage here. 
+LIAM: Remember Vax's foot? 
+MARISHA: Yeah, yeah, I do. 
+LIAM: It took multiple games to slowly. 
+MARISHA: Yeah. 
+SAM: I can't use my action to help her, can I? 
+MATT: That was your action that help her. 
+SAM: I was going to cast-- well. 
+ASHLEY: Do I have a reaction to try to-- well. I don't know if that'll work. 
+MATT: You take 60 points of fire damage. 
+LAURA: Ooh. 
+SAM: But halved. 
+LIAM: Hot foot. 
+TALIESIN: No. 
+SAM: Because she's only half a person now. (laughter) 
+MATT: That's awful. 
+ASHLEY: I'm okay. Okay. 
+SAM: She's fine. 
+MARISHA: ♪ Stay alive ♪ 
+ASHLEY: Stay alive. 
+MATT: And 50 points of fire damage to you reduced to half to 25. 
+SAM: You promised each other that you would stay alive! 
+MARISHA: -- would stay alive! (laughter) 
+TALIESIN: Well, that sucked, and that sucked. 
+LIAM: If I ever a roll a halfling again, I'm going to spam the shit out of that natural one rule. 
+TALIESIN: I kind of made myself as space suit for this because I know I can't run. 
+ASHLEY: Yeah, no, no. 
+MATT: As you fall and hit, the magic resists it and the heat still burns you as you skid a bit and then hit the other part of the snowbank and come up and you feel singe and the pain is there, but the magic did help cushion that for you. 
+TALIESIN: So I'm on fine ground at the moment. 
+MATT: At the moment, you are, yeah. 
+TALIESIN: Okay, good. 
+MATT: Yeah, you guys just, like, because you're running, the momentum hits and then just brief little parts even if you impact, you skid off, you continue pushing forward, the momentum carries you. 
+SAM: They're out of it? 
+MATT: Yes. 
+SAM: Oh, easy. 
+ASHLEY: Yeah. 
+MATT: These are little things. So moving forward, you guys now reach, continuing to run, the three-quarters mark on this. What are you all doing at this juncture? 
+MARISHA: Is there some more to go? 
+MATT: Yeah, they're still coming up and popping through. I'm just saying, what are you doing at this moment? Right now, you just jumped past this. You've got a little bit of ground, and you can see ahead. You've made it three-fourths of the way across this river now. 
+MARISHA: I'm kind of trying to... Because I know I'm faster than everybody else trying to... My idea was that I could forge a path a little bit. So I'm going to stop, turn around make sure my whole team is there and I'm going to continue forward and try to navigate. 
+MATT: What you do notice. 
+MARISHA: What do I notice? 
+MATT: Is the elementals, all (whooshing) went below. 
+LIAM: Oh dear. 
+MARISHA: Son of a bitch. 
+MATT: And right as you glance around and look the opposite way, you see four of them now. There is this four that are active at the moment, all come up and begin sweeping in different directions in front to begin carving this large arc to block you off. 
+SAM: Shit. 
+MATT: So just partially in, but it's like. You watch as they're just melting a semicircle. 
+MARISHA: I stop and I turn and I yell to the flank as soon as I see what they're doing. And I say: Go to the angles! And try and direct people to try and maybe beat them. God, that's a terrible idea. 
+LIAM: I hear that and preemptively grab Caduceus and Yasha by the scruff. So they have control of their arms and just lift. I don't take off into the sky because I don't want to get dropped, but will take them above the ground and start to veer to the right to try to cut off that. 
+TALIESIN: Am I now flying? 
+SAM: Yeah. 
+TALIESIN: I cast Heal. 
+ASHLEY: (relieved sigh) 
+MATT: Caduceus and Yasha, you said? 
+LIAM: Yeah, because I carried two people before. 
+ASHLEY: Heal's pretty high, right? 
+LIAM: They're heavy. 
+TALIESIN: 70 points. 
+MATT: All right. 
+LIAM: All better. 
+MATT: So you guys need to drift off to that side lifting them up. 
+MARISHA: Ten and two! 
+MATT: The rest of you guys, what are you doing? 
+ASHLEY: I'm currently at 70 hit points. 
+MARISHA: Can I, since I'm still far enough ahead, does it look like a gap that I could still clear? 
+MATT: So you're going to try and rush off and see if you can clear the gap before it closes? 
+MARISHA: Does it look like I can like-- 
+MATT: It's possible. 
+MARISHA: Yeah, I'm going to go for it. I'm going to run. 
+LIAM: You could certainly try! 
+TRAVIS: I'll cast Fly with the Star Razor. My feet just hover above the ground, but I'm also watching to see what Jester and Beau and Veth are doing. 
+MATT: You've got it. 
+TRAVIS: I'm just (whooshing) waiting. 
+MATT: Okay. So as you're running, you can lift off the ground, and you're now hovering that space. You're going to go ahead and make your try and leap off at this angle, you said? 
+MARISHA: I'm basically playing chicken with the elementals. 
+MATT: You're rushing at the direction they're going to try and beat them? 
+LIAM and MARISHA: Yeah. 
+LIAM: Nice. 
+MATT: With your monk speed? You don't even have to roll for it. You can beat them. 
+MARISHA: Okay, I do that. 
+MATT: Yeah, it'll cost you a ki point, but with your speed, you just (quick footsteps) across the ice and basically cut it off. And as they begin to carve their way past, you just emerge separately. 
+MARISHA: Dodging a train, just jumping and dodging a train. 
+MATT: Which splits them. The one continues. If they were both carving a wider space, it would be harder to leap over, but now they've divided in two. One's going after you and the other one is continuing its path. Which means it gives a slight opportunity on left side to make two easier jumps as opposed to one harder one. 
+MARISHA: Okay. I turn around and I see what's happening. I'm going to three-point landing this shit, I'm going to yell to the group and I say: Go to the left! And I'm going to try and do some sort of flourish and keep kiting the other one away. 
+MATT: Okay, all right. You got it. 
+LAURA: I'm going to look at Zoran, and say: I can help us get out of here. 
+MATT: "Well then, fucking do it quick." 
+LAURA: All right. I'm going to polymorph also into a giant eagle. 
+MATT: Okay. 
+LAURA: And I'm going to pick him up. 
+MATT: Okay. 
+MARISHA: Come on, come on, bitch, do something cool. 
+MATT: All right. 
+LAURA: I'm going to pick him up and try to hook my claws. I pick him up under the-- like, between the strap, so I could potentially be saving him, but also break the strap as I'm lifting him up. 
+MARISHA: Uh-huh, uh-huh. 
+LIAM: (high-pitched footsteps) 
+TALIESIN: (sarcastically) Oh no. 
+MATT: Okay. 
+SAM: You grabbing anybody else, or just him? 
+LAURA: Sure, I'll grab-- who's right--? Is anybody else in front of me? Otis? Is Otis in front of me? 
+SAM: Dump Otis in the-- 
+MATT: Otis would be in front of you. 
+LAURA: I'm going to grab Otis, too, as I'm flying up. Try to help out. 
+LIAM: That's good, that's good. 
+LAURA: I got one claw holding Zoran, and one claw holding-- 
+MATT: I understand that. Go ahead and make a grapple check. 
+LAURA: I'm not trying to like... I'm trying to help him. 
+MATT: I understand. Otis doesn't see you transforming into this eagle and suddenly there is claws upon him. So they're just going to try and-- 
+LAURA: Is that a strength? 
+MATT: Yes, that would be a strength check. 
+LAURA: 21. 
+MATT: Natural one. Nope you got it. 
+LAURA: Okay. 
+SAM: (whispering) She's got Halfling Luck. (laughter) 
+MATT: You don't got him. 
+LAURA: Oh shit. (laughter) 
+LAURA: Okay! 
+MARISHA: Damn it, Sam! 
+TRAVIS: Sam, fuck! 
+LIAM: You didn't use yours, but you gave them theirs. 
+MARISHA: Just join the Tomb Takers. 
+LIAM: Just join the Tomb Takers already! (laughter) 
+TRAVIS: I'm an agent of chaos. (laughter) 
+LIAM: Instantaneously. 
+MATT: All right, so Beau is carving them off, you have currently used your action to transform, which means you slow down a little bit, but you're holding onto Zoran underneath there, lifting up and carrying forward. Because you're slowing down a little bit in that moment. Although, what does the speed of the-- 
+LAURA: Giant eagle? 
+MATT: Yeah. I believe it's-- is it 60 feet? 
+LAURA: 80 feet. 
+MATT: 80? Oh yeah, that more than makes up for the space. So you do manage to, while you slow down to do the casting, you do jump ahead a little bit and then continuing carry that forward and you are now way ahead as well. Oh god. 
+LIAM: I like that the owl is the eagle and the eagle is [inaudible]. 
+LAURA: Yeah. It's great. 
+MATT: Look. 
+TALIESIN: It's a message, man. 
+LIAM: DM faster, Matt! 
+MATT: Be happy you have wings. I could've, instead, just made you riding a giant Yasha. (laughter) 
+ASHLEY: It could work. 
+MATT: Also viable. All right. With that, they're all going to continue moving forward, moving forward. You're way, way over here now. But they're starting to shift this direction to try and utilize the space that you've given, and shifted this way. What are you all doing? 
+LIAM: How are we doing with the... My trio went to the right. I'm taking to the right. 
+MATT: So to the right, it is a thick, like, almost 15-foot wide gap that they've burned across the snow. That, with their speed, they're just going full, they've basically cut you off that direction without going over it. 
+LIAM: But I'm in the air and is there any anything burning up or smoke or anything, or is it just the snow is missing in front of us? 
+MATT: It's just the snow. And you see steam rising as they carve through, but the glow now lights up. 
+LIAM: I'm going to risk going up another five feet and just keep heading on an angle in that direction. I'm not trying to make it look like I'm taking off. 
+MATT: There's no interference and you go. 
+TALIESIN: We're nowhere near any of those creatures, right, they're not within 30 feet of us? 
+MATT: Not at the moment. 
+TALIESIN: Okay. 
+MATT: They're more interested in preventing your travel beyond. All right. So all the people who haven't gone yet. 
+SAM: I will grab Otis. I will reach out my hand to Otis or beckon her and be like: Come to the left, to the left! 
+MATT: Otis nods and runs past you. 
+SAM: And as she goes I'll cast Phantasmal Force on her. 
+MATT: Okay. 
+TALIESIN: (heavy sigh) 
+LIAM: Everything you own in a box... to the left! 
+TALIESIN: I am terrified by all of this. 
+TRAVIS: I blame you. 
+LAURA: I was acting like I was helping. I wasn't going to do anything outward. 
+MATT: Natural 20. 
+SAM: (quick inhale) Okay, cool. 
+TALIESIN: Maybe if you had a little bit of luck at some point. 
+MATT: So as you say that and Otis runs past, you whisper the incantation and Otis catches glance at you and continuing to run past because he's a doing a double move, but you used your action. You're having to slow back a bit. So you pass each other as Otis gets ahead, and then he goes, (tsking) and continues running. Moving this way to catch up. Fjord, what are you doing? 
+TRAVIS: I'm just flying behind them. Keeping pace with those that are question marks like Veth and Jester. 
+MATT: All right, so keeping with them? 
+TRAVIS: Mm-hmm. 
+MATT: Okay, you got it. They're now all having to leap and the ones only ones who have to jump at this point are Veth, and them. So let's go ahead and do that. Because you divided it, it's two small jumps as opposed to one really hard one. So go ahead and roll twice. 
+SAM: What am I rolling? 
+MATT: Sorry, this would be athletics to leap across. 
+SAM: Okay. 15. And 17. 
+MATT: Nice. Two good rolls. All right. So we'll go across the team here. Yeah. Okay. Okay, yeah, all right. So the first pass, you all run, jumping over the first arc that goes continues past as the elementals backing around to try and catch up. The second one comes up. Ooh. Okay, they all go running and leap and you watch as Cree, (sizzling) into it and rolling to one side stumbles, across the ground as quickly Lucien turns and grabs one of her hands and picks her back up and goes, "Come on!" And they all keep running. The others leap across fine, but you just see Cree's limping a bit. Cree is going to go ahead and-- 
+LAURA: It's sad because I feel like I want to help everybody, at the same time as, like-- 
+SAM: Kill them. 
+LAURA: Yeah. 
+MATT: Is going to go ahead and cast Heal-- 
+LAURA: No, I really do, I want to, like, help them. 
+MATT: -- on herself because Cree took... 49 points of fire damage. So instead of Heal, is instead going to cast a high level Cure Wounds. Say a 3rd-level Cure Wounds. Oh, that's actually pretty decent. 
+TRAVIS: Deck of the Enterprise. 
+MATT: It's 29. I know. Sorry. 
+TRAVIS: I'm like-- No, no, no. 
+TALIESIN: Tension is real. 
+LAURA: Yeah. 
+MATT: All righty. So hurt, but still running, they're all pushing. You guys are getting closer and closer. You can see the bank on the opposite side. 
+LAURA: As soon as we cross over the embankment, the gap, I want to put Zoran down and fly low. Did my attempt at making the strap weaker with my claw do any good? 
+MATT: You're not trying to break it right now you're just trying to make it weaker? 
+LAURA: I'm trying to make it, like, I don't want it to snap immediately when I let him go. I want him to feel like I didn't fuck up the bag. But if it rips, it rips. 
+MATT: Got it. 
+LAURA: I want the bag to fall into the fucking lava. 
+MATT: Okay. 
+LAURA: I'm not trying to steal a bag, I want the bag to fall off of him. 
+MATT: I understand. Go ahead and make a strength check for me, using the strength of your eagle form. Need to transition over because this iPad's crashing. 
+LAURA: How do we know where is it? Okay, wait, here we go, strength. 20. 
+MATT: 20, okay. So that is some pretty, I will say some pretty decent control over the strength on this. Are you trying to sever it and hopes that it hits the lava? Or are you just trying to weaken it? You have control over this because of that roll. 
+LAURA: Whoa. I want it to hit the lava. 
+MATT: Okay. So as you release him, the other strap snaps and immediately begins to give way. This would be as you were... You said you set him down, right? 
+LAURA: Mm-hmm. 
+MATT: Hmm. Because you carried him the other side which means there is no longer lava beneath you. So pulling the strap would mean it would fall off. Which means it wouldn't hit the lava, it just means now he has no straps so he's having to carry with his hand. So he pulls back, "Shit!" picks it up and he's just lugging it by this loose strap now. It's like the shitty backpack you had in high school that broke when you-- 
+LAURA: All your heavy books. 
+MATT: Yeah, and you're just clutching it. That's where he's at now. And he's running, running. The other elementals are swooping around and they're doing this wide arc carving through the snow to try and cut you off one last time before you reach the opposite bank. 
+LAURA: Okay. So with this, what's everyone doing? 
+MARISHA: One last time. Okay. Okay. I'm still sprinting ahead, I'm assuming. Do I still have that one hot on my ass? 
+MATT: You do. So there's one on this side and two on this side that are looping around. This one was just catching up. But you're faster than all of them, if you want to be. 
+MARISHA: I'll continue forward towards the embankment. I just want to keep kiting this guy and make him not a problem. So whatever direction-- 
+MATT: So you going to shift off the side or which way? 
+MARISHA: Yeah, can I do a big loop? 
+MATT: You can. 
+MARISHA: I'll loop them wide. 
+MATT: You can. That will carve a path in front of everyone else. 
+MARISHA: I don't want to do that. That's exactly what I'm trying to avoid. 
+MATT: So you would probably go this way then. 
+MARISHA: Fine. 
+MATT: Okay. So Beauregard goes wide over here, while the rest of you are drifting towards where they're swirling around. It is going to cross over just barely before you guys get there at the speed that they're traveling. And cut you off with a secondary circle. One side is a single jump, thinner, the other is a lot thicker and a harder one to make. I assume everyone wants to go towards the easier side. 
+SAM: Yes. 
+LAURA: Is there anybody I can pick up and help over? 
+MATT: There's numerous ones, yeah. Did you want to go ahead and-- 
+LAURA: Yasha seems hurt. Is Yasha still hurt? 
+LIAM: No, Caduceus has healed her. 
+LAURA: Is Caduceus still hurt? 
+TALIESIN: I'm fine, we're both-- 
+LIAM: Good for now and they're flying in my car. 
+TALIESIN: I took 20 points of damage. 
+TRAVIS: I'm fine. 
+TALIESIN: And I'm just half damage for fire. 
+LAURA: Okay. Then I'm going to pick up-- Fuck it, I'm going to pick up Caduceus. 
+LIAM: I've got Caduceus and Yasha. 
+LAURA: Oh, I'm going to pick up Lucien. 
+MATT: Okay! 
+LAURA: And Veth. 
+MATT: Okay, so you grab Lucien and Veth. As you swoop down, you can see Lucien running, blades still out, like, glances over and-- actually, doesn't even glance over, one of the eyes in the back of the neck looks up at you and the arms just go out, like preparing and you grab both of them up, lift up and as you pull them up over the way, they don't have to worry about any checks at this point. All right. And you don't have to, either, because you're flying. That it puts it at there. 
+LAURA: (whispering) What? 
+MATT: Yeah, all good rolls. Oh, and Zoran. Natural 20. They all jump over the final aspect of this carved-- 
+LAURA: Is it disadvantage because he's carrying something heavy? 
+MARISHA: He's got-- it throws off the weight. 
+LAURA: That throws you off balance. It's not like a backpack. He's carrying it. 
+MARISHA: He's got a bag of dodgeballs. 
+SAM: Salt. 
+MATT: He has a pretty high strength, and he rolled a natural 20. If he had failed on this, he would have lost it in the lava. 
+LAURA: Okay, okay, okay, okay. 
+MATT: But he rolled a natural 20. ♪ (Horn wail in background music) ♪ ♪ (horn wail imitations ♪ 
+MATT: Classic. 
+LIAM: To underscore Matt's point. ♪ (horn wail imitation) ♪ 
+MARISHA: I was with you. I was with you. 
+TALIESIN: I was so with you. 
+MATT: I know. 
+TALIESIN: Such a good plan. 
+MATT: It was a good setup. It was a good setup. So all you all go rush-- 
+MARISHA: We fucked up his Jansport. 
+MATT: As you all begin rushing up to the edge, you can see it begins to lift up. This was less of a cliff face and more of a heavy vertical climb on a snowbank. So it's going to be challenging to climb up quickly without accidentally slipping and falling backward towards where the lava river is. So as everyone who's not currently being held by an eagle or flying, which is-- No, that's all of you. Eh. That would be them. So. (laughter) 
+MARISHA: What about me? 
+MATT: Oh, well, you haven't gotten there. You've been chased by one of these. 
+MARISHA: Okay, cool, cool, cool, cool. 
+MATT: And as they all reach the embankment, the other elementals have swirled around and they're all trying to make their way now towards Beauregard, who's the only one that's currently right at the area. And so we've got that going. They're all going to try and make it up the side. 
+MARISHA: "We got that going." 
+MATT: The only one who's in danger on that one would be Tyffial, who, trying to get up there, ends up falling back and can't seem to get past enough heavy powder and just begins to slide back to the base. But all the rest of you get up and over onto the edge of the cliff, whether it by eagle or a flying bird claw, or climb up over the side and turn back as you see Tyffial slipping back in the snow to the edge. At this point, the Tomb Takers look at each other and-- let's see what Otis has. 
+LIAM: Is it a stable place where the group is landing? 
+MATT: Yeah. You are outside of the danger of the lava river. 
+LIAM: And not in any danger of sliding back down where we are? 
+MATT: You guys are all up on the lip now. 
+LIAM: Yep, I'm dropping, I'm dropping my form. 
+SAM: I will cast Levitate on Tyffial. 
+MATT: Okay. 
+TALIESIN: Oh. 
+MATT: As you watch as Tyffial begins to fall back at the bottom and then levitate, she begins levitate up a bit. Can't move. Is just kind of there. 
+SAM: It's all I can do. Can someone grab her? 
+TRAVIS: Yeah, I'll fly over and give her a nudge in the right direction. 
+MATT: Okay, and as you do, it's like nudging something in space. She begins to drift, hits the snow and-- Have you ever-- it's like-- 
+MARISHA: Let her keep going. 
+MATT: Yeah. It's like a reverse hill slide, where she's hits the snow and then slides up the bank at the top of the embankment. And she continues going an angle before Zoran with his free arm grabs the ankle and pulls her down. 
+TRAVIS: Clocking everybody on the lip now. Is Beau still out way off on the side with the elementals? 
+MATT: Beau is still down in the river running quickly. And as you look behind, there are now four elementals. 
+LAURA: I'm going to drop Veth and Lucien and go after Beau. 
+MATT: Okay. You got it. 
+SAM: Wha-ha! 
+TRAVIS: That's what I was going to do. 
+LAURA: Oh, I'm sorry. 
+MARISHA: Aw, no! 
+LAURA: You go, you go, you go save her. 
+TRAVIS: No, it's okay. You got it. 
+LAURA: I'm sorry. 
+MATT: Both of you are now rushing. What's your fly speed? 
+TRAVIS: 60. 
+MATT: 60. Well, you actually were still cruising that same space, since you're the one that actually brought other people up and dropped them off. So you are a round ahead. So Fjord, what are you doing? 
+TRAVIS: I'm just trying to see Beau need a hand like: Beau! 
+MARISHA: I turn around, I see what he's doing, and I'm going to just try and meet him in the middle as I hold my arm up, as I keep running. 
+MATT: Yeah, you move just a little bit faster with a double move at your fly speed. You move a little faster than these elementals. So as they're starting to triangulate and catch up to her, carving these four golden paths of burning lava through the snow fields. A little bit of blue light getting brighter in the sky. You can just start seeing the tops of the snow that's still decent to step on. And as Beau's running and is starting to come up behind her, she's still keeping away from them. But they're starting to cut off any space and she's not going to go up there herself. And the embankment has now turned into cliff side. 
+MARISHA: Oh lord. 
+MATT: As you look back and see Fjord catching up to you, there is a moment where you can reach back and-- 
+MARISHA: I'm going to vault off of the embankment and do a back flip over the elementals and grab him. 
+LIAM: Bullet time. 
+MARISHA: Yeah, bullet time. 
+MATT: Beau, always extra. I dig it. Go ahead and make an acrobatics check for me. 
+MARISHA: Yeah. 
+MARISHA: Okay, 15. 
+MATT: That's enough. 
+MARISHA: (laughs) 
+MATT: As you run and rush-- 
+MARISHA: Rolled low for me. 
+MATT: -- you see that happening, you dig a heel in and begin to slide, which means you've hit an ice patch. You don't know when that patch is going to end and your feet are still in contact with the snow. And god knows if you were to actually slip beneath the surface or find an element where it was open ahead of you. But with that, you find yourself coming to the edge. You leap up, and with the momentum you hit the edge, kick off and flip backwards. The elementals are going to swoop in underneath. At that point, your arm is out. You watch as Fjord comes from the other direction. (swooshing) 
+TRAVIS: Beastmaster. 
+MARISHA: (grunts) 
+MATT: Yep. And you're lifted up. Almost the second time your arm has been jerked out of its socket in recent days, but you find yourself now lifted up in the air. As the two of you Superman the Movie fly, you know, down to meet everybody else on the edge. 
+TRAVIS: It's not nearly that graceful. I'm holding my elbow to keep it in socket. Hold the fuck on! 
+MATT: (whooshing) 
+MARISHA: Beau does start to have an inner monologue go, though. 
+SAM: What is this feeling? 
+MARISHA: What is this? I feel so safe. 
+TRAVIS: (blows raspberry) (laughter) 
+MARISHA: Who is this man? 
+TRAVIS: I'm straining really hard. (laughter) 
+TRAVIS: (blows raspberries) 
+LIAM: I'm turtling. Got to get to the end. 
+TRAVIS: Drop as soon as you're able. (groaning) 
+MARISHA: Will we be together forever? (laughter) 
+MATT: So as you all stand there for a minute on the defense, weapons drawn and at the ready, breathing heavy, seeing now the weird-- 
+SAM: Can he read my mind? 
+MATT: -- weirdly beautiful patterns carved through the snow that give this golden sigil look to it in the way that swirls and cuts off and changes direction. All these possible deaths that awaited you on this path that you managed to avoid, as the elementals carve around again, look back angrily and then slowly sink into the lava below with (hissing) the hissing of steam. Out of breath, everyone looks around. Lucien goes, "Right. Well done. Apologies for the rough start. I just don't like being abandoned." 
+LAURA: You realize you could have just told us. We could have flown across multiple times and you wouldn't have had to deal with any of that. 
+MATT: "Hindsight 20/20 and all that." 
+MARISHA: (incredulous humming) 
+TALIESIN: Oh, I get that. 
+ASHLEY: Perspective. 
+TRAVIS: (laughs) 
+MARISHA: Uh-huh. 
+ASHLEY: That's a good example of that. I have my foot jammed into the snow. 
+MATT: Yeah. (chuckling) It's throbbing pain. 
+TALIESIN: It's to be red and boily for a while, but at least it's there. 
+ASHLEY: Yeah. It hurts, but-- I'll be fine. 
+TALIESIN: Yeah, you'll want to put something on that. 
+ASHLEY: Yeah. 
+TALIESIN: A compress. 
+TRAVIS: Because we don't expect a terrible devious intent on your part with where we're heading, maybe do include us a bit more in your planning and strategy. We have, as you can see, quite a bit to offer. 
+MATT: "You're not wrong. Well, let's talk a bit as we walk." And as you all can look at each other and Lucien begins to put his weapons back, on the sides, everyone begins to collect. Zoran hefts the pack up now, and he's clutching the loose-- 
+LAURA: Oh, Zoran, I'm so sorry. Thank you for saving me. 
+MATT: "Thank you for saving me." (grunts) He begins trudging off and all of you look back, except for you look over at Otis who's just going-- 
+SAM: Ha. Hi. 
+LIAM: Oh, yeah. 
+SAM: Didn't, uh-- didn't die, huh? Neither of us died. That's good. 
+MATT: And just turns around and follows after Lucien. 
+SAM: (exhales) 
+LAURA: (laughs) 
+MATT: As you guys continue on, for the remainder of your second day of travel, I would like somebody to roll another d20 for me. 
+LIAM: That's me. Colville meteorite die! Five. 
+MATT: Five. 
+TALIESIN: Oh no, not five. 
+LAURA: Anything but five! 
+SAM: Five alive. 
+TRAVIS: [Inaudible] Five. 
+SAM: Fünf. 
+SAM: 25. 
+TALIESIN: Input. 
+MATT: Heavy ice fog, unfortunately, does swell on this side of the lava bank, lowering visibility. I need everybody to go ahead and make a group survival check. See if they can trek through and maintain direction on this. 
+LIAM: Damn it, Colville. 
+MARISHA: Okay. 
+LIAM: North is that way, I know.. 
+LAURA: Hmm. 
+TALIESIN: Oh yay. 
+TRAVIS: 20. That's a minus. 17. 
+MATT: 17. 
+LIAM: Does my Keen Mind have any effect on this roll? 
+MATT: In this instance, no. 
+LIAM: Then a natural one. 
+MATT: Because this is not about looking at the-- Keen Mind usually is like, look around at the surroundings, look at the sky. You have no visibility here and it's not a magical innate ability. 
+TALIESIN: Yeah. 
+LIAM: Cheers. 
+TRAVIS: So natural one. Got it. 
+LAURA: Oh, 19. 
+MATT: 19. 
+SAM: 12. 
+MATT: 12. 
+ASHLEY: 23. 
+TALIESIN: 13. 
+LIAM: If only I was a halfling-- 
+MARISHA: 15. 
+LIAM: -- and could reroll that die. 
+MATT: Not looking good. 
+TALIESIN: I like low rolls for this. 
+MATT: Now for Tomb Takers. 
+TALIESIN: Oh no, we're lost. 
+MATT: Not good. 
+TRAVIS: Shake some bad rolls-- 
+MATT: Not good. 
+MARISHA: Yeah, yeah, yeah. 
+TRAVIS: I like that. 
+MATT: Yeah, that's the tipping point. You spend most of the day lost. Trekking forward-- 
+MARISHA: They rolled shitty? 
+MATT: It was a high DC on this, and you guys did not roll great and they did not roll great. 
+TALIESIN: Yes! 
+MATT: The natural one was two failures on the skill test. So nothing terrible happens. But what happens is it does add an additional day of travel to this journey. And the next day you all will have a point of exhaustion. 
+TRAVIS: Fuck! 
+LIAM: (groans) 
+MARISHA: Lucien, are sure you know where you're going? 
+MATT: "You know, these lands are a bit strange." 
+MARISHA: Uh-huh. 
+MATT: "And I think we're all trying to guide each other in a very incorrect direction." 
+MARISHA: No. No, we're all following you as the de facto leader. We are not all following each other. We're following you. 
+MATT: "I don't know. It seems like quite a bit of you are making your own paths as well. Yes, I'm lost, all right!" (laughter) "You don't have to be a dick about it!" (laughter) 
+SAM: She's like this no matter-- 
+MARISHA: I out-douchebagged Lucien! 
+TRAVIS: I like him more. 
+MATT: You do see he is filled with frustration. This is the first time he's-- The first time he's had to show a little bit of limitation and he's not happy about it. 
+LIAM: Oh. 
+TRAVIS: Relatable. 
+LIAM: He's mortal. 
+ASHLEY: I like it. 
+SAM: She's like this a lot. It's okay. You'll get used to it. 
+TALIESIN: Now we know what do get him for Winter's Crest. 
+LIAM: Yeah, it's like a hazing. 
+TALIESIN: A compass. 
+LIAM: It's like a hazing process. 
+TRAVIS: (laughs) That would be so fucking salty. 
+MARISHA: Get him a compass! 
+TRAVIS: All the eyes. (explosion) (laughter) 
+MATT: "Well, we've all had a day. Let's go ahead and bed down. Take a rest here in a safe spot and we'll continue on first thing in the morning." 
+TRAVIS: Do you need help finding your bed or should we-- (laughter) Just kidding. A little humor between friends. (nervous laughter) 
+ASHLEY: Wait, I actually have a question about that because when-- Do you sleep? 
+MATT: "Not for a while." 
+TALIESIN: Huh. 
+MATT: "One of the many gifts to the Somnovum. More time to think, to contemplate and to watch." 
+TALIESIN: I like sleeping. 
+LAURA: (whispering) Me too. 
+LIAM: Yeah, do you miss the dreaming? 
+MATT: "Oh, I can still dream." 
+LAURA: Ooh! Wait, do, like, some of the Somnovum sleep while others are awake? So, like, part of you is sleeping while other parts-- is that how it works? Do you work in cycles like--? 
+LIAM: Are you dreaming right now? (laughter) 
+MATT: "Not at the moment, but I wouldn't mind some perhaps in a bit if we can get a bit more comfortable." 
+SAM: Well, we can't do that. It's snowy out here. Sorry. 
+MATT: "Well, let's set up," and they go ahead and begin carving snow away. 
+TALIESIN: We can't make our super comfortable tent, can we? 
+SAM: Sure, we can but do we want to share that with these fuckers? 
+LIAM: Yeah, we're able to, but-- 
+TALIESIN: I mean-- 
+TRAVIS: It's your tower. 
+LAURA: Yeah. You probably have to ask for permission otherwise he might just negate it and-- 
+TALIESIN: What do you think? 
+MARISHA: I'm also fine just doing the dome if you feel like it'll reveal our cards. (stress ball pop) 
+LAURA: Did you just toot? 
+TRAVIS: No, That was the (stress ball pop) (laughter) I broke another one. (laughter) 
+MATT and MARISHA: Oh no! (laughter) 
+TRAVIS: My chair's all wet. 
+ASHLEY: Oh no. 
+SAM: Aw. 
+MATT: Oh, buddy! 
+TALIESIN: Should we just buy a box of them? 
+SAM: Someone must make a really hardcore stress-- 
+TRAVIS: I think it could happen to anyone. (laughter) 
+MATT: Just going to have like a little dog pad down before you start. 
+TRAVIS: I might need that. Super absorbent. 
+LAURA: -- paper towels right there on the side of your table. 
+TRAVIS: I'm just [inaudible]. It's okay. 
+TALIESIN: That's amazing. 
+SAM: (blows raspberry) 
+MATT: So what's the plan? 
+TALIESIN: I mean, it's your call. 
+LIAM: I guess we'll take a little space for ourselves and put up the dome. 
+MATT: "Very well. Sleep well. It looks like our journey is going to go a little longer than anticipated." And they all begin to build up their sleeping arrangements not far from the dome. 
+LIAM: Okay, so I lead the group about 40 or 50 feet away and I start to cast the mansion-- 
+TRAVIS: Yes, motherfucker! 
+LIAM: -- the tower with my back to them, with a wand in front of me and my back directly between their group and me. Takes a minute and I wait and I just look at everybody. (fast whooshing) And I lead everybody in really fast. 
+TRAVIS: (loud footsteps) 
+SAM: Does it work? 
+LIAM: And then I dropped the door and it disappears. 
+MATT: Okay. 
+SAM: Oh boy. Oh boy. 
+MATT: You all step into the mansion. The door appears closed behind you. You're in the mansion. 
+LIAM: Okay, so this is a bit of an experiment. They may be aware that we are in here and are just allowing for it. And even if that is the case, we can get a hot meal and a comfortable time and enjoy our rooms. And then we continue on, but we have as much time as we need to think and talk and plan. 
+TRAVIS: Up! 
+LAURA: Wait-- (laughter) (whooshing) 
+SAM: Fjord, we were about to talk. 
+LIAM: Tell them to brew some coffee. 
+TRAVIS: No, no, no, no, no. Sorry. 
+LAURA: Before they undo this, I have Word of Recall prepared if you do, too, Caduceus. 
+SAM: What does that do? 
+TRAVIS: What is that? 
+LAURA: We could potentially bamf us all back to Xhorhas right now. 
+TRAVIS: From here? 
+LAURA: Yes. 
+TALIESIN: Yep. 
+LAURA: I don't know if it would work. 
+TALIESIN: It might not. 
+SAM: We're in a different dimension right now. 
+TALIESIN: It doesn't matter. 
+SAM: So maybe the rules of Eiselcross don't pertain. 
+MARISHA: That's an interesting thought. 
+TRAVIS: Would we want to? Is that something we want to do? 
+LIAM: Well, that's the question. That is a brilliant, that is a brilliant use here. But if we leave, they spend another week or so finding another one of these things, even two or three weeks, we're not going to bamf back here. We're going to have to travel back slowly. So we are no longer a fly in their ointment. 
+TRAVIS: Yeah, we be calling their bet. 
+MARISHA: We can't bamf back here you mean-- 
+TALIESIN: No, we've got a way out, we don't have a way back. 
+MARISHA: Okay, I think that's a great idea. 
+MATT: You're welcome to try. 
+MARISHA: I think we save that ticket. 
+LAURA: Yeah. 
+LIAM: We definitely can try. And I've been picking up stones every day and wrapping them in a paper and labeling them. 
+MARISHA: To bring us back here, you mean? 
+LIAM: Well, if I have something from a location, it makes it a little safer to bamf there. So every day I take a little-- 
+MARISHA: You're collecting soil jars? 
+LIAM: I have a little sorting system and I take a little something with me every day. 
+MARISHA: That's a good idea. 
+ASHLEY: It can be anything? 
+LIAM: Anything from the location. So I generally look for-- I mean, I have underwear, a turtle, but for a place like this, it's just small rocks. 
+MARISHA: Why underwear? Out of all things? 
+LIAM: Because Veth. 
+MARISHA: Oh. 
+SAM: I had some extra. (chuckling) 
+TALIESIN: Well-- 
+LIAM: But it's still a gamble. 
+TALIESIN: It's still a gamble and things can go very wrong. 
+LAURA: Yeah. It basically would be letting them do what they're going to do-- 
+TALIESIN: We can't communicate with anybody. We can't message anybody from in here, can we? 
+LAURA: No, we can. I can send messages. 
+SAM: But we're not sure if they can hear in here. 
+LAURA: No. 
+MARISHA: You shouldn't be able to though, right? 
+SAM: If we invited them in, Caleb, there's no way that you can mentally construct this place to have isolated chambers where no one can hear anything can-- 
+LIAM: I mean, I cannot predict what he-- Lucien is able to do. But I can reconfigure this, to an extent. I mean, it is a tower. And I can segment, I can separate, I can lock, but I don't want to bring them in here. Even if we don't go anywhere, at least we get a night to ourselves. 
+SAM: Yeah. 
+LIAM: At least we regain a little bit of control. 
+TRAVIS: (anxious exhalations) Boy. 
+LAURA: They might be really angry when we come out. 
+LIAM: Yeah, well. Fuck 'em. 
+TALIESIN: They could've killed us on the spot, if they'd wanted to. 
+LAURA: True. 
+TALIESIN: Just added a week to their reality without us. 
+MARISHA: Can they dispel this tower at any moment? 
+LIAM: I don't know. 
+TALIESIN: Maybe. I assume we would just flop out. 
+LIAM: Mm-hmm. 
+TALIESIN: Comically. 
+SAM: You can't teleport an object, can you? 
+LIAM: Sure, I can. 
+SAM: So we can tell teleport-- 
+LIAM: Yes, I could. 
+SAM: -- the threshold crest to Lady Allura Vysoren or something if we wanted to? 
+MARISHA: Teleport it out, but we stay here? 
+LIAM: The easiest thing to do is to send it somewhere we have been, but I could wing it, yeah. 
+MARISHA: That's not a bad idea because we could continue to just operate like we have it. And as long as he doesn't know. 
+SAM: But then what if he does? 
+TALIESIN: Well. 
+SAM: What if we walk out the door and he's like, "Ah, ah, ah! (intentionally bad Irish accent) "You don't have something with you right now that you had before." 
+TALIESIN: Then we'd have to go get another one. 
+LAURA: That was good, Veth. That was believable. 
+SAM: "I can sense it's not on ya." 
+TRAVIS: Woof. 
+TALIESIN: I cast Dispel on the illusion. (laughter) 
+SAM: (okay Irish accent) It's been me the whole time. (laughter) 
+MARISHA: Okay. So yeah, let's work that out. If we come out and he's like, (intentionally bad Irish accent) "Ooh, I don't smell ye--" 
+LAURA: Oh, wow, both of you are really-- 
+MARISHA: (laughing) Threshold crest. 
+LIAM: That is a perfect impression. 
+TALIESIN: Are we fighting pirates now? Is that what is happening? 
+TRAVIS: Keep going, keep going. Finish your thoughts. 
+MARISHA: (okay Irish accent) He's an Irish pirate. 
+TRAVIS: Stay in it, stay in it, stay in it. 
+LIAM: Very authentic. 
+TALIESIN: All right, carry on. 
+MARISHA: So if he's like, (growling voice) "You don't got it--" (laughter) 
+SAM: (growling) 'You don't got it!' 
+MATT: (growling voice) Wolfman Jack, the ol' big bad! 
+TRAVIS: Dive deeper, dive deeper. Keep going. It's in there. (laughter) (laughter) 
+MARISHA: Then we're like, "Oh no!" And we have to go get another crest, right? 
+SAM: Or he slices all of our throats and we die. 
+LAURA: He'll be angry if he realizes we don't actually have anything, but at least he won't be able to take it from our dead bodies. 
+TALIESIN: Yeah. 
+TRAVIS: (deep exhaling) 
+SAM: There'll be some cold comfort in that. 
+TALIESIN: Why didn't-- I mean, they could have just killed half of us back there and they didn't and they would still have access to it. I don't think that-- I don't think the crest is keeping us safe. I think it's more complicated than that. 
+LIAM: Well, I think that we would slow them down but not stop them. 
+TALIESIN: Yeah. 
+MARISHA: Yeah. 
+SAM: Or we could just drink hot cocoa and go to bed. 
+TALIESIN: I like the idea of teleporting it far away to somebody who might be able to help-- 
+ASHLEY: Me, too. 
+TALIESIN: -- with a note. 
+TRAVIS: There aren't a lot of arguments against not doing that. 
+MARISHA: Yeah. I'm not against it, either. 
+SAM: We could at least just send it to Essek. At least it's on continent. 
+TALIESIN: I would get it to a whole 'nother place. 
+SAM: But that way at least we know we can get it if we need it soon. 
+TRAVIS: If he gives it back. 
+LAURA: But we haven't been to where Essek is. I don't think that it's as easy to teleport it there as it is to teleport it to... 
+MARISHA: Yussa? 
+TALIESIN: Nicodranas. 
+LIAM: Yeah. 
+LAURA: I feel like Yussa is dangerous, but-- 
+MARISHA: Yudala Fon. We can put it in the hands of the Cobalt Soul. 
+SAM: Vess De-- Oh, no. 
+TALIESIN: I think we need someone... 
+LIAM: We could send it-- 
+TALIESIN: -- chaotic. 
+LIAM: -- to Nicodranas and you could tell Allura where it is 
+LAURA: Yeah. 
+LIAM: Because I have-- I can't say what's going to happen here in Eiselcross. But we could send it there and you could definitely talk to her and she could get it lickety-split. 
+LAURA: Okay. 
+MARISHA: And then Allura would do what? Take it to another continent? 
+LAURA: Who knows what she would do with it. Maybe it's best that we wouldn't know. 
+TALIESIN: Alerting forces that something bad was coming-- coming down the-- 
+MARISHA: I mean, we have more connection with Yussa. 
+SAM and ASHLEY: (quiet laughter) 
+LAURA: And she trusted him, right? 
+TALIESIN: I think it's the right choice. I think we need-- I think your people are too-- 
+MARISHA: Connected? 
+TALIESIN: -- slow. 
+LAURA: Maybe we send it to Yussa. 
+MARISHA: Yeah. 
+SAM: I just-- I just worry that even if he doesn't slice our throats because he doesn't want to kill us, that if we go out there without it, he'll somehow sense it and be like, "Why are you fuckers with me? I don't need you anymore. Bye." 
+TRAVIS: Let's think about that part. Like if the Bag of Holding is another dimension, right? Another plane, a pocket plane, he can't, right? You can't see something in another dimension. 
+LAURA: You can't, even if I'm scrying on somebody, if they're not in this plane of existence, I can't see that. 
+SAM: He's got eyes that do all kinds of stuff. 
+LAURA: That's true. But if he knew where it was the whole time, why didn't he just take it? 
+MARISHA: Exactly. 
+ASHLEY: Yeah, and I feel-- Yeah. 
+MARISHA: And he's mentioned himself, he's like, (growling voice) "Ooh, you serve a bigger purpose to this, (growls)" So, you know-- 
+TALIESIN: That's a good Bane. (laughter) 
+TRAVIS: You see life very interestingly. Your filter is incredible. 
+MARISHA: He's a big baddy! 
+SAM and MARISHA: (growling) 
+MARISHA: I'm a dinosaur. I'm Lucien. (laughter) 
+TALIESIN: (Bane voice) --could be my reckoning. 
+LIAM: Maybe he thinks that does not need to break a sweat. After all, he dropped us from the sky with no effort at all. 
+MARISHA: We are floating on his ego right now. And I want to keep it that way. He thinks that he's better than us. And he's underestimating us. The more we keep him in that sweet spot. The better we'll be. It means he can be surprised. 
+LIAM: He looked pretty pissed off earlier today. 
+MARISHA: Yeah. 
+TALIESIN: And then we-- 
+MATT: (knocking) 
+TALIESIN: -- got him over a bank-- (gasps) 
+MARISHA: Wait, how could he knock on the fucking door? 
+LAURA: Do it, do it now, Caleb. 
+LIAM: Gotta get it out. 
+TRAVIS: Do you want to? 
+LAURA: He's going to dispel it. 
+TALIESIN: Yeah. 
+LAURA: He's going to dispel the tower. 
+MARISHA: Should we answer the door to deflect? 
+LAURA: We should answer the door. (continued knocking) Otherwise, he's going to dispel it. 
+LIAM: Yeah. 
+TRAVIS: Amber comes out. Hand it to Caleb. 
+LAURA: No, no. 
+LIAM: I put it. No, no-- Keep it the bag. Put it back in the bag. 
+SAM: He drops it on the floor. 
+MARISHA: Fjord, answer the door. Make him go away. 
+LIAM: The wall underneath one of the giant-- Because were still down in the giant entry hall with the stained glass windows, just sort of shimmers, and now there is (whooshing) and we see him in the snow, I assume? 
+MATT: You do. Standing outside and doing this-- 
+LIAM: How can I help you? 
+TRAVIS: You can talk to it? 
+MATT: "I was just curious as to where this strange portal led." 
+LIAM: This is my house. We are going to have a comfortable night before trudging through the bleak frozen north tomorrow. 
+MATT: "Ah. Didn't mention you had a home before." 
+LIAM: Have you told us everything? 
+MATT: "No, but you've told me so little." 
+LIAM: Well, I have a tower that I carry around in my pocket and only we fit in here. Thank you. We'll see you in the morning. (fast whooshing) 
+SAM: (nervous chuckling) 
+LAURA: Oh no. 
+SAM: Oh no. Oh no. 
+TRAVIS: I don't know. I don't know. 
+MATT: There is a brief moment of anxiety before suddenly you're surrounded by a cold sensation as all of you (thumps) fall onto the icy snow, hands and knees thrust from the interior of the tower. 
+LIAM: What a dick. 
+MATT: Lucien standing there above and goes, "I was just curious, but once again, trust has to be earned and there's been a few actions in the past day or so," looking over towards Veth-- 
+TRAVIS: (giggling)  
+MATT: "That had me a bit on edge. And so when there isn't a forthright discussion, I have reason to believe that there's some funny business and you still have something that I need. So why don't you come join us by the fire or make your fancy dome once more. This-- this makes me uncomfortable." 
+TALIESIN: I was going to have a hot meal. (chuckling) 
+ASHLEY: I was going to have a-- (laughter) 
+SAM and TALIESIN: Hot meal? 
+ASHLEY: Yeah. (laughter) 
+ASHLEY: That's okay. Let's just spend another night in the see-through dome all together. (laughter) 
+TRAVIS: You know, if it'll help, I have Marine Layer. (laughter) (fog horn sound) (laughter) 
+TRAVIS: Hotbox the dome. (laughter) 
+SAM: (coughing) (laughter) 
+TRAVIS: Cool. Cool, cool. 
+SAM: Well, I guess we'll just join you by the fire then. 
+TRAVIS: Or the dome, right? 
+SAM: Dome near the fire? 
+LIAM: Are you comfortable with the dome? 
+MATT: "That is a bit more comfortable." 
+MARISHA: To be fair, I feel like he did disclose what we were going to do. Said we were going to take a night to ourselves in our own house. So fine. 
+MATT: "This isn't an argument of semantics here. This is just being careful." 
+MARISHA: Well, you keep talking about trust and it definitely feels like it's a one-way street in this situation so-- 
+SAM: We saved two of your compatriots today. You saw me save your compatriot's life and she turned into-- she burned a spell to save one of yours. 
+LAURA: Two of you, actually. You're welcome. 
+MATT: "Thank you." 
+LAURA: Yeah. 
+MATT: Just looks back at you again. "Well, set up you own. Rest well." He turns around and begins walking back to the rest of the crew. You can see his patient presentory demeanor that he's continued to bring is dropping steadily with each altercation. The patience is wearing thinner and thinner with each conversation. 
+TRAVIS: We have that affect on people. (murmurs of agreement) 
+MARISHA: Kind of like it. (exhaling dejectedly) 
+TRAVIS: The dome is better than nothing, no? 
+LAURA: Yeah. At least it's warm in the dome. 
+LIAM: I walk off towards the Tomb Takers. 
+MATT: Okay. 
+LIAM: I grabbed Beau by the wrist and drag her behind me. 
+MATT: Okay. As you approach, you can see they set their things on the side, pulled out some elements to eat. Just now the-- at this point in the day, the light is beginning to change into sunset after a strong, you know, eight hours of trudging through difficult terrain and being caught in that terrible fog. And as you approach, they all glance over and Lucien has taking a seat back on this slight, little depression in the snow, in like a leisurely stretch, and just goes-- 
+LIAM: So we don't like each other. You don't like us, we don't like you. But we are working towards the same thing. We have similar goals and we have days left before we reach our destination. Tomorrow, you all may have a hot meal and a bed and cat massages and anything you can dream of if we can work together. And we do not know what you are doing. 
+MATT: "See now, that there would have been a great way to start the night's conversation." 
+LIAM: You have been keeping us captive for multiple nights. You started this on the wrong foot. You make an effort to keep us from bolting at the first chance we have. 
+MARISHA: (snaps fingers in agreement) 
+MATT: "I'm not keeping you from bolting. If you want to leave, you can leave." 
+MARISHA: How do you reckon you can say that? 
+LIAM: Right, we'll just take this precious package that you care so much about and we'll just head off on our own, yeah? 
+MATT: "Your presence is a convenience." 
+MARISHA: You have thwarted every spell we have put forward to simply survive. Tell us how we are not captives in this situation. 
+MATT: "I'm careful. Especially around practitioners of magic. Have a bit of a history. Especially those that walked alongside such individuals. Pardon me if I mistrust of certain aspects of the arcane that, I don't know, might be hanging out in the unspoken wings of our arrangement. So I'm careful. I'm not offering for you to leave, but if you were, it would be annoying. What you have isn't so precious. It's just convenient." 
+LIAM: Let's save some time. Here's what I propose. I'm very curious. I love books and learning. Show me your book. Don't give it to me. Show it to us. Let us look at together-- look at it together and try to ascertain what it is you have been unable to. You can stop us from leaving at any time, it seems. Share a little bit more of your knowledge. Enjoy a bed tomorrow night. What do you have to lose? We can't leave. We've tried twice. 
+MATT: Roll a persuasion check. 
+TRAVIS: (sharp inhales) 
+MARISHA: Can I give advantage being here? 
+SAM: You're so persuasive. 
+MARISHA: I am so persuasive. 
+MATT: I would say this is a straight roll for him. 
+MARISHA: Yeah, that's fair. 
+LAURA: Ms. Combative. 
+MARISHA: If anything-- If anything, I'd make is worse. 
+TRAVIS: Which one will it be? Which one will it be? 
+TALIESIN: Cracking your knuckles. 
+MARISHA: Yeah. Yeah. 
+LIAM: 25. 
+TRAVIS: Ooh! 
+TALIESIN: Whoa! 
+SAM: Jesus! 
+LAURA: (anxious whistling) 
+MATT: "I'll think on it." 
+MARISHA: When? (laughter) Like tonight-- 
+MATT: "Tonight while I rest." 
+TRAVIS: You're going to give him disadvantage. 
+MATT: "I hate you!" (laughter) 
+MARISHA: A hundred percent I am! How many more days till Aeor? 
+MATT: "Two. How do you travel with this one?" (snickering) 
+MARISHA: They've learned to deal. 
+LAURA: It gets better. 
+MARISHA: Exactly. Conditioning, motherfucker! 
+LIAM: The hazing process is a little steep, but once you make it through that, you grow quite fond of her. I use a cantrip and start to make food appear in the fire and cats and books, (beatboxing) and books and cats and books and cats. (laughter) 
+LIAM: And all the things that they will enjoy in the tower tomorrow night. All of that can be yours. Talk to your leader. 
+LAURA: Also, I do tarot card readings. That could be fun. 
+MARISHA: Jester's just also here. (laughter) 
+TRAVIS: Bing! 
+LAURA: I've been here the whole time. I said was following you guys. 
+LIAM: I didn't hear that. 
+LAURA: I just wasn't talking, okay. 
+MATT: As you both walk away and she bursts out. Immediately attention shifts and goes, "See, now that's a nice offer." 
+LAURA: Do you want me to read your tarot cards? 
+MATT: "Certainly." 
+LAURA: Really? You know, I learned this from Molly. Does that change your opinion of it? 
+MATT: "No. I'm just curious." 
+LAURA: Okay! 
+TALIESIN: Oh boy. 
+LAURA: Oh, well then, sit down with me. 
+MARISHA: No-- 
+LAURA: And we'll sit down across from Lucien. 
+MARISHA: (stammering) 
+LIAM: I grab Beau by the wrist just to quiet her. 
+LAURA: Hold on. I got to pull up my list. Give me a second. 
+MATT: He sits in front of you. His swords clanging to the side. 
+LAURA: I'll take out the deck of cards and I'll fan them out in front of him and say, Choose-- (blowing raspberry) three cards? (snickering) 
+MATT: His head cocks to the side, reading very clearly the-- 
+LAURA: (laughs) 
+MATT: -- the lack of confidence in the delivery. 
+LAURA: Set them in order in front of you. 
+LIAM: The Empire kids share the most deadpan-- 
+MATT: He does so. 
+LAURA: Okay. Roll a d20, sir. 
+MATT: Nine. 
+LAURA: Oh, how fucking perfect. 
+TRAVIS: Wow. 
+MATT: Fucking game. I swear to god. 
+LAURA: Oh wow. Okay, so flip over the first card. This is the card of your past. And I look down at it. This card-- 
+TALIESIN: You can pick-- 
+TRAVIS: (burps) (laughter) 
+LAURA: It's so weird. This card is History and The Dream. (gasping and laughing) How fucking crazy is that? Oh my god. 
+MATT: He gives it a smile and a nod, eyes unblinking. 
+LAURA: Oh, a massive creature shatters a city. Shut up, that's so fucking perfect. What? Okay. Flip the next card. Roll a d20. 
+TALIESIN: It's the image of the Calamity. 
+MATT: One. 
+LAURA: (whispering) One? 
+TALIESIN: Oh no. 
+LAURA: This card. Ooh, this is your present. The Tyrant. Ooh, two dragons fight each other in a figure eight. The one facing you is red. 
+MATT: "Hmm." 
+LAURA: Flip your last card. This is your future. 
+MATT: 18. 
+LAURA: (exhaling) Wow. This card is so important. 
+TALIESIN: (snickering) I am so impressed. 
+MARISHA: Yeah, you're good at this. 
+LAURA: This is the card-- I want you to roll a d6. 
+MATT: One. 
+LAURA: Facing you is Death. That's not necessarily a bad thing, Lucien, you know. Some people think that Death means a rebirth. Something must end for something new to begin. 
+MATT: His right hand twitches, like twice. 
+LAURA: How do you feel? 
+MATT: "Thank you. That was interesting. Always been... oddly curious from a distance about such strange... hobbies. Thank you for indulging in the offer." 
+LAURA: Of course. I gather up the cards. 
+MATT: He stands up and walks uncomfortably towards the rest of the Tomb Takers. 
+SAM: (exhaling delightedly) 
+TALIESIN: Can't blame the cards, you made 'em, motherfucker! Okay, no-- (laughter) 
+LAURA: Ooh hoo! How fucking crazy were those pulls though? 
+MATT: As you sit there, looking at the cards, and see him sit down, facing away from everybody. You can pick them up and begin to walk back to the rest of the group as they're setting up their camp. We're going to go ahead and end tonight's episode. (groaning) 
+TALIESIN: I'm so proud of you. I'm so proud. 
+ASHLEY: That was-- you're good at that. 
+MARISHA: That was amazing! 
+ASHLEY: Yeah, that was amazing! 
+MATT: That was awesome. (chuckling) 
+TALIESIN: In my head, I'm like, what did she-- Oh, shit. 
+ASHLEY: (groaning) 
+TRAVIS: Did you make that shit up? I thought you did it by the cards? 
+LAURA: I did by the cards. I did it by the numbers that we listed. 
+TALIESIN: We have a random pull system. 
+MARISHA: Yeah. It's tarot. Anything's justified. 
+LAURA: Yeah. 
+MATT: That's cool. (laughter) 
+TRAVIS: Really cool. The double hand twitch. 
+LAURA: That was fucking sick. 
+MATT: Okay. Okay. 
+MARISHA: That's rad. 
+TALIESIN: The Calamity-- a fucking Calamity card. 
+MARISHA: I know! I want to know what happens! 
+ASHLEY: I don't want to stop! 
+MATT: (laughs) 
+MATT: I'm living for that. I'm living for this, like, weird power dynamic. 
+TRAVIS: It's a written show, you guys. Our writers are amazing. (laughter) I mean, they're really on point. COVID has forced them into, like, really good shape. (laughter) 
+MARISHA: Extreme circumstances. 
+MATT: Yeah. Oh man. 
+TALIESIN: History of the world before the world. 
+MATT: Yeah. 
+TALIESIN: Dream the world to come. 
+LAURA: This was fun. 
+TALIESIN: Fuck. 
+SAM: Man. 
+MATT: And we'll pick up from there next week. 
+LIAM: Man, I hope he takes us up on. I hope-- Let me ask a question? 
+MATT: Yes. 
+LIAM: I know what Molly's deal was. Is Lucien they or he? 
+MATT: Lucien is he. 
+LIAM: He. I wonder if he's going to take us-- I hope he takes us up on his offer. 'Cause that seems awkward and interesting. 
+MATT: That was a very high roll. And we'll see how the next day plays out. 
+MARISHA: To have dinner-- 
+MATT: You guys are playing a very unique game of-- Like you said, of prisoner, challenge, push and pull, shifting roles, mutual intimidation. And it's like riding a line back and forth. It's fucking fascinating. Oh, there's moments in this where I'm just like, (exhales sharply) "Okay, this would be-- okay." Keep me on my toes. I love it. But we'll pick up there next week. Thank you all for joining us. 
+TRAVIS: Happy 2021. 
+MATT: Happy 2021. 
+(cheering) 
+MATT: Hopefully much happier 2021. We love you all very much. And is it Thursday yet? Good night. 
+(cheering)

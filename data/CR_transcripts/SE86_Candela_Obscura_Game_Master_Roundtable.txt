@@ -1,0 +1,667 @@
+List of Transcripts
+
+Pre-Show[]
+MATT: Hello, everyone, and welcome to this very special Candela Obscura GM Roundtable. 
+AABRIA: Ooh. 
+MATT: I'm joined by my fellow series GMs, Spenser Starke. 
+AABRIA: Ow! 
+MATT: Aabria Iyengar and Liam O'Brien. 
+LIAM: Cheers, dears. 
+MATT: For those who are coming in with us and are unfamiliar, Candela Obscure is an investigative horror tabletop RPG by Darrington Press. It's actually out now in the world as a game, a book, multiple series on Critical Role, and your own actual play series. We've also seen on top of that, fantastic new assignments and other content coming out using the Darrington Press Community Gaming License. We're super thrilled that more folks are growing the world of Candela Obscura and the Illuminated Worlds System at their table and in published content, which is incredible. We're so excited about that. But this is about the GM roundtable. 
+AABRIA: Yeah. 
+MATT: Each of us have our own game mastering style and tools that we use when running Candela Obscura. So today we're going to bring you our best insights and advice and general conversational fuckery to inspire your own game mastery. In case you're just trying out Candela Obscura, note that there's a free quick start guide, a full core rule book, dice, accessories, and more available to you right now to play the game if you'd like. So look for them at your friendly local game store or Darrington Press Guild stores and Critical Role shops. So, without further ado, shall we begin? 
+SPENSER: Let's do it. 
+AABRIA: Let's do it. 
+LIAM: Let's talk. 
+MATT: Beautiful. 
+LIAM: Let's talk creepy deepy. 
+MATT: Well, speaking of creepy deepy-- 
+AABRIA: Creepy deepy! Yeah. 
+MATT: Speaking of creepy deepy-- 
+AABRIA: What?! Please, that's the best transition I've ever heard. (laughter) Creating a creepy atmosphere 
+MATT: A big thing about horror games is mood, setting it, setting the table's mood, getting everyone invested. Just to kick this off, what are some of the tricks that you use to guide your players into that head space, to both actively and subconsciously pull them into this spooky style of the game? 
+LIAM: I just re-skin "Goosebumps" episodes. (laughter) 
+MATT: Also viable. 
+SPENSER: So viable. 
+AABRIA: That makes sense now. 
+MATT: Use what you know. 
+AABRIA: I see it. 
+SPENSER: I think that session zeros are really important to establishing tone with players. If everybody's showing up and knows what they're in for, I think it's a lot easier to get that transition in. I also think that, especially in horror games, that silence is really important. 
+MATT: Yeah. 
+SPENSER: Just allowing for there to be a moment of silence before everything gets started. I remember when we were, I don't think anybody here was playing in the campaign that I did, but when we did it, before we started shooting, we would all shake everything out and then we'd all go silent for a couple of moments. 
+AABRIA: Ooh. 
+SPENSER: Then we would start and that little bit of letting go, because we were laughing and joking and having fun right before, but then we shook all of that out and then just let that moment of silence be our transition point before I jumped into the opening of the show. 
+AABRIA: Nice. 
+SPENSER: That was-- Yeah. 
+MATT: Awesome. 
+AABRIA: That's really good. You should have shared that note. That's a great idea. (laughter) 
+LIAM: I think the method of one's narration goes a long way to doing that too. If you're doing high fantasy or something cyberpunky, you're probably doing a little more action-adventure vibes to what you're narrating, but this isn't even like that schmacting thing, it's just the nature of the audio book you're inviting your players into. So in addition to silence, there's a lot more room for quiet and way more intimacy overall. 
+SPENSER: For sure. 
+MATT: Yeah, I'd say pacing and volume are two knobs that you can continuously use to change and shift the mood. To your point, taking those quiet moments, keeping it down and still, setting that baseline, and then being able to leave those gaps and slow the pace, so when you ramp it up suddenly, it catches them off guard and helps-- 
+AABRIA: That's too spooky. 
+MATT: -- build that-- (laughter) 
+MATT: That's the end of the panel. Yeah. (laughter) 
+AABRIA: We did it. 
+MATT: We did it. No. 
+AABRIA: I do think there's something there with being very deliberate with your spooky voice, that scary narrator voice, and using that to re-enter groups. You can't expect a table, especially when you're like: We're all friends having fun with each other. You're going to break the tone a little bit, usually just above game because you can't live inside of anxiety forever. But having that baseline tone and the tenor you can drop into gets everyone back with you. You get quiet and low and methodical again and it feels like the music changing behind the scenes and you're like: Oh, we're getting back to it. All right, cool, that was a fun diversion to baseball. 
+LIAM: Baseball. 
+AABRIA: Baseball. 
+LIAM: Pronunciation. 
+AABRIA: Sorry. I always mispronounce it. 
+MATT: (laughs) 
+AABRIA: Getting back to the spooky. 
+LIAM: It's great sport. 
+MATT: You mentioned music, that's actually another great tool. I mean, for most games in general, but especially for horror games where the atmosphere is so important, cultivating a playlist that you've either found online or built yourself of movie soundtracks that fit a similar vibe and theme, either separating it into different moods or having something that lends itself to that creepy atmosphere that you want to set, whether it be a time period you want to evoke, or the mood you want to keep at the table. Even simple lighting adjustments in the space that you're playing if you can. 
+SPENSER: Totally. 
+LIAM: Probably better to run your games in the evening. (laughter) 
+MATT: A brunch Candela just doesn't quite have the same spark. 
+AABRIA: Brunch Candela is so great. You're like: I'm eating a frittata. Let's be sad. (laughter) 
+MATT: But, by all means, please do if you're inspired by it. 
+AABRIA: Yeah. (laughs) 
+MATT: Don't let us stop you. I love a spooky frittata. 
+AABRIA: Spooky frittata! Please change my lower third that doesn't exist to Aabria Iyengar, Spooky Frittata. 
+SPENSER: Spooky Frittata. (laughter) 
+AABRIA: Thank you. 
+LIAM: Candela Obscura, chapter five. (laughter) 
+LIAM and AABRIA: Circle of the Spooky Frittata. (laughter) 
+MATT: (laughing) Oh no! We're already off the rails. This is beautiful. 
+AABRIA: Done. 
+SPENSER: What's the existential horror version of a bottomless mimosa? It's an endless, like the void-- 
+AABRIA: Ooh. It's like getting too much of what you want. It's like-- 
+SPENSER: Yeah. 
+AABRIA: It's the "Se7en"-- Or sorry, "Se7en" but-- 
+MATT: The glutton? 
+AABRIA: Yeah, you get it. 
+MATT: I knew it. 
+AABRIA: Yeah. 
+SPENSER: (laughs) 
+AABRIA: Yeah. I want to die like that. 
+SPENSER: (laughs) 
+AABRIA: Hey, when I die-- 
+MATT: You heard it here, folks. (laughter) 
+AABRIA: Hey Matt, you want to do a really weird death pact with me? 
+MATT: Honestly? Throw it on the pile. 
+AABRIA: Yes! (laughter) 
+MATT: I got seven, let them fight it out when I'm done. 
+AABRIA: (laughs) 
+MATT: (laughs) Not my responsibility. 
+LIAM: Why is the hot tub full of orange juice and champagne? (laughter) 
+MATT: Oh no. (laughs) 
+AABRIA: I'd do it. 
+MATT: (laughs) 
+AABRIA: What were we talking about? 
+MATT: We're talking about-- 
+SPENSER: Whatever. 
+AABRIA: Scary. 
+LIAM: Setting mood. 
+MATT: Mood and themes. 
+AABRIA: Yes. 
+MATT: Well, that's also very GM-facing or person who's hosting a game. 
+AABRIA: Yeah. 
+MATT: As far as preparation goes for the mood of your players, that's one thing. How about the mood for you as a GM? What helps each of you get into the mindset to begin to create a campaign for your players, to really get you in the mindset of starting to build in this spooky space? 
+AABRIA: I definitely abide by horror conventions now, which are like, what am I specifically, and maybe we as a society or a group afraid of right now? Taking that, I always tend to build theme first, and once you land on, for our chapter, leaning very much into what if you're the most monstrous thing you'll ever encounter? That idea of the thing in the mirror. No one's ever been meaner to me than I am in my own head. What if I'm my worst enemy and what does that mean for the people around me, and what does that mean for a group that has a purpose of fighting monsters? So I think there's something inside of what terrifies you, what feels creepy, what feels spooky? Because you can always come back to that emotional landing point. Then the monsters that you bring into the world, the monsters are supposed to be a metaphor. So being able to line up a shot and say here's how the monster serves this idea, because when you see in your player's face that all of it's into alignment on something that's a primal fear and not just like it's a spider with eight butts and 19 stingers. If that means something more than the visceral fear in your player's ability to imagine a thing that's scary, then it lands in them in a good way and everyone's now playing a horror game. 
+MATT: I dig that. 
+AABRIA: I talked for too long. 
+MATT: No, no, no. 
+SPENSER: No, no. 
+MATT: That's what this is about. 
+AABRIA: Ripcord out! 
+SPENSER: On the topic of themes, one of the things that I find really valuable for me as a GM is watching the players build their characters-- 
+AABRIA: Yes. 
+SPENSER: -- and figuring out what themes are they interested in, and then how do I take the themes that I'm interested in and either find a common ground-- 
+LIAM: Throw them together. 
+SPENSER: -- or smash them together, right, and take all these different pieces. So I will literally lay out the themes of the campaign. 
+AABRIA: Same. 
+SPENSER: It's even in the book because the book was developed as we were making the show, as we were making the game, so laying out what are the themes, and then whenever I, as a GM, have a question about what it is I should go to in a moment, either in preparation or at the table when we're improving stuff, looking at those themes and being able to pull something from one of those four or five options makes it a lot easier to decide how to take the story. 
+SPENSER: So, yeah. So infusing that and including the players in that process is really fun. 
+AABRIA: Yeah. Oh, absolutely. 
+LIAM: On a totally different angle, when I was prepping my chapter, I liked creeping the shit out of myself. I wanted to make myself feel as uncomfortable as I was aiming for with the table. So my days spent in my office alone, obsessing about the initial ideas and how I was going to have to them change things and move them around, I would play lots of horror soundtracks just so that I could feel bad. 
+AABRIA: Yeah. 
+SPENSER: (laughs) 
+AABRIA: What was your go-to? What gave the most spooky? 
+LIAM: (contemplative) Oh. What's the movie, "The Witch." 
+MATT: Mm-hmm. 
+AABRIA: "The Vvitch?" 
+SPENSER: Yeah, "The Vvitch." 
+AABRIA: Hell, yeah. 
+SPENSER: It's so good. 
+LIAM: That was a big one. 
+AABRIA: Love that. 
+LIAM: I don't know. I'm going to blank on you now. 
+MATT: That's fine, that's okay. 
+SPENSER: There's a really cool series of albums online on Spotify or wherever called Atrium Carceri and they're like drone-- Do you know those? 
+MATT: I know them because they show up on other playlists that I have for atmospheric spooky and they're on the playlist. 
+SPENSER: So I click one of those albums-- 
+AABRIA: Yeah. 
+SPENSER: -- and it is like gold. It's so good, yeah. 
+MATT: That's stuff's really good. I use that for a lot of writing background stuff. Outside of Candela, but really helpful in Candela. Music for atmosphere is really good. Pulling from media, that's inspiring, to that point. Inspiration from fiction It's funny, before Candela I was accidentally preparing because me and Marisha are weird people and when we go to bed at night, we'll find macabre YouTube rabbit holes, like true crime stuff and weird mythological beasts and cryptids and odd disappearances and people getting lost in tiny caves and getting wedged. Terrifying things. 
+AABRIA and SPENSER: (laugh) 
+MATT: Look, YouTube has a plethora of terrifying topics out there and a great thing to sleep to, because your dreams are awesome. 
+AABRIA: (laughs) Oh my god. 
+MATT: I have problems. 
+SPENSER: (laughs) 
+MATT: But you can use that-- (laughs) 
+LIAM: If you didn't know-- 
+MATT: Self-inflicted trauma. 
+AABRIA: I'm so happy. 
+LIAM: For anyone who didn't know, Matt has a real strange, lesser known fascination with the bizarre and strange on the internet. It is his background noise at all times. 
+AABRIA: I didn't mean to throw you under the bus by laughing the whole time, but it was great! (laughs) 
+MATT: Oh, I wouldn't have said it if I didn't expect it. (laughter) 
+SPENSER: What have you pulled from, what can you remember that you pulled from, from those kinds of bits? 
+MATT: A lot of various historical cryptids and creatures were reflections of fears of the time, to what you were implying too, and were often people's either imaginations and fears mingling with eras in which there wasn't a lot of light. There was a lot of, also a lot of, historically, periods of time where food went bad and no one knew and people were mildly hallucinating without understanding it. 
+AABRIA: Right. Oh my god. 
+MATT: And there might actually be terrible creatures we don't understand out there. But so all these different aspects of these mythological creatures and these cryptids and stuff to me, created one, ideas of what social hysteria was, as well as imagery. It's funny, giant monsters are awful. Humanity wrong is more intrinsically terrifying. Things that push into the uncanny valley. If you're looking at yourself in the mirror and seeing something look back that's not you. 
+AABRIA: (shudders) 
+MATT: All these different facets. The more it's recognizable but wrong, the more it hits that primal fear, which is why the uncanny valley is so terrifying and you see a lot of these cryptids are human-like. So you hear a lot of these stories and that was a lot of inspiration there, and a lot of it too was finding creepy art. Many real incredible artists out there that draw incredible creatures. I can never pronounce his name, Belinski. He's incredible. I'm going to look it up so I don't mess up his name, but he's this amazing, I want to say Polish artist who did this incredible hellscape art of creatures. 
+AABRIA: Dope! 
+SPENSER: Oh, yeah, yeah, yeah. I think we were talking about this during the first season. 
+MATT: Yeah, Belinski. 
+SPENSER: Belinski, yeah. 
+MATT: Or sorry, Beksinski, who has just-- 
+AABRIA: Beksinski. 
+MATT: Beksinski. Beskin-ski-- You get it. Google it. 
+SPENSER: I remember you sending it to me. 
+MATT: It'll fix it for you. 
+AABRIA: Put it in Matt's lower thirds that don't exist. (laughter) 
+MATT: Sorry, I'm bad at this. 
+AABRIA: No, you're good. 
+MATT: I'm bad at this. Also, I find incredible art out there from some incredible artists to be great points of inspiration. When you go through and go: Oh, that unsettles me. What about that unsettles me? And taking that down and seeing what narrative lore, world-building aspect can make a reason for this existing and why it scares me on a primal level, and then adapting that in a unique way within the setting works really well. 
+LIAM: Now Spenser, you just eat too many Red Vines when you're prepping. 
+SPENSER: It's true. 
+AABRIA: Yeah. 
+SPENSER: (laughs) 
+AABRIA: (spews) 
+SPENSER: (spews) 
+AABRIA: This is the monster. (laughter) 
+SPENSER: I was wondering, because I know for me pulling from, to jump off what you're talking about, pulling from real life phenomena, Inspiration from the real world things that actually happened and then going: What's the one step removed, is oftentimes a fun way to find a real mystery. I know one of them, and I don't think it impacted the season we did, but it was one of the games that we played, at least I know you and I played together when we were play testing. 
+AABRIA: I've never played a game with you. 
+SPENSER: You've never played a game-- Yeah, we've never played the game together ever in our lives. 
+AABRIA: Ever, not ever. 
+SPENSER: I think Aabria is probably the person I've played the most games with in my life. 
+AABRIA: Look, if you've ever noted-- Occasionally, I get credit for like, oh, a cinematic thing. I was like, "Watch Spenser. That's where I stole it." You can hear the yoink as it happened. You're incredible. 
+SPENSER: Oh, thank you. I know, we played early early on there. 
+AABRIA: Early days, sorry. 
+SPENSER: But when we were playing, this thing that happened in a graveyard, and forgive me, I don't remember where this was, but they essentially wanted to clear a space that was originally a graveyard to be a field for kids to play in, or something like that, and so they have this undertaker move the bodies from one place to another place, so they dig up all the bodies and move them. But what that resulted in is that the new graveyard, when they exhumed some of the bodies down the road, there were coffins that were open that were full of legs, they weren't full of people. They had like six legs or like three heads. It was these weird, like the coffins were all messed up. And it was that the undertaker, the person who was responsible for digging, they dug everything up and threw it all into a pile and then moved everything and then put everything back into coffins to do it as fast as possible. 
+AABRIA: Bruh, you sorting 200 some odd bones? Naur. 
+SPENSER: I know. 
+LIAM: It's all going to turn back into an array of atoms anyway. 
+SPENSER: Right, and that was probably their thought process would be my assumption. 
+MATT: No one's going to go look these up later. 
+SPENSER: Right, but then when people did look them, it became this urban legend, right, that these bodies were, somehow, these people of this area had six legs or had three heads or something. So pulling from that, there were games where these bodies were, we found this coffin that was full of a body that had eight arms and you know, two heads, and six different joints for their elbows and stuff. So pulling from that was a cool inspiration. I was wondering if there's anything that you all have pulled from for this game, or horror games in general. 
+AABRIA: My original idea for Tide & Bone was actually pretty close to that. I'm obsessed with the ways in which modernity has plastered over dark moments in history. I think thematically that still stayed through, but there was going to be more of a through line to-- Central Park in New York City used to be a thriving Black neighborhood, and they razed it so they could have a beautiful park in the middle of Manhattan. That idea of these, it's not generational trauma, just the institutional memory of trauma in a place where you have not put the wrongness to rest. So that was going to be a big thing that came through in other ways. But yeah, pulling from things from the headlines. The more we learn about our history and the more we seek to rectify it or justify it or just interact with it in some way instead of simply ignoring it now. That idea of trying to heal old wounds is a thing that I constantly come back to in horror because there is something horrifying about having to go: A wrong thing happened here and we have to apologize and move forward, and we can't keep holding onto old pain, you have to really release old pain, is just a thing that, it's not scary, it's difficult and sits next to emotions that feel so close to horror for me that it feels like a good theme to always pluck at while you're going: I don't know, a spider with 19 butts. 
+SPENSER: Right. (laughs) 
+MATT: In a similar vein, mistakes that are intentionally forgotten and never learned from. 
+AABRIA: Yeah. 
+MATT: To where the pattern repeats itself. 
+AABRIA: Ooh. 
+MATT: And in dark, spooky spaces like Candela, it's a ripe environment for forgotten history, forgotten mistakes, things that exist because of human arrogance, as opposed to dealing with it, just burying it and hoping it never creeps up again until I'm dead and the next generations can deal with it. There's a lot of that in our history. 
+SPENSER and MATT: (laugh) 
+AABRIA: Probably not, though. 
+LIAM: The setting in the book, as well as history, and in all of our chapters really, I think that we see Oldfaire in its ancient state. 
+AABRIA: I didn't say it first. 
+LIAM: We're repeating-- 
+AABRIA: I've been waiting to talk about Oldfaire, but I didn't say the word first. 
+MATT: We'll get there, we'll get there! 
+AABRIA: Ah! (laughter) 
+AABRIA: Go ahead. 
+LIAM: I'm just as deep on Oldfaire. 
+AABRIA: (hyperventilating) 
+MATT: It's okay. 
+LIAM: I love the lore and the history that you guys created in the book, and I fell in love with it, starting with Tide & Bone and into mine. But obviously with the modernity of war in Newfaire, it is just repeating the mistakes of Oldfaire in a new and exciting way. I think we all touched on that in different ways. 
+AABRIA: Yeah. 
+LIAM: The book, it's hard not to with the setting as it is. 
+SPENSER: Us coming out of war-- 
+LIAM: Yeah. 
+SPENSER: -- and having this technology, yeah. 
+LIAM: On a different angle, to answer your question, I had two things that I wanted to explore in mine. One was touching on what you were saying about when things are mostly normal but just slightly off. When I was approached, when Marisha asked me about running some Candela a million years ago, my first thought was I want to do something connected to Ireland. 
+AABRIA: Why does Ireland scare you so much? 
+LIAM: Because it is so-- (laughter) 
+LIAM: It's hard to look at myself. 
+SPENSER: It's so green. 
+LIAM: Because it's a lot of desolate landscape and quiet and wind and odd folk, sorry. I had fun with the opening game of my chapter of trying to get the players to relax and go, "Oh, they're just a little quirky." 
+AABRIA: Yeah. 
+LIAM: "It's fine," and just lulling things, lulling everyone into a place of a false sense of security and then opening up the 20 butts. 
+AABRIA: I have to give you so many props for that because we had talked about it a little bit before you filmed and I was like, "Shit, that's a really good idea. I want to take it." But watching it, you do something that I think is really important when we talk about living in horror and treating it right, which is give it enough time. 
+SPENSER: Yeah. 
+AABRIA: I can see the ways even I would have been like, "Ah, they're not relaxing. Maybe I just move forward." You stuck with it and I felt myself go, "Well, hold on. I know what's coming and yet I'm going to calm down." And watching the entire table settle and then you hit them was so good. That was a masterclass. I was just like, "Liam's fucked up, actually." (laughter) 
+AABRIA: Jesus. 
+LIAM: "Look, I have food." 
+AABRIA: Yeah. 
+LIAM: "Come eat it." (chomp) (laughter) 
+SPENSER: The little angler fish. 
+AABRIA: So good. 
+MATT: Oh. 
+SPENSER: Yeah, so cool. 
+AABRIA: We're going to keep calling that one girl a bitch and I'm like, "Yeah, that's my little angler thing," of like, "(laughs) We don't like one girl." 
+LIAM: The other thing I wanted to play with was the only two things that I knew for mine were the beginning in Not-Ireland, which became the island of Serenity, which is just two lines in the book and I was like, "There it is, it's right there," was to end in a place where people couldn't trust their senses because many of us have been there and it is terrifying even if there is not some greater power warping and twisting you and it's one thing if you can see the landscape around you and you can see the monster with its 20 butts and how do I get away from its butts? But when you're not sure, I wanted to see what would happen after following you guys setting the pace for Candela on the channel if I took away the tangible world to see, what could you even do? 
+AABRIA: Yeah. 
+LIAM: It just seemed like another way to make them feel more hopeless. 
+SPENSER: Yeah, really. 
+MATT: It's cool, too, because we talk about being barely off what's normal and recognizable. We talked about historical trauma, people carrying trauma from previous generations. The cool thing about supernatural spaces is more so than-- it exists, it's real-- the land itself holds trauma. 
+AABRIA: Oof. 
+MATT: You know? That's what the idea of haunting is. The idea that even those that are long passed, the actual landscape itself carries those scars and how does that change the land? How does that change the energy of the land and the nature that surrounds it? 
+LIAM: Holds emotion. 
+MATT: Yeah, and you can feel it to this day. You go to some places in this world that have had traumatic history and as beautiful as it might be today, you can't help but feel that history when you arrive and in settings like this, you can tweak that even further. You can personify that beyond the setting and sometimes give it an actual entity, give it a figure that represents that trauma and then is it up to you to fight it or is it up to you to put it to rest? Is it up to you to help it process? Horror is scary, but horror is also therapeutic. 
+AABRIA: Yeah. 
+MATT: As long as you survive. (laughs) 
+AABRIA: You'll learn something, even in death. 
+MATT: It's true. 
+LIAM: "My 20 butts have suffered, and now you will, too!" (laughter) 
+SPENSER: I went to the guy who wrote Fight Club. 
+AABRIA: Chuck Pal... 
+MATT: Chuck Palahniuk. 
+SPENSER: Palahniuk. 
+AABRIA: Thank you. 
+SPENSER: Went to his book signing in LA a couple of-- 
+AABRIA: Yes! 
+SPENSER: Maybe a year ago at this point and he said something that stuck with me. He's an awesomely strange dude. 
+MATT: I can imagine. 
+SPENSER: Yeah. But he said something that stuck with me. 
+AABRIA: Bottoms of pools still freak me out. 
+SPENSER: In the middle of the-- yeah-- There was a Q&A section and they were asking him, somebody asked him, "Are you ever worried that people will judge you based on how fucked up your characters are? How fucked up your books are and what do you do about that? How do you still keep people interested in these characters even though they're fucked up?" And he stopped the whole thing. 
+LIAM: Because they're relatable. (laughter) 
+SPENSER: He stopped the whole Q&A and he took a water bottle and he opened his pants and he poured the water bottle down his pants, the whole thing and then he put the water bottle down and he said, "People want to watch characters go through the worst possible thing they could ever imagine and make it out the other side. For me, the worst possible thing I could ever go through would be peeing myself on stage. This is my worst nightmare. I'm still going to finish the presentation and I'm going to go home and I'm going to be just fine. People want to watch people go through that and then come out and still be okay and that's what gives them hope. So as long as you give, in some way, give the audience hope despite all the darkness, that's what they're going to love you for." I thought that was a really weird and interesting way of getting across the point of horror, right? It's like we are scaring them, we are showing that we're pushing them to the edge and even if our members of Candela Obscura don't make it, the whole party's gone, did they do a thing-- 
+AABRIA: My dream. 
+SPENSER: Dream. (laughter) 
+SPENSER: Did they do a thing that keeps the world safe? 
+LIAM: Yeah. 
+AABRIA: Yeah. 
+SPENSER: They stopped a thing. 
+AABRIA: Was it worth it? 
+SPENSER: Was it worth it? 
+LIAM: I learned that in my chapter. I came in beforehand going, "I'm going to kill every one of these motherfuckers." 
+AABRIA: Yeah. 
+LIAM: You watch, I'll be the one. The other three were too scared. Here I come. 
+SPENSER: (laughs) 
+LIAM: But halfway through, I was like-- 
+AABRIA: I did great. 
+LIAM: I don't know if that's what it is. I allowed for that to be the case, but my players rolled real well. 
+AABRIA: They rolled lots of Candelas. 
+LIAM: Rolled real well. 
+MATT: Yeah. Imari, forever. 
+LIAM: But-- 
+AABRIA and SPENSER: (laugh) 
+LIAM: -- the outcome was just right. 
+AABRIA: Yeah. 
+LIAM: Because as an audience member and even from my seat, I worked so hard to grind them into dust that I wanted there to have been something earned for it and so the ending was just where it should have been. 
+MATT: To a similar point, Drawing themes and story elements from your Session Zero bring it back to the game in session zero. How much of your theme and game's beacons or goals of hope are taken from the players at the table as they develop their characters or it's something you find partway through the story? Is that something you consider at the outset or do you just focus on theme and dangers and let it evolve as you play? 
+AABRIA: I think the way we did our session zero involved one-on-one conversations when we got everyone's question and catalyst and there was a lot of pushback on, "Okay, here's your question about what you think your character is turning around, the big idea behind them," and I found it very, very helpful to ask, "What is the worst version of that answer for you?" And then "What do you hope the answer is?" It's a very easy binary for a shorter session. There's only three of them, so there's not a lot of time to tease and let it build over time. 
+SPENSER: Yeah. 
+AABRIA: But having those two, that bit of directionality means that now you and I as the world and the character know the poles that you're moving between as we move through the space and it becomes that much easier to throw things to not quite corral you in a direction, but to make both results equally tempting and have you arrive somewhere. So I think it's the themes I walk in the door with, the story and the motivations the players walk in and then the plot unfolds from the intersection of our two things and how the dice go. 
+MATT: That's solid. I like that idea and I think most GMs who have a little bit of experience do it subconsciously to a point, but-- 
+AABRIA: Yeah. 
+MATT: It's finding the right questions to ask the players that tricks them into revealing the things they're excited to engage with. 
+AABRIA: Yes! 
+SPENSER: Yeah. 
+MATT: Without going, "Tell me what you want your endgame to be." 
+AABRIA: Yeah. (laughs) 
+MATT: You know? "What ending are you looking for here, kid?" Where you can just in talking about their character, finding the right questions like that-- 
+MATT: -- to make them unintentionally talk out loud about what they're thinking about. 
+AABRIA: Yes. 
+MATT: And how to incorporate the things they're excited for because as players, you want to engage with the things that make you excited and then finding ways to turn it around on them and really make them afraid and wanting to get there or missing that opportunity or worse. 
+LIAM: That's something that you have honed as a skill and I've been gaming with you for a decade, so maybe you were doing it to some degree beforehand, but-- 
+AABRIA: He's talking about you. 
+LIAM: Getting a little bit of information out of us and then just doing rug yanks. 
+AABRIA: Yeah. 
+LIAM: Even the last couple years, I'm like, "Fuck, he did it to me again!" 
+SPENSER: (laughs) 
+AABRIA: Getting to watch you do it up close, I'm like, "Goddamn, clinical, rough." Glad to just be a guest. 
+MATT and AABRIA: (laugh) 
+MATT: It's fun, but to bring it back to the game table, too, it's important to know that your players are comfortable before you do that. 
+AABRIA: Yes, 100%. 
+SPENSER: Yeah. 
+MATT: That's another important part of the session zero, especially in a horror game is the lines and veils, having really strong conversations about how far players are willing to go in the story. At what points they're not willing to go and build a safe space of trust to where I can yank that rug. 
+LIAM: Yeah. 
+MATT: To where I know that I can do up to this point and you will be here for it. 
+AABRIA: Yeah. 
+MATT: Because the bottom line is you're all still having fun at the table. You're scared, but scared can be fun as long as you feel safe as players there. 
+LIAM: Yeah. 
+AABRIA: Don't traumatize your players. 
+SPENSER: Yeah. (laughs) 
+LIAM: You get an individual-- 
+AABRIA: Traumatize the characters. 
+LIAM: Traumatize them the right amount. Yeah, that's right. The characters 
+MATT: That's a good distinction. 
+LIAM: But your players will give off an energy. I could tell from Aimee Carrero that she, even as a player, had a lot of hope and she really wanted to figure out how to dance between the raindrops and come out the other side. 
+MATT: You don't know anything about that. 
+AABRIA: Nothing, I know nothing! (laughter) 
+LIAM: I warned her that it was not going to be a happy thing. 
+AABRIA: I was screaming at the TV, going "Yeah, yeah! She be that way." (laughter) 
+AABRIA: "Go off, queen." 
+LIAM: Alex Ward, on the other hand, just radiated "Eviscerate me." 
+AABRIA: Yes! 
+SPENSER: Yeah. 
+LIAM: From the top and so I knew-- 
+MATT: Just channeling Edward Gorey at the table the entire time. 
+LIAM: Yeah. I wasn't planning on it, but when we got to our ending and I wanted somebody to get absorbed by what they were dealing with and I knew that Alex wasn't a worry if it was him and luckily, it was him. 
+SPENSER: I think it's interesting because we can set up these, and the question in Candela does this to some extent. Player arcs 
+AABRIA: Yes. 
+SPENSER: But I think as GMs, we can set up dramatic questions for our players. 
+AABRIA: Oh, sure. 
+SPENSER: To touch on what you were saying, for me in shaping that, I want to figure out what that dramatic question is, what they want to know by the end and that is a shortcut to understanding what that character's arc might be. 
+AABRIA: Yes. 
+SPENSER: If I can get them to the other side of that arc, at least get some semblance of resolve, even if it didn't answer it the way that they wanted it to be or even if it wasn't perfect, right? 
+LIAM: Which is like life. 
+SPENSER: Which is like life. If we can get an answer, I think of Brennan in this, right? 
+AABRIA: Who? 
+LIAM: Not familiar. 
+SPENSER: Red-- Not familiar? That's fine. Brennan is brilliant in so many ways. (laughs) Are you still thinking about who Brennan is? 
+MATT: I'm like, "I don't know if I've met that guy." 
+SPENSER: Yeah. (laughter) 
+AABRIA: He's Irish, I think he was on that Serenity. 
+MATT: Oh, got it. 
+SPENSER: Yeah, yeah, yeah. Brennan's brilliant. 
+MATT: You all know each other. 
+AABRIA: (squeak laughs) 
+SPENSER: Brennan is brilliant in so many ways. 
+AABRIA: Yes. 
+SPENSER: But one of the things that was really fun about Brennan's character was that the arc for him, the question was, "Can I save my mom?" That was his whole question, right? It didn't matter what and it wasn't Candela-related. He was playing in that space, but that was his whole thing and so every time there was a question about what do I give this person, what situation do I put this person in, it was always in opposition with the goal that he wanted or in harmony with the goal that he wanted. 
+MATT: Yeah. 
+SPENSER: So that was fascinating to watch how he took the reins there when I gave him freedom in the middle of episode two to watch him then take that and run himself or I guess episode three. But knowing what that is is so key to being able to give the player the satisfaction that they've reached the end of their character by the end of the campaign or whatever you're running so that when they die, it isn't for nothing, you know? 
+AABRIA: It's very funny in a game that involves a lot of ghosts, you don't want to make a ghost out of your players' arcs. You want them to finish with closure. Whether or not that's a sad ending or a happy ending is immaterial as long as they feel like they went through a thing and explored something and got to the other side of it with their pants wet. That's great. (laughter) 
+MATT: That is viable. 
+AABRIA: It's great. 
+MATT: Even if the character doesn't get to complete their arc per se, if you can find a way with that player as part of that story's end to bring that weight onto another player who's still around-- 
+AABRIA: Oh god, yeah. 
+MATT: -- then both the players join your side a little bit as a GM because now their loss is haunting and adding to the weight on the shoulders of those that still remain. 
+SPENSER: That's such a good point. 
+AABRIA: God, I love haunting the narrative. 
+MATT: It's good times. 
+AABRIA: So fun. 
+MATT: So we've talked a little bit about character arcs, session zero, and building and playing the story towards character backstories and bringing that all together, Weaving assignments into an overarching campaign but a large part of this can be, especially session to session in Candela, kind of a monster of the week feel, which can be easy to set from session to session, but for those of us that want to try and weave it together into an overarching story where each of these solitary-ish stories can be threaded together, what are some general tips that you use or processes that you go through to help prepare yourself to thread those together? 
+LIAM: Well, I don't know if this is the exact answer you're looking for, but I'll kick us off. One thing is we each ran a three-part story, right? 
+MATT: Mm-hmm. 
+LIAM: I felt that if there were a monster every single game that I would fatigue my players and anyone watching as well. The people in this world are certainly as scary, if not scarier, than the monsters, so I looked for different, there's so many ways to endanger your players. It doesn't always have to be, you know, a supernatural creature, so I kicked off with facing the elements and then it was murderers in a small town to a full episode of breather where they all just talked to each other and explored their stories and their histories and then went to a party because Taliesin needed to Oscar Wilde. (laughter) 
+MATT: You can't stop the boy. 
+AABRIA: Give the people what they want. 
+SPENSER: (laughs) 
+AABRIA: Yes. 
+LIAM: I think you said it at one point, you can't have your players in a constant state of anxiety the entire game every game because they'll get burnt out, they'll get fatigued. So you do want to find different colors and breathing room and fun as well, so that when you do drop the hammer, they can summon all their energy to handle that anxiety and then afterwards (sighs), it's out. So, you know, you're picking your moments, and I wouldn't make it a 20-butted monster every time. 
+SPENSER: I think knowing what kind of scope you're going for in your campaign, or at least in this chapter that you're running, really helps for me. Any game, I'll say we're doing 10 sessions and then let's see after that 10 sessions where that takes us, right? 
+AABRIA: Yeah. 
+SPENSER: But knowing, especially in a game like Candela, knowing, hey, we're doing a five-session campaign, we're doing a 10-session campaign, or in our case a three session campaign, which is pretty fast. So knowing that we have that time, I can ramp up and down how many marks I'm giving, I can ramp up and down how fast the narrative is moving or how quickly I need to move people through their scenes. But I think also, it tells me structurally generally where to put things. 
+AABRIA: Yeah. 
+SPENSER: If we're doing three episodes, I'm probably going to introduce something early on in episode one that will come back by episode three. You get some preview of whatever the thing is early, so we set that up and then we pay it off later. Knowing that I have three episodes, I know I need to do it by episode one. 
+AABRIA: Yep. It's really nice that it's three, because there's so many things around storytelling that are that rule of three, three act structures. Even down to improv where you're like, episode one, you're establishing a concept. Here's a fear, here's a theme, here's a thing we're going to do. Two is usually your twist for it, so right around your mid game when everyone's comfortable with what the board state is, you do something and pivot and go like, "Well, what if it's actually about this? What if--?" For Tide & Bone, it was that early idea of we're dealing with someone's personal horror story. We were inside of Raj's personal backstory maw monster. You get to the second one, and now it's: What's the turn here? You're like, oh, the monster is now something tied to the society. The scope's gotten a little wider. Then you get that third act, bring it all home, big blow out of like, no, no, no, this is something about the history of this place. So having three and knowing you can have an arc and a ramp up, it's that exact idea. Establish something early, play with it, give your players time to understand what's going on, twist it, and then blow it up for the big finale so everything feels like: This is exactly what I want. I'm overwhelmed by the theme and the vibe and the feeling and the monster and the hopelessness and the horror of it all, but it all makes sense. I think that's the thing that we have to strive for as GMs for this. Let the horror make sense internally and then your players are inside of it with you. 
+LIAM: It can be helpful to have, sometimes you're going to run a game, you know, if you're running a game for your friends at home, you could change in the middle of what you're doing, but usually, and I did and I think you're saying the same thing is that you know where you're ending, you know what the ending is, so you can be laying stuff out right from the jump that seemingly has nothing to do with anything, and it's pointing towards your final moments. So that's one of the fun things for planning a mystery is leaving little Easter eggs and clues just sitting in plain sight that seemingly mean nothing. But if you know your ending, you know where you're going, everything, all your clues, all your directs and everything are all pointing to one place. Especially in a three game series because you don't have a lot of time, so everything is pointing, even though they can't tell, towards one direction, the band. 
+SPENSER: Yeah. (laughs) Speaking of that, Matt, I'd love to know from you, you spearheaded our first season. Mysteries and clues 
+AABRIA: (laughs) 
+SPENSER: So-- 
+MATT: No pressure. 
+AABRIA: Way to set the fucking tone! It was beautiful. 
+SPENSER: Starting off with episode one, how did you plan your clues out? How did you plan your mystery out? And how would you recommend people do that as they move into their own games? 
+MATT: I had built my first three episodes to be equal parts a horror story, but also an introduction to the setting and the mood. So it means that the themes maybe weren't as strong as some of the later seasons, because it was-- 
+AABRIA: Yes, they were. I'm going to yell at you about that. 
+SPENSER: (laughs) 
+AABRIA: (laughs) 
+MATT: Well, I mean in the sense that it was running dual purpose for this, and so it had to have tandem-- 
+LIAM: You had to have two. Multiple, yeah. 
+MATT: Had tandem points here. I was just trying to establish it as a monster of the week is a thread, but there is a common thread through them all, and the larger threat actually is a societal threat than it is a particular creature threat. 
+LIAM and AABRIA: Yeah. 
+MATT: Exposing the audience as well as hopefully new players to Candela that there are many factions in this world and many people and many things that are working against the greater good and the dangers through the history. So for me, a lot of it was knowing that I wanted to end with the Red Hand and their involvement, and that the real horror here is people repeating the mistakes of the past, trying to capitalize on things they don't understand, and what horrors are unleashed in that process. The exploitation of what isn't fully understood, the misuse of technology, not that we know anything about that. 
+AABRIA: Probably not. 
+SPENSER: (laughs) 
+MATT: So that was the core theme. I knew where I wanted it to end, to what you were saying, and then in that space, telling myself what are the important facets of this mystery? What's the information that will lead them to the next thing I want them to get to? What's the information that's going to lead them from that to the next thing? What different pieces must they know to put together this mystery? Then making sure that I have some ideas of where they will go, but make sure they're modular. 
+AABRIA: Yeah. 
+MATT: Make it so that, oh, they missed talking to that guy. well, oh god, he's the only guy that would know. That puts you in a really bad position as a GM. 
+AABRIA: Yeah. 
+SPENSER: Yeah, yeah. 
+MATT: So he might know, but who else might know? Or where else can they discover this information? Can what this person know also be found in a drawer in someone's desk? Can this also be delivered by someone on their dying breath as they come running out of a scuffle in the street? Keeping in mind that the very important information to help the players un-- pardon, unravel this mystery can be recovered by the players at multiple points in the story and in places where you don't expect them to go in ways you don't expect them to have it handed to them. Because then you don't end up in that terrible position that many of us GMs end up doing where you build this mystery and the players go in a completely different direction and you're like, "How do I fix this now? We're completely off the rails and how am I going to get back to this ending?" So you have to have a little bit of forethought to that and how you build that mystery out and be flexible with how you present that to the players. 
+LIAM: I have to make a confession about my chapter now, because you're absolutely right, and yet-- I did that for many aspects of my chapter, and yet, I made a bottleneck for myself with no other option. They had to go through this one point, and I was terrified of it the entire way up to the moment, and everything that happened in that moment bore my fears out to be true, and I still somehow threaded the needle. In my last game, they end up in Oldfaire, and then they find what I loosely was thinking of as a vault of powerful artifacts that Calinus had created in Oldfaire. There was a room where another circle lay dead. But it wasn't a room, it was a platform to go down even further than Oldfaire. So that was another thing I wanted to do with my chapter was have my party get as low as possible and be like, "God, we couldn't go any lower than this," and then drop them the same amount. 
+AABRIA: Ugh! 
+MATT: Hmm. But I didn't have any backup passageways or anything else. I was like, I have to lure them into this. It's a little box trap with a piece of food underneath, and I had to get the raccoon to go under the box and then pull the string. I was like, man. I mean, I guess I could improvise. I'll figure something out, but I really just want them to go for the food under my box trap. They got into this chamber, and there I was describing the room, and I'm not sure who it was because I was disassociating. (laughter) 
+AABRIA: That's so real. 
+SPENSER: That's so-- 
+MATT: Uh-huh. 
+AABRIA: Yeah. 
+LIAM: I think it was Alex, but I'm not sure. 
+MATT: Oh, Liam's just so into the story. (laughter) 
+LIAM: I'm describing what's going on around them, and I think Alex maybe said, "We got to get the fuck out of here," and all the (sirens blare). I got to pull the string before you get out from under my box trap. I think I just went, "Look over here! Look over here!" with my description for something for another 15 seconds to stop them from saying, "Let's get out of here now," to trigger them going down. So don't do that. Don't do what I did. 
+AABRIA: No, it's okay. 
+MATT: No, no, no! I disagree. 
+AABRIA: It's okay. 
+LIAM: It was such a gamble. 
+AABRIA: We're going to fight and be like, it's a gamble, but my recommendation would be if you know you have to get them to follow a tasty morsel, you seed the tasty morsel in their backstory. All of you had ties to Oldfaire that you came up with on your own that I got delighted by and kept developing. So if you see the tasty morsel before, but that's my favorite secret for mysteries. Which is, put it in their backstory so then all of a sudden they remember and care. Sometimes they don't remember, and that's okay, too. 
+MATT: (laughs) 
+SPENSER: (laughs) 
+AABRIA: Both things happen. 
+MATT: I'll say also, too, if you have those linchpin parts of the story that you've built, it's okay to remind yourself that you know everything and the players know nothing. 
+AABRIA: Yeah. 
+MATT: Often, I'll say this whenever I'm a player, we'll be oblivious to a lot of the-- 
+AABRIA: (laughs) 
+MATT: -- things you say. Sometimes, you have to be overt. 
+AABRIA: Yeah. 
+MATT: Sometimes you have to be a little more forceful with the important information than you might think is comfortable. But honestly, most of time, the players don't see it that way, and it helps them go, "Oh, maybe that is important." 
+AABRIA: Yeah. 
+MATT: Or you end up finding a chair in the room that your players obsess over the entire episode. 
+SPENSER: I was going to say, it's crazy because I feel like sometimes I'm hitting the theme over the head so hard, and yet when I go back and watch it, and I'm not in my own head, I'm like, oh, I actually didn't-- 
+AABRIA: Oh, it's true! 
+MATT: Yeah, it feels so much louder in your own head than it does to players. 
+SPENSER: Yes! Because I know what I'm doing and everybody else is just observing what the effects of that are. So even just taking it back to themes, not being afraid to hit the theme twice, three times, four times. 
+AABRIA: Yes. 
+SPENSER: If you have a question about how an NPC might react, and you have a theme that you know you're trying to hit for that character, mirror that theme back to them, hit it over the head because it's going to take three or four times for it to come through in full. 
+LIAM: I would argue, maybe not for all players, certainly for me, and I think for many players, is you really, maybe it's contradictory, but you really want both. You want that sense of freedom to be able to do anything. But also, at times I'm like, "Where are we going?" I don't mind subtle little nudges because I'm like, "Oh, I got you," and then I start moving with it. Then, I always liken it to both for running these games and being a player in tabletop games to if you're doing the same show on stage for three months, right, you still have to stand at the table. You still have to go and pull open the door the same way. You still have to yell specific lines because you've been directed to do as such, but it doesn't mean it's going to be the same every time. There is still, it's not a perfect analogy, but even though in a three game structure where there's not too much time to go all over the map and wander about because we're on a train and it's moving, there's still a world of creativity and randomness and surprise within those confines. 
+MATT: It's finding where to nudge and find those bumpers. If you need them to go to this particular place where the floor is going to fall out from under them and carry them into a space, and all of a sudden, the players are like, "I don't, that place seems dangerous. We don't want to go," that's where you know, you quickly go, "Someone runs that direction saying, 'I saw something glowing in that chamber. 'Go call the police. 'There's a mystery afoot,'" and they're like, "Hmm, maybe we should go check out that room." Or you know, if there's an object they need to touch in your narrative that you've built to trigger a vision of the past, but they go, "All right, if this room seems clear, we can leave." You can come in and be like, "As you're about to leave, you turn over your shoulder, and you feel this tugging sensation, like a whisper in your ear, and as you glance back in the shadow, this gem seems to glow a little brighter than the rest of the darkness around it." You know, it still feels narrative-focused, and it's just a little gentle nudge that tells the players the story here that's interesting isn't done yet, and it doesn't force them into that, but it also lets you know, "Hey, I built something cool for you, you might want to check it out." 
+LIAM: That's essentially what I did, which was "It's at that moment that you notice one detail that pops that you hadn't noticed before," and it made everybody slow down long enough for me to drop the floor out from under them. 
+AABRIA: It is one of those things that if you're doing your job right, your table is scared, and I don't know, I don't have access to my whole brain whenever I feel any strong emotion, so I think there's a moment to advocate for player grace here where you're like, "I've fully freaked you out. You're probably not picking up all the clues I'm putting down because you're scared of the 21-butted spider just outside the door." 
+MATT: I had a monster with a lot of butts in my story. I feel like this is kind of pointed, at this point. (laughter) 
+AABRIA: And it's the scariest thing that's ever existed. Could you imagine all the poop? 
+MATT: Yeah, yeah. 
+AABRIA: Terrifying. 
+MATT: That's pretty scary. 
+AABRIA: But yeah, having that sense of if you're worried that you're like, "I feel like I'm dropping a million clues," and you're like, "Your players are thinking about 30,000 things right now and trying to do right by their characterization and the story and they might not be thinking with the full faculties that you as the GM currently have access to." 
+MATT: Yeah, and the modularity and gentle bumper concept helps a lot when players have terrible rolls and the things that you want them to get to, they make really weird choices or the dice say, "Nah, you're going to fail repeatedly," to the point where the logic of the story at the moment doesn't allow them to access that part of the mystery that you think is important for it to continue. Then you let them rest a bit. If you have to, take a break, everyone, eat and think on it to the side and think of where else they can acquire this knowledge. Who else can come into the story-- 
+LIAM: Yeah, it's a hot potato. 
+MATT: -- and guide them back on. 
+SPENSER: Well, I think to something that all of you touched on is one of the ways you can guide players in a gentle GM way that doesn't restrict their ability to do whatever they want, but gives them guidance on like: Hey, this is where our story is interesting to me as the GM. Because players do that all the time, right? They tell you what they're interested in all the time by what they do, so as a GM, it's our job to also indicate what's interesting to us and to showcase like: Hey, this is the area that the narrative is pointing you to is describing something specific in detail, right? I know I've watched all of you do this in a really cool way. 
+MATT: For better or for worse. (laughter) 
+MATT: Sometimes accidentally. 
+SPENSER: But it's what you were just talking about, right, where you're like, "I'm drawing their attention to a thing, but I'm describing--" I remember, for me, one of those moments was when they walked into the room one of the characters in the chapter that I did was in and they were like, "Is there anything off here?" They rolled and they rolled a mixed success and it was everything seems normal, but there's a lamp that's just slightly askew. And just by giving that morsel, that doesn't tell them everything, but it does give them enough doubt-- 
+AABRIA: Yes. 
+SPENSER: That they then go, "Oh, we'll stay here for another beat." 
+AABRIA: Yeah. 
+SPENSER: So by using those pinpoint-- If you describe everything very vague and then one brick in a brick wall as being of a particular color, players are going to go investigate that. 
+LIAM: I've always felt it's a little bit like closeup magic, like sleight of hand magic. 
+AABRIA: Yeah. 
+MATT: Very much so. 
+SPENSER: I want you to look here. 
+LIAM and AABRIA: Yeah. 
+MATT: Sleight of word. 
+AABRIA: I will say, that brought me to a thing I wanted to mention earlier so thank you for reminding me. In a game with a mystery, everyone's an investigator, so you don't really have the plot hound person at a normal fantasy game table where you're like, there's one guy, he's always here with a high investigation and he wants to go investigate every room before you get in there. I'm trying not to look at Liam. (laughter) 
+LIAM: Is it me? I don't have a book full of notes. 
+AABRIA: Orym's 31 perception means nothing is ever missed. But the idea-- 
+LIAM: It's 33. 
+AABRIA: I'm so sorry, that's on me. God, that's insane, yeah, drink more. 
+MATT: I spilled. I'm a messy baby. (laughter) 
+AABRIA: No. But there is something inside of like, since everyone's investigating together, hearing the way your players ask to investigate a room, if everyone's walking in and they have to find the clues, listen to how your players ask about the information there and you can feed clues based on the style of what they look for. 
+MATT: Yeah. 
+AABRIA: So if you're like, "How do I feed them this mystery?" If someone comes in and goes, "I'm going to go find a person," and if that's their first impulse, you're like: Great, I know that I just have to put a person with a clue in any room where I need to get you information and my one interpersonal person will always go run to talk to them first. If there's someone that's always going to be like, "I'm going to go look at the art and see if I can see anything there." You're like: Great, you tell me how to give you clues based on walking into a room that's been vaguely described, if you tell me how you look for something, I'll learn to feed you clues and it becomes that much easier to get you down the path. 
+MATT: On the same topic of feeding players Mixed success rolls what they're looking for, also shifting the narrative based on mixed successes. 
+AABRIA: Yeah. 
+MATT: Which is, especially for players who aren't familiar with a lot of narrative-form games, to get used to the idea of what kind of consequences you can introduce during these stories. What are some of your favorite inspirations in the moment to explain to players what the consequences are for a mixed success in Candela? 
+AABRIA: You have to answer this first. (laughs) 
+SPENSER: So I love listening and responding as my main GM move, ask questions and build on the answers, listen and respond, and that is the scariest way to do mixed successes because you just can't plan for them, right? But listening to the situation and them describe what they want to do, and then thinking about a way that I can give them what they want, but there is some twist that either doesn't give it to them fully, or gives it to them in a way that sets them up to actually be in a worse position now, even though they have the info, and so it's hard to quantify what that is, but I think the biggest tool is doing your work as the GM on the front side to be able to go like: What do they want? What are they willing to do to get it? 
+AABRIA: Yeah. 
+SPENSER: What is this situation asking of them? What do the other people that are maybe opposed to them want here? And how can I give them, how can I push the story forward, advance the narrative, and also put them in a more dangerous spot because of it? All of those questions have to be processed pretty quick and that can be intimidating and so oftentimes you can step back and go like: What do you want and what are you willing to get? What are you willing to do for it? 
+AABRIA: Yeah. 
+SPENSER: Like that is the basic of that and sometimes I will even, I don't think I did it here, but in home games, sometimes I'll even ask them for that. 
+AABRIA: Oh yeah, I love asking for that. 
+SPENSER: Right? 
+AABRIA: They're like, "Don't hand me the rope, no!" 
+SPENSER: Because they will-- 
+AABRIA: You tell me. 
+SPENSER: Yeah, in specific moments, if you're drawing a blank, they will give you something worse than you would ever do to them. 
+MATT: Oh yeah. 
+AABRIA: It is true. 
+MATT: My mom, whenever I got in trouble, she'd be like, "And what do you think your punishment should be?" "Two weeks grounded?" She'd be like, "I was going to ground you for one week, but sure." I'm like, "God dang it!" 
+AABRIA: No! 
+MATT: That actually happened to me a few times. 
+SPENSER: So maybe that's not as actionable of advice because it's a little more esoteric, a little more vague, but like, allowing yourself the freedom to be able to go, "Okay, how can the narrative turn here in an interesting way for all of us?" 
+MATT: Yeah, especially when you're in spaces, I find that that's easier to come up with in action set pieces in which there's-- people are already pushing towards something in which time is very much a fluid resource that is fading and so you can put obstacles in the way, you can have people get hurt, you could have things they're searching for be blocked from them. You could have things they're chasing get further away. Action set pieces, I think, naturally are easier to go with. It's the quiet spaces where it can get challenging, in which case, I love using atmospheric triggers that start a timer. 
+AABRIA: Ooh. 
+MATT: If you're investigating a scene and they roll a mixed success, but you find it, but you hear a door slam in the distance and you don't know what that is and you're like, "Fuck, fuck, okay, we got to go." You don't even might know what that door is, but already you've, that this is a consequence, an ethereal consequence that already ups their personal anxiety and puts them on an imaginary timer. 
+SPENSER: It's an indicate coming danger GM move that we talk about. 
+MATT: So using the atmosphere outside of their periphery, using their senses, all of a sudden you grab something, as you pick it up, suddenly you smell something very iron-like in the air that wasn't there before, but it's sourceless, playing with the senses as part of a consequence that can eventually tie into what the overall threat or mounting dark danger that surrounds them could be from is a fun way to do it without having to be specific, but you can always tie that in with whatever the danger is that's coming closer and here's how you express that. 
+AABRIA: 100%. 
+SPENSER: Yeah, it's that make a move offscreen where you are doing a thing as the GM, but you go, "You're fine for now." That's another one if you can't think of something in the moment, think about how you could advance a future scene, a future moment and then-- 
+MATT: Indicate it to the players-- 
+SPENSER: Indicate to players. 
+MATT: In the same time. It's something like, "You're fine for now." But then how can you also goose that a little bit? Rick mixed success, what happened? Nothing, but for some reason your left hand just got a little tingly. You can't really feel your fingertips. 
+AABRIA: Am I having a heart attack? 
+MATT: I mean, I guess you could do that, too. 
+AABRIA: You've given me heart disease. 
+LIAM: You smell toast. 
+AABRIA: (laughs) You smell toast! (laughter) 
+AABRIA: I'm going to use that from now on. Mixed success? Eggs? 
+MATT: (laughs) 
+AABRIA: You smell eggs. 
+SPENSER: I think it is the biggest challenge for GMs in coming from more binary kinds of games to these kinds of games is how do I constantly come up with complications because the mixed success is the most common result on the dice, right, so that's the muscle that has to be learned of-- Easy ways, I could give them a brain mark because it's stressful what they're doing. Those are easy go-tos. I could have the person they're talking to be like, "I'm going to give you this information," and then cut off, but we're done here and walk away. There are go-tos that you can have happen that are a little bit easier to quantify or put in a list. 
+AABRIA: Yeah. 
+SPENSER: But I think that the ones that are the most useful and powerful for us as storytellers are the things that come out of all those things you talked about, the theme, the moment, the narrative, where we hope the story is going and how to indicate that to the players. 
+AABRIA: I think, oh sorry. I was just going to say-- 
+LIAM: Let's all apologize to each other. 
+MATT: Sorry, guys. 
+SPENSER: I'm sorry. 
+MATT: I'm sorry. 
+AABRIA: I'm so sorry, I'm so sorry. 
+LIAM: Never done anything wrong in my life. (laughter) 
+AABRIA: Sort of weighing what you all have said. I always, I think of it as the want versus need. What do you want in this moment? That's why you're rolling. What do you need longer term and long scale, is as simple as often it is my health or sanity or the things that you can easily mark up, but a lot of times it's time and that's where you start to play with that atmospheric things. You can start to bring in character things, too, where you're like, "You want something that is good for the party right now, but the cost is something you need in your arc." If you're playing with Brennan who wants to have his character save his mom, the thing that you lose is some tether to that bigger question where you're like, "There's something about your mom here and that is closed to you now. Anyway, keep going." That's the calculus I came up with when I started running a bunch of PBTA games back in the day where you're like: Another hard move. What does that mean? 
+MATT: Yeah. 
+LIAM: What I was going to say, I was going to talk about why I like the system that you guys built for this because it's very different than another tabletop or say, if you're playing "Final Fantasy VII" or any video game-- 
+MATT: Don't you talk bad about "Final Fantasy VII." 
+LIAM: It's a lovely game, but it's one kind of game. 
+AABRIA: "It's a lovely game." 
+LIAM: Where you have an enemy or a monster or a whatever with a stat block and your hero has a stat block and there's some randomization, but you're throwing stat block versus stat block and see what comes out on the other side. That's not really what this is. It's really just a temperature read for what's going on in the story. This is a very story-centric system, and at least my interpretation of it is that all the rolls and the failures and the successes are not like, "I've taken away 25% of the monster's life, 50% of the monster's life." It is really just upbeat in the story, downbeat. And you're being surprised moment to moment to moment and going with whichever direction a dice roll takes you, it's just, is the character feeling up? Is the character feeling down? Are they safe or do they just get hurt? Are they feeling good vibes or are they feeling bad vibes moment to moment to moment? And at the end of it, there's a story. 
+MATT: Yeah, I think that's a good way to put it because success, failure, and mixed success can feel like three separate things and the challenge is people who are used to binary RPGs often is, what's this third option? Which, with experience, you begin to build a bag of tricks for that, but also you can consider it as opposed to three options, it's just a scale. 
+AABRIA: Yes. 
+MATT: You have success, you have failure, and the mixed success is in the middle to the point where it's like success, they get what they want. Failure, they do not get what they want and bad things happen. The mixed successes, they get what they want and bad things come at the same time. You're just mixing the two. You're finding that in between. 
+LIAM: Fucking Imari, sorry. (laughter) 
+MATT: We love you, Imari. 
+AABRIA: Unfortunately, Liam has no idea what a mixed success is because they rolled out-- 
+MATT: I know. 
+AABRIA: -- crazy. 
+MATT: You'll get 'em next time, buddy. 
+LIAM: Yeah. 
+AABRIA: Aw, that's rough. Getting the, "That's rough, buddy" from the GM Roundtable (laughs) is crazy! 
+LIAM: I got 'em in the end. 
+MATT: You did it, you did! 
+AABRIA: You did! 
+MATT: I'm proud of you. 
+LIAM: Didn't make it easy, though. 
+MATT: They never do. They never do. Well, to that point, we have a lot of agency as GMs and we want to empower the players. Some players can be shyer, some players can be more outgoing. Especially in tense moments, people might be very invested. How do you speed up the narrative along with the players without stepping on their toes, without feeling like you've taken a little bit of the agency away from them, or how do you keep it player-driven, especially in moments of high action and tension? 
+SPENSER: Well, to touch on something that maybe would be applicable to the last conversation and this conversation, one of the moves that you can make as a GM is to raise the stakes. 
+AABRIA: Yeah. 
+SPENSER: So in a mixed success, they get what they want, but the stakes are raised. In this system, we specifically have standard, and low, and high stakes, right? So I can take a situation and think about how as a GM I can push it from standard to high, as a move to showcase why that success was mixed. In this situation also, where a player is like I-- There's a little bit of reticence to action, right? It's like we don't quite know where we're going. We're having a hard time making a decision. By ramping up the stakes of the situation, making that move as a GM, you can force them into, "We have to make a decision now." 
+MATT: Yeah. 
+SPENSER: That's something that we see happen often I think at all of our tables of they want to think about things the longest they possibly can, but because we are playing a narrative-focused game, it's not about planning, it's about acting. So how do we give them the opportunity to do that? It's a balance of not taking away too much agency and being like, "I'm putting you in a bad situation because you guys didn't do something." It's like: "I'm taking the-- I am using my position as the GM to showcase for you what happens when you don't act." 
+MATT: Yeah, you heard the door slam off in the distance earlier, now you're hearing it slamming into the door behind you and the wood's starting to splinter. 
+SPENSER: Exactly. 
+MATT: Yeah. 
+AABRIA: I think those are those important beats where you're like: Great, you have a new thing, the stakes are even higher in order to keep people from worrying too much about, Oh, the stakes are raised, we have to make the perfect choice or everything will be bad. I definitely love taking those opportunities as an edit in improv, but focusing down on one person, usually the person that is a little withdrawn from a given situation and going: It's not that you're withdrawn, but you have the best eyes on everything that's going on because you're not inside of whatever big moment is happening that's keeping us inside of a scene or inside of an energy. So you, in your head, in your heart, something needs to change. I'm going to ask you to be our edit here. What do you want to do? 
+MATT: Yeah. 
+AABRIA: Using that to piggyback: Great, you've made a choice, now we're all going to follow it or splinter away from it, but action has been asked for and delivered. 
+MATT: Yeah, finding a quiet moment of focus in the midst of the chaos. In a very cinematic way, be like-- 
+AABRIA: Yeah! 
+MATT: -- as everything's crazy, shift over to this one player and be like: Right now, you can feel your heart beating in your ears. All of a sudden, you have a moment of clarity here. What do you want to do? 
+AABRIA: Yeah, and it's this beautiful spotlighting moment for players that may hang back a little bit inside of big moments to go: It's a feature, not a bug. What you've done is actually super important to this moment right now because you're unique in your ability to make a choice for the group. You're all leaders, make the choice here and we'll all follow it. I think it's good praxis for the table to be like, "Everyone makes decisions, and we're going to spotlight and share focus, and scoot along from an energy into the next thing that's going to happen." 
+MATT: Oh yeah. 
+LIAM: I also, outside of the game, encouraged everybody-- I like it when players step up as sort of Deputy GM for chunks of time, and telling Taliesin, "Tell me what you're wearing, go nuts." I know I'm going to just listen for 10 minutes. 
+AABRIA: (laughs) 
+LIAM: And I love that. There's nothing wrong with that. So I encouraged everyone to, you know, if you're comfortable and you want to, and you have a scene or a moment or something you want to pursue, you don't need my permission, go ahead and I'll come along with you. 
+AABRIA: Yeah. 
+LIAM: But, every player is different, and some people are happy to leap in and do that and some people are way more reticent. So I would also have ideas for things that I could toss at that reticent player, like you're saying about zeroing in on them if they are hesitant and aren't going to jump into the ring on their own. Oh, and sometimes, they'll surprise me and do it anyway. So having an option in my back pocket is nice, but not being married to it, to just go with wherever the energy between you and that one specific player is. 
+AABRIA: Yeah. 
+LIAM: Then you throw it all out the window anyway, so. 
+AABRIA: I mean, that's the secret to all of this. We can talk all day long about here's all your tools. You're like: I've got a case full of cards and I'm Gambit, and eventually you'll let me throw one of these. It's mostly you're chasing your friends down a spooky story and being like: Yeah, there's a monster! Keep going! Why are you going that way? Sure, okay! (laughter) 
+SPENSER: Well, and I love-- 
+AABRIA: Yeet! (laughs) 
+SPENSER: Like you were talking about, I love empowering players, and I think there's a really interesting freedom and respect and trust that can be born out of a table where you as the GM give them the ability to narrate sometimes in a way that they wouldn't typically expect. I remember there was a scene, Zehra, who was fairly new to tabletop role playing games, an incredible player. There was a scene where Luis was playing himself when he was younger and was being-- Zehra's character, Jean's father, was coming to do essentially a seance or exorcism or something on him. 
+MATT: Mm-hmm. 
+SPENSER: So I just let Zehra and Luis do that scene together. 
+AABRIA: Oh yeah. 
+SPENSER: Zehra playing her father, right? I could have played her father, but I was like, "I don't know your father." That also was born out of "We're playing three sessions, I don't know your father like you do," and I also know thematically that the father figure in her backstory was really important to her. I didn't want to mess it up, right, I didn't want to step on toes. But then, they did a scene for 10 minutes together and we all got to, at the table, just got to hang out-- 
+AABRIA: So fun. 
+SPENSER: -- and watch the movie that was happening. 
+MATT: I love those moments so much. 
+AABRIA: Bro, when you get to be fan and audience member one, the best. 
+SPENSER: It's so good. But it also gave them the feeling of agency in a way that I really enjoyed seeing them open up after that. So I think it's a powerful technique and obviously we can't do it all the time as GMs, but if we can find those certain moments to gift them that time for them to run with some agency in a way that maybe they wouldn't have typically. I think also to piggyback on that, there's a difference for me in a group of characters trying to scramble to figure out what to do in a high stakes moment, and you as the GM putting pressure on them in the narrative to make a choice, and a player who you need to have a little more patience with because they are overwhelmed by the system or overwhelmed by role playing games in general. I think being able to differentiate as the GM how much pressure can I put on them via the narrative versus how much patience and guidance do I need to give them as their friend and their guide, essentially, to this game. Being able to make those calls I think is really important. To be frank, I was worried when I gave Zehra the opportunity to do that, that she would feel overwhelmed, right? So it was this-- I was there to support her if she was like, "Oh, I don't know how to do that." But being there as a support pillar for your friends and also putting them in bad situations is the bread and butter of a GM. We are the heel in wrestling. 
+AABRIA: (laughs) 
+MATT: Yeah. 
+SPENSER: Right? 
+AABRIA: God, yes. 
+MATT: Yep. 
+SPENSER: We're doing kayfabe. 
+AABRIA: All day long. 
+MATT: It's fun to play it up, too. 
+SPENSER: Yeah. 
+AABRIA: It's my favorite thing to do. 
+MATT: In our hearts, we are like, "I love you all so much." On the face: "Ugh, you ruined my stuff I was trying to kill you with! But I love you and I'm so proud of you." 
+AABRIA: Yeah! (laughs) 
+MATT: That's the whole secret. 
+AABRIA: "You did a good job fighting it! I mean, aw shucks. Next time." 
+SPENSER: (laughs) 
+MATT: Yeah, exactly. 
+AABRIA: Getting to go-- 
+MATT: That's the best part of it. 
+AABRIA: You foiled my plan. You get to constantly be the like, "You meddling kids!" It's the best! 
+MATT: This is actually a good question, too. Candela Obscura as a world Historical realism draws a lot of its inspiration from Victorian era, spirituality and spiritualism, turn of the 20th century, post-World War society. Taking all the facets of this genre of horror into this new world for players that are wanting to build their own mysteries, and their own creatures, and their own horror in this space, what are your recommendations for these players to pull from their inspirations in history, but without bringing in the colonial baggage or historical problematic elements that come along with our culture at those periods of time? 
+SPENSER: Yeah. 
+AABRIA: (laughs) 
+SPENSER: I think that was one of the big reasons why we made Newfaire and the Fairelands as they are, which is this is aesthetically a turn of the century place, but we wanted it to be a place that the problems lie in other aspects of society. (laughs) 
+AABRIA: Yeah. 
+SPENSER: We aren't living in a world where somebody like Zehra couldn't be a doctor. 
+AABRIA: Yeah. 
+MATT: Right. 
+SPENSER: Right? Jean couldn't be a doctor. I think that we can do our due diligence as GMs, as storytellers, to go and do the research and to do our best to put into practice the kinds of things from that world that we find interesting without bringing with it the baggage of the terrible parts of that society that we all are highly aware of. The other bit that I think is so important is that we're going to get it wrong sometimes. 
+MATT: Mm-hmm. 
+SPENSER: There has to be grace for failure, but there also has to be space for learning, right? If we fail and we learn, that's what's important. So in building the game, that was a big factor. We had a lot of things that we failed and learned from with cultural consultants and sensitivity consultants and all these people that came in and were like, "Hey, this thing, actually--" For example, something that was a blind spot for me in particular, I didn't know that crystal balls were an issue. So that's something that I learned as we did it. You'll notice in Candela, there are no crystal balls. 
+AABRIA: Yeah. 
+SPENSER: That's just not in the artwork and stuff. 
+MATT: Yeah. 
+SPENSER: Now, if you want to bring that into your own home game, that's up to you to figure out how you grapple with all of that. But yeah, I think just doing your best to be able to go, everybody is welcome here. If there's anything that pings on anybody, making sure you as a GM and even as a player at the table have an open enough conversation with the table that they can go, "Hey, I'm uncomfortable with this, can we change it?" 
+MATT: I think it's also a good thing to talk about, too. You are also welcome to explore these themes if they're important to you as a player at the table, and you are in a place where you can or you have the-- You are able to speak on these things. 
+AABRIA: Yeah. 
+MATT: Being like, you and the people at the table want to discuss this and feel what's a safe space for you to explore a story that can deal with societal prejudice that could exist in the Fairelands that's not prescriptive in the book, but that's important to you for you to explore in this world as part of the story, you can do that. But it's also doing the research, doing the care, and making sure that everyone at the table is on the same page and everyone's comfortable with exploring these themes as well. 
+AABRIA: 1,000%. I think it's so important to note up top that a vibe is a shorthand, and shorthand is always a launching off point. It is not the be-all end-all the moment you start going: Gaslamp, Victorian, great. I'm going to map on everything I know about a time period. You're unfortunately porting in all the societal stuff around it, that maybe doesn't ping as inherently problematic but the moment you start digging. So, take a vibe up top as a beginning. Then I think there's always value, especially if you're coming into something with a group that you're like, we want to be aware of what we're doing and build something that is specifically for us. Spend a little extra time, the vibes that are put forth in the book are immaculate. Do some world building with your table. 
+MATT: Mm-hmm. 
+AABRIA: Figure out what you guys want, where you build, where you diverge, and what you want to deal with. Having a gorgeously written and aesthetically very pleasing rule book and core system book is not an excuse to not do a little bit of that legwork yourself, both because it helps everyone be invested and understand the stakes and world of the story, and also it helps you build a world that has fidelity to your table and your table's priorities. 
+LIAM: Yeah, and the human beings at your particular table are making that framework together. 
+AABRIA: Exactly. 
+MATT: Yes. 
+LIAM: The book and the rule system's not saying-- We want your players to be able to tell any kind of story they want in this world, and you don't want to be like, "Well, it's 1910, so you don't get to tell that story." 
+AABRIA: Yep. 
+MATT: Yeah. Or, Candela, in the book, it doesn't say we can talk about generational trauma, you know, or classism, or issues with authority, so we should avoid those themes. No, if those excite you as players and everyone at the table wants to explore those, then please do so. You know, this is just the setting in which we can build that space without baking those historical issues in. 
+AABRIA: Yes. 
+MATT: Then if you feel you want to engage with them as a player and process that as part of the horror narrative because a lot of these things in the world and in history are horrifying in their own right, and can be explored at a table where it feels safe and there's trust there. Please, by all means, go for it. 
+AABRIA: There simply isn't a setting-- No one can build and present a setting that is clean from any conflict or point of contention, because that grit is the texture that a story is driven off of. 
+MATT: Yes. 
+AABRIA: So again, this isn't a bigger message beyond talk to your group, build your world with your group. Even if you have a book, build your world with your group. You don't hand off copies of Candela and go like, "I hope everyone has studied." (laughter) 
+AABRIA: "You all have to know exactly where you're from and what all the deal is, and you have to know all the NPCs in your location." That's not fun. But taking that as a launching off point to build the world you want to play in should always be a part of the building the game. 
+MATT: Yeah. I mean, if there's ever something that you're not sure of, or you're like, "I wonder. I don't see these things anymore. I'll look up and see if there's something wrong there." 
+AABRIA: Google it! 
+MATT: Then Google it and find out. 
+AABRIA: (whispers) Google. 
+MATT: Or as you play your game, if a player comes up to you and says, "Hey, just so you know, that kind of makes me a little uncomfortable about this thing," or maybe you didn't know this history. Be like, "Oh, okay. Well, we're not going to go back to that again," you know? 
+AABRIA: Yeah. 
+MATT: Pluck it out if it makes the table uncomfortable. 
+LIAM: Yeah. 
+MATT: You just evolve. Once again, you won't always get everything perfect, and as long as there's grace and the willingness to learn, then you continue on and everyone's gravy. And by gravy, I mean absolutely terrified and clinging for their life-- 
+AABRIA: Spooky gravy. 
+MATT: -- and probably being devoured and eaten until nobody's left. So, yay. 
+AABRIA: Yay. 
+MATT: I think that's a great beat to finish up this topic. 
+AABRIA: Yes. 
+MATT: So thank you all so much for joining us for the Candela Obscura GM Roundtable. Thank you all so much for being part of the series and being part of this roundtable. Spenser Starke, Liam O'Brien, Aabria Iyengar, you are the apple of my eye, I love you all so much. Thank you for being here. 
+AABRIA: Matthew Mercer. 
+SPENSER: (laughs) 
+MATT: Oh, I'm here, too. (laughter) 
+MATT: Mwah! 
+AABRIA: I love you! (laughter) 
+MATT: Do not perceive me! I'm put here because I have to be! (laughter) 
+AABRIA: We don't let him out the building. 
+SPENSER: Yeah, he sleeps here. 
+MATT: I'm know, I live here. But no, if you haven't checked that out yet, Candela Obscura's Core Rulebook, along with the dice, accessories, more, are all available at the Critical Role online shops, the Darrington Press Guild stores, and of course your other friendly local game stores. You can learn more about the game at darringtonpress.com/candela. So please, go forth, and we hope your games bring you excellent and delightfully haunting tales in the Fairelands. Thank you all so much. Bye-bye! 
+LIAM: Stop rolling sixes in this building! 
+SPENSER: Ah! 
+MATT: Oh god! 
+ALL: (exclaiming)

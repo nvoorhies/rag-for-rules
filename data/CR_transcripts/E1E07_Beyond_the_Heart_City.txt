@@ -1,0 +1,2792 @@
+List of Transcripts
+
+Contents
+
+1 Pre-Show
+2 Part I
+3 Break
+4 Part II
+
+
+Pre-Show[]
+AABRIA: Hello and welcome to Exandria Unlimited! I am your GM, Aabria Iyengar, and I will be your Game Master for this evening. (cheering) Before we get into tonight's shenanigans, I'm going to remind you of the world's most wonderful table. Let's start with Robbie. 
+ROBBIE: (laughs) That's a hard throw from wonderful to me. My name is Robbie Daymond, and I play Dorian Storm, a beautiful, beautiful air genasi bard, and he's here to entertain you. And so am I, I hope? 
+AABRIA: Nice! 
+LIAM: I was going to call out, "Owning it," but-- 
+AABRIA: We'll be so excited for you to be entertaining for once. Go ahead, Liam. No, I'm sorry, I feel bad. 
+LIAM: Hi, I'm Liam O'Brien. I am playing Orym of the Air Ashari. I have no druidical powers, just a touch. I will be fighting with a sword, and I am repping the Keyfish today in the honor of my-- of a home turf. 
+AABRIA: Brra! Nice. 
+ASHLEY: Hello, I'm Ashley Johnson. I'm playing Fearne Calloway, the morally questionable druid of the table or tables. And, yeah, that's Fearne. 
+MATT: Hell yeah, love it. 
+ROBBIE: (like Fearne) And that's Fearne. 
+ASHLEY: (like Fearne) And that's Fearne. 
+MATT: Hi, I'm Matthew Mercer. I play the dwarf, divine soul sorcerer Dariax, and yeah, he knows about as much as I do about what's coming up next, and he probably won't pick up on it afterward, either. 
+AABRIA: Respect. 
+AIMEE: Yeah. Hi, I'm Aimee Carrero. I'm playing Opal, our hexblade warlock with family drama. (laughter) And I'm having a great time. 
+MATT: Perfect. 
+AABRIA: I didn't believe that at all, but thank you. All right, these episodes are pre-taped so we're going to throw it to our bestest friend in the whole world, future Cozy Matt, for some sponsor reads and announcements. Take it away, Cozy Matt. 
+MATT: Thank you, Aabria. Now this episode of ExU is sponsored by Bethesda and ZeniMax Online Studios and their latest release, The Elder Scrolls Online: Blackwood. Join the over 18 million players in the award-winning RPG and enter the Gates of Oblivion. ESO: Blackwood, part of the Gates of Oblivion adventure, is available on all platforms today and is optimized for Xbox Series X, S, and PlayStation 5. Check out everything right now at elderscrollsonline.com/buy. This episode is also sponsored by Magpie Games and their official licensed tabletop game based on the world of Avatar: The Last Airbender and The Legend of Korra. Can you believe it? Yeah. Players get to create their own elemental bender, weapons specialist, or technologist in any of the five eras, and, with an easy-to-access custom system created by award-winning designers, even players who aren't familiar with RPGs can tell stories in the Avatar-verse easily. Check out everything right now in the campaign at magpiegames.com/criticalrole. This episode is also sponsored by our friends at NordVPN, providers at the highest-quality encryption for your internet traffic, while hiding your IP and physical location. With over 5,400 servers in 59 countries, it is easy to get better internet speed and protection with one simple click, and it is available on every major platform, including Windows, iOS, Android, and Linux. Go to NordVPN.com/EXU, or use the coupon code EXU to get a two-year plan plus a bonus gift with a huge discount. See, Omar's protected by them right now. Thank you so much for joining us live on Twitch and YouTube, and to join our live and moderated community chat, please head over to our Twitch channel. And now without further ado, The Tal'Dorei Campaign Setting Reborn is coming soon, and we're excited to announce that it will receive a deluxe treatment with Beadle & Grimm's. Their box set transforms the contents of Tal'Dorei Reborn into a fully immersive experience, complete with in-world jewelry, hmmm. As well as paper handouts to fully immerse your players, a player gazetteer, as well as a GM screen, encounter cards, magical item cards, and adventures. Beadle & Grimm's Tal'Dorei Reborn offerings will be released alongside our book in late 2021 or early 2022. You can place a pre-order now at beadleandgrimms.com/criticalrole/taldorei. We'll have more order information on Tal'Dorei Reborn itself later on. (sighing) Pardon me, buddy. (playing "Hot Cross Buns" off-key) (sighs) Back to you, Aabria. 
+AABRIA: Thank you, Cozy Matt. And can I just say, (sighs) I know you haven't been doing it for long, but those recorder lessons are coming along so beautifully. And I just want to say that rendition of Hot Cross Buns, it-- it changed me. 
+ASHLEY: Classic. 
+AIMEE: Yeah, me, too. 
+AABRIA: So thank you for gracing us with your gift and your talents. 
+MATT: Yeah, no problem. 
+ASHLEY: Way to bring it from the game to the-- 
+AIMEE: It was beautifully done. 
+LIAM: Reincorporation, yeah. 
+AABRIA: Yeah, it was amazing. 
+MATT: Yeah, thanks, it's great. 
+ASHLEY: It's good stuff. 
+AABRIA: So thank you. So with hearts full of song and eyes full of hope, I think we're ready to start. So why don't we get into tonight's episode of Exandria Unlimited! 
+(shouting) 
+(dramatic music) 
+
+Part I[]
+AABRIA: You've survived weeks of treacherous travel south through the feral splendor of the Rifenmist Jungle, a land that seems almost sentient, animated with the breath of Melora, the Wild Mother. And she guards a great secret, one that you have finally discovered for yourself. A great civilization known as the Qoniira Tetrarchy believed to have been lost in the violent chaos of the Calamity eons ago. It still stands, very much diminished, but alive and well in its capital of Niirdal-Poc. Fy'ra Rai, the mysterious fire genasi monk that led you here escorted you to the city and to a trusted friend of hers, Elam Genar, an earth genasi before moving towards the central plaza dominated by a massive statue of a feline humanoid with four outspread feathery wings, and an uplifted hand grasping a strange gray-gold light that you see permeates every part of the city. In the presence of The Observer, our divine soul sorcerer, Dariax, experienced a moment of communion with this being, and they spoke of The Gift and spoke kindly and ebulliently of your predilection for chaos and curiosity. 
+MATT: Yeah, that was a little weird. 
+AABRIA: (laughs) You all met one of the four Tetrarchs, an elephantine cleric of the moons named Thrascuur that saw ill omens and imminent disaster written across the night sky. They translated the fiery rune of the ash-blown mesa as "a place of burning," a point in the world so white hot with potential energy, both fiery and arcane that it was marked by glyphs that predate the gods' vulgar celestial language. You also learned of Tetrarch Umejii's solo mission south through the Beynsfal Peninsula headed towards Tz'Arrm, the heart of the ominous Iron Authority to suss out if they are the source of Thrascuur's ill omens. Headed back from that meeting, you were accosted by invisible mages bent on abducting Opal. A chase ensued through the streets and valleys of Niirdal-Poc, and through cunning spell work, stone-shattering swordsmanship, and some good old-fashioned fucking fanged violence, you all won the night. But one very powerful spellcaster escaped. Bloodied and exhausted in the foggy darkness, you collected yourselves and parted ways with Fy'ra Rai, whose destiny, for now at least, lay northward towards her long-lost sister. We pick up then the next morning, after Tetrarch Thrascuur offers you safeguarded accommodations to rest and recover. Is there anything we need to know about how you all spent your night? 
+AIMEE: I think, if I remember correctly, did Opal have a real out-of-body experience, a violent encounter with a head, decapitated head? 
+AABRIA: Yeah, yeah, you did. Did you put it down? Because last I-- 
+AIMEE: I mean, she must have. I think someone took it from her. 
+AABRIA: Yeah, I think Orym may have been like, "Um, let me just." 
+ROBBIE: Did you shower at least afterward? 
+AIMEE: I don't know, I think she was pretty shocked. Right? I think that's where we left off. Just a little shell shocked. 
+AABRIA: Yeah. 
+ASHLEY: Yeah. 
+AABRIA: So with that in mind, did you allow yourself to be swept into sleep at night? Or did you ruminate on holding a head and yelling into the void? You had a busy night, how you vibing? 
+AIMEE: I feel like maybe Opal just let everyone just lead her to where she needed to go, but I don't think she slept very well, if at all. And I think you mentioned something about her not being able to feel Ted around. 
+AABRIA: Give me a charisma saving throw. Charisma because your spellcasting modifier. 
+AIMEE: 16. 
+AABRIA: With a 16, you reach inward, and it's not the sense of loss or a hole there, but you can't access that part of your magic that you know is so deeply tied to your connection with Ted. 
+AIMEE: Gotcha, okay. 
+MATT: I think for the night, after what happened with you, Dariax is going to want to take some sort of a watch. If anybody else wants to go ahead and switch off at some point, just to make sure we don't get accosted again by these purple-robed ingrates. 
+LIAM: Yeah, I'll chip in on that. 
+ASHLEY: Yeah, I will, too. 
+AABRIA: All right. 
+MATT: Great, and as part of his watch he'll probably wander out to the street a bit and see if he can make eye contact with that weird winged cat statue again. 
+AABRIA: Yeah, you're staying pretty close to where the statue is so you look out. What do you want to happen? 
+MATT: He's just going to stroll about like a sentinel would just whistling to himself. (whistles) 
+AABRIA: The guards give you a weird look like, "Don't whistle, the whistle is--" 
+MATT: Evening, evening. Just having a stroll, (inhales) stretch. 
+AABRIA: "You don't have to--" You're not really talking. They go back to-- 
+MATT: Usual reaction. 
+AABRIA: Yep. 
+MATT: Nonchalant, don't suspect a thing. He's just going to wander out a little bit and look back at it, stare at it, see if it moves, does anything. He's second-guessing the experience that he had and is just like-- There's been a lot of voices in his head recently and he wants to make sure they're not all him. 
+AABRIA: Yeah, make a-- I guess I would just call this-- Make a roll with your spell attack modifier. 
+MATT: Okay. Oh, 18. 
+AABRIA: You lean out and you can peek around the corner and see this massive statue holding this shattered halo of weird, sort of greasy light. The longer you stare, the more you're wondering if your eyes are adjusting to looking at a point of light because it all gets a little dimmer. And you see that the little torches and sconces that are around the outside of the city that light up the streets at night, even through this fog, also seem to dim a little bit and the fog begins to hang a little bit lower. What do you do? 
+MATT: I look around to see if anybody's paying attention to me. 
+AABRIA: No. 
+MATT: I'm just going to think real hard in its direction and be like: Hey. 
+AABRIA: "Hey." You don't see the statue move, but you see that broken halo of light around it seems to throb a little bit. 
+MATT: So you're The Observer, is that right? 
+AABRIA: "I observe, yeah." 
+MATT: Can you see, like, everything? 
+AABRIA: "Yeah." Make an insight check. 
+MATT: Oh, eight. 
+AABRIA: Everything. 
+MATT: That's really creepy. 
+AABRIA: "Thank you, oh my god." 
+MATT: But anyway. 
+AABRIA: "Mm-hmm. 
+MATT: Are you talking to everyone else, too? Or is this just like a you and me thing? 
+AABRIA: "I speak to others, but not in the same way. I bequeathed The Gift or am The Gift or am an understanding of what The Gift is." 
+MATT: Okay. 
+AABRIA: "So I don't have to speak." 
+MATT: That's good to know. How-- 
+AABRIA: "Wait, did that make sense to you?" 
+MATT: No, nothing does, it's fine. 
+AABRIA: "Okay, good." 
+MATT: How do I find this Gift, and is it for me? 
+AABRIA: "The Gift, at the end of the day, is your intuition and you have possessed it your entire life." 
+MATT: He immediately starts checking his pockets. 
+AIMEE: (laughs) 
+AABRIA: The Observer lets you search for a little bit and then you hear a little, "(sighs)" and one of the lights seems to have gone out as if it was just sighed out of being. "Okay, well, you're being very literal about this." 
+MATT: He stops for a second. So is this like a philosophical gift? 
+AABRIA: "No, it's a physical gift, too." 
+MATT: Then where is it? 
+AABRIA: Make an investigation check. 
+MATT: 11. (laughs) 
+AABRIA: You're investigating pockets and bits and bobbles and then you feel a weird itch across the center of your back, like light scratch marks on your spine. 
+MATT: I look at the Observer and freeze and be like: You said you see everything, right? What's on my back? 
+AABRIA: "The Gift." 
+MATT: He's starts scratching the edge of a corner Bully the Bear style. 
+AABRIA: "No, don't scratch it. Oh my god. (sighs) You are wild." 
+MATT: I get that a lot. 
+AABRIA: "I like it." 
+MATT: Well, thanks. I think you look pretty cool for a winged cat thing. 
+AABRIA: "Aw, thank you." 
+MATT: Yeah, yeah. 
+AIMEE: Kind of ship them. (laughter) 
+AABRIA: "Oh my god, thank you." You hear her respond out loud to a thing that exists beyond this plane of existence. (laughter) 
+MATT: All right, all right, all right. 
+AABRIA: "Do you want a physical, like, a thing you can see because I don't think you can see your own back. Please don't try. I felt it, I felt like you were going to do a turn. Don't do it, we're having a good moment right now." 
+MATT: All right, cool, fine. 
+AABRIA: "Okay." 
+MATT: All right, if-- 
+AABRIA: "I observed that, yes." 
+MATT: Thank you. That was my-- So you're offering a physical gift? 
+AABRIA: "I would like to, yes." 
+MATT: That would be awesome. 
+AABRIA: "Why do you want one, though?" 
+MATT: Because they're fun to open. 
+AABRIA: "Why do you do anything that you do, Dariax? You are blown like the wind by the wind," and you feel a little bit of the fog swirl around you and a very light scent that actually reminds you a little bit of Dorian's cologne. "No, he's not-- you're good." 
+MATT: Okay. Yeah, I just kind of go. I always have, just pick a direction and run, you know? It's worked out so far so well, and... Well, it's worked out enough, I guess. It's kind of nice having a direction now mainly because I got people to point the direction to go or at least to follow for a bit. But yeah, I don't know why I do what I do. You're not the first to ask that exact question. 
+AABRIA: "I won't be the last. I'm very proud of you. In a world of people too terrified to lose anything, to choose-- you choose with your entire heart without a second thought, for better or for worse." 
+MATT: That is the nicest way anybody's ever put that to me before. Thank you! 
+AABRIA: "You're very welcome. If you need me, I will help you however I can." 
+MATT: Well, happy to return the favor, Observey. 
+AABRIA: "Oh, I don't enjoy that as a name. I, no, absolutely not." 
+MATT: Obby? Observer? 
+AABRIA: "Obby?!" 
+MATT: I'm just trying things out. Cat Thing feels a little, I don't know, impersonal, so I try to-- 
+AABRIA: "We'll workshop it." 
+MATT: All right, yeah, yeah, yeah, I'll put some thought in it. 
+AABRIA: "You know what, I'll take-- No, keep working on it. I want a cool name." 
+MATT: Okay, yeah. That's two names I'm working on now. We're supposed to have a group name, too. We still haven't figured that one out. 
+AABRIA: "Ooh!" 
+MATT: Do you got any suggestions? 
+AABRIA: "Oh my god, no, absolutely not." 
+MATT: Okay, well... 
+AABRIA: "I'm a watcher. I'm not big on suggestions." 
+MATT: Hey, I understand, I understand. A little out of your realm of expertise. Anyway, I got to make sure my friend isn't getting kidnapped again. Great talking to you. 
+AABRIA: "Be safe." 
+MATT: Yeah, you, too. Apparently, this town's dangerous for statues recently so... 
+AABRIA: "(snorts) (sighs) You have no idea." 
+AIMEE: Kiss, kiss, kiss, kiss, kiss, kiss. (laughter) 
+AABRIA: And as you turn the corner, a little gleam of light flashes off of your staff and you see that up at the neck before the blade comes out there's two little, incredibly sharp, feathery wings extending upward and downward. Your spear is a little bit more effective than it used to be. 
+MATT: Nice! Hope to use you if my friends could stop getting themselves all screwed up. 
+AABRIA: "Oh, you're gonna." 
+MATT: What? 
+AABRIA: And that's the last you hear as The Observer gets quiet and the lights come back up again to their full brightness. 
+MATT: He heads back to finish his time at watch. 
+AABRIA: Go ahead and make a perception check for me. 
+MATT: Sure. 
+AABRIA: Doing a watch. 
+MATT: Yes, yes. 14, actually. 
+AABRIA: Oh shit! I was expecting a single digit. 
+MATT: Me, too! 
+AABRIA: Amazing. Zero faith in your dice, sir. Yeah, you go around and you see that as the night goes on, the rate of guards actually increases instead of decreasing as if the Tetrarchs have put out that as everyone calms down, they are even more on alert on your behalf, so you are now passing dozens of guards. And the city seems almost bright with trying to keep an eye out on things. 
+MATT: All right, all right. 
+AABRIA: Nothing sinister to note. 
+MATT: I'm sure it's fine. 
+AABRIA: Fearne, how you living? 
+ASHLEY: Well, I definitely-- My teeth were very bloody, so I made sure to wash that out and get nice and clean. And just sleeping like a baby. 
+AABRIA: Yeah? 
+ASHLEY: Just had a really good night and got some aggression out and I feel good now. 
+AABRIA: Nothing weird or bad about accidentally just full merc-ing that guy. You good? 
+ASHLEY: I'm okay! 
+AABRIA: Okay. 
+ASHLEY: Yeah, it had to be done! 
+AABRIA: Make a wisdom saving throw for me as you fall asleep. 
+ASHLEY: Okay. Ooh, 18. 
+AABRIA: Have you ever experienced sleep paralysis? 
+ASHLEY: Yeah. 
+AABRIA: Yeah. Has Fearne? 
+ASHLEY: Yeah. 
+AABRIA: Yeah. So as you feel yourself sliding towards this, you don't have that first burst of panic of what's happening. You feel your body fall asleep through your mind is sort of locked in that: It was fine. It had to be done and everyone's safe now because you did what you need to do. And that locked thought mixed with the exhaustion and exertion of the day and the previous weeks causes a bit of a rift between your mind and your body. And then you feel your chest get heavy as though someone was sitting on it. Then those eyes looking up into the darkness, unblinking, see another face, so similar to your own but dark, sooty, with long, lanky, greasy hair, and a very familiar crown creeps into your vision. She doesn't say anything. She just keeps pressing on your chest and breathing ragged, gasping breaths into your ear. And it just keeps happening and you can't move. You can't fall all the way to sleep or wake all the way up, and you can see Mister dozing just so peacefully beside you. And you just have to wait through it for what feels like hours before finally, you fall asleep and the sound stops. 
+ASHLEY: Is Opal asleep? I just sort of look at everyone right before I doze off and know that that creature or another version of me is out there somewhere, but mostly just worried about everybody. I try to fall asleep. 
+AABRIA: And you manage to do so. And then, some amount of time later, after you've gotten your full long rest, you wake up for your shift taking watch, too. And I won't have you roll for it, but you look out and see a city almost lit up like daytime full of patrols of guards trying to keep the streets safe from whatever incursion attacked you earlier. And you see groups of construction workers supporting and bolstering the building that you fought in front of because those were load-bearing doggos just trying to support-- this is a city that is alive and has no sense of what is appropriate at day or night. What needs to be done, gets done. And there's a little bit of peace in that. You go and relieve Orym from his shift and take watch. Orym, what have you been up to tonight? 
+LIAM: Pretty good night of sleep. I'd be the last, yeah? 
+AABRIA: I'm doing this out of order because I do what I want. You said you watched second so I'm going by that. 
+LIAM: Oh, okay, cool. (laughter) 
+AABRIA: Time means nothing. 
+LIAM: Well, I would probably keep an eye on the group, but also find a vantage point where I could look at the city as well, and appreciate it for its beauty and its differences from anything I've seen before now and probably spend a good bit of time thinking of the Summit Peaks, the familiar places there and its very different outlines and topography than where we are now. And not for the first time, and not for the last, question why I'm here, and wonder, again, if it would've been better if I'd stayed. Wonder what it is I'm waiting for exactly or if I'd even know it when I saw it. 
+AABRIA: Orym, you get up to the top of the building you're all staying in, a place known as Teak Hall, sort of a library and civic center where the Tetrarchs seem to meet and walk around and you're back up on the roof. You've been there before already. The red lamps are gone, but the sky is full of stars and the streets below are full of light. And you are in this interesting liminal space of darkness between the two, above and below. Make a perception check for me with advantage. 
+LIAM: I'm going to re-roll the natural one of those two. The other one was way higher. Yeah, higher than the first. 
+AABRIA: Okay. 
+LIAM: So that's a 20. 
+AABRIA: You look out past the light below you, past the light above you in that liminal, dark space and you can see out for miles. And you see to the south, past the very regular canopy of the jungle to just the very edge of a mountain range, Beynsfal Plateau: a new quest, potentially. Another place to go, something else to do. I'm not going to tell you how you feel about that in this moment, but you are here at this height being buffeted by the warm, humid breeze of the jungle, being blown in another direction. And then you feel a rustle of wind circle around your pocket. And you remember the heaviness there, the strange gift out of nowhere. A seed for you specifically. What are you thinking about in this moment? 
+LIAM: I feel like I have to protect these people I came here with. I'm just one halfling, but if there's anything that I still have held onto it's wanting to keep friends safe. And I, a little bit, don't feel like enough. 
+AABRIA: Under the vastness of the sky, it's hard, I can't imagine anyone could feel anything other... than small. (laughs) But there's a time to be blown by the wind and let fate move you. And there's a time to plant seeds and put down roots. But there's no one above or below that can tell you where you're supposed to be, Orym. And I know you know that in your heart. So you protect. You look out. You see the regular movement of soldiers and guards and people just trying to live their lives, and you are both removed from it and a part of it. It's just about deciding. 
+LIAM: Well, it's not time to stop yet. And I look towards the south. 
+AABRIA: It feels heavy and dark. But you're strong. And your watch-- Your watch goes very quickly, actually, and you are soon relieved by Fearne. You can go prepare however you think best, meditate. You know that the next day, the dawn will bring a new wind and a new direction. 
+LIAM: I actually go down to the group and still feel a little bit anxious. And I just pull myself to lay down and just breathe for five, 10, 15 minutes until I'm calm again. Be ready for tomorrow. 
+AABRIA: Mister, who woke up when Fearne got up, actually pads very quietly over to you and curls up beside you and matches your breathing. Hot, very-- Not uncomfortably, but just a little sweaty, hot breath. 
+ASHLEY: He's very good at meditating. 
+AABRIA: On the back of your neck and just scooches just close enough, not in a full cuddle, but just that little reminder. And you breathe. 
+LIAM: It's okay, buddy. We all feel the same. 
+AABRIA: He gives a little coo, quickly falls back to sleep. 
+LIAM: Shit, it's worth it. 
+AABRIA: Dorian. How do you spend your night? 
+ROBBIE: Right after our encounter, Dorian's somewhere between an existential crisis and a pity party. 
+AABRIA: Oh, tell me more! 
+ASHLEY: Story of my life. 
+AABRIA: That's too real, try again. Something fantasy and not my life, thank you. (laughter) 
+ROBBIE: He separated himself from the group a bit, and he is currently backtracking the course of the chase through all of the disaster and viscera of Fearne carrying a dead body down-- 
+AABRIA: A little bit. 
+ROBBIE: -- alleys. And he's very pathetically looking for his fucking axe that was left in the body. And his feelings are a little hurt that his friends forgot, but he would never say as much. Because this is something that's important to him. So he's just looking through all the broken carts and bloody shit just trying to find his axe. 
+AABRIA: Give me an investigation check. 
+ASHLEY: Did we not get that back for you? 
+ROBBIE: You didn't. 
+AABRIA: Oopsie. 
+ROBBIE: 19. 
+AABRIA: Oh shit, okay. 
+LIAM: There was a head, it was a whole thing. 
+ASHLEY: I was a wolf. 
+ROBBIE: It was a lot, there was a lot, nobody's worried about my axe. (laughs) There's a lot going on. 
+AABRIA: Roll... Roll a percent-- just give me a percentile die. 
+ROBBIE: Ooh. That's the one with all the big numbers, right? 
+AABRIA: Yeah, you're going to roll both the d10s together and give me the total. 
+ROBBIE: Okay, together? 
+AABRIA: Yep. 
+ROBBIE: Ooh, 90 and 20. 
+AABRIA: 90 and 20. Is one of those a single digit one, or did you roll two percentile? 
+ROBBIE: No, I did two percentile. 
+AABRIA: All right, we're going to call that a tidy 29. It's going to take you about half an hour of searching. And it's only because the fog seems to get a little lower the more you search and the more frantically you're retracing your steps. And you notice that as you turn down alleys where this fight took place, the alley light gets a little brighter and aids you in the search. Give me an arcana check. 
+ROBBIE: 14. 
+AABRIA: And as you sort of run back and forth, it is uncanny that your peripheral vision never quite seems to get rid of The Observer in your field of view. You find your axe. 
+ROBBIE: Huh. Pull aside a little viscera and a little cloth. 
+AABRIA: It's disgusting. It is in, I'm going to say, 17 pounds of a guy. (groaning) That's my favorite description I've ever made. 
+ASHLEY: You were proud of it, huh? 
+AABRIA: Thank you, actually really proud! (laughs) 
+ASHLEY: I'm proud too, that was good. 
+ROBBIE: Oh god, I hope that is not what I think it is. A little hair, ew. Some sort of hair. I sort of shake it off. Nothing to wipe it on. I grab something and just hitch it to my belt. And sort of-- (groans) The shaking of the-- I'm trying to shake the day away. Because the things that I saw really bothered me. I saw my friend Orym get hurt worse than I've ever seen him get hurt. I saw my other friend get stolen away and almost taken from us. And I don't even think it's right, but I'm feeling responsible for my choices and my actions that I felt made things worse. I went back to help my friend and I ended up just getting myself in trouble. So I'm really down on myself right now, as I sort of shuffle my way back to the courtyard and inexplicably go toward that thing in my peripheral vision that's drawing me. 
+AABRIA: As you sort of turn the corner and you're headed back towards the light of The Observer, before the full brunt of that light falls on you, I need you to make a wisdom saving throw. And you know what question I'm asking next? Where the fuck is the circlet? Who's got it? Okay, noted. 
+ROBBIE: Wisdom. 15. 
+AABRIA: With a 15. You keep trying to shake the day away, and you're wiping your face. And there's a lot of viscera your hands, so you're a delicate shade of purple now. But as one of your fingers comes free, it actually touches the inside of your eye. And you pull free a long strand of silk. Extends out the full length of your arm before it snaps and falls away. It gets lost against the light. 
+ROBBIE: That can't be good. Does it hurt? 
+AABRIA: No. You feel a little lighter for the loss of it, though. And your mind is still circling, spinning around. What you could have done, what value you drive. And you can hear the voice in your head that sounds so much like your voice, but colder and meaner than anyone would ever say to you personally. Just: "This is why your brother was meant to lead. He was born to it. You just get in the way. You're always in the way. Just a little bard tooting his little flute." 
+ROBBIE: And is this a thought or is it a voice? 
+AABRIA: Insight check on yourself. (laughter) 
+ROBBIE: Savage. 10. 
+AABRIA: For all intents and purposes, this is you, because it's not saying anything you don't know. "Everything you walked away from. And now you're here at the ass end of the world. Doing what? For what? They don't need you. Doing fine without you. They'd probably be better without you. You could be more valuable if you weren't such a coward." 
+ROBBIE: I think he just, um-- He starts to feel angry. That's not a feeling that he's used to. And he just, um-- He had every intention of going back and sleeping, but he just sort of starts walking through the city. 
+AABRIA: Yeah. 
+ROBBIE: Yeah. 
+AABRIA: "There's nowhere you can walk. There's nowhere you can go. I'm in here with you. You can't outwalk me." And then a little bit of light around the corner. That statue that never quite left your vision, but now the light of it flares up so bright that you have to turn your head. And for just a moment, you think you hear the voice-- your voice in your head?-- gasp with surprise. It's quiet. What do you do? 
+ROBBIE: I go toward the light a little closer. 
+AABRIA: You're an air genasi, so your interplay between the air around you and the air that sort of attends you is strange. And you see that maybe a meter in front of you the wind sort of pushes the fog away, clearing a path for you to head towards The Observer. This massive beautiful statue of light that seemed so alien before, but now feels warm without being overbearing. 
+ROBBIE: He's hip on signs, he'll follow it. 
+AABRIA: When you get there, in the full glow of the statue, the only sound you hear, you're not sure if it's coming from within or without, some intersection of weather or the hiss of the world, so alive beyond the walls, but you just hear a little-- (shushes) And it's quiet, and it's calm. And you look around and you can see the doubling, tripling of the guard in the streets. You can see, out and away, the beginnings of construction workers going to bolster and rebuild the city, but you don't hear it. It's quiet. 
+ROBBIE: I'm going to walk up to the statue and sit at its feet, and pull out my lute and try to fill the silence with some kind of song. 
+AABRIA: Make a performance check for me with advantage. 
+ROBBIE: That's a natural one. 
+AABRIA: Oof, did you roll with advantage? 
+ROBBIE: Advantage, yay, I didn't! It's a five, with plus six, an 11. 
+AABRIA: Hey dog, don't you have some inspiration, maybe? 
+ROBBIE: You gave me that! I'm going to do it, I'm want to play it! 
+AABRIA: I'm just trying to help you. I mean, you can be mediocre at this, if you really want to. 
+ROBBIE: Okay, 18. 
+ASHLEY: There we go. 
+AABRIA: Okay, okay, okay. 
+ROBBIE: Bye, inspiration. 
+AABRIA: We're trying to curate a moment and I need the dice to tell the story we're trying to tell, so y'all need to shape up! 
+ROBBIE: But hey, it's all the things you told me to do! 
+AABRIA: Vibes. (laughter) And you begin to play. And it's actually a little rough at first, because you are a little loath to break the silence. Music is so soothing, but in this moment, quiet is soothing, too. But eventually, muscle memory comes back, and a soft and lovely song fills the air. Swirls the fog that's settled down a little lower. You feel as though the light has dimmed a little bit. It's calmed a little bit. You could swear you hear the low rumble of a purr. Steady and calm and low. And you doze off for just a few minutes. And you wake up and you know it hasn't been that long. The world hasn't changed around you. The sky is still immeasurably wide and full of stars. And the people that are up at this strange hour are still moving around, but you have the effects of a long rest. And the purring stopped. And the world comes up to normal volume again. But for now, at least, the voice in your head, most definitely not your voice, not entirely, has been abated in the light of The Observer. And you can move on with your night. Anything else you want to get up to? 
+ROBBIE: I feel better, strangely. I'll go back to our place where we're staying. Try to get some rest. 
+AABRIA: Yeah, you get back to the room, you can get a little more rest even though you're feeling pretty good. And you're just very aware of the gravity in Dariax's bag across the room. Almost in a parallel to that sense of never losing The Observer in your peripheral vision. You can never quite escape that little bit of lean towards the circlet, towards that vestige. But the night goes unabated, and the sky eventually lightens and a new day begins. It's a little overcast, it looks like rain is threatening. 
+MATT: Long rest, then? 
+AABRIA: Long rest. 
+ASHLEY: Oh, how did everybody sleep? 
+MATT: I'm still asleep. 
+ASHLEY: How about you guys, did you sleep okay? 
+LIAM: All right, monkey let me use his belly as a pillow. 
+AIMEE: Aww. 
+ASHLEY: Oh good. Opal? 
+AIMEE: Yeah? 
+ASHLEY: Are you okay? 
+AIMEE: I don't know. I don't know. I feel really sad. And then she remembers that she stole that ring from the corpse and she pulls it out and looks at it and there's still blood on it. And she really wants to put it on, but I don't know. 
+MATT: (demonic whispering) 
+AABRIA: Who you looking at? (laughter) 
+AABRIA: Yeah, the ring began saying, "Oshkosh B'gosh." 
+AIMEE: Oshkosh B'gosh! (laughs) 
+LIAM: Boom, you're in overalls. 
+AIMEE: For toddlers and teens! 
+AABRIA: It's hella comfy, though. 
+AIMEE: I had Oshkosh B'gosh, baby! 
+ROBBIE: If anybody can get the ring of Oshkosh B'gosh, put it in D&D. (laughter) 
+AIMEE: It came with the overalls. She wants to put it on, but there's blood all over it. And it just, I don't know. It's almost like she's dissociating, that's how I feel. Like she's disassociating-- dissociating, I don't know the word, but like-- 
+AABRIA: I don't remember, I say the wrong one every time. 
+AIMEE: Just imagine I said the right one. 
+AABRIA: Yeah, for sure, we'll put in post. 
+AIMEE: There's just too much that has happened that is very confusing to her. I think she has so many questions and doesn't know where to start. So for now, she'll just stare at it and then put it back in her pocket. 
+AABRIA: None of you need to make an insight check to see that. That just happened. (laughs) 
+ROBBIE: Is there a place where we can get food somewhere near where we're sleeping? 
+AABRIA: Yeah, like I said, you're staying in this civic center hall. So the moment you open the doors properly for the start of the day, you see a couple of guards posted at the end that perk up when you look out the door. 
+ROBBIE: I'm going to wake up and walk toward wherever there's food. I just leave the room without saying anything. 
+AABRIA: "Oh, hey, ah." Kind of gives you a look. 
+ROBBIE: Food, d-d-drink? May we--? 
+AABRIA: "Oh, yeah," and they like do a little artful flip of their spear and point down the hallway to the left and the staircase. 
+ROBBIE: Thank you, that's good. Go down, yeah, be back a second. 
+AABRIA: Yeah, and you're able to go down and you see that there's a set of-- It's a long, narrow hallway, but it's just a long kitchen that's beginning to prepare food for this entire civic center. Like the sort of coffee continental breakfast of morning meetings and a couple like-- 
+AIMEE: Poppy seed bagel. 
+AABRIA: Yeah, right. Just some real generic, only kind of good food that's in bulk and a lot of fresh fruit. And they're like, we're not going to try that hard. 
+ASHLEY: Really hard cream cheese that you can't spread. 
+AABRIA: You see a couple covered trays going to specific people. And it's nicer food, but not for everyone. Get a little look from a cook, it's like. (hisses) Runs out and away. Go shuffle it off. 
+ROBBIE: I'm want to try and swipe some wine. 
+AABRIA: Ooh! 
+ROBBIE: Can I try and swipe some wine? 
+AABRIA: Are you trying to steal it, or are you going to ask someone about it? 
+ROBBIE: Why did I go straight to steal? 
+AABRIA: You said steal! I love a steal. 
+ROBBIE: I'd like to try a sneaky and steal some nice, morning wine. 
+AIMEE: Morning wine, you know the kind. 
+AABRIA: So my question for you is-- 
+MATT: Proper breakfast. 
+AIMEE: A proper breakfast. 
+AABRIA: Are you going full, I'm just a boy being a ninja in a kitchen, or are you trying to blend in and be like, I also go here making-- It just-- Is it going to be a stealth check, or a deception check to blend in? 
+ROBBIE: It's going to be horrible. I am just going to throw a towel over my forearm and pretend to be a waiter. 
+AABRIA: Vibes, give me a deception check! 
+ROBBIE: Okay. (laughs, groans sadly) (laughter) 
+ROBBIE: Seven! (laughter) 
+AABRIA: You get into the center of the kitchen, and in this big, metal basin, you see a bunch of ice and bottles. Like water, and juices, and couple breakfast wines. Mimosa vibes in Niirdal-Poc, let's go. 
+ROBBIE: That's what I'm trying to make happen. 
+AABRIA: Yeah, yeah, yeah, and as you lean over you-- 
+ASHLEY: It's breakfast wine, it's a thing. Have it everyday. 
+AABRIA: As you lean over you hear a little, "Ahem." And you turn and your eyeline goes up to an older female bugbear that's staring down at you, full apron, big hat. "Hi." 
+ROBBIE: Hello. 
+AABRIA: "Hi." 
+ROBBIE: Hi. 
+AABRIA: "You're in my k-- Who are you, what is this?" 
+ROBBIE: I am a waiter here for the breakfast wine? To serve to the customers? 
+AABRIA: "And which customers would those be, hmm?" 
+ROBBIE: Oh. Five adventures in the living quarters. They're guests of Thrascuur's? 
+AABRIA: (whispering) "Shit." Make another deception check. 
+ROBBIE: Natural 20! I remembered the name! (cheering) 
+ROBBIE: ♪ I remembered his name ♪ (laughter) 
+ASHLEY: ♪ I remembered his name ♪ 
+AABRIA: Their name, but yeah. 
+ROBBIE: Oh, sorry, sorry! 
+AABRIA: It's all good, they accept all pronouns, but you've only heard "they." Yeah, and she stares down at you and you can see her hackles beginning to raise as she goes, like, maybe she's about to go into a rage of you coming in and lying to her in her kitchen, and then you say the magic words: the truth. And she goes-- 
+ROBBIE: Probably could've just asked. 
+AABRIA: Yeah, and she's like, (groans) "Fine, fine. Did they ask for anything else? Are they needy?" 
+ROBBIE: Just a few pieces of citrusy fruit, maybe. 
+AABRIA: "Okay. And you're dealing with them? You got them covered personally?" 
+ROBBIE: I have the towel. I am the waiter. 
+AABRIA: "I don't-- okay. That must be a thing from farther north in Gwessar. Sure. Well, you come tell me if they don't give you a tip and mama'll take care of it for you." 
+ROBBIE: Thank you so much. 
+AABRIA: "All right." And she turns and storms down the kitchen, yelling about warm beverages, and completely leaves you alone to grab whatever you want. 
+ROBBIE: Yeah, I'll grab a couple jugs of what looks like the coldest, whitest wine. 
+AABRIA: Yep. 
+ROBBIE: And a few fresh pieces of fruit, and stick it in my apron, and scamper back upstairs to the gang. 
+LIAM: You actually find that Orym had followed and is at the bottom of the stairs. 
+AABRIA: Oh snap! 
+ROBBIE: Dad! 
+AIMEE: Ayo! 
+LIAM: I was waiting for the moment to drop in, but too much was happening. So when you turn and find him there he says: That was a journey. Let me help you carry it. 
+ROBBIE: Yeah, yeah, yeah. 
+LIAM: Come on. You should've just asked next time. 
+ROBBIE: I probably should have. 
+LIAM: And as they're walking up and back: Did you sleep okay? 
+ROBBIE: Mm, all right. How about you? 
+LIAM: Yeah, fine. 
+ROBBIE: I'm sorry about yesterday. 
+LIAM: What? 
+ROBBIE: I feel like I put you in danger. 
+LIAM: That wasn't your fault. You were doing your best. Moments like that, there's no controlling what can happen. You just set your sights on a goal, you try to do what's right, beat by beat, and hopefully it shakes out in the end. I saw you out there; you were giving it your all. 
+ROBBIE: Orym, from anyone else, that would sound condescending. 
+AIMEE: (laughs) 
+ROBBIE: But I know you mean it. Drinks? 
+LIAM: Not usually at this hour, but sure. 
+ROBBIE: Yes! 
+LIAM: Let's find the others. 
+ASHLEY: (gasps) Breakfast wine! 
+AABRIA: Before you get back-- (laughter) 
+ASHLEY: My very favorite. 
+AABRIA: You don't have to get ready when you stay ready. I respect that. 
+MATT: (slurred) It's a balanced breakfast. 
+AABRIA: Orym, you notice this because you have an insanely high passive perception, but go ahead and give me a perception check as you pass the guards coming back up and moving back down the hallway. 
+ROBBIE: 19. 
+AABRIA: Oh, you both clock it. A subtle changing of hands of currency as they both sort of inspect you and neither of you look injured or cowed, and they're like, "She didn't kill them, that's amazing." And they go back into their posture and let you pass. 
+LIAM: VIPs. 
+AABRIA: Hey, but yes, you make it back to the room. 
+LIAM: I'd like to think that Fearne, like a squid in fear expelling ink, just Faerie Fired at the sight of wine. (laughter) 
+ASHLEY: Yeah. 
+LIAM: Breakfast wine! (poofs) 
+ASHLEY: Ooh! (laughs) 
+AABRIA: Mister's spitting glitter out like, (coughs) (laughter) 
+ASHLEY: Good morning, Dariax. 
+MATT: (panting) Dorian's in trouble! Oh, you're fine, never mind. That was a weird dream. Morning, everybody! (sniffing) 
+ASHLEY: Breakfast wine. 
+MATT: That's what I was going to ask about, hell yeah! 
+ROBBIE: And I'll start pouring glasses for everyone. And passing them out. 
+ASHLEY: I get a little thimble full for little Mister. 
+AIMEE: Aww. 
+ASHLEY: There you go. 
+AABRIA: He goes to throw it back. It's got a higher proof than you expect-- 
+AIMEE: Oh no! 
+AABRIA: -- and it just flares up and never hits his mouth. And he's like, "Again." (exhales) Just throws the thimble and sits down. Eats a piece of fruit. 
+ROBBIE: From where I'm from-- I'm going to walk around with the fresh juice and give everybody a little squeeze in their breakfast wine. 
+ASHLEY: Wow, I've never had that before. 
+MATT: A little trick from where I'm from. I take the rind of the squeeze thing and I peel out the fruit part, put it in my mouth. (slurred) It's like my teeth! (laughter) 
+ASHLEY: That's funny. 
+LIAM: That's a good one. 
+MATT: He's going to hold it way too long. 
+ROBBIE: It's funny. 
+MATT: You can do it, too. 
+ASHLEY: Sure. 
+MATT: Not the same-- well, sure. 
+ASHLEY: Is it working? 
+AABRIA: Mister only laughs when you do it. (laughter) 
+MATT: I glare at him. 
+AIMEE: The beef. 
+ASHLEY: I think-- I think we should probably talk about some things. I don't understand why those people were trying to take you. 
+AIMEE: I don't know either. I have no idea. She said something about, I don't deserve something, but I don't remember the rest. I kind of blacked out when I grabbed the head. 
+MATT: You don't deserve that immaculate sense of style. You don't deserve those sparkling tones in your eyes. You don't deserve hair that looks that good first thing in the morning. I'm just spit balling here. 
+AIMEE: Thank you, that's very nice. I don't know, I don't-- Maybe because I was rude to her that one time? But give a girl a break, sometimes you're just in a bad mood. 
+ROBBIE: Well, that seemed targeted. They were after you. They were targeting you, right, Orym? 
+LIAM: Absolutely. 
+AIMEE: I mean, what would I have that she would want? 
+LIAM: Something to do with Ted? 
+AIMEE: I don't know. I can't seem to reach her anymore. 
+MATT: Wait a second. Was she also a contestant in the pageant in Byroden? Is this a vengeance play? 
+AIMEE: I don't think so. 
+MATT: Okay. 
+ROBBIE: Seems unlikely. 
+AIMEE: That would make me feel better if it was. I don't know, I mean, who could we even ask? Do we just wait around for it to happen again? I mean, I don't know. 
+MATT: I'm not really a fan of waiting around, ever. Which, to that point, what's the plan, friends? We're down one fiery, much more powerful person than me. We heading back? We figured out what that symbol was for. We can just take it back to Mr. Gilmore and give him back his glitter shitter maybe. Are we hanging here for a bit? It is very nice, not going to lie. Kind of one of the best places I've met in Tal-- sorry, Gwessar. 
+ROBBIE: I do think we're safe where we're at. 
+LIAM: Well, it's where they came after Opal. So I would recommend leaving. 
+ROBBIE: I meant where we're at right now, like this room. I think, maybe-- 
+LIAM: This room at the moment? Yeah. 
+ROBBIE: But not the city, no. 
+AIMEE: I know this sounds crazy, but I kind of want to go home. 
+ROBBIE: Home? 
+AIMEE: Yeah. 
+ROBBIE: Why? 
+AIMEE: I don't know. I thought this was going to be different. I thought I was going to, I don't know, do something... else. And all I've done is just piss my sister off, and get myself kidnapped, and get you guys hurt. It's really not what I thought it was going to be. 
+MATT: Few things are, but if I'm going to be honest, you know, we all kind of got ourselves hurt, but we also kind of kept each other alive. And I have never seen anybody put a massive fey gator on its back to sleep. 
+ASHLEY: That was incredible. 
+MATT: Say what you want about your insecurities, that is a tale that I'm going to be telling for at least a week to anybody will listen. 
+AIMEE: Thank you. 
+LIAM: Seems like maybe you're getting a wrangle on things, but we've all seen what you're capable of. 
+MATT: Yeah. 
+LIAM: You'll figure it out. Just give it some time. 
+AIMEE: Okay. 
+ROBBIE: I think we're all doing our best. That's all we can do. 
+ASHLEY: I agree. 
+AABRIA: (knocking) You hear at the door. 
+LIAM: I wonder if we stick to the idea of going and finding their missing Tetrarch. 
+MATT: Sure, I'm in. 
+LIAM: Only because we can't stay here. If we go back, whoever those people are, they've probably been eyeballing us for a little bit to get a sense of where to hit you. 
+AIMEE: Yeah. 
+LIAM: So let's just throw a curve ball. Let's drink this wine, say any goodbyes we need to and go, and figure it out on the road. 
+AIMEE: Okay, I'll need some more of that wine, though. 
+AABRIA: The knock at the door gets a little louder. 
+LIAM: Hello? 
+AABRIA: And the door opens and you actually see Tetrarch Thrascuur ducks a little bit to come in. "I'm sorry, I overheard a little bit. I have very big ears." 
+MATT: Valid point. 
+AABRIA: "So your plan is to go south, then?" 
+MATT: Right? 
+ASHLEY: I think we're trying to figure it out right now. 
+ROBBIE: We seem to make enemies in every city we go to. Wilderness feels just as safe as anywhere else. And we might be able to help you. 
+AABRIA: "I appreciate that very much. You are friends of Fy'ra Rai, and therefore friends of the city. And we will trust you all implicitly with our secret. Keep it or don't. Whatever happens is meant to happen." They reach out and attempt to grab your hand. If you let them. "You are in so much pain. The only way out is through." 
+AIMEE: Okay. 
+AABRIA: "You are so much stronger than you know." 
+AABRIA: And you see that on their face, they have a lot of interesting geometric patterns in white sparkling paint, including a big crescent moon across their forehead that dips below their eyeline and at the center of that, a little dark maroon, ruddy circle, the two moons. This is a cleric obsessed with the night sky. And as your eyes lock on it, the rest of their features fall away just a little bit. And the moon gets a little brighter and you feel a little breeze around you, like it was the middle of the night. As Thrascuur offers their blessing to you, take five temporary hit points. 
+AIMEE: Take five hit points? 
+AABRIA: Yeah. 
+AIMEE: Oh shit. Kick a girl when she's down. 
+AABRIA: What? No, that's a boon. 
+AIMEE: Oh, I thought you said to take them. Like take off. 
+AABRIA: To have, as in to have. 
+AIMEE: What kind of fucking blessing is that? 
+AABRIA: You know, a blessing where you just get kicked in the shins. 
+AIMEE: I was like, damn. 
+AABRIA: (laughs) 
+AIMEE: Okay. 
+AABRIA: What an energy. 
+MATT: They go hard here in [inaudible], man! 
+AIMEE: I was like-- 
+AABRIA: They take your hand-- 
+AIMEE: Oh, oh, I got it, I got it. 
+AABRIA: -- and fuck you up. 
+AIMEE: I was like, "Okay." 
+AABRIA: Wild. 
+LIAM: Slaps you with an ear. 
+AABRIA: You were so chill about that, like, "I guess." 
+AIMEE: I guess. 
+AABRIA: Thank you, it was very kind. 
+AIMEE: I mean, oh, thank you, I appreciate that. 
+AABRIA: And they give you a little nod. "The road ahead is always hard. But you're strong enough to meet it. Just keep going." 
+AIMEE: Okay. 
+AABRIA: "Okay? Thank you. We can offer you a map." 
+LIAM: I was going to ask. 
+AABRIA: "Yeah, the jungle's kind of alive. So we'll do our best." 
+LIAM: Map, little parting advice, maybe. 
+AABRIA: "Yeah. If you follow Surrac's Shield, the constellation in the sky, it will lead you to one final ruin, the southernmost bit of what was once the Tetrarchy, a place called Niirdal-Sarqet" 
+LIAM: Niirdal-Sarqet. 
+AABRIA: "From there, it's two days to the river. And another week pass to get to Beynsfal. Just keep going south. Once you reach the river, travel at night. Stay as quiet as you can and stay safe. We'll load you for bear with whatever supplies you think you need." 
+MATT: So is Beynsfal another cool, mysterious and hard-to-find city with-- 
+AABRIA: "No, no, it's a mountain range." 
+MATT: Okay, okay. Great. Mountains, fun. It's is where I got ancestors from. 
+ASHLEY: Oh. 
+AABRIA: "I wasn't going to say, but-- There are other dwarves down there, too." 
+MATT: Oh! 
+AABRIA: "No judgment, they're just other dwarves." 
+MATT: No, fair enough. 
+AABRIA: "The Iron Authority is-- It's not a kind place. They worship the gods known as Betrayers. And seek to reclaim what those ambitious deities lost. It's only through infighting and the luck of geography and the blessings of the Wild Mother that their incursions northward mostly have come to nothing. But. If you find Umejii, she will-- she will guide you and keep you as you find out what's happening, what thing waits for my people, our people-- you are a part of this now, too. So thank you, again." 
+ROBBIE: Does that mean we can come back here even without Fy'ra? 
+AABRIA: "The way is open to you now." 
+ASHLEY: I won't tell anybody about this place ever, I promise. 
+MATT: I don't remember how we got here, so safe with me. 
+ASHLEY: There's that, too. 
+AABRIA: "Yes." 
+AIMEE: How will we know what Umejii looks like? 
+AABRIA: "You'll know. She's incredible. Well, I have many things to attend to. Most of them sleep because I'm kind of nocturnal because I like moons. But thank you. It has been an honor to know you and I hope to see you again, safe and whole, very soon." 
+AIMEE: Thank you. 
+AABRIA: And they give a little bow and leave from the room. And a minute after that, you are assaulted by waves of actual waiters, none of which have towels over their arms, because that's very weird. (laughter) 
+AIMEE: ♪ Suspicious! ♪ 
+AABRIA: Who are-- They've given you months' worth of rations. So you can take as much of it as you want. 
+ASHLEY: Oh yeah. 
+ROBBIE: Nice. 
+MATT: I'm holding bits of rations together by jamming them in the crown using it almost like a wrapping to it. A piece my mouth. What? 
+AABRIA: Wisdom saving throw, we got to do it! 
+MATT: Yeah, yeah. (laughter) 
+AABRIA: Thank you. 
+MATT: Yeah! Four! 
+AABRIA: Amazing! (groaning and laughter) 
+AABRIA: You are just huckin' flat bread and jerky into it, not really cognizant of the fact that everything touching the inner rim of the circlet is immediately rotting. 
+AIMEE: Oof. 
+AABRIA: Then you put some of it in your mouth, and you feel it turn to ash and dust within. You open your mouth again, and tiny baby spiders, freshly hatched pour-- 
+LIAM: No. 
+AIMEE: Oh god. 
+LIAM: Nope! No. 
+AABRIA: Yeah. 
+MATT: Uh! 
+AABRIA: You're going to eat spider jerky, what? 
+MATT: Buh-- 
+AABRIA: Yeah. 
+MATT: We're going to-- 
+AIMEE: That's disgusting. 
+MATT: That's going to be a Sacred Flame right now on me. (shouts) Just like-- It is a nightmare. 
+AABRIA: You notice that the little spiders seem to reject the fire part of Sacred Flame. But the sort of glittery edge, that radiant damage absolutely lights them up and they go up with a audible scream. 
+AIMEE: (groans) 
+MATT: Okay, general note, evil crown not good for food carrying. Apologies, avoid that flat bread and I kick it in the corner and hide it with a blanket. That's not my problem anymore. 
+LIAM: I approach-- 
+AABRIA: The blanket moves. 
+LIAM: -- one of the folk who've brought food and say: Do you have maybe a burlap sack, or a couple of sacks or maybe five sacks? 
+AABRIA: "Yeah, what's burlap?" 
+LIAM: Just something-- a thick, thick, thick sack that can hold in heat or cold. 
+AABRIA: "Oh." 
+LIAM: Just a bag, just five bags. 
+AABRIA: "Yeah, you want bags. We can bring bags." 
+LIAM: Big bags. 
+AABRIA: "You could just ask for bags. I'll get you bags. How did you get here without bags?" 
+LIAM: I grew up on burlap. 
+AABRIA: "I don't know what burlap is." 
+LIAM: Sorry. 
+AABRIA: "No, it's okay." 
+MATT: Great philosopher, to the north of here in Gwessar. 
+AABRIA: "Okay, I'm sorry if I was disrespectful about burlap." 
+LIAM: He's fucking with you. 
+AABRIA: "Bags." And she turns and runs out of the room and comes back with these very-- it's super insulated crocodile leather. It's lined with a very heavy fabric on the inside, so it's going to hold whatever temperature you put in pretty well. 
+AIMEE: Nice. 
+LIAM: Thank you. 
+AABRIA: "Bags." 
+ASHLEY: Great. 
+AABRIA: She throws your bag. 
+LIAM: I just start throwing, one, two, three of them hard. 
+MATT: (exclaiming) Tucking them in. 
+LIAM: Double bag it. 
+MATT: All right, all right, it's super, super bagged now, I got it, sorry, no food. 
+AABRIA: "I heard you guys are going to go find the Tetrarch? I'm sorry, I'm sorry, bag interaction is done. I will get going." 
+ROBBIE: Wait, wait, wait. 
+AIMEE: No, that's okay. Why don't you tell us what you think about that? 
+LIAM: What's the scoop? 
+AABRIA: "Oh, no, I just-- A friend of mine was wondering if you could deliver a letter on her behalf." 
+MATT: Do I trust them? 
+AABRIA: Insight check. 
+MATT: Yeah. Zero. 
+AIMEE: We got to get you new dice. (laughter) 
+MATT: Natural one. Minus one. 
+AABRIA: Insane. (laughter) 
+AABRIA: This is definitely some sort of murder thing that's about to happen right now. 
+MATT: No, thank you, we are good to travel on our own, agent of darkness. 
+AABRIA: "Whoa, okay," and she just turns, this little feline looking, a young girl, probably 12, drops the envelope she was holding and runs away. 
+MATT: I take it. You're all lucky I'm around. 
+AIMEE: I've never seen you get that mad before. 
+ASHLEY: How did you know? 
+MATT: I got an instinct for these things. 
+ASHLEY: Oh. 
+ROBBIE: Why don't you put that in the bag? 
+MATT: Oh, right, right. 
+AIMEE: Don't put it in the-- 
+AABRIA: Orym, give me a history check. 
+MATT: Here, Opal, you hold onto that. Careful, might have poison in it. 
+LIAM: 19. 
+AABRIA: You recognize her voice. You heard her giggling. 
+LIAM: Upstairs? 
+AABRIA: Mm-hmm. 
+LIAM: But she's gone now? 
+AABRIA: Yeah, she booked it. I think accused of being an assassin is a lot for a 12 year old. 
+LIAM: Right. 
+AIMEE: I have the letter in my hand. 
+LIAM: Or a glow up. 
+AIMEE: Should I open it? No? 
+AABRIA: It is sealed with a little wax. 
+AIMEE: Oh. 
+ASHLEY: I mean, we could technically still open it and-- And make it look like it wasn't opened. 
+ROBBIE: I have an idea. 
+ASHLEY: Oh. 
+ROBBIE: Yeah. Mister, come here, come here. And I take the letter. Mister, Mister. (breathes) Just a little bit and then I'll hold the letter up-- 
+AABRIA: Animal handling check. 
+ROBBIE: Shit! 
+MATT: Dariax is going to tell everyone to step back. 
+ROBBIE: Don't let me light this letter on fire. Oh! 11. 
+AABRIA: Natural 20. He rears back and takes a big breath. (inhales) And you see him realize what's being asked of him and you see him finally take a mature choice, to not immediately screw this up. And he just goes-- (small air puff) And a little puff of hot air comes out and it melts the seal. 
+ASHLEY: Oh, that was impressive. Yeah. 
+ROBBIE: It's your monkey. 
+LIAM: I jump and snatch the letter. 
+AIMEE: Aw! 
+MATT: Don't put your fingers on it! It could have one of those contact poisons. 
+LIAM: And I exit the room and try to find this kid. 
+AABRIA: Oh yeah, for sure. I'm not going to make you make-- your passive perception is high enough that you see the flick of her tail going around a corner down the hallway to the left in the opposite direction. 
+LIAM: Hey, excuse me, sorry, letter, a letter. 
+AABRIA: And her little eyes peek back around the corner, giant, green. "Hi. I'm not an assassin." 
+LIAM: Are you sure? I know you're not an assassin. We'll take the letter. 
+AABRIA: "Thank you." 
+LIAM: What's your name? So we can say. 
+AABRIA: "Neera. I remember you from downstairs. I think. We were listening." 
+LIAM: Heard some giggling upstairs. 
+AABRIA: "That was me and my brother." 
+LIAM: Well, we'll get this to them. Do you want me to add any words to the air when we get there or just the letter will do? 
+AABRIA: "I don't know what the letter says." 
+LIAM: Who's it from? 
+AABRIA: "Oh, it's from Elam." 
+LIAM: Oh. Okay. 
+AABRIA: "I think she likes her." 
+LIAM: Got it, got it. 
+AABRIA: "Don't tell, though. I'm a master of reading a room." 
+AIMEE: (laughs) 
+LIAM: Let's just keep the illusion together. 
+AABRIA: "Yeah." 
+LIAM: They're scared of you right now because of the whole-- 
+AABRIA: "I'm so scary." 
+LIAM: Yes. 
+AABRIA: (growls) And she goes to do claws out and then she pushes her toe beans and makes her claws pop. "Okay, one side. Got it. (growls)" 
+ASHLEY: Aw, toe beans. 
+AIMEE: That's cute. 
+AABRIA: "I'm an assassin." 
+ASHLEY: She tough. 
+LIAM: I'm roughly the same size. I hold out my hand and say: I'm Orym. 
+AABRIA: "It's nice to meet you." 
+LIAM: It's nice to meet you, too. 
+AABRIA: "So you're going to go where it's scary?" 
+LIAM: That could be so many places, yeah. We're going to go south. 
+AABRIA: "Okay." 
+LIAM: Any advice? 
+AABRIA: "I've never been outside the city." 
+LIAM: Ah. 
+AABRIA: "Ooh, I do have one. There's berries and the red ones are bad, the green ones are when they're ripe. I don't know if that helps. Because they grow in here, too, and maybe they don't grow farther south. I don't know." 
+LIAM: I'll-- 
+AABRIA: "That's the only thing I know. I'm very bad at outside." 
+LIAM: We'll see you when we head back north. 
+AABRIA: "Okay. If you leave for good and you don't come back and say bye, I will find you, and I'll kill you." 
+LIAM: We'll totally-- if we don't, we've been horribly killed. We probably won't be horribly killed, though. I'll see you soonish, probably. 
+AABRIA: "Okay?" You can see she's a little, don't die, please. 
+LIAM: It's all right, I'm really (whoosh)-- I'm really good with this. 
+AABRIA: "Cool, teach me how to do that when you come back." 
+LIAM: Deal. 
+AABRIA: "Yes, I'm an assassin!" She just takes off down the hall. (laughter) 
+LIAM: And I turn and rejoin. 
+MATT: See, it's not the people with the crossbows you got to worry about, it's the kids that get past all the defenses, they're the ones that topple kings. Trust me, I heard a few stories about that. 
+ASHLEY: Me too, me too. 
+MATT: If you're trusting, you're gone. Letter poison in your body. Pulsing your skin, heart stops, boom, dead. And I'm just, I just, you know, I'm going to miss Orym. He was a fine friend and a warrior and it's a shame that he was taken in by this. Hey, what's up, buddy? 
+LIAM: Don't want to mess with that kid, she has claws. 
+MATT: Right? 
+AIMEE: You called it. 
+ASHLEY: I like her. 
+ROBBIE: What's the letter, Orym? 
+LIAM: She doesn't know. It is from our host at dinner last night. 
+MATT: Elam's the assassin? 
+ROBBIE and AIMEE: No. 
+LIAM: Turns out. 
+MATT: We got to go, this place is starting to freak me out. 
+ASHLEY: Okay, so you have the map. 
+LIAM: I have the map. 
+ASHLEY: Do we take the glitter shitter or that's, we're going to leave that alone? 
+LIAM: I think that probably-- 
+MATT: I think we sent that back. 
+ROBBIE: We sent it back. 
+ASHLEY: We sent it back. 
+LIAM: Yeah. 
+AIMEE: It's the breakfast wine. 
+ASHLEY: Yeah, yeah. 
+ROBBIE: It's gone to your head. 
+ASHLEY: I remember that now. 
+AABRIA: That little bit of juice in there tore you up. 
+AIMEE: Yeah, yeah, yeah. 
+LIAM: I hand out water to everybody. 
+MATT: Four sparkling light sangrias later, we're all just like-- (laughter) Where are we goin'? (laughter) 
+LIAM: Balance it out, pace yourselves, pace yourselves. 
+AABRIA: All right, on that note, then. You are able to make your way out of the city on foot through the southern-- 
+MATT: I will-- 
+AABRIA: Oh, go ahead. 
+MATT: -- if I can, take just a little glass of some of the wine, take one of the little slices of fruit and just keep it tucked away and as we're making our way past one of the statues of The Observer, I set it out in front and be like: (whispering) Breakfast wine. 
+AIMEE: Oh man. 
+AABRIA: Give me a charisma saving throw. 
+AIMEE: If I don't see them together-- (laughter) 
+AIMEE: Woo! I'm going to be mad. 
+MATT: 18. 
+AABRIA: Okay, noted. All right. 
+MATT: All right. 
+AABRIA: You see nothing changes visibly. 
+LIAM: Hey, god statue, can I buy you a drink? (laughter) 
+AIMEE: Hey. 
+MATT: Hey, if don't shoot your shot. 
+AIMEE: Shoot your shot, baby! 
+AABRIA: Let's go. 
+ROBBIE: It's an "offering." 
+MATT: Yeah. 
+AABRIA: You're able to make your way down south. 
+ASHLEY: ♪ Makin' my way ♪ 
+AABRIA: Yeah, who's leading our adventure? Nasty kids in the back. 
+LIAM: Well, here's the map. 
+MATT: Oh, right, yeah, that'll help. 
+ROBBIE: Yeah, we have map. 
+LIAM: Here's where we are. 
+AABRIA: This map is deeply unhelpful. 
+LIAM: Can I read anything on it? 
+AABRIA: So, this is a-- There's two versions. There is the modern map that's laid on top with a very thin vellum, that's very blank and is just like: There's jungle! And then eventually, there's a little X where you see that's set a little bit off to the east, but almost due south, is the ruins of Niirdal-Sarqet and beyond that, just the river beyond and then the mountain range and Tz'Arrm at the very bottom of Tal'Dorei and the older map has a bunch of routes and paths starting from the very city gate and the moment you left the gate, you're like: Oh, this is from forever ago, and all of this is overgrown. So there were ancient paths and roadways and you can see what the travel circuit used to be in ages past, but it's mostly just jungle. Head south, you'll hit shit that's important. 
+LIAM: And we were told to track a constellation-- 
+AABRIA: Yes, Surrac's Shield. 
+LIAM: -- to help us get to-- Surrac's Shield-- to get to Niirdal-Sarqet. 
+AABRIA: Yep. 
+LIAM: So that's what we'll do. It's day now, so we'll look for that at night, but right now we'll just-- Plunge in. 
+AABRIA: Beautiful, give me a survival check with advantage. 
+LIAM: 19. 
+AABRIA: Oh yeah. It is very easy to cut a path through the woods. You've been watching Fy'ra Rai as you came down from the north and the southern jungle seemed to be a little less oppressive, or the jungle is no longer fighting you. And it feels much closer to the thousands of miles that you put in before you ever met this group. It's wild, but not hostile in the same way, and you're able to make very quick time. That was a very good roll. I'll elide extra navigation. You're able to get to early evening and you see that up in the sky, it was overcast and cloudy, and yet, as the stars began to come out, you see a very auspicious break in the clouds that allow you to see Surrac's Shield and recalibrate your trajectory from due south to just a little bit east. 
+ROBBIE and AIMEE: Mm! 
+AABRIA: That's a little shout out because someone appreciated a drink being bought for her. (laughter) And after another day of travel, you make it towards a ruin. And I will read my little thing. You see a break in the trees and tall, unnaturally straight silhouettes in the distance. There's movement, too, but no sound. You notice even the low level murmur of the life in this jungle, in this place, has seemed to shrink away from this location. Fearne, specifically, the hairs on the back of your forearms and on the back of your neck seem to stand on end as a sensation of arcane static washes over you. 
+ASHLEY: (gasps) 
+AABRIA: You move past the tree line, and see a shattered, 20-foot tall set of pillars encircling a tremendous sight. They form a ring around a massive stone-- elaborately carved stone cube, that is floating 15 feet in the air above you. It's 30 feet in every direction, a building suspended on the very air, slowly rotating. All of it is set over a massive circular plinth. And I'm going to do my best to do this well. 
+ROBBIE: Ooh! 
+AABRIA: Oh god! 
+ASHLEY: Ooh, I've been wanting to see what's under there. 
+AABRIA: We practiced this, you guys. 
+AIMEE: I got a glimpse. 
+ASHLEY: Oh wow! (exclaiming) 
+MATT: That's awesome! 
+ASHLEY: Oh man! 
+ROBBIE: Nice. 
+LIAM: Pretty. 
+AIMEE: Wait, wait, wait, wait, wait, wait. 
+MATT: What?! 
+ROBBIE: Yay! 
+AIMEE: Whoa! Holy shit, whoa! 
+ROBBIE: Hey! 
+MATT: Are you serious?! 
+AIMEE: It moves! 
+ASHLEY: Whoa! 
+ROBBIE: Look out! 
+AIMEE: What, it lights up! 
+ASHLEY: Come on! 
+LIAM: The GM screen looks like it's part of it! 
+ROBBIE: Yeah. 
+MATT: I know, it's so cool! 
+LIAM: Yes! 
+MATT: Aah, I love it! 
+ASHLEY: Oh my god, that's gorgeous. 
+AIMEE: The Gorge. 
+AABRIA: This is what you see. What do you want to do? 
+LIAM: I turn to the group and just don't say anything just go-- (quietly) Keep it down. You said a moment ago that we saw movement. Were you referring to the structure? 
+AABRIA: Yeah, it was the structure. A massive, slowly turning structure behind the tree line. 
+LIAM: Anybody around, anybody hiding? 
+AABRIA: Go ahead and give me a perception check. 
+LIAM: 14. 
+AABRIA: (exhales) This area is dominated by this massive structure to the point where even looking in the trees around you, you don't see the skitter of little bugs and small animals. This place seems unnaturally devoid of other things and you don't notice the signs of any other sapient creatures. 
+LIAM: Okay. Magicky people. Any ideas what we're looking at? 
+ASHLEY: I could get a little closer. 
+AABRIA: Do you want to move in a little closer? 
+ASHLEY: Yeah. 
+AABRIA: Sweet, I can't hear anything because my thing fell out. It's fine, we're fine. (laughter) As you get a little bit closer to it, go ahead and make an arcana check for me. 
+LIAM: Orym's going to take his sword out and trail behind her to the right by 10 feet. 
+AABRIA: Okay. 
+ASHLEY: That's not very good. 
+MATT: You goin'? 
+ASHLEY: 10. 
+ROBBIE: Sure, I guess. 
+AIMEE: I want to go too, sorry. 
+AABRIA: No, you're good. 
+ROBBIE: Maybe the three of us should hang back just a little bit. But we'll go with-- 
+MATT: All right, all right. 
+AABRIA: Okay, before I resolve this, what are the three of you doing? 
+AIMEE: Where are we now? Can you just sort of point? 
+AABRIA: We're going to pretend you're just off the map. 
+AIMEE: Oh, okay. 
+ROBBIE: I was sort of suggesting that we're moving forward with our two point people and making a three-point flank, sort of. 
+AIMEE: Oh, yeah. 
+ROBBIE: So we're like, a V-shape, yeah. 
+MATT: Flying V, yeah, right there. 
+ROBBIE: Flying V. 
+MATT: Yeah. 
+ROBBIE: You know. 
+AIMEE: A migratory V. 
+AABRIA: Inspiration. (laughter) We love a good reference. Okay, so you guys are hanging back a little bit while you come forward and with a 10-- You feel the mixing of energy and something that reminds you a little bit of the ash blown mesa. Something natural and unnatural and a welling. It's gravity, but also arcane. This point is pulling you towards it. And as you get a little closer, how close do you want to get to this before-- you stop moving? 
+ASHLEY: Um-- Just to the bottom of the stairs. 
+AABRIA: Okay. That's close enough. 
+ROBBIE: That's close. 
+AABRIA: And as you look up at it, you see a lock of your hair drifts up as if falling in a new direction towards the surface, as it spins. Gravity's a little strange here. 
+ASHLEY: That's amazing. I'm going to look on the ground for a rock or something. And just see what happens. 
+AABRIA: Make a-- what's toss a rock? Make an unarmed-- no, just an athletics check for me. 
+ASHLEY: Okay, okay, okay. 
+AABRIA: I don't know how D&D works. 
+AIMEE: Make a toss-a-rock check. 
+AABRIA: Make a toss-a-rock check. 
+LIAM: Make a story happen. 
+AABRIA: What's that? What could that be? 
+ASHLEY: 11, 11. 
+AABRIA: With 11, you give it a gentle little hup and you're a little worried as you released it that you might not have thrown it hard enough and then you see that there's a threshold, an event horizon, and this rock that was just on a lazy arc up, seems to have caught and shoots straight forward, and clatters onto the face, and sticks on one of the front faces of this cube. 
+LIAM: Does it stay right where it lands or does it roll, it doesn't roll about or-- 
+AABRIA: It skitters a little bit, but comes to a pretty quick stop. 
+AIMEE: So it's like a magnet. 
+LIAM: Yeah, it's got its own gravitational field in, like a planet. 
+AIMEE: Oh, okay, gotcha. 
+AABRIA: That. 
+ASHLEY: Yeah, did you guys see that? 
+MATT: That's so cool. 
+LIAM: I saw it. 
+ASHLEY: Wow. 
+AABRIA: And just as a reminder, this is a little bit lower to the ground than it would be. It's about 15 feet in the air from that bottom tip to the top of the plinth. 
+MATT: Right. 
+ROBBIE: (whispering) Fearne? 
+ASHLEY: Yeah. 
+ROBBIE: Why are you throwing rocks at it? 
+AABRIA: (laughs) 
+ASHLEY: I just-- the gravity's a little different the closer you get. I sort of lean in a little bit so my hair will go a little nuts. (laughter) 
+AABRIA: Her super long hair begins to drift out as though she's hanging off the side of a wall. 
+ROBBIE: Are there any noticeable glyphs on it? 
+LIAM: Yeah, runes-- 
+ROBBIE: Yeah. 
+AABRIA: There are, all over it. Oh, and you're one of the people that read the glyphs, the two of you, I would like both of you to make-- we'll call it a history check. 
+MATT: All righty. 
+ROBBIE: 11. 
+MATT: 11. 
+ROBBIE: Aw. 
+AIMEE: Boys. 
+LIAM: Oh, buddies. 
+AABRIA: Buddies. 
+ROBBIE: Buddies. Dumb together. 
+MATT: (laughs) 
+AABRIA: Your eyes wash over these glyphs and swirling shapes and you quickly pick up that they're both designs and words and shapes describing an idea, pictograms. And even though it's gently drifting, you don't have quite enough time to focus and try to remember. You know that you don't speak this language, but something about your brain wants you to remember that if you could stay locked on it long enough, you could, in fact, read it. And I'll give you a word each. You see the word "universe" or something like it. And you see-- 
+MATT: How long do I have to stay locked on? 
+AABRIA: I mean-- Longer. 
+MATT: It's getting a little fuzzy to him. 
+AABRIA: You see the word "shield." 
+MATT: Ah. I wasn't completely distracted. You picking up anything here, buddy? 
+ROBBIE: Very little, it's-- Moving, everything's foggy. Universe, galaxy, infinity, something like that. 
+MATT: Nah, nah, something about a shield. 
+ROBBIE: There are lots of words, we're probably reading different words. 
+MATT: Agree to disagree. 
+ROBBIE: So you've got shield, I've got universe. Does that mean anything to anyone? 
+AIMEE: Shield, universe. 
+ASHLEY: Can I try to give it a look-see? 
+AABRIA: Sure, give me a history check with disadvantage. That sounded passive aggressive. (laughter) I regret the way I said it. 
+AIMEE: If you want to. 
+LIAM: Give me a-- 
+AABRIA: I guess you can try. 
+ASHLEY: So that would be a natural one. 
+AABRIA: Oh! 
+ASHLEY: (laughs) 
+MATT: Doorway to the shield universe. 
+ASHLEY: Oh yeah. 
+AABRIA: Your eyes just sort of slide over it. But even knowing that you don't speak this language, there is something that makes you want to reach out, that you're like, if I can get closer to it, if I can become more attuned with it, I could figure out what's being said. And the word isn't said in your own head, it's being asked of me. And you want to move closer. 
+LIAM: What do we know? We know-- To the south, they are worshiping the Betrayer Gods, the Betrayer Gods were... thrown out of this world. Barred from it. Maybe it's something to do with-- with that. 
+AIMEE: Yeah, maybe it's their shield, a shield, something to keep us out? 
+LIAM: Or to keep the Betrayer Gods out. 
+AIMEE: Yeah. 
+ROBBIE: Fearne, you're looking so closely, do you see anything? 
+ASHLEY: I think I-- I should probably get a little bit closer. 
+ROBBIE: Wait. When Dariax and I touched the obelisk, we could see everything. Dare we touch this? 
+ASHLEY: Well, nothing happened to the rock, it just stuck to it. So I'm sure that-- I'm sure nothing will happen to me if I do the same. 
+ROBBIE: Well-- 
+MATT: That seems sound, yeah. 
+ASHLEY: Yeah. 
+ROBBIE: Sounds exciting. 
+MATT: Kind of does. 
+LIAM: What is around it? I can't tell if it's just flavor, but there's a statue, or a head, or something on the ground. 
+AABRIA: I mean, this looks like and a little bit of information that you did get about Niirdal-Sarqet, going back to the way the original Tetrarchy was laid out was that all of these satellite cities had one major thing that they contributed and controlled within the Tetrarchy. Where you passed up to the north was the agricultural hub, which is why you saw big stockpiles of grains and goods and what silos were full of. And down to the south was the religious hub. So you're seeing a lot of broken and bent and rent statuary of a place that was probably deeply and profoundly decorated in veneration of not just The Observer, but the gods. The statues that you see on the ground are both of the traditionally known divine good deities, but you also see sigils and signs of the Betrayer Gods held in equal esteem, just written as the battery of gods that exist in the world without judgment. 
+LIAM: Forms of, even if they're slightly different than what we're used to, forms of Pelor. 
+AABRIA: Yes. 
+LIAM: And is the Spider Queen represented? 
+AABRIA: Yes. 
+LIAM: Great, great, great. 
+AABRIA: You actually see, very specifically, one of the faces has a massive spider carved it into it. But once again, you recognize the symbol as a predecessor to the darker symbols of the Spider Queen, but this one is just very neutral. It's just a spider. 
+ROBBIE: Can I ask for clarification? 
+AABRIA: Sure! 
+ROBBIE: On our journey, is this something that we've come across on our way to where we assume our destination is, where we're trying to meet our person? 
+AABRIA: Yeah, you basically just headed far enough south that you reach this last edge of the Tetrarchy and then you're going to be making your way through unadulterated wilderness to cross the river. 
+ROBBIE: And this is something we found on our way-- 
+AABRIA: Yeah. 
+ROBBIE: Not necessarily, nobody's-- 
+AABRIA: You were directed like-- 
+ROBBIE: Okay. 
+AABRIA: "Head towards that, then keep going south." 
+ROBBIE: Okay. 
+LIAM: And do we think this is Niirdal-Sarqet? 
+AABRIA: Yes. 
+LIAM: This is it? 
+AABRIA: Absolutely Niirdal-Sarqet. 
+LIAM: Is everything fu-- We're asking so many questions. 
+AABRIA: No, you're good! 
+LIAM: Focused on this point or is there more? 
+AABRIA: Everything else is lost. You can see little bits of rubble, but this is the thing that remains of that place. 
+LIAM: Got it. Okay. 
+AIMEE: What if we try-- No, that's not going to work. 
+MATT: No, what was it? 
+ASHLEY: What are you thinking? 
+AIMEE: I don't know, I was thinking, like, why don't we try walking under it? 
+MATT: Sure. 
+AIMEE: Wait, wait, wait. Don't do it yet. 
+MATT: Okay. 
+AIMEE: But then you threw the rock and it stuck, so I don't think that'll work. Or we could just keep walking, I guess. 
+ROBBIE: Is the space underneath blank space? Is it like a well, is it a pit? 
+AABRIA: Blank space. It's just a big stone plinth and 15 feet up to the bottom tip of the cube. 
+ROBBIE: Yeah, so we can't even-- 
+AABRIA: So you can go under. Yeah. 
+ROBBIE: You can go under? 
+AABRIA: Yep. 
+LIAM: Opal, do you have-- Do you have any juice in you? 
+AIMEE: You mean like magic? 
+LIAM: Yeah. 
+AIMEE: I hope so. What are you thinking? 
+LIAM: Well, you told us you were able to poof off of that person's shoulder and land on the Fearne's back. So I'm just thinking if one of us sticks to that like a rock, who's got the best chance of getting off of it again? 
+AIMEE: That's a good idea. 
+LIAM: If you could-- 
+AIMEE: So you think I should walk underneath and then if I get stuck, just poof away. 
+LIAM: If you can right now. 
+AIMEE: Why don't I test it out? 
+ROBBIE: Yeah, you could do a practice poof. 
+LIAM: Or something else, anything. 
+AIMEE: Yeah, I'm going to try to-- They're all so destructive. (laughter) I'm going to-- 
+ASHLEY: Just poof. 
+AIMEE: Well, I got Druidcraft. 
+AABRIA: Blow it up. 
+AIMEE: I'm going to try using a Druidcraft to produce a flower or something in my hand. 
+AABRIA: You do so. 
+AIMEE: I do, okay, so it works. Okay. Let's try it. 
+MATT: I also got rope. 
+AIMEE: Why don't we use the rope as a backup? 
+MATT: Okay. 
+AIMEE: No, I'm saying tie it. 
+LIAM: Yeah, yeah. 
+AIMEE: Tie it to me. 
+MATT: Oh, oh, yeah, yeah, yeah, okay. 
+AIMEE: Ties it to my waist. Okay. 
+ASHLEY: Hold on to her. 
+AIMEE: Ready? 
+MATT: Yeah. 
+AIMEE: She takes a few trepidatious steps and then she just runs underneath it and sees what happens. 
+AABRIA: You run? 
+MATT: He follows. (laughter) 
+AABRIA: You both run underneath it and you both have, actually, long enough hair to feel the constant shifting of gravity based on which face is directly over your head at the time. 
+AIMEE: Okay. But we-- 
+AABRIA: Give me... Give me an athletics check. No, we'll call it a strength saving throw. 
+MATT: Seven. 
+AABRIA: Buddy. 
+AIMEE: Oh fuck. That's an 11. 
+AABRIA: Amazing. You trip first and that little tug on her rope, you also lose your footing. And the moment you don't have both of your feet on the ground, you leave, flip over and let's just go ahead and put you on there now. 
+ROBBIE: Oh, nice! 
+AABRIA: I'll give you on the other side. Boop! 
+AIMEE: Oh, whoa. 
+ROBBIE: Yeah! 
+AIMEE: Magnets, baby. 
+AABRIA: Let's go. 
+AIMEE: Dariax, this was not the way it was supposed to go! 
+MATT: No, it's fine. 
+AIMEE: I can't take us both out. 
+MATT: Well, no, because I'm supposed to, if you get stuck, I can pull you off with the rope. 
+AIMEE: How are you going to pull me off of the rope? You're stuck, too! 
+MATT: You pull me with the rope. 
+AABRIA: You guys are both just standing on surfaces. Just for what it's worth. The gravity-- 
+AIMEE: To the thing-- 
+AABRIA: No, no, no. The gravity has realigned. You're just standing on the surface. You're looking at your friends at the Dutchest of angles, but this is pretty chill. 
+AIMEE: Great, so can I read now that I'm on this thing? Can I get any idea of what it says? A better idea. 
+AABRIA: You move towards the center and instinctively drop your hands down to the stone. And I need you to make either an arcana or a religion check for me. 
+AIMEE: Which one's more? 
+AABRIA: Which one's more? 
+AIMEE: About the same. 
+AIMEE: Six. 
+AABRIA: You stare for a long, hard moment. You feel yourself beginning to understand, but it's slow going. You realize that you are trying to decipher more from the picture than from any understanding of the runic language what is being said here, but your study begins and you are making forward progress, but it's going to take a little bit of time. 
+AIMEE: But what do I see? Or what am I getting at? 
+AABRIA: The first word I will give you is "shield." You're actually looking at-- 
+AIMEE: It's the shield one? 
+AABRIA: Yep. 
+AIMEE: Okay, so I'm getting "shield" again. 
+MATT: So we can walk across the surface and it has its own gravity? 
+AABRIA: Completely normal surface for you to walk across. 
+MATT: He's just running around and going: This is so cool! 
+AABRIA: Do you stay on your face or do you move to a different one? 
+LIAM: Yeah, what happens in the corner? 
+MATT: Yeah, when he gets to the corner, does it continue to switch to-- 
+AABRIA: It immediately-- The gravity shifts with you as you turn a corner. 
+MATT: Yay! 
+AIMEE: Woo hoo! 
+AABRIA: I'm going to move you. I'll put you at the center of this one. As you reach the center of a different face, I need you to make a religion or arcana check with advantage. 
+MATT: Thank goodness. 
+AABRIA: Yay. 
+MATT: Didn't help. 
+AABRIA: Perfect. 
+MATT: Eight. 
+AABRIA: An eight would normally be bad, but you've interacted with this before. And after a couple long seconds, you are still hearing Opal muttering something about a shield. But you understand yours, even if you don't quite understand what it means, but you have the full view of it, "the universe above." 
+MATT: "The universe above." So we got a little, hmm. 
+AABRIA: And all of the lights within the surface as you speak aloud, switch to red and stay there. 
+AIMEE: (gasps) Did you do that? 
+MATT: Uh! Maybe. I don't know. No, you did it. 
+AIMEE: No, you did it. 
+MATT: No, it was me. I'm sorry. 
+AIMEE: Let's put the words together. Shield. 
+MATT: The universe above. 
+ROBBIE: Universe, it's just part of his? 
+MATT: Yeah. Maybe. 
+AABRIA: Maybe. 
+MATT: I'll run to another aside. 
+AIMEE: Yeah, I'll run to another side, too. 
+AABRIA: Okay. Opal, I will say you are very aware that you have not read the entirety of your side. So do you want to go to a new side? 
+AIMEE: I mean, or do I get another roll? 
+AABRIA: Do you want to stay and work on yours? I'm mean, you're going to get your answer. You just have to stay and keep working. 
+AIMEE: Okay, I'll stay, I'll keep working on it. 
+AABRIA: You can run away if you want. 
+AIMEE: It's not as fun, but I'll do it. 
+AABRIA: I'm just letting you know that you started sounding out a word and you're like, "I quit." 
+AIMEE: No, no. Okay, okay. I'll stay, I'll stay, I'll stay. 
+LIAM: Frajile. 
+AIMEE: Frajile. 
+AABRIA: Okay, before I move Dori-- Dariax. I hate your names so much! Ugh! I would like to know what the rest of you are doing. 
+LIAM: Well, a lot of time has passed here, so I think, and Fearne seems all right, so Orym's going to start arching around to see if there's anything in the arches that are on the far side of it. And he's going to appear underneath into this pit that thing's floating from. 
+AABRIA: Sweet. 
+LIAM: Just looking for trouble. 
+AABRIA: Yeah. Give me an investigation check. 
+LIAM: (thinking noises) That's good. 16. 
+AABRIA: With a 16, you don't sense-- Once again, there is a really strong-- This is untouched, untrod ground. There are no signs of even the paws of predators coming through. It is pristine ground. And yet, as you get closer to this plinth in the center, more than read anything or notice anything, you feel something. That sense of being watched, of a predator looking and waiting. 
+LIAM: So the two pieces of information is that no physical creature seems to have laid a foot here, but we're also being watched? 
+AABRIA: Correct. 
+LIAM: Swell. 
+AABRIA: You know? Like, a normal thing for a stone cube floating in the sky. 
+ROBBIE: Totally normal. 
+MATT: Sure. 
+AABRIA: Vibes. 
+LIAM: Say again? 
+AABRIA: I just said "vibes." 
+LIAM: Is there any-- That's what I thought you said, but-- I just wanted to be sure. Is there any kind of writing or runes underneath? 
+AABRIA: There's not. 
+LIAM: Not. Okay. 
+ROBBIE: It's a cube or nothing. 
+LIAM: All right. Well, I'm just going to stay tensed, waiting for a shoe to drop here. And letting the people who know magic work with magic. 
+AABRIA: Okay. Well, my magical people, Fearne, Dorian, what are you doing? 
+ASHLEY: Should we go up there? 
+ROBBIE: I want to so bad. 
+ASHLEY: Let's fucking go. 
+ROBBIE: Let's fucking go. 
+ASHLEY: Okay. 
+AABRIA: All right, how are you planning on traversing the 15 feet? 
+ROBBIE: I will reach into my bag and I'll pull out my winged boots and I will put them on and I'll try to flutter my way up to the top-most corner. 
+AABRIA: This one? 
+ROBBIE: Yeah, that's the one. 
+LIAM: Let's go, Kid Icarus. 
+ROBBIE: Yeah, yeah. 
+AABRIA: I love sticking these on! 
+MATT: Properly. 
+AABRIA: It's very fun. 
+ASHLEY: I was just thinking that, I'm like, "Oh, that looks so fun! She's just playing with magnets over there!" 
+AABRIA: Yep! Now you're thinking with magnets. 
+ROBBIE: Mag-ic, mag-ic. 
+LIAM: Now you're playing with power. 
+ASHLEY: Okay. I am going to-- 
+ROBBIE: Magnets. 
+ASHLEY: -- look over at Dorian, and then I'm going to take out my thorn whip. Let it wrap around the pillar and then do a Mirthful Leap onto the cube. 
+AABRIA: You want to go for a high side or a low side? 
+LIAM: Gleam it. 
+MATT: Yeah! 
+ASHLEY: Gleam that cube. 
+MATT: Gleam that cube. 
+ASHLEY: Let me see how far the Mirthful Leap is. 
+AABRIA: Oh, stop it. Do you want to do a high one or a low one? 
+ASHLEY: I want to try to just watch for one that they're not on. You know, Double Dutch. 
+AIMEE: Oh, yeah, yeah, yeah, yeah. Trying to get in there. 
+ASHLEY: Here we go. 
+AABRIA: A high one or a low one? 
+ASHLEY: I'll go low so I can keep the-- 
+AABRIA: Coward. 
+ASHLEY: I'll go high. 
+AABRIA: No, you do whatever you want. 
+ASHLEY: I'll go high. I wanted to go high anyway. 
+AABRIA: Okay, yeah, go high. 
+ASHLEY: But then I was worried about my thorn whip. 
+AABRIA: No, just make an acrobatics check. 
+ASHLEY: Which I'll probably have to get rid of anyway because it's spinning. 
+AABRIA: Give me an acrobatics or athletics check, your call. We're not letting mechanics get in the way of you going on the high side of this cube. 
+ASHLEY: I love it. 
+MATT: Mm-hmm! 
+ASHLEY: Okay. Okay. 12. 
+AABRIA: That'll do it. You do that thing of a little kid trying to jump into a jump rope while it's going and you get a false start. Actually, it's like a full high jumper where you run up and then it turns away just the wrong time. You're like, hold on, hold on. 
+ASHLEY: Hang on, one more time, one more time. 
+AABRIA: You back it up, take another run. And then you finally go for it and win and make your way there. 
+ASHLEY: Whoa! 
+AIMEE: Eyy, welcome! 
+ASHLEY: This is very cool. 
+MATT: Isn't it? 
+ASHLEY: Maybe we're all supposed to be up here? 
+LIAM: Does it feel like the sky is shifting? 
+AIMEE: Uh, no! 
+MATT: What? 
+ROBBIE: More like the ground is spinning. 
+AIMEE: I'm still working on this message. Do I got any new words? 
+AABRIA: I'll give you one in a second. You rolled like dog shit. 
+AIMEE: I know. 
+AABRIA: I know, I know. 
+AIMEE: She pulls out, I don't even know why she would have one, but one of those monocles. 
+AABRIA: (laughs) I'll let you roll again because you have a monocle because that's wild. Actually, I will let you roll again with advantage, if it's not a monocle, it's a jeweler's loupe. 
+AIMEE: Even better. Even better. You said with advantage? 
+AABRIA: Yeah. I'll give you advantage on it. Bless your heart. 
+AIMEE: Oh, thank god. What was the thing that it was supposed to-- arcana? 
+AABRIA: It's either arcana or religion. 
+AIMEE: 15. 
+AABRIA: Perfect. Yeah, you put on a jeweler's loupe. And you get into this-- 
+AIMEE: Or a mole checker from the dermatologist. 
+AABRIA: Yep. 
+ASHLEY: Yeah. 
+AABRIA: And you're in there, super fine focused on a very big wide set of glyphs. And yet there's something about the intensity of your focus, your desire to know what this means. That's what pushes through. It's not getting the larger picture; it's pushing in to try to understand what's being said and you get it: "A shield to protect." 
+AIMEE: A shield to... protect! A shield to protect! 
+AABRIA: The entire cube changes to blue and holds. 
+ASHLEY: You're doing something! 
+AIMEE: Okay. We'll get it together. A shield to protect-- 
+MATT: The universe above. 
+ROBBIE: Are the lights flashing each time one of them says this? 
+AABRIA: Just the first time it's solved. 
+ROBBIE: Can we maybe just for a minute stop saying the magical words for a second until we figure out-- 
+MATT: Wait, we're so close. The universe above: a shield to protect. 
+AIMEE: No, it's the-- 
+MATT: It's like a title. What? 
+ASHLEY: How do we know that that's the first part of it, though? 
+AIMEE: A shield to protect the universe above. 
+LIAM: Try another side. 
+ASHLEY: Okay. 
+AIMEE: Fearne, you're up. 
+AABRIA: Religion? Yeah. Give me a religion or arcana, your call. 
+ASHLEY: That's awful. God, this is hard to read. Okay, that is a three. 
+AABRIA: It's a what? 
+AIMEE: Is it the tiny dice? 
+ASHLEY: No, it's the one that always gets cocked and usually rolls well, but it didn't that time. So that's a five. 
+AABRIA: You're on here looking around like, "Oh, vibes, I made it, this is great." You're still holding onto that tether from the Thorn Whip even though it's slowly dragging around in a circle, like a weird, terrible yo-yo. 
+ASHLEY: This was a bad idea. 
+AABRIA: And all you get at first while you're so distracted by preserving your place here, you see the word "remember," or understand the word "remember." That's all you get so far until you roll like a grownup. (laughter) 
+MATT: We may be here a while. 
+AIMEE: I have a monocle. 
+AABRIA: Dorian, you're up. 
+ROBBIE: Anything, Fearne? 
+ASHLEY: I got something, but I'm still looking. 
+ROBBIE: All right. I'll try. Both my hands down, close my eyes. What is it? 
+AABRIA: Either religion or arcana. 
+ROBBIE: (sharp inhale) (uncertain noise) Both the same. 13. 
+AABRIA: With a 13, it takes you a moment. You lean in and sigh and feel it. And there's something you realize now in the ritual of committing yourself, driving yourself towards this purpose that gives you context. "Decide what comes next." 
+ROBBIE: I think I have something. "Decide what comes next." 
+AIMEE: Oh, like choose your own adventure? 
+AABRIA: And they change again. 
+AIMEE: The light? 
+AABRIA: Mm-hmm. 
+AIMEE: What's the color? 
+AABRIA: A purple, like a magenta. 
+AIMEE: Oh, nice. 
+AABRIA: I am blind poking buttons. 
+LIAM: So our phrases were "a shield to protect." 
+AABRIA: Yep. 
+AIMEE: "The universe--" 
+LIAM: "The universe above," "decide what comes next." What rhymes with love? 
+ASHLEY: I'm going to give another look-see. 
+AABRIA: Yep. 
+ASHLEY: Come on. Oh yeah. Okay, natural 19. 
+AABRIA: Ooh! 
+ASHLEY: 21. 
+AABRIA: With a 21, what do you do differently this go around? What changes? 
+ASHLEY: I was peeking up at the corner and I saw Dorian touching the stone. So I look over and I put my hands down and lay flat. 
+AIMEE: As flat as possible. 
+ASHLEY: And try to, through osmosis, understand. 
+AABRIA: You get down real low on the ground. 
+MATT: Summer squirrel layout. (laughter) 
+ASHLEY: Full summer squirrel. 
+AABRIA: It's the moment that you let go of the Thorn Whip, that you let go and fully commit yourself to this, that you get the full message: "Remember what came before." 
+ASHLEY: I got something. I got something! 
+AIMEE: What? 
+ASHLEY: "Remember what came before." 
+AABRIA: And the lights switch to orange. 
+ASHLEY: Oh, oh! It changed! 
+AABRIA: Dariax, do you want to still run to another side? 
+MATT: Yeah, totally. I'll do it. 
+ASHLEY: How many more do we got? 
+AABRIA: I mean-- 
+MATT: It's a cube. 
+AABRIA: So far you've done four of six! 
+AIMEE: I can't count. 
+AABRIA: I'm going to and have you run to this low boy over here. 
+MATT: Yeah! 
+AABRIA: Whoop, there we go. All right. 
+MATT: As I'm running by, I see both of them just flat and I'm like: Oh, cool. So more of a running dive and (thud) full belly flop. 
+AABRIA: And your mind, so unfettered from care and worry, is devoted completely to this moment. Go ahead and make your roll, religion or arcana, with advantage. 
+MATT: With advantage, thank-- 
+AIMEE: Here we go. 
+MATT: That's another natural one, so thank you for the advantage. 
+ASHLEY: No-wah! 
+AABRIA: Blessings! 
+LIAM: You are amazing. 
+AABRIA: No! 
+AIMEE: You got to burn the dice! 
+AABRIA: No! 
+MATT: Whenever I play a player, it is shown time and time again. 
+AIMEE: You stay with the same. Oh, that's good. 
+MATT: I roll so bad as a player. 
+AIMEE: Damn. 
+AABRIA: Hate that for you, but-- 
+AIMEE: Hate that, too. 
+MATT: No, it's fine, just roll with it. 
+AABRIA: Yeah, no. 
+ASHLEY: I'm just peeking over the thing. Anything? 
+AABRIA: Your gravity turns and skids and you stumble and slide across the rocky top. 
+AIMEE: Well, then I do too, because we're connected. Right? Don't we have the rope? 
+AABRIA: I'm assuming you got yanked, but not completely taken off your feet by how absolutely terribly he did. 
+MATT: Ow, ow, ow. 
+AIMEE: You okay? 
+AABRIA: You take two points of stubbing damage, bludgeoning damage. 
+MATT: Oh, my patella. 
+AABRIA: And your hit point max drops by two. 
+MATT: Oh, shoot. 
+ROBBIE: Ooh. 
+LIAM: Ooh. 
+AABRIA: I will wait so gently as something appears in front of you as you're splayed on the ground. You'll see it when it comes around, but you're not alone on the cube. And, Orym, you were on the ground, standing at the plinth, looking and waiting for that predator to appear and then it does over your head, directly in front of Dariax. A massive construct of stone, hulking, barely bipedal, twice your height, appears in front of you, Dariax. 
+MATT: I'm still looking at my knee. 
+AABRIA: Yeah, that's fair. 
+MATT: I probably haven't noticed that it's there yet. I'm like: Ah, ah! Ow. 
+AABRIA: You're fine, you're good. This is fine and good. 
+LIAM: Dariax? 
+MATT: What? Oh. 
+AIMEE: What? 
+LIAM: Stay calm, everybody. You have a guest on the cube. 
+MATT: I'm going to cast Invisibility on myself. 
+AABRIA: You cast Invisibility? 
+MATT: On myself, yeah. 
+AABRIA: Amazing. The creature hulks up, and it doesn't speak. Its center eye glows and pulses with that same colored light that comes from within the stone. And it begins to lumber towards you. And as you blink out of visibility, it holds and waits. It doesn't look away from where it knew you were, but it doesn't move forward at all, either. 
+MATT: Hold tight, there's a thing, just don't move. 
+LIAM: Do you see it? 
+AIMEE: What thing? 
+MATT: I do. 
+LIAM: There's a big stone... thing. 
+AIMEE: Oh god. 
+LIAM: Creature. On the side of this whosit with Dariax. 
+ROBBIE: Dariax. 
+MATT: What? 
+ROBBIE: Try to read the side one more time and then get to another side. 
+MATT: Good call. Thank you. 
+ASHLEY: Good call, good call. 
+MATT: That's why you're the leader. I'm going to go ahead and focus on the side once more, while it's staring at me, but he can't see me, I hope. (laughter) 
+MATT: Tension reading. (laughter) 
+AABRIA: Go ahead and yeah, got to give you disadvantage, I'm sorry. I feel so bad because you already rolled so bad that life has given you a disadvantage, but go ahead. 
+MATT: Even with, with disadvantage, that's a 12. 
+AIMEE: All right! 
+MATT: 15 and a 13. 
+AABRIA: You are frozen in this moment and your eyes glance back down and then back up at this construct. And without having to look down and study, the words come to your lips: "The universe within." 
+MATT: "The universe within." Cool. 
+AABRIA: And the lights change again. And the light at the center of the stone golem's eyes flare. And it moves towards you. I need you to make a strength saving throw as it attempts to grapple you. 
+MATT: Oh, that's just a 19, I'm just saying. (cheering) 
+AIMEE: When it counts, baby! 
+ASHLEY: When you need it, you get it. 
+ROBBIE: Beefy, he's a beefy boy! 
+MATT: Them deltoids. That dwarf ancestry's really kicking in. 
+AABRIA: You feel its giant hulking arms slip around you and you're able to extricate yourself and it looks down and turns and looks in your direction. But holds and you hear a low grumble like the stones within it, if they were trying to vibrate like the folds of a throat to speak. And though you don't understand the language, you understand the words. Just it repeats at you, "The universe within." 
+MATT: All right. All right. I move a little bit to the right. Does it follow me? 
+AABRIA: It follows you. 
+MATT: (groans) 
+AIMEE: Oh boy. 
+MATT: Okay. We got to-- 
+LIAM: Yeah, whatever we do, we should do it. 
+AABRIA: There's one more left. Who's going to go? 
+AIMEE: I would go, but I'm attached to him. 
+ASHLEY: I'll go. I'll go. I'll go. 
+AABRIA: Okay. You move around, I'm not going to move you. 
+ASHLEY: Okay. 
+AABRIA: You move around to the last face that hasn't been touched by anyone in the group. Go ahead and make a religion or arcana check for me. 
+ASHLEY: Okay. 17. 
+AABRIA: With a 17, describe for me what it looks like as you get to that other face. 
+ASHLEY: Okay, so trying to stay really low, just on my hooves and crouch down and I put my hands down. And just close my eyes and really try to-- No, I don't close my eyes, that's stupid. 
+AABRIA: No, you close your eyes. 
+ASHLEY: Okay, I close my eyes. 
+AABRIA: You feel the glyphs under your fingers and you feel the intentionality of them. Thousands of years of thought and focus. Generations upon generations and all of their faith in their civilization and in this final idea: "Provide for all." 
+ASHLEY: Okay. "Provide for all?" 
+AABRIA: And you speak the last words and the cube goes blue and you feel beneath you deep, deep within this, a rumble. Something building, energy gathering. 
+AIMEE: Can we jump off? 
+ASHLEY: Orym, do we-- should we stay? 
+LIAM: I have no idea. 
+AABRIA: I will give everyone one more action before whatever happens, happens. 
+ASHLEY: Okay. Wait, let's think about this. Let's think about this. Decide what comes next. What if we get to decide what comes next? 
+AIMEE: Yeah-- 
+ASHLEY: Does that make any sense? 
+AIMEE: Well, what's weird is that two of them clearly go together, a shield to protect the universe above and then the rest of this stuff doesn't really go together, does it? 
+LIAM: I'm going to use my action to try to get a running start. And with these boots I have or I can jump pretty frigging high. With a running start, I can get eight feet up. I want to try to jump and run, just run up the side of that column, so that I'm standing on top of it to give me some height. 
+AABRIA: At which column do you want to be? 
+LIAM: The one right in front of the U on your screen. 
+AABRIA: The U on my screen-- Oh, okay. This boy? 
+LIAM: Yes. 
+AABRIA: Okay. Okay. Okay. Okay. 
+LIAM: And then even up under that, if I can get up there. Even up under the curve a bit like a diving board. 
+AABRIA: Here? 
+LIAM: Yeah. 
+AABRIA: I'll put you right on top. I'll give you that. Go ahead and make an acrobatics check for me. 
+LIAM: That is a 13. 
+AABRIA: You can make it without any struggle. You can see the beginning of those vibrations, Orym. And you see on one of the faces where no one stands any longer, the sigils seem to-- they're beginning to shift. The stone is beginning to move. 
+AIMEE: Orym, should we get off? 
+LIAM: I don't know. 
+ASHLEY: Okay, I'm going to, just privately, I'm going to put my hands down and I'm going to try to stop the stone from moving. 
+AABRIA: Oh, interesting. Make a roll using your spell-- Basically, make a spell attack roll for me. So you can add your modifier and your proficiency to this. 
+ASHLEY: Okay, I rolled a natural 18. And what else did you say? Spell attack modifier? 
+AABRIA: Yeah. 
+ASHLEY: Okay. 
+AABRIA: So not just your wisdom, your wisdom plus your proficiency. So add your to hit with a spell whatever that bonus is. 
+ASHLEY: Okay. 23 plus-- what else did you say? Spell attack and that's it. Okay. 
+AABRIA: Yeah. Good. With a 23, you push your will into this thing. You order it to stop and it does. It freezes in place, but the vibration increases and you hear somewhere deep within you. Once again, in a language you know you don't speak, but you understand very clearly, all six sides of this hexahedron ring out in their proper order. The universe above, the universe within, remember what came before, decide what happens next, provide for all, a shield to protect. And you feel the tremors below your feet become so raucous and loud. And then there is a bright light and everything shifts and flies apart as the very stone below your feet shatters and scatters as the cube breaks. And that's where we're going to take our break. (oohing) 
+ROBBIE: What did you do? 
+ASHLEY: I don't know! Tommy Boy. "What did you do?" (laughter) 
+AABRIA: Cool, you solved my cube puzzle. We'll see what happens next now that you've destroyed this beautiful thing I built and I definitely won't hold it against you. So, we'll be right back and we'll see what we get into. Goodbye, goodbye forever. 
+ASHLEY: Oh boy, I was just testing something before I did something else! (laughter)
+
+Break[]
+LAURA: Hey Critters, Laura Bailey here. Let's see what's (film reel clicking). Hey Critters, Laura Bailey here for another exciting intermission of Laura Bailey's Merch Corner. Today I'm coming at you with some new face masks, check them out! I'm gonna open it up. These one feature these cutie chibi designs of both the Mighty Nein and Vox Machina. And then there's another intricate, more advanced, upscale. I don't know, fancy? No, that's a horrible word. Here's another mask, it features weapons and stuff. These were both designed by Grace Barrios, woo! Just for reference, I wear the kid size, in case your face is similar in size to mine. Any whom, a portion of each set sold will be donated to Red Nose Day, who are providing vital aid to children below the poverty line who have been negatively impacted by COVID-19. So that's an awesome thing. And then in addition to that, we've also got. Look it, look it, look it! You know, for your little babies and your little children. We have a new shirt of hello bees, a graphic you might recognize from our other hello bees shirt. This was designed by Jordyn Torrence. Beautiful, beautiful. And in addition to that, the last thing I will talk about today in case you missed it is this fabulous puzzle by our friends at The Op designed by Jessica Wynn. And it's featuring just us heading up into Isharnai's Hut and you know what goes down there. I should let you know, the shirts and the masks are all available in all of our Critical Role shops. And this amazing puzzle is available in the US, the UK, and the Canadian stores, and anywhere where The Op Puzzles are sold. For more information, follow us at critrole.com/newsletter. Oh, no, I think I blinked instead of winked. Okay. (folks laughing offscreen) 
+(dramatic music) 
+
+Part II[]
+AABRIA: Fearne, you reached out with your hands, touched the stone, willed it. Put all of your attention and effort and desire and force into the stone and commanded it to stop. And it did. The rumble increases, shakes. You can feel your bones, your teeth shaking inside your head as all of it builds to a massive crescendo as the hexahedron shatters apart, and pieces of it hover, frozen in midair. A massive EMP, a burst of energy, shoots out and away in all directions from Niirdal-Sarqet, shaking the jungle, turning everything to silence. You all open your eyes. You are suspended in mid-air on different floating pieces of the hexahedron, with the exception of Orym, who I'm going to need to make a strength saving throw to resist getting thrown from the edge of your little-- 
+LIAM: Natural 20. 
+AABRIA: Well. 
+AIMEE: Whoa! 
+AABRIA: You're fine. 
+AIMEE: He's good. 
+AABRIA: You hold onto it. You don't even close your eyes as you see this happen. And in front of you, an exploded out cube. You're all standing now. Gravity has righted itself, so you're standing on the top. You feel gravity is the same again. And Dariax, you see, once again, that massive, hulking construct looks at you with a bright blue, glowing eye. And now you see the stone open as a massive mouth begins to roar at you. And I need all of you to roll initiative. (squealing) 
+MATT: Did we-- for those of us who got an action in the interim? 
+AABRIA: Yep. 
+MATT: Can I use that to use my Pearl of Power? 
+AABRIA: Yes, you absolutely can. 
+MATT: I will do that to get my 2nd-level slot back that I used on the-- 
+AABRIA: Perfect. Does anyone else have one that last second action that I gave you before everything exploded and some of you decided to spend it yelling out what to do? 
+AIMEE: You know it! 
+AABRIA: Do you do anything? You'll just be surprised? 
+AIMEE: Did I use it? 
+AABRIA: (whispers) I don't know, I'm asking you. 
+AIMEE: I'm going to use my Pearl of Power, too. 
+AABRIA: To do what? 
+AIMEE: I'm just going to use it, because that's my action. I mean, I'm just going to have it available, to my availability. 
+AABRIA: Oh, it's an object interaction. 
+AIMEE: Oh, oh, oh, oh, oh. 
+AABRIA: You don't have to do anything to prep it. 
+AIMEE: Great. Okay. 
+AABRIA: Cool. 
+AIMEE: Then no, I'm not going to do anything but talk, I guess. 
+AABRIA: Did anyone else want to get one last thing in before we get into the meat of our night? No? Dope. 25 to 20. 
+ASHLEY: Let's do it. 
+LIAM: 22. 
+AABRIA: Okay. 
+ROBBIE: I didn't roll. 
+AABRIA: Sweet. 19 to 15. 
+MATT: 18. 
+AIMEE: Ooh. 
+AABRIA: Oh, snap, let's go. All right. I don't know numbers. 14 to 10? Yep, that's correct. 
+ROBBIE: 12. 
+AABRIA: Cool. Nine to five? 
+AIMEE: Nine. ♪ Workin' ♪ 
+AABRIA: Ay! (laughter) 
+ASHLEY: ♪ Working ♪ Seven for me. 
+AABRIA: And seven, okay. Perfect. Okay. Orym, you're up first. You see what has happened. This massive structure floating freely above you. Now everything's exploded out and away and you're probably, I'm going to say, because I know you don't have a great view on yourself back here, you're about 30 feet away from the closest ledge. 
+LIAM: I actually can see him, so from the closest ledge? 30 feet? 
+AABRIA: Surface, yeah. 
+LIAM: (sighs) Shit, because with these boots I can jump far, but I can't jump that far. 
+AABRIA: You can certainly try. 
+LIAM: Mm-hmm. 
+AABRIA: What's the worst that could happen? 
+LIAM: Fall. 
+AIMEE: (laughs) Yep. 
+AABRIA: Yeah, that would be correct. 
+ASHLEY: Fair, fair, fair, fair, fair. 
+AABRIA: Absolutely. 
+LIAM: Ah, fuck it. Okay, so if I quickly back up off of that little diving board I'm on-- 
+AABRIA: Yep. 
+LIAM: And then reverse and run off it like a ramp, I should, at minimum, be able to jump with these boots 20 feet. 
+AABRIA: Okay. So you know that-- 
+LIAM: That's basic. 
+AABRIA: -- without any amount of extra strain, you can go 20 feet. 
+LIAM: Yep. 
+AABRIA: If you want to push it further-- 
+LIAM: Yeah? 
+AABRIA: -- we're going to have to do a roll about it. 
+LIAM: Yep, let's do it. 
+AABRIA: So give me an acrobatics or athletics check and which platform are you aiming for? 
+LIAM: The one that Fearne is on looks like the most feasible to me. 
+AABRIA: Okay. Go ahead and make a roll. 
+LIAM: That is a 16. 
+AABRIA: With a 16, you give yourself that little bit of runway. It's no more than five feet, but for you, that might just be enough as you run forward and you feel your foot slip just a little bit at the edge as you reach out and you grab onto the bottom. And I can't stick you on there. Oh, I could. No, I won't, we'll describe it. We'll use our imaginations for two seconds. So you're able to make it there, but you don't land on the top of the platform. 
+LIAM: Okay. 
+AABRIA: So I'm going to say, it's going to cost you 10 feet of movement to get all the way up and climb up and get on the top of the platform. 
+LIAM: Would we say then, that that was my movement to jump there and then use my action to try to hoist myself up? 
+AABRIA: I'll say it's your bonus action. 
+LIAM: Okay. 
+AABRIA: To complete that, that's fine for me. 
+LIAM: Okay. 
+AABRIA: Do you do so? 
+LIAM: Yeah, yeah. 
+AABRIA: All right. Welcome to the top. You have a good view out of all of the pieces and you can see, once again, a little less impeded by the smoke and vapor and arcane miasma of this broken... temple, really. You can see down to the construct facing off against Dariax. You can see up into the sky, as everything above you crackles and sparkles with blue arcane energy. And I need you to make a wisdom saving throw. 
+LIAM: Okay. 10. 
+AABRIA: Okay. Let's see. Orym, you look out and away, and time stretches out in front of you like a ribbon and then a road that you can walk down and you look forward and you see a tiny mote of light farther down the path than you can see or even imagine. And it flutters gently to you and lands on your chest. And for the interim, I would like you to take another maneuver from the Battle Master playbook. 
+LIAM: Okay. 
+AABRIA: And with that wisdom save, you take two points of bludgeoning damage and your hit point max drops by two, as out and behind you, another massive stone golem-- 
+AIMEE: Oh, for fuck's sake. 
+AABRIA: This big construct, just as much a part of this vital temple cube, comes into being and roars itself to make itself known to you. You still have your action, what would you like to do? 
+LIAM: Oh, jeez, I do. 
+AABRIA: Yep! 
+LIAM: Okay. I'm going to use Bait and Switch, which means I'm going to switch positions with Fearne, if she's willing. 
+ASHLEY: Hi. 
+LIAM: Which means I'm going to slide between creature and her for story purposes and slide her a little bit, two feet back behind me, even though she'd technically still be in range. 
+AABRIA: Okay. 
+LIAM: And give you, Fearne, an additional three to your AC for the next-- for all of this turn. 
+AABRIA: Beautiful. 
+ASHLEY: I will take it. 
+LIAM: And, um-- And that's it. 
+AABRIA: That's it? 
+LIAM: Yeah, I think so. 
+AABRIA: Okay. All right. Dariax, you're up. 
+MATT: All right. So here in the middle of this platform, there's this big thing, a second one just went up there, and my friends are scattered out around me. About how far from me are Dorian and... let's see. Actually Dori-- pretty much how far from me is everybody? 
+AABRIA: Yeah, Dorian's about 30-- everyone's about 30 feet away from you. 
+MATT: All right. I'm going to go ahead and drop a 2nd-level Bless. 
+AABRIA: Okay. 
+MATT: I'm going to go ahead and target everybody else but myself. 
+AABRIA: Aw, buddy. 
+MATT: Blessing all of y'all. 
+AIMEE: Thank you. 
+LIAM: Oh wow. 
+MATT: So as I take a step back and clutch the compass rose on my chest and I'm like: All right, Observe-y, if you're paying attention, help me out! And I'm going to go ahead and wince once eye, it almost looks as if I'm about to fart, but instead, this blast of radiant energy juts outward, and as it dresses itself onto each of you, you feel a little bit of a warmth on your arms and shoulders, like something's just guiding you to a better finish, so. 
+AIMEE: Thank you. 
+AABRIA: Dariax, as you finish casting that spell, you called and they answered, and you feel that same warmth on your arms and shoulders. You are also under the effect of the Bless spell. 
+MATT: Oh! 
+AIMEE: Noice. 
+AABRIA: All right. Please roll for me a d6. 
+MATT: A d6. 
+AABRIA: I'm going to make you do it. You can do this one. 
+MATT: Four. 
+AABRIA: Oh, okay. Let's see. Yeah, okay. You send out your spell and as you bring yourself back within, you hold onto your spear and it has never left your side and you see its extra little tendrils of... ferocity, and then you feel it get heavy in your hand as the gravity of it shifts. You have a choice you can make at the beginning of your turn, either heavy or light. If you choose light, you can attack twice, as gravity is ameliorated from you and you can move a little quicker. If you pick heavy, it doubles your damage dice. 
+MATT: Ah. All righty. 
+AABRIA: All right. 
+MATT: Good to know. 
+AABRIA: Anything else for your bonus action? 
+MATT: No. I am going to spin around a bit to my left and get on the flanking side opposite of where Opal's currently standing. Just to try and get its direction a little bit unfocused from the rest of the crew. 
+AABRIA: Love it. All right. As you slide over and strafe around this big beast and it is now its turn as it turns and faces you. Oh god, they're magneted down. It's hard to turn them. (laughter) 
+AABRIA: (heaving) 
+MATT: Heavy! 
+AABRIA: And it pounds the ground. Also, yeah, have you decided which you want yours to be? Light or heavy? 
+MATT: For this turn? I'm going to go light. 
+AABRIA: Okay, cool. Hits the ground and is going to rush you and it's first going to hit you with a fist and then attempt a grapple. Does a 17 hit? 
+MATT: That does hit, yes. 
+AABRIA: You take four points of bludgeoning damage, as it hits you and then the other arm wraps around you, attempt to lock you up. Please make a strength saving throw. 
+MATT: I will. 
+AABRIA: You have to beat a 14. 
+MATT: That is a 16. 
+ROBBIE: Hey! 
+AABRIA: Perfect. It tries to grab you, and you sort of slowly, just like you did before, you have a bit of the pattern of it and you're able to slip away as it's not quite fast enough to react to you and your slipperiness and it misses you. 
+MATT: All righty, that's my turn. 
+AABRIA: And its eye follows you. And that's its turn. Okay, next up is Dorian. 
+ROBBIE: Mm. So much going on! 
+AABRIA: Facing nowhere. You can just be facing out into the wilderness for a bit. 
+ROBBIE: I'm going to start my action by yelling out to Dariax and saying: Dariax, are you all right? Do you want to fight this thing?! 
+MATT: As a note, too, I rolled my concentration check for the Bless, and I rolled a 16, so I'm good. 
+AABRIA: Perfect, good to know. I will leave that to you, I trust you. 
+MATT: No worries. So as you shout this, still sliding out of its grasp, I have a fresh impact of wound on the side of my temple where you can see blood starting to trail and be like: Yeah, yeah, it's fine. But, you know, a little help wouldn't hurt! 
+ROBBIE: All right. And I will cast-- Oh man, it's a construct, right? Not a creature? 
+AABRIA: Correct. 
+ROBBIE: Fuck. Boy, that really nerfs me. Oh man. 
+AABRIA: I mean, how badly do you want this spell to go through? 
+ROBBIE: (chuckles) I'm going to try it. I'm going to try to cast Dissonant Whispers. 
+AABRIA: Okay. To the one in front of Dariax? 
+ROBBIE: Yeah. 
+AABRIA: Sweet. You turn and, as you reach your hands out to begin to cast, you see that your very fingertips begin to turn to a darker blue. You feel your skin going cold and you hear that voice in your ear again that says, "(cold laugh) You know it's not going to work." 
+ROBBIE: I'm going to try to cast it anyway. 
+AABRIA: "Okay. I'll wait for you to fail. And then tell you how you don't have to be so ineffectual once again." Okay. You reach out. Go ahead and-- I know Dissonant Whispers is a save spell, but you have to push through your own arcane ability for this to hit. So I want you to make an attack roll for me. We'll let the dice tell a story. I love that. 
+ROBBIE: Seven. 
+AABRIA: You reach out and you feel your spell clatter against an unformed, unthinking mind. 
+MATT: You get to add a d4, though. 
+AABRIA: Yeah, get it up to an 11. 
+ROBBIE: Make me fail twice? 
+AIMEE: Oh. 
+ROBBIE: Ah, a five. So 13. 
+AABRIA: How did you add five on a d4? 
+ROBBIE: Oh, a d4, I'm sorry. Four, four, four, four sides. 
+AABRIA: Thank god you're pretty. 
+ASHLEY: 1d5. 
+ROBBIE: Two. Nine. Yay. 
+AIMEE: Math is hard! 
+ROBBIE: (groans, spits) 
+AABRIA: Yep. 
+ROBBIE: That just goes a little-- 
+AABRIA: Yep, but you feel it hit and sort of fall out and away. I won't make you burn a spell slot for that. But you do hear laughter in your ears. No, I lied, burn the spell slot. You knew what was coming. 
+ROBBIE: Yeah. 
+AABRIA: Bonus action? 
+ROBBIE: Yeah, I'll cast Bardic Inspiration for Dariax. 
+AABRIA: Okay. As you reach out, give me a wisdom saving throw. 
+ROBBIE: 14. 
+AABRIA: Okay. With a 14, you see the ground in front of you begin to swirl and form, but it doesn't quite yet. It begins to meld up and you see something trying desperately to claw itself out of the stone, but it can't quite find purchase to realize itself in front of you. So, you're okay for now. Roll a d6 for me. 
+ROBBIE: That's the one I tried to roll earlier. 
+AABRIA: Mm-hmm. 
+ROBBIE: Three. 
+AABRIA: Okay. Okay. Dorian, you're an air genasi, so, among other things, your relationship to gravity has always been weak at best. You've been able to levitate. The air bends to your whim and now you feel yourself even more unfettered. This is a little bit of a weird one. So let me know if you need a little bit more direction, but you feel where your eye line is, a welling, a concentration of gravity, and you can control it. Before, when you were standing on the hexagonal shape hole, you felt that sort of relative gravity and now you can decide where it is. You get to choose in which direction gravity moves. And it can be 10 feet over an enemy's head and you can slide towards it. It's a matter of spending an action to choose if you want to realign your personal gravitational pull. 
+ROBBIE: From here on out, for the rest? Or just during this turn? 
+AABRIA: Nope, from here on out. 
+AIMEE: Dope. 
+ASHLEY: Cool. 
+ROBBIE: Okay. 
+AABRIA: While you're in this weird miasma. Okay. 
+MATT: So, you gave me Bardic Inspiration? 
+ROBBIE: I did. 
+MATT: I'm over there bobbing and weaving. Hey, I could really use some inspiration over here, buddy. 
+ROBBIE: Oh, sure, sure. Your moves look great today. 
+MATT: Oh, thank you kindly! 
+ROBBIE: Yeah. 
+MATT: Whoa! Always looking out. 
+ROBBIE: Good luck. (laughter) 
+AABRIA: Amazing. This big construct here is going to turn and attempt a multiattack against you, my good friend, Orym. Natural 20. 
+LIAM: That would hit. 
+AABRIA: It's going to lean in and slam down his fist onto your head. Didn't roll that high, for six points of bludgeoning damage. And it's going to attempt a grapple. So go ahead and make a strength saving throw for me. 
+LIAM: Okay. 
+AABRIA: You need to beat a 17. 
+LIAM: Strength save? 
+AABRIA: Yep. 
+LIAM: 18. 
+ASHLEY: Woo! 
+AIMEE: Yes. 
+ROBBIE: He's a sinewy-- 
+AABRIA: He's a sinewy-- These guys are having trouble with you little guys as he goes and wraps you up and you're able to extricate yourself from it. You feel the fabric of your shirt sort of tear in its grip, but you're able to drop out and keep yourself free. And it's going to reach and, with its backhand, it's actually going to make an attack on you, too, Fearne. 
+ASHLEY: Okay. 
+AABRIA: Does a 16 hit? 
+ASHLEY: No. 
+AABRIA: Okay. It just throws a wild swing out. You're able to dodge it easily and that's it. Opal, you're up, and Fearne, you're on deck. 
+ASHLEY: Okay. 
+AIMEE: So I'm going to cast Mind Sliver at the beast that Dorian-- I mean, sorry, Dariax, damn it. 
+AABRIA: Yeah, it sucks, right? Take inspiration because it's very hard to remember. 
+AIMEE: Thank you. 
+AABRIA: Not just me. 
+MATT: Victory every time. 
+ROBBIE: Feels good. 
+MATT: I suffered Vex and Vax for six years. 
+AABRIA: I hate it. 
+AIMEE: Oh god. 
+AABRIA: I hate it. 
+AIMEE: Yes. So that's what I would like to do. 
+AABRIA: Okay. Go ahead and read that spell out for me? 
+AIMEE: All right, it says, "You drive a disorienting spike of psychic energy into the mind of one creature you can see within range." 
+AABRIA: Uh oh, someone wasn't listening-- 
+AIMEE: Fuck. 
+AABRIA: -- to the assignment. Yep. 
+AIMEE: Well. 
+AABRIA: You reach out and cast Mind Sliver and you feel it clatter uselessly against the construct in front of Dariax. Mark off the spell, because you did cast it. 
+AIMEE: Well, it's a cantrip. 
+AABRIA: Okay. 
+AIMEE: But that's okay. 
+AABRIA: You're fine. 
+AIMEE: Okay, so then-- 
+AABRIA: But I hope we learned a lesson. 
+AIMEE: We did. 
+AABRIA: Okay. 
+AIMEE: She didn't understand the assignment, but now she does. 
+AABRIA: All right. 
+AIMEE: So yeah, I think I'm-- I guess I'll just yell out: Do you want me to come over there, Dariax? 
+MATT: Yes, please. 
+AIMEE: Okay. So then I guess what I'll do is that I will Misty Step onto Dariax's little cube as my bonus action. 
+AABRIA: All right, where do you want to be on the cube? 
+AIMEE: You know what? 
+AABRIA: You can be anywhere. 
+AIMEE: This is stupid. 
+AABRIA: Okay, I love stupid. 
+AIMEE: But I would like to be on top of the creature. 
+AABRIA: Oh my god, I knew you were going to say it. 
+AIMEE: And how stupid is that? How stupid is that? 
+AABRIA: I knew it was coming. 
+MATT: If we can get it on its back and pet its belly until it sleeps, I'll be so excited. 
+AABRIA: You think I would make a crocodile twice? Yes, I am that stupid, but okay, okay. You've made a choice. 
+AIMEE: This was so fucking dumb. Why did I do this? 
+AABRIA: I love it. I love a choice. 
+MATT: Great, great. 
+AIMEE: We love a choice. 
+AABRIA: We love a strong choice. 
+AIMEE: What's that? 
+LIAM: Stay on for eight seconds and you win. 
+AABRIA: Yep. 
+AIMEE: Yeah. 
+AABRIA: It's a full rodeo. All right, while I am slowly putting this together, I need you to make a wisdom saving throw. 
+AIMEE: Goddamn it, Aimee. 
+AABRIA: ♪ Nails are useless ♪ 
+AIMEE: I mean, when will you ever learn? That's a five. 
+AABRIA: A five? 
+AIMEE: A five. 
+AABRIA: Oh, I love it. I love to see it. As I put you on top of this boy. Love you for that. And basically, as you Misty Step, you look out from astride my beautiful stone construct that did nothing to deserve this indignity, as another one rises up where you were. 
+MATT: Dang! 
+AIMEE: Okay. 
+AABRIA: You lose two hit points. Your hit point max reduces by two. 
+AIMEE: What about my temporary points? 
+AABRIA: You can take them from your temp HP. 
+AIMEE: Okay. Thank you. 
+AABRIA: But your hit point max still drops by two. 
+AIMEE: Okay. Yes. 
+AABRIA: So let's just leave your temp HP as is. 
+AIMEE: Oh. 
+AABRIA: Because then that feels like a net loss of four, which feels bad. 
+MATT: Mm-hmm. 
+AIMEE: So-- sorry, so then what do I do? 
+AABRIA: Leave your temp HP as is. 
+AIMEE: Yes. 
+AABRIA: Just drop your hit point max by two. 
+AIMEE: Okay. 
+AABRIA: Because it's going to naturally take two away. 
+AIMEE: Gotcha. 
+AABRIA: Okay, and go ahead and roll a d6 for me. 
+AIMEE: One. Terrible. 
+MATT: Oh shit. 
+AABRIA: It's not terrible. 
+AIMEE: Oh, oh, okay good. 
+MATT: We don't know. 
+AABRIA: You don't know what this is. 
+AIMEE: We don't know, we don't know 
+AABRIA: This is it's own thing. 
+AIMEE: We don't know. 
+AABRIA: As the arcane miasma around you coalesces into a single mote of potential for you, Opal. You are a person divided between the martial and the arcane. And you feel that and now you can see it. You see the blurred edges between what many know as the magic of nature and the magic of the divine. And you see that they're not distinct and separate entities. There is overlap. There is a blend, a mix. It resonates with every fiber of your being and you reach out and grab it. And you hold onto this vitality that both exists from the divine and out and away from all of the lush green jungle around you. I need you to roll 3d6 for me. 
+AIMEE: Do I add them? 
+AABRIA: Yes. 
+AIMEE: 11. 
+AABRIA: You have an 11 point pool of healing now that you can give out as a bonus action. 
+AIMEE: To people? 
+AABRIA: To anyone within 30 feet of you. 
+AIMEE: Noice. 
+AABRIA: You don't have to use the full 11, just, you have 11 points to play with. 
+AIMEE: And can I do that at-will at any time or--? 
+AABRIA: As a bonus action. 
+AIMEE: As a bonus action, okay. 
+AABRIA: Makes sense? 
+AIMEE: Yeah. 
+AABRIA: If you have any questions about that, feel free to ask. 
+AIMEE: Okay. 
+AABRIA: Pools are cool. 
+AIMEE: Did I already use my bonus action? 
+AABRIA: You bonus action Misty Stepped. 
+AIMEE: Yeah, I sure did, I just didn't know if you remembered. 
+MATT: (laughs) 
+AIMEE: Because I want to do something for Orym. I want do something nice! 
+AABRIA: When her character is dead, let the record show that was the moment I decided to kill her character. 
+AIMEE: No! (laughter) 
+AIMEE: I was trying to be nice! 
+AABRIA: Yeah, uh-huh, uh-huh. Totally. 
+ROBBIE: Always try to cheat as nicely as I could. 
+AIMEE: I was trying to do a nice cheat. 
+AABRIA: Vibes, vibes, vibes. Fearne, you're up. 
+ASHLEY: Okay. 
+AABRIA: Go ahead. I'm not-- This is fine. It's not going to go badly from here on out. 
+ASHLEY: Okay. So-- 
+AABRIA: Orym on deck. 
+ASHLEY: I am going to look down at my hand and shake it and produce a Flame Blade. 
+AABRIA: Yeah. 
+MATT: Nice. 
+ASHLEY: And I'm going to look up at this construct and try to give him a jab. 
+AABRIA: Do it. Do a hurt. 
+ASHLEY: Okay. Ooh, which one? That would be, 14. 
+MATT: You get to add a d4. 
+AABRIA: You swing out with the blade and you see it hit as nothing happens. Add your Bless. 
+ASHLEY: What did I say? 
+AABRIA and MATT: 14. 
+ASHLEY: 14, 16. 
+AABRIA: With a 16, you keep pushing, and you see it begin to cut into this stone, like a laser cutting in. And yeah, you're able to come through. Go ahead and give me a damage roll. 
+AIMEE: Yes! 
+ROBBIE: Noice. 
+AABRIA: Noice. 
+ROBBIE: Noice. 
+ASHLEY: Okay. Ooh! Okay. 
+MATT: Noice. 
+AABRIA: Vibes. 
+AIMEE: God. 
+ASHLEY: That is a lot. Okay. 17. 
+AABRIA: Oh my god. 
+MATT: Hell yeah. 
+AABRIA: Let's go. 
+ROBBIE: Jeez. 
+AIMEE: She did that. 
+AABRIA: You send a massive gash down the front of your stone construct and you see just a little bit of blue light pouring out from it. Very deep, but noticeable, visible. Okay, what do you want to do with your bonus action? 
+ASHLEY: I don't know if I can do that this round. Okay. I would like to, with my bonus action-- Let me actually see if I can do that as a bonus action. No, I cannot. Okay. I am going to-- I am talking right now because I'm trying to think of something to do. 
+AABRIA: You're good. I'll just do body rolls 'til you're ready. You take your time. 
+AIMEE: You can always try Mind Sliver. 
+AABRIA: Yep. 
+AIMEE: If you want to waste one. 
+AABRIA: Definitely do a thing specifically for a creature. (laughter) 
+AABRIA: I love that for you. Thank god it wasn't-- 
+ASHLEY: Is it open enough to reach in? No. 
+AABRIA: Not really. You've got probably an inch and a half of depth-- 
+ASHLEY: Yeah, yeah, yeah, yeah. Okay, I'm not going to get carried away here. Okay. I am just going to-- Oh! I am going to whisper sweet nothings to my staff, and bring my two little snake heads to life. 
+AABRIA: Love it. 
+ASHLEY: That's my bonus action and I am done. 
+AABRIA: Beautiful, do you want to move anywhere? There's so much room for you to do moves and activities. (laughter) 
+ASHLEY: I'll stay. 
+AABRIA: Vibes. Wisdom saving throw. 
+ASHLEY: Okay. 15. 
+MATT: Plus a d4. 
+ASHLEY: Plus a d4, which is-- Ooh, great, 19. 
+AABRIA: You feel the beginnings of a tremor directly below your feet, and with your attention, you see that it stops immediately. Roll a d6 for me. 
+MATT: Attacks and saving throws. I got to remember that. 
+ASHLEY: [inaudible] d6 for this one. 
+MATT: Bless. It's a d4 to attacks and saving throws. 
+ASHLEY: Three. Oh, you got excited. That was an excited face. 
+AIMEE: Oh, that was a sad face. 
+AABRIA: Fearne, you blink and your eyes open. They're a little blurry and time appears before you. Not like a road, but like a beautiful, ornate, massive spiderweb speckled with dew. And you know that all you have to do, all you've ever had to do, was reach out and pluck a strand and it completely changes the pattern, reshapes it to your will. The thing that you feel so strongly in this moment, Fearne, as a reaction, until I say so, you can demand a reroll of any d20 roll that you see within 30 feet of you. 
+AIMEE: Whoa! 
+AABRIA: Yourself, an ally, or enemies. 
+ASHLEY: That is so cool! Okay. 
+AABRIA: Cool. That's it. Orym, you're up. 
+ASHLEY: I want to shake the web. Just a lot of water dew comes off. 
+AABRIA: Oh, it was a metaphysical web. 
+ASHLEY: I know, I know. 
+AABRIA: Okay, cool, you reach out and-- 
+ASHLEY: I'ma leave it. I'm just kidding. 
+AABRIA: The construct is like-- "Wait, wait, I don't, I don't know what that is. I don't know what to do with that. Ma'am." Orym. 
+AIMEE: Ma'am, this is an Arby's. 
+AABRIA: Yeah! (laughter) 
+LIAM: Sizing everything up around me really quick and feeling that mote of potential and possibility in me, I look at this thing in front of me and notice it's got one central eye, seemingly. I'm going to jump up on its forearm to give myself some height with these boots and slash up and away against that eye, and I'm going to use a superiority die to do a pushing attack. 
+AABRIA: Let's go. 
+LIAM: So first-- 
+ASHLEY: Yes, yes. 
+AABRIA: Are you trying to push my big boy? 
+LIAM: I'm going to try, yeah. That is a 19 plus a d4, 20 plus-- 
+AABRIA: I just don't feel good about you pushing my big boy. 
+LIAM: 26 to hit. 
+AABRIA: Yeah, it hits! 
+LIAM: And then-- What?! 
+AIMEE: Ayo! 
+AABRIA: I expected you all to roll like garbage. 
+LIAM: Two plus four is six, plus the superiority die damage. So 12 points of damage and it has to beat-- It's not hard to beat, but it's a 14 to stay put. 
+AABRIA: Okay, okay. 
+LIAM: And, oh, and as he slashes, and turns away, he jack rabbit kicks it in the eye as hard as he can. 
+AABRIA: Amazing. 
+ASHLEY: Awesome. 
+AABRIA: Yeah, you feel this damage against its eye is extra effective. How much did you do? 
+LIAM: I did 12 points of damage and then the save to push or not be pushed is 14. 
+AABRIA: He rolled a natural 17 on the dice. 
+LIAM: And then I'm using an Action Surge and do it again. So I hit the ground-- 
+AABRIA: Do it! 
+LIAM: -- and stab up and try to plant it into his gullet and stab, and if that lands, I'm then going to do a really hard crunch and kick up into the same spot. 
+AABRIA: Let's go! 
+MATT: Nice! 
+ASHLEY: Love it. 
+LIAM: That is a 22 to hit. 
+AABRIA: Yeah. What? I've made a mistake. My hungry guys aren't hungry enough. 
+LIAM: That is 10 damage and then a 14 save again to see if it does it. 
+AABRIA: (whistles) Okay, okay. I hate to say this. It rolls a natural one. 
+AIMEE and MATT: (laugh) 
+LIAM: So it's pushed 15 feet backward. 
+AABRIA: There's not 15 feet of room here where I could have made a really cheeky case for it to stay as you-- 
+LIAM: Byeee. 
+AABRIA: -- kick up and away and somehow your impossibly tiny little legs have caught it just in its eye and as it reels back, you see it drops half an inch as its heel slips back. And then its whole body weight, this hulking mass, so top heavy, shifts back over that plane of hip and knee and is lost out and away (whooshing) and clatters away down to the ground. 
+MATT: That is fantastic. 
+AABRIA: Amazing. 
+ASHLEY: Sir! 
+LIAM: And I start to jog past Fearne and go: Up top! And give her a high five as I leap off and land in flank position behind the other big boy opposite of Dariax. 
+AABRIA: Beautiful. Ya hop off. 
+MATT: That was amazing! 
+AABRIA: Orym, make a wisdom saving throw as you go. 
+ASHLEY: That was so cool. 
+LIAM: That is a one, but I get to reroll it. 
+AABRIA: Oh, Halfling Luck. 
+LIAM: Very low, though. A seven. 
+MATT: You get to add a d4. 
+AIMEE: Yes. 
+LIAM: Eight. (laughter) 
+MATT: I tried. 
+LIAM: I'll take it! 
+AABRIA: Minus two hit points. Minus two to your hit point maximum-- 
+ASHLEY: God, what a-- 
+AABRIA: -- as a new construct appears. 
+LIAM: Ugh! 
+AIMEE: Goddamn it. 
+AABRIA: As a mixture of your own vitality and the stone of this place springs up, standing ominously, unharmed in front of you, Fearne, ready to go. Hey, Opal, I'm going to need you to make a dexterity saving throw with disadvantage. 
+AIMEE: Fucking hate it here. 
+AABRIA: I know. 
+AIMEE: I really do. 
+AABRIA: What'd you call me? 
+AIMEE: I said I fucking hate it here. 
+AABRIA: What'd you call me? 
+AIMEE: Not you! You're a princess. 
+AABRIA: I have a long, impeccable memory. 
+AIMEE: It can't get worse than that. 
+AABRIA: Disagree. 
+MATT: Add a d4. 
+AIMEE: Do I want to do this? Yes, I do. I do, I do, I do. What's that? Ooh. Plus what? What was it, a what throw? Dexterity? Oh, okay, wait. With disadvantage, so that's going to be-- It was a two. Plus the dex is a four. 
+ASHLEY: It was a two. 
+AIMEE: Plus my Bless is a four, so that's eight. 
+AABRIA: Beautiful. (laughter) 
+AIMEE: Don't kill me, please. 
+AABRIA: You are looking out, and you're like, "Yeah, Orym, that was tight!" 
+AIMEE: Yeah, that was great! 
+AABRIA: And you look down, and you see a tiny needle of chardal-- Chardalyn, I don't know where I am. Residuant, residuum. Is poking out of your right shoulder. 
+LIAM: Oh no. 
+AIMEE: Oh. 
+ASHLEY: Oh no. 
+MATT: Really? 
+AIMEE: What does that mean? What's this mean? Can I talk? 
+LIAM: Magic boys. 
+AABRIA: Yeah, you're fine. 
+AIMEE: Okay, is it an action? 
+AABRIA: No, you're good, you can talk. You see it happen, and it happened. 
+AIMEE: Do you guys see this? Anyone? 
+ROBBIE: I'm very far away. 
+LIAM: See it. 
+MATT: I'm very focused on this big boy in front of me. 
+AABRIA: You feel no deleterious effect. It's just there, and we move along. 
+MATT: Yay. 
+AABRIA: Dariax, you're up. 
+MATT: All right, so we only make these things with our own health. So to beat them, we have to kill ourselves. 
+AABRIA: 100 percent. 
+LIAM: Eh. 
+MATT: Or... stab it in the eye! And I'm going to ahead with my spear and-- 
+AIMEE: Yes! (laughter) 
+MATT: With the light from last round. 
+AABRIA: Yeah. 
+MATT: Make two strikes with the spear towards its eye. 
+AABRIA: Beautiful. Go ahead and make those attack rolls for me, baby. 
+MATT: Ooh, that is a-- First attack is a 20-- 24. 
+AABRIA: Hits. 
+MATT: And the second one is weirdly cocked against itself. 
+LIAM: He's flanking too, right? 
+MATT: Ah, that's true, he's flanking. 
+AABRIA: Yep. Are those even 5th Edition rules? That feels like some 3.5 bullshit, but I'll allow it because I think you're cute. 
+MATT: It is a variant rule, so you don't have to keep it up. 
+AABRIA: Oh no, it's fine. 
+MATT: Wouldn't matter. I rolled a natural three and then a natural one on my advantage on that one. 
+AABRIA: Oh, beebee! 
+MATT: So second attack is a full whiff, but at least the first one hits. 
+AABRIA: Yeah, okay, roll your damage. 
+MATT: All righty, going in there with this one. 
+LIAM: Thurston Howell was in the combat for a second. 
+MATT: Yeah. 
+LIAM: (Thurston impression) It was a full whiff. (laughter) 
+MATT: (Thurston impression) [Inaudible] impact. 
+ASHLEY: That voice. 
+MATT: That's going to be seven points of piercing damage to its eye. 
+LIAM: (Thurston impression) I stab it in the eye. 
+AABRIA: Beautiful. You see as that bit of blue stone begins to split, it is more vulnerable to your attacks than the rest of its form as it cracks apart and more blue light seems to pour out from it. 
+MATT: Oh, ah, I love the light. Gimme more, gimme more. That's my action. Let's see here. All right, all right. I'm just going to stay put. Going to hope now that I'm standing here, I get one hit off, second one glances off of it, and I can see between its legs, Orym's landing behind it, getting ready. And I'm like: Look over here, buddy! Look here! (whistles) Little dwarf fellow, come after me. And I'm trying to keep him distracted so you have the opportunity. And you hopefully won't fall off. And that's Dariax's turn. 
+AABRIA: Beautiful, okay. My original bad boy got hurt. No, he's here, that's him. Yeah, he's going to reach up and attempt to grab you by the ankle and slam you into the ground. In that you appeared on top of his body. 
+AIMEE: That's what I get, honestly, for doing that. 
+AABRIA: Does a 14 hit? 
+AIMEE: Just hits. 
+AABRIA: Okay. 
+AIMEE: I hate it here. 
+LIAM: (laughs) 
+AABRIA: You're going to take seven points of bludgeoning damage. And now I need you to make a strength saving throw. 
+AIMEE: Okay. That is an 11. 
+MATT: Add a d4. 
+AIMEE: I already used it. 
+AABRIA: No, that stays up. 
+MATT: It's to every save. 
+AIMEE: Oh, yeah! Oh, what did I say? I said 11, so that's 13. 
+AABRIA: Reaches up, grabs you, wraps firmly around your ankle, and slams you into the ground. 
+MATT: (groans) 
+AABRIA: And while it's held around your ankle, you hear, "What do you fear?" But it's not the voice of the golem. It's something older. It reminds you, the cadence reminds you a bit of the way that people in Niirdal-Poc spoke. 
+AIMEE: Yeah. 
+AABRIA: So in this moment, what are you most afraid of? 
+AIMEE: Never seeing my sister again. 
+AABRIA: And you see the other hand reaching up to hit you again, opens and begins to slowly reach for your necklace to tear it away from you. 
+MATT: Oh. 
+AIMEE: Why'd I tell the truth? 
+AABRIA: I mean, this is above the game moment. Like, you couldn't lie to it. 
+MATT: I fear being fed a nice sandwich. 
+AABRIA: Yeah, and a PB&J appears. 
+ASHLEY: I fear you dying. 
+AABRIA: Oh no, yeah, I'm afraid that, if you would die, what would I do? (laughter) 
+AIMEE: Okay. 
+AABRIA: All right, Dorian, you're up. 
+ROBBIE: Hmm. 
+AABRIA: And Opal, you're on deck. 
+ROBBIE: Is the creature that appeared before, you said it was unharmed. It's not the same creature that fell off the edge that appeared before? 
+AABRIA: No, the one that fell off the edge is, you can... You don't have a good view on it. You heard it hit, but it's not gone. 
+ROBBIE: So that's just-- 
+AABRIA: It's just down. 
+ROBBIE: -- new friend. 
+AABRIA: It's just a new guy. 
+ROBBIE: New friend in front of us. 
+MATT: Whoa there, buddy. 
+AABRIA: He's a hungry new guy. 
+ROBBIE: All right. Well, I've still got my winged boots on. 
+AABRIA: Yeah, you do. 
+ROBBIE: I'm going to try and fly over to Fearne. 
+AABRIA: Okay. 
+ROBBIE: Can I make that, 30 feet? 
+AABRIA: 30 feet of movement won't get you quite there. You'll end up getting about as far as Opal. 
+ROBBIE: All right, and is Orym still flanked, the big baddie in the center? 
+AABRIA: Yes. He is. 
+ROBBIE: All right. I'll go to him instead. I'll just use the boots to clear that gap. 
+AABRIA: Yep, absolutely. You land unharmed. 
+ROBBIE: And (sighs). I don't have the best track record, but I am going to pull out both of my weapons and have them at the ready and try to take a strike at him from the side there. 
+AABRIA: Yeah, do some hits, let's go. 
+ROBBIE: Let's do it. 
+LIAM: Did you fly over like Hermes? Is that what happened? 
+ROBBIE: Well-- 
+AABRIA: Oh yeah. What do your boots look like? You've been sitting on these the whole campaign. 
+ROBBIE: I used them for my fashion show. 
+MATT: You did, you did. 
+ROBBIE: But never in combat. 
+AABRIA: That's right. 
+ROBBIE: Yeah, yeah, yeah. 
+AABRIA: That's right. 
+ROBBIE: This is more like a skipping prance over a long thing. So he runs, and as he flies, they just sort of carry him just a little extra further than they thought. And as he sort of skids, not as gracefully as you would hope, to a stop right in front of the monster. 
+AABRIA: Okay, I love it. 
+ROBBIE: And I'm going to go ahead and start to take a swipe with my scimitar. 
+AABRIA: Beautiful. (chanting) Do a hit, do a hit. 
+ROBBIE: Ah, not great, 14. 
+AABRIA: Misses. 
+ROBBIE: Misses. 
+AABRIA: Wait, you have Bless. 
+ROBBIE: Does that count on an attack? 
+AABRIA: Attack rolls and saves. 
+ROBBIE: Ooh! 
+AABRIA: That's your last time I'm reminding you about Bless. 
+ROBBIE: I thought that was only saving and-- 
+AABRIA: I'm trying to do a murder. 
+ROBBIE: All right, well, now it's a 15. 
+ASHLEY: Reroll, reroll, reroll. Wait, what are you doing right now? 
+ROBBIE: What? 
+ASHLEY: What are you doing right now? 
+ROBBIE: I'm trying to hurt this bad man! 
+ASHLEY: Reroll it, reroll it. 
+ROBBIE: Okay. 
+AIMEE: Nice! 
+AABRIA: You reach out to that metaphysical spider web, and you pluck it. And you see him swing. And he tries to push through, and it glances off at an awkward angle, and you snap the thread. 
+ASHLEY: Hey! 
+AABRIA: And it goes back in time, and he gets another attack. 
+AIMEE: Nice. 
+ROBBIE: (grunt of exertion) Oh, ho! 
+ASHLEY: d4, oh no. 
+ROBBIE: Oh, well, I think I'm going to get it regardless. 18, six, 24. 
+AABRIA: Hits. 
+MATT: Yeah! 
+AABRIA: Let's go. (cheering) 
+ROBBIE: Am I aware that that just happened? 
+AABRIA: You know what? I'm not going to say no right away. Make an arcana check. 
+ROBBIE: Eugh. 10. 
+AABRIA: Nope. You got it in the first try. So proud of you. 
+ROBBIE: Yes, I'm the best! (laughter) 
+AABRIA: Yay! 
+ASHLEY, AIMEE, and AABRIA: ♪ You're the best around! ♪ 
+AABRIA: No, [inaudible] you were getting at YMCA. 
+ROBBIE: And I'm going to go-- (laughter) I'm going to go right for that bent support leg knee right in front of me-- 
+AABRIA: Yeah, let's go. 
+ROBBIE: -- to try to take him out from his knee. 
+AABRIA: Beautiful. Give me that, roll that beautiful bean damage. There you go. 
+ROBBIE: Not huge, six. 
+AABRIA: Yeah, that's not bad. 
+ROBBIE: Six, and then for my bonus action, I'm going to use two-weapon fighting, and I'm going to try to go again with my handaxe. 
+AABRIA: Do it. 
+ROBBIE: Same knee, same spot. Just chopping him down. 
+MATT: Yeah! 
+ROBBIE: We'll see. Blep! (laughter) 
+ROBBIE: It's exact same, it's a 14 again. 
+MATT: Did you add a d4? 
+ROBBIE: Ooh, the d4! Thanks, Bless me! That's a 15 again. Impossible! 
+AIMEE: Oh my god. 
+ROBBIE: I feel like I'm in a time loop. How did I roll the exact same thing? This is horrific! 
+AIMEE: "Impossible!" 
+AABRIA: Amazing. 
+ROBBIE: I assume I miss with no divine intervention this time. 
+AABRIA: You slide in and catch it in the back of the knee, and you send bits of ornately-carved stone scattering out and away from you, and you try to bury your axe in your offhand into it as well. And it bends down at this terrible angle. You hear a straining whine as it threatens to shatter your scimitar behind its knee. And as you pull it free, it misaligns your offhand attack, and it glances harmlessly off of it. 
+ROBBIE: Damn. 
+AABRIA: Beautiful, though. All right. 
+MATT: That was awesome. 
+AABRIA: Anything else? 
+ROBBIE: What were the conditions of me controlling gravity? Did I need to use that on a bonus action or something? 
+AABRIA: It would probably be super good on your movement. 
+ROBBIE: What did you say? 
+AABRIA: You should use it on your movement. 
+ROBBIE: Okay. 
+AABRIA: But this is a thing-- This is such a weird thing. I would like for you-- This is mechanically-- I've made this the fuck up. So if you can come up with a weird way in which you want to try to use it and leverage it, I'm so happy to give you weird advantages on things. 
+ROBBIE: Yeah, I don't know if this is within the realm of what's going on, but what I'd like to do if-- you tell me-- 
+AABRIA: Yeah, let's play this game. 
+ROBBIE: I would like to use that to make him heavier, to take that-- 
+AABRIA: It only works on you. 
+ROBBIE: Only on me. 
+AABRIA: Yeah. 
+AIMEE: Damn it. 
+ROBBIE: Okay, no worries. Good to go. I can't do anything, I'm done. 
+AABRIA: Okay. 
+AIMEE: Cool. 
+AABRIA: Opal, you're up. 
+AIMEE: Okay, so I see that it's reaching towards my opal, so I'm going to hold onto it, and with another hand cast-- 
+AABRIA: Yeah, you're not on it anymore. 
+AIMEE: -- Eldritch Blast-- 
+LIAM: Yes! 
+AIMEE: -- on the guy, on the beast. 
+AABRIA: Okay. 
+MATT: Do it. 
+AABRIA: As a reminder, casting a ranged spell in-- 
+AIMEE: I know. 
+AABRIA: Okay. So please roll with disadvantage. 
+AIMEE: I know it, but I got a se-- Ooh okay, let's see. Hold on, hold on, hold on. Ah! So that is going to be-- Do I add to the five to this? Sorry, or no? The spell attack. 
+AABRIA: It should have your to hit next to it. 
+AIMEE: To hit next to, wait. It's a 17 plus five. 
+AABRIA: Oh, yeah, it hits. 
+AIMEE: It hits, it hits. 
+AABRIA: Y'all, the armor class is 16 on these guys. 
+AIMEE: Okay, great. Well, it hits. 
+AABRIA: Yeah. 
+AIMEE: And-- 
+AABRIA: Nicely done. 
+AIMEE: The damage is-- 
+AABRIA: The damage. 
+AIMEE: The damage is four. 
+AABRIA: Beautiful. 
+AIMEE: Yeah. 
+AABRIA: So you reach up, and you blast it, matching its open palm against yours. 
+AIMEE: Yeah, yeah, just like that. 
+AABRIA: You send a-- Is your magic still pink and cute? 
+AIMEE: No. 
+AABRIA: Okay. Well, you describe it for me a little. 
+AIMEE: She's been through some shit. 
+AABRIA: Yeah, she's seen some shit, okay. 
+AIMEE: So it's going to be a mauve now. 
+AABRIA: All right, Miss Thang. (laughter) 
+AABRIA: A little mauve beam of light. 
+AIMEE: It's just dark pink. (laughter) 
+ASHLEY: We all see this. 
+AABRIA: The color of trauma. 
+AIMEE: The color has changed! Slightly. 
+AABRIA: It's pink for goths. 
+ASHLEY: "It's a mauve now." 
+AIMEE: Yeah, pink for goths. 
+AABRIA: As you reach out and blast it in the hand, and it shoots back and away. This thing is looking pretty rough now. 
+AIMEE: And then I also want to ask Orym how he's doing on-- How are your hit points doing? 
+LIAM: Been better, been worse. I'm okay. 
+AIMEE: Okay. Well, I would love, as my bonus action, I would love to give him five points of healing. 
+AABRIA: Okay, so mark that off. You only have six left now. 
+LIAM: Thanks. 
+AIMEE: Welcome. And then I guess I'm not going to move. There's really nowhere for me to move. So I'll just stay put, and that's my turn. 
+AABRIA: Sweet, all right. My sweet friend over here is going to take a big, old leap up. 
+ROBBIE: Oh no. 
+LIAM: Dang. 
+AABRIA: I need you to make a dexterity saving throw, Dariax, because he's going to try to do a smoosh on you. 
+LIAM: We're in a tight spot. 
+MATT: Oh, that's bad! That's a four. (groaning) 
+AABRIA: Amazing. So we're going to share this spot together. 
+LIAM: Mattholomew Mercer! 
+AABRIA: Oh, and you already used your reaction. Oh, action economy is a bitch. 
+ASHLEY: I know, I know. I just-- You haven't gotten a good-- 
+MATT: Wait. 
+ASHLEY: You know. 
+ROBBIE: I appreciate the kindness. 
+AABRIA: Uh-huh, uh-huh. 
+MATT: Wait, sorry, sorry. 
+AABRIA: This is my favorite thing in the world. 
+AIMEE: He's got an idea. 
+AABRIA: That panic, like, "Hold on, I have half a clue." 
+ASHLEY: And it's so good to see him do it because I'm like, (exhales) Okay. 
+AABRIA: Come on, cheeky friend. 
+MATT: All right, cool. So I'm going to go ahead and use my Favored by the Gods, or in this case it'd be Favored by The Observer, to add 2d4 to that four, which will bring it to... Ah, a nine. And then I'm going to use your inspiration that you gave me to add, bring it to a 10. (laughter) 
+AABRIA: You reach both within yourself to that connection to The Observer, and without to your connection with your friends. And you feel that it's not quite enough as the sort of weird, blue electric air gets blotted out by this figure about to crush the shit out of you. 
+MATT: I'm going to be fine. I got my friends surrounding me. (crushing) 
+AIMEE: Oh man. 
+AABRIA: Hold on, because that's not what I said. 
+MATT: Oh, sorry. 
+AABRIA: As you begin to lean in, you scrunch the muscles in your back, and you feel that itching again. 
+MATT: (worried sound) 
+AABRIA: And then, as you crouch a little more and brace for impact, your eyes go white as you clench up and you see your vision is filled with brilliance as two pairs of large wings erupt out of your back. 
+AIMEE: (gasps) 
+AABRIA: I would like you to make that dexterity save again, please and thank you. 
+MATT: Ah! Nine! 
+AABRIA: Add the other stuff back to it, like Favored by the Gods and Inspiration. 
+MATT: So that would be 12. 
+AABRIA: With a 12, you get caught. It sort of lands on the back of your calf and I'm going to give you a little bit of damage from that. 
+MATT: (pained) Yeah, I deserve it! 
+AABRIA: But most of you is able to pull out and away, and you now have the ability to fly for the next minute. 
+ASHLEY: Oh, yes! 
+MATT: (excited and confused yell) 
+AIMEE: Oh my god! 
+MATT: Oh my god is right! 
+AIMEE: You're flying! 
+MATT: What is happening?! (laughter) 
+AABRIA: But you are going to take three points of bludgeoning damage as you get stomped on the calf. 
+MATT: That checks out. 
+AABRIA: Sweet. 
+ASHLEY: (confused yell) 
+AABRIA: So you scooch out and away. 
+AIMEE: It's a flying dwarf! 
+MATT: I'm very much channeling-- Oh, my brain is not working suddenly. Arthur, from The Tick, when he first gets his wings. 
+AABRIA: Yeah! 
+MATT: He's like (panicked shouting). 
+AABRIA: 100 percent. 
+MATT: Full on gyroscoping in the air. 
+AIMEE: Mosquito. 
+MATT: (laughs) Yep. 
+AABRIA: And now, in front of you, Opal, it's going to use the other half of its attack to try to backhand you off of the plant-- Off of the surface. I don't know words anymore. A 15 hits. I need you to make a strength saving throw. 
+AIMEE: Okay, well, I do have-- I haven't used my Inspiration yet. 
+AABRIA: You're going to want to. 
+AIMEE: I think I'm going to want to. You said strength? 
+AABRIA: Yep. 
+AIMEE: It's a nine. 
+AABRIA: You take three points of bludgeoning damage, and you feel yourself lifted up off your feet as you're sent out and away, off of the ramp. And we'll see what happens to you in a second. But for now, you are in freefall. 
+AIMEE: Fuck. Okay. 
+AABRIA: Okay. That was-- Opal, you're up. No, no, no, sorry. Fearne, you're up. 
+ASHLEY: Okay, question. 
+AABRIA: Yes? 
+ASHLEY: Are these medium or large creatures? 
+AABRIA: These are large creatures. 
+ASHLEY: Copy, okay. I am going to-- I still have my Flame Blade, which is a concentration spell. So do I need to roll to see if that's still... 
+AABRIA: Did you take damage? 
+ASHLEY: I did not. 
+AABRIA: Then you're fine. 
+ASHLEY: Oh, yeah. Okay. Yeah, I'm going to try to get into the little eye bit. 
+AABRIA: Yeah. 
+ASHLEY: And-- yeah. 
+AABRIA: Yeah, give me an attack roll. 
+ASHLEY: Okay. Oh no, where's Opal? Okay. 
+AABRIA: Don't forget Bless. 
+ASHLEY: Okay. Just what I needed. 16? 
+AABRIA: Just hits. 
+MATT: Yeah! 
+ASHLEY: Had 14. Rolled two. Okay, so let's move these. Sorry, okay. Seven points of damage. 
+AABRIA: Beautiful, directly to its eye? 
+ASHLEY: Directly to its eye. 
+AABRIA: Yep. 
+AIMEE: Yes. 
+AABRIA: You see that that damage is even more effective as the blade comes up and it gets caught in its eye, and you can feel that sort of glass breaking under your grip as you're punching into it. And it's actually-- It is large, but you are incredibly tall for a medium creature. And as this thing is sort of caving because you're hitting its weakest point, at some point, you see that you are of a height with it as you've pushed it down, and you continue to push it down. And you slam all the way forward, finishing the blow, and it's taken a knee now, and it's looking at you, just at your eye height. 
+MATT: Yeah. 
+AABRIA: Bonus action? You got some snakes out. I don't know what you're going to do about that. I don't know if you're trying to bite a stone. 
+LIAM: Kneel before Fearne. 
+ASHLEY: Okay, that's not a bonus action. 
+AABRIA: Go ahead and give me a perception check while you're up here just vibing. 
+ASHLEY: Okay. Okay, great. 21. 
+AABRIA: I will offer you the information that you hear both the surprised shriek and the sort of skittering of heels across stone. And you look, and you can see out of the corner of your eye, pink disappearing off, over the platform, as Opal was knocked out in a way. So you're aware that it's happened. That has no bearing on what you want to do. I just wanted to make sure it's very clear that you know it's happening. You still have your bonus action and movement. 
+ASHLEY: There's so much I want to do for a bonus action. 
+AABRIA: ♪ Action economy ♪ 
+ASHLEY: I know. Okay. Is it still on there, the eye? 
+AABRIA: Yeah, but it is splintered apart. 
+ASHLEY: (growls) 
+AABRIA: It's still up, though. You did an aggressive amount of damage to it by attacking its weakest point. 
+ASHLEY: Okay, I can't do anything else. I can't do anything else. Oh, yes I can. I take that back, okay. Hold on. Never mind. I'm done. I'm staying. I'm watching it. I am-- I'm staying. 
+AABRIA: Okay. 
+ASHLEY: I'm right there, yeah. 
+AABRIA: Perfect, all right. My other-- What is this bad boy? I've quickly lost track of whomst's whomst. I think it's this boy. He's going to get his attacks on you now. So let's get-- Does a 14 hit? 
+ASHLEY: No. 
+AABRIA: All right. It attempts to slam down on you from this weakened position, but it assumes that it would always have a height advantage, and it sort of just slams next to you and doesn't do any damage. But it will attempt to grapple. Does a 16 hit? 
+ASHLEY: No. 
+AABRIA: (sighs) Beans. And it tries to reach forward. And the moment it tries to reach to wrap around you, your sword that's still there shatters it a little bit more, and it stops in its tracks, sort of frozen, and does not grapple you. Okay, that's the end of its turn. 
+ASHLEY: Fuck. 
+AABRIA: We're back up at the top. Orym-- yeah, Orym, you're up. Dariax, you're on deck. 
+LIAM: Good, quick lay of the land. I think the creature in front of me, you said, is looking rough-- 
+AABRIA: Yes. 
+LIAM: -- previously, correct? 
+AABRIA: Yes. 
+LIAM: Okay, since he's large and I am wee, I am going to run under his legs and get between the two of these things. 
+AABRIA: Great place to be, love that for you. 
+LIAM: And leap up-- I know. And slash the new one in the face. 
+AABRIA: Oh, okay. 
+LIAM: That is a 16-- 22 to hit. 
+AABRIA: Absolutely hits. 
+LIAM: I'll expend a superiority die-- 
+AABRIA: Yes, you will. 
+LIAM: -- with a goading attack. So I will slash it against the eye and flip the bird when I land. 
+AIMEE: Yeah! 
+AABRIA: We love that. 
+LIAM: Three plus is nine, plus superiority is 10 points of damage. And now it needs to make a wisdom save against 14. 
+AABRIA: Natural 15. 
+LIAM: Okay, it saves, so no, no effect. And that's the end of my turn. 
+AABRIA: Amazing. Okay, yeah, this thing hated that. Opal, you are in freefall in the air. 
+AIMEE: Can I do anything? 
+AABRIA: It's not actually your turn yet. 
+AIMEE: I know. 
+AABRIA: But I was going to say-- you know what? It's fine. I want there to be a chance that this happens. And we're observing anime physics here, where you can change your trajectory in the air. Please make a dexterity save with disadvantage. 
+MATT: Plus a d4. 
+AIMEE: Okay, what is that? Oh, that's a-- 
+AABRIA: I'm just going to raise the DC for this. 
+AIMEE: Seven plus a d4 is... 
+LIAM: Also, GM, Orym should be in the splash zone on the map. 
+AABRIA: Good to know, thank you. 
+AIMEE: And what did you call that, a dexterity? 
+AABRIA: Yes. 
+AIMEE: That's a 12. That's a 12 with the d4. 
+AABRIA: Oh god, you are just in the cuddle puddle right now. You hear a whistle, really quick but sharp and loud. (whistles) And as you turn, you see another residuum needle lands between your eyebrows. No damage. 
+AIMEE: Okay. 
+AABRIA: It's there. And you continue to fall. 
+AIMEE: And that's it? Can I-- Do I know what it is or what it means or anything? 
+AABRIA: It's not your turn. 
+AIMEE: Okay. I had to ask. 
+AABRIA: I respect that. Your turn's coming up eventually. Dariax, you're up. 
+MATT: (sighs) So I just watched this thing take Opal and slam her into the stone. She gets up, and another one just knocks her off the edge. 
+AABRIA: Backhands her off, yeah. 
+MATT: I'm scratching at the weird itch on my back as I watch that happen and go: Oh, that's bad. (groans) Opal! (cheering) I'm going to use my movement to try and dart after her. 
+AABRIA: These boys have reach. So I'm going to attempt to hit you as you go. 
+MATT: I'll take it! 
+AIMEE: Aw, man. 
+AABRIA: With a natural seven, it doesn't hit. Wait, what's your armor-- No, your armor class, I know what it is. I'm looking at it. I don't hit. So yeah, you're able to dive off. And you go and make quick time. You feel yourself move so quickly. Your fly speed is 90. 
+MATT: Oh damn! 
+ROBBIE: Shit. 
+AABRIA: It's four wings, dude. 
+MATT: That's true. So I (whoosh) go down, try and scoop her up. Do I have enough movement to get partially back? Or is that the full effect? 
+AABRIA: You know what, with 90? Yeah, you can make it all the way back. 
+MATT: All right, cool. So I (whoosh) have you up on one arm, fireman's carry over the shoulder, and then (whoosh): Okay. 
+AABRIA: Okay, important. Which side is faced forward in this moment? 
+MATT: For this one, it'd be her face would be here because I-- 
+AABRIA: Okay. 
+MATT: I was trying to be cool. 
+AABRIA: I just wanted to know if you comforted her butt just now, just like, "You're going to be fine." 
+MATT: No. (laughter) 
+MATT: No, no, no. I'm carrying her, and I'm like: All right. Watch this, this is going to be cool. And I go ahead and use my action to do a 2nd-level Burning Hands-- 
+AABRIA: Ooh. 
+MATT: Angling it so that the cone goes above Orym's head, but still catches the two large creatures. 
+AABRIA: Okay! (oohing) 
+MATT: That would be a higher point there. 
+AABRIA: I love that. 
+AIMEE: That's so cool. 
+MATT: So that'll be 4d6. They both have to make a dexterity saving throw, I believe. That is correct. I'm going to go ahead and spend a sorcery point to go ahead and do Empowered Spell and reroll these two. 
+AABRIA: Let's go. 
+MATT: Great, all right. And then this one more time. Perfect. 20 points of fire damage to both of them. 
+AIMEE: Whoa! 
+AABRIA: Oh, wow. 
+MATT: Halved if they make their dex save, which is a DC 14. 
+AIMEE: MVP over here. 
+ASHLEY: Yes! 
+AABRIA: One of them makes it. My fresh boy makes it. The other one does not. How do you want to do this? 
+ASHLEY: Yeah! 
+MATT: (giggles) Since I'm holding you there, I'm like: Shield your eyes and your brows. This'll get a little warm, (roaring flame) and just unleash this torrent of flames. While the one guy dodges out to the side, the other one, the crack that I initially left by stabbing him in the face, I fly a little more forward as I'm pressing this beam-- 
+AABRIA: Yes! 
+MATT: -- and as it does, I'm pushing towards that center part. And the center of the brain, or the part of the face where it is is just getting the full brunt of the flames. 
+AABRIA: You see that the blue gem cracks and shatters, but the stone around it warps and melts and falls away until there's just this ruined pile of rubble with a shattered blue gem at the center of it, in the middle of the battlefield. 
+LIAM: You Tony Starked him. 
+AABRIA: Nicely done. 
+AIMEE: Yeah. 
+ASHLEY: Yeah. 
+AABRIA: Orym, you're just like, "Oh, okay, I need to just duck down." 
+LIAM: I'll just go an extra three inches down. 
+AABRIA: Yeah. 
+MATT: That was so cool! Oh my god! 
+AIMEE: Oh, yeah! 
+MATT: Oh, here. I put you down, there you go. 
+AIMEE: Oh my god, oh my god! I'd kiss you, but I have this thing in my thing. 
+MATT: No, it's fine, it's fine. It's cool. 
+ASHLEY: (laughs) 
+AIMEE: Thank you! 
+MATT: I just thought you had to see it. I got wings! 
+AIMEE: That's so hot! Literally, it was so hot, but also, that's hot. 
+MATT: Yeah, the temperature is like supes, the fire, yeah. 
+AABRIA: Somewhere, a deity gets a little jealous. 
+AIMEE: Oh! (laughter) 
+AABRIA: It's fine, I'm not petty. 
+AIMEE: She's not a homewrecker, though. 
+AABRIA: I see everything, is all I'm saying. (laughter) 
+AIMEE: Opal is not-- She's a lot of things. A homewrecker, she is not. 
+MATT: That's my turn. 
+AABRIA: That can't possibly be true. 
+AIMEE: She's young still. 
+AABRIA: Yeah, okay, respect. 
+AIMEE: Maybe later. 
+AABRIA: All right, is that you? (laughter) 
+MATT: All righty. 
+ASHLEY: Oh my god. 
+AABRIA: My bad boy is going to try one more time. He does not make it back up. You just hear (crashes) as my boy that got knocked off is just like, "Ugh, no!" He can't make it back up. He's just vibing in the corner. That's fine for him. Dorian, you're up. 
+MATT: Puts in his AirPods, just like... (laughter) 
+AABRIA: Just on the mind, it's fine. I wanted this. 
+ROBBIE: Is Fearne still up there with the one baddie? 
+AABRIA: She is. 
+ROBBIE: Mmm. 
+AABRIA: She looks like she's fine. 
+ROBBIE: Yeah, everybody's so close. Everything I do will fuck everyone up. So I will-- Yeah, I'll use my movement to engage with the guy closest to Orym, the fresh guy. 
+AABRIA: Yeah, get this fresh boy. 
+ROBBIE: Yeah. 
+AABRIA: It's wild because I don't remember where all the magnets are. I'm just like, uh. (laughter) 
+ROBBIE: And then it pulls you. 
+AABRIA: Yep. Speaking of magnets, do you do anything gravitationally as you move? 
+ROBBIE: Yeah, I was going to try to. 
+AABRIA: Yeah, do it! 
+AIMEE: Do it, do it. 
+ROBBIE: And it's only on myself, right? 
+AABRIA: Only on yourself. 
+ROBBIE: Okay. So I am-- 
+AABRIA: I can't let you be pushing my boys everywhere. It's rude! 
+ROBBIE: I get it. (laughter) And who's next on deck after me? 
+AABRIA: A bad guy, and then Opal. 
+ROBBIE: Oh, it's a bad guy. 
+AABRIA: A bad boy. 
+ROBBIE: Is it-- Do I get to know which bad guy, no? 
+AABRIA: I'm quickly losing track of it. It's the fresh one. 
+ROBBIE: The fresh one. 
+AABRIA: Yep. 
+ROBBIE: Okay. I'm going to-- I don't know if I can do this! What are the rules?! I am going to sort of feel that energy of being able to change the gravity, and I'm going to make it oppressive and heavy on myself, and I'm going to attempt to grapple the creature. 
+AABRIA: Oh! 
+ASHLEY: Ooh! 
+ROBBIE: Yeah, yeah. 
+AABRIA: I love that. 
+ROBBIE: Yeah. So I'm going to-- 
+AABRIA: Make an athletics check with advantage. 
+LIAM: Oh, yeah. Come on, dice. 
+AABRIA: You have to beat a 19. 
+ROBBIE: That was an 18 on the first one. But oh, wait. Athletics? 
+AABRIA: Athletics. 
+ROBBIE: Oh, yeah, plus six. So, 24. 
+MATT: Beefy boy over here! 
+AABRIA: Please describe for me what it looks like as you tackle and grapple a thing much bigger than you. 
+ROBBIE: Yeah, yeah-- 
+AABRIA: But of equal density. 
+ROBBIE: Yeah, it's going to be hard for me to even move my body, but I'm going to wrap myself around that front sort of hulking right arm and shoulder, and I'm going to grab around it like a tree trunk and just pull him down into the dirt, so he's got his arm trapped. 
+AABRIA: I love this. You take a step forward, and then your second step as you cross cracks the stone just a little bit, and the third one splinters it away like you were walking on plywood, and you grab this thing by the arm, and it reflexly pulls back and stops with the force of you, and you lock it up and turn so your back is against it and sit down, and as it falls into your gravity, you grab it by the head and bring it down with it. So you have it double locked up right now. So any other attacks against this bad boy have advantage, as you give my sweet boy a noogie! Okay, so that's your action. Would you like to do anything with your bonus action? 
+ROBBIE: Does me being wrapped up with him limit me at all in that way, or? 
+AABRIA: I mean, like, reasonably, it would be pretty wild of you to be like, "I pull out a--" You can't do your off weapon, or offhand weapon, because you-- 
+ROBBIE: I don't have, I don't think I can do-- Yeah, I can't do anything, not really. 
+AABRIA: Okay. 
+ROBBIE: Yeah. 
+MATT: Oh, you've done plenty. 
+AABRIA: That's rad as shit. 
+MATT: Yeah, it is. 
+AABRIA: Let's go. Okay. My fresh boy is going to go, and he's going to attempt to break the grapple. So go ahead and make another athletics check for me. It's going to be a natural 20. Unless... You're within 30 feet, and it would be remiss to not mention that you can affect the die rolls of anything within 30 feet of you. 
+ASHLEY: Wait, I can keep doing it, or it's just a one time-- 
+AABRIA: It's once per-- You have a reaction-- 
+ASHLEY: Once per round? 
+AABRIA: Yeah, that refreshes every round. 
+LIAM: It's like Sentinel for you. 
+ROBBIE: You've used it on me. 
+ASHLEY: Okay. So... Anyone can reroll? 
+AABRIA: I mean, yeah. You can offer a good reroll, or force a reroll on someone who just crit to get out of a grapple. 
+ASHLEY: Yeah, can I make you reroll? 
+AABRIA: Yes, you can. 
+AIMEE: Yeah! 
+AABRIA: Absolutely. 
+AIMEE: She did it. 
+AABRIA: That's cocked. Fuck me. Cool, cool, cool. What'd you get? What'd you get? 
+ROBBIE: 16. 
+AABRIA: I got 14. 
+AIMEE: Yeah! 
+ASHLEY: Oh! 
+AIMEE: Go Fearne! 
+ASHLEY: Oh, that's cool. Okay, once per round. Got it, got it, got it. 
+AABRIA: As this thing tries to duck its head through and pull free and is trying to push against your body, and you don't move, and it's just awkwardly rocking against you and breaking the stone under both of your feet as it's trying to pull itself away. You actually hear the sounds of stone crumbling apart as it's breaking itself a little bit to try to get away from you. 
+MATT: He's, I can't believe. He's doing it! He's doing it! Oh my god. Fuck. How's he... 
+ASHLEY: He's doing it. 
+MATT: Wow! Safe! Safe. 
+AIMEE: Safe. 
+AABRIA: Sweet. He's going to take an attack with disadvantage against Orym with his free hands. 
+ASHLEY: He's doing it. He's doing it. (laughter) 
+AABRIA: Orym's got the highest AC. I hate it. Swings out and misses, and then puts it hand down to try to get away from you even more, and that's the end of my sweet son's turn. Opal, you're up. Fearne, you're on deck. 
+AIMEE: Opal is going to use the movement to-- Okay, I'm assuming that this creature's grappled. Where is the eye? Like, is it face up? Is it face up? 
+AABRIA: You've got its arm and its head like-- The eye is half of a foot away from Dorian's head. 
+MATT: Don't roll a one. 
+AIMEE: No, no, no. No, so-- 
+AABRIA: Roll a one! 
+AIMEE: No! No! What I want to do... Here's what I want to do. I can't quite picture what you-- So his head is here, and I'm here? 
+AABRIA: Roll a one. 
+AIMEE: I'm not going to roll a one, because what I want to do is I want to charge at it with my residuum unicorn horn and hit it. 
+AABRIA: It's a needle, baby. It's like an acupuncture needle. 
+AIMEE: That's fine. 
+AABRIA: Okay. 
+AIMEE: Because it's powerful. 
+AABRIA: I feel like you overthought unicorn horn. 
+AIMEE: I thought residuum was powerful. I could be-- Why don't I ask this before I talk? What is it doing? Why do I have it, and what does it mean? I should ask that first. 
+AABRIA: Bless you for finally asking. You're like, "I'm not worried about it, but I will bitch when it's not my turn." 
+AIMEE: Yes. (laughter) 
+AABRIA: Go ahead and make an arcana check for me. 
+AIMEE: That's my middle name. I Will Bitch When It's Not My Turn Carrero. 
+AABRIA: I mean, that is also the Aabria Iyengar School of D&D Play, which is: Excuse Me, The Fuck?! (laughter) 
+AIMEE: That's a 15. 
+AABRIA: With a 15, you focus your attention on these two needles in you, and you feel a tether, and the tether... The reason you haven't taken damage from this is that the needle isn't attached to you. 
+AIMEE: Okay. 
+AABRIA: For what that's worth. 
+AIMEE: Okay. 
+AABRIA: You can feel the edge of that tether out and away off maybe a good hundred yards-- or a hundred feet away. Hiding in the brush, someone is holding onto it. For something. 
+AIMEE: Wait, now I want to go see what it is. 
+AABRIA: Well, then what do you do? 
+AIMEE: Okay, well... 
+AABRIA: You can go check it out. Just hop off the platform again, and nothing bad will happen. 
+MATT: I just got you back! 
+AIMEE: No. 
+AABRIA: What could happen? 
+AIMEE: No. I want to do that at some point, but... 
+AABRIA: Vibes. You could jump off this platform whenever you want. 
+AIMEE: Sure. To my death. 
+AABRIA: Uh-huh! 
+AIMEE: So I'm going to grab my daggers. 
+AABRIA: Yeah. 
+AIMEE: And I'm going to charge at its eyeball and stick both of them in as my, because that'll be a bonus. 
+AABRIA: That'll be a hand and offhand. 
+AIMEE: Yeah, yeah, yeah. 
+AABRIA: Yep, I got you, baby. That's a beautiful move. Go ahead and give me two attack rolls. 
+AIMEE: Okay. And plus I, and I get the thing. 
+AABRIA: Yeah. Okay, good. Everyone did it. 
+AIMEE: Okay, so wait, no. That moved, but it was a 13 plus four. So that is a 17. Do I do it twice? 
+AABRIA: Yes. 
+AIMEE: Yeah, okay. 17. 
+AABRIA: So you hit with your main hand. 
+AIMEE: Yep. Oh! And that is a 18, 19, 20. Dirty 20. 
+AABRIA: Hit, hit. (laughter) 
+AABRIA: We love it. 
+AIMEE: We love it. 
+AABRIA: Hit, hit. Roll the damage. 
+AIMEE: Okay, let's roll the damage, dam-age. 
+AABRIA: Dam-age. 
+AIMEE: So that will be a four for the first one. 
+AABRIA: Okay. 
+AIMEE: And then for the second one that will be a seven. 
+AABRIA: Oh my god. My poor fresh boy. 15 points of damage. As you run in-- Oh, you were supposed to roll these with advantage. 
+AIMEE: I used my d4, but. 
+AABRIA: So, okay. 
+AIMEE: Should I do it again? 
+AABRIA: So your first hit was the whatever. The first one hit. So that was your hand. Now roll your offhand hit. 
+AIMEE: Okay, I'll roll. Damage? 
+AABRIA: Don't worry about the damage right now. 
+AIMEE: Oh, oh, just roll the offhand. 
+AABRIA: I'll give you the eight points of damage for the better one. 
+AIMEE: That's a six. 
+AABRIA: Okay, now roll again because you have advantage on this hit, too. 
+AIMEE: Okay. Ooh. That's a 18, 19, 20, 21. 
+AABRIA: Yeah, dude. That's over 16. You hit it. So hit, hit. We'll preserve the damage from before, because it's two hits, and it's fine. We take the full 15. As you run forward, I'm assuming you do a cool scream? 
+AIMEE: Yeah, no, it's not cool. It's just like-- 
+AABRIA: Oh, okay. Vibes. 
+AIMEE: (intense scream) 
+AABRIA: All right. Yeah. Y'all remember Headhunter Opal, and she is back. 
+AIMEE: Yeah. 
+AABRIA: (yells) 
+AIMEE: So I notice-- This probably doesn't add any damage, but it adds flavor. 
+AABRIA: I love flavor! 
+AIMEE: She'll just like put it in and then go-- (laughter) 
+ROBBIE: Stir them! 
+AABRIA: This thing, it has shown you zero emotion. 
+AIMEE: Yes. 
+AABRIA: However, it is confused by the scrabbling. You feel that vibe of like, "What?!" 
+AIMEE: What the fuck? 
+AABRIA: "Um, okay?" 
+AIMEE: Yeah. 
+AABRIA: Beautifully done. All right. Bad boy turn. No, it's Fearne's turn. Fearne and then my bad boy. 
+ASHLEY: Okay. 
+AABRIA: Fearne's turn. 
+ASHLEY: All right, so... Seeing everybody's back, I'm just going to, now that he's kneeling before me. 
+AABRIA: I love the way you put that, and I don't disagree. 
+ASHLEY: I'm going to take the back of his neck and just push him down into my flame blade to try bink off the rest of the-- 
+AABRIA: Oh, bless, okay. 
+ASHLEY: -- the rest of the-- 
+AABRIA: Vibes, that's horrifying. 
+ASHLEY: Yeah. 
+AABRIA: Cool. I thought this fight was going to go differently. It's wild how that works. 
+ASHLEY: Just to see. 
+AABRIA: Yeah, go 'head. Go 'head. You know, as a treat. Try to pry out the stone from my cool, cool construct. 
+ASHLEY: Ooh, I don't know if that's going to hit. Okay. No, it's not going to hit. 15. 
+AABRIA: Just misses. 
+ASHLEY: Okay. 
+MATT: But you have your reaction back. 
+AABRIA: You do have your reaction back. It's your turn again. 
+ASHLEY: What does that mean again? I can go again? 
+AABRIA: If you want to burn that reroll on yourself. 
+ASHLEY: Oh my god, I can do--! Wait, but I did it with big boys. 
+AABRIA: So now that your turn is back up, your reaction resets. 
+ASHLEY: That just resets. Good grief, guys. Sorry. 
+AABRIA: Is this what you want to use it on? 
+ASHLEY: Copy, yes. I'm going to reroll. 
+AABRIA: Cool. That's amazing. 
+ASHLEY: Oh, yeah. That's a natural 19. 
+AABRIA: Yeah, let's go. You're good. 
+ASHLEY: Okay, okay. 
+AABRIA: Okay. 
+ASHLEY: Ooh-ooh. Okay, 12. 14 points of damage. 
+AABRIA: Directly to its eye. This thing is looking very rough, but it still has some version of life left within it, and it's going to try to lunge forward and take its multiattack on you. 
+ASHLEY: Okay. 
+AABRIA: Does a 17 hit? 
+ASHLEY: Just hits. 
+AABRIA: Okay. Ooh, sorry. And I need you to make a strength saving throw for that grapple. 
+ASHLEY: Okay. Okay. 17. 
+AABRIA: So this thing moves out of the way, and you can feel, and you hear it whine as it chips away some of the glass of its eye as it moves out of the range of your flame blade and goes through and punches its arm out and grabs you around the throat. So you're going to take five points of bludgeoning damage. And it's got you locked up, not just around your throat. Its hand is so big, it's under your armpits, too, as it's holding the top of your torso and the bottom of your neck, and you hear that same voice that the others have heard. "What do you fear?" What's Fearne most afraid of right now? 
+ASHLEY: Hmm. I'm not afraid of anything. I think-- I think something bad happening to her grandmother and never seeing her again. 
+AABRIA: And you see, it's holding you so firmly. You are like a ragdoll in his hand, and it turns and looks out off of the platform into the fogginess below, and you hear (heavy footsteps) as the other stone construct takes off. Now, who isn't with you right now that's still part of your group? Your grandmother's too far away, but that's not the only person you care about. Mister is still on the ground, and the other construct is making a beeline for him. 
+ASHLEY: Uh-oh. Uh-oh, okay. 
+AABRIA: That is the end of its turn. 
+ASHLEY: Oh no. 
+AABRIA: All right, we're back up to the top. Orym, you're up. 
+LIAM: All right, well, I'm-- This thing is being held down by Dorian. So with my three feet of height, I'm going to Baryshnikov pirouette around one forearm then around his leg to use maybe half my movement to get back by his back of his leg, back by his butt, and he's very heavily occupied. I'm hoping to get behind him on that little nub of corner. 
+AABRIA: I understand that. I'm not going to kill your sweet mini. 
+LIAM: And as soon as I get there, I reach the sword down and then slash against the back of the leg. 
+AABRIA: Beautiful. Attack roll with advantage. It's still grappled. 
+LIAM: Thank you. I miss. I rolled two twos. 
+MATT: Aww. 
+AABRIA: Oh no. Don't forget your Bless. (laughs) 
+AIMEE: Well, a two-two is perfect for Baryshnikov. 
+MATT: Well played. 
+AABRIA: Ah! 
+ALL: Eyy! 
+AABRIA: If you didn't have inspiration, I would for sure give it for that. 
+LIAM: Yeah, that's inspiration right there. 
+AIMEE: No, I used it. I used it. I'll take it. 
+AABRIA: Okay, take it! I take it back. 
+AIMEE: Thank you. 
+AABRIA: That's amazing. 
+LIAM: I'm going to look at him and I'm going to look at all these people here, and I think they've got it covered. So I'm going to leap off into the mist. 
+ROBBIE: What? 
+AABRIA: Oh my god. Okay. Just down? Into heaven? 
+LIAM: I will-- What I'll do is jump at that cube floating, closest to me, actually, in space. 
+AABRIA: This one? 
+LIAM: Yeah. I'll try to go bink, bink. I'll try to go cube, column, ground. 
+AABRIA: I just wanted you to full Key-- Like, you're wearing the shirt! I was like, "Just jump off! You'll be fine." (laughter) 
+AABRIA: So exciting. 
+MATT: We're practically mortals. (laughter) 
+AABRIA: That is within your ken. I'm not going to make you roll for it. If you want to push and try to get all the way down to the ground-- 
+LIAM: I actually didn't want to land on it. I wanted to hit the-- 
+AABRIA: Okay. 
+LIAM: I wanted to hit the edge. I wanted to pinball down, if I can. 
+AABRIA: All right, we're going to roll about that. 
+LIAM: Yeah, absolutely. 
+AABRIA: Please give me an acrobatics check. Amazing. 
+LIAM: That is an 18. 
+AABRIA: Yeah, you're fine. 
+ROBBIE: This is going to be pinball or pachinko, one or the other. 
+AABRIA: I can't even interact with yonder. Okay, I can get you there. You're good. 
+LIAM: Sounds good. 
+AABRIA: Beautiful. Okay. 
+ASHLEY: Do I have to make a constitution saving throw for the flame blade since I took damage? 
+AABRIA: Yes, you do. 
+ASHLEY: Okay. 
+AABRIA: Thank you very, very much. 
+ASHLEY: You got it. 
+ASHLEY: What do I add for con-- Oh, that's a three. It's gone. Yeah. 
+AABRIA: Blinks out of existence as it literally falls out of your hand as you were surprised, and it scatters away as flames disappear. 
+ASHLEY: Okay. 
+AABRIA: All right. Opal. My love. 
+AIMEE: I'm not up. 
+AABRIA: Huh? 
+AIMEE: Am I up? 
+AABRIA: Where are you? You're visible right now. I need you to make a dexterity saving throw. With disadvantage, because you're still not tracking where it's coming from. 
+AIMEE: Oh, man. That's a three. No, that's a four. With the disadvantage. 
+AABRIA: Yep. As a boon, I will give you hear another whistle off in the distance in the direction of that tether that you felt, and as you turn and face it, another tiny residuum needle lands in your opposite shoulder. 
+AIMEE: Okay. 
+AABRIA: The third one. But now you see the direction that's coming from, and you're used to the cadence of it. So you're not going to roll this with disadvantage anymore. 
+AIMEE: Okay. 
+AABRIA: But you are getting lit up with whatever this is. 
+MATT: Weirdly, your headache's gone, though. 
+AABRIA: And you don't want to smoke anymore. 
+AIMEE: I love it! (laughter) 
+AABRIA: That's so nice. Dariax, you're up. 
+AIMEE: I'm sleeping better. 
+AABRIA: Dariax, you're up. Dorian, you're on deck. 
+AIMEE: My skin looks great. 
+MATT: I'm up? All right. 
+AABRIA: Yeah. 
+MATT: I just got one friend up and the other just jumps off. I'm like: I-- Come on! And I look up and I see this thing just grab and shake Fearne as her flame blade vanishes. I'm like: Okay. Back in a second. I'm going to kick off the wings, and I'm going to swoop up behind her. I'm going to go ahead and use my last two sorcery points to do Quickened Spell. 
+AABRIA: Let's go. 
+MATT: And I'm going to use, as a bonus action, Cure Wounds on you at 1st-level. So you go ahead and heal up... five hit points. 
+ASHLEY: That's great. 
+MATT: Better than nothing. He's tapping the shoulders up in the air above, wings all stretched out in that epic tense moment, spear in both hands. I'm coming to help! And then go into a full dive with the rest of my movement, aiming towards the eye in the center of its face full on, like, (plane whirring) Like World War II, you know, bomber plane. 
+AIMEE: Yes. 
+AABRIA: Question. 
+MATT: Yeah. 
+AABRIA: Light or heavy? 
+MATT: Oh, for this? Heavy. 
+AABRIA: Let's go. All right, make your attack roll. 
+MATT: That is going to be... total of 17 exactly. 
+AABRIA: Hits! 
+MATT: Exactly. 
+AIMEE: Damn. 
+AABRIA: Let's go. Give me that sweet damage. Double your dice like you crit. 
+MATT: Oh, that's right. Yes, I rolled an eight! So 18 points of damage. 
+ASHLEY: Ooh! 
+AABRIA: That's not right. Hold on. You doubled the eight. 
+MATT: Correct. 
+AABRIA: So that should be 16 plus what? 
+MATT: So plus two, so 18. 
+AABRIA: For your spear? No, no, no. Did you refresh your screen? Your damage went up. 
+MATT: Oh, did it? Oh my goodness. 
+AABRIA: It should be a d8 plus six. 
+ROBBIE: You got the dongles now on the tip. 
+AABRIA: You got the little dongles on the tip. 
+MATT: That's right! 
+ROBBIE: You got the tip dongles. 
+MATT: So, yeah. 
+ASHLEY: 22. 
+AIMEE: The tongles. 
+MATT: So no, that brings it instead to a 22. Yeah. 
+AABRIA: Yes. And I'm assuming you aim for its eye. 
+MATT: Yeah. 
+AABRIA: All right, Matt. Two for two, how do you want to do this? (cheering) 
+AABRIA: Finish it! 
+ROBBIE: He's a murderer! Murder! 
+AIMEE: ♪ He's a murderer ♪ 
+MATT: As it comes in aiming towards it, I imagine it hearing the buzzing sound of the wings just rapidly flapping. As it looks up, the spear impacts, and both of us just collide (boom) In this moment in front of you, Fearne, where you see it push back. The face shattering a bit as the spear is now dug deep into the head. and it's-- whoa, carrying me with it as it's falling backward, and I imagine as it's about to stumble back and fall off the edge, I'm desperately trying to yank the spear out of its head. Oh god. Help, help, help, help, help! (laughter) 
+AABRIA: Fearne, you are released from its hand as it takes that kill blow, and shock lets you go, and you see Dariax who, though he can fly, is-- Thank god he's pretty, and you see him riding this thing over the edge as it keels over and falls away. You have an opportunity to react in this moment because it's more about flavor than about mechanics. 
+ASHLEY: I will, even though I see him flying, I will-- I'll grab his ankle. 
+AABRIA: Yep. 
+ASHLEY: Just to make sure that he doesn't fall to his death. It's a three. 
+AABRIA: Oh, you don't have to roll. It's fine. You're good. You just reach out and grab him by the ankle. 
+ASHLEY: Okay. 
+AABRIA: And as you grab him, his wings sort of naturally kick in. So you're not even holding a heavy thing. You just had to remind him to not fall. 
+MATT: Oh, right. Oh, that's the ankle I landed on earlier. 
+ASHLEY: It's new. They're new. 
+MATT: Thank you. Thank you. Appreciate it. 
+ASHLEY: You saved my life. 
+MATT: Hey, saved mine. We're even. This is crazy. 
+AABRIA: Beautiful. Opal, you're up. 
+AIMEE: Okay, how's this guy looking? I know he's grappled. 
+AABRIA: Not great. 
+AIMEE: Not great. 
+AABRIA: Not fucking great, to be honest. 
+AIMEE: To be honest. 
+AABRIA: I hate that for me, specifically. 
+AIMEE: Okay, so I'm worried here. I'm worried. 
+AABRIA: We're both worried. 
+AIMEE: Because I want to do Eldritch Blast, but I'm worried-- 
+AABRIA: You're in front of its face! 
+AIMEE: I'm worried about my friend. I know, but I want to use my-- 
+AABRIA: You could just roll a one, and then it'll be fun for everybody, mostly me. 
+AIMEE: No, I'm not doing that. 
+AABRIA: You guys are up here together. 
+AIMEE: Okay, here's what I want to do, but I don't think this is-- I guess, like, asking you tabletop? Is that the-- is that the thing? I want to use a bonus action that is-- 
+AABRIA: I truly don't know. 
+AIMEE: -- a spell. Above board, above tables. 
+AABRIA: Yeah, okay. Above game. 
+AIMEE: Above game. I'll get it eventually. 
+AABRIA: Tabletop. 
+AIMEE: I want to do a bonus action that requires a spell, but can I do that if I use a melee weapon to attack? 
+AABRIA: Yes. Yes, you can. As long as the spell is a bonus action spell. 
+AIMEE: Yes. 
+AABRIA: Then yeah, you're good. 
+AIMEE: Okay, perfect. So then I'm going to take one of my daggers, and I'm stick it in the same eye, and I'm going to go (squelching sounds) 
+AABRIA: Yep. Always, always effective. Roll with advantage. Don't forget your Bless. 
+AIMEE: Okay. Roll with advantage. 
+LIAM: I want the eggs scrambled. 
+AIMEE: Plus this. Okay, that is a 13. 
+AABRIA: Does not hit. 
+AIMEE: Oh. Sorry. 
+ASHLEY: Reroll! 
+AABRIA: Did you use yours for this round? 
+ASHLEY: Yeah. 
+AABRIA: No, you used yours for this round immediately for your own attack, and you're not up again. 
+AIMEE: But I have inspiration. Is it too late? 
+MATT: You do have inspiration, right? 
+AABRIA: You have inspiration. 
+ASHLEY: My brain is a scramble. 
+AABRIA: No, you're good. You're up in a second, so I just get my one last, like, bleh bleh bleh. (laughter) 
+AIMEE: Can I do it again or no? No, it's fine. 
+AABRIA: Do it again. You're using your inspiration, right? 
+AIMEE: Okay, yeah, yeah. 
+AABRIA: I give inspiration for a reason. 
+AIMEE: Well, fuck that. No, it didn't do anything. 
+ASHLEY: It didn't go in the box. 
+AIMEE: It didn't go-- Oh. 
+ASHLEY: Well. (laughter) 
+AIMEE: I love these rules! Okay. I look at Dariax. I'm so sorry. 
+AABRIA: That's Dorian. 
+ROBBIE: He's over there! 
+AIMEE: I got another inspiration! Dorian, I'm so sorry. 
+ROBBIE: It's okay. 
+AIMEE: It seems like you've got this, though. 
+ROBBIE: Just do something else. 
+AIMEE: I would love to Misty Step towards-- 
+AABRIA: Dorian, did I skip your turn? 
+ROBBIE: I thought she was-- she's always been before me, right? 
+AIMEE: No. 
+AABRIA: No. I interposed you, so you'll go after this. I apologize. 
+ROBBIE: Yeah, yeah, yeah. 
+AIMEE: So I would like to, now that I can see the direction where-- 
+MATT: Which technically means she had advantage on the attack roll, right? Because you were still holding it? 
+AABRIA: She rolled with advantage. 
+MATT: Oh, you did? 
+AIMEE: I did roll-- 
+MATT: Oh, I missed that. Never mind, you're good. You're good. I was trying to help! 
+AIMEE: I had every opportunity. 
+ROBBIE: Which means-- 
+AIMEE: And I fucked it up. 
+MATT: Fair enough. Fair enough. 
+AIMEE: So I would like to Misty Step, because I can see where-- the direction that it's coming from. I would like to Misty Step to the place that it's coming from. 
+AABRIA: What's the max range on Misty Step? 
+AIMEE: 30 feet. 
+AABRIA: Okay, so you're not going to be able to get there, because it's about a hundred feet away, but you can get safe, I'll say you can get safely down to the ground in its direction if you want to head off in that direction. 
+AIMEE: Oh, yeah, yeah, yeah, because I can do that and then use my movement? 
+AABRIA: Yeah. 
+AIMEE: Okay, great. So I will Misty Step down safely 30 feet, and then do 30 feet towards. 
+AABRIA: Perfect. So you're 60 feet-- 
+AIMEE: Great. 
+AABRIA: -- out and away. 
+AIMEE: Almost there. 
+AABRIA: Yep. 
+AIMEE: That's stupid, but we'll go for it. 
+AABRIA: That's not stupid. Your dealing with the thing that you're supposed to deal with. All right, Dorian, you're up, and I skipped your turn, because I re-read you as Dariax. I broke your fucking-- 
+AIMEE: No! 
+AABRIA: Yeah! Your names are hard. What would you like to do, my friend? 
+ROBBIE: I look around. 
+AIMEE: I'm so sorry! 
+ROBBIE: As all of my fucking friends have abandoned me, as my only plan was to hold this guy while somebody else fucking did something, and I say: You've got to be fucking kidding me! I'm furious. 
+MATT: I got it! 
+ROBBIE: And I'm going to let him go, and I'm going to stand right on the floor in front of him, and I'm just going to say: Fuck this! Let's go. And I am going to-- 
+AABRIA: Yes! Let's go! 
+ROBBIE: I am going to-- 
+AIMEE: The nuclear option. 
+ROBBIE: -- since he's-- I let go of the grapple. Am I able to disengage on that move? 
+AABRIA: Are you trying just run out and away, or are you staying in to do a hit? 
+ROBBIE: I want to let go of the grapple and then just get out of slightly out of melee range. 
+AABRIA: If you move out of melee, this thing has reach, too, so if you move more than 10 feet away, it's going to get hit on you. 
+ROBBIE: I'm going to take it. 
+AABRIA: Okay, sweet. 
+ROBBIE: Yeah, yeah. 
+AABRIA: All right, does a 15 hit? 
+ROBBIE: It does. 
+AABRIA: Okay. 
+ROBBIE: Yeah. 
+AABRIA: It's going to swing, and you take six points of bludgeoning damage. 
+ROBBIE: Oof, fucking worth it. 
+AABRIA: But you're able to back up. 
+ROBBIE: Worth it. So I let go of my thing. I take a duck and roll backwards, and he catches me as I go, and it's ugly, and I sort of spill backward, and I'm going to try to solo this fuck. 
+AABRIA: Let's go! 
+ROBBIE: And I am going to cast Shatter. (cheering) 
+ROBBIE: Which I haven't done yet. So-- 
+MATT: Yeah. 
+AIMEE: That's very cool. 
+ROBBIE: I am going to sort of just well up with this rage and sort of feel the energy come along, and it's just going to sort of push straight out of my chest and my hands, and it's just this energy that's going to hit him square in the chest, and for you, you have to take a con saving throw of 12, but because you're made of inorganic material, such as stone or crystal, you have to do so at disadvantage. 
+AIMEE: Hey-o! 
+LIAM: I can hear the electric guitar. 
+ROBBIE: Can you? We'll see. 
+AABRIA: I rolled a 10. 
+MATT: Yes! 
+AABRIA: Roll your damage. 
+ROBBIE: Okay, sweet. That's 3d8. Seven, 11, 13. 
+MATT: Hell, yes. 
+AABRIA: Now, I highly recommend that you just break me off a little bit of flavor of just any sort of gravitational anything that you want to stunt on this with, because you absolutely destroyed it. (cheering) So Dorian, how do you want to do this? (cheering) 
+ROBBIE: Finally murdered somebody finally. 
+AABRIA: Yay! You did a murder! 
+ROBBIE: As this sound-based, intense grumbling inside of his body, and as he does that, I am going to lighten myself as he sort of shatters into pieces in front of me, and they sort of just float around and out myself as I hover in the air for a second on my winged boots, and calm myself, and just put myself back down the platform. 
+MATT: That is some Goku shit right there. 
+AABRIA: Amazing. 
+ROBBIE: Fuck that guy. 
+MATT: Yeah! Yeah! (cheering) 
+AABRIA: Brilliant. 
+LIAM: Air versus Earth. Air wins. 
+MATT: (laughs) 
+AABRIA: Dorian, the way is clear, and now that that platform, the best vantage point out here, is sort of open to you, you can see the pink form of Opal on the ground, sprinting in a very determined gait in a very specific direction. So I'm going to say, we're going to describe this from your vantage point. As you see that she charges forward, and you get a little flash of purple as robes step out from the treeline cover, and even from here, you recognize. It's something about the gait, the strength of it. As Myr'atta Niselor steps forward, looks you in the eye, Opal. She takes a big spike of metal and residuum and sends it into the ground. She just stares calmly at you, and you feel your right shoulder suddenly weighed down impossibly. I need you to make a constitution saving throw. 
+AIMEE: Can I do this? 
+MATT: Yeah, you get to add a d4. 
+AIMEE: That's four. 
+ASHLEY: Reroll? I'm just going to keep saying it. 
+AABRIA: We're out of combat. You're good. Oh, she's not within 30 feet of you, though. She sprinted. She got 30 feet out and another 30 feet away, so she's very far, but I'm happy to say that you two from your high vantage point can also watch this happen. As you are slammed down to the ground, she pulls out another spike. Puts it in her other hand. Jabs it into the ground a couple feet away. You feel your left shoulder go so impossibly heavy. She just looks at you and gets really close. "Oh, whatever your name is, I'm going to free you from this little girl, and together, we're going to change the world. Just hold on a little longer." 
+AIMEE: Do I get an opportunity to do anything? 
+AABRIA: Yeah, what do you want to say? 
+AIMEE: I want to ask her what the fuck she's talking about. What the fuck are you talking about? 
+AABRIA: "Oh. (chuckles) I'm not talking to you." 
+AIMEE: Who are you talking to? 
+AABRIA: "I'm talking to Ted." 
+AIMEE: She's not here. 
+AABRIA: "That's where you're wrong." 
+AIMEE: Can I do anything else? 
+AABRIA: You can certainly try. 
+AIMEE: How far am I from this woman? 
+AABRIA: You're probably about 20 feet away. 
+AIMEE: I would like to Mind Sliver her. 
+AABRIA: Okay. 
+AIMEE: Don't fail me now. Can I add the d4? 
+AABRIA: It doesn't matter. 
+AIMEE: It doesn't matter? 
+AABRIA: Because as you strain to lift your head-- Does Mind Sliver have somatic component? 
+AIMEE: What does that mean? 
+AABRIA: When you look at what the spell takes is it V, S, and M? 
+AIMEE: V. 
+AABRIA: Just V. Okay. So you don't even have to move. As you begin to speak those sort of swirling arcane words, you actually see the sky lightens as it moves to vibrate at the same frequency as your spell casting, and she flicks a finger and Counterspells it. "Oh, no, no, no. You don't understand what's happening here. I'm not worried about you or any of you, and I have been through too much to fail now. And that's where we're going to end tonight. 
+ASHLEY: (groans) 
+ROBBIE: (yells) 
+AABRIA: All right... 
+MATT: (growls) 
+AABRIA: Yay! 
+ASHLEY: (growls) 
+AABRIA: Cool, cool, cool. Yeah, just a weird frustrated grunt. That's how I like to end a game, baby! That's it! 
+MATT: Aabria, that fight was so cool! (noises of agreement) 
+AABRIA: Yay! I was gonna do way more hurts and then you guys started stomping 'em. 
+AIMEE: And now you got wings! 
+AABRIA: Now you got wings. 
+LIAM: I wanted to jump down, but I could feel that button coming. 
+AABRIA: Yeah, I know. I saw you see it and I was like, "I appreciate you." (laughs) So we'll be back next time for the finale. The thrilling conclusion of our story. You guys are amazing. Thanks for hanging out in this weird, cool map that was built. 
+ASHLEY: So cool! 
+AABRIA: And until we meet again next week, be good, stay safe. I love you so much, and is it Thursday yet? Goodbye! 
+ASHLEY: (whines) No, it's not! 
+AABRIA: Goodbye! Goodbye! 
+ASHLEY: Oh man.
