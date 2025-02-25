@@ -1,0 +1,268 @@
+[
+  {
+    "question": "Can the Level 17 Barbarian, Level 17 Warlock, Level 17 Blood Hunter, Level 17 Wizard, Level 17 Monk, Level 17 Cleric, and Level 17 Rogue character do two bonus actions?",
+    "answer": "No, a character can only do one bonus action per turn.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The rules clearly state that a creature only gets one bonus action per turn."
+  },
+  {
+    "question": "If a character is prone, do ranged attacks against it have advantage, disadvantage, or neither?",
+    "answer": "A ranged attack against a prone target has disadvantage.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The Prone condition confers advantage on melee attacks, and ranged attacks are made with disadvantage."
+  },
+  {
+    "question": "If a Level 17 Rogue, Level 17 Barbarian, Level 17 Warlock, Level 17 Blood Hunter, Level 17 Wizard, Level 17 Monk, and Level 17 Cleric is squished under a giant, are they in melee with it?",
+    "answer": "Yes, a creature sharing a space with another creature is in melee with them.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks"
+    ],
+    "rules_explanation": "The rules for Melee attacks and Reach require the attacker to be within 5ft of the target. The game describes melee attacks as being used in hand-to-hand combat, and doesn't give a special definition of melee beyond that, so it's up to the DM to adjudicate whether it is in effect. Since the Rogue is physically under the giant I rule they are engaged in melee."
+  },
+  {
+    "question": "If a Level 17 Rogue is squished under a giant, does that creature get sneak attack if another enemy of the target is within five feet of it, and the Rogue has advantage on the attack?",
+    "answer": "Yes, the rogue meets the conditions for sneak attack.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack",
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The rogue has advantage on the attack roll due to the prone condition. The rogue is within 5 feet of the target and not incapacitated. A ranged attack against a prone target is disadvantage, but this disadvantage is countered by the existing advantage, resulting in a normal attack."
+  },
+  {
+    "question": "When a Level 17 Warlock casts Counterspell, can it be cast as a 3rd-level spell?",
+    "answer": "No. The Level 17 Warlock must cast Counterspell at 5th level or higher.",
+    "rules": [
+      "Classes > Warlock > Pact Magic"
+    ],
+    "rules_explanation": "The level of the spell slots available to a Warlock are determined by the Warlock's level. Warlocks do not gain more powerful spells per level as in other classes, but spells from the warlock spell list cast with any available spell slot are of that maximum spell slot level."
+  },
+  {
+    "question": "If a Level 17 character casts Earthquake, and another is prone in the area must make a Dexterity saving throw, does that save have disadvantage?",
+    "answer": "No, a Dexterity saving throw does not have disadvantage due to the prone condition.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The rules for the prone condition only impose disadvantage on attack rolls. It imposes advantage on melee attack rolls, but not disadvantage on ranged attack rolls."
+  },
+  {
+    "question": "If a Level 17 raging Barbarian is restrained by a giant, is damage taken halved?",
+    "answer": "Yes, the damage is halved.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "The Barbarian is raging and therefore has resistance to bludgeoning damage from the falling giant."
+  },
+  {
+    "question": "If a character with Water Walking is knocked prone by an Earthquake, and fall 30ft, do you land on the ground or hover 3ft above it?",
+    "answer": "A character with Water Walking touches the surface of the ground as normal.",
+    "rules": [
+      "Spells > Water Walk"
+    ],
+    "rules_explanation": "The water walk spell allows willing creatures you can see within range to move across any liquid surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground. While not explicitly specified, any effects acting on the target of water walking remain in effect, such as gravity pulling the target toward the ground as normal. In effect, the creature with the water walking spell can walk upon and therefore touch the ground as if the ground had no liquid surface covering it. There is nothing in the spell to imply that the subject hovers above any surface, water, or otherwise."
+  },
+  {
+    "question": "Can a 17th-level cleric named Jester, in the aftermath of an earthquake, spend her action looking for a lost item?",
+    "answer": "Yes, if the GM permits it.",
+    "rules": [
+      "Combat > Actions in Combat > Use an Object"
+    ],
+    "rules_explanation": "In combat, a character or monster can use an action for a range of activities to manipulate their environment. This includes using an action to look for lost items. There are no mechanics to support such an attempt in the action."
+  },
+  {
+    "question": "If a 17th-level caster was concentrating on Brenatto's Voltaic Bolt at 2nd-level and then was hit by a creature is melee, does the creature get an opportunity attack?",
+    "answer": "No, Brenatto's Voltaic Bolt is a homebrew spell",
+    "rules": [],
+    "rules_explanation": "Brenatto's Voltaic Bolt is not in the SRD"
+  },
+  {
+    "question": "Can a Hexblade Level 17 Warlock with Fly use Relentless Hex to teleport closer to an enemy than their movement rate would otherwise allow?",
+    "answer": "Yes, the Warlock can use Relentless Hex to teleport as a bonus action, using their Fly movement on top of the teleport.",
+    "rules": [
+      "Classes > Warlock > Relentless Hex",
+      "Movement and Position > Breaking Up Your Move"
+    ],
+    "rules_explanation": "Relentless Hex allows the Warlock to teleport to a creature affected by Hexblade's curse. The warlock can then break up their movement to take the bonus action before or after any other movement."
+  },
+  {
+    "question": "Can a Level 17 character concentrate on both Fly and Earthquake spells at the same time?",
+    "answer": "No, a creature cannot maintain concentration on multiple spells at once.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The rules on spellcasting are clear that only one spell requiring concentration can be in effect at a time, and that concentration is broken when a new concentration spell is cast."
+  },
+  {
+    "question": "If the 17th level character uses an Action, and the enemy caster teleports away, can it counterspell if it has a reaction available?",
+    "answer": "It depends on the casting time of the spell used to teleport.",
+    "rules": [
+      "Spellcasting > Casting Time > Reactions",
+      "Spellcasting > Spell Descriptions > Counterspell"
+    ],
+    "rules_explanation": "The Counterspell reaction must be in response to 'seeing a creature within 60 feet of you casting a spell'. This requires that the counterspell be in reaction to the casting of the spell, and the description of counterspell makes no exception to the rules for use of a reaction, so the Counterspell must be used immediately, and the caster must be present at the end of the spellcasting activity. Because of this, if the Action the opponent took was not a casting of a spell, then counterspell can't be applied. If the opponent takes the cast a spell action, but the spellcasting has not been completed, then the counterspell can be applied."
+  },
+  {
+    "question": "If a hexblade warlock has a relentless hex, and a player uses a power action/reaction how much can they move?",
+    "answer": "The character can move up to 30 feet and teleport as an action/reaction.",
+    "rules": [
+      "Classes > Warlock > Relentless Hex"
+    ],
+    "rules_explanation": "As a reaction or action the warlock teleport up to 30 feet of a hexblade enemy."
+  },
+  {
+    "question": "If an effect calls for a Dexterity saving throw and a Monk has their Diamond Soul feature active, do they have advantage? ",
+    "answer": "The monk gains proficiency in dexterity saving throws, but does not gain advantage.",
+    "rules": [
+      "Classes > Monk > Diamond Soul",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The Monk's Diamond Soul feature grants proficiency in all saving throws. If a saving throw is failed, they can spend 1 ki point to reroll it and take the second result."
+  },
+  {
+    "question": "At the end of each turn is it the beginning for the earthquake spell to go off?",
+    "answer": "No, the Earthquake damage occurs at the start of your turns. If you stop concentrating on the Earthquake, the damage stops.",
+    "rules": [
+      "Spell Descriptions > Earthquake"
+    ],
+    "rules_explanation": "Earthquake states \"At the start of each of your turns, each creature on the ground in the area must make a dexterity saving throw.\" The text does not specify any end of turn effects for this spell."
+  },
+  {
+    "question": "At the start of Jester's turn, will the earthquake go off?",
+    "answer": "Yes, at the start of her turn all creatures make a DC 19 Dexterity saving throw. On a failed save, the creature is knocked prone.",
+    "rules": [
+      "Spell Descriptions > Earthquake"
+    ],
+    "rules_explanation": "The spell states \"At the start of each of your turns, each creature on the ground in the area must make a dexterity saving throw.\" So it goes off on every turn."
+  },
+  {
+    "question": "If a 17th level warlock is hexed with relentless hex, and casting at 5th level what is the spell save dc?",
+    "answer": "The warlock casts spells with Charisma. A fifth-level spell has no effect on what the Spell Save DC is.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "Spell save DC = 8 + your proficiency bonus + your Charisma modifier"
+  },
+  {
+    "question": "Can a 17th-level Paladin use his reaction with his shield to impose disadvantage on an attack against an ally within 5 ft if they are floating?",
+    "answer": "Yes.",
+    "rules": [
+      "Classes > Paladin > Fighting Style > Protection"
+    ],
+    "rules_explanation": "You can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield."
+  },
+  {
+    "question": "If a 17th level character makes a saving throw, but decides to make it on a 20 what happens?",
+    "answer": "The check succeeds.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Rolling a 20 always succeeds on a saving throw. As such all ability score modifiers are void."
+  },
+  {
+    "question": "Can a 17th level Barbarian have advantage on Strength and Dexterity saving throws if there is danger coming?",
+    "answer": "Yes, the Barbarian has advantage on Dexterity saving throws against effects that they can see.",
+    "rules": [
+      "Classes > Barbarian > Danger Sense"
+    ],
+    "rules_explanation": "At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated."
+  },
+  {
+    "question": "Can a Level 17 Fighter/Barbarian using Path of the Totem Warrior have resistance to Bludgeoning from Rage and if it works does he half the damage?",
+    "answer": "Yes, the Barbarian has resistance to bludgeoning damage and the damage will be halved.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "You have resistance to bludgeoning, piercing, and slashing damage."
+  },
+  {
+    "question": "Does casting Locate Object require someone's action?",
+    "answer": "Yes, the casting time is 1 action.",
+    "rules": [
+      "Spell Descriptions > Locate Object"
+    ],
+    "rules_explanation": "Spells require a casting time to cast, and Locate Object is 1 action."
+  },
+  {
+    "question": "Can a 17th level Wizard cast Magic Missile and wall over it?",
+    "answer": "Yes, a wizard can cast 1st level magic missle at the fifth level if the wizard casts 7 sorcery points.",
+    "rules": [
+      "Classes > Spellcasting > Casting a Spell at a Higher Level"
+    ],
+    "rules_explanation": "When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. Magic Missile at the fifth level will cause more projectiles."
+  },
+  {
+    "question": "If a 17th level character uses Voltatic Bolt and drops concentration. The ones that are stunned make saving throws? do they succeed or charmed and what happens.",
+    "answer": "The affected creatures can move again but are not Charmed.",
+    "rules": [
+      "Spell Descriptions > Hypnotic Pattern"
+    ],
+    "rules_explanation": "The spell states: 'The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake it out of its stupor.'"
+  },
+  {
+    "question": "If a Level 17 character is using relentless hex and another power to bamf, who makes the saves?",
+    "answer": "This is not a specific enough description. The power must be specified.",
+    "rules": [],
+    "rules_explanation": "There is no way to know what ability check, if any, the hypothetical spell has. The spell must be specified."
+  },
+  {
+    "question": "If a player is running out of range, how many feet can they dash?",
+    "answer": "Characters can dash a distance equal to their speed.",
+    "rules": [
+      "Combat > Actions in Combat > Dash"
+    ],
+    "rules_explanation": "The rules for the dash action are clear: increase the available movement to the character to double its speed."
+  },
+  {
+    "question": "Can a Storm Giant move from the range 20ft? does it trigger a sentinel attack?",
+    "answer": "It does if that creature is in melee range of another.",
+    "rules": [
+      "Combat > Making an Attack > Opportunity Attacks",
+      "Combat > Movement and Position > Moving Around Other Creatures"
+    ],
+    "rules_explanation": "If you leave a hostile creature's reach during your move, you provoke an opportunity attack."
+  },
+  {
+    "question": "If you apply Hexblades curse do you get an extra d8 on damage and do you get the Sneak Attack damage?",
+    "answer": "Not from Hexblade's Curse.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "A rogue does not gain sneak attack damage due to applying the hexblade's curse. See Sneak Attack rules for qualifications for its damage bonus."
+  },
+  {
+    "question": "With four Eldritch Blasts and all hits and it Crit, do you get a plus 6?",
+    "answer": "You get to add the extra damage per beam.",
+    "rules": [],
+    "rules_explanation": "The question doesn't provide the information required to answer the question. It doesn't specify if the level 17 Warlock used Hexblade's Curse (which depends if a bonus action was used) or if it was used is the target of Hex.",
+    "alternate_answer": "If the Warlock has applied Hexblade's Curse, then you would get a bonus equal to their proficiency for each beam. So, the answer is plus 6 per attack."
+  },
+  {
+    "question": "If an enemy fails on earthquake do they get knocked prone?",
+    "answer": "Yes, creatures in the affected area of earthquake must make a dexterity saving throw and will be knocked prone on a failure.",
+    "rules": [
+      "Spell Descriptions > Earthquake"
+    ],
+    "rules_explanation": "The Earthquake spell's area of effect states 'Each creature on the ground in the area must make a dexterity saving throw. On a failed save, the creature is knocked prone.'"
+  },
+  {
+    "question": "If you are in a spell, do you still get a reaction?",
+    "answer": "Yes, if a reaction trigger occurs.",
+    "rules": [
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "As long as the character is not incapacitated, they may still make reactions. What spell or effect is taking place would define what limits, if any, are placed on your ability to use your reaction.",
+    "notes": "In this case, the character was airborne because of the *fly* spell. As such there is nothing preventing the use of reactions."
+  },
+  {
+    "question": "Can one level 17 rogue split the party and have everyone under control for it?",
+    "answer": "No, one single use of Seeming can't have everybody under control for it.",
+    "rules": [
+      "Spell Descriptions > Seeming"
+    ],
+    "rules_explanation": "The Seeming spell only last for 8 hours as such even a permanent usage would still time out before a 17th level party can't be controlled."
+  }
+]

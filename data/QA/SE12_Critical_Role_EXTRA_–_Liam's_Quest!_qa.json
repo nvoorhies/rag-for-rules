@@ -1,0 +1,386 @@
+[
+  {
+    "question": "The level 11 Warlock casts Chill Touch on Conan O'Brien. What modifier does the level 11 Warlock add to his roll to attack?",
+    "answer": "The level 11 Warlock adds +6 to his roll to attack.",
+    "rules": [
+      "Classes > Warlock > Pact Magic > Spellcasting Ability",
+      "Spellcasting > Casting a Spell > Attack Rolls"
+    ],
+    "rules_explanation": "The spellcasting attack modifier used for a Warlock's spells is equal to their Proficiency Bonus + their Charisma Modifier.  The transcript specifies the warlocks modifier and level, so that the proficiency bonus can be determined from the table in the class information."
+  },
+  {
+    "question": "The level 1 Ranger attempts to shoot a creature with a bow. What modifier does the level 1 Ranger add to his roll to attack?",
+    "answer": "The transcript does not contain enough information to calculate the level 1 Ranger's attack modifier.",
+    "rules": [
+      "Classes > Ranger > Spellcasting > Spellcasting Ability",
+      "Spellcasting > Casting a Spell > Attack Rolls"
+    ],
+    "rules_explanation": "A spellcasting attack modifier is the spellcasting ability modifier added to the proficiency bonus. Without the charisma score of the ranger, and only a character level of 1 it is not possible to determine this value."
+  },
+  {
+    "question": "The level 1 rogue catches a dagger being thrown. What check, if any, is required to make that catch?",
+    "answer": "The level 1 Rogue must make a Dexterity check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master determines when an ability check is required in the absence of a specific rule."
+  },
+  {
+    "question": "The level 1 ranger is proficient in stealth. What modifiers does the level 1 ranger add to his stealth check?",
+    "answer": "The Level 1 ranger adds their Dexterity modifier and their proficiency bonus.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Classes > Ranger > Skills"
+    ],
+    "rules_explanation": "A stealth check is a Dexterity skill check, so the ranger adds his proficiency bonus (determined by SRD Table: Character Advancement) and his Dexterity modifier."
+  },
+  {
+    "question": "The level 1 ranger, and a dog are making a stealth check with disadvantage, because the dog is present. How does this disadvantage affect the check?",
+    "answer": "The player rolls 2 d20's and uses the lower value as the total for the check.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The ranger rolls 2 d20's and uses the lower value as the total for the check."
+  },
+  {
+    "question": "The level 1 Warlock casts chill touch on a creature.  As a result of this spell, the target can't regain hit points until the start of the level 1 Warlock's next turn, and the target has disadvantage on all of its attack rolls until the end of the level 11 Warlock's next turn.  Is this disadvantage on attack rolls caused by the chill touch applied to the creature correct according to the rules?",
+    "answer": "No, this is not correct according to the rules. It should be the start of the next turn of the caster and not the target creature as described in the rules.",
+    "rules": [
+      "Spell Descriptions > Chill Touch"
+    ],
+    "rules_explanation": "A duration is specified in a spell's description with the effect ending according to the appropriate rules. For Chill Touch the effect continues until the start of the Warlock's Next turn."
+  },
+  {
+    "question": "A half-orc fighter/barbarian with the Savage Attacks ability scores a critical hit with a maniac sword, a weapon that does 2d6 damage. How is the extra damage from Savage Attacks calculated?",
+    "answer": "Roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.",
+    "rules": [
+      "Races > Half-Orc > Savage Attacks"
+    ],
+    "rules_explanation": "The Half-Orc Savage Attacks racial ability allows one of the weapon's damage dice to be rolled one additional time and added to the extra damage of the critical hit."
+  },
+  {
+    "question": "With the level 10 warlock's mage hand, can the level 10 warlock cause fire damage? ",
+    "answer": "The level 10 Warlock's mage hand, has no effect on this.",
+    "rules": [
+      "Spell Descriptions > Mage Hand"
+    ],
+    "rules_explanation": "Mage hand has not capability to perform that action. This spell can only manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial."
+  },
+  {
+    "question": "The angel says the party gains 25 hit points, does the party actually gain temporary hit points, or actual hit points?",
+    "answer": "The party gains temporary hit points from the effect.",
+    "rules": [
+      "Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "When this happens, the party is awarded temporary hitpoints."
+  },
+  {
+    "question": "What is Taliesin's walking speed now that has rolled a 5 on his initiative roll?",
+    "answer": "The initiative roll does not affect walking speed.",
+    "rules": [
+      "Combat > Movement and Position > Speed",
+      "Combat > Initiative"
+    ],
+    "rules_explanation": "Initiative simply determines the order of play. The Walking speed is is static unless modified by other features or effects."
+  },
+  {
+    "question": "Is a level 1 ranger proficient in stealth?",
+    "answer": "It is possible for a level 1 ranger to be proficient in stealth, depending on what skills they chose at character creation.",
+    "rules": [
+      "Classes > Ranger > Proficiencies"
+    ],
+    "rules_explanation": "The ranger can choose 3 skills from Acrobatics, Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival at level 1"
+  },
+  {
+    "question": "The warlock is going to try and cut through the vines. What is needed to make that check happen?",
+    "answer": "To cut through the vines, make a survival check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master determines when an ability check is required in the absence of a specific rule."
+  },
+  {
+    "question": "How many arrows are recovered when the summer camp trained archer searches for his missed arrow?",
+    "answer": "At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Ammunition"
+    ],
+    "rules_explanation": "The arrow properties state this clearly."
+  },
+  {
+    "question": "A character has proficiency in stealth, if that character had advantage on an ability check but also had disadvantage which prevails?",
+    "answer": "The character will roll 1 d20, and not have advantage or disadvantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage."
+  },
+  {
+    "question": "What saving throw, if any, is required to try and bar the door?",
+    "answer": "No saving throw is required.",
+    "rules": [],
+    "rules_explanation": "No rule exists for barring a door. It would be handled by the DM as either successful or by using Strength check if there was opposition."
+  },
+  {
+    "question": "To what ability score is athletics tied?",
+    "answer": "Athletics is tied to the Strength ability score.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "Skills list the related ability score in parentheses after the name."
+  },
+  {
+    "question": "What stat is animal handling based on?",
+    "answer": "The Animal Handling skill is based on the Wisdom ability score.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The Animal Handling skill is a Wisdom based skill."
+  },
+  {
+    "question": "Can the party member command the beast?",
+    "answer": "Whether the party member can command the beast depends on the features, spells, or abilities of the party member and the type of beast in question.",
+    "rules": [],
+    "rules_explanation": "This depends on the rules for controlling beasts from class features or spells."
+  },
+  {
+    "question": "Taliesen wants to roll to attack. What is his modifier?",
+    "answer": "14.",
+    "rules": [],
+    "rules_explanation": "It is said what the roll is in his spell sheet."
+  },
+  {
+    "question": "The target of the Chill Touch can't regain hit points until the start of whose next turn?",
+    "answer": "The target of Chill Touch can't regain hit points until the start of the spellcaster's next turn.",
+    "rules": [
+      "Spell Descriptions > Chill Touch"
+    ],
+    "rules_explanation": "The spell description states when the effect expires."
+  },
+  {
+    "question": "A level 2 Warlock cast Chill Touch on Conan O'Brien. What happens to Conan O'Brien?",
+    "answer": "This question can not be answered. There is not enough information to provide the outcome.",
+    "rules": [
+      "Spell Descriptions > Chill Touch"
+    ],
+    "rules_explanation": "More information is needed about a number to be rolled and the outcome."
+  },
+  {
+    "question": "Can Travis use all his movement?",
+    "answer": "If you're playing on difficult terrain, you're able to move at half speed here.",
+    "rules": [
+      "Combat > Movement and Position > Difficult Terrain"
+    ],
+    "rules_explanation": "The player can only move up to half their speed in difficult terrain."
+  },
+  {
+    "question": "For an attack, what is the armor class for Travis?",
+    "answer": "12.",
+    "rules": [],
+    "rules_explanation": "It is listed at the end of the document."
+  },
+  {
+    "question": "Can Sam command beasts?",
+    "answer": "That depends on the features, spells, and abilities of the party member and the type of beast in question.",
+    "rules": [],
+    "rules_explanation": "This depends on the rules for controlling beasts from class features or spells."
+  },
+  {
+    "question": "While frozen, the ice was being melted, how does that help?",
+    "answer": "That is a matter for the DM.",
+    "rules": [],
+    "rules_explanation": "That is a matter for the DM."
+  },
+  {
+    "question": "If a creature is down, what kind of saving throw is required for that creature?",
+    "answer": "If you drop to 0 hit points, you must make a death saving throw.",
+    "rules": [
+      "Damage and Healing > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "The death saving throw rules determine the kind of save and result."
+  },
+  {
+    "question": "What are the conditions for being unconscious?",
+    "answer": "An unconscious creature is incapacitated, can't move or speak, and is unaware of its surroundings, the creature drops whatever it's holding and falls prone, the creature automatically fails Strength and Dexterity saving throws, attack rolls against the creature have advantage and any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.",
+    "rules": [
+      "Appendix MM-A: Conditions > Unconscious"
+    ],
+    "rules_explanation": "Unconscious, defined under Conditions"
+  },
+  {
+    "question": "How many hit points does the party have?",
+    "answer": "The transcript does not include enough information to calculate the party's hit points.",
+    "rules": [],
+    "rules_explanation": "This information was not specified."
+  },
+  {
+    "question": "Can Sam command a beast?",
+    "answer": "This can't be determined by the facts in the script.",
+    "rules": [],
+    "rules_explanation": "The facts in the script are not enough to establish whether Sam can use certain command abilities."
+  },
+  {
+    "question": "Is Sam slowed?",
+    "answer": "Yes, Sam is slow-moving due to the Chill Touch.",
+    "rules": [
+      "Spell Descriptions > Chill Touch"
+    ],
+    "rules_explanation": "Yes, Sam is slow-moving due to the Chill Touch."
+  },
+  {
+    "question": "If Travis rolls a nine and then rolled 11 and uses indomitable, what happens?",
+    "answer": "Travis must use the new roll.",
+    "rules": [
+      "Classes > Fighter > Indomitable"
+    ],
+    "rules_explanation": "The power forces a player to use the new roll"
+  },
+  {
+    "question": "If the dragon is a spellcaster, what ability does the dragon use to determine its saving throw DC for its spells?",
+    "answer": "This information cannot be provided from the script alone.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "This information would have to be in the monster's stat block."
+  },
+  {
+    "question": "Did we all get our hit points back for the game?",
+    "answer": "Yes, all wounds close and 25 hitpoints are regained.",
+    "rules": [],
+    "rules_explanation": "It says so in the document."
+  },
+  {
+    "question": "Did Talisen make the save?",
+    "answer": "That information is not know.",
+    "rules": [],
+    "rules_explanation": "The information is not known."
+  },
+  {
+    "question": "What happened as a result of the party touching the door?",
+    "answer": "The moment his hand touched the door (deep humming). You're standing on the steps, and you're looking at the parking lot. Sort of. The door in your hand is rusted and old, and you're looking at the five-story-tall form of a gray, green, legged squid-like monstrosity. Everyone roll a d20.",
+    "rules": [],
+    "rules_explanation": "What happened as a result of the party touching the door."
+  },
+  {
+    "question": "what is the effect of rolling 5 on his saving throws, because he used the Advil? I",
+    "answer": "The action of taking Advil doesn't provide any mechanical effect in the system.",
+    "rules": [],
+    "rules_explanation": "Taking Advil does not have any rule associated with it. This game is a one-shot. There are no rules associated with taking medicine."
+  },
+  {
+    "question": "does initiative effect actions?",
+    "answer": "No, intitiative does not effect actions, you can only use an action on your turn, in initative order.",
+    "rules": [
+      "Combat > Your Turn > Action"
+    ],
+    "rules_explanation": "Only on your turn, following initiative order, can you use an action."
+  },
+  {
+    "question": "In terms of game mechanics, how long does the bonus from an angelic Ashley last?",
+    "answer": "The characters gain 25 hit points.",
+    "rules": [],
+    "rules_explanation": "There was no mention of how long the hitpoints are there for."
+  },
+  {
+    "question": "What kind of saving throw is it?",
+    "answer": "You have to roll the dice for the 20 d roll with a range of 20-25.",
+    "rules": [],
+    "rules_explanation": "You have to roll the dice for the 20 d roll with a range of 20-25."
+  },
+  {
+    "question": "Are we still in the Initiative or not?",
+    "answer": "Yes, initiative is still active.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The combat steps are outlined here."
+  },
+  {
+    "question": "What are Sam's favored enemies?",
+    "answer": "The transcript does not state what the ranger's favored enemies are.",
+    "rules": [
+      "Classes > Ranger > Favored Enemy"
+    ],
+    "rules_explanation": "The transcript does not state what the ranger's favored enemies are."
+  },
+  {
+    "question": "How do I know how much to move?",
+    "answer": "You can move a distance up to your speed.",
+    "rules": [
+      "Combat > Movement and Position"
+    ],
+    "rules_explanation": "You can move a distance up to your speed."
+  },
+  {
+    "question": "What is his AC (Armor Class)?",
+    "answer": "The Lich has an AC of 17",
+    "rules": [],
+    "rules_explanation": "The Archlich armor class is listed as such:  Armor Class 17 (natural armor)"
+  },
+  {
+    "question": "What saving throw do we need to roll for Travis because he fell?",
+    "answer": "No saving throw is required in order to fall.",
+    "rules": [],
+    "rules_explanation": "There is no rule requiring a saving throw to simply fall."
+  },
+  {
+    "question": "what does sneak attack add to if it's a hit?",
+    "answer": "The attacker adds sneak attack damage to the damage roll.",
+    "rules": [],
+    "rules_explanation": "The question doesn't state which class, therefore there's no specific source."
+  },
+  {
+    "question": "Is Talisen a range player?",
+    "answer": "Whether the player is a range player cannot be determined by the rules.",
+    "rules": [],
+    "rules_explanation": "That statement cannot be proven true or false with the information given."
+  },
+  {
+    "question": "what is the distance for a melee attack?",
+    "answer": "The distance for a melee attack is 5 feet.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks"
+    ],
+    "rules_explanation": "By default, most creatures have a reach of 5ft."
+  },
+  {
+    "question": "if i was at a location how far could i travel?",
+    "answer": "That depends on how the character travels, the length of time, and any difficult terrain.",
+    "rules": [
+      "Adventuring > Movement"
+    ],
+    "rules_explanation": "There are many possible answers to that question, and depends on the context."
+  },
+  {
+    "question": "If I do not get the opportunity to roll in this combat, can the pug use it to make an attack?",
+    "answer": "The transcript does not state if the pug has an action.",
+    "rules": [],
+    "rules_explanation": "The text gives no action to the pug."
+  },
+  {
+    "question": "If Taliesin's hand is glowing from his power, can this been seen by the enemy",
+    "answer": "The transcript does not contain enough information to determine if the enemy can see the black tendrils on Taliesin's hands.",
+    "rules": [],
+    "rules_explanation": "The DM adjudicates what can be seen based on the circumstances. The range and conditions of the darkness."
+  },
+  {
+    "question": "What are the character alignment options?",
+    "answer": "The character alignment options are: lawful good, neutral good, chaotic good, lawful neutral, neutral, chaotic neutral, lawful evil, neutral evil and chaotic evil.",
+    "rules": [
+      "Using Ability Scores > Alignment"
+    ],
+    "rules_explanation": "Alignment options."
+  },
+  {
+    "question": "Is there a skill that applies at advantage to an attack?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "There is no such skill."
+  },
+  {
+    "question": "What is my movement speed now?",
+    "answer": "The transcript does not specify your movement speed, which is typically a character-specific trait.",
+    "rules": [],
+    "rules_explanation": "The transcript does not specify your movement speed, which is typically a character-specific trait."
+  }
+]

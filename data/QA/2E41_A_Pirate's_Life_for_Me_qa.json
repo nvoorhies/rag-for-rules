@@ -1,0 +1,148 @@
+[
+  {
+    "question": "What does “to high doh” mean?",
+    "answer": "The text suggests it means \"to high, though\", but the character responding to the question does not know what it means and states they would need help to translate.",
+    "rules": [],
+    "rules_explanation:": "This question does not refer to a specific rule, but rather to the meaning of a phrase used in a fictional Scottish dialect."
+  },
+  {
+    "question": "A level 7 *character's* familiar is going to rake across a *creature's* head. Can it do that?",
+    "answer": "The level 7 character cannot attack directly with the familiar's touch.  The character can cast Vampiric Touch through Frumpkin's touch for 3d6 necrotic damage to the target.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range",
+      "Section MM-A: Miscellaneous Creatures > Actions",
+      "Player's Handbook > Classes > Wizard > Pact Magic"
+    ],
+    "rules_explanation:": "The initial statement of the question does not include any spell. The wizard has a familiar from a wizard spell, but the description notes there is a range for touch spells. The Pact Magic feature in the Warlock class is not available for any other classes, but the same rule applies to using a spell to damage an opponent with your familiar."
+  },
+  {
+    "question": "If a level 7 character makes a Performance check, what adjustments should be made?",
+    "answer": "The level 7 character would add their Charisma modifier and proficiency bonus to the d20 roll if they are proficient in Performance.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation:": "A Performance check is an ability check using the Charisma ability. If the character is proficient in the Performance skill, their proficiency bonus is added to the check."
+  },
+  {
+    "question": "If a creature is Stunned, does the damage roll have advantage?",
+    "answer": "No, but attack rolls do have advantage. Damage rolls do not.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation:": "The Stunned condition states that attack rolls against the stunned creature have advantage, but it does not mention anything about damage rolls."
+  },
+  {
+    "question": "A character said it was difficult to swing a greatclub in the hold due to limited space, how do I deal with it?",
+    "answer": "You can impose disadvantage on the attack roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation:": "The GM can impose disadvantage on a roll when circumstances make a task more difficult."
+  },
+  {
+    "question": "If a creature is Stunned, can it make Strength and Dexterity saving throws?",
+    "answer": "No, a stunned creature automatically fails Strength and Dexterity saving throws.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation:": "The Stunned condition includes the effect that a stunned creature automatically fails Strength and Dexterity saving throws."
+  },
+  {
+    "question": "Can a level 7 character use Mending to fix a destroyed cannon?",
+    "answer": "No, Mending cannot repair that much material. Mending can repair a single break or tear in an object.",
+    "rules": [],
+    "rules_explanation:": "The spell description for Mending places a limit on what can be repaired, only specifying \"a single break or tear\" and not a larger amount of damage."
+  },
+  {
+    "question": "If Intelligence was used on the roll to fire the cannon incorrectly, what would be the result?",
+    "answer": "The SRD does not include a roll for firing a cannon. Because of this, there is no standard roll available and the effect is determined by the Dungeon Master.",
+    "rules": [],
+    "rules_explanation:": "Cannon mechanics are not standard rules and are at the discretion of the Dungeon Master, with no related material available in the SRD."
+  },
+  {
+    "question": "A cleric with the Prayer of Healing spell has Detect Magic up at the same time. Is this possible?",
+    "answer": "No. Prayer of Healing does not require concentration, Detect Magic does require concentration. A character can only concentrate on one spell at a time. ",
+    "rules": [
+      "Spellcasting > Concentration",
+      "Cleric Spells > Prayer of Healing",
+      "Wizard Spells > Detect Magic"
+    ],
+    "rules_explanation:": "Prayer of Healing is instantaneous and does not require concentration, Detect Magic requires concentration. A character can only concentrate on one spell at a time."
+  },
+  {
+    "question": "If a character casts Detect Magic, can they make a 30ft sweep?",
+    "answer": "No, the effect applies to the whole area. There is no area to move through, only the 30ft radius around the spellcaster that is within range. ",
+    "rules": [
+      "Spellcasting > Range",
+      "Wizard Spells > Detect Magic"
+    ],
+    "rules_explanation:": "The spell description includes the target, and the area, but not ability to move or sweep through an area to check it"
+  },
+  {
+    "question": "If my race is not proficient with shields but my class is, can I use a shield?",
+    "answer": "Yes, but unless you are proficient with shields, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells.",
+    "rules": [
+      "Equipment > Armor > Armor Proficiency"
+    ],
+    "rules_explanation:": "The rules specify that you can wear the armor, but that specific penalties apply if you are not proficient with the armor you are wearing."
+  },
+  {
+    "question": "Can you do more than one Identify at a time?",
+    "answer": "No, it takes ten minutes to cast the Identify Spell.",
+    "rules": [
+      "Wizard Spells > Identify"
+    ],
+    "rules_explanation:": "If it takes ten minutes to cast a spell, you cannot cast the spell more than once in ten minutes."
+  },
+  {
+    "question": "What are the mechanical effects of being a boatswain?",
+    "answer": "There are no mechanical effects for training as the boatswain",
+    "rules": [],
+    "rules_explanation:": "SRD contains no information or special rules relating to being a boatswain."
+  },
+  {
+    "question": "What is the maximum number of attuned items a character can have?",
+    "answer": "A creature can be attuned to no more than three magic items at a time.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation:": "The item attunement rules state that a character can be attuned to no more than three magic items at a time."
+  },
+  {
+    "question": "What is the skill for disarming traps with mage hand?",
+    "answer": "The skill for disarming traps is thieves' tools, the player must also be able to use the mage hand.",
+    "rules": [
+      "Equipment > Tools > Thieves' Tools"
+    ],
+    "rules_explanation:": "The rules on thieves' tools states that proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps."
+  },
+  {
+    "question": "Does helping an ally give me advantage on perception checks?",
+    "answer": "No, it does not. You are using the help action to aid an ally so they get advantage on their roll.",
+    "rules": [
+      "Using Ability Scores > Working Together"
+    ],
+    "rules_explanation:": "To use the help action an ally must be doing a task, then the character providing the aid provides advantage to the task that they are helping with."
+  },
+  {
+    "question": "What is the duration on the tattoo effect, since the gems are instilled?",
+    "answer": "There is no standard effect for tattoo implementation, so the duration of the tattoo is entirely dependent on what is determined by the Dungeon Master and the context of how the gems work.",
+    "rules": [],
+    "rules_explanation:": "There is no standard effect for tattoo implementation. SRD contains no information on tattoos."
+  },
+  {
+    "question": "What is the name of the skill used to carve barrels?",
+    "answer": "There is no skill named for carving barrels.",
+    "rules": [],
+    "rules_explanation:": "The SRD does not contain a skill named for carving barrels."
+  },
+  {
+    "question": "What is the DC to grapple someone?",
+    "answer": "There isn't one set DC for a grapple, to grapple someone you make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
+    "rules": [
+      "Actions in Combat > Melee Attacks > Grappling"
+    ],
+    "rules_explanation:": "This rule specifies how grappling works and specifies a contest rather than a set DC."
+  }
+]

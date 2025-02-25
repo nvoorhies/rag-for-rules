@@ -1,0 +1,43 @@
+[
+  {
+    "question": "What is the Difficulty Class of MARISHA's Hallucinatory Terrain spell?",
+    "answer": "The Difficulty Class of the Hallucinatory Terrain spell is 18.",
+    "rules": [
+      "Spells > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The Dungeon Master asks the player MARISHA to clarify the DC of all spellcasting, and she confirms that the DC for her spell is 18. This DC would apply for the Intelligence saving throw needed to see through the Hallucinatory Terrain"
+  },
+  {
+    "question": "Can SAM use multiple charges on his Wand of Magic Missiles on a turn?",
+    "answer": "Yes, the wand allows it. \"For one charge, you cast the 1st-level spell. You can increase the spell slot level for each additional charge you spend.\"",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "The wand allows SAM's character to use multiple charges to increase the spell slot of the Magic Missile spell."
+  },
+  {
+    "question": "As a level 11 bard, what level Vicious Mockery can SAM's character cast?",
+    "answer": "SAM can cast Vicious Mockery at 3rd level, since he is a level 11 bard.",
+    "rules": [
+      "Bard > Class Features > Spellcasting"
+    ],
+    "rules_explanation": "SAM's character is a level 11 bard and can cast vicious mockery at 3rd level. The rules state that you can do so on the appropriate class table."
+  },
+  {
+    "question": "If TRAVIS's raging character makes a reckless attack with a great weapon, and an enemy makes an attack of opportunity against him, does the enemy get advantage?",
+    "answer": "Yes, since reckless attack grants advantage to attack rolls against TRAVIS's character until his next turn.",
+    "rules": [
+      "Barbarian > Class Features > Rage",
+      "Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "Reckless attack grants advantage to attack rolls made against the raging barbarian until the start of his next turn. The enemy is making an attack roll and thus gains advantage."
+  },
+  {
+    "question": "As the party is waking up, MATT asks everyone to make a wisdom saving throw, SAM asks if his thing helps him, what ring of mind shielding, does it give him advantage?",
+    "answer": "No. MATT states SAM gets advantage.",
+    "rules": [
+      "SRD MISSING : Ring of Mind Shielding"
+    ],
+    "rules_explanation": "While the stats of the Ring of Mind Shielding are not in the SRD, the Dungeon Master indicates the player has advantage."
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "question": "Can the level 4 barbarian make an intimidation roll with advantage?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The dungeon master specified to make an intimidation roll with advantage"
+  },
+  {
+    "question": "What type of check is required for the level 3 druid, level 1 ranger to determine this creature he's describing (a being of immense intelligence. A creature that needs not walk this earth, one that does not touch the land that it traverses. I know it sees all, it smiles from a toothy maw and laughs, laughs in the darkness. Protruding from its forehead, one nasty, gnarled black horn, terrible source of its dark power. That is what's beneath here.)?",
+    "answer": "A nature check or arcana check is appropriate.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master has not specified a rule, so I have chosen an appropriate roll for the level 3 druid, level 1 ranger to use to perform an insight check."
+  },
+  {
+    "question": "For a single black horn, with extreme intelligence, sharp teeth, if the level 3 druid, level 1 ranger does an nature roll of 29, what does she know about this?",
+    "answer": "There is no natural creature you've ever heard has this type of essence to it, having a single black horn.",
+    "rules": [
+      "Races Racial Traits"
+    ],
+    "rules_explanation": "The nature roll result can be mapped to what is found in the characters known knowledge about nature."
+  },
+  {
+    "question": "Can the level 3 druid, level 1 ranger do a nature check?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > What Can You Do"
+    ],
+    "rules_explanation": "The dungeon master specified to make a nature check"
+  },
+  {
+    "question": "If the duergar general tries to argue with the level 4 barbarian , can the level 4 barbarian smash his head in?",
+    "answer": "That is up to the Dungeon Master.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The transcript text does not indicate that this is a rules question, but rather a DM judgment call"
+  },
+  {
+    "question": "Can the level 1 cleric use her high perception and perception check to find the invisible duergar general?",
+    "answer": "Yes, a perception check is appropriate to find a hidden or invisible creature.",
+    "rules": [
+      "Using Ability Scores > Wisdom > Perception"
+    ],
+    "rules_explanation": "Perception checks are appropriate for finding a hidden creature."
+  },
+  {
+    "question": "For a perception check result of 18, can I see the duergar general?",
+    "answer": "That depends on the DC set by the DM.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A check needs to equal or exceed a DC to succeed."
+  },
+  {
+    "question": "Can the level 4 barbarian throw their ax with the chain of returning?",
+    "answer": "Yes.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This does not appear to be a rules question, but rather a description of an action."
+  },
+  {
+    "question": "If throwing an ax is not a sneak attack, how is it handled?",
+    "answer": "It is not a sneak attack, so roll just for damage.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a rules clarification - sneak attack damage does not apply, so the roll is simply for damage."
+  },
+  {
+    "question": "Can the level 4 barbarian harvest natural armor from the bulette?",
+    "answer": "You can try. It is up to the Dungeon Master to adjudicate what can be gained.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is not covered by specific rules, so DM adjudication is required."
+  },
+  {
+    "question": "What is the radius on Pass Without a Trace?",
+    "answer": "The radius is 30 feet.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Dungeon Master needed to know this detail to perform an action, I extracted the detail from the gameplay"
+  },
+  {
+    "question": "If the carpet is falling, can the level 1 cleric cast War God's Blessing to give the Sorcerer a plus ten?",
+    "answer": "The level 1 cleric cannot cast War God's Blessing as she is falling.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A character cannot cast or perform actions when they are falling as they are incapacitated."
+  },
+  {
+    "question": "What dice is used for the concentration check?",
+    "answer": "Use the constitution modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Concentration checks always use a character's constitution modifier."
+  },
+  {
+    "question": "At 60-70 feet high, is it too late to cast Featherfall?",
+    "answer": "The DM did not determine what the height requirements are to cast Featherfall, so the question cannot be answered based solely on the provided document",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The question cannot be answered without additional information about what range limitations apply"
+  },
+  {
+    "question": "What is gained from a rest?",
+    "answer": "A rest heals you to full.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This comes straight from the text."
+  },
+  {
+    "question": "How much does a rest heal?",
+    "answer": "A rest heals you to full.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This comes straight from the text."
+  },
+  {
+    "question": "When Tinker's Kit is used what am I rolling",
+    "answer": "You add your proficiency bonus, which is, the tinker's kit is four.",
+    "rules": [
+      "Equipment > Tools"
+    ],
+    "rules_explanation": "Add your proficiency bonus to any ability check you make using the tools in your craft"
+  },
+  {
+    "question": "When you can't fall asleep - what do you do?",
+    "answer": "spin the top.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This isn't a rules question, but rather roleplaying."
+  },
+  {
+    "question": "If you are not resting do you get your spells back?",
+    "answer": "If you're not resting you don't get your spells back.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This comes straight from the text."
+  },
+  {
+    "question": "The character is suffering exhaustion, what does that do?",
+    "answer": "It just means any ability checks you take - so, any skills you take are at disadvantage until you get a full night's rest.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "According to the player handbook Exhaustion level 1 means disadvantage on ability checks."
+  },
+  {
+    "question": "Does resting heal and remove exhaustion?",
+    "answer": "No, a rest heals you, but does not remove exhaustion. A full night's rest will allow a character to get rid of one level of exhaustion.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rest heals a character to full. The Dungeon Master clarified that a rest does not heal exhaustion."
+  },
+  {
+    "question": "I'm a range, what does favored terrain give me?",
+    "answer": "When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in. While traveling for an hour or more in your favored terrain, you gain certain benefits.",
+    "rules": [
+      "Ranger > Class Features > Favored Terrain",
+      "Using Ability Scores > Skills > Group Checks"
+    ],
+    "rules_explanation": "The dungeon master asked about the rangers favored terrain so I pulled from the SRD information regarding what this skill provides."
+  },
+  {
+    "question": "How is the outcome for a direct contest roll determined?",
+    "answer": "It was a direct versus 24 versus 22. He won.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "I was able to extract from the DM's statement in the gameplay text that the resolution to the roll is comparing versus the result, rather than a fixed DC."
+  },
+  {
+    "question": "If a surprise action is done on someone on the ground, is it an automatic crit?",
+    "answer": "Yes! As they are surprised.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The DM confirms that the attack is an automatic critical because the target is surprised."
+  },
+  {
+    "question": "When attacking a prone target do you get advantage on the attack rolls?",
+    "answer": "Yes.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "According to the player handbook attack rolls against a prone target have advantage if the attacker is within 5 feet"
+  },
+  {
+    "question": "What should be the bonus to hit be when firing an Explosive arrow?",
+    "answer": " There is a -4 penalty to hit with it",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "I was able to extract from the DM's statement in the gameplay text that there is a -4 penalty to hit."
+  },
+  {
+    "question": "If I ignore partial cover, do I need to roll at all to hit?",
+    "answer": "No.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": " This is false"
+  },
+  {
+    "question": "I roll all three Scorching Ray attacks at once - is that correct?",
+    "answer": "No, you have to do one for each attack.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is false"
+  },
+  {
+    "question": "What does the Thorn Whip spell do?",
+    "answer": " It does 2d6 damage, it's a 30-foot range, and it pulls 10 feet. Notes I have on it– piercing damage– if they are large or smaller, you pull the creature up to ten feet closer.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "I was able to extract from the player's description of the Thorn Whip spell that it does 2d6 piercing damage and pulls up to ten feet closer."
+  },
+  {
+    "question": "A target rolling a d20 result of 1 on an acrobatics check is a fail?",
+    "answer": "Yes, it is.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A natural 1 is always a failure."
+  }
+]

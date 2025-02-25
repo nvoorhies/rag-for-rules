@@ -1,0 +1,535 @@
+[
+  {
+    "question": "Can the level 20 bard use bardic inspiration on themself for this initiative roll?",
+    "answer": "Yes, bardic inspiration can be used on yourself",
+    "rules": [
+      "Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "The rules state that a bard can choose a creature other than itself to receive a Bardic Inspiration die.  It does not disallow using it on themselves, so it is a valid option."
+  },
+  {
+    "question": "If level 20 druid and level 20 rogue are tied in initiative, can one of them use a Dexterity ability check to determine who goes first?",
+    "answer": "Yes, the DM can call for a Dexterity ability check to determine the order in which the level 20 druid and level 20 rogue act on the turn in which the ability scores are tied.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Combat > Initiative"
+    ],
+    "rules_explanation": "If a tie occurs, the GM decides the order among tied GM-controlled creatures, and the players decide the order among their tied characters. The GM can decide the order if the tie is between a monster and a player character. Optionally, the GM can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first."
+  },
+  {
+    "question": "Can the level 20 bard use their bonus action to dash?",
+    "answer": "No, there is no mention of them having any abilities that would allow them to dash as a bonus action.",
+    "rules": [
+      "Combat > Bonus Actions"
+    ],
+    "rules_explanation": "Only certain abilities, spells, or other features of the game state that they can do something as a bonus action. If the level 20 bard does not have one of these abilities then they cannot perform that action as a bonus action."
+  },
+  {
+    "question": "Can level 20 druid see through the invisibility spell with blindsight?",
+    "answer": "No, the level 20 Druid cannot use blindsight to see through the invisibility spell.",
+    "rules": [
+      "Monsters > Special Traits > Blindsight",
+      "Player's Handbook > Appendix A > Conditions > Invisible"
+    ],
+    "rules_explanation": "Blindsight allows a creature to perceive its surroundings without relying on sight.  The condition of being invisible makes a creature impossible to see without the aid of magic or a special sense."
+  },
+  {
+    "question": "Does level 20 ranger's tremor sense allow her to sense the invisible bard?",
+    "answer": "If the invisible bard is moving across the ground, the level 20 druid will sense their presence using tremor sense.  Blindsight would not work but tremor sense would still feel him running across.",
+    "rules": [
+      "Monsters > Special Traits > Tremorsense",
+      "Player's Handbook > Appendix A > Conditions > Invisible"
+    ],
+    "rules_explanation": "Tremorsense allows a creature to detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures.  The condition of being invisible makes a creature impossible to see without the aid of magic or a special sense."
+  },
+  {
+    "question": "Can the level 20 bard cast Counterspell in response to a spell that is already cast?",
+    "answer": "No, the bard cannot cast Counterspell.",
+    "rules": [
+      "Spellcasting > Casting Time > Reactions"
+    ],
+    "rules_explanation": "Counterspell has a casting time of 1 reaction, which you take when you see a creature within 60 feet of you casting a spell. If the spell is already cast then the target is invalid."
+  },
+  {
+    "question": "Does the level 20 bard become visible after casting a spell?",
+    "answer": "Yes, the invisibility spell ends when the level 20 bard casts a spell.",
+    "rules": [
+      "Spell Descriptions > Invisibility"
+    ],
+    "rules_explanation": "The Invisibility spell states that the spell ends if the target attacks or casts a spell. "
+  },
+  {
+    "question": "Does the Freedom of Movement spell negate the effects of Otto's Irresistible Dance?",
+    "answer": "No, the effects of Otto's Irresistible Dance are not negated by Freedom of Movement.",
+    "rules": [
+      "Spell Descriptions > Otto's Irresistible Dance",
+      "Spell Descriptions > Freedom of Movement"
+    ],
+    "rules_explanation": "Otto's Irresistible Dance spell forces the target to use all its movement to dance without leaving its space, while Freedom of Movement states that the target is unaffected by difficult terrain and spells and other magical effects can neither reduce the target's speed nor cause the target to be paralyzed or restrained. The former does not reduce movement, the target is simply spending all their movement dancing in place."
+  },
+  {
+    "question": "If the level 20 druid wild shapes out of an elemental form, does the Otto's Irresistible Dance spell end?",
+    "answer": "Only one way to find out. (The rules do not explicitly define the effect on Otto's Irresistible Dance when the target switches wild shapes).",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "With a Dexterity saving throw DC 22, and a roll of 21, does the target succeed on the saving throw?",
+    "answer": "No, the target does not succeed on the saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "To make a saving throw, roll a d20 and add the appropriate ability modifier. If the total of the roll plus modifiers equals or exceeds the DC, the saving throw is a success."
+  },
+  {
+    "question": "Can an ally attack an earth elemental to end Otto's Irresistible Dance?",
+    "answer": "No, if an ally attacks the earth elemental, Otto's Irresistible Dance will not end. Only a successful Wisdom saving throw will end the effect.",
+    "rules": [
+      "Spell Descriptions > Otto's Irresistible Dance"
+    ],
+    "rules_explanation": "Otto's Irresistible Dance states that it lasts until you spend an action to try and make a saving throw to resist it."
+  },
+  {
+    "question": "Does tremor sense work through a Silence spell?",
+    "answer": "No, tremor sense does not work through a Silence spell. Unfortunately. I mean, it is vibration in the air, but that's not going to stop vibration in the ground. It just dampens the sound.",
+    "rules": [
+      "Spell Descriptions > Silence"
+    ],
+    "rules_explanation": "Tremorsense can detect vibrations in the ground, air or water. Unfortunately, the Silence spell stops vibration in the air."
+  },
+  {
+    "question": "Does level 20 Barbarian have disadvantage on constitution saving throws because he is poisoned?",
+    "answer": "Not saving throws, poisoned just gives you disadvantage on ability checks and attacks.",
+    "rules": [
+      "Player's Handbook > Appendix A > Conditions > Poisoned"
+    ],
+    "rules_explanation": "The poisoned condition only imparts disadvantage on attack rolls and ability checks"
+  },
+  {
+    "question": "Does Mage Slayer give Grog advantage on saving throws against Keyleth's Sunbeam when he is not in melee of her?",
+    "answer": "No, Mageslayer only gives advantage on saving throws against spells cast within five feet of you.",
+    "rules": [
+      "Feats > Mage Slayer"
+    ],
+    "rules_explanation": "The Mage Slayer feat states that you have advantage on saving throws against spells cast within five feet of you."
+  },
+  {
+    "question": "If the level 20 rogue has a 21 dexterity from a high roll and +8 as a dexterity modifier, did he roll a natural 20?",
+    "answer": "The highest possible ability score for a character is 20, which would equate to a +5 modifier. Therefore the high roll is not a natural 20.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers",
+      "Rogue > Expertise"
+    ],
+    "rules_explanation": "An ability score of 20 gives the highest non-magical modifier of +5.  The maximum dexterity modifier possible is +5, and the PC has a +6 to Stealth from Expertise. A roll of 21 can not be derived from this combination. Therefore it was not a natural 20."
+  },
+  {
+    "question": "Can the level 20 bard cast a higher level healing word on himself as a bonus action?",
+    "answer": "You could sacrifice a higher-level spell slot to cast a level two Healing Word as a bonus action.",
+    "rules": [
+      "Spellcasting > Bonus Action",
+      "Spellcasting > Casting a Spell at a Higher Level"
+    ],
+    "rules_explanation": "You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. Additionally you can cast a spell using a slot that is of a higher level than the spell"
+  },
+  {
+    "question": "Does bonus action Healing Word stop his ability to use Minor Illusion on the same turn?",
+    "answer": "The level 20 bard is asking about using an action to cast Major Image, and not about also casting Healing Word. The level 20 bard does not get to cast the minor image as well because Invisibility ends when you cast a spell.",
+    "rules": [
+      "Spell Descriptions > Invisibility",
+      "Spell Descriptions > Major Image"
+    ],
+    "rules_explanation": "The Invisibility spell states that the spell ends if the target attacks or casts a spell. Casting Major Image ends the invisibility. The Minor Illusion is not relevant."
+  },
+  {
+    "question": "If the party is going to walk into the major image, does the other character get a perception check to recognize the illusion even though the character did not use a action to investigate?",
+    "answer": "Correct.",
+    "rules": [
+      "Spell Descriptions > Major Image"
+    ],
+    "rules_explanation": "The spell description states that if a creature uses its action to examine the image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC."
+  },
+  {
+    "question": "When the purple energy circles activates does this disenchant all spells?",
+    "answer": "All magical items, all effects, it seems.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "Is True Polymorph concentration?",
+    "answer": "True Polymorph is concentration.",
+    "rules": [
+      "Spell Descriptions > True Polymorph"
+    ],
+    "rules_explanation": "The duration for the True Polymorph spell is Concentration, up to 1 hour."
+  },
+  {
+    "question": "If the level 20 druid changes into a fire elemental does that require her to roll a concentration check?",
+    "answer": "Yeah, I wanted to see if you lost concentration on the Sunbeam.",
+    "rules": [
+      "Spell Descriptions > Sunbeam",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The description for Sunbeam states that it requires concentration. Taking damage requires you to make a constitution saving throw to maintain concentration. "
+  },
+  {
+    "question": "If the level 20 druid is a fire elemental, is she subject to a concentration check on damage?",
+    "answer": "With the fire elemental's constitution.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "Taking damage requires you to make a constitution saving throw to maintain concentration. "
+  },
+  {
+    "question": "What amount does a character heal when using potion of superior healing",
+    "answer": "You use your action to open the chest and reach inside. You get yourself a Potion of Superior Healing.",
+    "rules": [],
+    "rules_explanation": "The action description indicates what is gained from using the item. The level 20 barbarian will gain 8d4 plus eight hit points."
+  },
+  {
+    "question": "What happens if level 20 barbarian steps on a purple rune?",
+    "answer": "Okay. Out the other side you emerge.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "When a level 20 rogue is on the ceiling due to Spider Climb Boots, and is then subjected to Reverse Gravity, is it possible to use boots to cling to the field?",
+    "answer": "They're activated, I ain't moving. I can't be knocked prone, you can't do shit.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "Does the level 20 rogue take force damage every turn inside of Reverse Gravity?",
+    "answer": "But that's the same shit, right?",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "What is the range of major illusion?",
+    "answer": "That only has 60-feet range, 30-feet range, 60-feet range?",
+    "rules": [],
+    "rules_explanation": "That question was an aside question with the level 20 bard thinking that the range was 30 feet"
+  },
+  {
+    "question": "Can level 20 Bard use his Bonus Action to cast Healing Word and his action to cast a higher level Healing Word on himself?",
+    "answer": "No, it's a bonus action, it's used. Sorry.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "The rules state that a bard can use a bonus action to cast Healing Word. You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action."
+  },
+  {
+    "question": "The Cloak of Disappearance was nulified when hit with the purple glow?",
+    "answer": "Correctly.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "If the level 20 barbarian makes a leap and slams his head into a wall, would he make an acrobatics check to take less damage from the crash?",
+    "answer": "So you get the additional leap. You're now in the doorframe, you're blocking it off. You have a little bit of extra movement, but that's as far as you can get. You have a ringing in your ears and you're like, \"That smarts a little bit.\"",
+    "rules": [],
+    "rules_explanation": "This is a GM decision. There is no discussion or rules for this scenario, the player ends up not taking any damage from the action"
+  },
+  {
+    "question": "After becoming an air elemental does he get more concentration saving throws because of a good constitution score?",
+    "answer": "Yeah, then I just made it. No, I'm totally good. What are you doing, Keyleth? You guys are playing it really safe now!",
+    "rules": [],
+    "rules_explanation": "You can not take any more damage or saving throws in air form because of the constitution score."
+  },
+  {
+    "question": "If all of the spells are gone, then can he change back into an earth elemental?",
+    "answer": "At full health. You get the sense now, and you've heard of such rumors in your research as a bard, that certain powerful archdruids can wild shape as many times as they want.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "Can the level 20 ranger ask her husband for advice on his moves?",
+    "answer": "Mid-game! You're asking to get fucked with!",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "If someone jumps up and falls down the tower, does he get damage, or is it movement?",
+    "answer": "It's five hundred feet and you take bludgeoning damage, so you are",
+    "rules": [
+      "The Environment > Falling"
+    ],
+    "rules_explanation": "At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6"
+  },
+  {
+    "question": "If a character is being held in place against their will, do they need to make a saving throw?",
+    "answer": "Technically, you're one higher than that, but that's fine. Make a constitution saving throw as you get thrust up.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "If a player character casts reverse gravity and throws the other one to the top, does he take damage?",
+    "answer": "That's right. You take 20 points of force damage.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "As they are falling from the reversed gravity, do they get to have a check?",
+    "answer": "You had to right yourself, but as soon as you started flying upward, you went, \"Oh crap!\" and you caught yourself.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "Does the level 20 rogue take half damage or all damage from the area effect spell?",
+    "answer": "You have to make a dexterity saving throw.",
+    "rules": [
+      "Spell Descriptions > Fire Storm",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The Fire Storm spell has a Dexterity Saving Throw attached to it, which means it is required."
+  },
+  {
+    "question": "If the rogue was unable to make a dexterity saving throw to a spell, would he take any damage because he has evasion",
+    "answer": "No",
+    "rules": [
+      "Rogue > Evasion"
+    ],
+    "rules_explanation": "The Evasion special ability is such: When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail."
+  },
+  {
+    "question": "Can an NPC be a target of his Vow of Emnity?",
+    "answer": "The other two don't know shit.",
+    "rules": [
+      "Paladin > Class Features > Vow of Enmity"
+    ],
+    "rules_explanation": "This is a GM decision. This was a question about if it was going to be a good strategic move but there are no explicit rules about if an NPC can be a target of the vow of emnity."
+  },
+  {
+    "question": "Can she get a hit roll to the attack on the tower?",
+    "answer": "No, I'm sorry, 22 total.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "Are you able to use the boots of speed to make his movements across force walls faster?",
+    "answer": "It's considered rough terrain for you to move across.",
+    "rules": [
+      "The Environment > Movement > Difficult Terrain"
+    ],
+    "rules_explanation": "The boots of speed increase walking speed, but does not eliminate the status of difficult terrain."
+  },
+  {
+    "question": "If he did action surge, could you see those attacks as well?",
+    "answer": "All right, you watched this earth elemental dive into the tower right next to you in this open space.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "Can she switch to another elemental?",
+    "answer": "But we'll have to work this out.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "Does wild shape get affected by the Feeblemind spell?",
+    "answer": "You keep your mental stats, though.",
+    "rules": [
+      "Druid > Wild Shape"
+    ],
+    "rules_explanation": "You wild shape into a beast, and replace the original form statistics, except for alignment and Intelligence, Wisdom, and Charisma scores."
+  },
+  {
+    "question": "While level 20 cleric's intelligence is lowered, does she maintain her status as being an archdruid?",
+    "answer": "Wild Shape is not casting a spell, it's an ability. She can still Wild Shape.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision. The GM states that the nature of an archdruid is not reliant on her mental state"
+  },
+  {
+    "question": "Since she is able to wild shape, can I dominate person her?",
+    "answer": "Tremor sense is where I am?",
+    "rules": [
+      "Spell Descriptions > Tremorsense"
+    ],
+    "rules_explanation": "Dominating does not work due to the tremor sense."
+  },
+  {
+    "question": "If the character that has been polymorphed fails their checks from the new environment can you use your powers to get them?",
+    "answer": "Not if you're hearing from a few",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "If she's just an earth elemental, can she just beat him and crush him?",
+    "answer": "You didn't bounce off but now you're slammed into it and being slowly pushed into it, like static crackling.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "If there is an immovable rod then when you get to the top are you in there as well?",
+    "answer": "Like a lot of the other rules in this game. It doesn't affect anything because you're flying.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "Is planar shift a concentration spell?",
+    "answer": "Planar Shift? I don't believe it is.",
+    "rules": [
+      "Spell Descriptions > Planar Shift"
+    ],
+    "rules_explanation": "This spell does not require concentration"
+  },
+  {
+    "question": "Can someone concentrate and fight him? ",
+    "answer": "Technically, you can still transform.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision. This is asked by the player but the DM does not elaborate on if or if not a PC could do both"
+  },
+  {
+    "question": "After Keyleth casts Plane Shift on him to a water plane, how long does it take to suffocate?",
+    "answer": "You're holding your breath. You know with your constitution, you can hold your breath for a decent amount of time.",
+    "rules": [],
+    "rules_explanation": "This does not indicate how long it is, only that it can be done"
+  },
+  {
+    "question": "Does he take poison at the top of each turn because he is poisoned?",
+    "answer": "No, but he's poisoned, so he has disadvantage on attacks and ability checks until he gets rid of the poison.",
+    "rules": [
+      "Player's Handbook > Appendix A: Conditions > Poisoned"
+    ],
+    "rules_explanation": "The poisoned condition does not imply you take poison damage at the start of each turn, only disadvantage on attacks and ability checks until the poison is removed"
+  },
+  {
+    "question": "Does the fact that she used two elemental forms earlier affect her ability to turn into a water elemental?",
+    "answer": "All right, you are submerged in this water.",
+    "rules": [
+      "Druid > Wild Shape"
+    ],
+    "rules_explanation": "The druid only has 2 wild shapes until level 20. At 20th level the druid can wild shape as many times as they want"
+  },
+  {
+    "question": "Does the level 20 ranger take damage if he is on the top?",
+    "answer": "No, you are held aloft. Grog, however, plummets to the ground for 80 feet.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "Can you hold an action and take an action surge?",
+    "answer": "You can't hold a hasted action.",
+    "rules": [
+      "Using The Special Abilities of Fighters > Action Surge"
+    ],
+    "rules_explanation": " The special abilities of fighters specifically state that it occurs on your turn, not as a reaction to another creatures action."
+  },
+  {
+    "question": "Does being a fire elemental give you advantage on saving throws?",
+    "answer": "With the fire elemental's constitution.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "Do I have to take a concentration check to retain the shape change?",
+    "answer": "As the elemental, yes. It's my Sunbeam that I've been rolling concentration checks against.",
+    "rules": [],
+    "rules_explanation": "There is no such spell, damage, or saving throw effect to shape change, or transform into elemental"
+  },
+  {
+    "question": "Do I get to use my reaction to hit this time, and the second or the third?",
+    "answer": "You don't hear anything. All of a sudden.",
+    "rules": [],
+    "rules_explanation": "The question was to find out if the character's reaction got to be used"
+  },
+  {
+    "question": "Was holding an action and attacking as a reaction not a choice?",
+    "answer": "All right, so as you're stepping in there, not immediately but the sensation is that similar to one of your allies were to cast a Cure Wounds on you, it has a sort of regenerative property to it, the longer you stand in it. It hasn't taken effect yet.",
+    "rules": [],
+    "rules_explanation": "The question was to find out if a reaction was possible due to the circumstances"
+  },
+  {
+    "question": "Healing Word, can I also use my action to cast a higher level healing word on myself? Or is that--",
+    "answer": "No, it's a bonus action, it's used. Sorry.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "Spells with bonus action casting times cannot be cast on the same turn as another spell, except for cantrips with a casting time of 1 action."
+  },
+  {
+    "question": " If you're double poisoned, does your strength get lowered twice or just the one time from being poisoned",
+    "answer": "And you are currently poisoned.",
+    "rules": [],
+    "rules_explanation": "In the conditions ruleset, only one poisoned condition is possible at any one time for a single source"
+  },
+  {
+    "question": "If I reverse gravity does that effect the target that is touching you, and that is one of the range requirements on it?",
+    "answer": "It didn't affect anything because you were flying.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision. This is what you did early to send Grog to hit the barrier."
+  },
+  {
+    "question": "When the reverse gravity wears off what happens?",
+    "answer": "With that, you have your movement back.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "Does level 20 ranger make concentration saving throws on sunbeam damage, or just to maintain earth elemental form?",
+    "answer": "No, I'm good. What do I have to make? I keep my spell attack, right?",
+    "rules": [],
+    "rules_explanation": "No, it's my Sunbeam that I've been rolling concentration checks against."
+  },
+  {
+    "question": "Is damage from stone endurance added to the saving throws?",
+    "answer": "Let me roll my Stone's Endurance. Ten plus my constitution. Minus 16. So 41 minus 16 would be 25.",
+    "rules": [],
+    "rules_explanation": "Stone's Endurance is used to reduce the damage, not for the saving throws"
+  },
+  {
+    "question": "The energy thing does healing? So you are able to get help with these things.",
+    "answer": "Technically, you're one higher than that, but that's fine.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "If he's one higher than that, what does that mean?",
+    "answer": "I was actually going to walk, to be fair.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "Does the 2nd Level spell Healing Word cast as a bonus action, mean that I cannot do an action after.",
+    "answer": "But it won't be a bonus action anymore, will it?",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "To cast healing word at a higher level does not change that it is still a bonus action. \"You must use a bonus action on your turn to cast the spell, provided that you haven't already taken a bonus action this turn. You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.\" So casting a levelled Major Image would not be possible with Healing Word already cast."
+  },
+  {
+    "question": "If I, Percival, have cabals ruin cloak, and you use your movement to head back in?",
+    "answer": "It currently lays against you like a normal cloak.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "What is a condition saving throw, is that a roll",
+    "answer": "The DC is?",
+    "rules": [],
+    "rules_explanation": "Conditions can't be automatically applied, but only those with a high chance of succeeding are usually applied."
+  },
+  {
+    "question": "Does it automatically work against the person hit?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "The NPC is going to be hit with every bullet."
+  },
+  {
+    "question": "Does that mean she can go earth elemental again, or is that it?",
+    "answer": "You are submerged in this water.",
+    "rules": [],
+    "rules_explanation": "Keyleth is still locked into one of the elemental forms so Keyleth can't do anything else because the element is not removed."
+  },
+  {
+    "question": "If he is now a body with limited senses do you have to be directly touching them, or the spirit touching them? Is there like some range or something?",
+    "answer": "There is no range.",
+    "rules": [],
+    "rules_explanation": "This is a GM decision."
+  },
+  {
+    "question": "How long does my healing last for?",
+    "answer": "Okay, that is going to be the end...",
+    "rules": [],
+    "rules_explanation": "There is no long last rule."
+  }
+]

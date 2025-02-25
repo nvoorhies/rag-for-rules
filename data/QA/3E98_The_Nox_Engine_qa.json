@@ -1,0 +1,169 @@
+[
+  {
+    "question": "Can a Lvl 11 sorcerer/warlock add a d4 to an initiative roll with bless?",
+    "answer": "No, Bless only affects saving throws and attack rolls, not ability checks",
+    "rules": [
+      "Spells > Bless",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Bless spell specifically states that it only affects attack rolls and saving throws. An initiative roll is an ability check."
+  },
+  {
+    "question": "The text describes that to grab the Pinion of Service, the Lvl 11 Minotaur / Paladin \"catch[es] up, takes you a couple tries, and you catch the lid, but hold on, and it's rotating with you on it. You lift up onto it--\\nSAM: This looks cool!\\nMATT: -- and you can feel that power around it.\" It's not locked in place?",
+    "answer": "The crystal is not locked in place, it is floating freely.",
+    "rules": [],
+    "rules_explanation": "The DM responds that the crystal is floating freely on the platform."
+  },
+  {
+    "question": "How do you apply erratic defense for a Lvl 13 barbarian against a claw attack?",
+    "answer": "When damage is rolled, reduce the damage by half.",
+    "rules": [
+      "Classes > Barbarian > Path of the Berserker > Erratic Defense"
+    ],
+    "rules_explanation": "Erratic Defense states that the barbarian gains resistance to the damage in this instance. Damage resistance halves the damage."
+  },
+  {
+    "question": "Does the bless spell add a d4 to initiative?",
+    "answer": "No, Bless only affects saving throws and attack rolls, not ability checks",
+    "rules": [
+      "Spells > Bless",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Bless spell specifically states that it only affects attack rolls and saving throws. An initiative roll is an ability check."
+  },
+  {
+    "question": "Does the spell Telekinesis allow for you to activate the effect with a check or does the spell impose a saving throw?",
+    "answer": "Yes, Telekinesis imposes a Strength saving throw.",
+    "rules": [
+      "Spell Descriptions > Telekinesis"
+    ],
+    "rules_explanation": "The telekinesis spell description details that if you are trying to move a creature, the target must make a Strength saving throw"
+  },
+  {
+    "question": "If an ability or spell deals damage to more than one target, is each target rolled for individually?",
+    "answer": "No, the damage is rolled once for all of them",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls"
+    ],
+    "rules_explanation": "The damage rolls for an effect that deal damage to multiple targets are made once for all targets of the effect."
+  },
+  {
+    "question": "Does Bless add the d4 to the Dexterity saving throw or wisdom saving throw for initiative?",
+    "answer": "No, Bless only affects saving throws and attack rolls, not ability checks",
+    "rules": [
+      "Spells > Bless",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Bless spell specifically states that it only affects attack rolls and saving throws. An initiative roll is an ability check."
+  },
+  {
+    "question": "What happens when there are two separate doors and there is a spell running that makes one of the doors come to life at my command and tell it to open both doors, and then use that animated door now open the other door. What level do I need to roll for?",
+    "answer": "Because Animate Object cannot be used to cast spells, tell what is not possible to be done."
+  },
+  {
+    "question": "Does Bless add the d4 to damage?",
+    "answer": "No, Bless only affects saving throws and attack rolls.",
+    "rules": [
+      "Spells > Bless"
+    ],
+    "rules_explanation": "The Bless spell specifically states that it only affects attack rolls and saving throws."
+  },
+  {
+    "question": "For the spell Telekinesis, does having used robes that imbue me with extra sorcery effect my range or strength or the other options from the spell Telekinesis?",
+    "answer": "The robes with sorcery, that you used, does not affect your range or the strength but what they would effect is when you use telekinesis for a strength save",
+    "rules": [
+      "Spell Descriptions > Telekinesis"
+    ],
+    "rules_explanation": "The telekinesis spell description details that if you are trying to move a creature, the target must make a Strength saving throw"
+  },
+  {
+    "question": "The character can sense that the armor being held telekinetically emanates from a smell. What check is necessary?",
+    "answer": "Make a medicine check for me.",
+    "rules": [
+      "Ability Scores > Wisdom > Medicine"
+    ],
+    "rules_explanation": "The DM requests a Medicine skill check which is associated with the Wisdom ability to ascertain the properties of a smell."
+  },
+  {
+    "question": "When using Telekinesis to hold an object, does the object stay in place and will it remain locked in place?",
+    "answer": "The gem doesn't even move.",
+    "rules": [
+      "Spell Descriptions > Telekinesis"
+    ],
+    "rules_explanation": "The Dungeon Master states that the object does not move, which in the context, it remains locked in place by the forces keeping the soul anchor crystal bound to the engine."
+  },
+  {
+    "question": "For the spell Polymorph, do spells end?",
+    "answer": "Yes, spells remain concentrated during Polymorph, as the individual retains the ability to cast spells in the form of a Polmorphed state.",
+    "rules": [
+      "Spellcasting > Concentration",
+      "Spellcasting > Casting A Spell"
+    ],
+    "rules_explanation": "The conditions that end a spell are concentration being broken or the spell otherwise ending. Wild Shape and related spells like Polymorph does not remove concentration but impose limitations on what components can be performed. "
+  },
+  {
+    "question": "A Lvl 9 totem warrior barbarian with advantage on all strength saving throws is pulled by a chain with a hooked barb. Does he fail?",
+    "answer": "A 18 on the dice, you just fail.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The DM states that the attack hits the character meaning that in the context, that the save failed to pull the character."
+  },
+  {
+    "question": "If you are concentrating on a spell and have that concentration broken, do you have to say that out loud immediately or can you just say it later?",
+    "answer": "Does it matter? So. As long as that tether magic is there, go. Yeah, whatever. ",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "The decision to roleplay the loss of concentration for the spell does not effect the rules, and is a roleplaying or 'flavor' decision."
+  },
+  {
+    "question": "When you get an additional attack with Haste, do you still have to take 3 full actions if you have the ability to attack more than once?",
+    "answer": "No",
+    "rules": [
+      "Spell Descriptions > Haste",
+      "Combat > Actions in Combat > Action Surge"
+    ],
+    "rules_explanation": "Action Surge provides a second full action and a 'possible' bonus action, wheras Haste provides 'an additional' single attack. "
+  },
+  {
+    "question": "If the Lvl 6 Oath of Devotion paladin Teven Klask lands a divine smite and the enemy is banished on the same turn, what happens?",
+    "answer": "What? So Teven slashes down angrily-- 28 points of damage on that one.",
+    "rules": [
+      "Classes > Paladin > Divine Smite"
+    ],
+    "rules_explanation": "The DM only narrates that the damage applies from divine smite with no further checks or saving throws required."
+  },
+  {
+    "question": "Does Bless add the d4 to initiative?",
+    "answer": "You add the d4, yes",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The bless spell affects saving throws, and initiative is a dexterity saving throw."
+  },
+  {
+    "question": "Can Fearne make a 4th level spell as well, it's wildmagic is that right?",
+    "answer": "Just roll it."
+  },
+  {
+    "question": "If an area of effect is used against a target but the target doesn't like it, do they get to roll?",
+    "answer": "The rest of you roll. A dexterity saving throw, all of you.",
+    "rules": [
+      "Combat > Area of Effect"
+    ],
+    "rules_explanation": "A spell with an area of effect targets all creatures in the area, and creatures are entitled to a saving throw if the spell says so, regardless of their like or dislike of the area."
+  },
+  {
+    "question": "Do we get to add the bless roll for the spell initiative?",
+    "answer": "Oh, we do!"
+  },
+  {
+    "question": "Can Imogen activate her robes that she just got?",
+    "answer": "Sure",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This seems to be a yes/no response to a question about whether Imogen can use the robes she just acquired, implying that the rules allow her to do so."
+  }
+]

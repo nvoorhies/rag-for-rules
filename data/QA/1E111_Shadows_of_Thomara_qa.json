@@ -1,0 +1,303 @@
+[
+  {
+    "question": "The level 4 level Barbarian, while raging, makes a reckless great weapon attack, but the DM states this is a tight tunnel and the target must crouch down, and round your shoulders as you're doing it. What check is required?",
+    "answer": "An Athletics check is required.",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack > Attack Rolls",
+      "Strength > Strength Checks > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master has ruled that the terrain makes the attack more physically demanding, thus requiring an ability check using the character's Strength. The presence of a rage condition allows the Barbarian's player to make this reckless, so advantage would be granted to that skill check"
+  },
+  {
+    "question": "The 8th-level Rogue makes a roll lower than 10 for a skill check to find traps, what happens?",
+    "answer": "Because of the Reliable Talent class feature, if the player makes a roll lower than a 10 for a skill check to find traps, the roll counts as a 10.",
+    "rules": [
+      "Classes > Rogue > Class Features > Reliable Talent"
+    ],
+    "rules_explanation": "The rogue's Reliable Talent feature states that any ability check for which they add their proficiency bonus is treated as a 10 if the dice roll is less than 10."
+  },
+  {
+    "question": "Can the 4th level conjurer use an unseen servant to hold a lance?",
+    "answer": "Yes. The conjurer can conjure an unseen servant whom I will name Simon Two to hold a lance.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components > Material (M)"
+    ],
+    "rules_explanation": "The material for spells must be held in the hand, which can be granted with a 1st level conjuration spell"
+  },
+  {
+    "question": "If the 4th level conjurer's belt with an animal transformation is damaged enough to revert back to belt form, what happens?",
+    "answer": "After reverting to the belt form, the item cannot transform again for the day because it has taken enough damage.",
+    "rules": [
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "The rules refer to the specifications for duration and caveats in the individual spell descriptions which apply to magical effects. In this case the belt form is the off state, so cannot return to use."
+  },
+  {
+    "question": "If somebody makes an attack with an advantage, is it an auto-crit? If not, which roll applies to the critical hit chance?",
+    "answer": "No, advantage does not guarantee a critical hit. Only a natural 20 on the d20 attack roll can score a critical hit regardless of other modifiers or conditions to the die roll. Only the initial dice roll determines a crit. ",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "The rules for rolling 1 or 20 state only a natural roll of 20 can score a critical hit, regardless of modifiers, therefore advantage has no bearing on determining a critical hit."
+  },
+  {
+    "question": "Can an 8th level druid use reaction to cast a spell for an attack of opportunity against a target?",
+    "answer": "With the War Caster feat, the spell can be cast as a reaction for an attack of opportunity.",
+    "rules": [
+      "Combat > Reactions",
+      "Feats > War Caster"
+    ],
+    "rules_explanation": "Normal action can be replaced with reaction and a spell can be cast instead of a normal attack with War Caster feat."
+  },
+  {
+    "question": "A level X Barbarian with damage rage +4 is raging, then does a one inch punch against a rock to try and open the path to a friend and rolls d4 for damage. What other modifiers apply, and what is the total damage if the punch hits?",
+    "answer": "The damage roll includes the d4 roll + the barbarian's Strength modifier and rage damage. The additional strength and rage damage is +4 from the raging, +8 from Strength damage. The attack roll is 1d4 + 4 + 8.",
+    "rules": [
+      "Classes > Barbarian > Rage",
+      "Strength > Strength Checks > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The punch roll depends on the Strength modifier and damage applies for rage."
+  },
+  {
+    "question": "If a 9th level sorcerer casts dimension door past a Wall of Force, do they reach the other side?",
+    "answer": "A character can pass through the force wall, as spells like Dimension Door are unaffected.",
+    "rules": [
+      "Combat > Actions in Combat > What To Do On Your Turn",
+      "Spellcasting > Casting a Spell"
+    ],
+    "rules_explanation": "Spells are only cast to a spot on the other side, so the target is not fully covered by the wall. It is a special exception."
+  },
+  {
+    "question": "At 2nd level, if a magic item causes it's attuned user to be forced to a location due to the item's power, has she broken her oath?",
+    "answer": "No, she has not broken her oath. She was forced to another location, so it is not a decision. The oath has not been broken.",
+    "rules": [
+      "Classes > Paladin > Sacred Oath"
+    ],
+    "rules_explanation": "The oath only applies to things the character does willingly."
+  },
+  {
+    "question": "Does Reliable Talent allow a 8th-level rogue to treat a d20 roll of one as an 18?",
+    "answer": "No, the Reliable Talent feature only affects the skill check roll and not the result of the d20 roll.",
+    "rules": [
+      "Classes > Rogue > Class Features > Reliable Talent"
+    ],
+    "rules_explanation": "The rules for Reliable Talent state the skill check must be a base of 10, not any other value."
+  },
+  {
+    "question": "Can an Unseen Servant that is 50 feet away from its caster make a noise?",
+    "answer": "Yes, the Unseen Servant can make a noise.",
+    "rules": [
+      "Spellcasting > Unseen Servant"
+    ],
+    "rules_explanation": "No rules exist that describe the Unseen Servant's limitations on affecting its environment."
+  },
+  {
+    "question": "Can the conjurer's unseen servant be used for combat?",
+    "answer": "The conjurer's unseen servant can't be used for combat.",
+    "rules": [
+      "Spellcasting > Unseen Servant"
+    ],
+    "rules_explanation": "The Unseen Servant spell text specifies the action cannot be used to attack."
+  },
+  {
+    "question": "If the 8th level paladin takes both weapon damage and necrotic damage from a wraith, what damage is reduced by having resistance?",
+    "answer": "The paladin resists the necrotic damage from a wraith, not the weapon damage.",
+    "rules": [
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "Resistance applies after base damage and other modifications have been applied."
+  },
+  {
+    "question": "If a 2nd level Druid attempts to jimmy a lock, is a saving throw required or a strength check?",
+    "answer": "A strength check is required.",
+    "rules": [
+      "Strength > Strength Checks"
+    ],
+    "rules_explanation": "A strength check is required for forcing a lock open with brute strength."
+  },
+  {
+    "question": "Can a 14th level druid move a 2-foot black sphere to create a tunnel or chamber?",
+    "answer": "Not without additional instructions: the object follows the commands of its caster, in this case, moving up or down to strike. ",
+    "rules": [
+      "Spellcasting > Sphere of Annihilation"
+    ],
+    "rules_explanation": "A sphere of annihilation moves by following the will of it's caster, with whom the power lies."
+  },
+  {
+    "question": "If a spell has both somatic and verbal components, can't be cast if the speaker can't make those sounds? Can they attempt it?",
+    "answer": "If unable to do either one, the spell cannot be cast.",
+    "rules": [
+      "Spellcasting > Casting A Spell > Components"
+    ],
+    "rules_explanation": "The spell description indicates whether it requires verbal (V), somatic (S), or material (M) components. If you can't provide one or more of a spell's components, you are unable to cast the spell."
+  },
+  {
+    "question": "If a 13th level Barbarian is at the ready and another character uses a ranged spell, what happens?",
+    "answer": "The Barbarian can react based on the specific rules of actions the the game is referencing. Readying allows a character to perform action as a reaction.",
+    "rules": [
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "The barbarian's actions are limited by its type. It would need to use something from its class to interrupt with its reaction. They are at the ready with an action based on something that would happen."
+  },
+  {
+    "question": "Is it possible for a spell to be used on the other side of a Wall of Force?",
+    "answer": "Keyleth couldn't cast Wall of Stone on the other side, due to the fact that the barrier, while invisible, is preventing targeting a specific area to create.",
+    "rules": [
+      "Spellcasting > A Clear Path to the Target"
+    ],
+    "rules_explanation": "A clear path to a target is required in order to cast a spell, otherwise the magic is impeded."
+  },
+  {
+    "question": "Can Simon, the snake, be harmed by the Iron door fire?",
+    "answer": "Simon, as a magical item, is immune to normal environmental damage such as heat from the iron door fire.",
+    "rules": [
+      "Magic Items > Activating An Item"
+    ],
+    "rules_explanation": "The magic item section states the item is protected, but does specify a certain amount that reverts them back to the original form."
+  },
+  {
+    "question": "Can a fire elemental traverse the Wall of Force in its natural elemental form?",
+    "answer": "A Wall of Force, composed of a magical invisible wall, cannot be traversed by any creature that could interact with it physically.",
+    "rules": [
+      "Spellcasting > Area of Effect"
+    ],
+    "rules_explanation": "The description of Wall of Force states that nothing can pass through it. However, because the orb went through, it has some magic element to it."
+  },
+  {
+    "question": "What happens if the 10th level Barbarian has just used a punch that took one of the characters to 0, but now there are other creatures in the vicinity? What can the barbarian do with his current bonus?",
+    "answer": "The 10th level barbarian can perform a bonus attack if a character is reduced to 0 using a bonus action to move up to half its speed and make a bite attack.",
+    "rules": [
+      "Monsters > Special Traits > Rampage"
+    ],
+    "rules_explanation": "There is now a bonus action available, so they can move up to their half-speed as stated. They will need to use their Multiattack to attack someone else."
+  },
+  {
+    "question": "Which of the following skills can be used by the barbarian to detect a trap, if any: Arcana, History, Investigation, Nature, Religion?",
+    "answer": "The Barbarian has to use Investigation. Investigation is used to deduce from clues the location of traps.",
+    "rules": [
+      "Using Ability Scores > Intelligence > Intelligence Checks"
+    ],
+    "rules_explanation": "The barbarian class can use their Intelligence to check for clues. There is no direct perception for clues, but Intelligence checks can assist with this, as well. The specific skill is investigation."
+  },
+  {
+    "question": "Does the Oathbow negate the need for a hunter's mark if the quarry is marked by it?",
+    "answer": "No, the Oathbow does not negate the need for hunter's mark. Hunter's mark applies an additional 1d6 damage, while the Oathbow provides advantage to attack rolls and +3d6 damage.",
+    "rules": [
+      "Equipment > Magic Items > Oathbow",
+      "Spells > Hunter's Mark"
+    ],
+    "rules_explanation": "The magic weapons and spells do different things that are beneficial for the fight. Since the hunter's mark applies damage to the hit and the Oathbow affects attack rolls, it will be a very good combo."
+  },
+  {
+    "question": "If the spellcasters Dimension Door 5 feet to the other side of a Wall of Force, is there still a need to make a check?",
+    "answer": "No, no check is needed. A character does not need to make a roll for dimension door, because it is a teleportation spell.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Dimension Door"
+    ],
+    "rules_explanation": "Dimension door is a spell that takes you from point A to point B, whereas Passwall is a physical wall removal."
+  },
+  {
+    "question": "What is the action a 13th level barbarian uses to perform the one inch punch?",
+    "answer": "A Barbarian uses their action to make a one inch punch",
+    "rules": [
+      "Combat > Actions in Combat > Attack"
+    ],
+    "rules_explanation": "A melee attack like a punch uses the character's action."
+  },
+  {
+    "question": "With a single attack, what is the best way to do the most damage if the damage is bludgeoning, piercing, or slashing? ",
+    "answer": "The dice that a player can add to the attack rolls can vary. However, there are base types which depends on the situation.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls"
+    ],
+    "rules_explanation": "The amount of dice to roll will vary."
+  },
+  {
+    "question": "Can the target who is chained up and about to be killed, take an action?",
+    "answer": "Whether the character can take an action depends on the specific conditions to which that character is subjected. That condition needs to be known before an action can be discussed.",
+    "rules": [
+      "Appendix PH-A: Conditions"
+    ],
+    "rules_explanation": "The player is assumed to be restrained by an enemy but if they are paralized from something else, the character may have different conditions and rules to follow."
+  },
+  {
+    "question": "When a magic wall touches a solid object that can't pass through the sphere, what happens?",
+    "answer": "If your movement causes the barrier to come into contact with a solid object that can't pass through the cube, you can't move any closer to that object as long as the barrier remains.",
+    "rules": [
+      "Equipment > Wondrous Item > Cube of Force"
+    ],
+    "rules_explanation": "The rules for Cube of Force state, quite plainly, what happens when it comes in contact with a solid object."
+  },
+  {
+    "question": "A ranged PC with the sharphooter feet is making an attack roll. How does the minus 5 to the hit roll interplay with the plus 10 bonus? Can the bonuses and penalties to rolls affect whether they make the attack or not?",
+    "answer": "Bonuses and penalties to rolls are applied. After all bonuses and penalties are calculated, you can confirm if the attack is higher than AC, and if it applies. ",
+    "rules": [
+      "Combat > Attack Rolls > Making an Attack > Modifiers to the Roll"
+    ],
+    "rules_explanation": "An addition to the character will make the calculations of these attacks easier to remember, for example, you are rolling +6 with the ability check."
+  },
+  {
+    "question": "Can a ranged spell attack be used against a target that is 5 feet away? If so, what are the effects on the hit roll, if any?",
+    "answer": "Yes, a ranged spell attack can target someone within 5ft but disadvantage is applied to the roll.",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack > Ranged Attacks > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "A ranged attack within 5 feet results in disadvantage as stated in the listed rule."
+  },
+  {
+    "question": "After making an attack, do Vax and Vex have to use any resources to take the Hide action?",
+    "answer": "Yes, the Hide action costs an action or bonus action depending on skills",
+    "rules": [
+      "Combat > Actions in Combat > Hide"
+    ],
+    "rules_explanation": "It takes a full action to hide. Rogues can hide with a bonus action."
+  },
+  {
+    "question": "At 5th level, if a wildshaped Druid casts Ice Knife, what damage applies to the spell?",
+    "answer": "The spell damage would be based upon the feat taken, and will not depend on the current shape shift the character is in.",
+    "rules": [
+      "Spellcasting > Beast Spells"
+    ],
+    "rules_explanation": "The druid is still in contact with their game statistics, so they may use their power as normal. Since they use their powers for damage, the damage that they deal comes from their normal form. If they attack with a claw, it deals with the claw damage and may not receive any benefit as the Ice Knife is from the original form, again."
+  },
+  {
+    "question": "If an 9th level character makes a skill check that would normally involve a saving throw, can it still have an additional effect when rolling, despite being not proficient with it?",
+    "answer": "While an additional effect might not be possible, the GM has the option to add extra to the rolls for specific benefits.",
+    "rules": [
+      "Using Ability Scores > Skills > Variant: Skills with Different Abilities"
+    ],
+    "rules_explanation": "The circumstances in those rules can give additional bonuses or penalties, which may override skills and add more to the roll."
+  },
+  {
+    "question": "If you are a spell caster with Magic Initiate and then you multiclass, does it add up?",
+    "answer": "No. You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class",
+    "rules": [
+      "Multiclassing > Spellcasting > Spells Known and Prepared"
+    ],
+    "rules_explanation": "As it states, your classes do not have combined powers. They are treated as totally separate classes."
+  },
+  {
+    "question": "Can anyone, with a long rest, can attune to a weapon or magic item?",
+    "answer": "Any creature can attempt to attune with long rest as long as they meet the requirements.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "To attune to an item, a creature must meet the requirements for it and spend a short rest focused on only that item. As this can be done any time, anyone with long rest and long short rest can attune."
+  },
+  {
+    "question": "Does a character that has reliable talent know if its safe to break it apart before doing so?",
+    "answer": "With reliable talent, you would know if it is safe.",
+    "rules": [
+      "Classes > Rogue > Class Features > Reliable Talent"
+    ],
+    "rules_explanation": "Reliable Talent dictates a minimum value of the die roll for the character and thus a minimum knowledge of what is safe or not."
+  },
+  {
+    "question": "After taking one short rest, can all players use short-term spells for a second time?",
+    "answer": "Not necessarily. Spells that return on a short rest will be recharged, but others don't.",
+    "rules": [
+      "Resting > Short Rest"
+    ],
+    "rules_explanation": "A short rest is used to regain hit points, but doesn't allow players to automatically recharge. Some items need a long rest for the effects to kick in."
+  }
+]

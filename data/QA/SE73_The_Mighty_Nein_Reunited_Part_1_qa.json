@@ -1,0 +1,216 @@
+[
+  {
+    "question": "Can the Captain of the Balleater cast Augury?",
+    "answer": "Yes, the Captain can cast Augury.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components"
+    ],
+    "rules_explanation": "The character has stated that they have gained this spell as a class feature. This implies they have all components and can cast the spell."
+  },
+  {
+    "question": "What types of creatures does Divine Sense reveal?",
+    "answer": "Divine Sense reveals celestial, fiend, or undead.",
+    "rules": [
+      "Paladin > Class Features > Divine Sense"
+    ],
+    "rules_explanation": "The rules of Divine Sense specify what types of creature are revealed by it."
+  },
+  {
+    "question": "Does Jester need to make a concentration check after taking 61 lightning damage while concentrating on Control Water?",
+    "answer": "Yes, Jester must make a Constitution saving throw to maintain concentration on Control Water.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Duration > Concentration"
+    ],
+    "rules_explanation": "The rules on concentration state that a character must make a Constitution saving throw when taking damage to maintain concentration."
+  },
+  {
+    "question": "If Jester is grappled, can she continue to move?",
+    "answer": "Yes, the narrator says that Jester is not actually grappled, the description was just a narrative effect.",
+    "rules": [],
+    "rules_explanation": "This was a DM ruling and not a rules question per se, but the the narrator is overriding an otherwise normal rules effect in favor of a purely descriptive scene in the fiction of the world."
+  },
+  {
+    "question": "What roll does level 17 Kingsley, the Rogue/Fighter, make to attack?",
+    "answer": "Kingsley would use a Melee Weapon Attack roll, adding his Dexterity or Strength modifier, his proficiency bonus, and any other applicable bonuses.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The rogue/fighter would roll a d20 and add his Dexterity or Strength modifier, his proficiency bonus, and any other applicable bonuses to determine the attack roll."
+  },
+  {
+    "question": "With a character with Dexterity 17 has advantage on perception checks, what dice to roll when the skillcheck is needed?",
+    "answer": "Roll two d20, and take the higher result for the roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules for advantage state that you roll a second d20 and take the higher result."
+  },
+  {
+    "question": "Can Fjord cast Water Breathing on 10 souls on the ship?",
+    "answer": "Yes, Fjord can cast Water Breathing on all 10 souls on the ship, if they are all within visual range.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Targets",
+      "Warlock Spells > Water Breathing"
+    ],
+    "rules_explanation": "The spell Water Breathing has a range of 30 feet and does not specify a limited number of targets."
+  },
+  {
+    "question": "What are the conditions and saving throw DCs associated with the storm giant's Thunderous Slap attack?",
+    "answer": "The description of the monster's attacks in the stat block detail the conditions imposed and saving throw DCs.",
+    "rules": [],
+    "rules_explanation": "The effects and DCs for the attack should be explicitly detailed by the Dungeon Master as per the rules."
+  },
+  {
+    "question": "If teleporting, what's the rule that you can't middler yourself to prevent Jester to change someone to be a Middler?",
+    "answer": "There is no rule stating a character can't 'middler' themselves in the SRD.",
+    "rules": [],
+    "rules_explanation": "There is no mention in the rules of 'Middler' or any similar term in this context."
+  },
+  {
+    "question": "What does the 'Deafened' condition do?",
+    "answer": "A deafened creature can't hear and automatically fails any ability check that requires hearing.",
+    "rules": [
+      "Appendix PH-A: Conditions > Deafened"
+    ],
+    "rules_explanation": "This information can be found in the SRD document describing conditions in the game."
+  },
+  {
+    "question": "If the wildmother's Protection is not present on a ship during a storm that has heavy rainfall who's area is normally the Wildmother, is there anything in the SRD about this?",
+    "answer": "No, there is nothing in the SRD about what happens if the Wildmother's protection is not present during a storm with heavy rainfall.",
+    "rules": [],
+    "rules_explanation": "The presence or absence of a deity's power is entirely narrative and not covered by the SRD."
+  },
+  {
+    "question": "Can level 17 Kingsley use Stealth against creatures?",
+    "answer": "When you take the Hide action, you make a Dexterity (Stealth) check. The check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.",
+    "rules": [
+      "Combat > Actions in Combat > Hide",
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The rules of hiding specify how the Stealth skill is used. The monster statblock lists skills for each monster."
+  },
+  {
+    "question": "Can a level 17 cleric, Jester, help Fjord with a Nature check?",
+    "answer": "Yes, Jester can expend her action to use the help action to grant Fjord advantage on his next Nature check.",
+    "rules": [
+      "Combat > Actions in Combat > Help"
+    ],
+    "rules_explanation": "The help action allows a character to grant another advantage on an ability check as long as they could plausibly attempt the action themselves."
+  },
+  {
+    "question": "How long is Mass Cure Wounds effect?",
+    "answer": "Instantaneous",
+    "rules": [
+      "Cleric Spells > Mass Cure Wounds"
+    ],
+    "rules_explanation": "The duration of the effect is specified in the spells name."
+  },
+  {
+    "question": "What's the level that Laura's character, Jester, is?",
+    "answer": "No level was specified for Jester in the log.",
+    "rules": [],
+    "rules_explanation": "The question was asked but never answered in the gameplay."
+  },
+  {
+    "question": "At character level 17, does advantage on the dice to roll initiative matter?",
+    "answer": "Yes, advantage on initiative matters since it helps the level 17 character act sooner in the turn order.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage helps improve the initiative roll which helps the character act earlier in the combat."
+  },
+  {
+    "question": "If there is no light around, can Jester just do something to get rid of a creature",
+    "answer": "The question isn't specific enough to be unambiguously answered in the SRD.",
+    "rules": [],
+    "rules_explanation": "The statement is too vague."
+  },
+  {
+    "question": "Is there a rule of flying for level 17 characters in the SRD?",
+    "answer": "Characters with access to certain spells such as Fly can gain a flying speed. Other magic items and racial traits can also grant the ability to fly.",
+    "rules": [
+      "Combat > Movement and Position > Flying Movement"
+    ],
+    "rules_explanation": "As part of the general conditions on the plane of existence, or through spell or racial powers, characters may be able to fly."
+  },
+  {
+    "question": "Can the warlock/fighter with a blade covered in blood sneak attack since it's so far?",
+    "answer": "A level 17 fighter/rogue can use sneak attack even if no other creature is near the target provided the attacker has advantage on the attack roll.",
+    "rules": [
+      "Rogue > Class Features > Sneak Attack"
+    ],
+    "rules_explanation": "The rules for sneak attack depend on whether the rogue has advantage on the attack roll, or whether another enemy of the target is within 5 ft."
+  },
+  {
+    "question": "Does getting ready for a fight affect your hit points?",
+    "answer": "No, getting ready for a fight does not inherently cause loss of hit points, unless a specific effect causes it.",
+    "rules": [],
+    "rules_explanation": "Preparing for a fight is a narrative element, not directly tied to hit point loss."
+  },
+  {
+    "question": "Does the creature, Thoonum, get its lightning strike back?",
+    "answer": "The rules for recharge do not guarantee an ability will be available in the next round. It is based on a die roll.",
+    "rules": [
+      "Monsters > Actions > Limited Usage > Recharge X–Y"
+    ],
+    "rules_explanation": "Thunderous Stop has a recharge 5-6, so it is not guaranteed to recharge every round."
+  },
+  {
+    "question": "Does being Deafened, Jester, get the benefits of being Deafened when someone casts Psychic Shriek?",
+    "answer": "Yes, since she is Deafened, Jester is immune to Psychic Shriek which emits a horrible, high-pitch sound",
+    "rules": [
+      "Appendix PH-A: Conditions > Deafened"
+    ],
+    "rules_explanation": "Deafened conditions automatically fails any ability check that requires hearing."
+  },
+  {
+    "question": "Can the warlock with Fly just leave everybody to die on the ship?",
+    "answer": "The game mechanics of Fly do not prevent him from doing so, however, the nature of the character and alignment are up to the player to decide.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range",
+      "3rd-level transmutation > Fly"
+    ],
+    "rules_explanation": "The rules do not prevent a character from choosing an action to abandon other characters. The range of the Fly spell allows it to target only the caster."
+  },
+  {
+    "question": "During Teleport, does a familiar require a willing hand?",
+    "answer": "For the Teleport spell, you can bring along objects as long as their weight doesn't exceed what you can carry. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity.",
+    "rules": [
+      "7th-level conjuration > Teleport"
+    ],
+    "rules_explanation": "The description of the Teleport spell in the SRD details the limits of what can be teleported."
+  },
+  {
+    "question": "Can an NPC get the party to the Twinward Isles if it has a good roll and remembers vaguely?",
+    "answer": "No, there are rules for Teleport to a location where you are not intimately familiar, and the NPC would likely take damage and cause a mishap.",
+    "rules": [
+      "7th-level conjuration > Teleport > Familiarity"
+    ],
+    "rules_explanation": "The familiarity of the caster affects their ability to navigate and safely teleport to a location"
+  },
+  {
+    "question": "When teleporting can you touch just the surface of their clothes or their finger and bring a ton of people?",
+    "answer": "No, the Teleport spell specifically states you can only bring willing creatures you can see within range.",
+    "rules": [
+      "7th-level conjuration > Teleport"
+    ],
+    "rules_explanation": "The wording indicates that you have to know and see who is teleporting with you."
+  },
+  {
+    "question": "What happens when there is an imperfection in the 9th level spell teleportation?",
+    "answer": "When the level is 9th on spell teleportation, the mishap is that they all take 18 points of force damage as the feedback tears their forms for a second before it pulls back, and then they're going to roll on the table to see what results.",
+    "rules": [
+      "7th-level conjuration > Teleport"
+    ],
+    "rules_explanation": "That level in the spell with no familiarity gives that result which is then combined."
+  },
+  {
+    "question": "What does the 1st-level spell, Message do?",
+    "answer": "The range of the spell is 120 ft. You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately.",
+    "rules": [
+      "Spell Lists > 1st-level evocation > Message"
+    ],
+    "rules_explanation": "All information regarding message details is in the description for the spell."
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "question": "When making an insight check on the Half-orc/gnome duo to see if they are telling the truth, what ability check is made and what is its DC?",
+    "answer": "No ability check is specified, but one would typically make a Wisdom (Insight) check contested by a Charisma (Deception) check. There is no specific DC stated in the prompt.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "This question would be answered using the general rules for making ability checks. The DM determines what check is appropriate and against which the skill check is tested, and then adjudicates the result."
+  },
+  {
+    "question": "If an ability check is made to determine what happened to the Echo River debris after the Green Seekers leave, what ability check would you make?",
+    "answer": "No ability check is specified, but one would typically make a Wisdom (Perception) check contested by a Dexterity (Stealth) check or other appropriate measure. There is no specific DC stated in the prompt.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "This question would be answered using the general rules for making ability checks. The DM determines what check is appropriate and against which the skill check is tested, and then adjudicates the result."
+  },
+  {
+    "question": "When Fearne and one other of her troop make a persuasion check, what ability check is made?",
+    "answer": "A Charisma (Persuasion) check is made",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The rules state that when you try to persuade someone the DM might ask you to make a Charisma (Persuasion) check."
+  },
+  {
+    "question": "What is the effect of the Green Seekers casting a conjuration dome?",
+    "answer": "The conjuration dome has the effect of silencing all sounds outside the dome and only what is within is audible.",
+    "rules": [
+      "Spellcasting > Components",
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "In this fictional circumstance, the question is answerable based on the description of the in-game effect provided by the GM."
+  },
+  {
+    "question": "What DC is used for Imogen's Insight checks on the half-orc, and how is it calculated?",
+    "answer": "There is no DC specified for the half-orc's Charisma (Deception) check. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "This question would be answered using the general rules for making ability checks. The DM determines what check is appropriate and against which the skill check is tested, and then adjudicates the result. The question cannot be answered based only on the System Reference Document."
+  },
+  {
+    "question": "When each of the players makes a persuasion check as a group, how is this rolled and calculated?",
+    "answer": "Each player character makes a Charisma (Persuasion) check. If at least half the group succeeds, the whole group succeeds.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "This is a general rule for group skill checks."
+  },
+  {
+    "question": "When the players make stealth checks, what modifiers are applied and when?",
+    "answer": "The hoods worn should impose disadvantage on the Wisdom (Perception) checks of others who are trying to perceive them.  Those with particularly good modifiers can add these to their d20 roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This is a general rule for making skill checks, although the specific disadvantage requires GM adjudication."
+  },
+  {
+    "question": "What does the Guidance spell do?",
+    "answer": "The Guidance spell allows a willing creature to roll a d4 and add the number to one ability check of its choice. It can roll the die before or after making the ability check. The spell lasts for the duration of up to 1 minute.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "The question is answerable based on the description of the spell"
+  },
+  {
+    "question": "Which actions does the wizard's school selection (school is not specified) of necromancy change?  ",
+    "answer": "The school selected for a wizard at level 2 affects features they gain at 2nd level and again at 6th, 10th, and 14th level, but doesn't change their action options.",
+    "rules": [
+      "Wizard > Class Features"
+    ],
+    "rules_explanation": "Wizard class features depend on a Wizard's school selection."
+  },
+  {
+    "question": "The level 5 fighter/level 5 paladin casts Detect Thoughts. Do they need to prepare the spell? What ability modifier do they use and how is this calculated? ",
+    "answer": "Yes, the character must prepare the spell as a Paladin. Charisma is the spellcasting ability for Paladin spells, so they will use their Charisma modifier, which is their Charisma score, minus 10, divided by 2 and rounded down.",
+    "rules": [
+      "Multiclassing > Spellcasting > Spells Known and Prepared",
+      "Paladin > Spellcasting > Spellcasting Ability",
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The character prepares their spells for each class individually. To cast Paladin spells, they use their Charisma modifier."
+  },
+  {
+    "question": "What happens when the level 5 fighter/level 5 paladin makes an intimidation check, and rolls a natural 20?",
+    "answer": "As a result of the natural 20, the check automatically succeeds. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This question would be answered using the general rules for natural 20's on ability checks. There is no DC provided, so only the automatic success portion of the rule can be quoted from the SRD."
+  },
+  {
+    "question": "What do you find out with Detect Thoughts at first level, what happens if you push deeper, and how is this checked?",
+    "answer": "With Detect Thoughts, you initially learn the surface thoughts of the creature--what is most on its mind in that moment. As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends.",
+    "rules": [
+      "Spellcasting > Detect Thoughts"
+    ],
+    "rules_explanation": "This is quoted directly from the Detect Thoughts spell description."
+  },
+  {
+    "question": "What happens when you drop to 0 hit points?",
+    "answer": "When you drop to 0 hit points, you either die outright or fall unconscious.",
+    "rules": [
+      "Damage and Healing > Dropping to 0 Hit Points"
+    ],
+    "rules_explanation": "This is the first sentence of the section on Dropping to 0 Hit Points."
+  },
+  {
+    "question": "If a PC wants to do more damage on their turn, what action options allow more than one weapon attack?  ",
+    "answer": "To perform more than one weapon attack, you may need to have class abilities like Extra Attack, or you may be able to take the attack action and also the bonus action of two-weapon fighting, which are listed in the linked sections.",
+    "rules": [
+      "Combat > Actions > Attack",
+      "Combat > Your Turn > Bonus Actions",
+      "Combat > Melee Attacks > Two-Weapon Fighting"
+    ],
+    "rules_explanation": "While these rules provide some abilities to take more than one attack per turn, the specifics depend on class features."
+  },
+  {
+    "question": "What conditions have resulted in the loss of access to darkvision?",
+    "answer": "The blinded condition results in the loss of darkvision.",
+    "rules": [
+      "Appendix PH-A: Conditions > Blinded"
+    ],
+    "rules_explanation": "The description for the Blinded condition includes 'A blinded creature can't see and automatically fails any ability check that requires sight.'"
+  },
+  {
+    "question": "What are the mechanical effects for two creatures both occupying the same space?",
+    "answer": "The specific question cannot be answered because it does not provide all the required game information or the game context. In general, a character can move through a nonhostile creature's space. In contrast, a character can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than the character. Remember that another creature's space is difficult terrain for you. You can't willingly end your move in its space",
+    "rules": [
+      "Combat > Movement and Position > Moving Around Other Creatures",
+      "Combat > Movement and Position > Difficult Terrain"
+    ],
+    "rules_explanation": "There are several rules around other creatures and their space, but the ultimate adjudication for this scenario depends on the exact circumstances."
+  },
+  {
+    "question": "What is the effect of heavy obscurement?",
+    "answer": "A heavily obscured area—such as darkness, opaque fog, or dense foliage—blocks vision entirely. A creature effectively suffers from the blinded condition when trying to see something in that area.",
+    "rules": [
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "This quotes the description of 'heavily obscured'."
+  },
+  {
+    "question": "What is used as the base ability for a persuasion check?",
+    "answer": "Charisma is the ability used for a Persuasion check.",
+    "rules": [
+      "Using Ability Scores > Skills > Charisma > Persuasion"
+    ],
+    "rules_explanation": "The Charisma Skill entry in the SRD specifies that Charisma is used for persuasion checks."
+  },
+  {
+    "question": "How does being hidden work? What checks are made?",
+    "answer": "When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.",
+    "rules": [
+      "Using Ability Scores > Dexterity > Hiding"
+    ],
+    "rules_explanation": "This is how the SRD defines how to hide."
+  },
+  {
+    "question": "When is there advantage when casting an attack roll against a target?",
+    "answer": "When a creature can't see you, you have advantage on attack rolls against it.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "This is what the SRD specifies about gaining advantage to attack rolls against a target."
+  },
+  {
+    "question": "What effects cause a character to be unseen?",
+    "answer": "A character can be unseen by hiding, casting the invisibility spell, or lurking in darkness.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "This is the beginning of the paragraph in the SRD on unseen attackers and targets."
+  },
+  {
+    "question": "When does Imogen's Dancing Lights spell last?",
+    "answer": "The Dancing Lights spell lasts for a duration of concentration, up to 1 minute.",
+    "rules": [
+      "Spell Descriptions > Dancing Lights"
+    ],
+    "rules_explanation": "The Dancing Lights spell entry is used to determine the duration"
+  },
+  {
+    "question": "How long can you be wildshaped?",
+    "answer": "You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature.",
+    "rules": [
+      "Druid > Class Features > Wild Shape"
+    ],
+    "rules_explanation": "The duration of Wild Shape can be determined using this rule."
+  },
+  {
+    "question": "Which creature is more stealthy, and how do they make the contest?",
+    "answer": "One cannot determine the answer because some information is missing from the rules for each to make their check. They would make a Dexterity (Stealth) check contested by the Wisdom (Perception) check of another creature.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Contests",
+      "Using Ability Scores > Skills",
+      "Using Ability Scores > Dexterity > Stealth"
+    ],
+    "rules_explanation": "Creatures make their own skill checks appropriate for the context of the hiding creature or situation."
+  },
+  {
+    "question": "Can you gain temporary hit points over your hit point maximum, or add them to the bonus from previous temporary hit points?",
+    "answer": "Temporary hit points can exceed your hit point maximum. Healing can't restore temporary hit points, and they can't be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones.",
+    "rules": [
+      "Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "These rules define how temporary hit points interact with both normal hit points and with each other."
+  },
+  {
+    "question": "How long does Mage Armor last?",
+    "answer": "The Mage Armor spell lasts for 8 hours.",
+    "rules": [
+      "Spell Descriptions > Mage Armor"
+    ],
+    "rules_explanation": "The spell description for Mage Armor includes the duration"
+  },
+  {
+    "question": "When the warlock has the sign of ill omen invocation, can they use a higher level slot and what does it do?",
+    "answer": "When you use a higher-level spell slot, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration.",
+    "rules": [
+      "Spell Descriptions > Bestow Curse"
+    ],
+    "rules_explanation": "Although the player stated they had the Sign of Ill Omen invocation (which allows casting of the Bestow Curse spell), the spell itself determines the effects, including effects when cast at a higher level, not the Eldritch Invocation. Note: In this case, the spell determines duration and that concentration is not needed at higher levels."
+  },
+  {
+    "question": "How do you determine whether you have enough movement?",
+    "answer": "You deduct the distance of each part of your move from your speed until it is used up or until you are done moving.",
+    "rules": [
+      "Combat > Movement and Position > Your Turn > Movement and Position"
+    ],
+    "rules_explanation": "Movement cost is deducted from total available speed."
+  },
+  {
+    "question": "How long does a surprised condition last?",
+    "answer": "If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends.",
+    "rules": [
+      "Combat > Surprise"
+    ],
+    "rules_explanation": "The surprise condition prevents actions and movement only on the creature's first turn."
+  },
+  {
+    "question": "Which ability check should be used for checking the room in a mine? What if the thing they are looking for is slime?",
+    "answer": "An Intelligence (Investigation) check should be used to check the room. In some settings, one can make a Wisdom (Survival) check to search for a substance based on smell.",
+    "rules": [
+      "Using Ability Scores > Skills > Intelligence > Investigation",
+      "Using Ability Scores > Skills > Wisdom > Survival"
+    ],
+    "rules_explanation": "Finding slime on a wall is likely an Investigation check, but it can be a Survival check if there is any particular reason why it is relevant."
+  },
+  {
+    "question": "When a character successfully intimidates another character into speaking, does the intimidated character get their attitude changed? Can they decide to give false information?",
+    "answer": "There are no rules for this. However, based on the game context and setting, the GM may adjudicate this to make the game fun and interesting.",
+    "rules": [],
+    "rules_explanation": "The provided context does not imply or include any specific mechanical change to the relationship between the two characters beyond setting the stage for roleplay. The effect of the check itself is described in 'Using Ability Scores > Charisma > Intimidation'."
+  },
+  {
+    "question": "What if you attempt to modify memory, what must you do?",
+    "answer": "You must speak to the target to describe how its memories are affected, and it must be able to understand your language for the modified memories to take root. Its mind fills in any gaps in the details of your description. If the spell ends before you have finished describing the modified memories, the creature's memory isn't altered.",
+    "rules": [
+      "Spell Descriptions > Modify Memory"
+    ],
+    "rules_explanation": "To change the memory of a target, you must speak to them in a language they understand in order to describe the changes."
+  },
+  {
+    "question": "After knocking someone unconscious, how long are they out, and what can happen to them?",
+    "answer": "When you drop to 0 hit points, you either die outright or fall unconscious. This unconsciousness ends if you regain any hit points.",
+    "rules": [
+      "Damage and Healing > Dropping to 0 Hit Points"
+    ],
+    "rules_explanation": "Falling unconscious is a possible outcome of Dropping to 0 Hit Points."
+  },
+  {
+    "question": "What does Modify Memory do?",
+    "answer": "While this charm lasts, you can affect the target's memory of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity and exacting detail, change its memory of the details of the event, or create a memory of some other event.",
+    "rules": [
+      "Spell Descriptions > Modify Memory"
+    ],
+    "rules_explanation": "The spell description includes the effects of the spell"
+  },
+  {
+    "question": "What does it mean to declare \"I attack with the light\"?",
+    "answer": "The question cannot be answered because it does not provide all the required game information or the game context. However, Light is a spell, and a character may need to perform the verbal, somatic, and material components of the spell to cast it.",
+    "rules": [
+      "Spellcasting",
+      "Spellcasting > Verbal (V)",
+      "Spellcasting > Somatic (S)",
+      "Spellcasting > Material (M)",
+      "Using Ability Scores > Ability Checks",
+      "Spell Descriptions > Light"
+    ],
+    "rules_explanation": "In this general sense, a declaration to attack with a spell implies the character can cast the spell and makes an attack or requires a saving throw as part of the spell effect, but the GM decides when those conditions have been met."
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "question": "Does the NPC \"she\" have a ledger?",
+    "answer": "The DM makes an Insight check against her but uses the player characters roll of 22.",
+    "rules": [
+      "Ability Checks > Contests"
+    ],
+    "rules_explanation": "In a contest between two creatures, both participants make ability checks appropriate to their effort to determine the outcome."
+  },
+  {
+    "question": "When an attack roll is made with the Skingorger sword, to empower this blade, for one minute will attacks with this greatsword deal an additional 1d8 acid damage and it critically hits on a roll of 19 or 20, what action is required",
+    "answer": "A bonus action and taking a point of exhaustion is required to empower the sword, for one minute all attacks with this greatsword deal an additional 1d8 acid damage and it critically hits on a roll of 19 or 20.",
+    "rules": [
+      "Magic Items > Weapon, +1, +2, or +3",
+      "Conditions > Exhaustion"
+    ],
+    "rules_explanation": "Described the use of the the magic items and its effects. Also, the conditions section describes what Exhaustion does"
+  },
+  {
+    "question": "If a full rest is required to get rid of a point of exhaustion?",
+    "answer": "A long rest or other suitable effect gets rid of a point of exhaustion.",
+    "rules": [
+      "Conditions > Exhaustion"
+    ],
+    "rules_explanation": "Rules explanation from the SRD to clear when one gets rid of exhaustion."
+  },
+  {
+    "question": "If a character casts Mage Armor on themselves can the case Gift of Alacrity to another character and what does it do.",
+    "answer": "Yes, casting mage armor on self and Gift of Alacrity on another character is possible; Gift of Alacrity adds to the initiative of another character.",
+    "rules": [],
+    "rules_explanation": "Since the rules say nothing about being unable to cast two beneficial spells one after another this is a legal rules interpretation, plus the other effect is also stated."
+  },
+  {
+    "question": "I'm going to burn a little bit on Gentle Repose, just to keep the heads from getting weird on us, is this possible?",
+    "answer": "There is not a rule stopping from this action. The GM states \"Fair Enough\"",
+    "rules": [],
+    "rules_explanation": "The player wants to perform a special action on the bodies which seems valid, so the DM adjudicates in their favour."
+  },
+  {
+    "question": "I will use some incense to resummon Frumpkin as-- would you allow me a vulture? Or is that too much?",
+    "answer": "The DM adjudicates and decides this is fine, looking up the rules and challenge rating to make the decision",
+    "rules": [],
+    "rules_explanation": "The DM checks the stat block to see if it's reasonable to allow the player this request."
+  },
+  {
+    "question": "Can I take a short rest on the back of the moorbounders?",
+    "answer": "The DM states that it is not possible to be considered to be taking a rest while moving on a moorbounder.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The action does not fit the description of the action as described in the rules"
+  },
+  {
+    "question": "Do we have to roll for moorbounder initiative?",
+    "answer": "The initiative for the moorbounders is the dexterity modifier",
+    "rules": [],
+    "rules_explanation": "adjudication"
+  },
+  {
+    "question": "Can someone carry around two greatswords all the time",
+    "answer": "You can keep a greatsword with you, but you can only use one at a time. You can only have two attuned.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "The player wants to carry 2 magical swords to gain the attunement bonus but the DM adjudicates this isn't in the spirit of the rules."
+  },
+  {
+    "question": "Does the fucking continue?",
+    "answer": "DM adjudicates.",
+    "rules": [],
+    "rules_explanation": "DM decides whether to allow inspiration"
+  },
+  {
+    "question": "Does that mean lighting it up as a free action?",
+    "answer": "Speak its command word, no, I'd say you can just speak the word.",
+    "rules": [],
+    "rules_explanation": "DM adjudicates how an action and a use of an item intermix with each other."
+  },
+  {
+    "question": "If I can't use my spell, then I'm really glad I didn't talk to them at the beginning of the day, because we would have needed that spell to get to the point of which we were talking to them at the end of the day.",
+    "answer": "GM states this is fine and lets her switch to her alternate move."
+  },
+  {
+    "question": "Are they both greatswords?",
+    "answer": "Well, technically you could have two attuned. You just can't use them--.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "DM explains that the attunement rules allow a player to be attuned to two greatswords but not use them at the same time."
+  },
+  {
+    "question": "Does it give me Extract Aspects?",
+    "answer": "Yes, yes, yes, okay. It has resistances to bludgeoning, piercing, and slashing while in dim light or darkness.",
+    "rules": [
+      "Conditions > Light > Dim Light",
+      "Combat > Making an Attack > Cover"
+    ],
+    "rules_explanation": "DM states resistances gained due to being in dim light conditions."
+  },
+  {
+    "question": "Did you want to go ahead? I hit it with my, did it give me Extract Aspects?",
+    "answer": "Yes, yes, yes, okay. It has resistances to bludgeoning, piercing, and slashing while in dim light or darkness.",
+    "rules": [],
+    "rules_explanation": "The DM clarifies the information related to the dunamancy and confirms the application of the Extract Aspects."
+  },
+  {
+    "question": "Do we each control our own?",
+    "answer": "You guys control your moorbounders.",
+    "rules": [],
+    "rules_explanation": "DM adjudicates turn order of beasts."
+  },
+  {
+    "question": "You're just holding it, and you're just, pulled up against you so now there's beams of it shooting out in different directions. Do we have to roll for--",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "adjudication"
+  },
+  {
+    "question": "Then I'll be sure to do that at the end of the day today if I don't use up all my spells. Gee whiz, you guys. What if we need me for Revivify or  something?",
+    "answer": "Is a question, use the spells at the end of the day!",
+    "rules": [],
+    "rules_explanation": "GM adjudication"
+  },
+  {
+    "question": "Would this constitute a weapon attack, it has a weapon?",
+    "answer": "They are considered weapon attacks.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "DM specifies if a weapon does or doesn't use weapon attacks."
+  },
+  {
+    "question": "Does that mean lighting it up as a free action?",
+    "answer": "Speak its command word. No, I'd say you can just speak the word.",
+    "rules": [],
+    "rules_explanation": "DM says that the player needs to use an action"
+  },
+  {
+    "question": "That's a point of exhaustion, so.",
+    "answer": "It's a point of exhaustion, so.",
+    "rules": [],
+    "rules_explanation": "GM is commenting and clarifying the trade of using an action, exhaustion for the sword ability. It's a reminder that using the blade isn't free."
+  }
+]

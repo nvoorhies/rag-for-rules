@@ -1,0 +1,41 @@
+[
+  {
+    "question": "A character casts `Sending` and attempts to deceive the target. Which check is appropriate?",
+    "answer": "A Deception check is appropriate.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Targets",
+      "Section: Using Ability Scores > Ability Checks > Skills > Charisma > Deception"
+    ],
+    "rules_explanation": "The rules for casting a spell require you to make a Charisma (Deception) check to see if the communication succeeds."
+  },
+  {
+    "question": "A character states they want to check the insight of another player. Can they use both deception and persuasion and which is appropriate?",
+    "answer": "The rules do not allow for a decision on the check performed by the player. However, the character can use either deception or persuasion as both skills apply to the social interaction. The gamemaster can ask the player to give the number rolled for both to allow for a single roll to avoid the player knowing which value is being used.",
+    "rules": [
+      "Section: Using Ability Scores > Ability Checks > Skills > Charisma > Deception",
+      "Section: Using Ability Scores > Ability Checks > Skills > Charisma > Persuasion"
+    ],
+    "rules_explanation": "Insight is only used to get a sense of the individual that's in question. The player is asking the wrong player whether they want deception or persuasion, but should instead be declaring what their intention is to the gamemaster to see what is happening on their side."
+  },
+  {
+    "question": "Can a character with level 7 use the feat 'Know your Enemy' to assess the armor class and current hit points of a monster in comparison to their own?",
+    "answer": "The rules for Know Your Enemy are not included in the SRD, so this question is unanswerable.",
+    "rules": [],
+    "rules_explanation": "This information is not present within the SRD, and thus is not applicable."
+  },
+  {
+    "question": "If an ability uses advantage, Enhance Ability, and Guidance, does it roll 2d20 take the highest, and add a d4?",
+    "answer": "Yes. The character rolls 2d20 and takes the highest value, due to advantage, and then adds the result of 1d4 to that roll.",
+    "rules": [
+      "Section: Using Ability Scores > Advantage and Disadvantage",
+      "Section: Using Ability Scores > Ability Checks > Skills > Wisdom > Medicine"
+    ],
+    "rules_explanation": "As Enhance Ability is in effect, the character rolls with advantage, and thus will roll 2d20 and take the higher of the two. Guidance adds a d4 to the resulting number."
+  },
+  {
+    "question": "When a skill check occurs and a reroll of a cocked die is requested, is that permitted?",
+    "answer": "The rules do not specify behavior for physical dice results. This should be handled at the table with the players and Gamemaster.",
+    "rules": [],
+    "rules_explanation": "The rules make no mention of how to handle physical dice, therefore it does not apply."
+  }
+]

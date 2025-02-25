@@ -1,0 +1,270 @@
+[
+  {
+    "question": "Can the level 4 wizard with the Identify spell cast Identify for ten minutes while the party takes a short rest?",
+    "answer": "The SRD does not define a fixed time to cast a spell. A short rest is 'a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.' Therefore, the wizard may take a short rest while casting the Identify spell for ten minutes, as described in the spell SRD entry.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Casting Time",
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The spellcasting rules dictate how long a spell takes to cast. The short rest rules dictate that it needs to be at least 1 hour long and spent eating, drinking, reading, and tending to wounds."
+  },
+  {
+    "question": "How long does a short rest take?",
+    "answer": "A short rest is a period of downtime, at least 1 hour long.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The definition of a short rest in the SRD clearly states the minimum duration."
+  },
+  {
+    "question": "Level 6 fighter's survival check roll was a 7, what does that mean?",
+    "answer": "The SRD states that the player rolls a d20, add the character's relevant ability modifier, and then add the character's proficiency bonus. The survival skill is associated with the wisdom ability. A character's proficiency bonus is determined by the character's level. Using this information, the roll implies 1d20 + wisdom modifier + proficiency bonus = 7",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills",
+      "Beyond 1st Level > Proficiency Bonus"
+    ],
+    "rules_explanation": "A survival check is an ability check using the survival skill, therefore it consists of a d20 + ability modifier + proficiency bonus. The proficiency bonus is determined by the character's level."
+  },
+  {
+    "question": "Level 4 Warlock took a short rest and then cast Gift of Alacrity on another character. Can the level 4 wizard use Arcane Recovery for 10 minutes after this?",
+    "answer": "Arcane Recovery does not appear to interact with spellcasting, therefore the level 4 Wizard can still perform Arcane Recovery for 10 minutes after a short rest as long as the requirements for the Arcane Recovery class feature are met.",
+    "rules": [
+      "Classes > Wizard > Arcane Recovery",
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The Wizard class feature 'Arcane Recovery' allows a character to recover spell slots at the end of a short rest. The description of Arcane Recovery does not interact with spellcasting. The description of a Short Rest says that the rest must be at least 1 hour long and the character must not do anything more strenuous than eating, drinking, reading, and tending to wounds."
+  },
+  {
+    "question": "What is a character's vision range in darkness if darkvision is normally 60 feet, but reduced to 30?",
+    "answer": "The character's darkvision range is 30 feet. The SRD does not contain rules for multiple sources of vision. The effect that limits vision will override normal vision.",
+    "rules": [],
+    "rules_explanation": "This is an application of the rules and does not require reference to any particular rule."
+  },
+  {
+    "question": "A level 4 cleric wants to take an empty healing potion bottle and get some of the blood that is dripping from the angel statue and put it in the bottle. Can the character do that?",
+    "answer": "The rules do not prohibit this action. The character can use an empty healing potion bottle and collect some of the blood. The blood is dripping, so this takes some time. The character must take some time while resting and waiting to fill some of the vial.",
+    "rules": [],
+    "rules_explanation": "This is a judgement call by the GM. No rules in the SRD prevent this action, but the GM can make the collection of the blood take time."
+  },
+  {
+    "question": "When a friendly druid casts bless on three characters including one barbarian, what benefits does the barbarian gain?",
+    "answer": "Each of the three friendly targets can add 1d4 to their attack rolls and saving throws.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "Bless applies to all d20 rolls and the target need not be a good aligned character."
+  },
+  {
+    "question": "Can a level 4 cleric cast Bless on the  level 5 barbarian who is raging?",
+    "answer": "Yes. It is only necessary that the target of the spell be a friendly character.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "Bless does not have any conditions on who can be targeted by the spell other than they be a friendly creature within range."
+  },
+  {
+    "question": "Can a 7th level monk jump off the back of a barlgura and attack someone?",
+    "answer": "Whether the level 7 monk can jump on top of the Barlgura and jump again to attack depends on several factors, as determined by the GM. First, the monk must make an acrobatics check. On a success, they are close enough to Obann to make an attack. The Flurry of Blows feature allows a monk to make one additional unarmed attack. A roll of 25 or more, the monk can attack with a Flurry of Blows. The monk does not hurt  himself from falling if any point was touched during the fall.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Classes > Monk > Class Features > 3rd Level"
+    ],
+    "rules_explanation": "The description of Flurry of Blows in the SRD doesn't describe what might permit a monk to perform a flurry of blows while falling. That is left to GM judgement and may call for further checks."
+  },
+  {
+    "question": "When two characters are engaged in a shoving contest, is that resolved by attack rolls or ability checks?",
+    "answer": "It is resolved with a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Shoving a Creature"
+    ],
+    "rules_explanation": "The rules for shoving state that the action replaces the attack roll with a contested ability check."
+  },
+  {
+    "question": "A Hexblade Warlock uses Hexblade's Curse. What is the range?",
+    "answer": "The target must be within 30 feet of the warlock.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Hexblade's Curse (from SRD5.1 Warlock)"
+    ],
+    "rules_explanation": "The rules description of the Hexblade's Curse clearly states the range for this feature."
+  },
+  {
+    "question": "A character used Dominate Person, is the target still considered a humanoid if its brain is not humanoid?",
+    "answer": "Yes, the spell says you attempt to charm a humanoid you can see within range. The brain of a humanoid is not specified. The DM may decide to not allow that character to use Dominate Person if it's brain is not humanoid.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Dominate Person"
+    ],
+    "rules_explanation": "The rules for Dominate Person specify that the target must be a humanoid you can see within range. The spell does not specify whether an object can be the spell's target. Whether the DM allows for that character to use the spell in that situation is up to their discretion."
+  },
+  {
+    "question": "When a spiritual weapon is cast at 2nd level, how far can it move per turn?",
+    "answer": "The description of the Spiritual Weapon spell does not specify changes to movement based on what level the spell is cast at. Therefore, it can move 20 feet on each of your turns.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Spiritual Weapon"
+    ],
+    "rules_explanation": "The rules for the spiritual weapon describe the statistics of a spiritual weapon. When upcast, the rules for the spell do not change the movement. Therefore, the movement remains the same as the base spell description, so the character can move 20 feet as a bonus action on subsequent turns."
+  },
+  {
+    "question": "Does a stunned target get to roll a strength or dexterity contest? Does it get to take actions?",
+    "answer": "A stunned creature is incapacitated, can't move, and can speak only falteringly. The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation": "The SRD specifies the game effects of the stunned condition. A stunned creature automatically fails strength and dexterity saving throws and is incapacitated, so cannot take actions."
+  },
+  {
+    "question": "A wizard casts Polymorph on himself to turn into a monster. What are the stats for a gargantuan kraken, including whether or not it can breath under water? Does polymorph make him friendly?",
+    "answer": "The spell changes the target's statistics to the statistics of the new form but it retains its alignment and personality. It is not friendly. The rules do not specify exact stats of the gargantuan kraken.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "Polymorph changes the targets game statistics, so the character now uses the game statistics for the beast rather than the player characters, and it retains alignment and personality so will not be friendly."
+  },
+  {
+    "question": "What is the duration of Hexblade's Curse?",
+    "answer": "It's not concentration and lasts 1 minute.",
+    "rules": [
+      "Classes > Warlock > Otherworldly Patrons > The Hexblade"
+    ],
+    "rules_explanation": "The class feature is only described as lasting 1 minute, and the ability is not concentration based"
+  },
+  {
+    "question": "What action is required for the rogue to use the if you don't have a bonus action?",
+    "answer": "Not specified",
+    "rules": [
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "The conditions under which a rogue can use the cunning action is under the Rogue class features in the players handbook, but that information is not specified within the SRD file."
+  },
+  {
+    "question": "If a player rolls two natural 1s in a row and uses Fortune's Favor to roll another d20 to determine the outcome of his arcana check, is this legal?",
+    "answer": "The rules for Fortune's Favor are not included in the SRD. However, rolling multiple 1s is legal, and the player can still use his reaction.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Rolling 1 or 20",
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "A roll of a 1 is always a failure unless a special condition is met. Fortune's Favor will allow the player to roll a d20 again in order to add that to the check."
+  },
+  {
+    "question": "Does a character who is affected by the Stunned condition need to make wisdom saving throws or constitution saving throws to resist attacks?",
+    "answer": "A stunned creature is incapacitated, can't move, and can speak only falteringly. The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation": "The stunned condition makes a creature incapacitated, meaning it can't take actions or reactions. It also means that it automatically fails Strength and Dexterity saving throws. It does not specify that Wisdom saves are automatically failed."
+  },
+  {
+    "question": "Can a character use an action to shove an enemy off the map?",
+    "answer": "No, the target is pushed 5 feet away from you.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Shoving a Creature"
+    ],
+    "rules_explanation": "When shoving, if you win the contest, you push it 5 feet away from you, as specified in the rules."
+  },
+  {
+    "question": "The barlgura and Laughing Hand are engaged in a grapple. Does the grapple have any effect on the Laughing Hand's ability to make attacks of opportunity?",
+    "answer": "No, the grapple just makes the Laughing Hand's speed zero.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling",
+      "Appendix PH-A: Conditions > Grappled"
+    ],
+    "rules_explanation": "The grapple condition states that the grappled creature's speed becomes zero, and it can't benefit from any bonus to its speed. Attack rolls and other actions are not mentioned."
+  },
+  {
+    "question": "What are the proficiencies for the Whip?",
+    "answer": "A whip is a Martial Melee weapon. The item's proficiencies come from the weapon type and must be provided at the start of each game.",
+    "rules": [
+      "Equipment > Weapons > Weapon Proficiency",
+      "Equipment > Weapons > Weapons Table"
+    ],
+    "rules_explanation": "Weapons are categorized as simple and martial, requiring appropriate proficiency for the wielder."
+  },
+  {
+    "question": "Can a cleric cast Spiritual Weapon as a bonus action at 2nd level?",
+    "answer": "Yes, Spiritual Weapon is cast using a Bonus Action.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Bonus Action"
+    ],
+    "rules_explanation": "Spiritual weapon is a 2nd-level spell. At 2nd level, the cleric would have access to a 2nd-level spell slot, and the casting time of spiritual weapon is a bonus action."
+  },
+  {
+    "question": "What saving throw is required for Tasha's Hideous Laughter?",
+    "answer": "Intelligence Saving Throw",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Tasha's Hideous Laughter"
+    ],
+    "rules_explanation": "The Tasha's Hideous Laughter spell requires the target to make an Intelligence saving throw."
+  },
+  {
+    "question": "What does the restrained condition do?",
+    "answer": "A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed. Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage. The creature has disadvantage on Dexterity saving throws.",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "The SRD specifies that the restrained condition's effect is to set speed to 0, impose disadvantage on their attacks, and imposes disadvantage on the targets dexterity saves."
+  },
+  {
+    "question": "Can a ranged attack be made against a target when that character is threatened by an enemy?",
+    "answer": "When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "Ranged attacks are more difficult when a hostile creature is in close proximity."
+  },
+  {
+    "question": "Is the Hexblade's curse range 30 feet?",
+    "answer": "The target must be within 30 feet of you.",
+    "rules": [
+      "Classes > Warlock > Otherworldly Patrons > The Hexblade"
+    ],
+    "rules_explanation": "The description of the Hexblade's Curse clearly states the range for this feature."
+  },
+  {
+    "question": "Does a Barlgura have Reckless Attacks?",
+    "answer": "Yes. The Barlgura does have Reckless Attacks naturally.",
+    "rules": [],
+    "rules_explanation": "This information is found within the Barlgura stat block, which was not provided in the prompt."
+  },
+  {
+    "question": "What is a strength contest?",
+    "answer": "You or the monster roll an contested strength check.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Shoving a Creature"
+    ],
+    "rules_explanation": "The rules of a strength contest is not well defined in the SRD."
+  },
+  {
+    "question": "What are the statistics for a Barlgura?",
+    "answer": "The statistics are not found in the SRD.",
+    "rules": [],
+    "rules_explanation": "The Barlgura is not a spell or magic item and does not have an entry in the SRD."
+  },
+  {
+    "question": "What does a character with the Sentinel feat do?",
+    "answer": "Rules about the Sentinel feat are not included in the SRD.",
+    "rules": [],
+    "rules_explanation": "The sentinel feat is not an action, so we can't answer about its general properties."
+  },
+  {
+    "question": "When a melee character is knocked prone, does a range character have advantage on the attack?",
+    "answer": "No, ranged attacks against a prone target will have disadvantage unless the attacker is within 5 feet of the prone target. Melee attacks gain advantage on attacks on prone targets",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "A prone character gives melee attackers advantage but gives ranged attacks disadvantage if the attacker is not within 5 feet."
+  },
+  {
+    "question": "Is it an action to pull someone 20 feet towards you with a whip?",
+    "answer": "It can choose to either restrain them. Like they become grappled as part of that. You can choose to restrain them as part of the grapple, or you can pull them 20 feet towards you. It can also be used on objects.",
+    "rules": [],
+    "rules_explanation": "The item's functionality is not from a general game rule."
+  },
+  {
+    "question": "Is it an action to lay on hands, to remove a curse?",
+    "answer": "You can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it.",
+    "rules": [
+      "Classes > Paladin > Class Features > Lay on Hands"
+    ],
+    "rules_explanation": "It takes one action to touch a creature and draw power from the pool to restore hit points to that creature. The SRD says that as an action, the paladin can expend hit points to cure the target of one disease or neutralize one poison affecting it, which means it also takes an action."
+  }
+]

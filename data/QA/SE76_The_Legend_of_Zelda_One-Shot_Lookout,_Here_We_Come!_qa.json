@@ -1,0 +1,112 @@
+[
+  {
+    "question": "2d6 plus defense, correct?",
+    "answer": "Correct.",
+    "rules": [
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "This confirms that for this game system the roll to defend is 2d6 plus any applicable modifiers."
+  },
+  {
+    "question": "2d10 plus my defense.",
+    "answer": "2d6 plus your defense.",
+    "rules": [
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "The player was corrected, as the roll for the defense was 2d6 not 2d10. The roll for the defense was the same as before - 2d6 plus any applicable modifiers."
+  },
+  {
+    "question": "With that one? Oh, that's right. I don't even have to roll for it.",
+    "answer": "No, that's right. You roll to defend. You just hit.",
+    "rules": [
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "The player is corrected about who is rolling the dice for the attack - the defender rolls and not the attacker."
+  },
+  {
+    "question": "So the power--",
+    "answer": "Power actually reduces the opponent's defense when they try and defend against it.",
+    "rules": [
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "The mechanics of the power stat are explained: it reduces the opponent's defense."
+  },
+  {
+    "question": "So you're firing at the construct? I add my power?",
+    "answer": "No. Your power lowers his defense. So what's your power?",
+    "rules": [
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "Confirmation that power reduces the defender's defense. Also a request for the character's power modifier."
+  },
+  {
+    "question": "Plus my wisdom.",
+    "answer": "Okay. So roll 2d6, and add your defense and your courage.",
+    "rules": [
+      "Combat > Taking the Dodge Action"
+    ],
+    "rules_explanation": "The rules for Taking the Perfect Guard action are reiterated - roll 2d6, plus your defense and your courage modifiers."
+  },
+  {
+    "question": "So, I used all but one of my stamina.",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "Confirmation of player status."
+  },
+  {
+    "question": "Am I able to defend for myself and then use the Expert Training to try to stop Babs?",
+    "answer": "Yeah.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "Confirming a character's ability to use their soldier perk."
+  },
+  {
+    "question": "They just defend, right?",
+    "answer": "They just defend.",
+    "rules": [
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "Confirming that Chuchu's only action this turn is to defend."
+  },
+  {
+    "question": "One of my natural traits here that I was given is Solid as Stone. So I get to roll 3d6, and I get to discard the lowest.",
+    "answer": "Yes you do. Go for it.",
+    "rules": [
+      "Traits"
+    ],
+    "rules_explanation": "Confirms how the Solid as Stone trait functions."
+  },
+  {
+    "question": "Yeah, so, so the power--",
+    "answer": "Power actually reduces the opponent's defense when they try and defend against it. ",
+    "rules": [
+      "Traits"
+    ],
+    "rules_explanation": "Here the GM is again clarifying the rules for applying the Power to an attack."
+  },
+  {
+    "question": "So, you're going to spend a stamina to assemble?",
+    "answer": "Yeah, because I'm rich in stamina.",
+    "rules": [
+      "Combat > Using Stamina > Stamina Cost Examples"
+    ],
+    "rules_explanation": "Confirming that the player is spending stamina."
+  },
+  {
+    "question": "Okay, so roll 2d6, adding your wisdom to try and assemble which item?",
+    "answer": "Can I use my combat trait that I can use power instead of wisdom? Yes, you can. ",
+    "rules": [
+      "Traits"
+    ],
+    "rules_explanation": "The player asks about using a combat trait and it's clarified how it would work"
+  },
+  {
+    "question": "Wisdom check would be, add our wisdom to a 2d6?",
+    "answer": "Correct.",
+    "rules": [
+      "Ability Checks"
+    ],
+    "rules_explanation": "The GM is confirming how the ability check works"
+  }
+]

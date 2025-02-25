@@ -1,0 +1,581 @@
+[
+  {
+    "question": "Can a halfling that is hiding use a bonus action to hide in foliage?",
+    "answer": "The GM has to allow it, then the halfling must pass a stealth check to hide.",
+    "rules": [
+      "Combat > Actions > Hide",
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The rules state that a halfling, like all characters, can attempt to hide. Whether there is sufficient foliage for the character to hide is at the discretion of the GM. The character must then make a Stealth skill check."
+  },
+  {
+    "question": "Can a character use the shield of retribution to deal force damage when an enemy makes a melee attack that misses?",
+    "answer": "The shield of retribution does damage when a creature misses the character with a melee attack, and deals 4d6 force damage.",
+    "rules": [],
+    "rules_explanation": "Need the shield description."
+  },
+  {
+    "question": "What saving throw does a character have to make when staring at a creature's gaping face",
+    "answer": "The character must make a constitution saving throw.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The question refers to a homebrew monster ability, so the SRD cannot be used to answer it."
+  },
+  {
+    "question": "What happens to a creature with 0 hit points",
+    "answer": "A creature with 0 hit points falls unconscious and starts making death saving throws.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points"
+    ],
+    "rules_explanation": "As per the SRD rules, a creature that drops to 0 hit points either dies outright, or falls unconscious and must begin making death saving throws."
+  },
+  {
+    "question": "Does an attack of opportunity get to attack a fleeing character?",
+    "answer": "A character gets an attack of opportunity when a hostile creature moves out of its reach.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "The rules for an attack of opportunity state that a hostile creature moving out of your reach provokes one."
+  },
+  {
+    "question": "When a Channel Divinity is used, is that a spell?",
+    "answer": "Channel Divinity is not a spell.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Channel Divinity is an ability gained through character class, and is separate from spell casting."
+  },
+  {
+    "question": "If a creature fails a saving throw against Turn Undead, what happens to it?",
+    "answer": "If an undead fails its saving throw against Turn Undead, it is turned for 1 minute or until it takes any damage.",
+    "rules": [
+      "Class Features > Cleric > Channel Divinity > Channel Divinity: Turn Undead",
+      "Magic > Casting a Spell > Targets"
+    ],
+    "rules_explanation": "The Channel Divinity: Turn Undead rules specify that an undead failing its saving throw is turned for 1 minute, or until it takes any damage. There is also a Destroy Undead feature which would specify if the undead is destroyed."
+  },
+  {
+    "question": "If a creature is turned, and then takes damage, what happens to it?",
+    "answer": "If an undead is turned and then takes damage, the turned effect ends.",
+    "rules": [
+      "Class Features > Cleric > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "The Turn Undead rules state that the effect ends if the target takes any damage."
+  },
+  {
+    "question": "Can a character do a bonus action spell on the same turn as using Channel Divinity?",
+    "answer": "Yes, Channel Divinity is not a spell and therefore does not interfere with bonus action spells.",
+    "rules": [],
+    "rules_explanation": "SRD does not restrict a bonus action spell after using a Channel Divinity feature"
+  },
+  {
+    "question": "If an attack is made with disadvantage and a +4 bonus to the die roll, what happens?",
+    "answer": "A d20 is rolled twice and the lower result is used, with a +4 bonus applied.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rule for advantage and disadvantage specifies that you roll the die twice and take either the higher or the lower result. Modifiers to the die roll apply after this process."
+  },
+  {
+    "question": "How long does a turn undead effect last if the target does not take damage?",
+    "answer": "A turn undead effect lasts for one minute if the target does not take any damage.",
+    "rules": [
+      "Class Features > Cleric > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "The Turn Undead rules state that the turning effect lasts for 1 minute or until the target takes damage."
+  },
+  {
+    "question": "What happens to the Turn Undead power if you cast another spell?",
+    "answer": "Turn Undead is a Channel Divinity effect and not a spell. Casting a spell, therefore, has no effect on the Turn Undead condition.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Channel Divinity: Turn Undead is not a spell itself, so casting another spell does not break it."
+  },
+  {
+    "question": "If a character has Haste cast on them, how does that effect their AC and what extra actions can they take?",
+    "answer": "The target's AC is increased by 2. The additional action can be used to attack, dash, disengage, hide, or use an object.",
+    "rules": [],
+    "rules_explanation": "Need a spell description."
+  },
+  {
+    "question": "Can a paladin use Lay on Hands to cure a disease?",
+    "answer": "A Paladin can expend 5 hit points from their pool of healing to cure the target of one disease.",
+    "rules": [
+      "Class Features > Paladin > Lay on Hands"
+    ],
+    "rules_explanation": "The Lay on Hands feature lists expending hit points to cure a disease as an option."
+  },
+  {
+    "question": "When blessed, what gets a plus 4 bonus?",
+    "answer": "When blessed, attack rolls and saving throws get a d4 bonus.",
+    "rules": [],
+    "rules_explanation": "Need spell details."
+  },
+  {
+    "question": "Can the spellcaster continue to concentrate when under the Turn Undead power?",
+    "answer": "Turn Undead is a Channel Divinity ability, not a spell, and it does not prevent the spellcaster from concentrating.",
+    "rules": [],
+    "rules_explanation": "The Channel Divinity power does not prevent casting or concentrating on a spell."
+  },
+  {
+    "question": "If a creature rolls a 1 on a death saving throw, how many failures does it count as?",
+    "answer": "Rolling a 1 on a death saving throw counts as two failures.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "The Death Saving Throws rules specify that rolling a 1 on the d20 counts as two failures."
+  },
+  {
+    "question": "Does resistance to necrotic damage half the damage of an aura effect?",
+    "answer": "Yes, resistance to necrotic damage will half the necrotic damage dealt by an aura.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The Damage Resistance and Vulnerability rule specifies that resistance to a damage type halves the damage you take of that type."
+  },
+  {
+    "question": "Does being under Turn Undead mean that the creature cannot attack, or cannot be attacked?",
+    "answer": "The Turn Undead feature causes the affected creature to run away and not willingly move closer. There is nothing in the SRD that prevents a Turned creature from being attacked.",
+    "rules": [
+      "Class Features > Cleric > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "Turned creatures must spend their turns trying to move as far away as they can.  They also can't take reactions. Nothing states that they cannot be attacked."
+  },
+  {
+    "question": "For Channel Divinity does it run one minute or until it takes any damage?",
+    "answer": "Turn Undead lasts for 1 minute, or until the target takes any damage.",
+    "rules": [
+      "Class Features > Cleric > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "The Channel Divinity power states that the creature is turned for 1 minute or until it takes any damage."
+  },
+  {
+    "question": "If the target runs away, does it run directly away or as fast as possible?",
+    "answer": "A turned creature spends its turns moving away from the turning creature as fast as it can.",
+    "rules": [
+      "Class Features > Cleric > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "The Turn Undead rules state that a turned creature must spend its turns trying to move as far away from you as it can."
+  },
+  {
+    "question": "With spiritual weapon, does hitting it break the turn undead?",
+    "answer": "Yes, any damage breaks turn undead.",
+    "rules": [
+      "Class Features > Cleric > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "Turn Undead states the effect ends if the target takes damage."
+  },
+  {
+    "question": "Does haste give an extra 10 feet of movement?",
+    "answer": "No, haste doubles the creature's speed, not 10 feet of movement.",
+    "rules": [],
+    "rules_explanation": "Need spell details."
+  },
+  {
+    "question": "Can a creature be subjected to a gaze attack while under turn undead?",
+    "answer": "The Turn Undead ability does not prevent gaze attacks from being used.",
+    "rules": [],
+    "rules_explanation": "SRD entry for Turn Undead has no text to that effect. Need text on what a gaze attack is."
+  },
+  {
+    "question": "Does the Resistance spell apply to constitution saving throws?",
+    "answer": "Yes, the Resistance spell allows the target to add 1d4 to its saving throws.",
+    "rules": [],
+    "rules_explanation": "Need spell details"
+  },
+  {
+    "question": "if a player has advantage on the saving throw does that mean it takes half damage?",
+    "answer": "No, having advantage on a saving throw does not change the damage taken. Some spells specify taking half damage on a successful saving throw.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Magic > Casting A Spell > Saving Throws"
+    ],
+    "rules_explanation": "The Advantage and Disadvantage rules simply state to roll an extra die. Spell descriptions determine how much damage is taken on a successful save."
+  },
+  {
+    "question": "If a character is hidden and makes a ranged attack with advantage, do they lose the hidden condition?",
+    "answer": "If a character is hidden and makes a ranged attack, they are no longer hidden unless they have a feature which allows them to remain hidden after attacking.",
+    "rules": [
+      "Combat > Making An Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The Unseen Attackers and Targets rules state that if you are hidden when you make an attack, you give away your location when the attack hits or misses."
+  },
+  {
+    "question": "If a creature is averting its gaze from an attacking creature, does that give attacks against it disadvantage?",
+    "answer": "Yes, you would have disadvantage on attack rolls if you are averting your gaze.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Averting your gaze would cause you to be effectively blinded, imposing disadvantage on attack rolls."
+  },
+  {
+    "question": "Can a monk use Mind of Mercury to buy an extra attack?",
+    "answer": "No, Mind of Mercury is a reaction and cannot be used to buy an extra attack.",
+    "rules": [],
+    "rules_explanation": "This is a class specific ability."
+  },
+  {
+    "question": "If a barbarian is resistant to necrotic damage does that stack with being blessed?",
+    "answer": "The barbarian would take half damage. The blessing spell would only be applicable if a saving throw was needed.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "This rule specifies that resistance halves the damage of that type. Blessing gives a d4 bonus to saving throws."
+  },
+  {
+    "question": "With the hexblade's curse, what damage does that add?",
+    "answer": "Hexblade's curse damage is your proficiency bonus.",
+    "rules": [],
+    "rules_explanation": "Need spell details"
+  },
+  {
+    "question": "if Hexblade's Curse is used, and the target dies, does that restore hit points?",
+    "answer": "The Hexblade's Curse restores hit points if the cursed target dies.",
+    "rules": [],
+    "rules_explanation": "Need spell details"
+  },
+  {
+    "question": "Can a character make an Eldritch Blast after a melee weapon attack?",
+    "answer": "A character can only make one melee attack and one ranged attack in the same turn if they take the attack action with one weapon and have a bonus action that permits another attack with the other weapon.",
+    "rules": [],
+    "rules_explanation": "Need spell details. Need class level to see if character has ability."
+  },
+  {
+    "question": "Can a person with a high movement speed move, attack, and then move more?",
+    "answer": "Yes, the character can break up their movement as they choose on their turn.",
+    "rules": [
+      "Combat > Movement and Position > Breaking Up Your Move"
+    ],
+    "rules_explanation": "The rule for breaking up movement allows characters to move a distance, take their action (attack), and then move the remaining distance."
+  },
+  {
+    "question": "Can a character cast resistance on themselves before breathing in?",
+    "answer": "Yes, a character can cast resistance as an action before attempting to hold their breath or otherwise.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Spell details state that it takes one action to cast the Resistance spell"
+  },
+  {
+    "question": "Is there half damage against being eye to eye with the creature?",
+    "answer": "There is no general rule for taking half damage as a result of looking at an enemy.",
+    "rules": [],
+    "rules_explanation": "General rules do not state eye contact results in damage."
+  },
+  {
+    "question": "Is there a disadvantage if attacks are made while averting one's gaze?",
+    "answer": "Yes, there is disadvantage on attacks made if the character is averting their gaze.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "You have disadvantage on attack rolls against a target you cannot see."
+  },
+  {
+    "question": "Does Resistance apply to Dex saving throws?",
+    "answer": "Resistance applies to constitution saving throws.",
+    "rules": [],
+    "rules_explanation": "Need spell details."
+  },
+  {
+    "question": "Does casting Haste give advantage on Dexterity saves?",
+    "answer": "Yes, Haste gives the target advantage on Dexterity saving throws",
+    "rules": [],
+    "rules_explanation": "Need spell details"
+  },
+  {
+    "question": "Does taking radiant damage from a paladin break invisibility?",
+    "answer": "Attacking or casting a spell breaks invisibility.",
+    "rules": [],
+    "rules_explanation": "Spell description"
+  },
+  {
+    "question": "does the Enlarge spell doubles my size and give me fire resistance",
+    "answer": "No, it doesn't, it increases my STR by 1, gives me a climbing speed, and provides for fire resistance.",
+    "rules": [],
+    "rules_explanation": "The player is combining features of multiple spells. The Enlarge/Reduce spell increases the size and STR score while another source would give fire resistance and climbing speed. "
+  },
+  {
+    "question": "What is the ruling on arm wrestling and strength?",
+    "answer": "The characters would make strength checks.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Contests"
+    ],
+    "rules_explanation": "A contest requires both participants to make ability checks appropriate to their efforts, and compare the totals. In this case, it would be a Strength check."
+  },
+  {
+    "question": "Is there anything that triggers Jester's hexblade's curse?",
+    "answer": "The creature can only have one sworn enemy at a time so if the initial sworn enemy dies, then she could choose another one the following dawn.",
+    "rules": [],
+    "rules_explanation": "Need spell details"
+  },
+  {
+    "question": "What is the distance from end to end of the mountain cave entrance?",
+    "answer": "It is 20 feet from end to end, with a jagged top at 10-12 feet.",
+    "rules": [],
+    "rules_explanation": ""
+  },
+  {
+    "question": "How many minutes can you hold your breath for? Is it just constitution modifier or is there more?",
+    "answer": "You can hold your breath for a number of minutes equal to 1 + your constitution modifier.",
+    "rules": [
+      "The Environment > Suffocating"
+    ],
+    "rules_explanation": "The suffocating rule states this explicitly."
+  },
+  {
+    "question": "If the character didn't take a deep breath and hold it, do they still get the 1 for the base?",
+    "answer": "No, because you didn't take a deep breath, you lose the 1 base.",
+    "rules": [
+      "The Environment > Suffocating"
+    ],
+    "rules_explanation": "Need details on the situation"
+  },
+  {
+    "question": "In trying to swim but rushing down a hill and tripping, is that a strength or dexterity saving throw?",
+    "answer": "That is a dexterity saving throw.",
+    "rules": [],
+    "rules_explanation": "Determined by the game master."
+  },
+  {
+    "question": "Can I target myself with resistance?",
+    "answer": "Yes, the spell description specifies whether or not you can target yourself.",
+    "rules": [
+      "Magic > Casting A Spell > Targets"
+    ],
+    "rules_explanation": "The target rules allow you to target yourself unless the spell description states otherwise."
+  },
+  {
+    "question": "What levels of water pressure are needed for people to take damage?",
+    "answer": "900 feet is the deepest that a vessel can go without taking damage.",
+    "rules": [],
+    "rules_explanation": "Need ship rules. General ship rules exist at DMG page 119 and say that, at depths greater than 900 feet, the vehicle takes 2d6 bludgeoning damage per minute due to the immense pressure."
+  },
+  {
+    "question": "What do you add to the dice roll to get 16 for Beauregard's arm wrestle?",
+    "answer": "You have advantage on it I would say. At this size, it is a strength based thing.",
+    "rules": [],
+    "rules_explanation": "The spell is Enlarge which gives advantage on strength checks."
+  },
+  {
+    "question": "does the Turn Undead power stop the effect where they must check constitution for not seeing their loved ones?",
+    "answer": "No, turn undead does not prevent creatures from having to make constitution saving throws when seeing certain images.",
+    "rules": [],
+    "rules_explanation": "Turn Undead only makes them run away, and not stop the effect from their trauma of the image."
+  },
+  {
+    "question": "When taking a short rest, do you automatically get spells back, and if so what spells?",
+    "answer": "You get your Channel Divinities back. Any other short rest abilities come back and you can spend any hit dice if you have them.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The Short Rest rules state that spell slots are not regained on a short rest."
+  },
+  {
+    "question": "During a short rest, can the character lift a disease?",
+    "answer": "No.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Need class details."
+  },
+  {
+    "question": "If you are using Lay on Hands to cure a disease, is that the same as neutralizing the poison?",
+    "answer": "Neutralizing poison is a separate effect of Lay on Hands from curing disease.",
+    "rules": [
+      "Class Features > Paladin > Lay on Hands"
+    ],
+    "rules_explanation": "The Lay on Hands feature lists curing disease and neutralizing poison as separate effects."
+  },
+  {
+    "question": "During a short rest, can a character cast commune?",
+    "answer": "During a short rest, you can cast spells, provided that the spellcasting does not make the rest into a long rest",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The rules specify what a character can do during a short rest, and spellcasting is permitted, so long as it doesn't become strenuous activity."
+  },
+  {
+    "question": "For a paladin using Divine Sense, what is the range of detecting a celestial, fiend, or undead?",
+    "answer": "You can sense it within 60 feet of you",
+    "rules": [
+      "Class Features > Paladin > Divine Sense"
+    ],
+    "rules_explanation": "The Divine Sense feature lists a range of 60 feet."
+  },
+  {
+    "question": "If a paladin has been turned, can it be teleported?",
+    "answer": "Turned creatures can't move willingly, or travel by interplanar means.",
+    "rules": [
+      "Class Features > Cleric > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "SRD Turn Undead does not state this."
+  },
+  {
+    "question": "What is the limit of channel divinities a character has per rest?",
+    "answer": "It depends on the class level.",
+    "rules": [],
+    "rules_explanation": "The number of Channel Divinity uses depends on class and class level."
+  },
+  {
+    "question": "Are there any special properties if you throw things that are in the bag of holding?",
+    "answer": "No special properties",
+    "rules": [],
+    "rules_explanation": "No rules state that throwing something from the bag of holding affects it"
+  },
+  {
+    "question": "When does the Turn Undead effect end?",
+    "answer": "It turns for one minute, or until it takes any damage.",
+    "rules": [
+      "Class Features > Cleric > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "When the effect ends, the creature must avert its gaze, but then act as normal."
+  },
+  {
+    "question": "When you have disadvantage on attacking something you can't see, what do you add to it?",
+    "answer": "If you are averting your gaze, your attacks are with disadvantage.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "Attacking a target you cannot see means you have disadvantage on the attack roll. Nothing can be added to remove disadvantage."
+  },
+  {
+    "question": "When are you considered hasted, is it plus 4 to all of them?",
+    "answer": "No, only to attacks and saves and it's not plus 4, it's a d4.",
+    "rules": [],
+    "rules_explanation": "Need spell details."
+  },
+  {
+    "question": "When does a warlock regain hit points for the hexblade's curse?",
+    "answer": "After the target dies.",
+    "rules": [],
+    "rules_explanation": "Need spell details."
+  },
+  {
+    "question": "Are you still under Turned if you use your power?",
+    "answer": "Once the turned creature takes damage, the turned effect ends. That damage can be from any source.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Need Turn Undead definition for confirmation and how it affects the target and the effect ends after they have been dealt damage."
+  },
+  {
+    "question": "when do you stop taking constitution saving throws?",
+    "answer": "It depends on the power.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Each instance of a saving throw is a case-by-case basis and is determined by the rules for that event."
+  },
+  {
+    "question": "When you are spider climbed, can you grab on a branch just in case you lose spiders?",
+    "answer": "Yes, you can grab onto a branch.",
+    "rules": [],
+    "rules_explanation": ""
+  },
+  {
+    "question": "When an illusion spell is cast and it can affect other people what kind of saving throw does it usually affect?",
+    "answer": "Illusions vary.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Each spell specifies the saving throw, if any, required to avoid its effects."
+  },
+  {
+    "question": "Does the water help you taste the chemical and metallic type flavor?",
+    "answer": "The GM determines if this taste is present.",
+    "rules": [],
+    "rules_explanation": "Whether the water impacts your sense of taste is up to the game master."
+  },
+  {
+    "question": "If a character casts enlarge can you use their stone to have fire resistance rather than constitution bumping?",
+    "answer": "Yes, if you have stone's capabilities, it can change to fire resistance rather than constitution bumping.",
+    "rules": [],
+    "rules_explanation": "Need player character details for this instance."
+  },
+  {
+    "question": "When a paladin casts Lay on Hands, does it require a deity",
+    "answer": "No, it does not. Your blessed touch can heal wounds.",
+    "rules": [
+      "Class Features > Paladin > Lay on Hands"
+    ],
+    "rules_explanation": "This class feature has no requirement for a deity."
+  },
+  {
+    "question": "Does resistance to the constitution saving throw add to the modifier?",
+    "answer": "No, resistance to a damage type has no effect on saving throws.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "Damage resistance halves the damage taken, it has no impact on the saving throw."
+  },
+  {
+    "question": "Is there a time in which the caster loses the Enlarge effect if the creature is polymorphed out?",
+    "answer": "No, the change is not dependent on a time. If the enlarged target is polymorphed then the effect would end immediately.",
+    "rules": [],
+    "rules_explanation": "Need more details on the spells."
+  },
+  {
+    "question": "If there is a 20 foot diameter circle, how many people can you fit into that area?",
+    "answer": "Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.",
+    "rules": [
+      "Combat > Movement and Position > Space"
+    ],
+    "rules_explanation": "The amount of people that fit in a space is dependent on the size of the entities and the space itself."
+  },
+  {
+    "question": "If a wild shape of polymorph goes to 0 hit points, do you revert back with any additional damage taken?",
+    "answer": "Yes, you revert back, then take any additional damage.",
+    "rules": [
+      "Class Features > Druid > Wild Shape"
+    ],
+    "rules_explanation": "Rules text says \"If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form\""
+  },
+  {
+    "question": "If you take damage but have resistance, do you count it before or after the damage is taken?",
+    "answer": "Resistance and then vulnerability are applied after all other modifiers to damage.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "Resistance and Vulnerability are applied at the end, after all other modifiers."
+  },
+  {
+    "question": "If it is going to be disadvantage on all of them you add a D4 on it, to offset the disadvantage?",
+    "answer": "There is no general rule about adding a d4 to offset disadvantage. Circumstances that grant both advantage and disadvantage cancel each other out, resulting in a straight roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Having both advantage and disadvantage on a roll cancels them both out. The DM may apply a boon or penalty to your check."
+  },
+  {
+    "question": "If you have advantage, should that change your AC?",
+    "answer": "No, advantage does not change your AC.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Only AC is related to armor."
+  },
+  {
+    "question": "Does hexblade's curse break if a creature is turned?",
+    "answer": "No, Hexblade's Curse is not concentration and stays until either it's removed, the paladin chooses another creature to curse, or the creature dies. Turn Undead affects movement, it doesn't remove magic, and doesn't make it untargetable.",
+    "rules": [],
+    "rules_explanation": "Need Hexblade's Curse details."
+  },
+  {
+    "question": "Are you able to look at the creature in the turn away phase or are you looking directly at it?",
+    "answer": "It's up to the DM to determine.",
+    "rules": [],
+    "rules_explanation": "Rules do not cover details on specific scenarios and positioning."
+  },
+  {
+    "question": "How does Fjord's Star Razor activate, is it just bonus action?",
+    "answer": "Star Razor activates with bonus action",
+    "rules": [],
+    "rules_explanation": "Need weapon details."
+  },
+  {
+    "question": "Is there a reason to say \"cod\" instead of \"code\"",
+    "answer": "This is more about accents and speech."
+  }
+]

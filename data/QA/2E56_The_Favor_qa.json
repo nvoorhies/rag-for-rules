@@ -1,0 +1,71 @@
+[
+  {
+    "question": "The level 9 level, class, race, and abilities character, concentrating on Caleb's magical hut, is starting to come to consciousness. What check is required?",
+    "answer": "The GM requires a Wisdom (Perception) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Wisdom",
+      "Using Ability Scores > Skills > Perception",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The text specified that a roll was necessary because they are coming to consciousness from a 12 hour rest within Caleb's dome."
+  },
+  {
+    "question": "The level 9 level, class, race, and abilities character is attempting to climb up the well by bracing themselves on each side and using physical locomotion. What skill check is required to determine if they can do this?",
+    "answer": "The GM requires a Strength (Athletics) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Strength",
+      "Using Ability Scores > Skills > Athletics"
+    ],
+    "rules_explanation": "A strength athletics check covers difficult situations when climbing."
+  },
+  {
+    "question": "The level 9 level, class, race, and abilities character slowly peeks their head above the top of the well to see if anyone is watching. What check is required?",
+    "answer": "The GM requires a Wisdom (Perception) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Wisdom",
+      "Using Ability Scores > Skills > Perception"
+    ],
+    "rules_explanation": "A wisdom perception check allows the character to spot other people in the vicinity"
+  },
+  {
+    "question": "Lady Zethriss, and the level 9 level, class, race, and abilities character are conversing. What check, with advantage, is required to convince Lady Zethriss of the character's explanation regarding Gluzzo and mind-controlling?",
+    "answer": "The GM requires a Charisma (Deception) check, with advantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Charisma",
+      "Using Ability Scores > Skills > Deception",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "deception skills help with a character convincingly hiding the truth through verbal action; an advantage may apply if another character is helping them, or if they are in circumstances that aid the action"
+  },
+  {
+    "question": "The level 9 level, class, race, and abilities character is drawing a symbol of the Traveler underneath a bench. What check is required?",
+    "answer": "The GM requires a Dexterity (Sleight of Hand) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Dexterity",
+      "Using Ability Scores > Skills > Sleight of Hand"
+    ],
+    "rules_explanation": "The act of deftly drawing in secret is well within the bounds of Sleight of Hand."
+  },
+  {
+    "question": "What is the proper way to address the queen?",
+    "answer": "The proper way to address the Bright Queen Leylas Kryn is \"the queen\".",
+    "rules": [],
+    "rules_explanation": "This is just a matter of knowledge, and doesn't use any dice rolls or statistics."
+  },
+  {
+    "question": "The level 9 level, class, race, and abilities character, using Lythir's testimony as a point of leverage, is trying to convince the bright queen. What check is requested?",
+    "answer": "The GM requests a Charisma (Persuasion) check with disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Charisma",
+      "Using Ability Scores > Skills > Persuasion",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Persuasion is used to make the character seem honest and forthright, while the DM has ruled that something is providing disadvantage on the roll."
+  }
+]

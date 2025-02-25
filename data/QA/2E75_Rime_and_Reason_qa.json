@@ -1,0 +1,276 @@
+[
+  {
+    "question": "What ability check is required to see Essek's footprints in the snow?",
+    "answer": "A perception check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The text states 'Make a perception check' where it would usually provide instructions on how to apply a particular skill to a specific attribute. I interpret this as making a check using only the ability score, as a Perception skill check would have been indicated. This is a skill check related to perception."
+  },
+  {
+    "question": "Given the weather, is the perception check for clearings or caves performed at disadvantage?",
+    "answer": "Yes, the perception check is at disadvantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules states 'at the storm at this distance, do it with disadvantage, just because your vision is somewhat obscured by the storm'."
+  },
+  {
+    "question": "What type of check is made to understand a tree's current condition?",
+    "answer": "A nature check is made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The text states 'Make a nature check' where it would usually provide instructions on how to apply a particular skill to a specific attribute. I interpret this as making a check using only the ability score, as a nature skill check would have been indicated."
+  },
+  {
+    "question": "Does Produce Flame create smoke?",
+    "answer": "The bonfire created by the *produce flame* spell would not create smoke because it is magically created.",
+    "rules": [
+      "Spellcasting > Components"
+    ],
+    "rules_explanation": "This is a judgement call by the DM."
+  },
+  {
+    "question": "How long does *Leomund's Tiny Hut* last?",
+    "answer": "*Leomund's Tiny Hut* lasts for eight hours.",
+    "rules": [
+      "Spell Descriptions > Leomund's Tiny Hut"
+    ],
+    "rules_explanation": "This answer is extracted directly from the spell."
+  },
+  {
+    "question": "Is *Leomund's Tiny Hut* a concentration spell?",
+    "answer": "*Leomund's Tiny Hut* is not a concentration spell.",
+    "rules": [
+      "Spellcasting > Duration"
+    ],
+    "rules_explanation": "This answer is found in the SRD description of the spell."
+  },
+  {
+    "question": "How long does it take to cast *Leomund's Tiny Hut* and *Teleportation Circle*?",
+    "answer": "Both *Leomund's Tiny Hut* and *Teleportation Circle* take a minute to cast.",
+    "rules": [
+      "Spell Descriptions > Leomund's Tiny Hut",
+      "Spell Descriptions > Teleportation Circle"
+    ],
+    "rules_explanation": "This information is found in the spell descriptions."
+  },
+  {
+    "question": "Can spells be cast through the dome created by *Leomund's Tiny Hut*?",
+    "answer": "No, spells and other magical effects can't extend through the dome or be cast through it.",
+    "rules": [
+      "Spell Descriptions > Leomund's Tiny Hut"
+    ],
+    "rules_explanation": "This information is found in the spell description."
+  },
+  {
+    "question": "Is there a way to find out if a white dragon is present by use of an Arcana check?",
+    "answer": "No, make an arcana check to find information you may already possess about white dragons, like its temperament and intelligence.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Intelligence",
+      "Using Ability Scores > Skills > Intelligence > Arcana"
+    ],
+    "rules_explanation": "The player has previously read about white dragons, and a successful Arcana check would prompt the DM to provide the information the player already knows."
+  },
+  {
+    "question": "How many times can *Leomund's Tiny Hut* be cast in one day?",
+    "answer": "*Leomund's Tiny Hut* is a 3rd-level spell, so it can be cast multiple times a day.",
+    "rules": [
+      "Spellcasting > Spell Slots",
+      "Spell Descriptions > Leomund's Tiny Hut"
+    ],
+    "rules_explanation": "The number of times a spell can be cast is limited by the number of spell slots available. There is no limit to the number of times that *Leomund's Tiny Hut* can be cast except for the limits of the level of the spell slot."
+  },
+  {
+    "question": "Does Pass Without Trace apply to Frumpkin after he leaves Jester's radius?",
+    "answer": "No, Pass Without a Trace will not affect Frumpkin once he leaves Jester's radius.",
+    "rules": [
+      "Spell Descriptions > Pass Without Trace"
+    ],
+    "rules_explanation": "Pass Without Trace affects 'you and your companions within 30 feet of you'. Once Frumpkin leaves that radius it is no longer in effect."
+  },
+  {
+    "question": "Since the Giant Eagles may have advantage on sight, but because of the snow storm, will that give them a straight roll?",
+    "answer": "Yes, because of the storm, vision is halved, so it's just a straight roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "Advantage and disadvantage cancel each other out in the SRD."
+  },
+  {
+    "question": "Will this planning session count as a brief short rest?",
+    "answer": "Yes, this planning session can count as a brief short rest.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The DM allows the planning session to count as a brief short rest. This is a DM call."
+  },
+  {
+    "question": "If he pokes his head out, does the spell end?",
+    "answer": "Yes, if he pokes his head out, the spell ends.",
+    "rules": [
+      "Spell Descriptions > Leomund's Tiny Hut"
+    ],
+    "rules_explanation": "Poking one's head out violates the rules of being inside the hut and is a DM ruling."
+  },
+  {
+    "question": "Do I have a laser anymore?",
+    "answer": "Not relevant or present in SRD.",
+    "rules": [],
+    "rules_explanation": "This is likely a table prop and not part of the rules of the game"
+  },
+  {
+    "question": "Do we want to take the hour here, yeah, you can do that?",
+    "answer": "If you guys want to take the hour here, yeah, you can do that.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "A brief rest in the adventure period. This is DM judgement and not a specific action."
+  },
+  {
+    "question": "You can throw spells outside of the dome, but from inside, nothing can come inside?",
+    "answer": "From inside Leomund's Tiny Hut no spells or attacks can reach outside.",
+    "rules": [
+      "Spell Descriptions > Leomund's Tiny Hut"
+    ],
+    "rules_explanation": "Confirmed by the DM and the rules for Leomund's Tiny Hut."
+  },
+  {
+    "question": "If I squeeze the rock again, will it just play the noise?",
+    "answer": "Yes, squeezing the rock again will just play the noise unless you're resetting it.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This appears to be an effect of an item the DM gave to a player, and its functionality is at the DM's discretion."
+  },
+  {
+    "question": "Does he have Pass Without a Trace?",
+    "answer": "No, because once he leaves the radius of Pass Without Trace it stops affecting him.",
+    "rules": [
+      "Spell Descriptions > Pass Without Trace"
+    ],
+    "rules_explanation": "Confirms that once the caster of the spell is outside of the listed radius in Pass Without Trace the benefits are no longer applied"
+  },
+  {
+    "question": "Can I bonus action perceive?",
+    "answer": "No, you do not have that ability.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The player doesn't have a class feature or ability that allows them to use a Bonus Action to take the Search action."
+  },
+  {
+    "question": "Climbing up, is that half distance, right?",
+    "answer": "No, climbing up, from that point there, is going to take you about 10 feet of movement.",
+    "rules": [
+      "Adventuring > Movement > Special Types of Movement > Climbing, Swimming, and Crawling"
+    ],
+    "rules_explanation": "Matt adjusts for the specific circumstances of the climb in addition to the normal rules."
+  },
+  {
+    "question": "Is that a Constitution saving throw?",
+    "answer": "Yes, Blight is a constitution saving throw.",
+    "rules": [
+      "Spell Descriptions > Blight"
+    ],
+    "rules_explanation": "The player asks for the saving throw type, to which Matt replies."
+  },
+  {
+    "question": "Can you cast two spells in the same round if one of them is a cantrip?",
+    "answer": "You can't cast two spells in the same round unless one of them is a cantrip.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "Confirms that the action states in this rule are true."
+  },
+  {
+    "question": "Flame Blade is what level spell?",
+    "answer": "This is not present in the SRD.",
+    "rules": [],
+    "rules_explanation": "The exact spell levels of all spells aren't included in the SRD."
+  },
+  {
+    "question": "Well I would say you don't have to because you just, between that and what Jester had done the previous round to that one, as you pummel the back of the head he falls to one knee and looks up as that final hit, you come down and crack it right square in the face as you pull your fist back, it has a smear and a bit of a trail of blood scatters across the snow as the front of its face has caved in slightly.",
+    "answer": "The current enemy has died and no longer needs to be affected by the Stunning Strike ability.",
+    "rules": [],
+    "rules_explanation": "DM describes end state but doesn't use SRD directly. This is a description of the circumstances that remove the necessity for a particular saving throw"
+  },
+  {
+    "question": "Can we do this with-- Pass Without Trace?",
+    "answer": "No, Jester is out of 2nd-level spell slots.",
+    "rules": [
+      "Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "If Jester had any 2nd-level slots remaining, they would be able to cast the spell and it's described in the SRD."
+  },
+  {
+    "question": "Is that like a plus, or a plus eight versatile weapon? Or not a plus eight, but a d8?",
+    "answer": "It's just a d8.",
+    "rules": [
+      "Equipment > Weapons"
+    ],
+    "rules_explanation": "A regular longsword's base damage is 1d8 slashing."
+  },
+  {
+    "question": "Would this planning session count as a brief short rest, since we're just sitting in the hut and we've just been sitting for a while?",
+    "answer": "I'd allow it.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "It is a discretionary DM ruling that allows a short rest."
+  },
+  {
+    "question": "Can you throw spells outside of the dome, but from inside, nothing can come inside?",
+    "answer": "You can throw spells outside of the dome, but from inside, nothing can come inside.",
+    "rules": [
+      "Spell Descriptions > Leomund's Tiny Hut"
+    ],
+    "rules_explanation": "This information is in the spell's description in SRD."
+  },
+  {
+    "question": "Did you want to-- performance check?",
+    "answer": "This is a performance check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Charisma > Performance"
+    ],
+    "rules_explanation": "The DM is calling for an ability check where the relevant ability score is Charisma and the appropriate skill is Performance."
+  },
+  {
+    "question": "What are we using to conjure the mammoth?",
+    "answer": "Conjure Animals.",
+    "rules": [],
+    "rules_explanation": "This tells the name of the spell used."
+  },
+  {
+    "question": "What's the highest?",
+    "answer": "CR2.",
+    "rules": [
+      "Spell Descriptions > Conjure Animals"
+    ],
+    "rules_explanation": "The description of the 'Conjure Animals' spell contains the creatures summoned at each of the different level. You must specify a challenge rating that is less than or equal to the maximum for your level."
+  },
+  {
+    "question": "How big is challenge rating two, like how big can I get?",
+    "answer": "Giant boar is a challenge rating two.",
+    "rules": [
+      "Spell Descriptions > Conjure Animals"
+    ],
+    "rules_explanation": "The 'Conjure Animals' allows you to summon beasts of specific maximum CR ratings. Challenge rating information is in each monster's description."
+  },
+  {
+    "question": "Does the blessing remove paralysis?",
+    "answer": "No, but when you roll your save, you get to add a d4 to it.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "Bless spell grants 'Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.'"
+  },
+  {
+    "question": "Flame Blade is what level spell?",
+    "answer": "Spell level is not present in SRD.",
+    "rules": [],
+    "rules_explanation": "This spell is not referenced with a level inside SRD."
+  }
+]

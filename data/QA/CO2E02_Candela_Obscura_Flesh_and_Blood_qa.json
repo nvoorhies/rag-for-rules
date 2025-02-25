@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Can the Auntie Bee level 5 journalist/medium character, who has 1 bleed marked on her character sheet, use Street Smarts and spend her drive to survey for a mirror in the room?",
+    "answer": "Yes, the Auntie Bee level 5 journalist/medium character can use Street Smarts and spend her drive to survey for a mirror in the room, but the success of the check depends on the rules of the game system.",
+    "rules": [
+      "Section > Rules for Playing > Ability Checks",
+      "Section > Rules for Playing > Skills",
+      "Part II > (Marisha): Auntie Bee looks around. She's looking for a silvered serving tray, or a mirror, or something reflective.",
+      "Part II > SPENSER: So make a Survey roll for me.",
+      "Part II > MARISHA: All right then, Street Smarts."
+    ],
+    "rules_explanation": "The player is attempting an ability check, and the text indicates that this is Survey skill check using the ability, Street Smarts"
+  },
+  {
+    "question": "If Dr. Jean level 5 scholar/occultist is touched by the 'Draven Kingsley' imposter and takes two bleed marks, and that is a scar, can she use the 'Well-Read' ability to regain her drive?",
+    "answer": "Dr. Jean's level 5 scholar/occultist 'Well-Read' ability restores Intuition points only if the Focus roll fails.",
+    "rules": [
+      "Section > Rules for Playing > Ability Checks",
+      "Section > Rules for Playing > Skills",
+      "Part II > ZEHRA: Since I'm Well-Read and retain knowledge better than most, when I use Intuition when making a Focus roll, if I fail the roll, I'll earn back any Intuition I use. So I'm going to burn one thing."
+    ],
+    "rules_explanation": "The player states that this ability only works on failed rolls, and the previous statement that the roll was a 'three' implies this was intended."
+  },
+  {
+    "question": "If Sean level 5 muscle/weird wants to use the Saw This Coming ability (add 1d6, gilded, to his roll) then succeeds on the roll, does that refresh his drive, and does that add a die to his roll?",
+    "answer": "The details for the ability must be consulted. Gilded die normally replace another die for the roll, but other abilities may have different features. If the ability adds a die to the roll that is also gilded, then a drive point is gained if the gilded die is used to generate the success.",
+    "rules": [
+      "Section > Rules for Playing > Skills",
+      "Part II > BRENNAN: I now have the Tenacious ability because we're an Interdisciplinary circle. So one of these is actually gilded.",
+      "Part II > SPENSER: As that happens-- \nTRAVIS: We still have our hand mirrors. \nSPENSER: We still do have the hand mirrors. \nMARISHA: Yes, oh, that's true. \nSPENSER: You could put as your gear if you want to mark gear for this. \nTRAVIS: Bleed containment gear and hand mirrors. \nMARISHA: I'm still going to do this, and I'm going to spend the drive because I can get it back. Potentially, I'm going to spend--"
+    ],
+    "rules_explanation": "The 'Saw This Coming' circle ability is in effect and it is the circle ability that is gilded, the details for the Saw This Coming ability must be consulted for the specifics of its operation."
+  },
+  {
+    "question": "If multiple players are targeted by an attack, how is damage applied?",
+    "answer": "If a spell or other effect deals damage to more than one target at the same time, roll the damage once for all of them.",
+    "rules": [
+      "Section > Damage and Healing > Damage Rolls > Modifiers to the Roll"
+    ],
+    "rules_explanation": "This is a specific rule about multiple targets rather than a general rule about rolling dice."
+  },
+  {
+    "question": "Does a gilded die add a die to an action roll?",
+    "answer": "No, under normal circumstances, gilded die do not add a die to your roll.  Gilded actions replace one of the standard dice with a gilded die instead.",
+    "rules": [
+      "Part II > SPENSER: And on the gilded die, just making sure, when you have a gilded action, it doesn't add a die to your roll. It only-- \nZEHRA: Right. \nSPENSER: So I don't know if you-- \nZEHRA: Oh, I see. It replaces one of the-- \nSPENSER: It replaces a die."
+    ],
+    "rules_explanation": "This exchange in the text states that it gilded die replaces one of the normal die"
+  },
+  {
+    "question": "If a person has the Non-Combatant ability that states 'My pain spurs others into action. If I haven't hurt anyone yet, which I haven't, when I take a mark, each of my allies in the scene can recover one drive point of their choice,' and she has taken a point of body, are two players in the scene able to recover a point of drive?",
+    "answer": "Yes, since the requirement of not hurting anyone has been met, and the person has taken a mark, all allies in the scene may recover one drive point of their choice.",
+    "rules": [
+      "Part II > MARISHA: Non-Combatant, my pain spurs others into action. If I haven't hurt anyone yet, which I haven't, when I take a mark, each of my allies in the scene can recover one drive point of their choice."
+    ],
+    "rules_explanation": "This exchange in the text describes how the ability is meant to work, and meets the requirements for it to take effect."
+  },
+  {
+    "question": "If a character switches to another character sheet, do they keep their marks and drives?",
+    "answer": "Yes, you'll keep your marks, you'll keep the amount of drive that you've spent, but you will be able to use your role and specialty abilities, sorry, your role and specialty abilities and your new action ratings from the character sheet.",
+    "rules": [
+      "Part II > SPENSER: So just so you know, you'll keep your marks, you'll keep the amount of drive that you've spent, but you will be able to use your role and abilities, sorry, your role and specialty abilities. And your new action ratings from the character sheet."
+    ],
+    "rules_explanation": "This is a direct answer to the question as posed."
+  },
+  {
+    "question": "Can I use a single ward to soak one bleed from each player character?",
+    "answer": "No, if anybody wants to use it, they can take it, then nobody else can take it.",
+    "rules": [
+      "Part II > SPENSER: Just one that is in the circle gear, but if anybody wants to use it, they can take it, then nobody else can take it."
+    ],
+    "rules_explanation": "This quote from the GM in the text directly addresses the question about taking the ward. "
+  }
+]

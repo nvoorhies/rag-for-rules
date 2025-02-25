@@ -1,0 +1,39 @@
+[
+  {
+    "question": "The level 1 elven girl casts the spell Command and says \"Approach\" to a little girl. What saving throw is required of the target, and what does that target have to roll on a successful save, using only the information in the core rules?",
+    "answer": "The target must make a Wisdom saving throw with a DC of 14.",
+    "rules": [
+      "Spellcasting > Spell Save DC"
+    ],
+    "rules_explanation": "The spell save DC is given by the formula 8 + proficiency bonus + spellcasting ability.  Here the proficiency bonus is 2 and the spellcasting ability is Charisma of 14 (+2), so 8+2+4=14. The description of the spell, Command, also confirms that it uses a Wisdom saving throw."
+  },
+  {
+    "question": "Level 3 Tabaxi rogue with 19 dex casts firebolt against an AC 19 target, and rolls an 12 on the dice with a modifier of +6, what additional adjustment does Tides of Chaos permit?",
+    "answer": "Advantage on the roll for the ranged spell attack",
+    "rules": [
+      "Classes > Sorcerer > Tides of Chaos",
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "As this is the question asks for a change as the result of a Sorcerer ability, Tides of Chaos in the Sorcerer abilities provides the answer: The GM can have you roll on the Wild Magic Surge table immediately after you cast a sorcerer spell of 1st level or higher. If you do so, you gain advantage on the next attack roll, saving throw, or ability check that you make before the end of your next turn."
+  },
+  {
+    "question": "Can a level 16 character use a bonus action to use the bardic inspiration that was granted to it to add a 1d6 to their attack, save, or skill check?",
+    "answer": "The rules do not state the level requirements of the bard affect their ability to use Bardic Inspiration.",
+    "rules": [
+      "Classes > Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "A creature can use a Bardic Inspiration die within 10 minutes of it being granted to add to a save, roll, or skill check, and the rules do not state that the level of the bard has any effect on their ability to use the inspiration."
+  },
+  {
+    "question": "Given the characters around a fire and the DM states that, all get the sense that if you don't remove an article of clothing soon, you may become exhausted, what does this mean?",
+    "answer": "You must either remove an article of clothing or suffer one point of exhaustion, which confers disadvantage on all ability checks.",
+    "rules": [
+      "Appendix PH-A > Conditions > Exhaustion"
+    ],
+    "rules_explanation": "This follows the rules for the Exhaustion condition in the SRD."
+  },
+  {
+    "question": "a level 20 paladin hits an enemy with a melee weapon attack, expending a spell slot for radiant damage. The target is undead. How is the damage determined?",
+    "answer": "The attack deals the weapon's normal damage, plus 2d8 radiant damage from Divine Smite, plus an additional 1d8 radiant damage because the target is undead."
+  }
+]

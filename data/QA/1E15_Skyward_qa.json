@@ -1,0 +1,149 @@
+[
+  {
+    "question": "Can sorcerers wear leather armor?",
+    "answer": "No, sorcerers can wear no armor.",
+    "rules": [
+      "Classes > Sorcerer > Proficiencies"
+    ],
+    "rules_explanation": "The Sorcerer class description indicates they have no armor proficiencies."
+  },
+  {
+    "question": "If a character wears the Coldsnap Leather Armor, what adjustments should be made to their AC?",
+    "answer": "The Coldsnap Leather Armor is leather armor, plus two, it would probably give you an additional plus one to your AC if you wear it.",
+    "rules": [
+      "Equipment > Armor > Armor Class (AC)",
+      "Equipment > Armor > Light Armor"
+    ],
+    "rules_explanation": "Leather armor allows you to add your Dexterity modifier to the base AC. The Coldsnap Leather Armor provides a +2 bonus to AC from leather armor"
+  },
+  {
+    "question": "As DM, what is your ruling on whether a beard remains after the Belt of Dwarvenkind is removed.",
+    "answer": "You have no way of knowing.",
+    "rules": [],
+    "rules_explanation": "This is a situation the DM must arbitrate"
+  },
+  {
+    "question": "What actions are required to activate the Ioun Stone.",
+    "answer": "It's still an action to activate it, but it doesn't use your current spell slot, 'cause you've already stored it in there the day before.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "Activating some magic items requires a user to do something special, such as holding the item and uttering a command word. A description of how to activate each item is detailed in the item's description."
+  },
+  {
+    "question": "What ability is used for a perception check?",
+    "answer": "Make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure"
+  },
+  {
+    "question": "Given proficiency in the Nature skill and a book, what is the rules interaction?",
+    "answer": "You double your proficiency bonus on any nature rolls to do either of those things.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "If the task calls for a skill that a character is proficient in, then the character adds their proficiency bonus to the ability check."
+  },
+  {
+    "question": "What is involved when enchanter takes time out of the adventuring day to enchant.",
+    "answer": "You do have about two days before the holy receptacle arrives so if there's anything that you want to achieve in that meantime, you're welcome to do so or you can just spend that couple days and relax.",
+    "rules": [],
+    "rules_explanation": "This is an open ended question where the DM is soliciting information from the players about possible courses of action."
+  },
+  {
+    "question": "Can I enchant an item in two days?",
+    "answer": "No, she was just herself.",
+    "rules": [],
+    "rules_explanation": "This refers to a specific NPC and how much help she needs - not rules from the SRD."
+  },
+  {
+    "question": "If you get halfway through enchanting an item, and have to leave, can somebody else take over?",
+    "answer": "You could probably have Allura come and finish it if you wanted to ask her.",
+    "rules": [],
+    "rules_explanation": "This is left up to the DM to decide in this instance - there is no applicable rule in the SRD."
+  },
+  {
+    "question": "You want to buy a potion from Gilmore, how much would you be able to haggle the price down? How is a persuasion roll used?",
+    "answer": "Go ahead and roll a persuasion.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure"
+  },
+  {
+    "question": "How do I know if Gilmore is being honest about a gem.",
+    "answer": "Make an insight check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure"
+  },
+  {
+    "question": "When using the Belt of Quickness of Action, when are the benefits gained?",
+    "answer": "Not yet.",
+    "rules": [],
+    "rules_explanation": "The manual says it takes 48 hours worth of reading it"
+  },
+  {
+    "question": "How does an ioun stone spell storing function?",
+    "answer": "It allows you to cast a spell into it, up to a level three. You can do three 1st-level spells, or up to one 3rd-level spell, into the stone. It'll hold it. And then you can continue on with the next few days and you can cast it from the stone for free.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "description of an Ioun Stone."
+  },
+  {
+    "question": "When traveling, are you able to prevent characters from seeing you.",
+    "answer": "Make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure"
+  },
+  {
+    "question": "How do you roll a percentile dice?",
+    "answer": "It's two ten-siders. There should be one that has double-digits and one that has single.",
+    "rules": [],
+    "rules_explanation": "DM explanation of the dice needed"
+  },
+  {
+    "question": "What's the percentage on your–",
+    "answer": "50% chance.",
+    "rules": [],
+    "rules_explanation": "Referencing a player ability."
+  },
+  {
+    "question": "What happens if you reference herbalism books during an herbalism roll.",
+    "answer": "You keep them with you, and if you wish to reference them while taking any sort of herbalism roll, they will essentially give you a momentary bonus to it. They will double your proficiency bonus for any rolls for herbalism or to harvest any pieces of a creature.",
+    "rules": [],
+    "rules_explanation": "custom ruling"
+  },
+  {
+    "question": "The DM imposes disadvantage on your next two rolls, why?",
+    "answer": "I just hate selfie sticks so much.",
+    "rules": [],
+    "rules_explanation": "DM justification for a rules choice."
+  },
+  {
+    "question": "What to do with the characters on the ship is it is listing.",
+    "answer": "You look over and there's a human there, a bearded older man in his 40s, his hair trimmed very very short, crew-cut almost. He's wearing what looks like a patchwork scalemail almost, like mostly leather but there's a lot of chunks of scales put around it and he looks scarred and weathered and he says, \"I've traveled this land quite a bit and I've heard there's roving bands of goliaths been attacking folks up north in trade routes. Haven't seen any near Emon. Where occasionally you'd hear of the mountain-folks staying up north, it appears they're getting brazen, wandering southward. Haven't seen them myself, but a friend of mine had an encounter once. Lost half his traveling crew. Had to bury them out there. It was terrible.\"",
+    "rules": [],
+    "rules_explanation": "There are currently several different aspects that make 5th level players particularly deadly against lower level monsters, and that's only a trend that continues as people's character levels increase"
+  },
+  {
+    "question": "Is the character that is on the edge about to fall from the ship able to catch the railing?",
+    "answer": "Make a dexterity check to try and catch yourself on the edge of the boat.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure."
+  },
+  {
+    "question": "How much does Trinket weigh?",
+    "answer": "Trinket's pushing about 800 pounds, probably.",
+    "rules": [],
+    "rules_explanation": "DM ruling"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "question": "Can the level 11 Level, Class, Race Half-Elf Ranger add to the perception check with Vex the elements of it and is this forest?",
+    "answer": "For the Perception check in the forest Vex, the level 11 Level, Class, Race Half-Elf Ranger does not have advantage. Keyleth and Vex can make the Nature Check.",
+    "rules": [
+      "Gameplay > Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules for ability checks state how ability checks function. The rules state the DM will call for the roll."
+  },
+  {
+    "question": "If the level 18 Level, Class, Race Human Fighter wants to try and use Missile Snare, with disadvantage? if it doesn't get the advantage?",
+    "answer": "Make a Perception check.",
+    "rules": [
+      "Gameplay > Combat > Actions in Combat > Reactions"
+    ],
+    "rules_explanation": "Missile Snare is not a standard part of the game system and therefore depends on the Dungeon Master’s discretion. The DM chose to require a Perception check before the use of this ability"
+  },
+  {
+    "question": "Can the level 11 Level, Class, Race Half-Elf Ranger use the spell that she never claimed?",
+    "answer": "As you guys begin to walk through the field, you begin to reveal some of the druidic secrets of animal communication to Vex, and over the course of the next hour of travel–",
+    "rules": [
+      "Spellcasting > Preparing and Casting Spells",
+      "Classes > Ranger > Spellcasting > Spells Known of 1st Level and Higher"
+    ],
+    "rules_explanation": "This rules say that you need to know a spell to cast it.  Spells Known of 1st Level and Higher says when you learn new spells as a Ranger."
+  },
+  {
+    "question": "What is the save DC to use Suggestion?",
+    "answer": "The Suggestion spell DC is 18.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability",
+      "Classes > Bard > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The spellcasting ability for bard spells is Charisma. The spell save DC equals 8 + the proficiency bonus + the Charisma modifier."
+  },
+  {
+    "question": "What is the DC?",
+    "answer": "You didn't use the hand cone, did I? So 18.",
+    "rules": [
+      "Classes > Bard > Spellcasting > Spellcasting Ability",
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The spellcasting ability for bard spells is Charisma. The spell save DC equals 8 + the proficiency bonus + the Charisma modifier."
+  },
+  {
+    "question": "Does the level 11 Level, Class, Race Half-Elf Ranger mean she can use it as a 1st-level spell?",
+    "answer": "Cantrips you have at all times.",
+    "rules": [
+      "Spellcasting > Cantrips"
+    ],
+    "rules_explanation": "Cantrips are spells that can be cast at will, without using a spell slot and without being prepared in advance"
+  },
+  {
+    "question": "What cantrips does she know?",
+    "answer": "Guidance, Druidcraft. I used Druidcraft before, for the wooden thing. Can I use Druidcraft to help this?",
+    "rules": [
+      "Spellcasting > Cantrips",
+      "Classes > Druid > Spellcasting > Cantrips"
+    ],
+    "rules_explanation": "The text lists what cantrips she has prepared, she also can have more according to table."
+  },
+  {
+    "question": "If the level 7 Level, Class, Race Bard decides she's going to fly down and grab his wrist and fly up what roll does she make?",
+    "answer": "I need you to make a grapple check. Go ahead and make an athletics.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "Rules for grappling state that you make a melee attack to initiate a grapple which translates to an athletics check in this example"
+  },
+  {
+    "question": "Is it safe to open the book? For me?",
+    "answer": "Yes, it's quite safe.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "Rules says that an amulet's power may be revealed if it is touched."
+  },
+  {
+    "question": "Given what has occurred in the game so far, what will result from telling the tree they took?",
+    "answer": "Okay. Do you want to try to open the book?",
+    "rules": [
+      "SRD does not contain information needed to determine result.",
+      "Dungeon Master decides."
+    ],
+    "rules_explanation": "The question does not pertain to specific rules but to the course of action the players will take, which is entirely up to the players and DM"
+  },
+  {
+    "question": "If she is asleep do I get advantage or something?",
+    "answer": "Make a sleight of hand check.",
+    "rules": [
+      "Skills"
+    ],
+    "rules_explanation": "Whether advantage applies to the situation is subject to the DM's determination. Only a skill check is required for this scenario."
+  },
+  {
+    "question": "What is the DC?",
+    "answer": "Well, I didn't use the hand cone, did I? So 18.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability",
+      "Classes > Bard > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The spellcasting ability for bard spells is Charisma. The spell save DC equals 8 + the proficiency bonus + the Charisma modifier."
+  }
+]

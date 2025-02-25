@@ -1,0 +1,489 @@
+[
+  {
+    "question": "What dice need to be rolled for a perception check by a party where Travis rolls a 3, Taliesin rolls a 15, Liam rolls a natural 1, Sam rolls a 16, and Brian rolls an 11?",
+    "answer": "Each player rolls 1d20 and adds their character's perception modifier to the result.",
+    "rules": [
+      "Ability Checks > Making an Ability Check"
+    ],
+    "rules_explanation": "The SRD describes the general process for making an ability check.  It does not specify that a character *must* use a skill, nor does it automatically assign proficiency to the skill. The DM must make that determination, based on the circumstances."
+  },
+  {
+    "question": "Can a character with a dexterity of 11 that must make a dexterity saving throw roll an 18?",
+    "answer": "Yes. A character with a Dexterity modifier of +0 can roll a d20 and add 0 to the result. The maximum modifier to any roll is the maximum roll on the die plus the modifier.",
+    "rules": [
+      "Ability Scores > Ability Scores and Modifiers",
+      "Saving Throws > Making a Saving Throw"
+    ],
+    "rules_explanation": "The rules only state that the character makes a d20 roll and adds the modifier. Nothing specifies that it must be lower than 20+modifier"
+  },
+  {
+    "question": "If a character class has Beacon of Hope as a domain spell, what hierarchy rules reference this information?",
+    "answer": "Divine Domain > Domain Spells.",
+    "rules": [
+      "Class Features > Divine Domain > Domain Spells"
+    ],
+    "rules_explanation": "If this is a Life Cleric, then Table listing Life domain spells will confirm that Beacon of Hope is provided at level 5."
+  },
+  {
+    "question": "If a player casts a spell, Beacon of Hope, that is a concentration spell and then gets hit by an attack, what saving throw do they need to make?",
+    "answer": "The spellcaster must make a Constitution saving throw to maintain concentration. The DC equals 10 or half the damage taken, whichever number is higher.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "This is the core Concentration rule as it relates to taking damage"
+  },
+  {
+    "question": "Does the 1st-level bard spell, Cure Wounds, require a saving throw?",
+    "answer": "No. Cure Wounds does not require the target to make a saving throw. The target regains a number of hit points equal to 1d8 + the spellcasting ability modifier.",
+    "rules": [
+      "Spell Lists > Bard Spells > 1st Level > Cure Wounds"
+    ],
+    "rules_explanation": "Description of the Cure Wounds spell does not include a Saving Throw."
+  },
+  {
+    "question": "What does the Magic Missile spell do?",
+    "answer": "Magic Missile creates three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.",
+    "rules": [
+      "Spell Lists > Bard Spells > 1st Level > Magic Missile",
+      "Spell Lists > Cleric Spells > 1st Level > Magic Missile",
+      "Spell Lists > Sorcerer Spells > 1st Level > Magic Missile",
+      "Spell Lists > Wizard Spells > 1st Level > Magic Missile"
+    ],
+    "rules_explanation": "All versions of this spell have the same core action"
+  },
+  {
+    "question": "A 1st level sorcerer cast Magic Missile, what saving throw should they use?",
+    "answer": "Spells of this type do not use Saving Throws.",
+    "rules": [
+      "Spell Lists > Bard Spells > 1st Level > Magic Missile",
+      "Spell Lists > Cleric Spells > 1st Level > Magic Missile",
+      "Spell Lists > Sorcerer Spells > 1st Level > Magic Missile",
+      "Spell Lists > Wizard Spells > 1st Level > Magic Missile"
+    ],
+    "rules_explanation": "There is no saving throw on the Magic Missile spell"
+  },
+  {
+    "question": "A 1st level sorcerer cast Magic Missile, what damage is dealt?",
+    "answer": "Each dart deals 1d4 + 1 force damage. All of the darts strike simultaneously and you can direct them to hit one creature or several.",
+    "rules": [
+      "Spell Lists > Bard Spells > 1st Level > Magic Missile",
+      "Spell Lists > Cleric Spells > 1st Level > Magic Missile",
+      "Spell Lists > Sorcerer Spells > 1st Level > Magic Missile",
+      "Spell Lists > Wizard Spells > 1st Level > Magic Missile"
+    ],
+    "rules_explanation": "Force damage, 1d4 + 1 for each of the three darts created by the spell."
+  },
+  {
+    "question": "If a 1st-level sorcerer casts Magic Missile using a 2nd-level spell slot, how much damage does each dart cause?",
+    "answer": "Each dart still causes 1d4 + 1 force damage, but the spell creates four darts instead of three.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Casting a Spell at a Higher Level",
+      "Spell Lists > Sorcerer Spells > 1st Level > Magic Missile"
+    ],
+    "rules_explanation": "The spell does extra darts, not extra damage dice. Spell level determines number of darts"
+  },
+  {
+    "question": "How does Ray Of Frost work?",
+    "answer": "A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.",
+    "rules": [
+      "Spell Lists > Sorcerer Spells > Cantrips (0 Level) > Ray of Frost",
+      "Spell Lists > Wizard Spells > Cantrips (0 Level) > Ray of Frost"
+    ],
+    "rules_explanation": "This is the full action and effects from the spell definition."
+  },
+  {
+    "question": "A 1st-level sorcerer casts Ray of Frost, what is the default damage die?",
+    "answer": "The target takes 1d8 cold damage.",
+    "rules": [
+      "Spell Lists > Sorcerer Spells > Cantrips (0 Level) > Ray of Frost",
+      "Spell Lists > Wizard Spells > Cantrips (0 Level) > Ray of Frost"
+    ],
+    "rules_explanation": "The base spell description determines this."
+  },
+  {
+    "question": "A 1st level character is casting sacred flame, what is the DC for that?",
+    "answer": "The saving throw DC is 8 + your proficiency bonus + your Wisdom modifier.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "Cantrip, but still same rule."
+  },
+  {
+    "question": "What dexterity saving throw should the target make against a Violet Fungus?",
+    "answer": "A violet fungus cannot make a saving throw",
+    "rules": [
+      "Monsters > Actions"
+    ],
+    "rules_explanation": "There is not dexterity save mentioned in their action effects"
+  },
+  {
+    "question": "What is an investigation check used for?",
+    "answer": "When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Intelligence Checks > Investigation"
+    ],
+    "rules_explanation": "This section describes the use of Intelligence(Investigation)."
+  },
+  {
+    "question": "Can you move another player's character?",
+    "answer": "Yes, so long as that player is amicable to it.",
+    "rules": [],
+    "rules_explanation": "This situation is a description of gameplay not rules in the SRD. This would likely need approval of the DM."
+  },
+  {
+    "question": "What modifier do you use to hit a creature with Inflict Wounds?",
+    "answer": "You make a melee spell attack, so you add your proficiency bonus and your Wisdom modifier.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability",
+      "Spell Lists > Cleric Spells > 1st Level > Inflict Wounds"
+    ],
+    "rules_explanation": "Inflict Wounds requires a melee spell attack."
+  },
+  {
+    "question": "How does Acid Splash cantrip work?",
+    "answer": "You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.",
+    "rules": [
+      "Spell Lists > Sorcerer Spells > Cantrips (0 Level) > Acid Splash",
+      "Spell Lists > Wizard Spells > Cantrips (0 Level) > Acid Splash"
+    ],
+    "rules_explanation": "Direct spell description."
+  },
+  {
+    "question": "A 1st level character is casting Acid Splash cantrip, how much damage is dealt?",
+    "answer": "The target takes 1d6 acid damage.",
+    "rules": [
+      "Spell Lists > Sorcerer Spells > Cantrips (0 Level) > Acid Splash",
+      "Spell Lists > Wizard Spells > Cantrips (0 Level) > Acid Splash"
+    ],
+    "rules_explanation": "Directly from spell description."
+  },
+  {
+    "question": "A character with a dexterity modifier of 0 has to make an acrobatics check to avoid jumping across a stairwell. What are the dice and modifiers if their rolls are 18 and 21?",
+    "answer": "The character uses the 21 value. Add a +0 Dexterity modifier to the roll.",
+    "rules": [
+      "Ability Scores > Ability Checks > Making an Ability Check"
+    ],
+    "rules_explanation": "From the SRD"
+  },
+  {
+    "question": "Can you use Pass Without Trace on group?",
+    "answer": "Yes, you choose each creature within 30 feet of you.",
+    "rules": [
+      "Spell Lists > Druid Spells > 2nd Level > Pass Without Trace",
+      "Spell Lists > Ranger Spells > 2nd Level > Pass Without Trace"
+    ],
+    "rules_explanation": "From the spell description."
+  },
+  {
+    "question": "Allison, a Horfleporf, casts Pass Without Trace. What is the stealth check modifier?",
+    "answer": "The modifier is +10.",
+    "rules": [
+      "Spell Lists > Druid Spells > 2nd Level > Pass Without Trace",
+      "Spell Lists > Ranger Spells > 2nd Level > Pass Without Trace"
+    ],
+    "rules_explanation": "From the spell description."
+  },
+  {
+    "question": "If a character has a stealth check modifier of +7, and rolls a natural 20 on a stealth check, what is the result of the stealth check?",
+    "answer": "The result is 27.",
+    "rules": [
+      "Ability Checks > Making an Ability Check"
+    ],
+    "rules_explanation": "You add the modifier to the roll."
+  },
+  {
+    "question": "What does the spell Inflict Wounds do at level 1?",
+    "answer": "Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 1st Level > Inflict Wounds"
+    ],
+    "rules_explanation": "This is the full spell effect at level 1 as stated in the SRD."
+  },
+  {
+    "question": "What is the rule for regaining hit points and hit dice after a short rest?",
+    "answer": "A character can spend one or more Hit Dice at the end of a short rest, up to the character's maximum number of Hit Dice, which is equal to the character's level. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier to it. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll. A character regains some spent Hit Dice upon finishing a long rest.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The SRD fully describes this mechanism."
+  },
+  {
+    "question": "How does the Sacred Flame cantrip work?",
+    "answer": "A flame-like radiance descends on a creature you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.",
+    "rules": [
+      "Spell Lists > Cleric Spells > Cantrips (0 Level) > Sacred Flame"
+    ],
+    "rules_explanation": "The description in the SRD contains all details to use this spell"
+  },
+  {
+    "question": "Is it Sacred Flame a ranged spell?",
+    "answer": "Yes, the spell is cast on a creature you can see within range, so it is a ranged effect.",
+    "rules": [
+      "Spell Lists > Cleric Spells > Cantrips (0 Level) > Sacred Flame"
+    ],
+    "rules_explanation": "From the full spell description"
+  },
+  {
+    "question": "What does the Acid Splash cantrip do?",
+    "answer": "You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.",
+    "rules": [
+      "Spell Lists > Sorcerer Spells > Cantrips (0 Level) > Acid Splash",
+      "Spell Lists > Wizard Spells > Cantrips (0 Level) > Acid Splash"
+    ],
+    "rules_explanation": "The text describes the cantrip effect."
+  },
+  {
+    "question": "Does being prone apply any kind of adjustment to a saving throw?",
+    "answer": "No, there is no explicit adjustment. However, attack rolls against the creature have advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "See the SRD"
+  },
+  {
+    "question": "How do you maintain concentration on spells?",
+    "answer": "Normal activity, such as moving and attacking, doesn't interfere with concentration. The following factors can break concentration:\n\n- Casting another spell that requires concentration. You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.\n- Taking damage. Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.\n- Being incapacitated or killed. You lose concentration on a spell if you are incapacitated or if you die.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The section on Concentration contains the circumstances where concentration is broken."
+  },
+  {
+    "question": "What does the grease spell do?",
+    "answer": "Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration. When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall prone.",
+    "rules": [
+      "Spell Lists > Druid Spells > 1st Level > Grease",
+      "Spell Lists > Ranger Spells > 1st Level > Grease",
+      "Spell Lists > Sorcerer Spells > 1st Level > Grease",
+      "Spell Lists > Wizard Spells > 1st Level > Grease"
+    ],
+    "rules_explanation": "Spell description."
+  },
+  {
+    "question": "How does Thunderwave work?",
+    "answer": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
+    "rules": [
+      "Spell Lists > Bard Spells > 1st Level > Thunderwave",
+      "Spell Lists > Druid Spells > 1st Level > Thunderwave",
+      "Spell Lists > Sorcerer Spells > 1st Level > Thunderwave",
+      "Spell Lists > Wizard Spells > 1st Level > Thunderwave"
+    ],
+    "rules_explanation": "From the spell description in the SRD."
+  },
+  {
+    "question": "How do you determine a characters level?",
+    "answer": "Your levels in all your classes are added together to determine your character level.",
+    "rules": [
+      "Beyond 1st Level > Multiclassing"
+    ],
+    "rules_explanation": "Your levels in all your classes are added together to determine your character level. For example, if you have three levels in wizard and two in fighter, you're a 5th-level character."
+  },
+  {
+    "question": "How does the Catapult spell work?",
+    "answer": "This information is not described in the SRD.",
+    "rules": [],
+    "rules_explanation": "Catapult spell is not on the SRD spell list."
+  },
+  {
+    "question": "If a wizard's check to control a Sphere of Annihilation is 16, what is the modifier if he is holding the Talisman of the Sphere and has a proficiency bonus of 5?",
+    "answer": "The modifier is +10.",
+    "rules": [
+      "Magic Items > Talisman of the Sphere"
+    ],
+    "rules_explanation": "Double the proficiency bonus, which adds +5."
+  },
+  {
+    "question": "If a Wizard casts a spell, and a creature attempts to Counterspell, what modifiers are applied?",
+    "answer": "If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level.",
+    "rules": [
+      "Spell Lists > Wizard Spells > 3rd Level > Counterspell"
+    ],
+    "rules_explanation": "The spell provides the rules. For the roll you use your spellcasting ability."
+  },
+  {
+    "question": "How do you use Sorcery Points to recover spell slots?",
+    "answer": "You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th. Any spell slot you create with this feature vanishes when you finish a long rest.",
+    "rules": [
+      "Sorcerer > Class Features > Font of Magic > Flexible Casting > Creating Spell Slots"
+    ],
+    "rules_explanation": "The rules reference the table for the conversion rate."
+  },
+  {
+    "question": "How do you use Channel Divinity to Turn Undead?",
+    "answer": "As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.",
+    "rules": [
+      "Cleric > Class Features > Channel Divinity > Channel Divinity: Turn Undead",
+      "Paladin > Class Features > Sacred Oath > Channel Divinity > Turn the Unholy"
+    ],
+    "rules_explanation": "This description explains the actions required and effects of using this power"
+  },
+  {
+    "question": "How do you calculate the Difficulty Class for a Bard spell?",
+    "answer": "Spell save DC = 8 + your proficiency bonus + your Charisma modifier",
+    "rules": [
+      "Bard > Class Features > Spellcasting > Spellcasting Ability",
+      "Cleric > Class Features > Spellcasting > Spellcasting Ability",
+      "Druid > Class Features > Spellcasting > Spellcasting Ability",
+      "Sorcerer > Class Features > Spellcasting > Spellcasting Ability",
+      "Warlock > Class Features > Pact Magic > Spellcasting Ability",
+      "Wizard > Class Features > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The rule is identical for all spell casting classes, and referenced here."
+  },
+  {
+    "question": "If a spell with both a material component and a somatic component is cast by someone without a free hand, can they cast the spell?",
+    "answer": "Yes, a spellcaster must have a hand free to access a spell's material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components > Material"
+    ],
+    "rules_explanation": "The rule clarifies the use of a free hand"
+  },
+  {
+    "question": "What skills is a Ranger proficient in?",
+    "answer": "Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival",
+    "rules": [
+      "Ranger > Class Features > Proficiencies > Skills"
+    ],
+    "rules_explanation": "Direct text from SRD"
+  },
+  {
+    "question": "Can you move after using action surge to take another action?",
+    "answer": "Yes, you can break up your movement on your turn, using some of your speed before and after your action.",
+    "rules": [
+      "Combat > Your Turn > Movement and Position > Breaking Up Your Move"
+    ],
+    "rules_explanation": "From the SRD"
+  },
+  {
+    "question": "What's the range on Thunderwave?",
+    "answer": "The range is Self (15-foot cube).",
+    "rules": [
+      "Spell Lists > Bard Spells > 1st Level > Thunderwave",
+      "Spell Lists > Druid Spells > 1st Level > Thunderwave",
+      "Spell Lists > Sorcerer Spells > 1st Level > Thunderwave",
+      "Spell Lists > Wizard Spells > 1st Level > Thunderwave"
+    ],
+    "rules_explanation": "As described by the various SRD spell lists."
+  },
+  {
+    "question": "What does a DM do?",
+    "answer": "I don't judge, I'm a DM. I don't judge.",
+    "rules": [],
+    "rules_explanation": "This statement is an out of character joke. There is nothing in the SRD describing this statement"
+  },
+  {
+    "question": "What is the duration of Beacon of Hope and what level spell slot should be cast?",
+    "answer": "The duration of Beacon of Hope is concentration, up to 1 minute. It is a 3rd-level spell so it should be cast using a 3rd level spell slot or higher.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 3rd Level > Beacon of Hope"
+    ],
+    "rules_explanation": "As defined by the spell description"
+  },
+  {
+    "question": "What actions can you take to stop a creature from hitting itself?",
+    "answer": "I cast Mage Hand and stop her from hitting herself.",
+    "rules": [],
+    "rules_explanation": "This statement is a proposed action, not a description of the spell."
+  },
+  {
+    "question": "How does the Prayer of Healing spell work?",
+    "answer": "Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 2nd Level > Prayer of Healing"
+    ],
+    "rules_explanation": "See Spell in SRD"
+  },
+  {
+    "question": "What is the casting time of Prayer of Healing?",
+    "answer": "The casting time is 10 minutes.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 2nd Level > Prayer of Healing"
+    ],
+    "rules_explanation": "See Spell in SRD"
+  },
+  {
+    "question": "A cleric with Beacon of Hope cast can restore 2d8 plus the cleric spell casting bonus, can the dice rolls be at maximum?",
+    "answer": "No. The spell Beacon of Hope provides an additional bonus to advantage on wisdom saves, and maximum healing when hit dice are spent at the end of a short rest, or when the cleric casts Prayer of Healing. The Beacon of Hope spell does not have a direct interaction with rolling hit dice from other spells such as cure wounds.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 3rd Level > Beacon of Hope",
+      "Spell Lists > Cleric Spells > 2nd Level > Prayer of Healing",
+      "Cleric > Class Features > Divine Domain > Life Domain > Divine Strike"
+    ],
+    "rules_explanation": "The Beacon of Hope only provides advantage on wisdom saves and death saving throws and max hit points when healing through hit dice or the listed spell."
+  },
+  {
+    "question": "What are the ability score minimums for the wizard?",
+    "answer": "The minimum Intelligence score is 13.",
+    "rules": [
+      "Beyond 1st Level > Multiclassing > Prerequisites"
+    ],
+    "rules_explanation": "You must have the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. The Multiclassing Prerequisites table notes the ability score minimum for each class, but makes no mention of other prerequisites."
+  },
+  {
+    "question": "What is the range of Sacred Flame?",
+    "answer": "The range is 60 feet.",
+    "rules": [
+      "Spell Lists > Cleric Spells > Cantrips (0 Level) > Sacred Flame"
+    ],
+    "rules_explanation": "from the cantrip description"
+  },
+  {
+    "question": "How does Beacon of Hope work?",
+    "answer": "Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 3rd Level > Beacon of Hope"
+    ],
+    "rules_explanation": "from the SRD"
+  },
+  {
+    "question": "What does the Shillelagh cantrip do?",
+    "answer": "The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon.",
+    "rules": [
+      "Spell Lists > Druid Spells > Cantrips (0 Level) > Shillelagh"
+    ],
+    "rules_explanation": "The action and rules of Shillelagh."
+  },
+  {
+    "question": "What is a bonus action?",
+    "answer": "Various class features, spells, and other abilities let you take an additional action on your turn called a bonus action. You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take. You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The general bonus action rules in the SRD."
+  },
+  {
+    "question": "Does beacon of hope provide any bonus to Armor Class?",
+    "answer": "No. The spell only provides advantage on wisdom saves and death saves, and maximum healing when hit dice are spent at the end of a short rest or when the cleric casts Prayer of Healing.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 3rd Level > Beacon of Hope"
+    ],
+    "rules_explanation": "There is no bonus to Armor Class on the spell. Only the Wisdom Save and Death Save are impacted."
+  },
+  {
+    "question": "What does the Mage Armor spell do?",
+    "answer": "You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.",
+    "rules": [
+      "Spell Lists > Sorcerer Spells > 1st Level > Mage Armor",
+      "Spell Lists > Wizard Spells > 1st Level > Mage Armor"
+    ],
+    "rules_explanation": "From the SRD."
+  },
+  {
+    "question": "If a character has a Dexterity modifier of zero, what does mage armor do?",
+    "answer": "The target's base AC becomes 13.",
+    "rules": [
+      "Spell Lists > Sorcerer Spells > 1st Level > Mage Armor",
+      "Spell Lists > Wizard Spells > 1st Level > Mage Armor"
+    ],
+    "rules_explanation": "The target's base AC becomes 13 + its Dexterity modifier, and the Dexterity modifier is zero."
+  },
+  {
+    "question": "What are the actions of the monster swarm of spiders?",
+    "answer": "The monster swarm of spiders has the following action, Bites. Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.",
+    "rules": [
+      "Monsters > Swarm of Poisonous Snakes > Actions",
+      "Monsters > Spiders > Actions"
+    ],
+    "rules_explanation": "These monsters in the list all deal that type of piercing damage with their bites."
+  }
+]

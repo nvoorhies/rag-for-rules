@@ -1,0 +1,27 @@
+[
+  {
+    "question": "If a level 4 druid, with the sage perk, rolls a 12 can they teach their pet to follow?",
+    "answer": "Based on the intensity of training, you gather you succeed in some things. In other, it is met with balking frustration because it may feel more like a master-servant relationship.",
+    "rules": [
+      "Section >  > Skill Checks",
+      "Part I >  > "
+    ],
+    "rules_explanation": "The DM judged the roll against the difficulty of teaching a pet to follow, considering the backstory, the skill checks of the character, and recent events to make the judgment that the action partially succeeds but leaves the pet frustrated."
+  },
+  {
+    "question": "When Keyleth begins casting a spell the DM says 'As a note, as you begin casting, you notice the guards all go for their weapons and ready themselves, uncertain of what's about to transpire.' And asks Keyleth make a religion check, what for?",
+    "answer": "The religion check is to ascertain the nature of the spell he's casting",
+    "rules": [
+      "Part I >  > Ability Checks"
+    ],
+    "rules_explanation": "The DM called for a Religion check for the player to identify the spell another character is casting."
+  },
+  {
+    "question": "Can *fly* on a character be affected by boots of haste to go faster?",
+    "answer": "The *fly* spell is not affected by the boots of haste. You are only at the speed that the arcane nature of the spell can take you.",
+    "rules": [
+      "Part II > Movement > Speed"
+    ],
+    "rules_explanation": "Explains that external magical effects that boost speed only affect your base speed, not magical flight speed."
+  }
+]

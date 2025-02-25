@@ -1,0 +1,175 @@
+[
+  {
+    "question": "Does the short rest spent eating cookies and discussing restore the level 4 Level 4 wizard's abilities?",
+    "answer": "Yes.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "A short rest restores some class features, but not all."
+  },
+  {
+    "question": "Does the level 4 Level 4 wizard recover Hit Dice during the short rest?",
+    "answer": "Yes.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "A creature can expend Hit Dice at the end of a Short Rest to recover hit points"
+  },
+  {
+    "question": "Can a Level 1 life cleric stack Guidance with Bardic Inspiration on a Dexterity check?",
+    "answer": "Yes.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Two different buffs can be applied to an ability check"
+  },
+  {
+    "question": "When making a Dexterity check for a Level 1 life cleric with a +5 adjustment with the Jack of All Trades feature, is the bonus from Jack of All Trades rounded up or down?",
+    "answer": "It is rounded down, and halved.",
+    "rules": [
+      "Bard > Class Features > Jack of All Trades",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Jack of All Trades feature allows a bonus to be added to the skill check that normally would not have the proficiency bonus. The bonus is equal to one-half the proficiency bonus, rounded down."
+  },
+  {
+    "question": "If a member of a level 1 party casts guidance on a character making a dexterity check, does that count as their contribution to the ritual, as it's stated that each person can only contribute once?",
+    "answer": "Guidance can continue to be cast on future steps if a character wants to contribute the entirety of their effort to guiding the rolls of others.",
+    "rules": [],
+    "rules_explanation": "Rules ruling by the GM is not present in SRD."
+  },
+  {
+    "question": "For the Level 14 shadow sorcerer's void puppet, does the wording mean that only the initial spell cast has disadvantage on it, or does it apply to all subsequent intimidation and persuasion checks?",
+    "answer": "The wording of the Void Puppet feature means that the advantage only applies to the initial charisma roll",
+    "rules": [],
+    "rules_explanation": "Rules ruling by the GM is not present in SRD"
+  },
+  {
+    "question": "When Orym and Fearne contribute their powers to the ritual, and both contributions require rolls, should they get advantage on the roll?",
+    "answer": "Yes, both characters' abilities count towards improving the roll so it is with advantage",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "Characters can work together to achieve a goal. In this instance, one character is providing flowers (Orym) and the other is doing something with plants (Fearne). They're working together."
+  },
+  {
+    "question": "Does the lvl 9 Zealot Barbarian's Rage drop immediately after the mark has been applied?",
+    "answer": "Yes, the rage ends, as nothing is holding it.",
+    "rules": [
+      "Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The rage ends if a turn ends and the Barbarian has not attacked a hostile creature or taken damage since the Barbarian's last turn."
+  },
+  {
+    "question": "If the Hex spell is applied to a creature, which ability check does it give them disadvantage on in this instance, since Delilah has her spirit tethered?",
+    "answer": "The spell will give her disadvantage on Wisdom ability checks.",
+    "rules": [],
+    "rules_explanation": "The most appropriate save would be the one most likely to stop the attempted possession, which would be Wisdom."
+  },
+  {
+    "question": "Is the Level 9 Wildfire Druid able to continue to grant guidance, even though someone else will contribute to the step in the ritual?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "Rules ruling by the GM is not present in SRD"
+  },
+  {
+    "question": "If a magic item has not been triggered yet, and one member is wearing it, who would be attacked if a group is walking together?",
+    "answer": "The person attuned to the necklace would be attacked because they are wearing it.",
+    "rules": [],
+    "rules_explanation": "Rules judgement by the GM is not present in SRD"
+  },
+  {
+    "question": "Can the level 9 wildfire druid use Aura of Life to give the recipient resistance to necrotic damage?",
+    "answer": "That will depend on the specifics of Aura of Life, which is not in the SRD.",
+    "rules": [],
+    "rules_explanation": "The SRD contains no Aura of Life spell. "
+  },
+  {
+    "question": "If the party uses a rare amulet off of a dead body that swallows a fifth-level spell and then releases all dead bodies in a 200-foot radius, who would they attack?",
+    "answer": "The bodies immediately are risen as skeletons and zombies and begin to attack the wearer.",
+    "rules": [],
+    "rules_explanation": "Assumed that the properties work without being attuned, and there's no reason to believe a ritual would be required for it."
+  },
+  {
+    "question": "If a new character is made, when can the party take a long rest?",
+    "answer": "They can take a long rest after a very long day and in the midst of the party's evening rest.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "They are in a safe place and there's no reason why they can't rest."
+  },
+  {
+    "question": "Is it possible for the attuned Demonshell Armor's armor scales to expand so that the attune can go to the bathroom?",
+    "answer": "That depends on the exact properties of the Demonshell Armor, which are not described in the SRD.",
+    "rules": [],
+    "rules_explanation": "Cannot tell as there's no rule that states that this can happen, and the properties of the armor are left to the game master."
+  },
+  {
+    "question": "Can a character attune to the Demonshell Armor during a long rest?",
+    "answer": "Yes.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "Attuning to an item requires a creature to spend a short rest focused on only that item"
+  },
+  {
+    "question": "Can a paladin change what spells they have prepared for the day during a long rest?",
+    "answer": "Yes.",
+    "rules": [
+      "Classes > Paladin > Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "You can change your list of prepared spells when you finish a long rest."
+  },
+  {
+    "question": "can the wildfire dryad use Identify, or will another party member do the identification?",
+    "answer": "The Wildfire Dryad has no access to identify and another party member must do the identification.",
+    "rules": [
+      "Classes > Druid > Spellcasting"
+    ],
+    "rules_explanation": "Dryads have no natural ability to cast Identify"
+  },
+  {
+    "question": "If the ruby amulet is found to have properties that cause skeletons to arise within 200 feet of anyone with it, would it have been triggered before now?",
+    "answer": "The amulet needs to be worn in order to be triggered, the spell does not need to be intentionally cast.",
+    "rules": [],
+    "rules_explanation": "DM ruling on a custom object."
+  },
+  {
+    "question": "When the illusory Essek takes on the form of Seth, would it be a waste of time to make an insight check on the illusory Essek?",
+    "answer": "That depends on if the illusion is perfect, which is up to the game master to interpret.",
+    "rules": [],
+    "rules_explanation": "The description of the Major Illusion and higher-level illusionary effects are a matter of interpretation by the Game Master."
+  },
+  {
+    "question": "If a character tries to get the DM to share insight on a character that is in disguise, can they use the same character?",
+    "answer": "Yes, although the DM can give appropriate penalties.",
+    "rules": [],
+    "rules_explanation": "No specific rule against it."
+  },
+  {
+    "question": "Can Essek use his action to transport the party to Vassalheim through a portal?",
+    "answer": "Yes, Essek can take you back to the encampment via teleportation magic.",
+    "rules": [],
+    "rules_explanation": "A teleportation spell can transport you to Vassalheim."
+  },
+  {
+    "question": "If Essek transports them back to the camp, what are the conditions?",
+    "answer": "Essek has to have previously visited the place that they teleport to.",
+    "rules": [
+      "Spells > Teleport"
+    ],
+    "rules_explanation": "Essek can't teleport them to a place unless they're familiar with the destination."
+  },
+  {
+    "question": "If characters have already made perception checks before a long rest to check on potential enemies, do they have to make checks again the next day?",
+    "answer": "This depends on the circumstances of the situation, the game master has the discretion to require new perception checks based on the situation.",
+    "rules": [],
+    "rules_explanation": "Game master determines when ability checks are necessary."
+  },
+  {
+    "question": "If Braius casts as the Armor of Asmodeus, how does he know who's a new ally and who's an old one?",
+    "answer": "This will depend on game master interpretation of spells.",
+    "rules": [],
+    "rules_explanation": "No definition on how spells interact to specify which are allies."
+  }
+]

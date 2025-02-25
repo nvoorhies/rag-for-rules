@@ -1,0 +1,131 @@
+[
+  {
+    "question": "A level 12 blood hunter's curses can be used once per long rest, or every turn?",
+    "answer": "You can, per a long rest, do a curse two times.",
+    "rules": [
+      "Classes > Blood Hunter > Features"
+    ],
+    "rules_explanation": "This is based on the design of the class. The number of uses of blood curses and related information is a function of blood hunter level as defined in the class definition."
+  },
+  {
+    "question": "Does a plus two longsword add +2 to hit, damage, or both?",
+    "answer": "A plus two longsword adds +2 to both hit and damage.",
+    "rules": [
+      "Magic Items > Weapon, +1, +2, or +3"
+    ],
+    "rules_explanation": "This is based on the definition of a weapon, +1, +2, or +3 in the magic items chapter. The bonus applies to both attack and damage rolls."
+  },
+  {
+    "question": "Can a level 7 druid in wild shape use druidic spells?",
+    "answer": "In werewolf form you can still do all your druidic spells.",
+    "rules": [
+      "Classes > Druid > Wild Shape"
+    ],
+    "rules_explanation": "A 7th level druid with the Wild Shape feature generally replaces game statistics with those of the beast but retains the benefit of any features from their class, race, or other source and can use them if the new form is physically capable of doing so."
+  },
+  {
+    "question": "How many times per long rest can a level 14 blood hunter use curses?",
+    "answer": "The Maledicts can be used two times.",
+    "rules": [
+      "Classes > Blood Hunter > Features"
+    ],
+    "rules_explanation": "This is based on the design of the class and specific skills. The number of uses is a function of blood hunter level as defined in the class definition."
+  },
+  {
+    "question": "Does the rite bonus from the level 5 blood hunter last until a short rest or a long rest?",
+    "answer": "The rite goes until we take a rest.",
+    "rules": [
+      "Classes > Blood Hunter > Features"
+    ],
+    "rules_explanation": "The Rite lasts until you take a short or long rest."
+  },
+  {
+    "question": "As a level 7 druid using the entangle spell, what saving throw does the target make?",
+    "answer": "It's strength.",
+    "rules": [
+      "Spell Descriptions > Entangle"
+    ],
+    "rules_explanation": "The entangle spell specifically states that the saving throw is a Strength save."
+  },
+  {
+    "question": "Can a level 7 druid with a spell DC of 15 use Haste and Entangle?",
+    "answer": "One spell per. Thank you. Then I can just take an action?",
+    "rules": [
+      "Spellcasting > Bonus Action"
+    ],
+    "rules_explanation": "You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action."
+  },
+  {
+    "question": "As a level 7 cleric, what is the spellcasting ability modifier used for healing word?",
+    "answer": "It's 1d4, and your...",
+    "rules": [
+      "Classes > Cleric > Spellcasting Ability",
+      "Spell Descriptions > Healing Word"
+    ],
+    "rules_explanation": "The healing word spell says to roll 1d4 + your spellcasting ability modifier."
+  },
+  {
+    "question": "What is the attack roll on a 6th level character for unarmed strike?",
+    "answer": "It's plus six.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This is based on standard calculation for the hit mod (Strength or Dex Modifier + Proficiency Bonus)"
+  },
+  {
+    "question": "What is the spell DC for sacred flame?",
+    "answer": "That's a saving throw, dexterity. Versus 15, please.",
+    "rules": [
+      "Spell Descriptions > Sacred Flame"
+    ],
+    "rules_explanation": "Spell DC is set at 8 + your proficiency bonus + your Wisdom modifier"
+  },
+  {
+    "question": "Can a blood hunter activate a crimson rite every turn?",
+    "answer": "I'm going to Crimson Rite my sword!",
+    "rules": [
+      " "
+    ],
+    "rules_explanation": "bloodhunter class description not found in SRD"
+  },
+  {
+    "question": "What do I add for my damage with a weapon attack? Do I add 6 to the damage?",
+    "answer": "Yes. It's a d6.",
+    "rules": [
+      " "
+    ],
+    "rules_explanation": "bloodhunter class description not found in SRD"
+  },
+  {
+    "question": "Can I make a polearm strike if a character comes into my range?",
+    "answer": "You get to attack when they enter my range.",
+    "rules": [
+      " "
+    ],
+    "rules_explanation": "Polearm Master feat description not found in SRD"
+  },
+  {
+    "question": "In D&D, is there a +2 longsword on d&D Beyond?",
+    "answer": "There's no plus two longsword in D&D Beyond.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This questions is outside the SRD - its a question about a particular application rather than the rules itself"
+  },
+  {
+    "question": "Do I add +2 to my hit or damage, or both on a +2 longsword?",
+    "answer": "Both.",
+    "rules": [
+      "Magic Items > Weapon, +1, +2, or +3"
+    ],
+    "rules_explanation": "A weapon +1, +2, or +3 gives a bonus on both attack and damage."
+  },
+  {
+    "question": "Can a blood hunter cast rites every turn?",
+    "answer": "You can make either your claw or your blade have that extra arcane energy to it, and then it lasts-- I forget how long.",
+    "rules": [
+      " "
+    ],
+    "rules_explanation": "bloodhunter class description not found in SRD"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Can the Persuasion check for the halfing gentlemen, Ulli, to allow the PC's to ride the skysails get assistance from another PC?",
+    "answer": "Yes, they can get assistance.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The rules state that two or more characters can team up to attempt a task with the character leading the effort making an ability check with advantage."
+  },
+  {
+    "question": "When the PC makes a strength check to pull back on the bar of a skysail, do they add their saving throw or just add the straight bonus?",
+    "answer": "Just a strength check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The character is simply trying to perform a task and not resisting any effect that would make them have to roll a saving throw."
+  },
+  {
+    "question": "If a PC uses the fly spell, what is their movement speed?",
+    "answer": "60 feet",
+    "rules": [],
+    "rules_explanation": "The transcript lists the speed as 60 ft, but we need an SRD pointer to justify the validity of that listing. However the SRD only lists it for various monsters."
+  },
+  {
+    "question": "Ashton wants to figure out how to make a still. What ability check do they make to see if they know how?",
+    "answer": "Alchemy adjacent is a straight Intelligence check; but if they were proficient in alchemy supplies, that would give them the proficiency bonus added to the roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM specifies that to be able to make a still would be alchemy adjacent so it would be a straight intelligence check. But, with alchemy supplies, the player's roll would get a proficiency bonus."
+  },
+  {
+    "question": "The PCs have the sending spell available. Can they use it to contact their friend?",
+    "answer": "No, long distance Sending still doesn't work.",
+    "rules": [],
+    "rules_explanation": "This is based on a pre-existing understanding between the players that the rules for Sending has been modified in the campaign, thus there is not SRD justification for the question"
+  },
+  {
+    "question": "What kind of check does the DM make Ashton make when they see the stones shift on the ground while having a panic attack?",
+    "answer": "No check is made.",
+    "rules": [],
+    "rules_explanation": "The DM narrates that this occurs but does not ask for an ability check"
+  }
+]

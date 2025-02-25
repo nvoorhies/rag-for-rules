@@ -1,0 +1,385 @@
+[
+  {
+    "question": "What kind of check is required for the Jester(level 5, Cleric, race is not specified, Blessed) when Laura asks if we should do this [taking skull from tomb]?",
+    "answer": "No check is required.",
+    "rules": [],
+    "rules_explanation": "No roll was called for in the description of this gameplay interaction."
+  },
+  {
+    "question": "What is the effect of a roll of a natural 20 on a sleight of hand check with disadvantage for the rogue (level 5, Rogue, race is not specified, invisible)?",
+    "answer": "The player rolls a d20 with disadvantage and adds all modifiers to the higher roll between a natural 20 and the second roll.",
+    "rules": [
+      "Combat > Making an Attack > Advantage and Disadvantage",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A sleight of hand check is a Dexterity ability check, and disadvantage would mean rolling twice and taking the lower result, unless there is a modifier that changes the outcome."
+  },
+  {
+    "question": "When is the Bless spell from the Cleric (level 5, Cleric, race is not specified, Blessed) on Beau (level 5, Monk, race is not specified) expended?",
+    "answer": "The bless spell has a duration of one minute. After one minute has passed, the spell has ended.",
+    "rules": [
+      "Spellcasting > Duration"
+    ],
+    "rules_explanation": "The Bless spell requires concentration up to one minute, so unless concentration is broken earlier, the spell lasts one minute."
+  },
+  {
+    "question": "As a sleight of hand check is made by Beauregard (level 5, Monk, race is not specified), does she get the Bless bonus?",
+    "answer": "No, she doesn't. The Bless spell has a duration of one minute and has ended by this point in the transcript.",
+    "rules": [
+      "Spellcasting > Duration"
+    ],
+    "rules_explanation": "The Bless spell requires concentration up to one minute, and the cleric had already cast the spell several minutes earlier."
+  },
+  {
+    "question": "What kind of check and DC are required for the perception check that Caduceus (level 5, Class not specified, race is not specified, Blessed) is requested to make?",
+    "answer": "Caduceus must make a Wisdom Perception check. There is no DC specified.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A perception check is a Wisdom ability check. No DC is specified in the question."
+  },
+  {
+    "question": "what saving throw and DC does Terminix cast by Fjord(level 5, Class not specified, race is not specified, Blessed) cause?",
+    "answer": "Hydrogen Bomb is not a valid spell. Terminix is not a spell, so causes no saving throw.",
+    "rules": [],
+    "rules_explanation": "Terminix and Hydrogen Bomb are not valid game rules for a D&D game."
+  },
+  {
+    "question": "When Yasha (level 5, Barbarian, race is not specified) performs an action against an opponent, what happens?",
+    "answer": "To determine what happens, it is required to roll dice to calculate damage, and apply her bonuses, proficiencies, and abilities to the roll, with no resistance or immunities from the target.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Combat > Damage and Healing > Damage Rolls"
+    ],
+    "rules_explanation": "Unless the target resists the attack, the attack is performed according to standard rules."
+  },
+  {
+    "question": "When the spider fires a gout of thread towards Caleb (level 5, Wizard, race is not specified) with an attack roll of 21, does it hit him?",
+    "answer": "Yes, the DM states it hits.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The rules state if the result of the attack is equal or higher than the target's AC then it hits."
+  },
+  {
+    "question": "If Beau (level 5, Monk, race is not specified, Blessed) grabs Caleb (level 5, Wizard, race is not specified) as a reaction as he is being pulled away, what check is needed to see if she is also pulled?",
+    "answer": "Beau and the monster will have a Strength check. She must make a Strength check for the contested roll.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "The monster will yank both of them up. Because she is trying to prevent this, it will be a check."
+  },
+  {
+    "question": "When Fjord (level 5, Class not specified, race is not specified, Blessed) takes the attack action and makes a melee attack, what attribute modifier is used?",
+    "answer": "The Strength modifier is used for a melee weapon attack.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Modifiers to the Roll > Ability Modifier"
+    ],
+    "rules_explanation": "Melee attacks use the character's Strength modifier, so if Fjord makes a melee attack it should use its Strength modifier."
+  },
+  {
+    "question": "When Fjord (level 5, Class not specified, race is not specified, Blessed) is hit by the spider, what damage does he take?",
+    "answer": "He takes 3 points of piercing damage and 5 points of poison damage.",
+    "rules": [],
+    "rules_explanation": "The DM states that the attack dealt 'three points of piercing damage. and five points of poison damage.'"
+  },
+  {
+    "question": "What happens to Caleb (level 5, Wizard, race is not specified) when he casts Polymorph?",
+    "answer": "The player chooses a new form that is a beast, and the game statistics are replaced by the statistics of the beast, but he retains his alignment and Intelligence, Wisdom, and Charisma scores.",
+    "rules": [
+      "Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "The Polymorph spell lets the wizard assume a beast form, changing most of their statistics to those of the new form."
+  },
+  {
+    "question": "If Nott (level 5, Rogue, race is not specified, invisible) moves deeper into the room, would she encounter more of those webs that got her before?",
+    "answer": "No rules apply.",
+    "rules": [],
+    "rules_explanation": "The DM can describe the game environment how they choose, but it is up to the players how they react."
+  },
+  {
+    "question": "When Nott (level 5, Rogue, race is not specified, invisible) attacks, do the dice get doubled?",
+    "answer": "Yes, the dice get doubled because it is a critical hit.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "A critical hit doubles all the dice rolled in the attack, and the DM confirms that Nott scored a critical hit."
+  },
+  {
+    "question": "As Caleb (level 5, Wizard, race is not specified) has been blessed, does that mean he can add a d4 to his attack roll?",
+    "answer": "Yes, if it is the circumstance for which the bless has been cast.",
+    "rules": [],
+    "rules_explanation": "Yes because the bless spell affects attack and saving throws"
+  },
+  {
+    "question": "How many spiders are in the room?",
+    "answer": "Right now, at a quick glance, there are about eight.",
+    "rules": [],
+    "rules_explanation": "The Dungeon master states they can see eight so therefore it can assumed they are within the parameters of sight (no blindness and no darkness)."
+  },
+  {
+    "question": "Is there a penalty to the perception of Fjord (level 5, Class not specified, race is not specified, Blessed) for looking when the chamber is dark?",
+    "answer": "Yes, his Darkvision is 60 feet but there is no light beyond that.",
+    "rules": [],
+    "rules_explanation": "The visual range for darkvision is 60 feet."
+  },
+  {
+    "question": "When Nott (level 5, Rogue, race is not specified) checks for traps, what kind of check is it?",
+    "answer": "It is an Intelligence (Investigation) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Intelligence"
+    ],
+    "rules_explanation": "When searching for traps, it is an Intelligence (Investigation) check."
+  },
+  {
+    "question": "What happens when Yasha (level 5, Barbarian, race is not specified) bumps into something?",
+    "answer": "Nothing in particular happens. The Dungeon Master makes a comment and then moves on.",
+    "rules": [],
+    "rules_explanation": "Bumping into something is something the Dungeon Master can narrate and describe. There does not have to be a challenge from that"
+  },
+  {
+    "question": "What check is required for Jester (level 5, Cleric, race is not specified) to see if the mist is poisonous?",
+    "answer": "It is a nature check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Intelligence"
+    ],
+    "rules_explanation": "As the mist seems to be a feature of the natural world, it is a nature check."
+  },
+  {
+    "question": "What check is needed for Liam when he is up in the air?",
+    "answer": "No check is specified.",
+    "rules": [],
+    "rules_explanation": "No check is requested at this point in the dialog."
+  },
+  {
+    "question": "What dice is Nott (level 5, Rogue, race is not specified, invisible) rolling in relation to detect traps?",
+    "answer": "There's no dice rolls associated with this action.",
+    "rules": [],
+    "rules_explanation": "Dice rolls occur when something unexpected or contested is to happen in the game. This interaction is not of this type."
+  },
+  {
+    "question": "When Nott (level 5, Rogue, race is not specified, invisible) tries to walk on the mist what kind of save is it?",
+    "answer": "It is a Dexterity saving throw.",
+    "rules": [
+      "Saving Throws"
+    ],
+    "rules_explanation": "She is stepping onto an unstable element and therefore must use the Dexterity based saving throw to maintain balance."
+  },
+  {
+    "question": "When the group has reached the bottom of the stairs and Beau (level 5, Monk, race is not specified, Blessed), throws a natural one, is it with disadvantage?",
+    "answer": "No disadvantage is mentioned by the Dungeon Master.",
+    "rules": [],
+    "rules_explanation": "The throw is made without disadvantage. Only after, is it realized it was without Gil."
+  },
+  {
+    "question": "As Caleb (level 5, Wizard, race is not specified) is polymorphed into a bat, does the globule of light from Driftglobe stay with him?",
+    "answer": "Yes, the Driftglobe is absorbed into his eagle form.",
+    "rules": [],
+    "rules_explanation": "The DM makes the statement to the rest of the party."
+  },
+  {
+    "question": "When The creature that's been stalking through the mist emerges, what does it do?",
+    "answer": "The creature that's been stalking through the mist emerges and attempts to strike Jester (level 5, Cleric, race is not specified) twice.",
+    "rules": [],
+    "rules_explanation": "At this moment, the action is to attack Jester."
+  },
+  {
+    "question": "Jester(level 5, Cleric, race is not specified) uses Bless but also takes a natural one, what does that mean?",
+    "answer": "There is no affect from Bless, the character would only roll 1d20, since the attack is disadvantaged.",
+    "rules": [
+      "Combat > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Although Bless does affect saving throws, an attack is just a die roll, but that attack is disadvantaged, so it is the lowest of the dice rolled that would be used, as it cannot be lower than a natural 1. Bless is also not an action, spell or situation that grants advantage."
+  },
+  {
+    "question": "While trying to run down the hallway, what happens to Caleb (level 5, Wizard, race is not specified) and is the roll disadvantaged?",
+    "answer": "It is not specified but it attacks again. No, it is not with disadvantage.",
+    "rules": [],
+    "rules_explanation": "It does not say with disadvantage and he just runs in the hall so it can be assumed it is a normal attack and the player must use normal rules for an attack roll."
+  },
+  {
+    "question": "For Jester's illusion, how does the Dm determine which one to attack?",
+    "answer": "A d6 is rolled.",
+    "rules": [],
+    "rules_explanation": "A check is rolled to see who is targeted by a mob that is described in the dialogue."
+  },
+  {
+    "question": "Can Jester (level 5, Cleric, race is not specified), use her Spiritual Weapon to attack the mama spider.",
+    "answer": "Yes, she does. She casts Spiritual Weapon at level 4.",
+    "rules": [
+      "Part I"
+    ],
+    "rules_explanation": "The DM approves, so it will follow all rules as described in the player's manual."
+  },
+  {
+    "question": "With Step of the Wind, what is the condition that she is immune to?",
+    "answer": "She can disengage or dash.",
+    "rules": [
+      "Class Features > Monk > Ki"
+    ],
+    "rules_explanation": "By using her Ki, she can disengage and will not have to worry about opportunity attacks."
+  },
+  {
+    "question": "If not that and giant spider, what AC did that spider have?",
+    "answer": "The AC is 14.",
+    "rules": [],
+    "rules_explanation": "AC is 14 for a giant spider."
+  },
+  {
+    "question": "If the 5 ft. Spider had resistence to poison, would that be affected.",
+    "answer": "No, it would not. It's a different kind of poison, this one. Does it have resistance to poison or an immunity to poison?",
+    "rules": [],
+    "rules_explanation": "The poison is a different kind of poison."
+  },
+  {
+    "question": "With a roll of 14 and a d4, does Caleb hit the final final spider?",
+    "answer": "Unknown what the modifier is.",
+    "rules": [],
+    "rules_explanation": "It needs the additional damage."
+  },
+  {
+    "question": "If there's nothing else, what is about to happen?",
+    "answer": "The effect ends if it is touching a holy symbol.",
+    "rules": [],
+    "rules_explanation": "It touches, but it is not a creature of the correct type, so no test is needed."
+  },
+  {
+    "question": "Is insight check by Nott (level 5, Rogue, race is not specified, invisible) made with advantage?",
+    "answer": "There is nothing that gives Nott advantage on the check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Unless there is some ability or item that gives advantage, the roll is made as a single d20 plus the modifier."
+  },
+  {
+    "question": "With Nott (level 5, Rogue, race is not specified, invisible) having a ring of water walking, can she walk on mist?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "Ring of water walking only affects water."
+  },
+  {
+    "question": "To those with darkvision, how far can we see the stairs below, in the mist?",
+    "answer": "Ten feet down is as much as you can see.",
+    "rules": [],
+    "rules_explanation": "As the DM described, you can only see ten feet through the mist."
+  },
+  {
+    "question": "Does Yasha (level 5, Barbarian, race is not specified) get advantage on the dex save?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "It said she has advantage on dex against effect that you can see. but you have no idea what was coming so you do not."
+  },
+  {
+    "question": "Can someone with evasion use it all of the time?",
+    "answer": "The evasion ability is not usable on all saves.",
+    "rules": [
+      "Class Features > Rogue > Evasion"
+    ],
+    "rules_explanation": "It lets you nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell."
+  },
+  {
+    "question": "As Nott is being attacked again, can she use her Uncanny Dodge?",
+    "answer": "Yes, she can, and it will reduce the damage by half.",
+    "rules": [
+      "Class Features > Rogue > Uncanny Dodge"
+    ],
+    "rules_explanation": "She will use my. I will use my Uncanny Dodge on this attack reducing the damage"
+  },
+  {
+    "question": "How long does it take for a Prayer of Healing to happen?",
+    "answer": "It's a 10-minute heal.",
+    "rules": [
+      "Part I"
+    ],
+    "rules_explanation": "It takes ten minutes to preform the Prayer of Healing"
+  },
+  {
+    "question": "Is a protective item in place?",
+    "answer": "The rules do not specify protection while invisible, just that they are hard to see.",
+    "rules": [],
+    "rules_explanation": "No one is casting any particular defensive or protective spells or abilties"
+  },
+  {
+    "question": "With Caleb (level 5, Wizard, race is not specified) turning into an eagle, how much is the fly speed?",
+    "answer": "The fly speed for a giant eagle is 80.",
+    "rules": [],
+    "rules_explanation": "The fly speed of a giant eagle is 80 feet, the same as the one that had been used for one of them."
+  },
+  {
+    "question": "Which is a more valid action: a sentinel attack or the original attack?",
+    "answer": "That isn't a question with a valid D&D rule.",
+    "rules": [],
+    "rules_explanation": "Sentinel attack is possible to make with the feat."
+  },
+  {
+    "question": "As Jester is an Eagle, can you only target the front or does it go in all ways?",
+    "answer": "You have to choose where it goes",
+    "rules": [],
+    "rules_explanation": "A large circle is created and Jester had to decide."
+  },
+  {
+    "question": "What is the state of damage for all to use Action Surge?",
+    "answer": "No use of damage has been stated.",
+    "rules": [],
+    "rules_explanation": "It is used by a player so that they have a second action."
+  },
+  {
+    "question": "In this circumstance, what saving throw is specified for the situation?",
+    "answer": "Dexterity saving throw",
+    "rules": [],
+    "rules_explanation": "From description."
+  },
+  {
+    "question": "Are those attacks of opportunity made with disadvantage?",
+    "answer": "Yes, they are.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "They are at disadvantage because the person is invisible."
+  },
+  {
+    "question": "Is there a reason I put the Bless on the spider?",
+    "answer": "Yes. You did it because you wanted to test out some of the nooks and crannies.",
+    "rules": [],
+    "rules_explanation": "These are RP reasons."
+  },
+  {
+    "question": "What kind of save is that? I'll use evasion.",
+    "answer": "Make a Dexterity saving throw to avoid damage. However, because it is not an area effect, you can't use evasion.",
+    "rules": [
+      "Class Features > Rogue > Evasion"
+    ],
+    "rules_explanation": "Evasion is a Class Feature for rogues, where 'you can nimbly dodge out of the way of certain area effects'."
+  },
+  {
+    "question": "Technically, what do you have, Nott?",
+    "answer": "You have advantage on attacks, but you don't need it because you rolled so high.",
+    "rules": [
+      "Part II"
+    ],
+    "rules_explanation": "It's a roll of 27 so Advantage is not needed."
+  },
+  {
+    "question": "Does turning into a spider affect intelligence?",
+    "answer": "Yes. Stats and what not change to whatever the spider stats are.",
+    "rules": [
+      "Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "His character changes into a spider with that spider's stats."
+  },
+  {
+    "question": "Would polymorph cancel the bless?",
+    "answer": "Since the blessing is put back on, it must have been cancelled when polymorph was cast and re-applied.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Dexterity (Stealth) Skills",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "You are trying to sneak so stealth applies."
+  },
+  {
+    "question": "What happens if the eagle fails his saving throw?",
+    "answer": "The effect would have hit him, so the eagle form will get damaged.",
+    "rules": [],
+    "rules_explanation": "He needs to pass his saving throw."
+  }
+]

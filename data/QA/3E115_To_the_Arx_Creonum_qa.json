@@ -1,0 +1,31 @@
+[
+  {
+    "question": "The party cleric of at least 1st level casts Intellect Fortress, which gives resistance to psychic damage. Does Intellect Fortress require concentration?",
+    "answer": "Yes, Intellect Fortress requires concentration.",
+    "rules": [
+      "Spellcasting > Concentration",
+      "Section 8 Spells alphabetical > Intellect Fortress (spell not present in SRD, assuming it would follow general spellcasting rules about concentration)"
+    ],
+    "rules_explanation": "Spellcasting requires concentration unless it is explicitly stated otherwise. The description of Intellect Fortress would state if it was an exception to this rule."
+  },
+  {
+    "question": "Given the text 'She has these large pouches on the side and as they move, you can hear the clinking of some sort of a glass material' Does the character that the speaker is addressing know what is making the sound in the pouches?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "The question can be answered from the provided text as the speaker is not directly addressing any particular character, only narrating what the player characters are able to observe"
+  },
+  {
+    "question": "Can a character cast spells through an illusion?",
+    "answer": "Yes, if you're in a place with an opening, you can watch them. As long as they're in eye contact, you can cast spells through them.",
+    "rules": [],
+    "rules_explanation": "This ruling is not explicitly present in the SRD. The DM is making a judgement based on what seems reasonable"
+  },
+  {
+    "question": "Does the Seeming spell provide help with the deception check the party is about to make?",
+    "answer": "The Seeming spell means that you don't have disadvantage for a species of people that have not seen your normal height.",
+    "rules": [
+      "Section 8 Spells Alphabetical > Seeming (Spell not present in SRD, assuming it would follow general spellcasting rules about casting spells on a party of characters)"
+    ],
+    "rules_explanation": "The SRD document describes the condition 'Disadvantage', which means that an additional D20 is rolled. Here the spell eliminates disadvantage rather than directly granting advantage"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Is the party's performance check with adjustment equal to the target value required to be successful or higher?",
+    "answer": "The rules for ability checks state that if the total equals or exceeds the DC, the ability check is a success.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This section of the SRD describes how ability checks are calculated and judged, which is needed for a simple check to occur."
+  },
+  {
+    "question": "For [a level 1 rogue], if [the rogue] doesn't see the target, does he have sneak attack?",
+    "answer": "No. The rules for Sneak Attack state that you don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.",
+    "rules": [
+      "Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The SRD rules state that sneak attack requires advantage on the roll unless specific circumstances are met that negate this requirement."
+  },
+  {
+    "question": "Does [a level 1 barbarian] only hide or disengage?",
+    "answer": "As per the description of Your Turn in combat, on your turn, you can move a distance up to your speed and take one action. You decide whether to move first or take your action first. The most common actions you can take are described in the Actions in Combat section. Many class features and other abilities provide additional options for your action.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn",
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "These sections of the SRD state that a player has one action and one movement on their turn that may be combined as they wish. Hiding and disengaging are both options. Without knowing which class features the barbarian has at level 1, only these options are available."
+  },
+  {
+    "question": "Do the sleeping party get a saving throw until they get hit or the spell ends?",
+    "answer": "The description of the Sleep spell does not indicate that the sleeping creatures get subsequent saving throws. The spell ends for a sleeper if the sleeper takes damage or someone uses an action to shake or slap the sleeper awake.",
+    "rules": [],
+    "rules_explanation": "There is no saving throw until a specific event occurs, but no other description is provided for specific scenarios. The effect lasts as long as the conditions are valid."
+  },
+  {
+    "question": "Can [the level 1 rogue] only hide, disengage, or dash on [the rogue]'s turn?",
+    "answer": "As per the description of Your Turn in combat, on your turn, you can move a distance up to your speed and take one action. You decide whether to move first or take your action first. The Cunning Action feature allows a rogue to take a bonus action on each of their turns to take the Dash, Disengage, or Hide action.",
+    "rules": [
+      "Rogue > Cunning Action",
+      "Combat > The Order of Combat > Your Turn",
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "These sections of the SRD state that a player has one action and one movement on their turn that may be combined as they wish. Additionally, the Cunning Action Rogue ability states that these actions are additionally available as a bonus action."
+  },
+  {
+    "question": "Does Arby, [a level 1 barbarian], get to add anything to [her roll to jump 25 feet]?",
+    "answer": "A Strength (Athletics) check covers difficult situations you encounter while jumping. When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Using Each Ability > Strength > Strength Checks > Athletics"
+    ],
+    "rules_explanation": "These sections of the SRD describe how ability checks are used to determine skill results, and that jumping is determined using Athletics."
+  },
+  {
+    "question": "If advantage is given on a strike because the striker is unaware of [the level 1 barbarian]'s position, should another roll be made for the automatic crit on the target?",
+    "answer": "No. According to the SRD, when attacking an incapacitated creature within 5 feet, attack rolls have advantage, and any attack that hits is a critical hit. Since the incapacitated creature is within 5 feet, the automatic critical hit occurs.",
+    "rules": [],
+    "rules_explanation": "This is not described in the SRD."
+  },
+  {
+    "question": "Does [the level 1 trickster rogue] get a +21 to [his stealth roll]?",
+    "answer": "The rules state that your proficiency bonus can't be added to a single die roll or other number more than once. If two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.",
+    "rules": [
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "This section describes how proficiency bonus can be used to prevent combining skill benefits."
+  },
+  {
+    "question": "Can [a level 1 ranger] use Uncanny Dodge on the slashing but not the radiant damage?",
+    "answer": "No. Uncanny Dodge is used against the attack, not individual damage types. It is used to halve the damage from the attack.",
+    "rules": [],
+    "rules_explanation": "Uncanny Dodge description in SRD specifies it works againt the attack, not particular damage types."
+  },
+  {
+    "question": "Can [a level 1 monk] use uncanny dodge on the piercing but not the radiant damage?",
+    "answer": "Based on the description of the Deflect Missiles monk ability, as a reaction, you can reduce the damage you take from the attack by 1d10 + your Dexterity modifier + your monk level.",
+    "rules": [
+      "Monk > Class Features > Deflect Missiles"
+    ],
+    "rules_explanation": "The deflect missiles monk ability allows reducing damage."
+  },
+  {
+    "question": "Can [a level 1 monk], after catching the projectile, attack someone with the projectile?",
+    "answer": "Yes. The Deflect Missiles ability allows spending 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction.",
+    "rules": [
+      "Monk > Class Features > Deflect Missiles"
+    ],
+    "rules_explanation": "The Deflect Missiles monk ability allows making a ranged attack as part of the same reaction used to deflect."
+  },
+  {
+    "question": "Does it up my– if I'm from a hidden position, sneak attack?",
+    "answer": "Sneak Attack states you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. And if you are hidden and attack a creature, you have advantage on the attack roll.",
+    "rules": [
+      "Rogue > Sneak Attack",
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The combination of these two rules allows sneak attack to occur if a sneak attack is made from hiding."
+  },
+  {
+    "question": "As [a level 1 fighter] resist damage, does that mean resistance as a troll?",
+    "answer": "The ability that the level 1 barbarian used was troll's endurance. After using it to reduce the radiant damage, a constitution saving throw must be made.",
+    "rules": [],
+    "rules_explanation": "I couldn't find information on troll endurance or related ability in SRD document."
+  },
+  {
+    "question": "For the bonus action hit with Flurry of Blows, is [the hit] open-handed?",
+    "answer": "The Flurry of Blows ability states that immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.",
+    "rules": [
+      "Monk > Class Features > Ki > Flurry of Blows"
+    ],
+    "rules_explanation": "The Flurry of Blows ability requires an unarmed strike to activate, and the mechanics of that strike are not detailed except that it is unarmed."
+  },
+  {
+    "question": "Can I [hold an action to] see how fast [someone is] healing him versus how fast he's bleeding out from the wound?",
+    "answer": "Yes. The SRD does not specifically forbid you from holding your action until certain conditions are met.",
+    "rules": [],
+    "rules_explanation": "As long as the stated action meets the requirements to hold an action."
+  },
+  {
+    "question": "If I'm from a hidden position, can I try and resist the domination?",
+    "answer": "A creature can be dominated as long as they are within range for the ability.",
+    "rules": [],
+    "rules_explanation": "The target doesn't have any effect on being immune or resistance to effects"
+  },
+  {
+    "question": "Do [sleeping party] need ki to use [Deflect Missiles]?",
+    "answer": "Yes. Deflect Missiles states you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction.",
+    "rules": [
+      "Monk > Class Features > Ki > Deflect Missiles"
+    ],
+    "rules_explanation": "The Deflect Missiles monk ability requires a ki point to activate a part of the ability."
+  },
+  {
+    "question": "Can [the dragon] attempt to hide first to up the attack, if [the fleeing prey] is not aware of where you are?",
+    "answer": "The Hide action states you make a Dexterity (Stealth) check in an attempt to hide. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.",
+    "rules": [
+      "Combat > Actions in Combat > Hide",
+      "Using Ability Scores > Using Each Ability > Dexterity > Dexterity Checks > Stealth"
+    ],
+    "rules_explanation": "The SRD has a rules structure for hiding. As long as the fleeing prey does not see the hider and succeeds in stealth, they are hidden."
+  },
+  {
+    "question": "Can I [use a shove attack to try] to push him off of [another PC]?",
+    "answer": "You can use the Attack action to make a special melee attack to shove a creature, either to knock it prone or push it away from you. Instead of making an attack roll, you make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you.",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack > Melee Attacks > Shoving a Creature"
+    ],
+    "rules_explanation": "The Melee Attack section of the SRD states the precise mechanics of shoving a creature."
+  },
+  {
+    "question": "If [the Bright Lord] hits me, can I use [a character ability] to take that damage down by ten?",
+    "answer": "The description of the Troll's Endurance ability indicates that you can use that to reduce 10 damage. After reducing damage, a Constitution saving throw is still needed.",
+    "rules": [],
+    "rules_explanation": "I couldn't find information on troll endurance ability in SRD document. "
+  },
+  {
+    "question": "Does it up my– if I'm from a hidden position? attack rolls?",
+    "answer": "When you attack a target that you can't see, you have disadvantage on the attack roll. When a creature can't see you, you have advantage on attack rolls against it.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "These sections of the SRD specify the circumstances in which advantage and disadvantage apply to attack rolls based on visibility."
+  },
+  {
+    "question": "Does that one [from fury of the small] is supposed to be doubled too, right?",
+    "answer": "When you score a critical hit, you get to roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal.",
+    "rules": [
+      "Damage and Healing > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "The section of the SRD detailing critical hits explains that only dice are doubled, not modifiers."
+  },
+  {
+    "question": "We're stealthing?  Does it give disadvantage for [a character with] heavy armor on?",
+    "answer": "According to the Armor table, the armor has disadvantage on Dexterity (Stealth) checks.",
+    "rules": [
+      "Equipment > Armor > Armor Table"
+    ],
+    "rules_explanation": "Armor effects are described in the equipment section of the SRD."
+  },
+  {
+    "question": "So the roll plus dexterity?",
+    "answer": "A Stealth check is a Dexterity check. You can take the Hide action as a bonus action.",
+    "rules": [
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "The skill to use with the Hide action, Stealth, is derived from the Dexterity ability.  The Cunning Action class feature allows a character to use Stealth as a bonus action."
+  },
+  {
+    "question": "If [the Bright Lord] is going to use his last legendary action– seeing [PC] dart away, he's going to turn back towards [Arby]. He's going to go ahead and the blade goes away for a second and pulls his bow, Azkar, out and pulls back an arrow, releases it",
+    "answer": "The release of a bow takes an action.",
+    "rules": [
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "The described action is not permitted during the specified turn."
+  }
+]

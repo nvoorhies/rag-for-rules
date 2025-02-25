@@ -1,0 +1,19 @@
+[
+  {
+    "question": "What kind of check is required to determine if it is windy or not?",
+    "answer": "A Nature check is required.",
+    "rules": [
+      "Part I > *Nature Check*"
+    ],
+    "rules_explanation": "Matt asks the character to make a nature check in order to determine if it is windy in this area of Xhorhas."
+  },
+  {
+    "question": "How does Jester attempt to improve the beauty of the showing, and what kind of check does this require? Also, what is the result if the check is good enough?",
+    "answer": "Jester attempts to paint wildflowers on Yasha's wall and must make a Performance check with advantage. If successful, Yasha will think it is a beautiful act.",
+    "rules": [
+      "Part I >  *Performance Check*",
+      "Part I >  *Advantage*"
+    ],
+    "rules_explanation": "Matt declares that Jester will need to make a performance check with advantage to decide whether it is a beautiful act."
+  }
+]

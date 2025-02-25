@@ -1,0 +1,220 @@
+[
+  {
+    "question": "Level X Druid and NPC #1 is trying to identify a fungus. What adjustments does the NPC #1 apply on their Nature check?",
+    "answer": "The NPC #1 would not have any adjustments. The NPC is proficient with a tool, not a skill.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Equipment > Tools"
+    ],
+    "rules_explanation": "The rules describing ability checks outlines when proficiency bonuses are added to rolls using a specific skill. The character with proficiency adds it's proficiency bonus to the Nature check."
+  },
+  {
+    "question": "Level X Rogue crashes through a door. Does NPC #1 get a roll to do anything about the damage?",
+    "answer": "There is no information to grant NPC #1 a roll.",
+    "rules": [],
+    "rules_explanation": "There are no rules included that define the breaking of a door, and there are no details present that give NPC #1 any specific abilities."
+  },
+  {
+    "question": "Level X Druid will cast Enchance ability to grant the next PC #1 persuasion check advantage. What type of Enchance Ability should PC #1 cast to improve persuasion checks?",
+    "answer": "The enchantment spell cast should be Eagle's Splendor.",
+    "rules": [
+      "Spell Descriptions > Enhance Ability"
+    ],
+    "rules_explanation": "The spell description for Enhance Ability specifies which option can be used to give advantage to Charisma ability checks. For example, Eagle's Splendor. Charisma governs Persuasion and other social skills. "
+  },
+  {
+    "question": "Level X Druid can cast a spell that can transport her and 7 others to a specific destination through plants as long as all people get within six seconds and as long as there are plants. How are the people transported?",
+    "answer": "The players are transported with the Tree Stride spell.",
+    "rules": [
+      "Spell Descriptions > Tree Stride"
+    ],
+    "rules_explanation": "With tree stride, you can move from one tree to another so long as it’s within 500 feet and of the same kind"
+  },
+  {
+    "question": "Level X bard can roll bardic inspiration and adds what to the bardic inspiration roll to the persuasion check. How do you determine the number added to the inspiration roll?",
+    "answer": "The amount added to the inspiration roll comes from a die roll. The die you roll is found in the Bard table under the column 'Bardic Inspiration'.",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "The rule on Bardic Inspiration indicates what die is rolled, and that the number rolled is added to one ability check, attack roll, or saving throw. In this case, an ability check."
+  },
+  {
+    "question": "If Level X Barbarian has no spell slots but wants to increase his chances on a roll can he get the benefit of bardic inspiration?",
+    "answer": "Yes, bardic inspiration may be used.",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "The rules on Bardic Inspiration says that you can give another creature a Bardic Inspiration die. It does not say the creature needs to have spell slots."
+  },
+  {
+    "question": "A level X barbarian fails a Charisma saving throw and needs to act to improve the die roll. What spells can he utilize to add to the check to the roll?",
+    "answer": "A barbarian can utilize guidance to add to the check",
+    "rules": [
+      "Cleric > Spellcasting > Spell List"
+    ],
+    "rules_explanation": "A barbarian doesn't have any spells or abilities that can be utilized to improve the Charisma saving throw, but another character could cast 'Guidance' to aid the Barbarian in that check. "
+  },
+  {
+    "question": "What is the Dexterity saving throw DC of the spell Darkness when cast by the level X character with proficiency bonus X, and casting attribute X?",
+    "answer": "There is no saving throw associated with the Darkness spell.",
+    "rules": [
+      "Spell Descriptions > Darkness"
+    ],
+    "rules_explanation": "The darkness spell does not require any saving throws. "
+  },
+  {
+    "question": "Level X Wizard (Caleb) says \"Correct.\" What happens?",
+    "answer": "In this situation, the verbalization is roleplay flavor and there are no explicit mechanical consequences to the statement",
+    "rules": [],
+    "rules_explanation": "The statement has no impact on game play and therefore has no impact on the rules. "
+  },
+  {
+    "question": "PC #1 uses a skill that gives advantage, and rolls two D20s and ends up with a 3 and 20. What do they get as a result of this roll?",
+    "answer": "They would use the 20 roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules specify when you have advantage, you roll a second d20 when you make the roll. You use the higher of the two rolls."
+  },
+  {
+    "question": "If multiple previous checks are all modifying this final persuasion roll, but advantage is rolled and a 3 and natural 20 are the numbers, is the 3 or 20 used?",
+    "answer": "The 20 is used, advantage dictates the highest roll is used.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules for advantage state that when you have advantage you use the higher roll, if it exists."
+  },
+  {
+    "question": "For every point below 30 rolled on this saving throw to convince the gods, how many members of the pantheon will partake in the ritual?",
+    "answer": "For every point below 30, a member of the Pantheon does not join in the ritual.",
+    "rules": [],
+    "rules_explanation": "This is part of the specific rules that the DM sets for this saving throw. The answer is simply stated by the DM."
+  },
+  {
+    "question": "After the gods joined the battle, a player asks, 'did he go away or did he'?  What steps should the DM take to resolve this question?",
+    "answer": "The Lord of the Hells stepped back with the rest of the troop.",
+    "rules": [],
+    "rules_explanation": "The answer comes straight from the DMs decription of the situation."
+  },
+  {
+    "question": "PC #1 is at terminal velocity with a Dexterity Modifier X and tries to grab the falling Ashton and you're just trying to beat a 12. Does Advantage apply?",
+    "answer": "No, the player has no source of advantage on the check.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The GM did not provide anything to suggest that the player has advantage, so the player proceeds as normal without it."
+  },
+  {
+    "question": "Given the trajectory and pacing and the wind's picking him up, The player has no spells and limited sorcery points left and tries to create a shadow at the last minute to save Ashton. What type of check is required and what is the DC?",
+    "answer": "An athletics check is needed to try and grab Ashton, one giving the other advantage. Roll a d20 and add your spell modifier to see if you can manage in the last few moments before impact to cast Darkness, stumble into it, and immediately attempt to momentarily conjure a dark enough spot against the fading light on Ashton's plummeting body to crawl out of him.",
+    "rules": [
+      "Actions in Combat",
+      "Spell Descriptions > Darkness"
+    ],
+    "rules_explanation": "The question calls for a number of specific actions to happen at once, but to resolve it, the GM calls for an athletics check with a roll of d20 + spell modifier. In general, if your character or monster wants to do something, you can refer to that section for guidance."
+  },
+  {
+    "question": "Given a specific situation, if one PC is proficient in Athletics and a second PC is in the way and wants to grapple her, what kind of check is required of the second PC?",
+    "answer": "To grapple, a Strength (Athletics) check contested by the first PC's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
+    "rules": [
+      "Actions in Combat > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "A grapple uses an Athletics check for both the attacker and defender"
+  },
+  {
+    "question": "If the first caster casts Counterspell on the second Counterspell attempt. What happens?",
+    "answer": "Another creature can attempt to Counterspell it.",
+    "rules": [
+      "Spell Descriptions > Counterspell"
+    ],
+    "rules_explanation": "Another creature can use their reaction and a Counterspell to dispel the counterspell cast by the first caster."
+  },
+  {
+    "question": "Can Allura request Vox Machina to help at that point?",
+    "answer": "The rules do not permit Allura to issue commands to the PC actors.",
+    "rules": [],
+    "rules_explanation": "The game does not have mechanics for Allura to ask Vox Machina to take actions."
+  },
+  {
+    "question": "During the casting of Raise Dead does the expended Diamond get returned if the spell fails?",
+    "answer": "No, if the spell was cast, even if it fails, the diamond is consumed. The spell's ritual carries and completes.",
+    "rules": [
+      "Spell Descriptions > Raise Dead"
+    ],
+    "rules_explanation": "The spell for Raise Dead states 'you touch a dead creature using these components, which the spell consumes'"
+  },
+  {
+    "question": "If Caleb attempts to cast Raise Dead, what components will he need?",
+    "answer": "He will need a diamond worth at least 500 gp.",
+    "rules": [
+      "Spell Descriptions > Raise Dead"
+    ],
+    "rules_explanation": "The spell for Raise Dead lists the components needed."
+  },
+  {
+    "question": "A Wild Shape can't load, so can Vox Machina's Pike resurrect Ashton?",
+    "answer": "I'm almost positive I have Resurrection on Pike. There it is! No, I don't have any.",
+    "rules": [],
+    "rules_explanation": "Vox Machinas Pike is out because the player is having technical difficulties"
+  },
+  {
+    "question": "If the bright queen does not allow the beacon, can cerkonos cast the true resurrection spell. If so, how many diamonds will be needed?",
+    "answer": "No. The spell requires a component of diamonds with a worth of 25,000 gp.",
+    "rules": [
+      "Spell Descriptions > True Resurrection"
+    ],
+    "rules_explanation": "If you cast True Resurrection, I think you may be able to bring the Titan shard back"
+  },
+  {
+    "question": "if Vox Machina cast true resurrection, what would the components required to use it?",
+    "answer": "They would need material diamonds with 25,000 worth",
+    "rules": [
+      "Spell Descriptions > True Resurrection"
+    ],
+    "rules_explanation": "The rules for the true resurrection spell lists what items you need as its components"
+  },
+  {
+    "question": "Level 20 Druid casts transport via plants. What plants can be transported to?",
+    "answer": "Any Large or larger inanimate plant",
+    "rules": [
+      "Spell Descriptions > Transport via Plants"
+    ],
+    "rules_explanation": "The rules for the spell state that, 'you create a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence.'"
+  },
+  {
+    "question": "Level 20 Druid's polymorph is disrupted. What happens?",
+    "answer": "The Polymorph effect ends",
+    "rules": [
+      "Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "The Polymorph spell description states 'the transformation lasts for the duration, or until the target drops to 0 hit points or dies.'"
+  },
+  {
+    "question": "If a target makes a failed save against a Banishment spell, where are they sent?",
+    "answer": "If the target is native to the plane of existence you're on, you banish the target to a harmless demiplane.  If the target is native to a different plane of existence than the one you're on, the target is banished with a faint popping noise, returning to its home plane.",
+    "rules": [
+      "Spell Descriptions > Banishment"
+    ],
+    "rules_explanation": "The target's plane of origin determines the effect of the banishment spell. "
+  },
+  {
+    "question": "Can Jester Lavorre keep the populous distracted to manage the population",
+    "answer": "The rules provide no information about Jester Lavorre and crowd control.",
+    "rules": [],
+    "rules_explanation": "The question can't be answered by rules, since the effect of such a action is entirely up to the DM."
+  },
+  {
+    "question": "If a character is wearing The Robe of Useful Items, is everything on their person from the robe?",
+    "answer": "No. Things separate from the Robe are not from the robe.",
+    "rules": [],
+    "rules_explanation": "The robe of useful items only affect items created from it. 'You can also interact with one object or feature of the environment for free, during either your move or your action.'"
+  },
+  {
+    "question": "Level 10 Artificer finds an injured Level 20 Druid. The Druid asks the Artificer to save her from dropping from 30 feet. What spell would the Artificer need to cast?",
+    "answer": "There is no information about the artificer, and no spells for the artificer are known. However a wizard or a bard might cast feather fall.",
+    "rules": [
+      "Spell Description > Feather Fall"
+    ],
+    "rules_explanation": "Feather Fall is first level spell that works only for transmutation or conjuration. All players have the ability to cast cantrips. Spells include Acid Splash, Burning Hands, Chill Touch, and Bless. The spell does not take into account specific knowledge or abilities of a particular race."
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "question": "The description for Dimension Door states if you teleport to a space occupied by a creature, it would shunt you out and take 4d6 psychic damage. There are two small party members. They came up with a plan, and formed the two smallest possible members into a creature that is so large. Can I justify that there would be enough space where you wouldn't be occupying technically the same space as the creature and allow it for that circumstance and if you rolled a lower intelligence roll, you probably would have been pushed out the side?",
+    "answer": "As a Dungeon Master, you have to consider what makes sense versus what doesn't, how much do the mechanics written in the rules rule your game in the narrative, and how much you want to allow because the players have been creative or it's an interesting way that could make sense and you can justify.",
+    "rules": [
+      "Introduction > The Dungeon Master > Adjudicating the Rules",
+      "Section: Spellcasting"
+    ],
+    "rules_explanation": "Rules adjudication is the domain of the dungeon master. Some rules also allow for dungeon master adjudication of specific details that are not specified in the rules themselves."
+  },
+  {
+    "question": "If I were to attack an enemy three times in a row, the next two get no sneak attack. If I move to another target, do they get sneak attack or no in this instance?",
+    "answer": "You only get to sneak attack one time per round.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The Sneak Attack feature specifies \"Once per turn\" which implicitly means \"per round\" since turns are always within a round."
+  },
+  {
+    "question": "If I'm concentrating on a spell and take damage, what do I roll for the Constitution check?",
+    "answer": "Roll a d20 and add your constitution modifier. the DC equals 10 or half the damage you take, whichever is higher",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "When concentrating on a spell, and damage is taken, a constitution saving throw must be made to maintain concentration or the spell will fail."
+  },
+  {
+    "question": "If the attack was a headshot to give disadvantage on the target's next attack, will they have disadvantage on concentration checks?",
+    "answer": "No",
+    "rules": [],
+    "rules_explanation": "There are no general rules for 'headshot' mechanics, and no specific feat or condition that would grant 'disadvantage on concentration checks' directly."
+  },
+  {
+    "question": "I have Dimension Door, from a rules standpoint, says that if you are to teleport to a space occupied by a creature, it would shunt you out and take 4d6 psychic damage, I think. I agree with that. However, the players came up with a very interesting plan, formed two of the smallest possible members into a creature that is so large that I considered in that moment that there would be enough space where you wouldn't be occupying technically the same space as the creature. So I allowed it for that circumstance.",
+    "answer": "bending the rules is part of the Dungeon Master's job",
+    "rules": [
+      "Introduction > The Dungeon Master > Adjudicating the Rules"
+    ],
+    "rules_explanation": "Rules adjudication is the domain of the dungeon master. Some rules also allow for dungeon master adjudication of specific details that are not specified in the rules themselves."
+  },
+  {
+    "question": "If we're in dim light, does that mean there's disadvantage on perception checks?",
+    "answer": "He does not have darkvision. It's not darkness. He has disadvantage to perception checks because it's dim light.",
+    "rules": [
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "Creatures have disadvantage on Wisdom (Perception) checks that rely on sight when in an area of dim light."
+  },
+  {
+    "question": "It says, \"What's the saving throw on the guardian?\" Is the saving throw Dex?",
+    "answer": "Need you to roll a dexterity saving throw.",
+    "rules": [
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "The saving throw for the triggered effect is given in the spell description."
+  },
+  {
+    "question": "Can i stack my Lucky feat on top of advantage?",
+    "answer": "You already confirmed the attack.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Before you know the result of the dice, you must make a choice if you want to affect the dice. In this case, you already declared hitting with the attack so you could not use it. "
+  },
+  {
+    "question": "Rolling for concentration, do I always have to beat a 10?",
+    "answer": "Always have to beat a ten no matter what.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The DC for concentration checks is always 10 or higher, depending on damage taken. "
+  }
+]

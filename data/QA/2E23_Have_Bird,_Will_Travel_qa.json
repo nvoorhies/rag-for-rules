@@ -1,0 +1,301 @@
+[
+  {
+    "question": "Can the level 4 class and race character increase one ability score by 2, or can they increase two ability scores by 1?",
+    "answer": "The character can either increase one ability score of their choice by 2, or they can increase two ability scores of their choice by 1.",
+    "rules": [
+      "Beyond 1st Level > Ability Score Improvement"
+    ],
+    "rules_explanation": "The SRD description for gaining a level includes the ability score Improvement feature, which states 'you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1.'"
+  },
+  {
+    "question": "If the creature has the same proficiency as the character and the bonus in its stat block is higher than the character's, should the character use the creature's bonus instead of their own bonus for the relevant skill check?",
+    "answer": "Yes, if the creature has the same proficiency as the character and the bonus in its stat block is higher than the character's, the character should use the creature's bonus instead of their own bonus for the relevant skill check",
+    "rules": [
+      "Druid > Wild Shape"
+    ],
+    "rules_explanation": "When a Druid wild shapes the statistics of the new form replace the druids statistics 'you retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours.'"
+  },
+  {
+    "question": "If the character knows the signature action and the troll is within fighting distance can the character use the good sword?",
+    "answer": "The provided text does not contain information about 'signature actions', but a character holding an action can take the attack action if a trigger event takes place.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "The description of the 'Ready' action allows a character to take a readied attack action if a trigger is met, the type of action is not limited by equipment."
+  },
+  {
+    "question": "If the character has an item that lets them cast a spell, what determines the saving throw DC for that spell?",
+    "answer": "The saving throw DC for a spell cast from a magic item is determined by the item's description.",
+    "rules": [
+      "Spellcasting > Magic Items > Spells"
+    ],
+    "rules_explanation": "This sections states that \"If you don't have a spellcasting ability ... your spellcasting ability modifier is +0 for the item, and your proficiency bonus does apply.\" That is, it uses the items inherent stats in the calculation."
+  },
+  {
+    "question": "If a 1st level character has the Relentless Endurance trait can they use it when they are brought to zero hit points and how does it interact with unconsciousness and other ongoing status effects?",
+    "answer": "The half-orc's Relentless Endurance trait allows them to drop to 1 hit point instead of 0. The orc would remain subject to any other conditions, such as being poisoned",
+    "rules": [
+      "Races > Half-Orc > Relentless Endurance"
+    ],
+    "rules_explanation": "The racial description for the half-orc includes the 'Relentless Endurance' trait which states, 'When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.'"
+  },
+  {
+    "question": "If an effect requires concentration can it be active simultaneously with other spell effects that require concentration?",
+    "answer": "No. You can't concentrate on two spells at once.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The SRD specifies, 'You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.'"
+  },
+  {
+    "question": "Can a creature continue to take reactions after they have used their action to dash?",
+    "answer": "Yes. Taking the Dash action only affects the character's movement and does not impact their ability to take reactions.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The action to Dash affects only movement, and the ready action states that reactions happen outside the normal turn, so they are unaffected by the action to dash."
+  },
+  {
+    "question": "When the rules say you have advantage on all charisma checks does that extend to intimidation?",
+    "answer": "Advantage applies to a specific skill only if stated explicitly. Otherwise, the effect applies to the ability score.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The rule states 'Normally, your proficiency in a skill applies only to a specific kind of ability check' so advantage and disadvantage apply to skills when specifically stated or to the check overall if no skill is referenced."
+  },
+  {
+    "question": "If the troll rolls higher than a spell caster on the initiative roll, does the Slow spell effect it immediately?",
+    "answer": "No. The spellcaster can cast Slow on the Troll and thereby impair the Troll before it takes its turn.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The turn order is set by the initiative roll, but resolution of actions still happens in the order cast. A spell can be cast by the spell caster before the monster takes their turn."
+  },
+  {
+    "question": "What happens if a troll is affected by the Slow spell and then brought into melee range by another character?",
+    "answer": "A troll affected by the Slow spell has its speed halved and can only take either an action or a bonus action on its turn. The net effect is it will take a full turn to traverse a normal distance but is not prevented from doing so.",
+    "rules": [
+      "Classes > Wizard > Spell Descriptions > Slow"
+    ],
+    "rules_explanation": "As described in the spell, a slowed monster moves at half speed and is only able to take either an action or bonus action, and is not prevented from using movement, attacks, or other standard actions for its turn."
+  },
+  {
+    "question": "If a creature comes back from unconsciousness because of a healing effect, can they immediately take a reaction?",
+    "answer": "No. A creature can't take a reaction if it is incapacitated. A creature that is unconscious is also incapacitated.",
+    "rules": [
+      "Appendix PH-A: Conditions > Incapacitated"
+    ],
+    "rules_explanation": "The rules state that to take a reaction you must not be incapacitated. It also states that unconsciousness causes the incapacitated condition."
+  },
+  {
+    "question": "If a creature is affected by the Slow spell can it take a reaction?",
+    "answer": "No, a slowed target cannot take a reaction",
+    "rules": [
+      "Classes > Wizard > Spell Descriptions > Slow"
+    ],
+    "rules_explanation": "The rules for the Slow spells state that “an affected target … can’t use reactions.”"
+  },
+  {
+    "question": "Does a torch provide bright light in a 20-foot radius, dim light for an additional 20 feet?",
+    "answer": "Yes. The description for a torch states \"A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet.\"",
+    "rules": [
+      "Equipment > Adventuring Gear > Torch"
+    ],
+    "rules_explanation": "The SRD rules text for a torch state that it provides bright light in a 20 foot radius and dim light for an additional 20 feet."
+  },
+  {
+    "question": "Does a successful athletics check allow a character to leap across open swamp water?",
+    "answer": "The mechanics of jumping are determined by strength and speed, and no check is required in a long jump for clearing a chasm. The DM may determine the DC of an Athletics check for clearing a low obstacle.",
+    "rules": [
+      "Using Ability Scores > Movement > Special Types of Movement > Jumping"
+    ],
+    "rules_explanation": "The rules state 'At your GM's option, you must succeed on a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump’s distance), such as a hedge or low wall. Otherwise, you hit it.'"
+  },
+  {
+    "question": "What is the movement speed reduction for dragging a grappled creature?",
+    "answer": "Your speed is halved if you drag or carry a grappled creature with you.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "The rule says: 'When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.'"
+  },
+  {
+    "question": "If Jester tries to send a message to her mother what is the limit for the message in words?",
+    "answer": "The message is limited to 25 words.",
+    "rules": [
+      "Spellcasting > Range > Sending"
+    ],
+    "rules_explanation": "The SRD states that \"You send a short message of twenty-five words or less to a creature with which you are familiar.\""
+  },
+  {
+    "question": "Does the fact that the character is using what effect they have using a holy avenger against an undead effect it?",
+    "answer": "The holy avenger does not appear to provide a different effect against undead creatures.",
+    "rules": [
+      "Magic Items > Holy Avenger"
+    ],
+    "rules_explanation": "The holy avenger does not have special abilities, and there are no effects in the SRD that cause it to have a different effect against undead."
+  },
+  {
+    "question": "With the Witch Bolt spell, can Fjord use his action again, to continue to hit the target every time for a d12 automatically.",
+    "answer": "If Fjord maintains concentration, he can automatically deal d12 damage to the target with the Witch Bolt spell each turn.",
+    "rules": [
+      "Classes > Warlock > Spells > Witch Bolt"
+    ],
+    "rules_explanation": "The spell text for Witch Bolt states that, 'On each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. If you take an action to do anything else, the spell ends.'"
+  },
+  {
+    "question": "Does the Patient Defense feature of the monk provide any benefit against poison spray?",
+    "answer": "No, Patient Defense grants the Dodge action as a bonus action, which imposes disadvantage on attack rolls against the monk. The poison spray does not require an attack roll.",
+    "rules": [
+      "Classes > Monk > Class Features > Ki > Patient Defense",
+      "Combat > Making An Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The Patient Defense monk ability grants the Dodge action as a bonus action. The Dodge action imposes disadvantage on attack rolls against the monk. Poison spray requires a saving throw, not an attack roll."
+  },
+  {
+    "question": "Can someone hold their action until a surprise attack?",
+    "answer": "No. A surprise round gives you a single action to do something, not hold the action for later.",
+    "rules": [
+      "Combat > Surprise"
+    ],
+    "rules_explanation": "The Surprise description states that 'If you’re surprised, you can’t move or take an action on your first turn of the combat, and you can’t take a reaction until after that turn ends.'"
+  },
+  {
+    "question": "Do you have disadvantage on a ranged attack if the target is prone?",
+    "answer": "No, a ranged attack against a prone target does not automatically have disadvantage. Melee attacks against a prone target have advantage while ranged attacks against a prone target suffer disadvantage if the attacker is within 5 feet.",
+    "rules": [
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "The rules text for being prone says, 'An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.' This is not a universal disadvantage on ranged attacks."
+  },
+  {
+    "question": "What is the spell save DC for the Enthrall spell?",
+    "answer": "The SRD does not contain the spell Enthrall. However, it has a similar sounding spell called Enthrall, which can be used by Bards. The spell save DC for a bard's Enthrall spell is 8 + the bard's proficiency bonus + the bard's Charisma modifier",
+    "rules": [
+      "Classes > Bard > Spellcasting"
+    ],
+    "rules_explanation": "The section on spellcasting ability details how to calculate the save DC. Enthrall is a bard specific spell."
+  },
+  {
+    "question": "If you fail a saving throw while you are suffering from poison and are poisoned can you attempt the save again?",
+    "answer": "A poisoned creature has disadvantage on attack rolls and ability checks, not saving throws. The conditions and terms that apply to another effect, such as a spell, dictate when an additional saving throw can be attempted",
+    "rules": [
+      "Appendix PH-A: Conditions > Poisoned",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The poisoned condition causes disadvantage on attack rolls and ability checks, not saving throws. The ability to make another saving throw depends on the description of the effect."
+  },
+  {
+    "question": "As Caleb is casting the slow spell, and Fjord is restrained as the troll moves to attack him, should concentration checks be made?",
+    "answer": "Yes, while Caleb is casting Slow, he needs to make a concentration check after taking damage",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "Taking damage while concentrating on a spell requires the caster to make a concentration check or lose the spell."
+  },
+  {
+    "question": "Can the target of a slow spell use reactions?",
+    "answer": "A creature affected by the Slow spell can't use reactions.",
+    "rules": [
+      "Classes > Wizard > Spells > Slow"
+    ],
+    "rules_explanation": "The rules text for Slow states that, 'An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can't use reactions.'"
+  },
+  {
+    "question": "Is it possible to determine the source of a material component based on visual?",
+    "answer": "It is possible to have visual on the source of a material component to be able to tell what it is from.",
+    "rules": [
+      "Spellcasting > Components > Material (M)"
+    ],
+    "rules_explanation": "The source states '(M) Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a component pouch or a spellcasting focus (found in “Equipment”) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.'"
+  },
+  {
+    "question": "What is the effect of casting Charm Person on a creature that is hostile?",
+    "answer": "The Hostile condition does not alter the use of the charm person spell, which makes the targeted creature regard you as a friendly acquaintance unless the target succeeds on a Wisdom saving throw. It does call for the target to receive advantage on the saving throw.",
+    "rules": [
+      "Spellcasting > Spells > Charm Person"
+    ],
+    "rules_explanation": "A Wisdom saving throw is made to see if they are charmed and 'If it fails the saving throw, it is charmed by you until the spell ends... The charmed creature regards you as a friendly acquaintance.'"
+  },
+  {
+    "question": "Does the player's level or the spell's level determine what spells are stored in a Ring of Spell Storing?",
+    "answer": "The level of the original caster determines the level of the spells stored in a Ring of Spell Storing.",
+    "rules": [
+      "Magic Items > Ring of Spell Storing"
+    ],
+    "rules_explanation": "It is stated 'Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring.' The ring description does not refer to the wearer of the ring, but the caster who stores the spell."
+  },
+  {
+    "question": "Can a melee weapon attack trigger a holding an action attack?",
+    "answer": "If the contingency for the readied action is met, it will be triggered by the rules in the section on readying an action.  However, since there are no mechanics for attacks of opportunity in the ready action, there are not two attacks taking place.  The readied action replaces the initial attack of opportunity.",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "The rules text for readying an action states in part that '...you can act using your reaction before the start of your next turn.'  This ability can only occur when there is a trigger and only costs your reaction, and the rules for melee attacks have no relevance."
+  },
+  {
+    "question": "The Bard can touch up to three willing creatures to have a spell effect them. Can the spell pick a select portion of willing targets to be effected?",
+    "answer": "Yes, you can apply the spell effect to some or all of the willing targets, with a maximum of three targets.",
+    "rules": [
+      "Spellcasting > Targets",
+      "Classes > Bard > Spellcasting"
+    ],
+    "rules_explanation": "The rules state 'A typical spell requires you to pick one or more targets to be affected by the spell's magic' with no limitations on targets."
+  },
+  {
+    "question": "What is the effect of being in the area of the slow spell and how long does it last?",
+    "answer": "The spell states that each target must succeed on a Wisdom saving throw or be affected by this spell for the duration. An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can't use reactions. On its turn, it can use either an action or a bonus action, not both.",
+    "rules": [
+      "Classes > Wizard > Spell Descriptions > Slow"
+    ],
+    "rules_explanation": "The spell description lists the effects of being in the area of the slow spell in a 40-foot cube."
+  },
+  {
+    "question": "Does a creature that is still unconscious regain hit points with a Ring of Regeneration?",
+    "answer": "No, the Ring of Regeneration only functions if the wearer has 'at least 1 hit point.' An unconscious creature has 0 hit points",
+    "rules": [
+      "Magic Items > Ring of Regeneration"
+    ],
+    "rules_explanation": "A description states 'While wearing this ring, you regain 1d6 hit points every 10 minutes, provided that you have at least 1 hit point.'"
+  },
+  {
+    "question": "If you cast sending, do you have to cast Sending on your mama to hear it?",
+    "answer": "No, the target receives the message telepathically and can respond in the same way.",
+    "rules": [
+      "Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "The sending spell allows the target to respond telepathically when it receives the message: 'The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately.'"
+  },
+  {
+    "question": "How does expertise effect a roll that the character already has an advantage on and, if so, what is the amount of skill increase?",
+    "answer": "Expertise adds the characters proficiency bonus a second time, and does not alter the roll. Advantage allows you to roll a d20 a second time and take the higher value.",
+    "rules": [
+      "Beyond 1st Level > Multiclassing > Proficiencies"
+    ],
+    "rules_explanation": "The expertise feature adds a proficiency bonus to the total, and is distinct from the mechanic that determines what dice is rolled."
+  },
+  {
+    "question": "If a magic items description states its saves DC is 17 and the player's sheet shows it is 15, what should be used?",
+    "answer": "The description of the item should be used.",
+    "rules": [
+      "Spellcasting > Magic Items > Spells"
+    ],
+    "rules_explanation": "It is stated 'If you don't have a spellcasting ability … your spellcasting ability modifier is +0 for the item, and your proficiency bonus does apply.' That is, it uses the items inherent stats in the calculation."
+  },
+  {
+    "question": "What happens if the character casts Friends on an unwilling person?",
+    "answer": "The SRD does not contain the Friends spell. It has a similar sounding spell called Charm Person, which can be cast on any hostile creature.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "The section on spellcasting targets states that 'A typical spell requires you to pick one or more targets to be affected by the spell's magic.'"
+  },
+  {
+    "question": "If a Wizard has the Spell Mastery class feature, what does that allow them to do?",
+    "answer": "At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared.",
+    "rules": [
+      "Wizard > Class Features > Spell Mastery"
+    ],
+    "rules_explanation": "The spell mastery class feature describes what can be done with it."
+  }
+]

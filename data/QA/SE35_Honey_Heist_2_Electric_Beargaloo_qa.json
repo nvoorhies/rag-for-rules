@@ -1,0 +1,203 @@
+[
+  {
+    "question": "Can the level 1 grizzly bear move to find the treats? ",
+    "answer": "The GM requires the level 1 grizzly bear to make a die roll against a stat value to determine success.",
+    "rules": [
+      "Part I > DM Adjudication > The DM decides when and if a die roll is required"
+    ],
+    "rules_explanation": "The DM requests a die roll for bear after the grizzly indicates he wants to sniff out treats, since this isn't a guarantee. Since the stat isn't defined, I have classified the situation as DM adjudication as to when a die roll is needed."
+  },
+  {
+    "question": "What must the grizzly bear roll on a d6 to succeed on a bear stat check?",
+    "answer": "The level 1 grizzly bear must roll a 5 or lower on a d6 to succeed on a bear stat check.",
+    "rules": [
+      "Part I > DM Adjudication > The DM provides the range required for a successful roll"
+    ],
+    "rules_explanation": "DM has added a rule that Trinket needs to roll equal to or lower than their bear stat, which is 5."
+  },
+  {
+    "question": "If the level 1 grizzly bear fails a roll for bear, how should stats be changed?",
+    "answer": "If the level 1 grizzly bear fails a roll for bear, move one point from criminal into bear.",
+    "rules": [
+      "Part I > DM Adjudication >  The DM adjudicates the movement of stats from criminal to bear"
+    ],
+    "rules_explanation": "When the level 1 grizzly bear fails the roll for bear, the DM indicates he should move a point from criminal to bear."
+  },
+  {
+    "question": "When a level 1 grizzly bear is trying to figure out if he can trust bears, what stat is used?",
+    "answer": "The GM requires a roll for bear",
+    "rules": [
+      "Part I > DM Adjudication > The DM decides when and if a die roll is required"
+    ],
+    "rules_explanation": "The DM requests a roll for bear after the grizzly indicates he wants to get a sense of the bears' trustworthiness, since this isn't a guarantee. Since the stat isn't defined, I have classified the situation as DM adjudication as to when a die roll is needed."
+  },
+  {
+    "question": "When the Thief is stealing from his mother's wallet, what stat do you roll?",
+    "answer": "Roll for criminal",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates a roll for criminal is required"
+    ],
+    "rules_explanation": "The act of rifling through Mama Vex's wallet is associated with a criminal stat, and so that is the stat the DM requires."
+  },
+  {
+    "question": "When the Thief is picking the lock to his papa's armory, what stat do you roll?",
+    "answer": "Roll for criminal",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates a roll for criminal is required"
+    ],
+    "rules_explanation": "The Thief is using silverware to pick the lock. The act of picking the lock is associated with a criminal stat, and so that is the stat the DM requires."
+  },
+  {
+    "question": "If the characters want to backtrack to Whitestone to get more honey, can they move a stat to make themselves more criminal?",
+    "answer": "If you all choose to take a criminal planning sequence flashback, you can voluntarily move a point from bear to criminal",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates that moving a point from bear to criminal is voluntarily"
+    ],
+    "rules_explanation": "The DM adjudicates that the party has the option of moving a point from bear to criminal if they wish to have a flashback and move to be more criminal for planning purposes."
+  },
+  {
+    "question": "When the Thief tries to pick the lock of the hat shop what stat do you roll?",
+    "answer": "Roll for criminal",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates a roll for criminal is required"
+    ],
+    "rules_explanation": "The Thief is using oyster forks to pick the lock. The act of picking the lock is associated with a criminal stat, and so that is the stat the DM requires."
+  },
+  {
+    "question": "When the Brain is keeping watch while the Thief picks the lock of the hat shop what stat do you roll?",
+    "answer": "Roll for criminal",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates a roll for criminal is required"
+    ],
+    "rules_explanation": "The Brain is using his skills to keep watch while the Thief picks the lock, and the DM adjudicates that this requires a criminal roll."
+  },
+  {
+    "question": "When the Driver is trying to navigate the cart through a narrow alley what stat do you roll?",
+    "answer": "Roll twice, take the lower, for criminal",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates a roll for criminal is required"
+    ],
+    "rules_explanation": "The Driver is trying to navigate the cart and DM rules this is related to criminal behavior."
+  },
+  {
+    "question": "If you succeed in the plan when trying to steal a cart, how do the stats change?",
+    "answer": "When the plan goes off without a hitch, move one point from bear into criminal.",
+    "rules": [
+      "Part I > DM Adjudication > Succeed does not affect the stats.",
+      "Part I > DM Adjudication > Stats can be voluntarily moved."
+    ],
+    "rules_explanation": "The DM adjudicates that voluntarily move a point from bear to criminal"
+  },
+  {
+    "question": "If the team wants to eat honey to move a point from criminal to bear, can they?",
+    "answer": "If you are getting pretty high on criminal, you can move a point from criminal to bear by eating a shitload of honey.",
+    "rules": [
+      "Part I > DM Adjudication > The DM sets the conditions when stats can be voluntarily moved."
+    ],
+    "rules_explanation": "The DM determines the mechanism and conditions in which the voluntary stat change can occur, in this case, you need honey."
+  },
+  {
+    "question": "When the Muscle is breaking down the door to the hat shop, what stat is rolled?",
+    "answer": "Roll for bear with advantage",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates a roll for bear is required"
+    ],
+    "rules_explanation": "The Muscle is using his physical power to try and break the door down, so the DM sets the appropriate stat as bear."
+  },
+  {
+    "question": "The DM wants to know how good the group is at tracking down the site for wild honey, what stat do you roll?",
+    "answer": "Roll twice, take the lower for brains for criminal to track down this place.",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates a roll for criminal is required, with advantage"
+    ],
+    "rules_explanation": "The team is trying to use their knowledge of the area and criminal smarts to find some honey. DM has decided that the use of brains and a criminal approach is the correct stat."
+  },
+  {
+    "question": "The Brain destroys the kitchen to find silverware. What skill does the DM have him roll?",
+    "answer": "Roll for bear",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates a roll for bear is required"
+    ],
+    "rules_explanation": "The Brain has stated that he wanted to destroy the kitchen like a bear, and the DM agrees and requests a die roll for bear."
+  },
+  {
+    "question": "When the Thief is pocketing more bamboo than necessary what stat is rolled?",
+    "answer": "Roll for criminal",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates a roll for criminal is required"
+    ],
+    "rules_explanation": "The Thief is trying to steal something, so DM correctly calls for a die roll for criminal."
+  },
+  {
+    "question": "When the Driver is stealing a cart, what skill is rolled?",
+    "answer": "Roll twice because you're the driver. Take the lower",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates a roll for criminal is required, with advantage"
+    ],
+    "rules_explanation": "The Driver is using his skills to try and steal a cart, so DM says he gets to roll twice and take the lower. As defined earlier in the session that is his bonus for being the Driver."
+  },
+  {
+    "question": "On the way out from Vinnie's the Bartender asks a lady beartender to get himself an extra dose of honey. What is the stat to roll?",
+    "answer": "No die roll is made.",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates no roll is required."
+    ],
+    "rules_explanation": "The DM does not call for a die roll, and allows the Bartender's request because she is charmed by his flattery."
+  },
+  {
+    "question": "At Vinnie's, when the Thief is trying to pocket some bamboo what skill should be rolled?",
+    "answer": "Roll for criminal",
+    "rules": [
+      "Part I > DM Adjudication > The DM indicates a roll for criminal is required."
+    ],
+    "rules_explanation": "The Thief is trying to steal something, so DM correctly calls for a die roll for criminal."
+  },
+  {
+    "question": "When the party starts looking for the hidden door, what stat is rolled?",
+    "answer": "Roll for bear since you're sniffing and searching; you're tracking a little bit.",
+    "rules": [
+      "Part II > DM Adjudication > The DM indicates a roll for bear is required"
+    ],
+    "rules_explanation": "The DM adjudicates that because the party is in the woods and sniffing for honey, that a die roll for bear is most appropriate."
+  },
+  {
+    "question": "When the Thief and the Muscle are trying to sneak up on the ninja bear, what stat is rolled?",
+    "answer": "Roll with advantage because you are a thief and you're stealthing, I guess",
+    "rules": [
+      "Part II > DM Adjudication > The DM indicates a roll for criminal with advantage is required"
+    ],
+    "rules_explanation": "Because the Thief is a thief by trade, and stealth falls into that category, DM rules the Thief to roll with advantage. The Muscle is not a thief, so does not get advantage."
+  },
+  {
+    "question": "When at the Fort what happens when the Theif is being hauled on the Muscle's shoulders and squeezes out a fart?",
+    "answer": "With that, you get more frustrated as a bear",
+    "rules": [
+      "Part II > DM Adjudication > the Thief's action causes him to lose stats in criminal"
+    ],
+    "rules_explanation": "DM rules that passing gas causes the Thief to have more bear stats."
+  },
+  {
+    "question": "If at the Fort you're good at something like finding a hidden object, what stat does the DM require you to roll?",
+    "answer": "The DM's rule for skill checks for voluntarily doing something out of your skills does not apply in this circumstance.",
+    "rules": [
+      "Part II > DM Adjudication > DM adjudicates based on story elements that had happened previously in the game"
+    ],
+    "rules_explanation": "The group refers to a house rule from the previous campaign, but because of story reasons and the heat of the moment, it does not apply."
+  },
+  {
+    "question": "When the Thief is breaking the lock to Kody Yak's cell what skill should be rolled?",
+    "answer": "Roll for thief? Lock picking",
+    "rules": [
+      "Part II > DM Adjudication > The DM indicates a roll for criminal is required."
+    ],
+    "rules_explanation": "The Thief is using his skills to pick a lock, so the DM says to die roll for Thief/ Lock Picking."
+  },
+  {
+    "question": "What stat should be rolled to see if the Thief is able to detect any Bear Acuda infiltration of the wedding?",
+    "answer": "Roll for criminal",
+    "rules": [
+      "Part II > DM Adjudication > The DM indicates a roll for criminal is required."
+    ],
+    "rules_explanation": "The Thief is trying to use his skills to detect people who are infiltrating so DM correctly calls for a die roll for criminal."
+  }
+]

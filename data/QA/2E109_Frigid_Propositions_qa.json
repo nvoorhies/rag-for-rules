@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can multiple diamonds be used for a spell that takes diamonds worth 1,000 gold?",
+    "answer": "Yes, 1,000 gold worth of diamonds can be composed of multiple diamonds, unless it says specifically \"a diamond worth.\"",
+    "rules": [
+      "Spellcasting > Components > Material (M)"
+    ],
+    "rules_explanation": "The general rule for material components says a spell requires components as specified in the spell description. Since the description says \"a diamond worth--\" then you can use multiple diamonds."
+  },
+  {
+    "question": "Does the Ring of Fire Resistance require attunement?",
+    "answer": "Yes, the Ring of Fire Resistance requires attunement.",
+    "rules": [
+      "Magic Items > Attunement",
+      "Magic Items > Ring of Fire Resistance"
+    ],
+    "rules_explanation": "The item description must say the item requires attunement. An item will not have a general rule for whether it requires attunement and it must be stated within the item description."
+  },
+  {
+    "question": "A character failed a persuasion check. What is the effect of failing a persuasion check?",
+    "answer": "The NPC being persuaded will not agree to the PC's request.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The result of failing an ability check is up to the GM. In this case failing the persuasion check resulted in the target NPC not agreeing to the request."
+  }
+]

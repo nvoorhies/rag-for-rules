@@ -1,0 +1,382 @@
+[
+  {
+    "question": "Can 1st level Sorcerer learn the Darkness spell from the Infernal Legacy racial trait and use Sorcerer's points to cast it?",
+    "answer": "No. The Sorcerer can cast the *Darkness* spell once with this racial trait and regain the ability to do so when they finish a long rest.",
+    "rules": [
+      "Races > Tiefling Traits > Infernal Legacy",
+      "Classes > Sorcerer > Spellcasting"
+    ],
+    "rules_explanation": "The Tiefling racial trait *Infernal Legacy* grants the ability to cast *Darkness* once per long rest and does not involve the Sorcerer spellcasting mechanic or allow the use of sorcery points."
+  },
+  {
+    "question": "When the 3rd level Path of the Open Hand Barbarian with advantage on perception rolls puts his ear to a door, and rolls a natural 20 and a 15, what is the total?",
+    "answer": "The result is determined using the first die roll, which was a 20. The second die roll is not considered.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When a character has advantage, you roll two dice but use only the higher roll."
+  },
+  {
+    "question": "The Level 1 character is making a Strength check to open a stuck door that is pick-able, should that character roll a dexterity check as if they had a lock picking kit?",
+    "answer": "If a character is attempting to pick the lock, the character would roll a Dexterity check, not a Strength check, and a lock picking kit would be needed to apply their proficiency bonus.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Equipment > Tools"
+    ],
+    "rules_explanation": "Opening a door would call for a Strength check. To pick the lock, a check using thieves' tools would be needed."
+  },
+  {
+    "question": "Can a level 1 character with a 3 Charisma modifier attempt to open the metal, sliding door? If so, what skill check should be made?",
+    "answer": "It is not clear from the rules what ability check should be made to move a metal sliding door, this decision is up to the DM, since the type of check needed depends on the circumstances.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master has broad discretion to decide which ability best reflects the means by which a character is attempting a skill check. In this case, without more detail, we are unable to determine which skill should be applied to this check."
+  },
+  {
+    "question": "When a level 1 Hexblade casts Hex as a bonus action and Chill Touch as an action, can the caster make a ranged spell attack and trigger the effect of Hex?",
+    "answer": "Yes, the caster can make a ranged spell attack using Chill Touch as an action and add 1d6 necrotic damage to the total due to Hex.",
+    "rules": [
+      "Classes > Warlock > Pact Magic",
+      "Spellcasting > Casting Time",
+      "Spell Descriptions > Hex",
+      "Spell Descriptions > Chill Touch"
+    ],
+    "rules_explanation": "Hex requires a bonus action, and Chill Touch requires an action to cast. Once Hex is cast, any attack action on the hexed target that hits does extra damage (1d6 necrotic)."
+  },
+  {
+    "question": "When a druid wild shapes into a constrictor snake, what is the action and roll that allows the snake to bite?",
+    "answer": "After transforming, the druid can use the constrictor snake's bite action. It is a melee weapon attack that uses the statistics listed for bite.",
+    "rules": [
+      "Classes > Druid > Wild Shape"
+    ],
+    "rules_explanation": "The druid's game statistics are replaced by the statistics of the beast and the druid uses the beast's actions."
+  },
+  {
+    "question": "When taking the reckless attack action, is that advantage applied to the next roll, or each roll until your next turn?",
+    "answer": "Reckless Attack gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.",
+    "rules": [
+      "Classes > Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "The advantage only applies during your current turn.  The disadvantage applies to attack rolls against you until your next turn."
+  },
+  {
+    "question": "What is the wisdom saving throw DC to resist Dissonant Whispers?",
+    "answer": "Spell save DC = 8 + your proficiency bonus + your Charisma modifier",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "Spell save DC = 8 + your proficiency bonus + your Charisma modifier, since Imogen is the spellcaster."
+  },
+  {
+    "question": "If the target of a melee attack has resistance to piercing damage, and is blessed, do you have advantage in the damage roll?",
+    "answer": "Bless has no effect on the damage roll. Bless states that whenever a target makes an attack roll or a saving throw, the target can roll a d4 and add the number rolled to the attack roll or saving throw.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "Bless only affects attack rolls and saving throws, not damage rolls. It does not grant advantage."
+  },
+  {
+    "question": "If a 3rd level Oath of Devotion Paladin touches an ally and casts Sacred Weapon, what is the calculation for the attack roll bonus that is granted to that weapon?",
+    "answer": "The target's weapon gains a bonus to attack rolls equal to your Charisma modifier, with a minimum bonus of +1.",
+    "rules": [
+      "Classes > Paladin > Oath of Devotion > Channel Divinity"
+    ],
+    "rules_explanation": "The Sacred Weapon ability adds the paladin's Charisma modifier to the target weapon's attack rolls, but not damage. This has a minimum value of 1."
+  },
+  {
+    "question": "Which action, bonus action or action surge, is needed to pick up two people and start moving?",
+    "answer": "The action to pick up two people and move is not described. The GM has to determine if it can be done and what actions would be needed.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "There is no specific action to pick up an ally. Whether or not this can be done, and the actions required, is up to the GM to determine."
+  },
+  {
+    "question": "Which check is required to know that 'They're going at it in room 17 again.'?",
+    "answer": "This information could be discerned with a Wisdom (Perception) check.",
+    "rules": [
+      "Using Ability Scores > Wisdom > Wisdom Checks > Perception"
+    ],
+    "rules_explanation": "Since it involves hearing sounds from the room, it would call for a Wisdom (Perception) check."
+  },
+  {
+    "question": "If a wild-shaped druid bites and causes a creature to be poisoned, but can no longer concentrate to maintain the poison, what is the effect on the creature?",
+    "answer": "The poisoned condition persists for the duration specified in the attack, regardless of whether the attacker continues to concentrate.",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack",
+      "Appendix PH-A: Conditions > Poisoned"
+    ],
+    "rules_explanation": "The rules for specific conditions, and not concentration, determine how long the condition lasts. The ability that applies a condition also specifies how long the condition lasts (in this case, a constrictor snake bite)."
+  },
+  {
+    "question": "What is the damage for the spectral claws attack?",
+    "answer": "The damage is 1 damage for the chill touch and the hex damage.",
+    "rules": [
+      "Spell Descriptions > Chill Touch",
+      "Spell Descriptions > Hex"
+    ],
+    "rules_explanation": "Chill touch inflicts 1d8 necrotic damage; the bonus necrotic damage from the Hex spell (1d6) can be added if the chill touch hits. The spell Sniper feat does not increase any other part of the spell."
+  },
+  {
+    "question": "In what way, if any, does advantage on a stealth check modify the roll?",
+    "answer": "When you have advantage on an ability check, you roll a second d20 and use the higher of the two rolls.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage allows you to roll a second d20 and take the better result."
+  },
+  {
+    "question": "In what way, if any, does multi classing change the total number of rages a barbarian has each long rest?",
+    "answer": "You gain the number of rages shown for your barbarian level in the Rages column of the Barbarian table. There is no exception or modification to this that appears when multi classing.",
+    "rules": [
+      "Classes > Barbarian > Rage",
+      "Classes > Barbarian"
+    ],
+    "rules_explanation": "The ability to Rage is based strictly on the character's level in the Barbarian class."
+  },
+  {
+    "question": "When a creature is attacked four times, how much must the barbarian character reduce each attack roll by due to reckless attack.",
+    "answer": "Reckless Attack gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.  No rule exists for reducing the advantage.",
+    "rules": [
+      "Classes > Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "Reckless Attack does not state anything about reducing the advantage, but attack rolls against you have advantage until your next turn. A creature rolls two dice for each attack roll, not one dice for a single attack."
+  },
+  {
+    "question": "When the caster has a 6 Charisma modifier, are they more likely to get better results on a deception or persuasion check?",
+    "answer": "With a Charisma modifier of +6 the character would generally be better at both Persuasion and Deception checks; however, many factors can come into play, including proficiency and situational modifiers to those skill checks.",
+    "rules": [
+      "Using Ability Scores > Charisma > Charisma Checks"
+    ],
+    "rules_explanation": "The modifiers for both skills are derived from Charisma, but this may be outweighed by skills or other circumstance-based modifiers."
+  },
+  {
+    "question": "What bonuses or penalties does a character receive for fighting in a hotel room that has a dimension of 10ft x 7ft?",
+    "answer": "There are no inherent bonuses or penalties for fighting in a hotel room of that size. However, the Dungeon Master may impose penalties depending on the specific circumstances and the actions of the character.",
+    "rules": [
+      "Combat > Movement and Position > Space"
+    ],
+    "rules_explanation": "While the space is relatively small, there are no specific rule changes as a direct consequence of the room's dimensions. A character can move and be subject to difficult terrain rules depending on the position of furniture within the room and whether squeezing is required."
+  },
+  {
+    "question": "When a character with the Second Wind class feature re-enters the room and rolls, what dice should be rolled?",
+    "answer": "1d10 + your fighter level",
+    "rules": [
+      "Classes > Fighter > Second Wind"
+    ],
+    "rules_explanation": "Roll a 1d10 and add your fighter level."
+  },
+  {
+    "question": "Does making an intelligence check require the use of one's mind?",
+    "answer": "Yes, an intelligence check uses mental acuity, accuracy of recall and the ability to reason.",
+    "rules": [
+      "Using Ability Scores > Intelligence > Intelligence Checks"
+    ],
+    "rules_explanation": "The use of intelligence to perform a check involves the use of one's mind. "
+  },
+  {
+    "question": "If the Barbarian used a Reckless Attack on the main villain, but the spellcaster then used a 'dissonant whisper', would the BBE still have advantage on the attack rolls against the Barbarian?",
+    "answer": "Yes, the advantage from reckless attack lasts until the start of your next turn. Dissonant Whispers causes the target to use its movement to flee but does not end the advantage conferred by Reckless Attack.",
+    "rules": [
+      "Classes > Barbarian > Reckless Attack",
+      "Spell Descriptions > Dissonant Whispers"
+    ],
+    "rules_explanation": "The Reckless Attack ability states that attack rolls against you have advantage until your next turn. Dissonant Whispers has no effect on that, but can impose other effects."
+  },
+  {
+    "question": "Does using an Uncanny Dodge cause the attacker to become more powerful?",
+    "answer": "No, it does not. As a reaction, if attacked, Uncanny Dodge allows you to halve the damage taken, but it confers no benefit on the attacker.",
+    "rules": [
+      "Classes > Barbarian > Uncanny Dodge",
+      "Classes > Rogue > Uncanny Dodge"
+    ],
+    "rules_explanation": "Uncanny Dodge has no effect on an attacker, only on the barbarian or rogue using the Uncanny Dodge class feature."
+  },
+  {
+    "question": "What modifiers apply on a perception check to notice people on a star-lit night?",
+    "answer": "Vision and Light > Darkness creates a heavily obscured area. A creature effectively suffers from the blinded condition (see appendix PH-A) when trying to see something in that area.",
+    "rules": [
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "The check is performed with disadvantage. The rules further stipulate that 'Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.'"
+  },
+  {
+    "question": "When multi classing rogue and fighter, can both sneak attack and action surge be applied on the first attack turn?",
+    "answer": "Yes, with the limitation that Assassinate only applies to the first round of combat. A Fighter's Action Surge and a Rogue's Sneak Attack features can both be used on the first turn of combat if the applicable conditions are met.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack",
+      "Classes > Fighter > Action Surge",
+      "Classes > Rogue > Roguish Archetypes > Thief > Assassinate"
+    ],
+    "rules_explanation": "Assassinate states that Any hit the assassin scores against a surprised creature is a critical hit. Action Surge allows the rogue to take another action that can be used for another attack if the action attack is used in the first action."
+  },
+  {
+    "question": "What is the effect of casting false life on oneself?",
+    "answer": "Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.",
+    "rules": [
+      "Spell Descriptions > False Life"
+    ],
+    "rules_explanation": "The False Life spell states that it grants a number of temporary hit points equal to 1d4 + 4."
+  },
+  {
+    "question": "What saving throws are relevant against being held in place by an illusionary wall?",
+    "answer": "A creature interacting with the illusion can attempt an Intelligence (Investigation) check against your spell save DC to disbelieve it.",
+    "rules": [
+      "Spell Descriptions > Major Image"
+    ],
+    "rules_explanation": "The relevant check is an Intelligence (Investigation) check to determine that it is an illusion."
+  },
+  {
+    "question": "Can a level one character use a healing potion to gain hit points, and can that character take a nap afterwards to gain additional hit points?",
+    "answer": "A character who drinks a potion of healing regains hit points as defined by the potion. Afterwards the character can take a nap of at least one hour as a short rest, and can spend Hit Dice to recover additional hit points.",
+    "rules": [
+      "Equipment > Adventuring Gear > Potion of Healing",
+      "Resting > Short Rest"
+    ],
+    "rules_explanation": "A Potion of Healing is consumed when drunk, and the character regains health. Afterwards, the character can spend a Hit Die and add their constitution modifier to regain even more health."
+  },
+  {
+    "question": "If the character has proficiency with a skill, but they also have a circumstance granting them advantage on a particular roll, can they make that skill with the advantage?",
+    "answer": "Yes. Proficiency and advantage can both apply to the same roll.",
+    "rules": [
+      "Using Ability Scores > Skills",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Proficiency in a skill is a flat bonus to the ability check, and is compatible with advantage on the roll. Characters can gain additional bonuses or penalties to die rolling that affect the outcome of rolling."
+  },
+  {
+    "question": "Can a level one character gain more than three cantrips from a class?",
+    "answer": "No. The number of cantrips a character knows depends on their level in their class. At level 1 the number of cantrips known is usually three.",
+    "rules": [
+      "Classes > Spellcasting > Cantrips"
+    ],
+    "rules_explanation": "There are no general means to gain additional Cantrips that can be applied to any class. All rules are specific to the class itself, which are noted in the Class description tables."
+  },
+  {
+    "question": "Does knowing that a character has damage resistance mean you are also aware what causes the resistance? What are the effects on their turn?",
+    "answer": "No. The monster rules state that the player is aware the creature has damage resistances but does not specify in any way that a player knows the source of the damage resistance. In addition, a character can choose to use their action to determine what resistances a creature has.",
+    "rules": [
+      "Spell Descriptions > Identify"
+    ],
+    "rules_explanation": "The Identify spell can be used to determine the properties of magical or magic imbued objects and monsters. Absent this magic, players are not informed of these details."
+  },
+  {
+    "question": "How do you calculate damage when a natural 20 attack roll is made?",
+    "answer": "Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal. To speed up play, you can roll all the damage dice at once.",
+    "rules": [
+      "Combat > Making an Attack > Damage Rolls"
+    ],
+    "rules_explanation": "When you score a critical hit, you get to roll extra dice for the attack's damage against the target."
+  },
+  {
+    "question": "Does casting Bless as a Paladin require an intelligence saving throw?",
+    "answer": "No. Bless does not require a saving throw.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The description of Bless does not include a saving throw."
+  },
+  {
+    "question": "How many times can a rogue use their action per turn?",
+    "answer": "A rogue can normally take one action and one bonus action per turn. The Cunning Action rogue class feature allows them to use their bonus action to take the Dash, Disengage, or Hide action.",
+    "rules": [
+      "Combat > Your Turn",
+      "Classes > Rogue > Cunning Action"
+    ],
+    "rules_explanation": "The rules specify that a rogue has one action and one bonus action, although the way they use their bonus action is modified by their Cunning Action feature."
+  },
+  {
+    "question": "If a 6th level character has a 15 in a stat that is modified, what is the modifier to that skill?",
+    "answer": "The ability modifier for a score of 15 is +2.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "You can consult the table or subtract 10 from the ability score and divide by 2 (rounding down)."
+  },
+  {
+    "question": "Does a vampire's bite attack impart a charm?",
+    "answer": "No. The vampire bite does piercing and necrotic damage, and reduces the target's hit point maximum. Charm is a separate action. ",
+    "rules": [
+      "Monsters > Undead > Vampire"
+    ],
+    "rules_explanation": "Charm is a separate action, and not an effect of the bite attack."
+  },
+  {
+    "question": "How does rolling work for initiative?",
+    "answer": "When combat starts, every participant makes a Dexterity check to determine their place in the initiative order.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The rules are clear on using a Dexterity check for Initiative."
+  },
+  {
+    "question": "How does advantage work with a skill with which the character is proficient?",
+    "answer": "Proficiency in a skill lets a character add his or her proficiency bonus to ability checks that involve that skill. If a character has advantage on the check, they roll two d20s and use the higher result. The character can then add their proficiency bonus to that roll.",
+    "rules": [
+      "Using Ability Scores > Skills",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A character can add their proficiency bonus to the die roll, and advantage on the ability check means they roll 2d20 and use the higher result."
+  },
+  {
+    "question": "What's involved when using rage?",
+    "answer": "On your turn, you can enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy armor: You have advantage on Strength checks and Strength saving throws.  When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table. You have resistance to bludgeoning, piercing, and slashing damage. If you are able to cast spells, you can't cast them or concentrate on them while raging.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "That section of the player's handbook details what happens when you enter a rage."
+  },
+  {
+    "question": "When a Hex is cast, how many different checks are required in order to maintain it's effect?",
+    "answer": "Hex is a concentration spell, so only requires the caster to maintain concentration, no roll is required for the hexed character.",
+    "rules": [
+      "Spell Descriptions > Hex",
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "To maintain Hex, the caster must maintain concentration. Damage can break the concentration."
+  },
+  {
+    "question": "Is there a limit on damage applied with a critical hit?",
+    "answer": "There is not a limit to the amount of dice that are rolled, in addition to any other modifiers (such as STR mod or abilities) that could be added.",
+    "rules": [
+      "Combat > Making an Attack > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "The core rules states: Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal. To speed up play, you can roll all the damage dice at once."
+  },
+  {
+    "question": "What damage, if any, does a fire spell do to a wall?",
+    "answer": "The effects of a fire spell on a wall depends on the materials that compose the wall, and the damage is up to the DM's discression.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components",
+      "Spell Descriptions > Fireball"
+    ],
+    "rules_explanation": "The rules state: The fire ignites flammable objects in the area that aren't being worn or carried. It is then up to the DM to determine damage and effects."
+  },
+  {
+    "question": "Is a dragon subject to the Frightful Presence ability of another dragon?",
+    "answer": "No, the Frightful Presence only affects creatures within 120 feet of the dragon that are aware of it and forces them to make a Wisdom saving throw. This ability also states 'Each creature of the dragon's choice' must make the saving throw so even if this applied to dragons, the dragon could choose not to affect other dragons.",
+    "rules": [
+      "Monsters > Dragons, Chromatic > Adult Red Dragon > Actions"
+    ],
+    "rules_explanation": "There is not stated that it makes a separate condition in the game. A second dragon can't apply the effect on its own kind."
+  },
+  {
+    "question": "What action can the player do to drop the rock, who must roll and which stat should be use?",
+    "answer": "Since the dragon is no longer grappling the creature, no action is required.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "The rock is dropped as a result of ending the grapple. No action is required."
+  },
+  {
+    "question": "If a dragon takes a negative modifier for intelligence does that affect anything else?",
+    "answer": "Yes. A dragon's Intelligence modifier affects Intelligence checks and saving throws, and the number of languages it speaks.",
+    "rules": [
+      "Using Ability Scores > Intelligence > Intelligence Checks",
+      "Using Ability Scores > Saving Throws",
+      "Languages"
+    ],
+    "rules_explanation": "The monster entry provides the specifics of what ability scores are relevant to the particular creature's actions."
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "question": "Can the Goliath Barbarian's beard be braided?",
+    "answer": "Yes, the Goliath Barbarian's peach-fuzz stubble can be braided, although it takes concentration to braid the inch to inch and a half long facial hair.",
+    "rules": [
+      "No rules listed"
+    ],
+    "rules_explanation": "The SRD does not specify limits to applying decoration to characters. This is a judgement call that is not covered by a specific rule."
+  },
+  {
+    "question": "Does a perception check at disadvantage apply when a character is asleep?",
+    "answer": "Yes. ",
+    "rules": [
+      "Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules for disadvantage apply to perception checks even when the roll is made while a character is asleep."
+  },
+  {
+    "question": "Can a Druid with proficiency in Nature use that proficiency to determine whether clouds seem natural or arcane?",
+    "answer": "Yes, The DM decides which ability check applies to any skill in the game. Keyleth is using Wisdom + nature skill proficiency. ",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM decides which ability check applies to any skill in the game. "
+  },
+  {
+    "question": "May I ask, is magical ability inversely proportionate to wisdom?",
+    "answer": "The SRD includes no rule dictating that magical ability and wisdom are related in any way.",
+    "rules": [
+      "No relevant rule."
+    ],
+    "rules_explanation": "This question refers to a real world understanding of the correlation of the named traits, rather than a game rule."
+  },
+  {
+    "question": "Can a Sorcerer do multiple spells in a round?",
+    "answer": "No. Spells require actions which are limited to one per round except for bonus or reaction actions or other specific exceptions.",
+    "rules": [
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "There is a rules section that prevents multiple spells per round, but another section that mentions bonus actions and other methods of casting multiple spells. The 'Sorcerer point' discussion is not actually about a particular sorcerer rule that allows multiple actions."
+  },
+  {
+    "question": "When casting Alter Self, I turn myself into gold. ",
+    "answer": "The target's statistics, including capabilities are otherwise replaced by those of the new form",
+    "rules": [
+      "Spell Descriptions > Alter Self",
+      "Ability Scores"
+    ],
+    "rules_explanation": "A red dragonborn may use the alter self spell to change into a gold dragonborn. The Dragonborn will take on the appearance of a gold dragonborn, and will keep their abilities as long as the new form can perform such."
+  },
+  {
+    "question": "If an eagle flies out of the city, doors are shut, that's it?",
+    "answer": "Yes, once the doors of the temple are shut and the eagle flies outside, the door blocks the character from re-entering, unless a way is found to open or bypass the closed doors. ",
+    "rules": [
+      "No relevant rule."
+    ],
+    "rules_explanation": "The doors act as a barrier unless they are opened or bypassed. This is a logical conclusion to the scenario and doesn't rely on a specific rule."
+  },
+  {
+    "question": "Am I correct to assume my character is going to march the Horn through the town?",
+    "answer": "Whether the characters have to march the horn through town is up to the DM.",
+    "rules": [
+      "No relevant rule."
+    ],
+    "rules_explanation": "There is no relevant rule stating how the party must transport the artifact."
+  },
+  {
+    "question": "Make a persuasion check.",
+    "answer": "It is an ability check, and the player adds the appropriate ability modifier to the d20 roll. The player may add any bonuses that may apply.",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "Ability Scores > Ability Checks > Proficiency Bonus"
+    ],
+    "rules_explanation": "This is the generic case. When you have proficiency with the skill you add proficiency bonus."
+  },
+  {
+    "question": "Does the Primeval Awareness ability check within six miles reveal that there are any dragons around?",
+    "answer": "The Primeval Awareness ability allows you to sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead.",
+    "rules": [
+      "Classes > Ranger > Ranger Archetypes > Hunter > Primeval Awareness"
+    ],
+    "rules_explanation": "The Primeval Awareness ability allows you to sense the presence of dragons (and other specified creatures) within a specified radius, but it does not reveal their location or number."
+  },
+  {
+    "question": "If we decide to clear out your basement for you, do we get any monetary reward for our aid?",
+    "answer": "Whether the player's characters receive a monetary reward is up to the DM. ",
+    "rules": [
+      "No relevant rule."
+    ],
+    "rules_explanation": "No rule is given or implied regarding if the player will get a reward for doing a task for an NPC."
+  },
+  {
+    "question": "If I attempt to take a bonus action of a spell, and are we good, right?",
+    "answer": "Whether it is possible to make an attack action before or after a bonus action depends upon the specific wording of any rule that might grant a bonus action. If it is used to cast a spell or for some other action, the rules that limit those types of actions apply.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "General rules for actions and bonus actions."
+  },
+  {
+    "question": "Are you guys taking a short rest?",
+    "answer": "A short rest is at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "This defines what a character does on a short rest."
+  },
+  {
+    "question": "Is magical ability inversely proportionate to wisdom? ",
+    "answer": "There is no rule in the game or SRD implying any relationship between magical ability and wisdom.",
+    "rules": [
+      "No rules found"
+    ],
+    "rules_explanation": "The question is philosophical in nature."
+  },
+  {
+    "question": "My Gust of Wind lasts up to one minute, can I keep using it to clear out the fog?",
+    "answer": "Yes, since you have the spell and the effect is available for one minute, you can cast the spell.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Duration",
+      " Spell Descriptions > Gust of Wind"
+    ],
+    "rules_explanation": "You can use the spell as many times as you have the resource, which in this case is spell slots, to keep the fog back for that limited duration as concentration. The specific spell details duration at one minute."
+  },
+  {
+    "question": "How much damage does Vax take with a successful saving throw?",
+    "answer": "Zero points of fire damage. Uncanny Dodge reduces the damage to zero with a successful save.",
+    "rules": [
+      "Classes > Rogue > Uncanny Dodge",
+      "Monsters > Monster Stat Blocks > Saving Throws"
+    ],
+    "rules_explanation": "A rogue of 5th level or higher that is hit by an attack can use their reaction to half the damage dealt by the attacker. This is Uncanny Dodge. "
+  },
+  {
+    "question": "does the damage from a trap occur to those that are in front, or behind?",
+    "answer": "The players can only make a dexterity saving throw for a trap if they are in range to do so. If the spell hits them, they take half damage, and if they miss the throw, they take full damage.",
+    "rules": [
+      "No specific rule.",
+      "Combat > Making an Attack > Cover"
+    ],
+    "rules_explanation": "The general rule of play is applied."
+  },
+  {
+    "question": "If it's okay to take a short rest, what is that going to do now?",
+    "answer": "During a short rest, a character can spend one or more Hit Dice, regaining hit points equal to the die roll + their Constitution modifier. ",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "This outlines how you can heal with a Short Rest."
+  },
+  {
+    "question": "What's the range for my Primeval Awareness ability check?",
+    "answer": "You may take a moment and kind of zone out for a second. You do not sense any dragons in the immediate vicinity of the six-mile radius",
+    "rules": [
+      "Classes > Ranger > Ranger Archetypes > Hunter > Primeval Awareness"
+    ],
+    "rules_explanation": "The response is from Primeval Awareness ability check."
+  },
+  {
+    "question": "How much more Deus Ex keys there are?",
+    "answer": "They just got 10,000 more Deus Ex keys.",
+    "rules": [
+      "No relevant rule."
+    ],
+    "rules_explanation": "There is no relevant rules about item quantities."
+  }
+]

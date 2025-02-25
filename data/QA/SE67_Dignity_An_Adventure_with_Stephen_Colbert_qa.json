@@ -1,0 +1,156 @@
+[
+  {
+    "question": "How do I adjust the attack roll based on the level 5 fighter's +3 strength ability score for a longsword attack?",
+    "answer": "You add +7 to the d20 roll for the attack.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Fighter > Class Features > Proficiencies > Weapons",
+      "Using Ability Scores > Ability Scores and Modifiers",
+      "Multiclassing > Class Features > Extra Attack"
+    ],
+    "rules_explanation": "To determine the modifier for a longsword attack, the strength modifier of +3 is added to the proficiency bonus of +2 and the weapon +2 enhancement to achieve the +7 attack bonus that is added to the d20 role."
+  },
+  {
+    "question": "If I roll a natural 20 on the attack roll with a handaxe, what is the level 5 fighter's total damage with strength modifier applied?",
+    "answer": "Roll 2d6 and add 6 to the total.",
+    "rules": [
+      "Combat > Making an Attack > Rolling 1 or 20",
+      "Combat > Damage and Healing > Damage Rolls",
+      "Using Ability Scores > Ability Scores and Modifiers",
+      "Multiclassing > Class Features > Extra Attack"
+    ],
+    "rules_explanation": "A natural 20 on an attack roll is a critical hit that causes double the normal damage dice roll, and to this value is added the damage bonus on the handaxe. This is the strength modifier of +3 is added to one damage dice roll, and is applied again to the second damage dice roll, for a total adjustment of +6."
+  },
+  {
+    "question": "Does the level 5 fighter have any combat maneuvers he can apply when he attacks?",
+    "answer": "Yes, he has access to battle master maneuvers.",
+    "rules": [
+      "Fighter > Class Features > Martial Archetype"
+    ],
+    "rules_explanation": "The Battle Master archetype grants access to maneuvers."
+  },
+  {
+    "question": "What is the ability score bonus applied to a level 5 fighter's strength ability check roll?",
+    "answer": "It is a plus three.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers",
+      "Fighter > Proficiencies"
+    ],
+    "rules_explanation": "The fighter's strength ability score is 16, giving a +3 bonus to strength ability checks."
+  },
+  {
+    "question": "What is the perception modifier for the level 5 fighter?",
+    "answer": "The fighter's perception modifier is +1.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers",
+      "Fighter > Proficiencies"
+    ],
+    "rules_explanation": "The fighter's wisdom ability score is 12 giving a +1 bonus to wisdom ability checks including perception."
+  },
+  {
+    "question": "The level 5 fighter rolled a six plus a perception modifier of plus one. How many entrances does he see to the tower?",
+    "answer": "Just those big twisted iron gates in the front.",
+    "rules": [],
+    "rules_explanation": "This information depends entirely on the DM's description based on the character's perception check. This result of a 7 is not high enough to discover any more entrances to the tower."
+  },
+  {
+    "question": "When casting a healing potion on another person how many hit points do we regain on the d4, d6, d8, d10, d12 roll?",
+    "answer": "It is between four and ten.",
+    "rules": [],
+    "rules_explanation": "The SRD has no generic rules for healing potion mechanics. This relies on an outside source for the setting or adventure."
+  },
+  {
+    "question": "What is the religion skill adjustment for the level 5 fighter's religion check?",
+    "answer": "There is no proficiency adjustment to his check.",
+    "rules": [
+      "Skills"
+    ],
+    "rules_explanation": "The fighter has no mention of religion as a known skill."
+  },
+  {
+    "question": "What is the Dexterity saving throw for a level 1 rogue?",
+    "answer": "Roll a d20 and add the Dexterity saving throw modifier. Should be on the upper left.",
+    "rules": [
+      "Using Ability Scores > Saving Throws",
+      "Using Ability Scores > Ability Scores and Modifiers",
+      "Rogue > Proficiencies > Saving Throws"
+    ],
+    "rules_explanation": "The specific skill is determined by the roll of the d20 with the applicable skill proficiency bonus."
+  },
+  {
+    "question": "Can a level 1 rogue use a Dexterity saving roll to avoid damage?",
+    "answer": "No.",
+    "rules": [
+      "Saving Throws"
+    ],
+    "rules_explanation": "Saving throws are to resist some spell, trap or hazard. A 'roll' is never made to avoid taking damage."
+  },
+  {
+    "question": "How does a fifth level fighter use Second Wind to regain hit points?",
+    "answer": "The fighter regains 1d10 + fighter level, and once the fighter uses this feature, the fighter must finish a short or long rest before he can use it again.",
+    "rules": [
+      "Fighter > Class Features > Second Wind"
+    ],
+    "rules_explanation": "A character can use a Second Wind as a bonus action to heal themselves for 1d10 + their fighter level."
+  },
+  {
+    "question": "What is the range of the *light* spell?",
+    "answer": "Touch",
+    "rules": [
+      "Spellcasting > Range",
+      "Spell Descriptions > Light"
+    ],
+    "rules_explanation": "The spell description specifies the range."
+  },
+  {
+    "question": "What ability is used for an intimidation check?",
+    "answer": "Strength or Charisma.",
+    "rules": [
+      "Skills"
+    ],
+    "rules_explanation": "As the rules say about skills, '...the GM might ask for a check using an unusual combination of ability and skill...'  A Charisma (Intimidation) check is more common, but the DM may request a Strength (Intimidation) check."
+  },
+  {
+    "question": "Can an Aasimar Barbarian level 1 character cast spells?",
+    "answer": "No.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "Spells can only be cast by spellcasters of the correct class and levels."
+  },
+  {
+    "question": "Can the Rogue use the Dodge action to avoid the runic explosion?",
+    "answer": "Yes, she can.",
+    "rules": [
+      "Combat > Actions in Combat > Dodge"
+    ],
+    "rules_explanation": "As described in the rules of combat, anyone can take the Dodge action"
+  },
+  {
+    "question": "Can the Rogue use Uncanny Dodge to avoid damage?",
+    "answer": "Yes. if the damage is from an attack she can see.",
+    "rules": [
+      "Rogue > Class Features > Uncanny Dodge"
+    ],
+    "rules_explanation": "As described in the rules of uncanny dodge a rogue of sufficient level can use their reaction to avoid some of the damage from an attack that they can see"
+  },
+  {
+    "question": "If madrak has one hit point can the fighter use a disarming attack?",
+    "answer": "Yes, but the effect of disarming depends on the target's health.",
+    "rules": [
+      "Combat > Making an Attack",
+      "Fighter > Martial Archetype > Battle Master > Maneuvers"
+    ],
+    "rules_explanation": "Provided he has a maneuver die and chooses to make the attack he can attempt to disarm her."
+  },
+  {
+    "question": "Can the level 5 Fighter throw his battle axe at a sorceress with horns?",
+    "answer": "Yes, but the rules for using it change. It also depends if the character has a Strength of 13 or higher.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Thrown",
+      "Races > Dwarf > Subraces > Dwarf Traits > Size",
+      "Races > Human > Human Traits > Size"
+    ],
+    "rules_explanation": "If he does throw the axe, it becomes a ranged weapon attack that uses the strength modifier.  If the character is a dwarf, the throw distance is influenced by the size of their body.  If the character is a halfling the ability to effectively use it is limited."
+  }
+]

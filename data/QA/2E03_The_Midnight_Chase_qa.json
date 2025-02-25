@@ -1,0 +1,101 @@
+[
+  {
+    "question": "When rolling initiative, is the modifier added to the roll? level two!",
+    "answer": "Yes, when rolling initiative you add your initiative modifier to the roll. ",
+    "rules": [
+      "Combat > Initiative > Dexterity Checks"
+    ],
+    "rules_explanation": "Initiative is a Dexterity check and thus adds the creature's Dexterity modifier. The result is added to the roll of the dice."
+  },
+  {
+    "question": "If the level two, character level 2 casts Fire Bolt, what dice are rolled for damage? This is a cantrip, yeah. Oh, that's four.",
+    "answer": "For the Fire Bolt cantrip, you roll 1d10 for damage at level 2. ",
+    "rules": [
+      "Spellcasting > What is a spell"
+    ],
+    "rules_explanation": "Spell levels determine spell effects. This is a cantrip"
+  },
+  {
+    "question": "When an attack roll of 20 is rolled, is just double the die, right? Natural 20 is just double the die, right?",
+    "answer": "When you score a critical hit, you get to roll all of the attack's damage dice twice and add them together. ",
+    "rules": [
+      "Combat > Making an Attack > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "A natural 20 on the attack roll means you roll all damage dice twice, but do not double the modifiers."
+  },
+  {
+    "question": "After using Spare the Dying cantrip, can I try and do some medicine on him and does that heal him at all? ",
+    "answer": "Performing a medicine check does not heal a character, but a healers kit could depending on the character's abilities.",
+    "rules": [
+      "Skills > Wisdom",
+      "Skills > Medicine"
+    ],
+    "rules_explanation": "A Medicine check can diagnose an illness, while a healer's kit might be able to restore hit points or stabalize the character."
+  },
+  {
+    "question": "Does the damage from a critical hit prevent undead fortitude from activating? It doesn't even matter the damage you deal. If the damage from a critical hit, it doesn't get its undead fortitude. ",
+    "answer": "It does not matter what the damage is, if the damage dealt is from a critical hit, undead fortitude does not apply and the target dies.",
+    "rules": [
+      "Creature Stat Blocks",
+      "Undead Fortitude: If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+    ],
+    "rules_explanation": "the damage taken on a crit negates this ability."
+  },
+  {
+    "question": "Can Jester use her bonus action to use medicine on the downed character if she does not have proficiency? ",
+    "answer": "A medicine check can be attempted by anyone, but it will not heal, only a healer's kit can heal.",
+    "rules": [
+      "Skills > Wisdom > Medicine",
+      "Equipment > Adventuring Gear > Healer's Kit"
+    ],
+    "rules_explanation": "A healers kit will stabalize a character, and medicine will let them diagnose an ailment."
+  },
+  {
+    "question": "What is an Animal Handling check and when do you roll for it? Roll a perception check.",
+    "answer": "An Animal Handling check covers your attempt to calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal's intentions. In this case, it is being used to spook horses. ",
+    "rules": [
+      "Using Ability Scores > Wisdom > Skills > Animal Handling"
+    ],
+    "rules_explanation": "An animal handling check covers these areas. A DM may also let you use an animal handling check to perform other actions with animals."
+  },
+  {
+    "question": "What is the distance that a Find Familiar familiar is controlled and able to be seen through? You can only see through Frumpkin's eyes for up to a 100-foot radius.",
+    "answer": "You cannot communicate with it telepathically beyond 100 feet, but you could technically still see through its eyes. He does what the command is.",
+    "rules": [
+      "Spellcasting > Spells A-Z > Find Familiar"
+    ],
+    "rules_explanation": "The character can only control them telepathically up to 100 feet, but the character may be able to see beyond this."
+  },
+  {
+    "question": "As a level two character with Fire Resistance, does that apply, because of magical, technicolor dreamcoat?",
+    "answer": "No, a magical technicolor dreamcoat does not grant fire resistance",
+    "rules": [
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "A damage resistance must be from an ability or racial trait."
+  },
+  {
+    "question": "As a level two character with the Keen Mind feat, could we say that the character is a speed reader? Could we say that the character is a speed reader?",
+    "answer": "Having the Keen Mind feat does not make a character a speed reader. ",
+    "rules": [
+      "Feats > Keen Mind"
+    ],
+    "rules_explanation": "The keen mind feat only provides you with the specific traits listed for that feat."
+  },
+  {
+    "question": "Given that Kylre was found to be a fiend, what check can level two, class paladin do with what I heard to see if it is correct?",
+    "answer": "A religion check would be appropriate to check the memory of the fiend status.",
+    "rules": [
+      "Skills > Intelligence > Religion"
+    ],
+    "rules_explanation": "A religion check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults."
+  },
+  {
+    "question": "Does resting reset the maximum hit points of a level two character when taking a long rest? Do we reset our max hit points when we take a long rest?",
+    "answer": "A long rest restores all lost hit points.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "Long rest states that characters return to maximum hit points during a rest"
+  }
+]

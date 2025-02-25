@@ -1,0 +1,370 @@
+[
+  {
+    "question": "A level 3 [class] examines a mysterious dodecahedron in a bag.  What kind of check is appropriate?",
+    "answer": "Make an Intelligence (Arcana) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM asks the character to make an arcana check, implying that the check should use intelligence to assess the properties of the object."
+  },
+  {
+    "question": "A creature was temporarily dismissed as a familiar. How far away can the [level 8, class] make it reappear?",
+    "answer": "The familiar can reappear within 30 feet of the [level 8, class].",
+    "rules": [
+      "Spellcasting > Familiars"
+    ],
+    "rules_explanation": "the familiar reappears within 30 feet of the caster."
+  },
+  {
+    "question": "If the [level 8, class] casts a spell, and holds the spell, how long can they hold it for?",
+    "answer": "If you end up holding it for a few minutes, yes, because the idea is that you're casting the spell and then holding onto that last piece of the incantation.",
+    "rules": [
+      "Spellcasting > Casting Time > Actions"
+    ],
+    "rules_explanation": "The Dungeon Master specifies a ruling on the nature of holding a spell, and the consequence of losing a slot, but there is no specific rule to this effect in the SRD."
+  },
+  {
+    "question": "If a [level 1, class] with darkvision casts dancing lights without a light source, does a level 4 [class] have disadvantage on an attack roll against it?",
+    "answer": "Yes, a level 4 [class] would have disadvantage on attack rolls.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "Since the character is attacking from darkness and has no light source, the character is at disadvantage on the attack roll."
+  },
+  {
+    "question": "If a [level 9, class] is [condition] and casting Sacred flame, but the target saves, does the [level 9, class] cast Toll the Dead afterwards?",
+    "answer": "Yes the [level 9, class] can cast Toll the Dead, the first spell didn't use the action because it missed.",
+    "rules": [
+      "Combat > Actions in Combat > Cast a Spell"
+    ],
+    "rules_explanation": "Toll the dead may be cast as it is a cantrip."
+  },
+  {
+    "question": "If a [level 8, class] has Hex cast on a target, what type of checks are made at disadvantage",
+    "answer": "Hex causes the target to have disadvantage on ability checks with the chosen stat",
+    "rules": [
+      "Spell Descriptions > Hex"
+    ],
+    "rules_explanation": "Hex applies a disadvantage to the ability checks of the stat chosen."
+  },
+  {
+    "question": "If a [level 8, class] has rolled a 1 and then used Blessing of the Trickster to reroll, does the creature get advantage for the second roll.",
+    "answer": "The blessing would give advantage on your stealth checks, yes.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The blessing spell adds advantage to the stealth check in addition to the plus ten."
+  },
+  {
+    "question": "How is swimming speed calculated?",
+    "answer": "Your swim speed is half your movement.",
+    "rules": [
+      "Adventuring > Movement > Special Types of Movement > Climbing, Swimming, and Crawling"
+    ],
+    "rules_explanation": "The DM states how it is calculated, which is half your movement speed. I have selected the rules that apply to this judgement."
+  },
+  {
+    "question": "Does Flanking provide advantage?",
+    "answer": "Flanking provides advantage on your attacks.",
+    "rules": [
+      "Combat > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM states that Flanking gives advantage on attacks."
+  },
+  {
+    "question": "Does Hexblade's Curse break Hex?",
+    "answer": "Yes, as a bonus action you can cast Hexblade's Curse to replace Hex.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "Hexblade's curse breaks hex as casting a spell ends concentration."
+  },
+  {
+    "question": "If a creature is raging, does it take half damage from lightning damage?",
+    "answer": "No, the rage doesn't affect it. It only affects slashing, piercing, and bludgeoning.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "The rage ability only reduces bludgeoning, piercing, and slashing."
+  },
+  {
+    "question": "When does exhaustion from Haste occur?",
+    "answer": "When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.",
+    "rules": [
+      "Spell Descriptions > Haste"
+    ],
+    "rules_explanation": "The exhaustion from the Haste spell takes effect as the spell ends."
+  },
+  {
+    "question": "During the Use an Object action, can a bonus action be used?",
+    "answer": "It is not clear if you can use a bonus action.",
+    "rules": [
+      "Combat > Actions in Combat > Use an Object"
+    ],
+    "rules_explanation": "It does not state that you can or cannot use a bonus action on the turn."
+  },
+  {
+    "question": "What happens if I use all the uses of blink?",
+    "answer": "Blink does not use charges, it is cast as a spell",
+    "rules": [
+      "Spell Descriptions > Blink"
+    ],
+    "rules_explanation": "There is nothing in the description saying it is a charge based ability."
+  },
+  {
+    "question": "What is the DC for Maximilian's Earthen Grasp?",
+    "answer": "You will need to determine the strength saving throw DC of the spell which is 8+your proficiency bonus + wisdom modifier. 8 + 2 + 6 = 16.",
+    "rules": [
+      "Spellcasting > Spell Save DC"
+    ],
+    "rules_explanation": "The spell save is determined by the formula in the spellcasting section."
+  },
+  {
+    "question": "The target of Maximilian's Earthen Grasp is [condition], what happens to the spell?",
+    "answer": "It is restrained.",
+    "rules": [
+      "Spell Descriptions > Maximilian's Earthen Grasp"
+    ],
+    "rules_explanation": "It specifies that it is restrained."
+  },
+  {
+    "question": "As a level 1 paladin, if I use reckless last turn, and next turn there is darkness, and I have a roll with disadvantage, what happens?",
+    "answer": "You do not get extra attacks for raging, and the reckless attack ends when your turn does.",
+    "rules": [
+      "Classes > Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "The reckless attack ends at the end of its next turn."
+  },
+  {
+    "question": "What bonus is applied by Flanking?",
+    "answer": "Flanking? It's advantage on your attacks.",
+    "rules": [
+      "Combat > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM states that Flanking gives advantage on attacks."
+  },
+  {
+    "question": "Which rules apply when performing a touch attack?",
+    "answer": "It is a melee spell attack, so a normal attack roll is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The SRD states that it relies on making an attack roll."
+  },
+  {
+    "question": "How many d8's of damage does Cure wounds at level 2 heal?",
+    "answer": "There is a 2d8 dice roll plus the spellcasting modifier.",
+    "rules": [
+      "Spell Descriptions > Cure Wounds"
+    ],
+    "rules_explanation": "Cure Wounds at Level 2 heals for 2d8 + the spellcasting modifier."
+  },
+  {
+    "question": "A level 5 [class] tries to use Haste to reach an enemy to attack. The speed has been doubled but they are in water, are they able to?",
+    "answer": "You're still in the water, thrashing, trying to make your way to the edge.",
+    "rules": [
+      "Adventuring > Movement > Special Types of Movement > Climbing, Swimming, and Crawling"
+    ],
+    "rules_explanation": "Swimming costs extra movement as specified in the rules."
+  },
+  {
+    "question": "what does the Hexblade's Curse add to damage?",
+    "answer": "For the Hexblade, four points of damage.",
+    "rules": [
+      "Specific Class Handbook"
+    ],
+    "rules_explanation": "There are not hexblade's curse rules in the SRD"
+  },
+  {
+    "question": "What are the rules around holding the blink spell?",
+    "answer": "Blink is not concentration",
+    "rules": [
+      "Spell Descriptions > Blink"
+    ],
+    "rules_explanation": "Blink is a metamagic ability that alters spells, which must be cast, not held."
+  },
+  {
+    "question": "What's Yasha's bonus to a saving throw",
+    "answer": "It is impossible to determine from the text.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The necessary information about yasha's class, stats, and abilities, are not mentioned, so it is impossible to answer this question with the information provided."
+  },
+  {
+    "question": "What is added to the saving throw for call lightning?",
+    "answer": "That is a DC 13, so you only take half damage.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There is no class and level for the monster, so it is not possible to compute it based on the SRD. This is a table lookup."
+  },
+  {
+    "question": "What is the disadvantage for being in water and doing an attack?",
+    "answer": "If you wanted to do reckless, you could counteract that, but you'll be taking--",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks"
+    ],
+    "rules_explanation": "As a warlock he may be able to cancel it out. You can apply modifiers like reckless, or great weapon fighting."
+  },
+  {
+    "question": "how many of those bonus action attacks do I get with a haste action?",
+    "answer": "You have your two attacks and your hasted attack.",
+    "rules": [
+      "Spell Descriptions > Haste"
+    ],
+    "rules_explanation": "You can have an extra attack using haste and three attacks."
+  },
+  {
+    "question": "does Haste let me act if I didn't get a surprise round?",
+    "answer": "Because you were not part of the surprise.",
+    "rules": [
+      "Combat > Surprise"
+    ],
+    "rules_explanation": "This implies that being under the effect of haste does not remove being surprised."
+  },
+  {
+    "question": "With the sentinel feat, does that mean its speed is reduced to zero?",
+    "answer": "Yes. ",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Can't get the value from the SRD."
+  },
+  {
+    "question": "With Bless on, what's the success chance?",
+    "answer": "no such feature. ",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Can't get this information from the SRD."
+  },
+  {
+    "question": "What's that one is a 1, plus is she is not here.",
+    "answer": "that is disadvantage on wisdom checks, not wisdom saving throws. Hex doesn't affect saving throws.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Can't get the value from the SRD."
+  },
+  {
+    "question": "Nott hands the books to Kiri, what happens with her silent image, can it come with her",
+    "answer": "You cannot see Kiri, just vanishes amongst the visuals of the illusion.",
+    "rules": [
+      "Specific Class Abilities"
+    ],
+    "rules_explanation": "This is just a DM call. There is no specific rule for this."
+  },
+  {
+    "question": "How do I know if blink has worked",
+    "answer": "Roll your d20 to see whether you stay or go.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Not explained in the SRD."
+  },
+  {
+    "question": "Do I need advantage on a saving throw from raging?",
+    "answer": "You have advantage on your strength checks because you're raging.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "Rage applies only to strength checks, not all saves"
+  },
+  {
+    "question": "Does rage halve that damage?",
+    "answer": "It only affects slashing, piercing, and bludgeoning. ",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "Rage applies only to bludgeoning, piercing, and slashing. There is no halving, you have resistance."
+  },
+  {
+    "question": "If a barbarian cannot be frightened, does that apply to my team.",
+    "answer": "There is no such effect",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "The SRD states that the barbarian themself benefits from not being frightened, but it does not extend to the team."
+  },
+  {
+    "question": "What does flank mean?",
+    "answer": "you can get up on there, sure. Using all your movement you can get on there. It's a little wobbly.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Flanking in 5e gives advantage on the attack roll, and it is the DM who judges whether or not the PC manages to flank (PHB 196, MM 11)"
+  },
+  {
+    "question": "If I'm at 1 hp, what does a 25 damage attack do",
+    "answer": "That's a failure. First failed save on Caleb.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "This is a character who already at 0hp, so no rules about temp HP apply."
+  },
+  {
+    "question": "Do you get exhaustion if you roll a natural 1?",
+    "answer": "Exhaustion doesn't happen when the spell's broken?",
+    "rules": [
+      "Spell Descriptions > Haste"
+    ],
+    "rules_explanation": "Haste causes exhaustion, or really, a lethargy that prevents actions on the next turn."
+  },
+  {
+    "question": "As a character is being shaven, what happens?",
+    "answer": "Take advantage because he's not moving.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Take advantage because he's not moving."
+  },
+  {
+    "question": "what does my check need to be higher than for Maximilian's Earthen Grasp?",
+    "answer": "“On a failed save, the target must make a strength saving throw.” Versus my 16.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There's no information on this in the SRD, it is specific to the monster, not the spell"
+  },
+  {
+    "question": "Can the Druid maintain the thunderstorm above?",
+    "answer": "Yes, he does succeed in maintaining concentration.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Doesn't make-- you made a concentration check, and are good to go."
+  },
+  {
+    "question": "Can Beau use Sentinel with enemies not targeting her",
+    "answer": "You can, because it's attacking someone that's not you.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "We are not in initiative order; no, it needs to be someone you can see."
+  },
+  {
+    "question": "Which rules are affected by The Descent?",
+    "answer": "There are no rules on this.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "It's about how light affects your dark vision, it was about it makes you want to swim through that little tunnel even less."
+  },
+  {
+    "question": "Can you have multiple Pearl of Powers",
+    "answer": "No. It is not something you can do to get multiple third level spells. ",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "You can't, can't, can't. It's not, no, not with that, or you'd get infinite."
+  },
+  {
+    "question": "What's the effect when you don't specify edition",
+    "answer": "There is no rule on this.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "That's just, that's not something that would be, you guys."
+  }
+]

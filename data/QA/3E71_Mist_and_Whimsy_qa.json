@@ -1,0 +1,59 @@
+[
+  {
+    "question": "A level 4 [sorcerer] casts `Sending`. What roll is required to determine if the message gets through?",
+    "answer": "A d100 should be rolled. If the total is 57 or higher, the `Sending` spell succeeds.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range",
+      "Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "`Sending` has a limitation that when the target is on a different plane, there is a 5 percent chance the message does not arrive, which must be determined by a d100 roll."
+  },
+  {
+    "question": "Can a level 4 [fighter] with proficiency in Survival and proficiency bonus +2 and wisdom score of 11 (+0) use his action to determine direction?",
+    "answer": "You can make a Survival or Nature check to ascertain some semblance of direction.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "This falls under the general guidance for using skills and is appropriate for the DM to request either a Survival or Nature check. If proficient, the character's survival roll would be 1d20+2, to which other modifiers may apply. If proficient in Nature, the roll would be 1d20+2 to which other modifiers may apply."
+  },
+  {
+    "question": "Can the level 4 sorcerer use a quickened spell and distant spell on the same turn to cast Mind Sliver?",
+    "answer": "If a sorcerer has enough sorcery points for it, they can use both Quickened Spell and Distant Spell on the same turn.",
+    "rules": [
+      "Sorcerer > Class Features > Font of Magic > Flexible Casting",
+      "Sorcerer > Metamagic > Quickened Spell",
+      "Sorcerer > Metamagic > Distant Spell"
+    ],
+    "rules_explanation": "The sorcerer class's Flexible Casting feature allows sorcery points to be used to both create spell slots and to use Metamagic. No rules exist to prevent multiple metamagic options being used if the sorcerer has sufficient points to pay the costs."
+  },
+  {
+    "question": "If the level 4 sorcerer with 3 sorcery points casts Mind Sliver with distant spell (1 sorcery point), how many sorcery points does the sorcerer have at the end of the action?",
+    "answer": "The sorcerer has 2 sorcery points",
+    "rules": [
+      "Sorcerer > Class Features > Font of Magic > Sorcery Points",
+      "Sorcerer > Metamagic > Distant Spell"
+    ],
+    "rules_explanation": "Distant Spell costs 1 sorcery point, so the sorcerer's total is reduced by that amount."
+  },
+  {
+    "question": "Can a level 4 [fighter] touch into the history of the space using his Sinister or tragic history of an object or an area or location ability?",
+    "answer": "I am unable to assess this question because the feature being used is not found in the SRD. ",
+    "rules": [],
+    "rules_explanation": "This question cannot be answered from the SRD as it has no information on features from classes outside the basic 12 found in that book"
+  },
+  {
+    "question": "A 5th level cleric is asked for a nature check after the large footstep is found. Is there advantage?",
+    "answer": "I am unable to assess this question because no information is provided in the text on an appropriate feature or item that allows the player to have advantage on this roll.",
+    "rules": [],
+    "rules_explanation": "This question cannot be answered from the provided text, as no rules are being applied in it"
+  },
+  {
+    "question": "The spell Tongues has been cast on the character \"Me\". A 5th level cleric wants to use Tongues with Detect Thoughts. Is this possible?.",
+    "answer": "Yes, if they touch the character \"Me\" again, the 1st-level `Tongues` spell will allow the NPC and PC to understand each other while the 2nd level spell `Detect Thoughts` allows the character to read thoughts from the touched NPC.",
+    "rules": [
+      "Spell Descriptions > Detect Thoughts",
+      "Spell Descriptions > Tongues"
+    ],
+    "rules_explanation": "There are no rules that prevent casting two spells on the same target, as long as the appropriate actions are used and components are available"
+  }
+]

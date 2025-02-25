@@ -1,0 +1,134 @@
+[
+  {
+    "question": "The party wants to create a marine layer. How far away can anyone see?",
+    "answer": "Anyone within 5 feet can see perfectly. Anyone outside of 5 feet can't see anything",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range"
+    ],
+    "rules_explanation": "The transcript describes a magical effect (marine layer) and its effects on the visibility. I've used casting a spell, as spells are assumed to cause magical effects."
+  },
+  {
+    "question": "What does a roll of 16 on a roll Jester Owl's Owl Form's AC?",
+    "answer": "That hits.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The rules state that if the Attack Roll + Modifiers are equal to or greater than the Target's AC, the attack hits."
+  },
+  {
+    "question": "If a PC has a walking speed of 50 feet how far can it move per round while dashing.",
+    "answer": "If you're dashing, you can go a 100 a round.",
+    "rules": [
+      "Combat > Movement and Position > Speed"
+    ],
+    "rules_explanation": "The transcript states that a character's move speed is doubled during a dash."
+  },
+  {
+    "question": "For someone with low hit points should they be dropped?",
+    "answer": "Low hit points is no good. We can't drop you.",
+    "rules": [],
+    "rules_explanation": "This isn't a rules question, it's an in-character response to a tactical consideration"
+  },
+  {
+    "question": "Does being polymorphed prevent exhaustion?",
+    "answer": "When you're Polymorphed, I would say you do not suffer the exhaustion element, but you are still bound to whatever the physical attributes are of that creature.",
+    "rules": [],
+    "rules_explanation": "While Polymorphed, I would say you do not suffer the exhaustion element, but you are still bound to whatever the physical attributes are of that creature"
+  },
+  {
+    "question": "What are the effects of level two exhaustion?",
+    "answer": "You have disadvantage on it, but anything else that I have to worry about right now?\nMATT: Your speed is halved.",
+    "rules": [
+      "Appendix PH-A > Conditions > Exhaustion"
+    ],
+    "rules_explanation": "A PC had accrued 2 levels of exhaustion. The description of the Exhaustion condition includes the effect of each level of exhaustion. In this case the relevant rule is that a creature's speed is halved with level 2 exhaustion"
+  },
+  {
+    "question": "Can I get Guidance on Perception check during first watch?",
+    "answer": "Guidance lasts a minute. This is a watch over the whole thing. It would not work for this.",
+    "rules": [],
+    "rules_explanation": "Guidance lasts a minute, so cannot affect a watch"
+  },
+  {
+    "question": "If you have already rolled perception with disadvantage do you still get darkvision advantage?",
+    "answer": "You have darkvision, but there is-- there's not heavy, but there's enough snowfall and very little light that it's a challenging roll. \nASHLEY: Disadvantage? So roll again?\nMATT: Yeah, Disadvantage, So roll again?",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Darkvision and snowfall both apply, but disadvantage overrides advantage in D&D 5e."
+  },
+  {
+    "question": "If a location has only a Locate Object range of 1,000 feet are we close enough to-- ?",
+    "answer": "you're maybe about 600, 700 feet from it. ",
+    "rules": [
+      "Spell Descriptions > Locate Object > Range"
+    ],
+    "rules_explanation": "The rules state that to locate an object the character must be within the spell's range. In this case the character is about 600 to 700 feet away, which is within Locate Object's 1,000 range"
+  },
+  {
+    "question": "Does Water Walk mean I could run across the snow and not leave footprints?",
+    "answer": "That is not true.",
+    "rules": [],
+    "rules_explanation": "The DM states that the effect of Water Walk is only applicable on water and not snow."
+  },
+  {
+    "question": "What's the distance on Healing Word?",
+    "answer": "60 feet.",
+    "rules": [
+      "Spell Descriptions > Healing Word > Range"
+    ],
+    "rules_explanation": "A player asks about the range of the Healing Word spell"
+  },
+  {
+    "question": "If they can see the stone can they tell where it is even in the snow?",
+    "answer": "They can see the stone, but if it's in snow, they won't know where. Unless they use Locate Object.",
+    "rules": [
+      "Spell Descriptions > Locate Object"
+    ],
+    "rules_explanation": "The rules state that magic can be used to find a hidden object, but unless the magic is used it is not clear that they will find the object"
+  },
+  {
+    "question": "You can set the conditions to explode. It either detonates when you tell it as the person who sets it or proximity. If it's set to proximity, then there's no way to disable it other than it detonating.",
+    "answer": "You can set the conditions to explode. It either detonates when you tell it as the person who sets it. It's like a mental link or proximity. If it's set to proximity, then there's no way to disable it other than it detonating.",
+    "rules": [],
+    "rules_explanation": "The rules of the item the party is discussing allow it to be set off via one of two methods, mental link or proximity."
+  },
+  {
+    "question": "The teleportation circle allows creatures to pass through it and what they're carrying. The spell Teleport allows you to send an object. So, if you want to use the lower level one you can, but a creature would have to ferry it through.",
+    "answer": "The teleportation circle allows creatures to pass through it and what they're carrying. The spell Teleport allows you to send an object.",
+    "rules": [
+      "Spell Descriptions > Teleportation Circle",
+      "Spell Descriptions > Teleport"
+    ],
+    "rules_explanation": "Depending on the spell used to transport the object the method of transportation will differ. Teleportation circle transports what's carrying the object, and teleport transports the object itself."
+  },
+  {
+    "question": "Do you have any experience teleporting such here?",
+    "answer": "I have. I've been to and from elements of the Dynasty a couple of times since I've been here. It's challenging. What were your means of sending this object?",
+    "rules": [],
+    "rules_explanation": "This isn't a rules question, it's an in-character response to a tactical consideration"
+  },
+  {
+    "question": "You can use Teleport to cast it directly. You can carry it with you while stepping onto a teleportation circle and it will probably travel with you.",
+    "answer": "If you carry it with you, you'll at least travel wherever it ends up going if things get weird. If you send it as a separate teleport, you'll have no idea where it landed unless you were to follow up with any sort of scry spell.",
+    "rules": [
+      "Spell Descriptions > Teleport",
+      "Spell Descriptions > Scrying"
+    ],
+    "rules_explanation": "These are the effects and implications of using the Teleport and Scrying Spells."
+  },
+  {
+    "question": "Does exhaustion gained in creature form carry over to physical form",
+    "answer": "but remember any points that you gained while you were in creature form would not carry over.",
+    "rules": [],
+    "rules_explanation": "When a player is no longer Polymorphed any points that were gained during the polymorph would not carry over"
+  },
+  {
+    "question": "With my Wisdom of owl is it better or intelligence check to aim?",
+    "answer": "Jester, in your owl form, you can roll either an intelligence check or a dexterity check... roll, add the owl's dexterity modifier",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM allows for an Intelligence or Dexterity check based on character's skills in either. Then specifies the use of Dexterity."
+  }
+]

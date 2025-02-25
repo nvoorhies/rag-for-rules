@@ -1,0 +1,43 @@
+[
+  {
+    "question": "A level 4, Divine Soul Sorcerer, and a level 4, life domain cleric want to commune. Can both characters cast *commune* to try and help?",
+    "answer": "According to the rules, direct contact would not be possible by that method.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range"
+    ],
+    "rules_explanation": "The Dungeon Master's description implies that only one of the two characters is contacted by a deity when the commune spell is cast, and this deity is one related to only one of the casters."
+  },
+  {
+    "question": "Does a level 12 Storm Sorcerer/level 3 Pact of Blade Warlock get advantage on the performance roll, and why or why not?",
+    "answer": "Advantage can only be granted, \"with everyone else enhancing the experience, I'll give it advantage because it is in a communal-- everyone is helping.\"",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The game master is the sole arbiter of advantage and disadvantage, and the players must meet the requested roleplaying action described by the DM"
+  },
+  {
+    "question": "If a creature is being tacked, what roll determines if it is a success?",
+    "answer": "Athletics checks are required, Athletics or Acrobatics as appropriate, and the game master will arbitrate when these rolls should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Athletics checks are used as part of grappling and other checks."
+  },
+  {
+    "question": "If one party member makes an intimidation check with a natural 20 and a +0 modifier, what is the effective bonus to the check?",
+    "answer": "A natural 20 will score a success and it is not be modified by any bonuses. The natural 20 supersedes any roll with modifiers.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Combat > Making an Attack > Rolling 1 or 20"
+    ],
+    "rules_explanation": "A natural 20, which automatically hits regardless of AC or modifiers. This rule only applies when making an attack, it is not clear what advantage the roll had."
+  },
+  {
+    "question": "A level 12 character with a Dexterity score of 15 attempts to make a new outfit, does that roll get to make a performance or dexterity skill check?",
+    "answer": "The player can choose whether the player character uses dexterity or performance skill.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The game master specifically offers the player the choice of using either skill for the ability check."
+  }
+]

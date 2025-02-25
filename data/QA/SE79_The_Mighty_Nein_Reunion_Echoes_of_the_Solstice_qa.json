@@ -1,0 +1,189 @@
+[
+  {
+    "question": "Does the level 20 Monk (Way of the Open Hand) / Level 20 Fighter have advantage on their Strength check to snap the wooden collar on the Level 20 Wizard's neck?",
+    "answer": "No advantage is conferred based on the presented facts.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "I have checked for rules based on the creature's level, class and skills and none seem applicable to this action as there is no cooperative action being attempted."
+  },
+  {
+    "question": "What kind of ability check does the Level 20 Monk (Way of the Open Hand) make to snap the wooden collar after the Level 20 Wizard casts Minor Alchemy on the neck collar?",
+    "answer": "The Level 20 Monk (Way of the Open Hand) makes a Strength check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Strength"
+    ],
+    "rules_explanation": "The character wants to break something, so the rule indicates a strength check is necessary."
+  },
+  {
+    "question": "If the Level 20 Monk (Way of the Open Hand) rolls a 14 on the die for their Strength check, what is the total?",
+    "answer": "The total is 14.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "Given the facts, this is a straight ability check with no modifiers so the total is the raw die roll."
+  },
+  {
+    "question": "Does the Level 16 Ranger/Level 4 Cleric have advantage on their Perception check for seeing Ruidus through the fog?",
+    "answer": "No advantage is conferred based on the presented facts.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Given the facts, this is a straight skill check with no advantage or disadvantage."
+  },
+  {
+    "question": "What kind of damage does the Level 6 Cleric take when the Level 16 Ranger/Level 4 Cleric casts Sending?",
+    "answer": "The Level 6 Cleric takes psychic damage.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "Given that the caster is casting Sending, the rule shows that psychic damage will be applied."
+  },
+  {
+    "question": "What kind of ability check does the Level 20 Monk (Way of the Open Hand) make to hit Yasha?",
+    "answer": "The Level 20 Monk (Way of the Open Hand) makes an unarmed strike attack roll.",
+    "rules": [
+      "Combat > Actions in Combat > Attack"
+    ],
+    "rules_explanation": "This is a combat situation where one character is trying to hit another."
+  },
+  {
+    "question": "What kind of ability check does the Level 20 Barbarian (Path of the Zealot) make to capture the unarmed strike from a character?",
+    "answer": "The Level 20 Barbarian (Path of the Zealot) makes an unarmed attack roll.",
+    "rules": [
+      "Combat > Actions in Combat > Attack"
+    ],
+    "rules_explanation": "This is a combat situation where one character is trying to hit another."
+  },
+  {
+    "question": "If the Level 20 Monk (Way of the Open Hand) rolls an 18 on their unarmed strike and the Barbarian (Path of the Zealot) has a 22, does the strike hit?",
+    "answer": "No, the strike is parried.",
+    "rules": [
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "Attack succeeds if equal to or greater than the AC, so since 18 is less than 22 it does not hit."
+  },
+  {
+    "question": "If the Level 17 Bard casts Flash Recall and it fails to retrieve their Scry spell, can they cast it as normal?",
+    "answer": "Yes, the bard can cast Scry in a regular manner.",
+    "rules": [
+      "Spellcasting > Spells Known and Prepared"
+    ],
+    "rules_explanation": "There is no indication in the description of Flash Recall about any limitation to casting the spell normally after failure."
+  },
+  {
+    "question": "If the player rolls a 48 on a d100 after casting Sending, how much psychic damage does the Level 17 Bard take?",
+    "answer": "The Level 17 Bard takes 14 points of psychic damage.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "Given that a d100 was rolled, the player takes the psychic damage the text indicates."
+  },
+  {
+    "question": "Can a Level 17 Bard use the d4 from Guidance on the d100?",
+    "answer": "No, since that is not an ability check.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Guidance"
+    ],
+    "rules_explanation": "The text indicates this only applies to an ability check not a d100 roll."
+  },
+  {
+    "question": "Can the Level 17 Bard's 14 psychic damage be healed?",
+    "answer": "Yes, by spells such as Cure Wounds.",
+    "rules": [
+      "Damage and Healing > Healing"
+    ],
+    "rules_explanation": "The rule states 'When a creature receives healing of any kind, hit points regained are added to its current hit points.'"
+  },
+  {
+    "question": "Does Jester have to take the first number rolled for a skill check with the Fortune's Favor or can she use it later?",
+    "answer": "The player chooses which number to use after the second roll.",
+    "rules": [],
+    "rules_explanation": "While this comes from a magic item, it is just a restatement of advantage and disadvantage."
+  },
+  {
+    "question": "What kind of check does the Level 20 Monk (Way of the Open Hand) make in order to tell if the official that speaks is lying?",
+    "answer": "The Level 20 Monk (Way of the Open Hand) makes an Insight check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Wisdom"
+    ],
+    "rules_explanation": "The Insight skill is described as the means to 'determine the true intentions of a creature'."
+  },
+  {
+    "question": "The Level 20 Monk (Way of the Open Hand) succeeds on molecular manipulation and the collar is destroyed, are any other such collars destroyed?",
+    "answer": "No, molecular structure is not a cause of other collars to be destroyed.",
+    "rules": [],
+    "rules_explanation": "There is no reason in the setting to believe they have to inquire if other collars are destroyed, other than logical speculation. A successful insight check to see how well they may know the truth and the potential problems they will run into in the future."
+  },
+  {
+    "question": "What is the saving throw for a cantrip?",
+    "answer": "The saving throw DC is calculated as follows: Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The rule contains the formula for how to calculate the spell save DC."
+  },
+  {
+    "question": "Is there any specific kind of range required for an object that the player has a map of?",
+    "answer": "No specific requirement is listed.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "The rule does not state that familiar locations have to be within a mile, or some other condition. The DM may place limitations."
+  },
+  {
+    "question": "If the dice roll adds up to more than 100 for a Sending spell, what is the number used for damage?",
+    "answer": "The roll for percentile must be a d100.",
+    "rules": [],
+    "rules_explanation": "Since the value is determined by a percentile roll, it should be less than 100."
+  },
+  {
+    "question": "Can the level 17 Bard Flash Recall Scry?",
+    "answer": "Yes, the level 17 Bard can cast Scry.",
+    "rules": [
+      "Spellcasting > Spells Known of 1st Level and Higher"
+    ],
+    "rules_explanation": "A spell you choose must be of a level you can cast, as shown on the table. A spell that is 5th level is able to be cast by level 17 character."
+  },
+  {
+    "question": "Can you tell me how to determine the damage for Eldritch Blast?",
+    "answer": "The base damage is 1d10 force damage.",
+    "rules": [],
+    "rules_explanation": "The question is unanswerable using the SRD since the spell description doesn't appear in the provided text."
+  },
+  {
+    "question": "How long does Shocking Grasp affect?",
+    "answer": "The effect is instantaneous, but the spell has an effect of 1 round.",
+    "rules": [],
+    "rules_explanation": "This information is not provided in the srD."
+  },
+  {
+    "question": "When the level 17 Bard casts Scry on a creature on another plane, is there a possibility that the spell doesn't arrive?",
+    "answer": "No, scrying can only be used on the same plane.",
+    "rules": [],
+    "rules_explanation": "The rules do not include that effect for spells that cross planes."
+  },
+  {
+    "question": "Can Fjord use Armor of Hexes to change a failed attack or something else?",
+    "answer": "Armor of Hexes allows an attack that would hit to miss",
+    "rules": [],
+    "rules_explanation": "The spell allows to avoid a hit turning it into a miss which is not a saving throw"
+  },
+  {
+    "question": "What is the skill check is required if a player with no knowledge of forging wishes to try and forge a set of documents?",
+    "answer": "An intelligence check would be required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Intelligence"
+    ],
+    "rules_explanation": "I have used my knowledge and understanding of the lore to determine the most likely skill but this check is not listed in the rules."
+  },
+  {
+    "question": "Can a second level spell be cast with a ninth level slot?",
+    "answer": "Yes.",
+    "rules": [
+      "Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "You must expend a slot of the spell's level or higher."
+  }
+]

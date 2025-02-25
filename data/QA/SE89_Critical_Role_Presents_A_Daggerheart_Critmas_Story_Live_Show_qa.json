@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Does the GM have to start with 1 fear per player, or can the GM choose a different number?",
+    "answer": "The GM has one fear per player at the start of the campaign. This value is not adjustable.",
+    "rules": [
+      "Part I > None > None"
+    ],
+    "rules_explanation": "Matt states that he begins the Daggerheart game with 1 fear per player, indicating this is part of the rules of the game."
+  },
+  {
+    "question": "Does the 'instinct roll' the player is making when the player picks up the box gain a hope on a roll of '9 with hope'?",
+    "answer": "No, the roll does not gain a Hope on this roll. This is a reaction roll and not an action roll, so you do not gain a Hope for rolling with hope.",
+    "rules": [
+      "Part I > None > None"
+    ],
+    "rules_explanation": "The question refers to when the Game Master specifically states it is a \"reaction roll\" and not a standard action roll. In this case, the character would not gain hope for rolling with hope on a reaction roll."
+  },
+  {
+    "question": "Does the player using 'Gifted Tracker ability' add 3 or 2 to the knowledge roll when his skill is zero.",
+    "answer": "You will add 2 to the roll as the character's knowledge skill modifier is zero. A character's know skill bonus is calculated by dividing the 'know' skill value by two, and rounding down.",
+    "rules": [
+      "Part I > None > None"
+    ],
+    "rules_explanation": "When using an ability that grants a bonus to a skill check, the character adds their skill bonus, in this case the know bonus, to the roll. The know bonus is know skill divided by 2 rounding down."
+  },
+  {
+    "question": "When characters are contributing to a group roll, do they gain hope on a roll of '9 with hope'?",
+    "answer": "No. The players contributing to the group roll are only making a reaction roll and so do not gain any hope for their contributions.",
+    "rules": [
+      "Part I > None > None"
+    ],
+    "rules_explanation": "The GM specifies that these additional contributions are just reaction rolls and therefore do not gain Hope"
+  },
+  {
+    "question": "In the 'Krampus's' turn to attack, does the Krampus's 'Vengeful Spirit' apply damage even if the attack does not land?",
+    "answer": "Yes, the Krampus's 'Vengeful Spirit' applies damage even if the attack does not land.",
+    "rules": [
+      "Part I > None > None"
+    ],
+    "rules_explanation": "The question refers to 'Vengeful Spirit', but the rule should be named 'Reaction'. Trystan, the character, suffers damage but kicks off to help his little sister, the transformation is taking place, triggering the 'Reaction'. The GM does not specify that the Reaction requires a hit, only that damage is taken."
+  },
+  {
+    "question": "If two ability adjustments cancel each other out, do they take effect anyway?",
+    "answer": "No. In this case the attack used a 10, the enemy evasion was 11, so the attack did not hit. There would be no bonus effect because the attack missed.",
+    "rules": [
+      "Part I > None > None"
+    ],
+    "rules_explanation": "There is an attempt to hit the snow globe character, but she avoids the attack and does not suffer additional effects from a bonus action. To suffer this additional effect, an attack must first hit and the effects of the game are only performed in order."
+  },
+  {
+    "question": "Does a creature always add a d6 from the rogue class skill when opening locks?",
+    "answer": "No, there is not skill from the Rogue class which gives a d6 on opening locks.",
+    "rules": [
+      "Part II > None > None"
+    ],
+    "rules_explanation": "This is a misremembered or misapplied rule with no basis in the SRD."
+  },
+  {
+    "question": "If a character is using an ability such as \"I'm Going to Get So Mad and I'm Going to use my Vengeance Ability,\" when does the forced damage occur?",
+    "answer": "A character using the vengeance ability takes a stress and forces that jerk to take a hit point, because the character took a hit point.",
+    "rules": [
+      "Part II > None > None"
+    ],
+    "rules_explanation": "This appears to be a misremembered ability or house rule. It does not appear in the SRD."
+  },
+  {
+    "question": "Can a character with two action make a roll using Hope that also applies to that roll?",
+    "answer": "Yes, but they may also add one for rolling with fear.",
+    "rules": [
+      "Part II > None > None"
+    ],
+    "rules_explanation": "It's not possible to determine the exact rules for this, as Daggerheart is not described in the SRD. However, it's stated in the description in the scene that both using an action and rolling with hope are possible."
+  }
+]

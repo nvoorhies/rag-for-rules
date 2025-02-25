@@ -1,0 +1,235 @@
+[
+  {
+    "question": "Can the 1st level cleric use their reaction during a 1st level rogue's turn to cast Inflict Wounds when it provokes an opportunity attack?",
+    "answer": "The 1st level cleric can cast the Inflict Wounds spell as a reaction using War Caster.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks",
+      "Classes > Cleric > Spellcasting > Casting Time"
+    ],
+    "rules_explanation": "An opportunity attack is a reaction. The War Caster feat allows a character to cast a spell with a casting time of 1 action as a reaction in place of an opportunity attack, if the spell only targets that creature. The Inflict Wounds spell has a casting time of one action and is single target."
+  },
+  {
+    "question": "If the 1st level rogue who is falling off the staircase casts Misty Step and Lightning Bolt on its way down, does the monster have advantage on the saving throw against the Lightning Bolt spell?",
+    "answer": "The monster has advantage on the saving throw because the 1st level rogue is tumbling.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "Creatures have advantage on attack rolls against a target they can't see, as the tumbling 1st level rogue is not stable"
+  },
+  {
+    "question": "A legendary action is triggered by the end of the 6th level druid's turn; if the 1st level fighter gets to act at the start of the next round, does the psychic damage still apply at the start of the 1st level fighter's turn even though his place in the initiative order is after the 6th level druid?",
+    "answer": "Yes, psychic damage applies at the start of the 1st level fighter's turn if they are within five feet of the monster.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "The 1st level fighter acts at the start of their turn, which is when the psychic damage applies as it specifies at the top of your turn."
+  },
+  {
+    "question": "If Sympathetically Bond spell has not been cast on one of the characters in the group, may FCG take half of the damage from the creature in the room's attack?",
+    "answer": "No. Sympathetic Bond must be in effect to take the damage from a creature attack. The spell needs to be cast first.",
+    "rules": [],
+    "rules_explanation": "Without being affected by the Sympathetically Bond spell, you have no ability to take damage from the creature's attack. Check to see if FCG has cast this spell."
+  },
+  {
+    "question": "The creature's Bloated Agony Blood Curse lasts for a minute. At the end of each turn can the monster make a con save to see if they can get rid of it? ",
+    "answer": "Yes, the monster can make a Constitution saving throw at the end of each of its turns to end the Bloated Agony.",
+    "rules": [],
+    "rules_explanation": "Review the rules for the Bloated Agony Blood Curse to see if it requires a save and the effects of failing or making the save."
+  },
+  {
+    "question": "If the 1st level cleric uses Spare the Dying to stabilize one of the characters, does that reset her failed death saves?",
+    "answer": "No, Spare the Dying spell does not remove death saving throw failures, only prevents further ones from happening.",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Stabilizing a Creature"
+    ],
+    "rules_explanation": "Spare the Dying, per the rules text in the SRD, only stabilizes a character preventing them from having to make further death saving throws. It doesn't restore HP or remove death saving throw failures."
+  },
+  {
+    "question": "When a 6th level cleric is under a legendary monster's constrict attack, can the 1st level cleric take half of the damage?",
+    "answer": "Not unless the 6th level cleric and 1st level cleric are currently using a spell that allows the 1st level cleric to take damage in place of the 6th level cleric.",
+    "rules": [],
+    "rules_explanation": "The 1st level cleric must have cast a spell that allows them to share the damage taken by the 6th level cleric. If so, the amount and how they share damage should be spelled out in the spell's description."
+  },
+  {
+    "question": "If the invisible character receives a constitution saving throw against a miasma effect and fails, is that one more failed death save?",
+    "answer": "Yes, failing the saving throw counts as a failed death save",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "Failing a death save when at zero HP and dying adds one to the total death save failures."
+  },
+  {
+    "question": "When one of the characters casts Preserve Life, does the effect require the healers to see other player characters?",
+    "answer": "The Preserve Life ability does not require the caster to see the affected creatures.",
+    "rules": [],
+    "rules_explanation": "Review the rules for the Preserve Life ability. It typically affects creatures you can see within a certain range."
+  },
+  {
+    "question": "Is it correct that a melee strike on somebody who's unconscious is an auto-two death saving throw failures?",
+    "answer": "Yes, an attack from a melee weapon that hits a creature that is unconscious is an automatic two death saving throw failures.",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "An attack from a melee weapon that hits a creature that is dying is two death saving throw failures."
+  },
+  {
+    "question": "If the 6th level cleric Channel Divinity, Preserve Life only has so much HP, can it just use it all on one person instead of the amount allotted?",
+    "answer": "No, the HP from Channel Divinity: Preserve Life must be spread amongst multiple people.",
+    "rules": [
+      "Classes > Cleric > Divine Domain > Life Domain > Channel Divinity: Preserve Life"
+    ],
+    "rules_explanation": "Preserve Life requires that you choose any number of creatures and divide the healing amongst them. You can't allocate it all to one character."
+  },
+  {
+    "question": "Are you able to move around when grappled?",
+    "answer": "A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "A grappled creature has their speed reduced to 0 and therefore can't move."
+  },
+  {
+    "question": "Can you use spirit weapon if he doesn't have a melee weapon?",
+    "answer": "As an action, you can make a melee spell attack with the spiritual weapon against a creature within 5 feet of it.",
+    "rules": [],
+    "rules_explanation": "As FCG is not in melee range he cannot use spirit weapon as a melee attack."
+  },
+  {
+    "question": "With resistances, can they resist things that there's a saving throw against, but they can't resist attacks? Or is it-",
+    "answer": "Yes, they can choose to resist something with a saving throw.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "A creature with resistance or immunity to certain types of damage will automatically apply against most damage effects."
+  },
+  {
+    "question": "Does the telekinetic force ability push it five feet to really lock him in place as the character states.",
+    "answer": "Yes, based on the character's understanding they can pull it five feet down. Telekinetic checks, the DC on that.",
+    "rules": [],
+    "rules_explanation": "The DM rules that it is possible to do this action."
+  },
+  {
+    "question": "After Imogen pulls the monster down the stairs with Telekinesis, does FCG get an attack of opportunity?",
+    "answer": "No. As the monster moves away from Imogen, its movement is being compelled which negates the Attack of Opportunity",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "An opportunity attack can only be made when a hostile creature leaves your reach, the trigger must be the hostile creature using its movement, action, or reaction to move away from you. Movement caused by compulsion doesn't trigger the Attack of Opportunity."
+  },
+  {
+    "question": "Do the dice for Preserve Life need to be split evenly? Can I use one dice on one player and another dice on another player?",
+    "answer": "Yes, you can split it up, you do not have to use all dices.",
+    "rules": [
+      "Classes > Cleric > Divine Domain > Life Domain > Channel Divinity: Preserve Life"
+    ],
+    "rules_explanation": "Review the rules for the Preserve Life ability. It typically affects creatures you can see within a certain range, which would split it up."
+  },
+  {
+    "question": "When casting blight, is there drainage of moisture?",
+    "answer": "No, there is no innate drainage of moisture when casting blight.",
+    "rules": [],
+    "rules_explanation": "The description of the spell Blight in the SRD does not state anything regarding a drainage of moisture."
+  },
+  {
+    "question": "Can I have bless on 3 of us and then guidance on FRIDA?",
+    "answer": "No, Deanna cannot cast Bless and Guidance as part of the same action.",
+    "rules": [
+      "Combat > Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "Guidance requires an Action, Bless requires a Bonus Action. A character can only perform one action and one bonus action on their turn. While bless is active, the guidance buff could be cast on another character before they roll an ability check."
+  },
+  {
+    "question": "Does the DM have to give a player a successful Strength (Athletics) check to clear a low obstacle during the jump, or can it be automatic since it would allow for a more cinematic gameplay?",
+    "answer": "That said, clearing a long jump also requires a DC 10 Strength (Athletics) check to clear a low obstacle, such as a hedge or low wall.",
+    "rules": [
+      "Movement and Position > Jumping > Long Jump"
+    ],
+    "rules_explanation": "As per the movement rules, when you make a long jump, you cover a number of feet up to your Strength score. The rules assume that the height of your jump doesn't matter. At the GM's option, you must succeed on a DC 10 Strength (Athletics) check to clear a low obstacle."
+  },
+  {
+    "question": "Does Spare the Dying reset that?",
+    "answer": "Spare the Dying should reset that?",
+    "rules": [],
+    "rules_explanation": "Does Spare the Dying reset that? Doesn't Spare the Dying reset that? The rules are being reviewed to determine the answer."
+  },
+  {
+    "question": "If she fails a constitution saving throw, is that two more failed death saves?",
+    "answer": "No, it's just a single",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "Only a failed death save adds another strike to the failure count. A failed Constitution saving throw does not count as an additional failure"
+  },
+  {
+    "question": "If the tiefling fails a constitution saving throw, but the party has cast Spare the Dying, and the tiefling is now stable. So then I get rid of that?",
+    "answer": "So now you take another death save",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Stabilizing a Creature"
+    ],
+    "rules_explanation": "After stabilizing and returning to zero, you would begin making death saving throws again."
+  },
+  {
+    "question": "If you're resistant to psychic damage, then yeah. Then you take one. Okay. Would it do anything with my-- (clicks tongue)",
+    "answer": "No. This isn't trying to delve into your brain, it's just trying to hurt your brain.",
+    "rules": [],
+    "rules_explanation": "It is clear from the context that there is nothing more the DM requires for this roll or judgement."
+  },
+  {
+    "question": "Telekinetically pull his little butt. It's not going to do anything, but I'm just going to do it because I'm angry.",
+    "answer": "Okay, so intelligence save?",
+    "rules": [],
+    "rules_explanation": "It is clear from the context that is what the DM requires to be rolled."
+  },
+  {
+    "question": "Does it matter if I'm standing in front of her when it unleashes miasma and it fails a roll there?",
+    "answer": "It's a cloud that suffuses the space.",
+    "rules": [],
+    "rules_explanation": "It does not matter if you are standing in front of her, and you need to make a saving throw."
+  },
+  {
+    "question": "The notes alluded. Wait, what's this is? But it was all about the name so, which is. Does that mean it's not Elvish after all?",
+    "answer": "You start sketching them down. Okay, that is finished with what that batch, that first batch of notes are.",
+    "rules": [],
+    "rules_explanation": "The character asks a question that's not about the application of the rules; however, a statement is made here about the character sketching them down, it's the process of the events being played out within the storyline."
+  },
+  {
+    "question": "Is anybody Guided? Is anybody Guided?",
+    "answer": " If this counts as an attack roll, you get a d4. SAM: It doesn't.",
+    "rules": [],
+    "rules_explanation": "There is a question about whether an action counts as an attack roll, which gets answered."
+  },
+  {
+    "question": "Does is look like we are wearing it down or that we're not meeting the threshold?",
+    "answer": "Make an arcana check",
+    "rules": [],
+    "rules_explanation": "A DM instruction to make a roll."
+  },
+  {
+    "question": "So with resistances, they can resist things that there's a saving throw against, but they can't resist attacks? Is that how it goes? Or is it--?",
+    "answer": "Yes, they can choose to resist something with a saving throw.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The creature can use Legendary Resistance, which is an ability that allows them to succeed on the roll, but that's different."
+  },
+  {
+    "question": "Okay, you rolled a 2? I love Matt went, \"How'd she roll zero?\". So you run and leap onto FRIDA's knee. FRIDA, you don't realize this is happening--",
+    "answer": "So it's a four",
+    "rules": [],
+    "rules_explanation": "The players are adding to the initial roll in the game."
+  },
+  {
+    "question": "Feet. (laughter) The creature-- LAURA: Oh! SAM: It can move?",
+    "answer": "It shifts over and begins to slither and squeeze somewhat into the space down--",
+    "rules": [],
+    "rules_explanation": "A question is asked that can be answered definitively by describing the position on the map with respect to the characters, not a question about rules that the character may or may not be aware of."
+  },
+  {
+    "question": "Does it look like we're wearing it down or that we're not meeting the threshold?",
+    "answer": "Make an Arcana check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM is calling for an ability check to determine more information."
+  }
+]

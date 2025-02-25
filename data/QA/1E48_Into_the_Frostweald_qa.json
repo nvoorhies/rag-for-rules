@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What type of check should be made to see if the character can fit a number of people in the extradimensional space created by 'Goes ahead and roll an intelligence check' spell?",
+    "answer": "An Intelligence check should be made to see how many people fit into the extradimensional space.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. Determining the maximum number of people that can fit in the extradimensional space is a use of intelligence and requires a check."
+  },
+  {
+    "question": "Can a player character cast Transport via Plants as a ritual cast with a 6th-level spell?",
+    "answer": "No, the spell does not have the ritual property.",
+    "rules": [
+      "Section > Spellcasting > Rituals"
+    ],
+    "rules_explanation": "Ritual spells are a special tag. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. If the spell does not have the ritual property, then the spell cannot be cast in such a way."
+  },
+  {
+    "question": "Does a player character have to make a perception check?",
+    "answer": "Yes, to percieve events while taking watch roll perception checks, the rules require such a check.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. The GM is asking the player characters to roll a perception check to determine what they percieve."
+  },
+  {
+    "question": "Does an area of effect only include a location within that area if there is an unblocked straight line from the origin to the location?",
+    "answer": "Yes, area of effect only includes a location within that area if there is an unblocked straight line from the origin to the location.",
+    "rules": [
+      "Section > Spellcasting > Areas of Effect"
+    ],
+    "rules_explanation": "A spell's effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn't included in the spell's area."
+  },
+  {
+    "question": "If I'm blinded, what kind of check should I make?",
+    "answer": "Roll an insight check. If they're lying, 18.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "the text says \"Insight check.\""
+  },
+  {
+    "question": "Does averted gaze impose disadvantage?",
+    "answer": "Yes, you will have disadvantage on pretty much everything as long as you're averting your gaze.",
+    "rules": [
+      "Section > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When that happens, you roll a second d20 when you make the roll.  Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage."
+  },
+  {
+    "question": "does a performance check apply?",
+    "answer": "Yes. You roll a d20 add the ability modifiers and proficiency bonus and compare the total to a target number.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM."
+  },
+  {
+    "question": "does the attack have advantage?",
+    "answer": "No. Vex cancels the advantage because you're at disadvantage for averting your gaze and at advantage for the terrain.",
+    "rules": [
+      "Section > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20."
+  },
+  {
+    "question": "What do I roll for an acrobatics check?",
+    "answer": "To make an ability check, roll a d20 and add the relevant ability modifier",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To make an ability check, roll a d20 and add the relevant ability modifier"
+  },
+  {
+    "question": "I'm trying to make a bit of jewelry if that's okay... No, well, this is a piece that has purpose. It actually is going to be a functional object.... A little herb pouch, like one of those cages that close up to put herbs in them? What kind of check do I need to make for it?",
+    "answer": "Dexterity mod, because it's not a very complicated piece based on what you've constructed in the past. It's more about your ability to make it work. Dexterity?",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool."
+  },
+  {
+    "question": "We travel for the better part of a day. You get quite a bit south. You do see in the distance a few times what appear to be some pack animals, some larger beasts that roam the land, none that are necessarily aggressive unless you encroach upon their territory, and Keyleth, you have experience with some of these beasts, so you manage to keep people at bay and traverse around what they claim as their own landscape. No terrible detriment to your traveling speed. Do we use nature to deal with these events?",
+    "answer": "Yeah, you can see them. I'm not quite sure how it would be. Is there some sort of spell you would use to communicate with them?",
+    "rules": [
+      "Section > Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "A Wisdom check might reflect an effort to understand someone's feelings, notice things about the environment, or care for an injured person. The Animal Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of Wisdom checks. The GM is trying to determine how to apply those checks and skills to resolving the interaction."
+  },
+  {
+    "question": "Can I reroll an attack using inspiration because I am in the forest?",
+    "answer": "No, it's disadvantage for averting your gaze, advantage for being your favored terrain– I don't think you get advantage on attacks for being in favored terrain, do you? I think it's just on ability checks.",
+    "rules": [
+      "Section > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Favored Terrain grants extra benefits when making ability checks. If you have advantage or disadvantage and something in the game lets you reroll the d20, you can reroll only one of the dice. You choose which one."
+  },
+  {
+    "question": "At a 19, you're now at a plus four as opposed to a plus one to all your hit and damage with your physical weapons. So on your sheet, where it has your attack bonus with your mace, or with your morningstar, and the damage, add a plus three to both the attack bonus and damage. Should we be making these changes?",
+    "answer": "Yes. At a 19, you're now at a plus four as opposed to a plus one to all your hit and damage with your physical weapons.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "Each ability also has a modifier, derived from the score and ranging from −5 (for an ability score of 1) to +10 (for a score of 30). Your stats modify the attack and damage bonus."
+  },
+  {
+    "question": "Does being an aquatic person mean we don't fall off it, though?",
+    "answer": "As you take a moment to do some unique tricks with her elaborate and long-running experience directing brooms across the sky, she gets a bit cocky and does a “look, ma, no hands” moment. However, in doing so, the broom sputters out from under the grasp of her legs, and suddenly goes limp as it begins to fall almost as fast as you are, as you both begin to plummet.",
+    "rules": [
+      "Section > The Order of Combat > Movement and Position > Flying Movement"
+    ],
+    "rules_explanation": "If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic"
+  },
+  {
+    "question": "Can I fly down and land on a tall tree?",
+    "answer": "You can try to.",
+    "rules": [
+      "Section > The Order of Combat > Movement and Position > Special Types of Movement > Climbing, Swimming and Crawling"
+    ],
+    "rules_explanation": "You can't use the move action to perform any special action. To do so, it would have to use the attack action instead. Matt is allowing him to attempt it rather than forbidding the action."
+  },
+  {
+    "question": "can cancel out the disadvantage and get just a normal roll?",
+    "answer": "Yes, you would have a normal roll on this.",
+    "rules": [
+      "Section > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20."
+  },
+  {
+    "question": "I try to find the one who's the most able-bodied. Right? We're going to need someone to go find Pike or deliver a message, right? Is there a task then to go find the orcs that are keeping their people hostage up in the Frostweald?",
+    "answer": "Yes. We're going to need someone to go find Pike or deliver a message, right?",
+    "rules": [
+      "Section > Equipment > Services"
+    ],
+    "rules_explanation": "You guys are given a relatively ramshackle tent in which you can sleep for the evening, cooked fish– that's about all they have to offer– with a few leftover potatoes that appear to have been recently either located amongst their remaining crates, you have no idea, but a passable meal is presented if you'd like, and a place that has cloth over your head."
+  },
+  {
+    "question": "Can I do my Transport via Plants as a ritual cast to not burn a slot level?",
+    "answer": "Nope.",
+    "rules": [
+      "Section > Spellcasting > Rituals"
+    ],
+    "rules_explanation": "It would say it next to the spell. Ritual."
+  },
+  {
+    "question": "Do I need a jeweler's kit?",
+    "answer": "Do you have a jeweler's kit? It's a whole different skill set, man.",
+    "rules": [
+      "Section > Equipment > Tools"
+    ],
+    "rules_explanation": "Each type of artisan's tools requires a separate proficiency."
+  },
+  {
+    "question": "Do I get regular because it's my favored terrain, so I cancel it all out?",
+    "answer": "It's disadvantage for averting your gaze, advantage for being your favored terrain– I don't think you get advantage on attacks for being in favored terrain, do you? I think it's just on ability checks.",
+    "rules": [
+      "Section > Ranger > Favored Terrain"
+    ],
+    "rules_explanation": "The Favored Terrain benefits described are specifically for Intelligence and Wisdom checks"
+  },
+  {
+    "question": "If I leave it up, can anyone go in there?",
+    "answer": "Anyone that you allow into it.",
+    "rules": [
+      "Section > Spell Descriptions"
+    ],
+    "rules_explanation": "Depending on the spell the door can only be opened by particular creatures or those that know the password. This case is based on the GMs discretion based on those details for the spell being described."
+  },
+  {
+    "question": "Keyleth takes a second to meditate on the previous time that we were here in the Frostweald, and I cast Find the Path. 6th-level spell. Which gives me the most direct, shortest route as long as I'm on the same plane existence of where I'm going, if I have a vague idea of where I'm going...For the spell to work, you have to choose a specific location that you're already familiar with to lead you to it?",
+    "answer": "For a general location or a location that you're unaware of, the spell wouldn't have an effect.",
+    "rules": [
+      "Section > Spell Descriptions > Find The Path"
+    ],
+    "rules_explanation": "The spell's effect depends on the details the character is aware of with the destination. The destination must be a specific location the caster is familiar with."
+  },
+  {
+    "question": "It helps me at all to practice on this broom?",
+    "answer": "It helps me.",
+    "rules": [
+      "Section > The Order of Combat > Actions in Combat > Attack"
+    ],
+    "rules_explanation": "There are no direct rules about improving skills through practice. This would be a GM discretion based on the activity being done and the effect it might have in game."
+  },
+  {
+    "question": "Can I go collect some of the (stuttering) basilisk– I can't say that. Can I get some of the blood and collect it?",
+    "answer": "Sure.",
+    "rules": [
+      "Section > Equipment > Alchemist's Supplies"
+    ],
+    "rules_explanation": "The rules state a character needs alchemist's supplies to craft poisons but doesn't state that anyone needs alchemist's supplies to collect something from an animal."
+  },
+  {
+    "question": "can I regrow my brother's little nubbin of a toe?",
+    "answer": "This is a bit beyond your healing capabilities.",
+    "rules": [
+      "Section > Spellcasting > Healing"
+    ],
+    "rules_explanation": "There are many spells to heal and restore people to normal capabilities, but growing body parts is beyond most magic and requires a lot of higher power to do so."
+  }
+]

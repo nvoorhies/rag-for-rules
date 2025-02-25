@@ -1,0 +1,631 @@
+[
+  {
+    "question": "Can the level 5 Sorcerer use Fabricate, and if so, can he meld wood into the stone?",
+    "answer": "A spell requires a final visualized structure of the result of casting it.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components > Material (M)"
+    ],
+    "rules_explanation": "The spell has a material component, and rules that the spell requires ' a final visualized structure'."
+  },
+  {
+    "question": "Does the construct have any protection based on being prone?",
+    "answer": "The prone condition does not grant disadvantage on Dexterity saving throws",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The prone condition only confers advantage or disadvantage on attack rolls and does not interact with saving throws."
+  },
+  {
+    "question": "Is a natural 20 on a saving throw against being banished an automatic success for the creature?",
+    "answer": "No, a natural 20 is not an automatic success for a saving throw.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Automatic successes or failures only apply to attack rolls, not saving throws or ability checks."
+  },
+  {
+    "question": "Does Sharpshooter ignore the cover granted by being prone?",
+    "answer": "No, the Sharpshooter feat does not ignore the cover provided by the prone condition.",
+    "rules": [],
+    "rules_explanation": "The sharpshooter feat ignores half cover and three-quarters cover, but prone is a different condition"
+  },
+  {
+    "question": "If the level 9 Paladin rolls a natural 20 on an attack roll on a held action can he double the dice for Divine Smite damage?",
+    "answer": "Yes, the dice for damage from Divine Smite are rolled twice on a critical hit.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "A natural 20 on an attack roll is a critical hit, so you roll damage dice twice."
+  },
+  {
+    "question": "If the 9th level cleric casts Sacred Flame and the construct saves, does he take half damage?",
+    "answer": "If the construct succeeds on its Dexterity saving throw, it takes half the spell's damage.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Saving Throws",
+      "Cleric Spells > Sacred Flame"
+    ],
+    "rules_explanation": "The spell text indicates that damage is halved on a successful save."
+  },
+  {
+    "question": "Does the target also get the benefit of the Freedom of Movement spell?",
+    "answer": "Yes, the target also gets the benefit of the Freedom of Movement spell: for the duration, the target's movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target's speed nor cause the target to be paralyzed or restrained. The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled.",
+    "rules": [
+      "Spell Descriptions > Freedom of Movement"
+    ],
+    "rules_explanation": "The target's movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target's speed nor cause the target to be paralyzed or restrained. "
+  },
+  {
+    "question": "When the constructs leg steps out of the hole, does the hole it is in still confer the prone condition?",
+    "answer": "No. Prone condition ends when a creature stands",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "A prone creature can end the condition by standing"
+  },
+  {
+    "question": "If the Banishment spell succeeds, how long is the creature banished for?",
+    "answer": "If the target is native to a different plane of existence than the one you're on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn't return.",
+    "rules": [
+      "Spell Descriptions > Banishment"
+    ],
+    "rules_explanation": "A reading of the banishment spell tells you how the spell works on creatures native to another plane."
+  },
+  {
+    "question": "Can a character concentrating on a spell prepare a new spell?",
+    "answer": "No, preparing a spell is concentrating on it and that will end your concentration on the previous spell",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "You can't concentrate on two spells at once."
+  },
+  {
+    "question": "Does having advantage on a strength check from raging confer on a check to attempt to dislodge the crystal",
+    "answer": "Yes, the Barbarian would have advantage on their ability check while raging",
+    "rules": [
+      "Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "Advantage on Strength checks is a feature of rage."
+  },
+  {
+    "question": "If no one hits the creature, does the rage drop?",
+    "answer": "Yes, the rage would end since there has been no attack made",
+    "rules": [
+      "Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "Rage ends if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then."
+  },
+  {
+    "question": "Does the target have to take a constitution saving throw to avoid being slowed by an effect?",
+    "answer": "Yes. The steam emits an energy that requires both characters to make a Wisdom saving throw. on a save, the target cannot use reactions, their speed is halved, and they cannot make more than one attack per turn.",
+    "rules": [],
+    "rules_explanation": "The ability requires both to make a Wisdom saving throw against it."
+  },
+  {
+    "question": "After an hour from casting Freedom of Movement, does the target lose the benefit?",
+    "answer": "Yes, after 1 hour, the target loses the benefit of Freedom of Movement.",
+    "rules": [
+      "Spell Descriptions > Freedom of Movement"
+    ],
+    "rules_explanation": "The Freedom of Movement spell lasts for an hour"
+  },
+  {
+    "question": "Does disadvantage from being slowed stack with the ability on Freedom of Movement?",
+    "answer": "Freedom of movement makes the target's movement unaffected by difficult terrain and spells and other magical effects can neither reduce the target's speed nor cause the target to be paralyzed or restrained, the target is still slowed",
+    "rules": [
+      "Spell Descriptions > Freedom of Movement"
+    ],
+    "rules_explanation": "Freedom of Movement only stops speed reduction from spells and magical effects"
+  },
+  {
+    "question": "If an enemy is prone, am I at disadvantage for a ranged attack?",
+    "answer": "Yes, you have disadvantage on a ranged attack if the target is prone and within 5 feet of you.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "Attacking a target within 5ft causes disadvatage"
+  },
+  {
+    "question": "Am I hidden if I revealed myself by attacking?",
+    "answer": "No, you are not hidden, when you revealed yourself when you attacked.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "Hiding requires the Hide action and remaining unseen."
+  },
+  {
+    "question": "Can Yasha get closer by 'breast stroking' in the air, what are the rules for levitation?",
+    "answer": "A character can only move up and down. Veth can control only up and down. you cannot control the direction of this at all. Ashley has to reach up and grab a hold of the ceiling and pull herself along like an astronaut",
+    "rules": [],
+    "rules_explanation": "I did this rule based on previous information given on the power being used"
+  },
+  {
+    "question": "Does raging give you advantage on strength checks to pull something?",
+    "answer": "Yes, raging gives you advantage on Strength checks.",
+    "rules": [
+      "Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "Advantage on Strength checks is a feature of rage."
+  },
+  {
+    "question": "When does hexblade's curse recharge? Can it still be used in this fight?",
+    "answer": "The Hexblade's Curse recharges after a short or long rest. The party did have a short rest",
+    "rules": [],
+    "rules_explanation": "I'm using prior knowledge to answer the second part of the question as it appears"
+  },
+  {
+    "question": "If the target's movement speed is 30, and they are slowed, does that mean they only have 15 now?",
+    "answer": "Yes, if a target is slowed, their movement speed is halved.",
+    "rules": [],
+    "rules_explanation": "Because of the Slow effect"
+  },
+  {
+    "question": "After hexblade's curse is cast, does the target also take an action or a bonus action on its turn, not both?",
+    "answer": "Correct, after casting Hexblade's Curse, the target can either take an action or a bonus action on its turn, not both.",
+    "rules": [],
+    "rules_explanation": "Reading of the ability, Hexblade's Curse"
+  },
+  {
+    "question": "With a ranged attack and disadvantage, how many dice do I roll?",
+    "answer": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. ",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage and disadvantage cancel out."
+  },
+  {
+    "question": "What happens to the stone after using Stone Shape on the ground?",
+    "answer": "There is a pit in the ground about five feet deep",
+    "rules": [
+      "Spell Descriptions > Stone Shape"
+    ],
+    "rules_explanation": "The action creates an indentation of the appropriate description"
+  },
+  {
+    "question": "Does falling cause a reaction?",
+    "answer": "Yes, you can use your reaction when you fall.",
+    "rules": [],
+    "rules_explanation": "There is no rule preventing you using it."
+  },
+  {
+    "question": "Is the damage from slow fall negated as a monk?",
+    "answer": "Yes, you take no damage",
+    "rules": [],
+    "rules_explanation": "The use of the spell and ability combined will reduce falling damage to 0"
+  },
+  {
+    "question": "Can Caduceus reach Fjord from where he is to cast Heal?",
+    "answer": "No, Fjord is way too far for Caduceus to reach him with Heal.",
+    "rules": [
+      "Spell Descriptions > Heal"
+    ],
+    "rules_explanation": "Using description of the location combined with the Heal spell"
+  },
+  {
+    "question": "Can i multi attack the target with the gem in the claw",
+    "answer": "Caleb is using his bonus action to move the cat's Ire claw which already strikes, so therefore he is now using the action with the Fire Bolt",
+    "rules": [],
+    "rules_explanation": "Since Caleb used a bonus action with Cat's Ire there is only one action remaining"
+  },
+  {
+    "question": "After a banishment how do I know when the effects of the spell have ended?",
+    "answer": "There is a 30 second count when you cast the Banishment again, the spell duration is for a minute.",
+    "rules": [
+      "Spell Descriptions > Banishment"
+    ],
+    "rules_explanation": "This is based on general understanding of spell length and turn usage"
+  },
+  {
+    "question": "If I drop someone, how far do they fall",
+    "answer": "They fall 30 feet",
+    "rules": [],
+    "rules_explanation": "Prior context in the campaign allows this result to be ascertained"
+  },
+  {
+    "question": "Can a long rest be completed during combat",
+    "answer": "You must take an 8 hour period to get the benefits of the rest, therefore you can't complete it",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "It takes 8 hours"
+  },
+  {
+    "question": "Are you grappled from the tail harpooning of a creature?",
+    "answer": "Yes, you are grappled",
+    "rules": [],
+    "rules_explanation": "Previously described effect states this"
+  },
+  {
+    "question": "If I was in a doorway, can I tap someone so they can make a save?",
+    "answer": "Cant cast touch spells through walls",
+    "rules": [],
+    "rules_explanation": "Touch range"
+  },
+  {
+    "question": "When someone is 60 feet away am I at disadvantage?",
+    "answer": "Spells that require a saving throw are different from attack rolls, which can be affected by long range",
+    "rules": [],
+    "rules_explanation": "Different range"
+  },
+  {
+    "question": "If I have Slow Fall, and I am a monk, does that prevent falling damage completely?",
+    "answer": "Yes, due to you applying both effects. But you do have the effect of the spell, but you negated the damage, so you have taken no damage as well",
+    "rules": [],
+    "rules_explanation": "You are using two different powers to negate an effect"
+  },
+  {
+    "question": "Can I add another extra damage dice to a great weapon roll on a character",
+    "answer": "Because you have advantage it has increased from 3d6 to 4d6 damage",
+    "rules": [],
+    "rules_explanation": "It's a damage boost"
+  },
+  {
+    "question": "When a wild magic surge doesn't make sense, do I roll anyways?",
+    "answer": "Yeah and no effect",
+    "rules": [],
+    "rules_explanation": "I assumed that it would roll, but have to use an applicable surge"
+  },
+  {
+    "question": "Is a storm of fire good or radiant?",
+    "answer": "A radiant spell",
+    "rules": [],
+    "rules_explanation": "Type of spell"
+  },
+  {
+    "question": "Does Dispel Magic stop Stone Shape",
+    "answer": "It can",
+    "rules": [],
+    "rules_explanation": "Based on level of spell and save"
+  },
+  {
+    "question": "After a Banish spell is cast, will it hold the creature",
+    "answer": "I will save you the spell slot",
+    "rules": [],
+    "rules_explanation": "Assuming that will happen for the sake of the game"
+  },
+  {
+    "question": "If the rogue throws a knife in order to do extra damage, is that a ranged spell attack or weapon attack?",
+    "answer": "It's still a melee attack, but since it was Divine Smite, there was some divine magic blasted into that. . it's just a physical attack.",
+    "rules": [],
+    "rules_explanation": "Just a physical attack"
+  },
+  {
+    "question": "Does being prone give disadvantage for Dex, Con, Int saves?",
+    "answer": "I'll allow it, because it makes sense.",
+    "rules": [],
+    "rules_explanation": "Sounds good for balance"
+  },
+  {
+    "question": "Can a strength check be used as an acrobatics check",
+    "answer": "Acrobatics check.",
+    "rules": [],
+    "rules_explanation": "This a skill you can use"
+  },
+  {
+    "question": "When a creature is under the effects of the bless spell and makes a natural 20 attack, does this provide the option for wild magic?",
+    "answer": "The smite was Divine Smite.",
+    "rules": [],
+    "rules_explanation": "Based on the divine nature of that"
+  },
+  {
+    "question": "Can I use 5 ft of movement to release myself from a grapple",
+    "answer": "Correct, because you have Freedom of Movement you are not grappled and can spend 5 feet of movement to become free.",
+    "rules": [],
+    "rules_explanation": "This is the ability for the spell"
+  },
+  {
+    "question": "Does holding an action mean the benefit of bardic inspiration continues for the next person?",
+    "answer": "Yes, the effect would still take place at the start of their turn",
+    "rules": [],
+    "rules_explanation": "The player can use bardic inspiration and it stays until they do an attack."
+  },
+  {
+    "question": "Does Nott have advantage on the attack roll because she is hidden",
+    "answer": "So you would have advantage, which would cancel it out. So it'd be just a straight roll.",
+    "rules": [],
+    "rules_explanation": "You have to weigh it out"
+  },
+  {
+    "question": "Was Veth blessed with a 1d4",
+    "answer": "Not blessed",
+    "rules": [],
+    "rules_explanation": "It does not list her as blessed in this specific case"
+  },
+  {
+    "question": "If I have 24 armor, would it miss him even though he is prone",
+    "answer": "That gave you the advantage, but he's still heavy armor.",
+    "rules": [],
+    "rules_explanation": "Armor is heavy enough to protect"
+  },
+  {
+    "question": "Can a 15 foot tall creature be inconvenienced by 5 foot depth. Or does a 10-foot deep drop affect the creature",
+    "answer": "But since it does drop at the end of your turn, we're back in the initiative order here. It was after you, so it takes its turn.",
+    "rules": [],
+    "rules_explanation": "Based on the description of the turn"
+  },
+  {
+    "question": "If he did his one action, can he make all three attacks?",
+    "answer": "No. Technically, it's not an attack, it's an action.",
+    "rules": [],
+    "rules_explanation": "It's different rules if that's the case"
+  },
+  {
+    "question": "Does half cover apply here?",
+    "answer": "And with your angle it does have half cover, so.",
+    "rules": [],
+    "rules_explanation": "Based on position and the description of the rules"
+  },
+  {
+    "question": "If she fails the rage, will that still take up a rage?",
+    "answer": "You're not attacking and you're not being hit. This isn't mid-battle. This is just trying to pull something free. So every turn you do this, you are expending a rage to do so. So you have to decide",
+    "rules": [],
+    "rules_explanation": "Rage, in general, is a rage, unless there's specific rules."
+  },
+  {
+    "question": "With the advantage from rage is that one better?",
+    "answer": "So you use another rage. You do get advantage on your ability check.",
+    "rules": [],
+    "rules_explanation": "Using rage makes your action advantage"
+  },
+  {
+    "question": "Does advantage help with just attack or something else",
+    "answer": "You do get advantage on your ability check",
+    "rules": [],
+    "rules_explanation": "You would get it on a check, but not others"
+  },
+  {
+    "question": "What is the level 14 Barbarian's speed halved and can't take a second attack because they are slowed",
+    "answer": "Beau and Fjord, I need you both to make a wisdom saving throw, please.. Both fail. You are both slowed as you feel your bodies",
+    "rules": [],
+    "rules_explanation": "Wisdom save"
+  },
+  {
+    "question": "If I haven't hit anyone, will it still happen when my turn comes back?",
+    "answer": "Well, prone--. No, it doesn't.",
+    "rules": [],
+    "rules_explanation": "Prone only gives advantage within the five feet reach. You're so far away, it doesn't matter."
+  },
+  {
+    "question": "Does the bard's duplicate still up because he has a spell concentrating up?",
+    "answer": "Ah, okay, then I guess I myself ran over to do the Stone Shape that I talked about.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The character cast Banishment, which is a concentration spell."
+  },
+  {
+    "question": "Can I cast Guiding Bolt as a reaction when the automaton reappears?",
+    "answer": "You were holding onto your Guiding Bolt",
+    "rules": [],
+    "rules_explanation": "You are getting to act before"
+  },
+  {
+    "question": "Can Jester cast Stone Shape instead of Banishment?",
+    "answer": "If you want to cast Stone Shape, you can't concentrate on it to banish it.",
+    "rules": [],
+    "rules_explanation": "Cannot concentrate on two spells at once."
+  },
+  {
+    "question": "Does advantage to attack equal critical hit chance?",
+    "answer": "It was because of that advantage.",
+    "rules": [],
+    "rules_explanation": "I mean that's the same as 20."
+  },
+  {
+    "question": "Can I say I'm holding my action and then dodge instead?",
+    "answer": "You can say dodge action, but I'm holding my attack",
+    "rules": [],
+    "rules_explanation": "You have to be set, to dodge"
+  },
+  {
+    "question": "I'm enraged because she has five. Or",
+    "answer": "It would just use one of your rages for the day if you were to do it, so.",
+    "rules": [],
+    "rules_explanation": "You would get additional rage boost"
+  },
+  {
+    "question": "I'm going to try to do something stupid, where do I go?",
+    "answer": "While we're waiting our 30 seconds, I'm going to move up to the orb closest to me and hide behind it.",
+    "rules": [],
+    "rules_explanation": "Moving out of the way"
+  },
+  {
+    "question": "If they went through my Guardian, would they get any damage",
+    "answer": "The Guardian was set up at the base, at the entrance of the tunnel, Correct. And it did not-- Cool. Just checking",
+    "rules": [],
+    "rules_explanation": "You didn't touch"
+  },
+  {
+    "question": "If they did that, can that help me?",
+    "answer": "And it's for you or for both of you, so that means it still goes from where he appeared. The whole point is for the attack.",
+    "rules": [],
+    "rules_explanation": "You are doing some sort of action for the people"
+  },
+  {
+    "question": "If a giant starts falling, what do they do?",
+    "answer": "We're back in the initiative order here. It was after you, so it takes its turn.",
+    "rules": [],
+    "rules_explanation": "The monster can play"
+  },
+  {
+    "question": "If you are holding your action and see a guy next to your friend, can you attack?",
+    "answer": "But this is not a reaction. So know.",
+    "rules": [],
+    "rules_explanation": "Doesn't work with your current action"
+  },
+  {
+    "question": "Does a cantrip still happen like that. 4d10+1.",
+    "answer": "No, it's spells and effects that are like, casting magic",
+    "rules": [],
+    "rules_explanation": "I'll clarify here"
+  },
+  {
+    "question": "Can it see me if he reveals himself and is not dead?",
+    "answer": "You are not hidden, when you revealed yourself when you attacked.",
+    "rules": [],
+    "rules_explanation": "You just attack, you know you will be seen. You want to take a shot without being seen, then hide, then do that again"
+  },
+  {
+    "question": "Because I'm on the ceiling, do I have a vantage or advantage?",
+    "answer": "Okay. So can I try to float over to-- Over to him? So what you do know right now is that you cannot control the direction of this at all. Only Veth can.",
+    "rules": [],
+    "rules_explanation": "Based on power that was used."
+  },
+  {
+    "question": "If she can't rage, can the cleric just knock her?",
+    "answer": "Yeah it would just use one of your rage for the day if you were to do it",
+    "rules": [],
+    "rules_explanation": "Doesn't matter"
+  },
+  {
+    "question": "If I use Haste, what will be my movement speed",
+    "answer": "So if my movement speed is 30, that means I have 15 now?",
+    "rules": [],
+    "rules_explanation": "Yes, it's going to do the slow, too."
+  },
+  {
+    "question": "If one side has a lance with barbs, do I die immediately?",
+    "answer": "It's okay",
+    "rules": [],
+    "rules_explanation": "It will just bring you down to a certain level and make you unable to do things. You also get dragged."
+  },
+  {
+    "question": "Does holding an action mean I don't have a concentration bonus?",
+    "answer": "Yep. So go for it. Those who are holding actions, take them now.",
+    "rules": [],
+    "rules_explanation": "You are no longer under that spell because you want to attack"
+  },
+  {
+    "question": "Who is attacking me on the field?",
+    "answer": "He appears right there where it was. Beauregard is right there in front of it.",
+    "rules": [],
+    "rules_explanation": "Checking for position of characters"
+  },
+  {
+    "question": "If the creature teleports, do I get a Sentinel reaction?",
+    "answer": "It did not, because she's holding it for its appearance.",
+    "rules": [],
+    "rules_explanation": "That's the held action, so now she can do that"
+  },
+  {
+    "question": "I can use 5 feet of movement to get out of it on a roll, or do I need to roll?",
+    "answer": "You're fine.",
+    "rules": [],
+    "rules_explanation": "Freedom of movement"
+  },
+  {
+    "question": "If the target is still there, what do I do",
+    "answer": "And you just see a hole. Like, a hole that big where it's just muscle and blood. 12 points of healing as well from me, 11 points of healing.",
+    "rules": [],
+    "rules_explanation": "The team is able to heal the character"
+  },
+  {
+    "question": "If I do this as my action am I good to go?",
+    "answer": "Okay so to get the cat is like",
+    "rules": [],
+    "rules_explanation": "Okay, all right, all right, all right"
+  },
+  {
+    "question": "How big is the shaft going through the stone?",
+    "answer": "It's a tight tunnel",
+    "rules": [],
+    "rules_explanation": "Description of the location"
+  },
+  {
+    "question": "If someone is far from me, do they see me?",
+    "answer": "As you guys are all making it up there-- I will say, with all of you all at once, in succession, heading up the rope-- well, you're not all in succession because you've been ferrying them up, so yeah, no. There's no worry, continue.",
+    "rules": [],
+    "rules_explanation": "You cannot use an attack of opportunity"
+  },
+  {
+    "question": "What happens if I'm standing there and cast Fire Storm",
+    "answer": "You've got to have clear shot or you can't do a thing!",
+    "rules": [],
+    "rules_explanation": "Based on having clear shot"
+  },
+  {
+    "question": "After doing some thing can the baddie have a action?",
+    "answer": "To do that, because that was his action, doing that. The rage would have dropped before it got to you.",
+    "rules": [],
+    "rules_explanation": "It can't be an action"
+  },
+  {
+    "question": "Are any of our levels reset when we are stuck, do we have to try again?",
+    "answer": "No",
+    "rules": [],
+    "rules_explanation": "Prior knowledge"
+  },
+  {
+    "question": "To see if the character knows, do I roll or what do I do?",
+    "answer": "I'm also doing that, because I have comprehend languages. Oh do",
+    "rules": [],
+    "rules_explanation": "The language"
+  },
+  {
+    "question": "How high on the rope can it be before its not possible for it to use actions.",
+    "answer": "Right now he's about 60, 70 feet.",
+    "rules": [],
+    "rules_explanation": "Description of action"
+  },
+  {
+    "question": "If you have a 19 out of 20 saving are you not?",
+    "answer": "Yeah he doesn't fail, but the thing is this is your choice.",
+    "rules": [],
+    "rules_explanation": "But now it happens for your side."
+  },
+  {
+    "question": "If the 8-hour is broken by combat does it reset",
+    "answer": "You have not completed a long rest.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "You needed eight hours of sleep with not"
+  },
+  {
+    "question": "How does scrying through a snow wall work?",
+    "answer": "The dome's not soundproof.",
+    "rules": [],
+    "rules_explanation": "Its hearing the sounds of the people. In this context, the sounds are still there."
+  },
+  {
+    "question": "Do you remember where you are?",
+    "answer": "As you all are making it up there-- I will say, with all of you all at once, in succession, heading up the rope-- well, you're not all in succession because you've been ferrying them up, so yeah, no.",
+    "rules": [],
+    "rules_explanation": "You can use your action"
+  },
+  {
+    "question": "How does a sphere that you're with travel or do?",
+    "answer": "And that is where we'll stop. The sphere is a circle, and that's how it works",
+    "rules": [],
+    "rules_explanation": "Does what it does"
+  },
+  {
+    "question": "If Fjord takes a reaction and can blow some energy, is that the point?",
+    "answer": "No. Technically, it's not an attack, it's an action.",
+    "rules": [],
+    "rules_explanation": "There's no range."
+  },
+  {
+    "question": "Since all the time has passed, am I still under the effects of a spell?",
+    "answer": "You can't change this time because it needs rest of the body.",
+    "rules": [],
+    "rules_explanation": "Based on that, still true."
+  },
+  {
+    "question": "If the party fails to dislodge the door what does it do?",
+    "answer": "It's more wedged now than it was when you found it. And it is, like, locked at an angle. Part of its mooring is slightly cracked and off-kilter. It's not moving.",
+    "rules": [],
+    "rules_explanation": "You're having some issues, still."
+  },
+  {
+    "question": "Does the guidance from the cleric affect another?",
+    "answer": "Nope, nope",
+    "rules": [],
+    "rules_explanation": "You will get the same spell"
+  },
+  {
+    "question": "Does the hand axe break because it is magical?",
+    "answer": "So it doesn't break, because it is magical.",
+    "rules": [],
+    "rules_explanation": "You have added to it so you can still use it"
+  }
+]

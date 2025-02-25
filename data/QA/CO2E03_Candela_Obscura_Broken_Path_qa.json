@@ -1,0 +1,109 @@
+[
+  {
+    "question": "Can the 1st-level race, class, race, etc. with 2 gilded Intuition drives, use Premonition to resist one mark of bleed that one of the other party members is going to take?",
+    "answer": "Yes, because the one of the party members can resist one mark of bleed",
+    "rules": [
+      "Part I > <unknown> > Premonition"
+    ],
+    "rules_explanation": "The Premonition action allows the race, class, race, etc. to resist one mark of bleed."
+  },
+  {
+    "question": "If Ms. Morales has a pistol in her hands, and a creature is grabbing her at a window, and the 1st-level race, class, race, etc. wants to throw a dresser on top of the creature's arm, is that a Strike roll?",
+    "answer": "Yes, that would be a Strike roll.",
+    "rules": [
+      "Part I > <unknown> > Strike"
+    ],
+    "rules_explanation": "Attacking a creature with an object is a strike roll"
+  },
+  {
+    "question": "Can the 1st-level race, class, race, etc. use Survey instead of Strike to bash a sconce up against a creature's head?",
+    "answer": "Yes, The GM allows the player to roll survey instead of strike",
+    "rules": [
+      "Part I > <unknown> > Survey",
+      "Player's Handbook > <unknown> > Improvise action"
+    ],
+    "rules_explanation": "The game master can allow for player ingenuity by allowing the player to make a survey roll instead of a strike roll"
+  },
+  {
+    "question": "Can the 1st-level race, class, race, etc. spend a resistance point to reroll Hide dice?",
+    "answer": "Yes, the 1st-level race, class, race, etc. can spend a resistance to reroll Hide dice",
+    "rules": [
+      "Break > <unknown> > Resistances"
+    ],
+    "rules_explanation": "The provided break down mentioned the use of Resistances and the description of the roll mentions to \"Spend that. Reroll those Hide dice.\""
+  },
+  {
+    "question": "When the 1st-level race, class, race, etc. burns nerve points to make a Sway roll, do they add a regular die or a gilded die?",
+    "answer": "When you burn the bleed, it lets you add a gilded die, not a regular die",
+    "rules": [
+      "Part I > <unknown> > Gilded Die"
+    ],
+    "rules_explanation": "The description clarifies \"those do let you add a gilded die. When you use that guy, when you burn the bleed, it lets you add a gilded die, not a regular die.\""
+  },
+  {
+    "question": "Can the 1st-level race, class, race, etc., after succeeding on a control roll, reroll one of the dice in the middle?",
+    "answer": "Yes.",
+    "rules": [
+      "Part I > <unknown> > Special dice"
+    ],
+    "rules_explanation": "The description clarifies \"You do have the dice in the middle to use. Did you want to use one of those? You can roll one more, I'll let you.\""
+  },
+  {
+    "question": "When making a Hide roll with two dice, do you take the higher or the lower result?",
+    "answer": "You take the lower of the two dice.",
+    "rules": [
+      "Break > <unknown> > Actions"
+    ],
+    "rules_explanation": "The description clarifies that you can roll 2 dice for an action, and take the lower result. "
+  },
+  {
+    "question": "If my character with training ability burns drive to aid another player, and that player rolls a gilded die to make the roll, does my character get to recover a drive if the gilded die is used?",
+    "answer": "No. Only the character rolling the gilded die refreshes the appropriate drive if they take the result of the gilded die.",
+    "rules": [
+      "Break > <unknown> > Actions"
+    ],
+    "rules_explanation": "It says “if I took the gilded result on the roll I would refresh one cunning”"
+  },
+  {
+    "question": "When a character makes a Sense roll and succeeds, and uses Cold Read, do they also take bleed?",
+    "answer": "Yes, bleed is taken due to failing a mixed success, so is not inherent to cold read",
+    "rules": [
+      "Part I > <unknown> > Sense"
+    ],
+    "rules_explanation": "The game master states: Expectation-wise with Focus, I would say that you aren't, you can see that the door is ajar, there doesn't appear to be anything out of place here, but, yeah, there's not something else necessarily will give you clues here as to what's within just based on the door. You just, I think the shot we get here is you standing in front of the door that's ajar, being like, \"What do I, how do I do this?\"\nAnd the bleed is applied outside of that: But I will say you are in danger of taking a bleed if you roll a mixed success or a miss."
+  },
+  {
+    "question": "When a character takes 1 or more bleed marks, do they then get to immediately use a trait such as Tenacious or Saw This Coming?",
+    "answer": "Yes.  The \"Tenacious\" ability (when you have one or more bleed marks, you gild an additional die) and Saw This Coming (When I take one or more marks, you instead escape unscathed) can be triggered when a character takes bleed.",
+    "rules": [
+      "Part II > Character abilities > Tenacious",
+      "Part II > Character abilities > Saw This Coming"
+    ],
+    "rules_explanation": "This question assumes that the various abilities that are listed can be immediately used. Given the usage of \"Spend that. Reroll those Hide dice.\" from the first rule, we can also ascertain this to be true. The provided data also matches this use."
+  },
+  {
+    "question": "If the 1st level class, race, race, etc. attempts to flee from the minefield, and is successful, what is the next thing to occur?",
+    "answer": "You are driving towards Westwreck here to try and get to the mines",
+    "rules": [
+      "Part II > Mine fields"
+    ],
+    "rules_explanation": "The description clarifies that you can attempt to flee. After the character moves to act, it then says what they see afterwards."
+  },
+  {
+    "question": "If an NPC is lit up, and has their speed dropped due to the use of the slow power, how high can they leap?",
+    "answer": "Jumping height depends on Strength score, not speed.",
+    "rules": [
+      "Part I > <unknown> > Survey",
+      "Players Handbook > Using Ability Scores > Movement"
+    ],
+    "rules_explanation": "It's noted that the players discuss speed, but Spenser, the game master, does not note any penalties. From an outside view, we know that jump height is dependent on strength."
+  },
+  {
+    "question": "I use my action to help close a rift. Can I then use an item that grants a bonus action and action, or am I limited to using it on the rift?",
+    "answer": "It is not possible to determine from the information available. Action and Bonus actions may be taken in any order on your turn",
+    "rules": [
+      "Player's Handbook > Combat > Your Turn"
+    ],
+    "rules_explanation": "There is not a specific use case in the SRD document for this situation, so the answer defaults to a general rule of using your action to perform the described task."
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "question": "A 10th level rogue, attacks with a Tinkertop Boltblaster and rolls a natural 20. Does the Tinkertop Boltblaster shoot again?",
+    "answer": "Yes, on a natural 20, the Tinkertop Boltblaster shoots again.",
+    "rules": [
+      "Equipment > Tinkertop Boltblaster"
+    ],
+    "rules_explanation": "The Tinkertop Boltblaster's description states that it shoots again on a natural 20."
+  },
+  {
+    "question": "A 10th level rogue, attacks with a Tinkertop Boltblaster and rolls a natural 20. Can the rogue use their bonus action to attack again?",
+    "answer": "Yes, the rogue can use a bonus action to attack again.",
+    "rules": [
+      "Combat > Actions in Combat > Bonus Actions",
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "A rogue can use Cunning Action to take a bonus action on each of its turns. The Cunning Action can be used to Dash, Disengage, or Hide. It doesn't specifically prohibit bonus action attacks."
+  },
+  {
+    "question": "If a 10th level monk attacks a creature with Stunning Strike and the creature succeeds on its saving throw, can they use Flurry of Blows to make another Stunning Strike attempt?",
+    "answer": "Yes, the Monk can use Flurry of Blows to make another attack and attempt to stun the creature again.",
+    "rules": [
+      "Monk > Class Features > Flurry of Blows"
+    ],
+    "rules_explanation": "Flurry of Blows lets the monk make two unarmed strikes as a bonus action after taking the Attack action on their turn. There are no restrictions that limit the Monk from attempting stunning strike more than once per turn."
+  },
+  {
+    "question": "A creature is restrained and a large form gets between them. Can the restrained creature reach the bonus action to hide?",
+    "answer": "No, you are both grappled and restrained,",
+    "rules": [
+      "Conditions > Restrained"
+    ],
+    "rules_explanation": "The restrained condition sets a creature's speed to 0, so they cannot move to a space where they could attempt to use Hide."
+  },
+  {
+    "question": "Can an attacker use their bonus action to dodge?",
+    "answer": "No, you can dash, disengage, or hide as a bonus action.",
+    "rules": [
+      "Combat > Actions in Combat > Bonus Actions",
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "A rogue can use Cunning Action to take a bonus action on each of its turns. The Cunning Action can be used to Dash, Disengage, or Hide. It doesn't specifically defend/dodge."
+  },
+  {
+    "question": "Can anyone take the dodge action, but they have to take their action to do it?",
+    "answer": "Yes, anyone can dodge, but you have to take your action to do it.",
+    "rules": [
+      "Combat > Actions in Combat > Dodge"
+    ],
+    "rules_explanation": "The description for the dodge action states that it uses an action."
+  },
+  {
+    "question": "If a PC runs past allies, does that provoke an attack of opportunity?",
+    "answer": "No, you can run past allies.",
+    "rules": [
+      "Combat > Movement and Position > Moving Around Other Creatures"
+    ],
+    "rules_explanation": "You can move through a nonhostile creature's space."
+  },
+  {
+    "question": "If an attacker makes an attack of opportunity, and a nearby ally has the Sentinel feat, does the attacker still get to make the attack of opportunity?",
+    "answer": "Yes, the attack of opportunity will still happen.",
+    "rules": [],
+    "rules_explanation": "The Sentinel feat doesn't prevent the triggering attack from happening, but rather allows the ally to make an attack against the triggering creature."
+  },
+  {
+    "question": "If an attacker makes an attack of opportunity, and a nearby ally has the Sentinel feat, does it prohibit the attack of opportunity?",
+    "answer": "No, the attack that you just took as a Sentinel one is just a free attack. So he still has his movement.",
+    "rules": [],
+    "rules_explanation": "The Sentinel feat doesn't prevent the triggering attack from happening, but rather allows the ally to make an attack against the triggering creature."
+  },
+  {
+    "question": "If a creature has disadvantage on strength checks right now, but it is contested strength roll, does that mean it still has disadvantage on the check?",
+    "answer": "No, he does half damage with any strength-based attacks. It doesn't change his actual checks.",
+    "rules": [],
+    "rules_explanation": "He does half damage with any strength-based attacks. It doesn't change his actual checks"
+  },
+  {
+    "question": "Does Extract Aspects allow access to Special Abilities in a stat block?",
+    "answer": "You don't learn all of its abilities. You learn its condition immunities and its damage immunities.",
+    "rules": [],
+    "rules_explanation": "Extract Aspects is not a real mechanic. It's a custom rule that was implemented by the DM. So, without knowing more about what it does, the only information we can rely on is what is explicitly provided."
+  },
+  {
+    "question": "With the light from the sword that's up, can we see to -- to see into the room?",
+    "answer": "With no other information provided about the sword beyond 'glowing', the rules don't provide an answer to this question.",
+    "rules": [],
+    "rules_explanation": "The question is too vague, and more information is needed about the light the sword is emitting. Is it bright light, dim light, or darkness? The question also includes the condition 'can we see to', which itself is vague."
+  },
+  {
+    "question": "For Ray of Enfeeblement, is that a saving throw or an attack roll, what is the save on that one?",
+    "answer": "Ray of Enfeeblement, that's a save, Constitution 17.",
+    "rules": [],
+    "rules_explanation": "This answer is extracted directly from the provided transcript in two adjacent turns."
+  },
+  {
+    "question": "Can you get up somewhere to where I can get out of the three-quarters cover?",
+    "answer": "Where do you want to maneuver?",
+    "rules": [],
+    "rules_explanation": "The DM is using common sense to assess whether or not the creature can maneuver to a place where they do not have three-quarters cover. The rules do not contain information about this."
+  },
+  {
+    "question": "Sacred Flame is dexterity saving throw?",
+    "answer": "Sacred Flame is dexterity saving throw?",
+    "rules": [],
+    "rules_explanation": "Confirmation of the spell parameters from the spell description."
+  }
+]

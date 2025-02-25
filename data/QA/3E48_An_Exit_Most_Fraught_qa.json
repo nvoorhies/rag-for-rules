@@ -1,0 +1,330 @@
+[
+  {
+    "question": "When a level 1 Druid/Cleric dies, what kind of saving throw, if any, do they make?",
+    "answer": "When a character or monster that is reduced to 0 hit points is not killed outright, it must make death saving throws. Unlike other saving throws, death saving throws are not tied to any ability score. The character must roll a d20. A roll of 10 or higher is a success. Otherwise, it's a failure.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "If a character is reduced to 0 hit points and isn't killed outright, the character must make death saving throws."
+  },
+  {
+    "question": "Does the level 11 Paladin/Barbarian gain advantage on their Stealth Check due to the hoo-ha?",
+    "answer": "It is ambiguous from the text. However, you can give advantage on Stealth checks as a game master.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage",
+      "Player's Handbook Introduction > The DM explains when ability checks are required"
+    ],
+    "rules_explanation": "The text indicates that special conditions are in play which could give characters +10 to their stealth roll. No explicit mechanical benefit is conferred to advantage or disadvantage from the 'hoo-ha'."
+  },
+  {
+    "question": "What kind of check does level 5 fighter/artisan Chetney have to make with a tool to aim the Horn of Silent Alarm?",
+    "answer": "The game master can have the level 5 fighter/artisan Chetney make either a performance check or an arcana check to aim the Horn of Silent Alarm.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Magic Items > Activating an Item > Command Word",
+      "Player's Handbook Introduction > The DM explains when ability checks are required"
+    ],
+    "rules_explanation": "The game master decides what kind of check a character has to make in order to accomplish a task, and the Horn of Silent Alarm can be considered either a magical or performance related item."
+  },
+  {
+    "question": "When the party drops off the ledge, can the level 1 fighter/artisan use an athletics check?",
+    "answer": "No, the game master has already stated that the characters must use an acrobatics check when leaping off of the ledge.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Player's Handbook Introduction > The DM explains when ability checks are required"
+    ],
+    "rules_explanation": "The game master decides what kind of check a character has to make in order to accomplish a task. In this case, the game master has already ruled that acrobatics checks must be used."
+  },
+  {
+    "question": "Are all players under the veil?",
+    "answer": "It is ambiguous from the provided text to discern the number of members that can hide with a veil.",
+    "rules": [],
+    "rules_explanation": "No rules were provided for the harrowcall veil in the rules sections."
+  },
+  {
+    "question": "What kind of check does the Wild Magic level 6 sorcerer Imogen make when trying to direct the catapult?",
+    "answer": "The level 6 sorcerer Imogen makes a d20 + her spellcasting ability modifier to gauge the precision of the toss.",
+    "rules": [
+      "Spellcasting > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "When a character is attempting to precisely aim a spell, the game master can call for an ability check using their spell casting modifier."
+  },
+  {
+    "question": "Does the gnome get their skill bonus doubled when making an Intelligence (History) check related to the origin of stonework? What bonus does this character get from level and abilities?",
+    "answer": "Yes, the rock gnome's Stonecunning trait says it is considered proficient and adds double their proficiency bonus to the check. No other bonuses are provided in the provided stats.",
+    "rules": [
+      "Races > Gnome > Rock Gnome > Stonecunning"
+    ],
+    "rules_explanation": "The Rock Gnome's Stonecunning trait makes them proficient in History checks related to stonework, and adds double their proficiency bonus to the check instead of their normal proficiency bonus."
+  },
+  {
+    "question": "Can the Halfling force a re-roll on their saving throw?",
+    "answer": "No information on the halfling's level or racial stats is available in the question. Therefore, we can assume it is indeterminate what the Halfling can or cannot do.",
+    "rules": [],
+    "rules_explanation": "There are no rules provided for the Halfling to perform a re-roll."
+  },
+  {
+    "question": "What do the players roll to determine if the veils work?",
+    "answer": "The players roll a stealth check to see if they are seen.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The game master is calling for a skill check that they are using to adjudicate whether the effects of a magical item have been successful."
+  },
+  {
+    "question": "Is the Tiefling required to provide a material component when casting the given spell from its racial stats?",
+    "answer": "No. The Tiefling does not require material components from its infernal legacy trait to cast the given spells.",
+    "rules": [
+      "Races > Tiefling > Infernal Legacy"
+    ],
+    "rules_explanation": "The racial trait explicitly states 'requiring no material components'."
+  },
+  {
+    "question": "Can a barbarian rage to avoid rolling a d20?",
+    "answer": "No. Rage can grant advantage on saving throws.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "A Barbarian cannot rage to avoid rolling a d20 unless the d20 roll is a Strength check or a Strength saving throw, at which point the Barbarian gains advantage."
+  },
+  {
+    "question": "Can you cast a 4th-level spell when you have a single 4th-level spell slot remaining?",
+    "answer": "Yes. The character can cast the spell.",
+    "rules": [
+      "Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "The text explicitly states that in order to cast one of the character's spells of 1st level or higher, the character must expend a spell slot of the spell's level or higher."
+  },
+  {
+    "question": "What modifier do you use to cast catapult?",
+    "answer": "The type of spellcasting modifier required depends on the class casting the spell. With the information provided it cannot be determined.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "Different classes use different ability scores as their spellcasting ability. Given a spell, the player must use the spellcasting ability conferred by their class."
+  },
+  {
+    "question": "Can the Warlock add half their proficiency to the Survival roll if they are not proficient in the Survival Skill?",
+    "answer": "No. The Warlock cannot add half their proficiency bonus to the Survival roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Jack of All Trades"
+    ],
+    "rules_explanation": "Jack of All Trades requires that you 'can add half your proficiency bonus, rounded down, to any ability check you make that *doesn't already include your proficiency bonus*'."
+  },
+  {
+    "question": "Can the ranger roll a perception check with advantage to attempt to smell fey?",
+    "answer": "It depends on the item being used. Hunter's Bane and the item in this scenario is smells, therefore it should be applicable.",
+    "rules": [
+      "Magic Items > A-Z > Hunter's Bane"
+    ],
+    "rules_explanation": "The wording specifies the use of Hunter's Bane to \"smell and do I pick up any creatures that I haven't been smelling\" so this is a valid use case."
+  },
+  {
+    "question": "Which players roll for stealth when ducking to avoid a flying attack?",
+    "answer": "Everyone who is present in the area of effect rolls stealth checks.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "No details are given in the provided documentation about when players are or are not required to roll skill checks. That discretion is left to the game master. Here, the game master is calling for skill checks from everyone."
+  },
+  {
+    "question": "If the recipient of a sending spell is dead, do they automatically not respond?",
+    "answer": "The outcome of a sending spell depends on if the target is on a different plane than you, the spell only guarantees a message delivered on the same plane.",
+    "rules": [
+      "Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "Sending the spell between planes has a 5% chance of failure. No text indicates that the message would fail on the same plane if the target is dead."
+  },
+  {
+    "question": "What check should be rolled to climb a tree?",
+    "answer": "A fairly simple acrobatics check should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Dexterity"
+    ],
+    "rules_explanation": "Climbing a tree does not rely on raw strength but agility, therefore the ability check should be dexterity."
+  },
+  {
+    "question": "If a character has high perception, do they know what direction the other characters would head towards if they chased them through the wilderness?",
+    "answer": "The skill needed to predict a path through the wilderness is Survival, not Perception.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Wisdom",
+      "Using Ability Scores > Wisdom > Skill > Survival"
+    ],
+    "rules_explanation": "High perception would only allow a character to perceive creatures, or objects in the environment. To predict a path through the wilderness, they would require survival."
+  },
+  {
+    "question": "If a character is covered in mud, does that mean they must be stationary?",
+    "answer": "No. A character covered in mud may move, but there may be mechanical penalties for doing so.",
+    "rules": [],
+    "rules_explanation": "There is nothing in the SRD that imposes a mechanical penalty for this action. Therefore the action must be handled with the game master's discretion."
+  },
+  {
+    "question": "What bonus is added to a stealth check while using Harrowcall veils?",
+    "answer": "The provided text does not detail this, but a +10 bonus has been previously given for hiding while using the veils.",
+    "rules": [],
+    "rules_explanation": "There are no rules provided for the harrowcall veil in the rules sections."
+  },
+  {
+    "question": "What can be done with the bodies?",
+    "answer": "It is up to the game master to decide what the player can do with bodies.",
+    "rules": [],
+    "rules_explanation": "There is no text in the SRD detailing appropriate things to do with bodies, as it is a narrative aspect of the game."
+  },
+  {
+    "question": "Can players make a short rest near a gate?",
+    "answer": "A short rest can occur anywhere, but it is up to the game master to determine if the circumstances are safe enough to take a short rest. No mechanical rules or limits to where a short rest is taken is in the provided text.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": " The text does not limit where a short rest can or cannot occur."
+  },
+  {
+    "question": "Does a silvered weapon have an aroma?",
+    "answer": "There is no mechanical text that relates to smelling any scent related to silvering a weapon. This would be left to the discretion of the game master.",
+    "rules": [],
+    "rules_explanation": "A silvered weapon is an item that resists damage from certain kinds of monsters, but no rules are related to the aroma."
+  },
+  {
+    "question": "When the game master asks the player to roll 2d6 and 1d8, what are they calculating?",
+    "answer": "There is no way to determine what the game master is calculating from the text provided.",
+    "rules": [],
+    "rules_explanation": "While there is an entry for hit points as well as a table detailing hit dice by size, neither mentions how the calculation was performed."
+  },
+  {
+    "question": "Can a spellcaster contact someone who was petrified?",
+    "answer": "The text does not indicate that a spellcaster can contact someone who is petrified. However, no rule prevents it.",
+    "rules": [],
+    "rules_explanation": "The rules do not explicitly state if this is or is not allowed. However, the petrified condition states that 'a petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging. The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.'"
+  },
+  {
+    "question": "Does someone with the exhaustion condition have disadvantage on acrobatics?",
+    "answer": "Yes, but only with a level of Exhaustion of 1.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "The provided text for the Exhaution condition explicitly states that a character with a level of Exhaustion of 1 suffers disadvantage on all ability checks."
+  },
+  {
+    "question": "Can Laudna and Imogen, as incorporeal things, still use all of their abilities, including casting spells?",
+    "answer": "No. Laudna and Imogen cannot use all of their abilities, and it is unclear as to what they are capable of doing since they are in a specific environment related to a spell.",
+    "rules": [],
+    "rules_explanation": "Being an incorporeal floating orby thingy is not a defined game term and must be governed by the DM. As such, there is no codified answer to that question without additional information."
+  },
+  {
+    "question": "Can a paladin use all abilities in a dream state?",
+    "answer": "A paladin would not be able to use all abilities in a dream state.",
+    "rules": [],
+    "rules_explanation": "There is no mechanic described that allows a character to automatically use all of their abilities in a dream state. It is up to the DM to decide."
+  },
+  {
+    "question": "While in the storm, does Imogen have advantage due to Owl's Wisdom from Letters?",
+    "answer": "The text implies that Imogen would have advantage.",
+    "rules": [
+      "Spell Descriptions > Enhance Ability"
+    ],
+    "rules_explanation": "Owl's Wisdom grants advantage on Wisdom checks. While this occurs in a dream, any mental attributes would carry over."
+  },
+  {
+    "question": "What happens if the bonus action spell, Sending, is interupted? What happens if you make a mistake?",
+    "answer": "The text does not explicitly describe what happens in these circumstances. The DM must decide what happens if a spell casting has been disrupted or contains errors.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "The spellcasting entry in the PHB provides the high level rules for casting spells. Interrupting an attempted sending or making a mistake with the process, would need to be governed by the DM as there is no explicit rule on what would happen."
+  },
+  {
+    "question": "How are ties decided?",
+    "answer": "Ties are decided by the game master.",
+    "rules": [],
+    "rules_explanation": "No rules provided for a tie breaker."
+  },
+  {
+    "question": "How long can the level 17 artificier with a Dex 18, who can use the portable hole, keep people in there?",
+    "answer": "There is no such thing as a portable hole, but if the item referred to is the bag of holding, then a breathing creature can survive up to a number of minutes equal to 10 divided by the number of creatures within the bag, with a minimum of 1 minute.",
+    "rules": [
+      "Equipment > Adventuring Gear > Bag of Holding"
+    ],
+    "rules_explanation": "The bag of holding provides a limited amount of air while it is closed, for a limited duration."
+  },
+  {
+    "question": "When can the players long rest?",
+    "answer": "A long rest requires 8 hours. A character must sleep or do other light tasks for 6 of the 8 hours to take a long rest.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "The text defines what constitutes a long rest."
+  },
+  {
+    "question": "Is the number of days remaining until the solstice know?",
+    "answer": "Yes, there are 12 days until the solstice.",
+    "rules": [],
+    "rules_explanation": "The day is now 12 days from the solstice, as stated by the game master."
+  },
+  {
+    "question": "If the players go 10 minutes without stretching, do they take a penalty?",
+    "answer": "No. There is no rule that requires adventurers to stretch every 10 minutes.",
+    "rules": [],
+    "rules_explanation": "Nothing about skill checks or ability modifiers depends on stretching."
+  },
+  {
+    "question": "When Imogen's hair flashes back and her eyes flash white, what action is that?",
+    "answer": "Based on the context given, no action is used for the hair to flash back and eyes flash white. It is a narrative description of the character casting a spell.",
+    "rules": [],
+    "rules_explanation": "Given the sentence 'Step forward and my hair flashes back' it can be implied that the game master is providing a narrative description of the character's spell casting."
+  },
+  {
+    "question": "If there is a disagreement within the group, what happens with leadership?",
+    "answer": "The text does not provide rules for what happens with leadership.",
+    "rules": [],
+    "rules_explanation": "No specific details about how to settle a disagreement are listed."
+  },
+  {
+    "question": "What is the range to send a message to Planerider Ryn?",
+    "answer": "No limit is placed on the range of the sending spell.",
+    "rules": [
+      "Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "The spell description says 'You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn't arrive.'"
+  },
+  {
+    "question": "Does everyone automatically see the cloth as Morri did?",
+    "answer": "The properties of the cloth are ambiguous from the text.",
+    "rules": [],
+    "rules_explanation": "It is unclear whether or not there is a saving throw or roll associated with the cloth. Therefore, the DM has to determine the mechanics for the cloth and its application."
+  },
+  {
+    "question": "Does a natural 20 on a persuation check guarantee the party safe passage through the gate?",
+    "answer": "No, a natural 20 does not guarantee the party a safe passage through the gate.",
+    "rules": [],
+    "rules_explanation": "A natural 20 is a guarantee success for attack rolls and death saving throws. Persuasion checks are compared to an Armor Class value, where the higher of the two numbers is the 'winner'."
+  },
+  {
+    "question": "When the beam begins to carve a section of the overall bramble dome, who rolls?",
+    "answer": "There is not enough information to determine which creatures or entities must roll when the beam begins to carve a section of the bramble dome. That is left to the discretion of the game master.",
+    "rules": [],
+    "rules_explanation": "The SRD does not contain details about when characters roll for any events outside of spells or attacks, this is handled at the DM's discretion."
+  },
+  {
+    "question": "Is there a spell save associated with using oil of Afey?",
+    "answer": "There is no spell save associated with oil of Afey.",
+    "rules": [],
+    "rules_explanation": "No rules exist in SRD for an item called Oil of Afey."
+  },
+  {
+    "question": "Does everyone heal up to full with a short rest?",
+    "answer": "No, a short rest has no automatic effect.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "During a short rest, 'A character can spend one or more Hit Dice at the end of a short rest, up to the character's maximum number of Hit Dice, which is equal to the character's level. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier to it. The character regains hit points equal to the total.'"
+  },
+  {
+    "question": "When does the veil effect end?",
+    "answer": "The veil effect lasts for 1 hour.",
+    "rules": [],
+    "rules_explanation": "The text specifies that 'An hour' is how long it lasts"
+  }
+]

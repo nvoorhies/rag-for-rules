@@ -1,0 +1,207 @@
+[
+  {
+    "question": "A level 14 character examines a hodmedod with the Golden Scythe logo on it. What information can they gain from a roll of 12 on an arcana check?",
+    "answer": "With a roll of 12 on an Arcana check, the level 14 character can determine that the lack of animating material is unusual. They understand that the Golden Scythe creates and sells these constructs, and it is strange that there appears to be no engine or proprietary technology to animate it.",
+    "rules": [
+      "Ability Scores > Ability Checks > Skills",
+      "Running the Game > The Environment > Objects"
+    ],
+    "rules_explanation": "This question references a roll of 12 on an arcana check. The SRD describes Arcana as a skill associated with Intelligence checks. It also explains that an Investigation check might uncover the working of objects. However, Brennan made a judgement call and set a specific DC for the check, as a game master is empowered to do."
+  },
+  {
+    "question": "What happens when Zerxus, a paladin casts *Lay on Hands* in the throat of a dead body riddled with growths?",
+    "answer": "The eyes close, and this body at least knows more rest now than it did in life.",
+    "rules": [
+      "Classes > Paladin > Spellcasting",
+      "Spell Descriptions > Lay on Hands"
+    ],
+    "rules_explanation": "The Lay on Hands class ability allows a Paladin to heal or cure disease. In this case the Dungeon Master interprets the application of divine energy as a blessing for the dead, not a healing of the sickness from which he died."
+  },
+  {
+    "question": "If a character is going to attempt to pinch a cable to bottleneck the Arboreal Calix, and Nydas, a bard, wants to help, what does a bard do?",
+    "answer": "The bard can give a help action to give the character advantage on the Arcana check.",
+    "rules": [
+      "Combat > Actions in Combat > Help",
+      "Classes > Bard > Spellcasting",
+      "Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "In combat, the Help action allows one character to give another an advantage on an ability check. The Dungeon Master establishes that an Arcana check is required for the action, and thus the Bard can assist with it."
+  },
+  {
+    "question": "Aabria asks Brennan: I'm going to cast Animate Objects on them and set them up as a guard behind me. In a mechanical sense, is that actually how that spell works to give them momentary life using ether from a receptacle on my own wrist and give them the momentary life that their initial construction no longer can?",
+    "answer": "The rules for Animate Object work to give objects sentience, not to recharge automatons with new ether.",
+    "rules": [
+      "Spell Descriptions > Animate Objects"
+    ],
+    "rules_explanation": "This is question about the spell *animate objects*. The text of the spell describes how it can affect multiple objects, not just one."
+  },
+  {
+    "question": "Brennan asks Marisha. \"When the 8% of energy was sucked to teleport a little toy boat to another dimension, did we sense that, was there a little dip in the lights, was there, you know?\" Marisha asks Brennan, would I know from my history with the library behind me, any more strange instances on when the leylines and the planes are this closely aligned?",
+    "answer": "Give me a history check with advantage.",
+    "rules": [
+      "Ability Scores > Ability Checks > Skills",
+      "Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The question is about whether a character would know some information from their background, indicating a History check is relevant. The character is in a situation where more information might be available (their library is nearby) so the Dungeon Master grants advantage on the roll."
+  },
+  {
+    "question": "Player asks DM: Is this a situation where a *Counterspell* would count?",
+    "answer": "The Dungeon Master rules that because the character can feel the direction that it's coming from, the caster can attempt to use the Counterspell to attempt to nullify whatever is being cast.",
+    "rules": [
+      "Spell Descriptions > Counterspell"
+    ],
+    "rules_explanation": "The player is asking for clarification on the mechanics of *Counterspell*, but because a ruling is required the rules themselvse aren't sufficient to answer the question."
+  },
+  {
+    "question": "Brennan clarifies the *Counterspell* ruling, saying, \"I have such bad news, and it's coming on behalf of Jeremy Crawford, who lets us know that Counterspell requires you to see the spellcaster you're countering.\"",
+    "answer": "*Counterspell* requires you to see the spellcaster you're countering.",
+    "rules": [
+      "Spell Descriptions > Counterspell"
+    ],
+    "rules_explanation": "This is clarification on the *Counterspell* rules. Although it is an out-of-game clarification, it provides an important detail for understanding the rule's function within the game."
+  },
+  {
+    "question": "Player asks DM: If I can feel the direction that it's coming from, I'm assuming he must be invisible or something like that. This just says, \"Choose one creature, object, or magical effect within range.\" Can I *Dispel Magic* and try and blast him with Dispel?",
+    "answer": "Choose one creature object or magical effect within range. So, because you cannot detect it, that is not an option.",
+    "rules": [
+      "Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "This clarification references the *Dispel Magic* rules and its ability to remove a creature or magic effect within range of the spell. To use it, the target must be detectable."
+  },
+  {
+    "question": "The party is investigating something and the player has access to the Unerring Eye to investigate a space. How good a roll do I need, and how much of this information might be there, if anything visual or non-visual. It's only a nine. Then the Dm says, roll a d4",
+    "answer": "On a roll of 13 (9 + 4) the character is able to pull everything together.",
+    "rules": [
+      "Ability Scores > Advantage and Disadvantage",
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM calls for the player to roll a d4 to add to the player's investigation check. This is a common method for granting a small bonus or advantage in the game."
+  },
+  {
+    "question": "What's the range of Rary's Telepathic Bond?",
+    "answer": "Over any distance.",
+    "rules": [
+      "Spell Descriptions > Rary's Telepathic Bond"
+    ],
+    "rules_explanation": "The question concerns the range of a specific spell, and the answer provides that value."
+  },
+  {
+    "question": "I'm going to point out the runes to those that are of an arcane understanding. I don't know if it's worth copying them down or understanding them better, but this is what I see has happened here, and I explain to them what I saw.",
+    "answer": "There is no rules judgment here, the DM merely confirms Patia has already made copies of the runes",
+    "rules": [],
+    "rules_explanation": "I'm including this item to clarify that not all player actions require the application of a game rule."
+  },
+  {
+    "question": "A character casts Detect Magic. Is there anything to be gleaned? If so, does she need a perception check?",
+    "answer": "Because there is a spell specifically called See Invisibility, this use of Detect Magic is going to give you a direction. A perception check is required.",
+    "rules": [
+      "Spell Descriptions > Detect Magic",
+      "Spell Descriptions > See Invisibility",
+      "Ability Scores > Ability Checks > Skills > Perception"
+    ],
+    "rules_explanation": "The DM makes a judgment about how the Detect Magic spell operates in this instance. The presence of See Invisibility means that Detect Magic can't directly reveal an invisible creature, but it can provide direction. Also, the use of perception is required to properly interpret the results."
+  },
+  {
+    "question": "What information is gleaned from a Perception check of 10 on Detect Magic?",
+    "answer": "You can detect a powerful illusion in the room... to your left",
+    "rules": [
+      "Spell Descriptions > Detect Magic",
+      "Ability Scores > Ability Checks > Skills > Perception"
+    ],
+    "rules_explanation": "This is an example of information being granted based on a DM's judgement call about applying the results of a player's dice roll."
+  },
+  {
+    "question": "The player is controlling the summoned construct. What is the DC to make a Dex save against the construct's spell?",
+    "answer": "Dex save against a 20.",
+    "rules": [
+      "Spell Descriptions > *Summon Construct*"
+    ],
+    "rules_explanation": "This answer assumes the summoner's spell save DC is 20 and they used it for their Summon Construct's save DC. While this information was not explicitly mentioned, it is something assumed in the world of the game, therefore valid"
+  },
+  {
+    "question": "Brennan asks a player, can I give a help action? Brennan answers, \"Yeah, you're proficient in arcana.\"",
+    "answer": "Because the DM established that the check is arcana, and Brennan confirmed that Lou has proficiency, Lou is therefore permitted to take a help action on the check.",
+    "rules": [
+      "Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "This is an explanation about the mechanics of a help action. Because Lou is proficient in the skill, and because is a skill check, the help action is permitted. This is a rules judgement by the DM."
+  },
+  {
+    "question": "DM to players: Yeah, there's a stuff you could do here. It's not as simple as pinching a cable. This thing is really tapped into the roots of the city. You also know that the lack of a manual... I'm going to say, on a 27 arcana, you don't get the technical answer that you're looking for, but I'm going to do some quick math.",
+    "answer": "There is no rules question or judgment call. The game master is making a world fact and narrative judgement call.",
+    "rules": [],
+    "rules_explanation": "DM is providing lore based on her history with the library behind her."
+  },
+  {
+    "question": "Quick stop at the gift table. Is it trapped? Is it a bomb? Is it anything like that?",
+    "answer": "You don't detect any magic on it at all.",
+    "rules": [
+      "Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "The player is asking if a detect magic spell would reveal that an item is trapped. The DM responds, and that is the rule."
+  },
+  {
+    "question": "Can I see any lights on, any shadows?",
+    "answer": "You see no lights on inside.",
+    "rules": [],
+    "rules_explanation": "The player is asking about the immediate environment and the DM provides a description of it. No rules required."
+  },
+  {
+    "question": "Madara asks 'Well, it's very funny'. How can Zerxus (level 17 paladin) insight into the world (roll 20) Alessander's mind?",
+    "answer": "Alessander, his whole job is keeping account ledgers feel suddenly very frightened, not of you are doing anything, but you know the look people give when they feel like they're about to be in trouble.",
+    "rules": [
+      "Ability Scores > Ability Checks > Skills > Insight"
+    ],
+    "rules_explanation": "The is an insight check. The Dungeon Master describes what the result reveals about the NPC's thoughts."
+  },
+  {
+    "question": "If Loquatius, a Changeling, is deceiving, what are the rules to detecting them?",
+    "answer": "The rules on page 177 of the Players Handbook about detecting lies, and the result is determined by a roll for insight.",
+    "rules": [
+      "Ability Scores > Ability Checks > Skills > Insight"
+    ],
+    "rules_explanation": "The insight check is described in the SRD. The roll determines the quality of the knowledge and is checked against a deception roll. There are no special rules governing changelings."
+  },
+  {
+    "question": "Character exclaims, are you going to go do that Cormorant thing? And Brennan replies, \"I'm going to roll one two, three four, five six.\"",
+    "answer": "That's what happened, to see what we cut to.",
+    "rules": [],
+    "rules_explanation": "Clarifying the procedure for determining the scene being focused on."
+  },
+  {
+    "question": "If a character has the Actor feat, what does that provide for deception in a situation like this?",
+    "answer": "The Actor feat is not used.",
+    "rules": [],
+    "rules_explanation": "Although deception is being used, the Actor feat was not mentioned or used. The question was raised in a jokey, out-of-character way."
+  },
+  {
+    "question": "It has been asked - will the perception check for both of the people be with or without advantage?",
+    "answer": "This results in a rule to make it fair, that both parties would be doing it with advantage",
+    "rules": [
+      "Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "An offer and acceptance of adding advantage to the roll, from extenuating circumstances"
+  },
+  {
+    "question": "The player stated 'If I can feel the direction that it's coming from, I'm assuming he must be invisible or something like that. This just says, \"Choose one creature, object, or magical effect within range.\"' and was asking, \"Can I Dispel Magic and try and blast him with Dispel?\"",
+    "answer": "No, choose one creature object or magical effect within range. So, because you cannot detect it.",
+    "rules": [
+      "Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "Because you cannot detect something, you cannot use Dispel Magic on it"
+  },
+  {
+    "question": "There is a question regarding if the construct is made of stone or metal?",
+    "answer": "Stone, cool.",
+    "rules": [],
+    "rules_explanation": "A statement of the nature of the build of a construct. An application of a world fact. This has potential mechanical ramifications to the kinds of spells that affect the golem"
+  },
+  {
+    "question": "Question: What is the range of the scrying spell using her Orb?",
+    "answer": "There is no answer to this question in the text. If you get your orb and scry. (pulsing energy) Most people wouldn't recognize what this is, but as someone who has a ring of mind shielding, you know exactly what it is.",
+    "rules": [
+      "Spell Descriptions > Scrying"
+    ],
+    "rules_explanation": "The range is 600 feet, but that information cannot be inferred from the text as is."
+  }
+]

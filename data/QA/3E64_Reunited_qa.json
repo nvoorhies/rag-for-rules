@@ -1,0 +1,269 @@
+[
+  {
+    "question": "If a level 4 wizard casts a spell requiring concentration, and the wizard is under the effect of Guidance, does Guidance’s verbal spell casting break concentration on the first spell?",
+    "answer": "Yes, Guidance's verbal spell casting will break the concentration of the other spell.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Concentration",
+      "Spellcasting > Components > Verbal"
+    ],
+    "rules_explanation": "Casting another spell that requires verbal components breaks concentration on the first spell, as the act of verbally casting the second spell interrupts maintaining the magical effect of the first."
+  },
+  {
+    "question": "Can the level 12 druid use Wild Shape to transform into a raccoon dog?",
+    "answer": "The SRD doesn't contain the stat block for a 'raccoon dog'. It is not possible to unambiguously answer the question.",
+    "rules": [
+      "Classes > Druid > Wild Shape"
+    ],
+    "rules_explanation": "The SRD states that a druid can transform into a beast whose challenge rating is equal to or less than the druid's level, and that the beast must not have a flying or swimming speed until level 4, where they can take a beast without a flying speed, and level 8, where all beasts can be taken regardless of speed. A raccoon dog needs a stat block listing the relevant properties of that beast."
+  },
+  {
+    "question": "The character is being targeted by a scrying spell and is close to the cleric, can the cleric attempt to cast Guidance on them to increase their chances of saving?",
+    "answer": "No. According to the SRD Guidance requires casting a spell verbally, so this action would unambiguously alert the target being Scryed upon to the magic affecting them, breaking their concentration.",
+    "rules": [
+      "Spellcasting > Components > Verbal"
+    ],
+    "rules_explanation": "The act of casting a spell with a verbal component would alert the target of the spell that they were being affected by magic."
+  },
+  {
+    "question": "Can the level 4 Wizard character cast Guidance on themselves?",
+    "answer": "No, The spell is not on the Wizard spell list.",
+    "rules": [
+      "Spell Lists > Wizard Spells"
+    ],
+    "rules_explanation": "To cast a spell, the spell must be one that is on the class's spell list."
+  },
+  {
+    "question": "The 6th level character cast Sending, and the character on the other end of the Sending has a Wisdom score of 8 and a proficiency bonus of +3, what value do they roll against to determine if they make the Wisdom Saving Throw?",
+    "answer": "If a saving throw is called for the receiving target has to save against a DC of 8 + the spellcasting ability modifier + the proficiency bonus of the original caster.",
+    "rules": [
+      "Spellcasting > Attack Rolls and saving Throws"
+    ],
+    "rules_explanation": "This rules information is listed in the spellcasting section of all of the SRD entries for spellcasting classes, which is where information on spell attack rolls and saving throws are defined."
+  },
+  {
+    "question": "A 9th level character casts Divine Intervention, what roll must they meet or exceed to get their god to intervene?",
+    "answer": "To succeed on a Divine Intervention, the spellcaster must roll a number equal to or lower than their level.",
+    "rules": [
+      "Classes > Cleric > Divine Intervention"
+    ],
+    "rules_explanation": "The DC for a Divine Intervention check is the Cleric's level. A roll equal to or lower than the Cleric's level means that the god intervenes."
+  },
+  {
+    "question": "If a character is under the effect of Calm Emotions, does that simply suppress the rage, so that when the spell ends, the rage returns in full?",
+    "answer": "There is nothing in the spell description that indicates that the rage is simply suppressed and returns in full, so the rage simply ends.",
+    "rules": [
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "Spells do only what they say they do in the spell descriptions."
+  },
+  {
+    "question": "Can the level 1 Druid or 1 Paladin use Guidance on themselves?",
+    "answer": "No, because Guidance is not on the druid or paladin spell lists.",
+    "rules": [
+      "Spell Lists > Druid Spells",
+      "Spell Lists > Paladin Spells"
+    ],
+    "rules_explanation": "A character can only cast a spell if it is on their class's spell list. Guidance is only available for Clerics."
+  },
+  {
+    "question": "Does Guidance provide a reroll?",
+    "answer": "No. Guidance allows the target to add 1d4 to an ability check.",
+    "rules": [
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "Spells do only what they say they do in the spell descriptions."
+  },
+  {
+    "question": "Can a level 12 rogue with athletics, who is grappling a net, kick FCG through the net? Can they succeed on a strength check?",
+    "answer": "It is not possible to determine from the information provided if FCG can be kicked through the net, because that is determined by the specific properties of the net, if any. Kicking FCG and/or the Athletics check would be possible.",
+    "rules": [
+      "Actions in Combat > Making an Attack",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "There is no reason why they could not make an athletics check to kick, but determining if they can kick through the net and what effect that has depends on properties of the net that are not described in the rules."
+  },
+  {
+    "question": "Can the level 12 storm sorcerer using their telekinetic power to subtly move their blindfold still cast spells?",
+    "answer": "Yes, the wizard could subtly use Telekinesis, and then cast spells.",
+    "rules": [
+      "Spellcasting > Components > Somatic",
+      "Spellcasting > Components > Verbal"
+    ],
+    "rules_explanation": "Telekinesis is not in the SRD spell list, but the spell Mage Hand could be used. It has verbal and somatic components, and it is stated that at least one hand must be free to use somatic components. However, telekinesis is quiet (since Mage Hand is) and moving the blindfold is not casting a spell. With both hands free, and without any kind of gag, it can still speak."
+  },
+  {
+    "question": "Does Calm Emotions reset a target?",
+    "answer": "No, there is no mechanic in Calm Emotions that resets a target. The spell only lasts a minute.",
+    "rules": [
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "Spells do only what they say they do in the spell descriptions."
+  },
+  {
+    "question": "If an 8th level cleric's Divine Intervention is unsuccessful, when can they try again?",
+    "answer": "If Divine Intervention is unsuccessful, you can use it again after you finish a long rest.",
+    "rules": [
+      "Classes > Cleric > Divine Intervention"
+    ],
+    "rules_explanation": "The rule states, \"If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.\""
+  },
+  {
+    "question": "What stat is used for Athletics checks?",
+    "answer": "Strength",
+    "rules": [
+      "Using Ability Scores > Skills > Strength"
+    ],
+    "rules_explanation": "The SRD lists each skill with it's primary ability score."
+  },
+  {
+    "question": "Can the level 1 cleric attempt to add Guidance to another's roll, if the cleric cannot be seen due to being covered with a blanket?",
+    "answer": "No, since Guidance has verbal components.",
+    "rules": [
+      "Spellcasting > Components > Verbal"
+    ],
+    "rules_explanation": "Guidance has a verbal component, meaning that it must be cast verbally, and the presence of a blanket and FCG's anxiety might make that detectable, there is no exception to the verbal rules for spell casting."
+  },
+  {
+    "question": "If the 4th Level Ranger multi-attacks with his long bow does it require ammunition for each attack?",
+    "answer": "Yes. Each attack requires one piece of ammunition.",
+    "rules": [
+      "Equipment > Weapons > Properties > Ammunition"
+    ],
+    "rules_explanation": "The Ammunition property says, \"Each time you attack with the weapon, you expend one piece of ammunition.\""
+  },
+  {
+    "question": "A character uses the guidance spell to cast the suggestion spell, what's the dice they roll?",
+    "answer": "Guidance is an action, suggestion is an action, they cannot be cast together.",
+    "rules": [
+      "Spellcasting > Casting Time"
+    ],
+    "rules_explanation": "Spell Casting time is specified by spells requiring a single action, bonus action, reaction, minutes, or even hours to cast."
+  },
+  {
+    "question": "Can the level 5 rogue use expertise for Medicine?",
+    "answer": "It is not possible to determine from the information provided if the rogue can use Expertise on Medicine because it is not known if the rogue has proficiency in that skill.",
+    "rules": [
+      "Classes > Rogue > Class Features > Expertise"
+    ],
+    "rules_explanation": "The Rogue class at level 1 provides two skill proficiencies from a list of skills. A rogue must have proficiency in a skill in order to apply expertise to it at level 6."
+  },
+  {
+    "question": "Given the Bard and Wizard are at adjacent tables, can they cast guidance in a \"muffled whisper\"?",
+    "answer": "No, verbal components to spells require sound to be made.",
+    "rules": [
+      "Spellcasting > Components > Verbal"
+    ],
+    "rules_explanation": "Spells do only what they say they do in the spell descriptions."
+  },
+  {
+    "question": "Can the level 6 cleric attempt a Divine Intervention?",
+    "answer": "Yes.",
+    "rules": [
+      "Classes > Cleric > Divine Intervention"
+    ],
+    "rules_explanation": "This is a class feature available at level 10, but as long as the levels are at least 10 or greater, they can."
+  },
+  {
+    "question": "What's the range of a readied action?",
+    "answer": "The range depends on the action that is readied.",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "The rules for Ready state, \"you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it.\", but do not list a specific range. The available actions have their ranges defined in their own descriptions."
+  },
+  {
+    "question": "Can you give Bardic Inspiration to yourself?",
+    "answer": "No, you cannot.",
+    "rules": [
+      "Classes > Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "The rule states that a bard can choose \"one creature other than yourself within 60 feet of you who can hear you.\""
+  },
+  {
+    "question": "Can a Druid from the Circle of the Land Guide themselves?",
+    "answer": "No, as guidance is not on the list of druid circle spells.",
+    "rules": [
+      "Spell Lists > Druid Spells",
+      "Classes > Druid > Druid Circle"
+    ],
+    "rules_explanation": "Druids are granted a short list of spells at different levels based on what Circle they are with at 2nd level, and druids can also memorize spells off of the druid's wider spell list each day. As the DM doesn't mention any special rule or situation changing this, it follows."
+  },
+  {
+    "question": "Can a cleric use their reaction to Counterspell on an ally? Also, can they provide a bonus action?",
+    "answer": "Yes, a cleric can Counterspell on their ally because a reaction occurs instantly in response to a trigger, as well as Cleric's being unable to make an additional bonus action.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "It is defined in the class's information in the Players Handbook or SRD, though it is generally the Cleric class cannot make an additional bonus action."
+  },
+  {
+    "question": "At level 4, how many charges does a staff with the ability \"regains 1d4 + 3 expended charges daily at dawn\" regain each day?",
+    "answer": "The number of charges regained is determined by rolling 1d4 and adding 3.",
+    "rules": [
+      "Magic Items > Charges"
+    ],
+    "rules_explanation": "This is what it says in the description about the magic item."
+  },
+  {
+    "question": "Can a bard use Bardic Inspiration to help the 4th Level Wizard character from being mind controlled?",
+    "answer": "Yes.",
+    "rules": [
+      "Classes > Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "It is possible to use Bardic Inspiration to aid another creature in a Wisdom Saving Throw, as saving throws are part of what can be done with Bardic Inspiration."
+  },
+  {
+    "question": "If the 5th level character fails a d100 roll of 43 on Divine Intervention, can they recast it again?",
+    "answer": "Yes, they can.",
+    "rules": [
+      "Classes > Cleric > Divine Intervention"
+    ],
+    "rules_explanation": "Divine Intervention has no penalty for failure, but it cannot be attempted again until after a long rest."
+  },
+  {
+    "question": "Does Guidance require a visible target?",
+    "answer": "No. Guidance only requires a willing target within touch range and verbal and somatic components.",
+    "rules": [
+      "Spell Descriptions > Guidance"
+    ],
+    "rules_explanation": "Spells do only what they say they do in the spell descriptions."
+  },
+  {
+    "question": "Can a 7th level Bard use Guidance while Blindfolded?",
+    "answer": "No, as Guidance requires touch range, so the user cannot see.",
+    "rules": [
+      "Spell Descriptions > Guidance",
+      "Spellcasting > Components > Verbal"
+    ],
+    "rules_explanation": "Guidance requires the target to be touched. If the caster is blindfolded, it has no way to determine their location."
+  },
+  {
+    "question": "Does it take 7 spell charges to teleport?",
+    "answer": "It is not possible to determine from the information provided, since there is no mention of a staff requiring 7 charges to teleport.",
+    "rules": []
+  },
+  {
+    "question": "Can a level 4 Druid use a Magic Staff?",
+    "answer": "The ability to use a magic staff depends on whether the Druid is attuned to the staff, and what the attunement restrictions are.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "Some magic items require attunement, some do not. If they do, the character must meet the attunement requirements before being able to use the item."
+  },
+  {
+    "question": "What happens to the Calm Emotions if the target takes radiant or bludgeoning damage?",
+    "answer": "Nothing. Damage does not break Calm Emotions.",
+    "rules": [
+      "Spell Descriptions > Calm Emotions"
+    ],
+    "rules_explanation": "Spells do only what they say they do in the spell descriptions."
+  },
+  {
+    "question": "Can a Sorcerer use divine intervention?",
+    "answer": "No.",
+    "rules": [
+      "Classes > Cleric > Divine Intervention"
+    ],
+    "rules_explanation": "Divine Intervention is a cleric-exclusive ability."
+  }
+]

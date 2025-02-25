@@ -1,0 +1,26 @@
+[
+  {
+    "question": "A level 4 [Class: Monk], [Race: Humanoid] wearing shackles attempts to elbow one guard and bash another.  What check should be rolled to determine if the shackle move succeeds?",
+    "answer": "An athletics check should be rolled to attempt the shackle move.",
+    "rules": [
+      "Chapter 7 > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM calls for an athletics check to see if the [Race: Humanoid] Monk successfully elbows one of the guards and bash the other in the face."
+  },
+  {
+    "question": "Given that [Ability: Passive Perception] is 13, what is the result of a [Skill: Sleight of Hand] check with a d20 roll of 3 and an adjustment of +8?",
+    "answer": "The Sleight of Hand check is 11 which is less than the Passive Perception of 13 and therefore a failure",
+    "rules": [
+      "Chapter 7 > Using Ability Scores > Passive Checks"
+    ],
+    "rules_explanation": "The Sleight of Hand check with a d20 roll of 3 plus an adjustment of +8 resulted in an 11, this is then compared with the passive perception of 13 and found to be lower and therefore a failure."
+  },
+  {
+    "question": "A [Race: Humanoid], level two class character uses telepathy with their familiar to see what's going on far from them. How far away from the cat can the character move before the telepathy is broken?",
+    "answer": "The character would have to stay within 100 feet to maintain the telepathy with their cat.",
+    "rules": [
+      "Chapter 4 > Spellcasting > Range"
+    ],
+    "rules_explanation": "Spells are maintained with a range limit that applies to how far away an active telepathic connection can exist between creatures at different distances. "
+  }
+]

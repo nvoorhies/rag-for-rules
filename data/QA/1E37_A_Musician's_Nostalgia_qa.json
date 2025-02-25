@@ -1,0 +1,242 @@
+[
+  {
+    "question": "A level X Blood Hunter is crafting an item. Should the DM call for a saving throw or skill check?",
+    "answer": "The DM should call for a saving throw.",
+    "rules": [
+      "Part I > Game Play > Saving Throws",
+      "Part I > Game Play > Ability Checks"
+    ],
+    "rules_explanation": "The DM states that the roll called for is a saving throw, not a skill check. Therefore a saving throw should be rolled."
+  },
+  {
+    "question": "A level X Rogue is attempting to perform a stealth check, what actions should the DM tell the player to take?",
+    "answer": "The player should roll a dexterity skill check",
+    "rules": [
+      "Part I > Game Play > Ability Checks > Dexterity",
+      "Part I > Game Play > Skills > Stealth"
+    ],
+    "rules_explanation": "A stealth check is listed as Dexterity Skill. This can be found in the Player handbook, and if the player is asked to perform it, they should do so as a Dexterity Skill check."
+  },
+  {
+    "question": "The X level cleric casts cure wounds as a level 2 spell. How much healing occurs?",
+    "answer": "The healing is 2d8+5",
+    "rules": [
+      "Part I > Game Play > Class Features > Spellcasting > Spell Level",
+      "Druid > Spell List > Cure Wounds"
+    ],
+    "rules_explanation": "The description of the Cure Wounds spell states it is 1d8+spellcasting ability modifier and that it does +1d8 for each level above 1. The character is casting it at level 2, so the total is 2d8+5."
+  },
+  {
+    "question": "The player has rolled a natural 20 and has inspiration. The X level cleric has just cast cure wounds at second level and wants to add the inspiration. What roll should the DM request?",
+    "answer": "Roll a d20, add your wisdom modifier which is +5, and then add another d10 to that because of the inspiration.",
+    "rules": [
+      "Part I > Game Play > Class Features > Bardic Inspiration",
+      "Part I > Game Play > Class Features > Spellcasting > Spell Level",
+      "Druid > Spell List > Cure Wounds"
+    ],
+    "rules_explanation": "The description of the Cure Wounds spell states it is 1d8+spellcasting ability modifier and that it does +1d8 for each level above 1. The character is casting it at level 2, so the total is 2d8+5.  Bards can inspire the target to roll an addition d10, which is added to a d20 with a Wisdom Modifier as the player is performing a healing action."
+  },
+  {
+    "question": "The players have been presented with a scenario where Grog casts a spell that summons a Limirick. He casts the spell successfully and the next player's turn is about to start. What dice should the next player roll?",
+    "answer": "The next player should roll a wisdom saving throw",
+    "rules": [
+      "Part I > Game Play > Saving Throws",
+      "Druid > Spell List > Save Throws"
+    ],
+    "rules_explanation": "As the target is now affected by a magic spell, they must roll a wisdom saving throw to fight it."
+  },
+  {
+    "question": "The players have been interrogating Jeffrey with the intent of extracting as much information as possible. What rolls would be called for?",
+    "answer": "Insight check",
+    "rules": [
+      "Part I > Game Play > Ability Checks > Wisdom",
+      "Rogue > Class Features > Wisdom Skills"
+    ],
+    "rules_explanation": "An insight check is called for.  Because the players are attempting to read Jeffrey's intentions the proper skill check is insight."
+  },
+  {
+    "question": "Is Grog feeling all right?",
+    "answer": "He has to make a wisdom saving throw",
+    "rules": [
+      "Part I > Game Play > Saving Throws",
+      "Cleric > Class Features > Wisdom Skills"
+    ],
+    "rules_explanation": "Grog is currently having some form of mind altering experience"
+  },
+  {
+    "question": "A level X druid has cast Commune With Nature. What action is next to be performed?",
+    "answer": "The druid asks questions and the DM can gives answers",
+    "rules": [
+      "Part I > Game Play > Druid Spell List > Commune with Nature > Druid Abilities"
+    ],
+    "rules_explanation": "The Druid has the ability to reach out and connect to the surrounding plant life to obtain details."
+  },
+  {
+    "question": "A wizard with a pearl needs to inspect the material before the pearl starts doing some stuff?",
+    "answer": "Make an arcane check to check the pearl.",
+    "rules": [
+      "Part II > Game Play > Intelligence > Skill List",
+      "Monk > Magic Items > Item List"
+    ],
+    "rules_explanation": "Because it's an inspection of an arcance item, an Arcane Check should be made to ascertain the nature of the pearl. The type of focus does not have bearing on the rolls involved."
+  },
+  {
+    "question": "A pixie drops a cloak that causes some amount of obscurity, does this cause the character to be invisible?",
+    "answer": "No",
+    "rules": [
+      "Part II > Vision and Light > Obscurity vs Invisibility"
+    ],
+    "rules_explanation": "No. It does not. Unless this is a magical item, Pike is just more easily hidden."
+  },
+  {
+    "question": "Scanlan, a level X Bard, casts a spell. What dice should be rolled?",
+    "answer": "A performance check if he is performing",
+    "rules": [
+      "Part II > Actions in Combat > Casting a Spell > Bard > Class Features > Skills"
+    ],
+    "rules_explanation": "Because he is playing an instrument or otherwise putting on a show, a performance check would be required to determine success."
+  },
+  {
+    "question": "Scanlan, a level X Bard, wants to join an instrument duet. What roll should be made?",
+    "answer": "A performance check",
+    "rules": [
+      "Part II > Actions in Combat > Casting a Spell > Bard > Class Features > Skills > Instrument"
+    ],
+    "rules_explanation": "Because he is playing an instrument or otherwise putting on a show, a performance check would be required to determine success."
+  },
+  {
+    "question": "Grog and Pike are in a building, and Keyleth wants to see them from outside. What rolls are made for each of these players?",
+    "answer": "Keyleth has to do a commune with nature roll",
+    "rules": [
+      "Part II > Actions in Combat > Spell Slots > Spells > Druid > Abilities"
+    ],
+    "rules_explanation": "Keyleth is not able to see in the building, so a special action needs to be taken in order for her to ascertain the party's status."
+  },
+  {
+    "question": "A Stormwind has his weapon, it takes the appropriate actions and says some specific words. What happens?",
+    "answer": "Refer to the weapon's documentation.",
+    "rules": [
+      "Part II > Item Actions > Magic > Weapon",
+      "Equipment> Weapon > Spells"
+    ],
+    "rules_explanation": "Some weapons can perform special actions when the proper requirements have been met, check the documentation for it's abilities."
+  },
+  {
+    "question": "Vax sees the door is ajar, what action is taken next?",
+    "answer": "He must perception check to assess the situation.",
+    "rules": [
+      "Part II > Dungeon Play > Room Actions > Senses > Passive Abilities Check"
+    ],
+    "rules_explanation": "When a door or space is not clearly visible, a player will have to perform a perception check."
+  },
+  {
+    "question": "A set of players want to enter a door in a particular order. What actions will they take when arriving at the door?",
+    "answer": "Stealth and perception checks.",
+    "rules": [
+      "Part II > Dungeon Play > Door Actions > Stealth",
+      "Monk > Abilities",
+      "Spell List > Pass Without Trace"
+    ],
+    "rules_explanation": "They must first make a stealth check to avoid detection. Then someone will make a perception check."
+  },
+  {
+    "question": "A cleric needs to identify a series of runes, what kind of check will she roll?",
+    "answer": "Arcane check. The runes may be of magical construct.",
+    "rules": [
+      "Rogue > Class Features > Skills > Intelligence> Arcana"
+    ],
+    "rules_explanation": "Arcane checks are used to determine any knowledge about magical effects."
+  },
+  {
+    "question": "A rogue finds the locked and trapped door. How does he proceed?",
+    "answer": "Thieves Tools and Dexterity Check",
+    "rules": [
+      "Wizards Guide Book > Tools > Thieves Tools",
+      "Rogue> Skills> Dexterity"
+    ],
+    "rules_explanation": "When a rogue encounters a locked and trapped door, using their thieves tools to disarm or unlock the door is a Dexterity Skill check. The Dungeon Master can apply modifiers based on circumstances."
+  },
+  {
+    "question": "Vax casts Pass Without A Trace. What checks are next for him and the group?",
+    "answer": "He can do so, but he needs to make a stealth check.",
+    "rules": [
+      "Cleric> Skill Proficiencies > Pass Without Trace",
+      "Dexterity Skill Checks> Stealth"
+    ],
+    "rules_explanation": "Vax would need to do a Stealth check in order to sneak around the guards."
+  },
+  {
+    "question": "T or F; Can an attack of opportunity be used to do a multiattack?",
+    "answer": "False",
+    "rules": [
+      "Your Turn> Action> Attack> Reactions> Multiattack",
+      "The Nature of Combat"
+    ],
+    "rules_explanation": "An opportunity attack can only be a single melee attack."
+  },
+  {
+    "question": "As an action, a level X Bard uses Bardic Inspiration for Grog who is about to make an intimidate check. What kind of check should the GM ask?",
+    "answer": "Wisdom saving throw.",
+    "rules": [
+      "Your Turn> Bonus Action> Bards> Bardic Inspiration> Fear"
+    ],
+    "rules_explanation": "After using Grog's intimidate skill, a wisdom saving throw is called for to resist the effect."
+  },
+  {
+    "question": "Grog makes a 14 will that meet the AC saving throw required to resist the effects and attack a target, but he feels a dark urge to push it. What kind of check will he make?",
+    "answer": "A Wisdom Saving Throw",
+    "rules": [
+      "Wizard's Rule Book> Saving Throws> Undead> Combat"
+    ],
+    "rules_explanation": "Because Grog was compelled by some sort of outside force to take action against an individual he must make a wisdom saving throw to see if he can shake the effects."
+  },
+  {
+    "question": "A level X Druid wishes to Commune with Nature in a town to find where someone was. What action do the players take? What questions can the Druid ask?",
+    "answer": "The Druid can connect with the nature under and near the town to find their target as well as find secret tunnels leading out.",
+    "rules": [
+      "Transitive Planes> The Plane of Elemental"
+    ],
+    "rules_explanation": "The Druid can connect to the plantlife to see what they know or have scene."
+  },
+  {
+    "question": "What do you call a 20 on a performance check?",
+    "answer": "Very well-played",
+    "rules": [
+      "II. The Roll of dice section"
+    ],
+    "rules_explanation": "There is no specific description for this.  Refer to the documentation for the appropriate type of check."
+  },
+  {
+    "question": "What is required to make ranged attacks?",
+    "answer": "The range must be known",
+    "rules": [
+      "Combat > range weapons and range"
+    ],
+    "rules_explanation": "A ranged attack can only hit targets within the range of that weapon. Long range attacks give the attacker disadvantage."
+  },
+  {
+    "question": "A number of players approach a halfling. What checks need to be made to pickpocket him?",
+    "answer": "A Stealth check, a sleight of hand check and the victim makes a perception check.",
+    "rules": [
+      "Skills> Dexterity> Sleight of hand",
+      "Skills> Wisdom> Perception"
+    ],
+    "rules_explanation": "When a player attempts to steal from someone, they first do a stealth check to not alert the target. Then they do a sleight of hand check to actually get the item or money. The target makes a perception check in order to realize that the item is being taken. If the perception check is greater than the sleight of hand check, the person realizes they are being robbed."
+  },
+  {
+    "question": "A barbarian wants to determine the intelligence of something, what kind of check does he need to make?",
+    "answer": "There is no way to tell, without some level of insight",
+    "rules": [
+      "Spellcasting > Ability Score >Intelligence Skills"
+    ],
+    "rules_explanation": "There is no way for the barbarian to determine this. He has no points in Intelligence, Wisdom or any similar area. The barbarian would need to make a skill check to find out what the creature is thinking or planning."
+  },
+  {
+    "question": "During battle, the party discovers a treasure horde and can see it, but it is a distance away from them. Is the treasure in range to be obtained.",
+    "answer": "There is no check. Refer to the documentation.",
+    "rules": [
+      "PHB -> actions"
+    ],
+    "rules_explanation": "Without using an action or spell to try and collect it, the players do not get the loot and that's that."
+  }
+]

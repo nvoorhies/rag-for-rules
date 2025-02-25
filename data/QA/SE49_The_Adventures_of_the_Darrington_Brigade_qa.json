@@ -1,0 +1,347 @@
+[
+  {
+    "question": "A 1st-level character, proficient in medicine, with Wisdom 15 and proficiency bonus +2 is using first aid to stabilize a creature. What is the DC for the check?",
+    "answer": "A DC 10 Wisdom (Medicine) check.",
+    "rules": [
+      "Actions in Combat > Use an Object",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The action to stabilize a creature uses a Wisdom (Medicine) check of DC 10."
+  },
+  {
+    "question": "A 4th-level bard is a performing cutting words and the creature was hit by a 24. What is the armor class required to hit",
+    "answer": "The target is hit if its armor class is 18 or less.",
+    "rules": [
+      "Bard > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "The target's roll is reduced by the bards cutting words reducing it to 18. If the armor class is less than or equal to the resulting roll, the attack hits."
+  },
+  {
+    "question": "Can a 10th level monk use a Ki point to use flurry of blows and use a Ki point invoke my Fangs of the Fire Snake in the same turn?",
+    "answer": "Yes, the Monk may do so.",
+    "rules": [
+      "Monk > Ki > Flurry of Blows",
+      "Monk > Martial Arts",
+      "Classes > Actions"
+    ],
+    "rules_explanation": "The rules for flurry of blows and fangs of the fire snake both require using a bonus action and spending a ki point. The player's total level allows using Ki, the number of uses is not restricted by turn."
+  },
+  {
+    "question": "If the players are fighting a player with a fear ability what happens with advantage when frightened?",
+    "answer": "If the creature is frightened, they have disadvantage on any attack rolls or ability checks where the source of the fear is in line of sight. When a creature attempts to make an attack roll on a target where they have advantage, the character rolls 2 d20s and picks the highest. The frightened condition imposes a disadvantage where the character rolls 2 d20s and picks the lowest. If a character has both advantage and disadvantage they cancel out and the character rolls only 1 d20.",
+    "rules": [
+      "Appendix PH-A > Conditions > Frightened",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Being frightened imposes disadvantage on attack rolls and ability checks while the source of the fear is within line of sight. If the player also has advantage, then the player rolls one d20, ignoring the advantage and disadvantage."
+  },
+  {
+    "question": "Can A 1st-level life cleric use a Healing Word and a Sacred Flame spell in the same turn",
+    "answer": "No, the cleric may not. Healing Word is a bonus action and Sacred Flame is an action. A character can only use one bonus action per turn.",
+    "rules": [
+      "Spellcasting > Bonus Action"
+    ],
+    "rules_explanation": "A spell cast with a bonus action is especially swift. You must use a bonus action on your turn to cast the spell, provided that you haven't already taken a bonus action this turn. You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action."
+  },
+  {
+    "question": "Can a 5th Level Monk Use two Ki points in One Turn?",
+    "answer": "Yes, the Monk may use two Ki points in one turn",
+    "rules": [
+      "Monk > Ki"
+    ],
+    "rules_explanation": "The description of the Ki feature says \"You can spend these points to fuel various ki features\" not You can spend one of these points."
+  },
+  {
+    "question": "Can a 5th level Monk Use Healing Word and a Ki point in the same turn?",
+    "answer": "No, the Monk may not. A character can only use one bonus action per turn.",
+    "rules": [
+      "Spellcasting > Bonus Action",
+      "Monk > Ki > Flurry of Blows"
+    ],
+    "rules_explanation": "The rules for flurry of blows require using a bonus action. Healing word also requires a bonus action. A character can only use one bonus action per turn."
+  },
+  {
+    "question": "At what level can a character do reckless attacks?",
+    "answer": "A character can use reckless attacks at level 2 in the Barbarian Class",
+    "rules": [
+      "Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "The reckless attack feature is gained at level 2 in the Barbarian Class"
+  },
+  {
+    "question": "Do I have advantage on constitution saving throws because I'm raging",
+    "answer": "No, the rages gives advantage on strength saves",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "Raging only gives advantage on strength saving throws."
+  },
+  {
+    "question": "If a 10th level totem warrior barbarian totem has resistance to bludgeoning, piercing and slashing damage from nonmagical attacks, is fire damage halved?",
+    "answer": "No, fire damage is not halved for the totem warrior",
+    "rules": [
+      "Barbarian > Path of the Totem Warrior"
+    ],
+    "rules_explanation": "The damage resistances granted by the rage is separate from the other totems."
+  },
+  {
+    "question": "Is the 23 charisma saving throw on a 10th level character with bardic inspiration and guidance calculated d4+d10?",
+    "answer": "Yes, the saving throw is calculated using both bardic inspiration and guidance",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The saving throw includes all applicable bonuses. If the save is against a spell, the spell will say what abilities it includes."
+  },
+  {
+    "question": "At what level can an artificer get the rod of mercurial form?",
+    "answer": "Artificers do not get the rod of mercurial form",
+    "rules": [],
+    "rules_explanation": "This spell does not exist in the SRD"
+  },
+  {
+    "question": "Can you do two things with Ki points in one turn?",
+    "answer": "Yes, if you have enough Ki and the Ki features require you to use a bonus action.",
+    "rules": [
+      "Monk > Ki"
+    ],
+    "rules_explanation": "As long as the conditions of the Ki feature are met, Ki can be expended."
+  },
+  {
+    "question": "Can you do two things with Ki points in one turn with a Flurry of Blows if you already have advantage?",
+    "answer": "Yes, you can use Flurry of Blows even with advantage from other conditions.",
+    "rules": [
+      "Monk > Ki > Flurry of Blows"
+    ],
+    "rules_explanation": "Having advantage does not interact with flurry of blows and it can be used as a bonus action so long as the base action is a valid attack."
+  },
+  {
+    "question": "Can you use the Fangs of the Fire Snake to do fire damage?",
+    "answer": "Yes, you can. The Fangs of the Fire Snake technique lets you spend Ki points to deal additional fire damage with your unarmed strikes",
+    "rules": [
+      "No equivalent rule found in SRD"
+    ],
+    "rules_explanation": "This rule does not exist in the SRD"
+  },
+  {
+    "question": "Can a player get expertise in a particular subject as a character of human heritage?",
+    "answer": "The feat \"Skill Expert\" can grant the player expertise if they have a proficiency in a skill",
+    "rules": [
+      "no equivalent found in SRD"
+    ],
+    "rules_explanation": "The information isn't in the SRD, but some races and some feats such as the skill expert will have features that grant skill proficiencies and expertise"
+  },
+  {
+    "question": "Can you only benefit from the armor class bonus on a shield if you are proficient?",
+    "answer": "Yes",
+    "rules": [
+      "Equipment > Armor > Armor Proficiency"
+    ],
+    "rules_explanation": "The armor and shield section states that You benefit from the armor's AC only if you take the full time to don the suit of armor and If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells."
+  },
+  {
+    "question": "If you have a battle that is played in a area that is difficult terrain, how is the movement affected?",
+    "answer": "Each foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.",
+    "rules": [
+      "Combat > Movement and Position > Difficult Terrain"
+    ],
+    "rules_explanation": "This rule states exactly how difficult terrain affects movement during combat."
+  },
+  {
+    "question": "what saving throw is required after cast the spell, Confusion?",
+    "answer": "After you cast Confusion the target must make a Wisdom Saving Throw or be affected by it.",
+    "rules": [
+      "Spell Descriptions > Confusion"
+    ],
+    "rules_explanation": "The description of the Confusion Spell states that each creature must succeed on a Wisdom Saving Throw to avoid the spell's effect"
+  },
+  {
+    "question": "When is it required to reroll the dice for a saving throw?",
+    "answer": "You are never forced to reroll a dice for a saving throw, you can only choose to reroll dice when you have a specified feature that allows you to do so.",
+    "rules": [
+      "No forced re-rolls"
+    ],
+    "rules_explanation": "There is not any ability or condition in the PHB or SRD that forces a player to reroll a saving throw if they do not wish to. However, the player must use the second roll."
+  },
+  {
+    "question": "Can you move before using action surge? Also, are you able to move in between your attack with action surge?",
+    "answer": "Yes, you can move before or after using action surge. If you can make multiple attacks as part of the Attack action, you can move in between attacks.",
+    "rules": [
+      "Combat > Your Turn > Breaking up Your Move",
+      "Combat > Actions > Action Surge"
+    ],
+    "rules_explanation": "The action surge allows an extra action in addition to the move, allowing them to be used in any order."
+  },
+  {
+    "question": "If the target is not hit by color spray, does that mean they are still blinded?",
+    "answer": "No, the spell only affects a number of hit points of creatures and does not blind those with more hit points then the amount of damage inflicted.",
+    "rules": [
+      "Spell Descriptions > Color Spray"
+    ],
+    "rules_explanation": "Creatures are affected in ascending order of hit points until the full amount of hit points from the d10s are met."
+  },
+  {
+    "question": "Is it valid for a player to use their reaction to add Charisma Modifier for a saving throw",
+    "answer": "It is invalid. There are some cases where players can add stats for a saving throw, in general, players do not use reactions for stats or saving throws.",
+    "rules": [
+      "Actions > Reactions"
+    ],
+    "rules_explanation": "The book specifies that the reaction is to take a special action to cast a spell or do something, rather than boost a check."
+  },
+  {
+    "question": "When using a 5th level casting of Spirit Guardians, can you chose friendly creatures to not be affected by it's ability or is it only the caster?",
+    "answer": "You can choose any number of creatures you can see to be unaffected by it.",
+    "rules": [
+      "Spell Descriptions > Spirit Guardians"
+    ],
+    "rules_explanation": "The rules for spirit guardians say 'When you cast this spell, you can designate any number of creatures you can see to be unaffected by it.'"
+  },
+  {
+    "question": "When a warlock has multiple invocations, how many of them can they use at once?",
+    "answer": "A warlock is able to use all of their invocations simultaneously assuming that they are not mutually exclusive and that all necessary conditions to make use of them are being met.",
+    "rules": [
+      "Warlock > Eldritch Invocations"
+    ],
+    "rules_explanation": "There is no limit to the number of invocations that can be active at once in the rules. Some invocations may have conditions that would make it so they are mutually exclusive such as requiring a bonus action, or that it may be not possible to meet the invocation’s conditions at the same time. "
+  },
+  {
+    "question": "Can you use your action to get on a broom and take a bonus action on a spell?",
+    "answer": "Yes, the 5e rules allow you to use your Action to mount an item, then take a bonus action for a spell.",
+    "rules": [
+      "Combat > Your Turn",
+      "Actions in Combat"
+    ],
+    "rules_explanation": "A turn includes a move, an action, and a bonus action which can be used in different orders"
+  },
+  {
+    "question": "Can you do a 1-action skill and use Lay on Hands on same turn?",
+    "answer": "No, Lay on Hands is an action, and a character only gets one action per turn.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "This rule states that a character only gets 1 action per turn. Some abilities, such as action surge, add to that number, but otherwise the number is 1."
+  },
+  {
+    "question": "Does rage do anything to fear?",
+    "answer": "No. The base rage for a barbarian does not. However, other features associated with the barbarian class or subclass might interact with the frightened condition",
+    "rules": [
+      "Barbarian > Rage",
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "Rage gives you advantage on Strength checks and Strength saving throws. It does not directly impact the frightened condition. The subclass berserker at level 6 gets the feature mindless rage, which prevents you from being frightened while raging."
+  },
+  {
+    "question": "Does being in a frightened state provide disadvantage on attacks?",
+    "answer": "Yes, it imposes disadvantage on attack rolls and ability checks while the source of your fear is within line of sight.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "This rule states that a frightened creature has disadvantage on attack rolls and ability checks while the source of its fear is within line of sight"
+  },
+  {
+    "question": "Can a 10th level Wild Magic Barbarian go into a rage as a reaction to being attacked?",
+    "answer": "No",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "The rules for entering a rage state that it is a bonus action on your turn. There are no extra rules allowing it as a reaction. The Feral Instinct barbarian ability only lets you act normally in the first turn, but to do that you must enter a rage state"
+  },
+  {
+    "question": "Can you use Bardic Inspiration after you see the roll?",
+    "answer": "Yes. You can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the GM says whether the roll succeeds or fails.",
+    "rules": [
+      "Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "This is explicitly stated in the Bardic Inspiration rules."
+  },
+  {
+    "question": "Does level of exhaustion increase from 1 due to not drinking enough water after going one day with only half the required water?",
+    "answer": "Yes. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day",
+    "rules": [
+      "The Environment > Food and Water"
+    ],
+    "rules_explanation": "Since the character didn't drink a gallon of water, that character must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day. Since the character did drink some water, it is a DC 15 saving throw."
+  },
+  {
+    "question": "After a wisdom saving throw is failed against an effect that stuns you, what rolls are automatically failed and what rolls have advantage?",
+    "answer": "When stunned, you automatically fail Strength and Dexterity saving throws. Attack rolls against the stunned creature have advantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation": "As described in the rules, a stunned creature automatically fails Strength and Dexterity saving throws, and attack rolls against the creature have advantage."
+  },
+  {
+    "question": "Does rage work while wearing heavy armor?",
+    "answer": "No. The rage ability says that, while raging, you gain benefits if you aren't wearing heavy armor.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "The rules for Rage state that the described benefits are gained if you aren't wearing heavy armor"
+  },
+  {
+    "question": "If I use reckless attack and then someone casts blindness on me, does that change the advantage and disadvantage on me?",
+    "answer": "No, the effects of reckless attack and blindness apply independently. A character has advantage on melee attacks, while other creatures have advantage on attack rolls against you. The Blinded condition imposes disadvantage on attack rolls by you, and advantage on attack rolls against you. Advantage and disadvantage cancel each other out",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Appendix PH-A: Conditions > Blinded",
+      "Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "The reckless attack states that reckless attacks are given advantage and given advantage against. Blindedness says that blind creatures have disadvantage on attacks and that other creatures have advantage on attacks. "
+  },
+  {
+    "question": "What is the area of a cylinder, and what is included in the cylinder's area of effect?",
+    "answer": "A cylinder's point of origin is the center of a circle of a particular radius. The circle must either be on the ground or at the height of the spell effect. The energy in a cylinder expands in straight lines from the point of origin to the perimeter of the circle, forming the base of the cylinder. The spell's effect then shoots up from the base or down from the top, to a distance equal to the height of the cylinder.A cylinder's point of origin is included in the cylinder's area of effect.",
+    "rules": [
+      "Spellcasting > Areas of Effect > Cylinder"
+    ],
+    "rules_explanation": "That is the precise definition given for an area of effect that is a cylinder"
+  },
+  {
+    "question": "As a bard, can you give bardic inspiration to yourself?",
+    "answer": "No, when you use bardic inspiration, you choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.",
+    "rules": [
+      "Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "You can not target yourself when using the bardic inspiration skill, this is explicit in the rules"
+  },
+  {
+    "question": "When can you regain Ki points",
+    "answer": "You regain all spent sorcery points when you finish a short or long rest",
+    "rules": [
+      "Monk > Ki"
+    ],
+    "rules_explanation": "Monk text for Ki clearly states, \"When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.\""
+  },
+  {
+    "question": "If a cleric prepares Spirit Guardians do they have to maintain concentration to keep the spirit guardians active?",
+    "answer": "Yes, the Spirit Guardians spell has a duration of Concentration, up to 10 minutes.",
+    "rules": [
+      "Spell Descriptions > Spirit Guardians"
+    ],
+    "rules_explanation": "The spell description for Spirit Guardians states that the duration is \"Concentration, up to 10 minutes\"."
+  },
+  {
+    "question": "If a character is hit and tripped by the bite attack of the same monster, does the fall provoke an attack of opportunity if the character then tries to stand up",
+    "answer": "No",
+    "rules": [
+      "Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "The rules say that a creature provokes an opportunity attack when it leaves the reach. Standing up does not involve movement outside the character's space."
+  },
+  {
+    "question": "Does the Draconic Bloodline of a sorcerer with red dragon ancestry grant proficiency to weapons?",
+    "answer": "No",
+    "rules": [
+      "Sorcerer > Sorcerous Origins > Draconic Bloodline"
+    ],
+    "rules_explanation": "There is no feature that grants proficiency to weapons"
+  },
+  {
+    "question": "Can a player roll a critical failure?",
+    "answer": "No, skill checks don't have critical failures. A roll of 1 only causes an automatic failure on an attack roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Making an Attack > Rolling 1 or 20"
+    ],
+    "rules_explanation": "A roll of 1 only causes an automatic failure on an attack roll, and skill checks don't have critical failures. A failed roll against the specified DC simply means that the action fails."
+  }
+]

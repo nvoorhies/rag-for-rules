@@ -1,0 +1,20 @@
+[
+  {
+    "question": "If a character asks to find a body with resurrection magic, is such magic functioning properly on Exandria?",
+    "answer": "No, resurrection magic on Exandria proper is not functioning due to the state of the ley lines.",
+    "rules": [
+      "Spellcasting > Ritual Casting",
+      "Cleric > Divine Intervention"
+    ],
+    "rules_explanation": "This is a setting specific rules judgement, outside the scope of the SRD documents."
+  },
+  {
+    "question": "If a character asks if high-level True Resurrection spells are potentially effective if the connection disrupting the power of magic is broken, what is the answer?",
+    "answer": "Possibly, if the connection is broken and divine magic is still in effect, high level True Resurrection spells could be effective.",
+    "rules": [
+      "Spellcasting > Ritual Casting",
+      "Cleric > Divine Intervention"
+    ],
+    "rules_explanation": "This is a setting specific rules judgement, outside the scope of the SRD documents."
+  }
+]

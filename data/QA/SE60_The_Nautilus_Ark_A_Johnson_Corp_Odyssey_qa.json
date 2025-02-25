@@ -1,0 +1,34 @@
+[
+  {
+    "question": "The glass is inches above the faces of several level one characters. What kind of save should they attempt in order to get out of the tubes?",
+    "answer": "They should attempt a body save.",
+    "rules": [
+      "General Guidance > Describing a situation > GM judgement"
+    ],
+    "rules_explanation": "The GM decides what skill check or saving throw a player should make for a given circumstance"
+  },
+  {
+    "question": "If there are two vac suits and two oxygen tanks how many characters can go into the science lab while maintaining the rest of the ship's oxygen levels?",
+    "answer": "Two characters could go into the science lab while everybody else would have to stay separated.",
+    "rules": [
+      "General Guidance > GM Judgement"
+    ],
+    "rules_explanation": "Based on the statement of how many vac suits and oxygen tanks exist it is possible for only two people to survive."
+  },
+  {
+    "question": "If the player is not trained in biology, what adjustment is applied to a biology check?",
+    "answer": "If the player is not trained, the check relies on the base stat like intellect, empathy, speed, or strength.",
+    "rules": [
+      "General Guidance > GM Judgement"
+    ],
+    "rules_explanation": "This is a setting specific ruling"
+  },
+  {
+    "question": "What kind of check is rolled to see if Forrest, a systems engineer, can succeed in sealing the damage?",
+    "answer": "A mechanical repair check is required to see if he succeeds in sealing the damage.",
+    "rules": [
+      "General Guidance > GM Judgement"
+    ],
+    "rules_explanation": "This is a judgement call by the GM of which skill to apply"
+  }
+]

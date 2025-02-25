@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What kind of check is required to peek head out and look at the moon in the sky to determine the time?",
+    "answer": "A nature or survival check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Wisdom > Survival",
+      "Intelligence > Nature"
+    ],
+    "rules_explanation": "To determine the time by observing the moon a creature would need to use a Nature or Survival check.  The GM decides whether the check requires skill proficiency. The ability used depends on whether the creature's knowledge is scientific (Nature) or learned from experience (Survival)."
+  },
+  {
+    "question": "What check is required to convince the bartender that 'he has quite the problem holding his alcohol, so we just want to make sure he's not passed out or in a compromised position'?",
+    "answer": "A deception check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Charisma > Deception"
+    ],
+    "rules_explanation": "To convince someone of something that is not true, a creature would use a Charisma (Deception) check. The GM decides whether the check requires skill proficiency."
+  },
+  {
+    "question": "What check is required for a proficient character to use lock picks to open the door?",
+    "answer": "A dex check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Dexterity"
+    ],
+    "rules_explanation": "To open a lock using lockpicks the SRD calls for a Dexterity check, with the added option of Thieves' Tools proficiency."
+  },
+  {
+    "question": "What kind of roll is required to strike the latch off of the door?",
+    "answer": "An attack roll is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "To hit a target with a melee weapon, a creature makes a melee weapon attack, which uses an attack roll."
+  },
+  {
+    "question": "What kind of check is required to look through a room and find something?",
+    "answer": "An investigation check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Intelligence > Investigation"
+    ],
+    "rules_explanation": "To find clues and make deductions based on those clues a creature would use an Intelligence (Investigation) check.  The GM decides whether the check requires skill proficiency."
+  },
+  {
+    "question": "What kind of check is required to learn about the wounds on a dead body?",
+    "answer": "A medicine check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Wisdom > Medicine"
+    ],
+    "rules_explanation": "To diagnose an ailment or learn about wounds, a creature would use a Wisdom (Medicine) check. The GM decides whether the check requires skill proficiency."
+  },
+  {
+    "question": "A first-level spell is being cast and the question arises: Is it cumulative? Does a long rest add up?",
+    "answer": "The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap.",
+    "rules": [
+      "Spellcasting > Combining Magical Effects"
+    ],
+    "rules_explanation": "The SRD is clear that multiple applications of the same spell do not stack."
+  },
+  {
+    "question": "What skill check is appropriate to have a better understanding of the area to find out where to look?",
+    "answer": "A perception check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Wisdom > Perception"
+    ],
+    "rules_explanation": "To spot, hear, or otherwise detect the presence of something a creature would use a Wisdom (Perception) check.  The GM decides whether the check requires skill proficiency."
+  },
+  {
+    "question": "If someone attempts to pick you up, what kind of check is required?",
+    "answer": "A strength check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Strength"
+    ],
+    "rules_explanation": "The Strength check would determine how much physical power the creature has to perform that task, and the check uses Strength."
+  },
+  {
+    "question": "If there's a possibility you might be close to the dwarf and might be fighting in the area, what kind of skill check is required to check around the room without light?",
+    "answer": "A perception check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Wisdom > Perception"
+    ],
+    "rules_explanation": "To spot, hear, or otherwise detect the presence of something a creature would use a Wisdom (Perception) check.  The GM decides whether the check requires skill proficiency."
+  },
+  {
+    "question": "if a 1st level character is about to make a saving throw and it's described that you could use a bonus because you're still, use a bonus because you're still under the effects of Guidance. How does that work?",
+    "answer": "The creature rolls a d4 and adds it to the saving throw.",
+    "rules": [
+      "Spell Descriptions > Guidance"
+    ],
+    "rules_explanation": "The Guidance spell description states that the target can roll a d4 and add the number rolled to one ability check of its choice."
+  },
+  {
+    "question": "You want to know what is inside the Lantern Spire. What check is appropriate?",
+    "answer": "A history check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Intelligence > History"
+    ],
+    "rules_explanation": "To recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations you use an Intelligence (History) check.  The GM decides whether the check requires skill proficiency."
+  },
+  {
+    "question": "What kind of check to see if anything looks out of the ordinary from the balcony?",
+    "answer": "A perception check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Wisdom > Perception"
+    ],
+    "rules_explanation": "To spot, hear, or otherwise detect the presence of something a creature would use a Wisdom (Perception) check.  The GM decides whether the check requires skill proficiency."
+  },
+  {
+    "question": "What check is needed to make the jump across to the other roof?",
+    "answer": "An athletics check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Strength > Athletics"
+    ],
+    "rules_explanation": "To perform difficult situations you encounter while climbing, jumping, or swimming a creature would use a Strength (Athletics) check.  The GM decides whether the check requires skill proficiency."
+  },
+  {
+    "question": "What check is used to ask around and see what you can find out about a person?",
+    "answer": "A persuasion check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Charisma > Persuasion"
+    ],
+    "rules_explanation": "To influence someone or a group of people with tact, social graces, or good nature a creature would use a Charisma (Persuasion) check. The GM decides whether the check requires skill proficiency."
+  },
+  {
+    "question": "The PC states \"and I'm going to open up my mind outside of the door and see if I can sense anyone in there.\" What kind of saving throw is required?",
+    "answer": "A Wisdom saving throw is required.",
+    "rules": [
+      "Spell Descriptions > Detect Thoughts"
+    ],
+    "rules_explanation": "To attempt to probe deeper into a creature's mind, the target must make a Wisdom saving throw."
+  },
+  {
+    "question": "Is a creature required to spend their action to attempt to get out from Bertrand's arm?",
+    "answer": "No, the escape is a contest.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling",
+      "Using Ability Scores > Contests"
+    ],
+    "rules_explanation": "The SRD indicates that to initiate the end of a grapple, a creature must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by the grappler's Strength (Athletics) check."
+  },
+  {
+    "question": "Would we know, having been here a little bit longer, where the Krook House is?",
+    "answer": "No, the Krook House's location is not known.",
+    "rules": [],
+    "rules_explanation": "This information comes directly from the DM."
+  },
+  {
+    "question": "Will this [Coin of Delving] make a sound and tell you exactly how far, how deep?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "This information comes directly from another player."
+  },
+  {
+    "question": "Is is cumulative? Does a long rest add up?",
+    "answer": "I'll say it doesn't have to be-- like, if you all of a sudden wake up in the middle of your eight hours, it doesn't reset.",
+    "rules": [],
+    "rules_explanation": "This information comes directly from the DM."
+  }
+]

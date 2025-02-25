@@ -1,0 +1,320 @@
+[
+  {
+    "question": "What kind of check does the  level 10 undead creature have to make against the level 4 spell, *Turn Undead*?",
+    "answer": "The level 10 undead creature must make a Wisdom saving throw.",
+    "rules": [
+      "Cleric > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "The Turn Undead feature from the cleric class states the targeted undead creature must make a Wisdom saving throw."
+  },
+  {
+    "question": "What kind of check should the level 10 undead creature make to not have the effect of being forced to move away from the cleric?",
+    "answer": "The level 10 undead creature must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.",
+    "rules": [
+      "Cleric > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "The Turn Undead feature from the cleric class states the targeted undead creature must make a Wisdom saving throw, and then describes the effect of failing the save"
+  },
+  {
+    "question": "What is the DC for that save?",
+    "answer": "The DC for the Wisdom saving throw is equal to 8 + the Cleric's proficiency bonus + the Cleric's Wisdom modifier",
+    "rules": [
+      "Cleric > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "The Turn Undead feature from the cleric class says that some Channel Divinity effects require saving throws and, 'When you use such an effect from this class, the DC equals your cleric spell save DC.'"
+  },
+  {
+    "question": "What check should the character make to try and find holes in the room?",
+    "answer": "The character can make either a perception check or an investigation check.",
+    "rules": [],
+    "rules_explanation": "This is an implied rule based on the nature of skill checks, not explicitly a rules citation"
+  },
+  {
+    "question": "Can a 7th level Life Cleric cast the spell 'Identify'?",
+    "answer": "There is nothing in the class description to suggest a 7th level Life Domain Cleric can cast the spell Identify, as it is not one of the prepared spells for the class and domain.",
+    "rules": [
+      "Cleric > Spellcasting > Spells Known and Prepared",
+      "Cleric > Divine Domain > Domain Spells"
+    ],
+    "rules_explanation": "These sections describe how a Cleric prepares spells for each level.  The Identify spell is not among those in the Life Domain."
+  },
+  {
+    "question": "Can a level 1 forest land druid with a +3 wisdom modifier use 'Guidance' and 'Entangle' on the same turn?",
+    "answer": "No. The rules state that you can cast a Bonus Action spell and a Cantrip with a casting time of 1 action on the same turn. The spell 'Entangle' has a casting time of 1 action.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "A spell caster is limited to one spell with a casting time of one action and one spell with a casting time of one bonus action per turn."
+  },
+  {
+    "question": "If the 1st level Druid did use the action to cast Entangle, could they also use the bonus action to cast Shillelagh?",
+    "answer": "Yes, casting entangle as an action does not prevent the 1st level Druid from casting shillelagh with the casting time of 1 bonus action.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "This rule states that \"You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.\""
+  },
+  {
+    "question": "Can a 1st level character re-roll a one on the die from making a history check?",
+    "answer": "Not by default. Some racial traits, like the Halfling's lucky trait, allow re-rolling a 1 on an attack roll, ability check, or saving throw, but without such a trait a player can't reroll the check.",
+    "rules": [],
+    "rules_explanation": "There is no generic rule for re-rolling a 1 on a skill check"
+  },
+  {
+    "question": "Can a 17 Wisdom modifier Hill Dwarf give another character, guidance?",
+    "answer": "No. Racial Traits such as Hill Dwarf do not grant the ability to cast spells or use magic.",
+    "rules": [
+      "Races > Dwarf > Hill Dwarf"
+    ],
+    "rules_explanation": "This section shows the abilities granted by the Hill Dwarf racial traits."
+  },
+  {
+    "question": "Can the 17 Charisma Bard cast Guidance on himself and on others, if he can cast Guidance?",
+    "answer": "The spell range of Guidance is one character, touch. You can cast touch spells on yourself.",
+    "rules": [
+      "Spellcasting > Range > Targeting Yourself"
+    ],
+    "rules_explanation": "This section states: \"If a spell targets a creature of your choice, you can choose yourself, unless the creature must be hostile or specifically a creature other than you. If you are in the area of effect of a spell you cast, you can target yourself.\""
+  },
+  {
+    "question": "Can a 1st level character that used a druidcraft spell to create a vegetable be consumed and provide food?",
+    "answer": "Yes, a material component of a spell becomes a real, nonmagical creation.",
+    "rules": [],
+    "rules_explanation": "This is an implied rule based on the nature of spell components and effects, not explicitly a rules citation"
+  },
+  {
+    "question": "If the 1st level character falls a few feet on a failed skill check, what kind of damage do they take?",
+    "answer": "For a fall of a few feet, no damage is taken. Damage from falling is 1d6 bludgeoning damage for every 10 feet fallen.",
+    "rules": [
+      "The Environment > Falling"
+    ],
+    "rules_explanation": "The rules state: \"At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6.\""
+  },
+  {
+    "question": "Can a character that is on horseback and has a speed of 30 feet still move 30 feet?",
+    "answer": "The mount determines how far a character can move when mounted, and they use the mount's speed, not their own. If the mount has a speed of 30 feet the mounted character can move up to 30 feet.",
+    "rules": [
+      "Mounts and Vehicles > Speed"
+    ],
+    "rules_explanation": "The section on mounts states, 'Your speed determines how far you can move when traveling ('Adventuring') and fighting ('Combat').'"
+  },
+  {
+    "question": "How much silver does it cost each of a group of six characters to take a trolley if the group is eligible for a discount because they are one character short of the normal group size, where the trolley would normally cost 8 silver?",
+    "answer": "It costs each character one silver.",
+    "rules": [],
+    "rules_explanation": "This relies on basic arithmetic to derive the result, not a direct rule citation"
+  },
+  {
+    "question": "How much does it cost each of a group of five characters to buy supplies for a trip there and back again, if the whole trip requires 10 gold each?",
+    "answer": "Each character needs to spend 10 gold.",
+    "rules": [],
+    "rules_explanation": "This is based on a direct statement in the text, not a derived calculation."
+  },
+  {
+    "question": "What are the effects of being \"turned\"?",
+    "answer": "A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.",
+    "rules": [
+      "Cleric > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "The Turn Undead feature from the cleric class describes the effect"
+  },
+  {
+    "question": "Can a 1st level barbarian of neutral good alignment, that is 30 feet away from a celestial, be targeted by a spell?",
+    "answer": "Yes, a 1st level Barbarian of any alignment can be targeted by a spell within range.",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "The rules for targeting a spell state that: 'To target something, you must have a clear path to it, so it can't be behind total cover.' And, 'Unless a spell has a perceptible effect, a creature might not know it was targeted by a spell at all.'"
+  },
+  {
+    "question": "Can a 1st level Barbarian of level 1 who knows the location of another creature, 200 feet away and in a building, be targeted by a spell?",
+    "answer": "Unless the character is behind total cover, yes, the 1st-level barbarian can be targeted by a spell with a range of 200 feet",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "The rules for targeting a spell state that: 'To target something, you must have a clear path to it, so it can't be behind total cover.'"
+  },
+  {
+    "question": "Can a 1st level Barbarian concentrate on a spell?",
+    "answer": "No. Barabarians do not have the spellcasting feature and thus cannot concentrate on spells.",
+    "rules": [
+      "Barbarian > Rage",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The rules for rage state, 'If you are able to cast spells, you can't cast them or concentrate on them while raging.' and the rules for concentration state, 'Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.'"
+  },
+  {
+    "question": "If a character is knocked unconscious by a creature, can the other members in the party wake up the unconscious character?",
+    "answer": "Yes, a member of the party can use their action to shake the creature awake",
+    "rules": [
+      "Dropping to 0 Hit Points > Falling Unconscious"
+    ],
+    "rules_explanation": "A character can awaken an unconscious creature by using their action."
+  },
+  {
+    "question": "What are the conditions of the frightened condition?",
+    "answer": "A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight, and the creature can't willingly move closer to the source of its fear.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "This section of the SRD contains a description of the Frightened condition and its effects"
+  },
+  {
+    "question": "Does the ranger in the party need to have a drawn weapon to make an opportunity attack with it?",
+    "answer": "Yes. To make an opportunity attack, the character has to use a weapon they have available to them.",
+    "rules": [
+      "Combat > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "To make the melee attack you must be holding a melee weapon"
+  },
+  {
+    "question": "Can someone help the 3rd level fighter with a Strength check?",
+    "answer": "Yes, unless the check is one that would be no easier with multiple people working together.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "This section states, 'Sometimes two or more characters team up to attempt a task. The character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.' and, 'A character can only provide help if the task is one that he or she could attempt alone. [...] Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.'"
+  },
+  {
+    "question": "Can one player give another player his inspiration during game play? If so, what check is involved in doing so?",
+    "answer": "Yes. If you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game, and give up your inspiration to give that character inspiration. There is no check involved in transferring inspiration.",
+    "rules": [
+      "Using Ability Scores > Inspiration"
+    ],
+    "rules_explanation": "The rules state: 'If you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.'"
+  },
+  {
+    "question": "If a creature has a fly speed, is its land speed replaced by the fly speed, or does it have both?",
+    "answer": "The creature has both a fly speed and a land speed. It can use whichever one is more appropriate in any given situation.",
+    "rules": [
+      "Movement > Speed"
+    ],
+    "rules_explanation": "The rules state that 'All creatures have a walking speed, simply called the monster's speed. Creatures that have no form of ground-based locomotion have a walking speed of 0 feet.' Then, later: 'Some creatures have one or more of the following additional movement modes.'"
+  },
+  {
+    "question": "What happens if a creature has more than one name?",
+    "answer": "When casting a spell, If you know a specific creature's name, you can speak that name when you cast this spell to request that creature, though you might get a different creature anyway (GM's choice).",
+    "rules": [
+      "Spell Lists > Ranger Spells > 5th Level > Planar Binding"
+    ],
+    "rules_explanation": "Planar Binding Spell mentions if you know a specific creature's name"
+  },
+  {
+    "question": "Does the 5'6\" tall character's small horse limit the character's movement speed, or the other way around?",
+    "answer": "The size and carrying capacity of the mount determine whether it can carry the rider. The mount's speed dictates the movement of the pair.",
+    "rules": [
+      "Mounts and Vehicles > Speed"
+    ],
+    "rules_explanation": "The rules state, 'Your speed determines how far you can move when traveling ('Adventuring') and fighting ('Combat').' and 'A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down.'"
+  },
+  {
+    "question": "Is it possible for a creature to be friendly to a player, but also have a different alignment than them?",
+    "answer": "Yes. A creature's alignment provides a clue to its disposition. However, individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.",
+    "rules": [
+      "Using Ability Scores > Alignment"
+    ],
+    "rules_explanation": "This section states, 'Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). [...] These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.'"
+  },
+  {
+    "question": "What does the phrase \"up to\" imply when detailing the extent of a spell?",
+    "answer": "You choose any value you like that is less than or equal to the limit, including a lower value.",
+    "rules": [],
+    "rules_explanation": "This is an implied rule, not explicitly a rules citation."
+  },
+  {
+    "question": "After receiving some work done by another character, can a character add the other player's bonus to his roll?",
+    "answer": "No. If you are trying to accomplish a task as a team, the player can make the check with advantage, reflecting the help provided by the other characters. This doesn't require any rolls from the other characters",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "This section states that: 'Sometimes two or more characters team up to attempt a task. The character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters.'"
+  },
+  {
+    "question": "Can someone eat a horse?",
+    "answer": "Yes. Because they are unaligned beasts, it is possible to eat a horse.",
+    "rules": [],
+    "rules_explanation": "This is a world-building question, but it is assumed that players can eat any safe creature that they can catch and cook."
+  },
+  {
+    "question": "Is a creature immune to everything if the phrase \"It is immune to all\" is said",
+    "answer": "No. Instead you must look at what type of things it is immune to. See conditions and damage, though creatures do not get to be immune to ability score checks.",
+    "rules": [
+      "Monsters > Vulnerabilities, Resistances, and Immunities",
+      "Appendix PH-A: Conditions",
+      "Damage and Healing > Damage Types"
+    ],
+    "rules_explanation": "The rules state that, 'In addition, some creatures are immune to certain conditions.' And, 'Different attacks, damaging spells, and other harmful effects deal different types of damage.'"
+  },
+  {
+    "question": "Given the ability score increases of each race, are members of each race automatically good at certain things? Are ability score increases mandatory?",
+    "answer": "Yes, ability score increases are mandatory for the appropriate race. Also, every race increases one or more of a character's ability scores.",
+    "rules": [
+      "Races > Racial Traits > Ability Score Increase"
+    ],
+    "rules_explanation": "The rules state that, 'Every race increases one or more of a character's ability scores.'"
+  },
+  {
+    "question": "Can you see a person with the name of Orym?",
+    "answer": "Yes, unless the character is invisible, hidden, or behind total cover.",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "The rules for targeting a spell state that: 'To target something, you must have a clear path to it, so it can't be behind total cover.'"
+  },
+  {
+    "question": "How many 1st level spells does a 1st-level sorcerer know?",
+    "answer": "A 1st-level sorcerer knows two 1st-level spells.",
+    "rules": [
+      "Sorcerer > Spellcasting > Spells Known of 1st Level and Higher"
+    ],
+    "rules_explanation": "The Spells Known column of the Sorcerer table shows that a 1st-level sorcerer knows two 1st-level spells."
+  },
+  {
+    "question": "If the stone is transformed through magic, should I roll a d20?",
+    "answer": "You do not necessarily have to roll a d20; die rolls depend entirely on the game mechanics of the feature being used.",
+    "rules": [],
+    "rules_explanation": "It is only implied that you don't always need to roll a d20. The game is open ended enough to allow for no rolling to be necessary."
+  },
+  {
+    "question": "Are there benefits to traveling on a boat?",
+    "answer": "Yes.  Characters in a waterborne vessel are limited to the speed of the vessel, and they don't suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.",
+    "rules": [
+      "Adventuring > Time > Movement > Travel Pace > Mounts and Vehicles"
+    ],
+    "rules_explanation": "This section states that, 'Characters in a waterborne vessel are limited to the speed of the vessel, and they don't suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.'"
+  },
+  {
+    "question": "In an instance where a player has a choice between using two different checks, can they roll both and pick the better of the two?",
+    "answer": "No, unless there is a condition in place that grants them advantage on the check. It is only with advantage that a player is entitled to roll two dice and pick their favorite result. Otherwise, the choice between the two checks must be declared before rolling.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This rules section says, 'When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage.'"
+  },
+  {
+    "question": "Are there any kinds of restrictions around a horse's ability to move around?",
+    "answer": "Yes, as they lack opposable thumbs, they cannot perform intricate acts. The rules for this is largely open ended to the GM.",
+    "rules": [],
+    "rules_explanation": "This is an implied rule based on physical limitations, not explicitly a rules citation"
+  },
+  {
+    "question": "Does the terrain affect the ability to move?",
+    "answer": "Yes. You move at half speed in difficult terrain - moving 1 foot in difficult terrain costs 2 feet of speed - so you can cover only half the normal distance in a minute, an hour, or a day.",
+    "rules": [
+      "Adventuring > Time > Movement > Difficult Terrain"
+    ],
+    "rules_explanation": "This section describes the rules for how difficult terrain impacts movement"
+  },
+  {
+    "question": "Does the 15th level Monk, One Way, still have darkvision?",
+    "answer": "It is unknown if they still have darkvision, as this is a racial trait and the race of One Way is not specified.",
+    "rules": [],
+    "rules_explanation": "This is a question of character history."
+  },
+  {
+    "question": "When the 15th level Monk, Orym, attacks with his martial arts, can they add all relevant bonuses?",
+    "answer": "Yes. Add all relevant bonuses to the dice roll.",
+    "rules": [],
+    "rules_explanation": "It is assumed that bonuses are normally added to relevant dice rolls."
+  }
+]

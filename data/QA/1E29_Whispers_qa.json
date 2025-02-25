@@ -1,0 +1,122 @@
+[
+  {
+    "question": "The [level]-[class] [race] [class] [race] wants to know if *[spell name]* has a range?",
+    "answer": "Yes. The spell range is 8 hours and allows you to change the appearance of…",
+    "rules": [
+      "Spells > Casting a Spell > Range"
+    ],
+    "rules_explanation": "The question is answered by referencing the specific 'Range' section of spellcasting rules, stating that every spell has a range. This is part of understanding a spell, and does not rely on any specific skill check or die roll."
+  },
+  {
+    "question": "The [level]- [class] wants to know if she can interrupt the eight-hour process of [name] spell to perform carving a ravine for where she's going to start pouring the water?",
+    "answer": "If you've already started the eight-hour process of a spell, you would not be able to really interrupt that to be able to continue another spell you've been doing.",
+    "rules": [
+      "Spells > Casting a Spell > Concentration"
+    ],
+    "rules_explanation": "Determines whether you can cast another spell while concentrating on another, if you can then you would have to stop concentrating on the first spell."
+  },
+  {
+    "question": "If you're not trying to hide, then make [skill name] checks instead. Which adjustments apply?",
+    "answer": "The stealth modifier depends on whether the character chooses to hide or deceive. Each character would roll a d20 and apply their proficiency and ability modifiers.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question is about making skill checks when the player indicates they aren't trying to hide, so the rules specify to roll and apply modifiers depending on the scenario described"
+  },
+  {
+    "question": "Would that spell *[spell name]* only affect living things? Or does it affect nonliving things as well?",
+    "answer": "It's a blast of thunderous energy in an area, it would affect living and nonliving matter, yes.",
+    "rules": [
+      "Spells > Casting a Spell > Areas of Effect"
+    ],
+    "rules_explanation": "The question is answered by referencing the specific 'Areas of Effect' section of spellcasting rules for the spell, stating that it would affect both living and nonliving things."
+  },
+  {
+    "question": "Does our [equipment name] help us with that [skill name] throw at all?",
+    "answer": "Nope.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Game Master stated that this condition did not apply."
+  },
+  {
+    "question": "If [character name] dies once, comes back and dies again, is that two?",
+    "answer": "No, he has to fail his death saves.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "The question is about tracking deaths and the conditions for permenant death. The response describes having to fail death saving throws."
+  },
+  {
+    "question": "I will also sing for him a [class feature], which is just another d6. Does that work?",
+    "answer": "If you guys are taking a short rest yes. Then calculate the bonuses.",
+    "rules": [
+      "Resting > Short Rest"
+    ],
+    "rules_explanation": "The question involves a class feature that affects a short rest and the application of that feature. The conditions for short resting must apply."
+  },
+  {
+    "question": "Does [race] get advantage on this? Because of [equipment name]?",
+    "answer": "I would say no, because this isn't a saving throw and because what you're attempting to do is essentially convert a highly damaging spell into a non-damaging circumstance at the end of an eight-hour endurance match with a ritual. This is going to be a difficult attempt.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The GM rules in this case that a particular bonus doesn't apply due to the unusual nature of the action."
+  },
+  {
+    "question": "We have advantage because we're still affected by [equipment name]. Until noon tomorrow, right?",
+    "answer": "2PM tomorrow.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Game Master stated that the condition lasts longer."
+  },
+  {
+    "question": "I cast *[spell name]* on all of us.  Is it possible to see what the movement is, who it is inside that window?",
+    "answer": "Not from this 25 to 30-foot distance from the building and you guys trying to be inconspicuous.",
+    "rules": [
+      "Spells > Casting a Spell > Range"
+    ],
+    "rules_explanation": "The range of a spell affects whether someone is within its affected area. This is about range, and not about whether a skill check can be used."
+  },
+  {
+    "question": "Each holy oil is essentially three; can I just dip one arrow in, then, right now?",
+    "answer": "Mark that off from one of your holy oils, you have one of three uses of that, and that that arrow does have a holy oil essence.",
+    "rules": [
+      "Equipment > Adventuring Gear"
+    ],
+    "rules_explanation": "Holy oil is an adventuring gear, with a limited number of uses. Applying the oil is one use."
+  },
+  {
+    "question": "So, if you're going to punch it, it does an additional 2d8 damage?",
+    "answer": "So if you're going to punch it, it does an additional 2d8 damage.",
+    "rules": [
+      "Spells"
+    ],
+    "rules_explanation": "The Game Master restates the effect of an enhanced spell."
+  },
+  {
+    "question": "I'm going to drop my wolf form and cast [spell name] in that radius - can I do it",
+    "answer": "First, the [class] would have to transform into themself again",
+    "rules": [
+      "Druid> Class Features > Wild Shape"
+    ],
+    "rules_explanation": "One must revert to their original form before casting spells while wild shaped"
+  },
+  {
+    "question": "Does the [ability name] damage him, the invisible guy, still, if he gets hit with anything? Or is it just if I attack him with an arrow?",
+    "answer": "I think if you attack him. That was more of the burst in the vicinity.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a DM call based on the specifics of the power in use."
+  },
+  {
+    "question": "What's the time to loot the body of Sir Kerrion now that he's dead?",
+    "answer": "You're taking his swords, and I'm going to use his sword to get that deep gouge into the gun.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The action is allowed with the caveat that an action is spent to do it."
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "question": "The level 6 monk with Patient Defense is next to a stunned target, and the spell Cat's Claw is holding the target. Can the monk make an attack of opportunity while adjacent to the creature being hauled away by the spell?",
+    "answer": "Given the situation and the distances involved, the GM should rule on whether the monk can make an attack of opportunity.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "The rules state that you can make an opportunity attack when a hostile creature that you can see moves out of your reach. Therefore the answer must be determined by the GM based on their interpretation of the situation."
+  },
+  {
+    "question": "If a player saves against a strange compulsion, does that player have to save from it again?",
+    "answer": "Yes, players must make the saving throw again.",
+    "rules": [],
+    "rules_explanation": "The rules don't say anything about not having to make a saving throw again from the same effect if you've already saved from it."
+  },
+  {
+    "question": "If I let go of the target, can I still swim that direction?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "Letting go of a creature or object doesn't limit your character's ability to continue to perform actions."
+  },
+  {
+    "question": "Can a monk push a creature held by the spell Cat's Claw?",
+    "answer": "The GM needs to make a judgement call.",
+    "rules": [],
+    "rules_explanation": "The description states it's up to the GM to determine the feasibility of this action."
+  },
+  {
+    "question": "While stunned, can a creature perform any action?",
+    "answer": "No. A stunned creature can't move or speak, and is incapacitated.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation": "The stunned condition specifically states the limits on a stunned character's action."
+  },
+  {
+    "question": "Does the spell Banishment allow the caster to choose the plane a banished creature is sent to?",
+    "answer": "No. Banishment sends them to their home plane.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The spell Banishment specifies the destination to which the target is banished."
+  },
+  {
+    "question": "Does the spell Banishment prevent a creature from returning?",
+    "answer": "It depends. If the spell lasts its duration and is not interrupted, the creature is trapped on their home plane. Otherwise, they can return when the spell ends.",
+    "rules": [],
+    "rules_explanation": "The duration and lack of interruption of the spell determine whether or not they are permanently banished."
+  },
+  {
+    "question": "Does a polymorphed, flying creature get the advantages or disadvantages from combining it with the momentum from being shot out of a spout of water",
+    "answer": "This is a GM ruling, no explicit rules",
+    "rules": [],
+    "rules_explanation": "There are no specific rules about combining spells, but the GM has final say in such situations."
+  },
+  {
+    "question": "For the spell Control Water, can Jester create an open doorway, a pathway out into the lagoon itself?",
+    "answer": "Yes, the Control Water spell allows for the creation of a pathway out into the lagoon itself.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The spell Control Water gives the caster the ability to part water, creating a trench."
+  },
+  {
+    "question": "If characters have advantage on perception checks, do they use their normal modifier or some other modifier?",
+    "answer": "They use the modifier from their Wisdom score.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules state to roll 2d20 and add the relevant ability modifier."
+  },
+  {
+    "question": "Does the Blessed of the Trickster spell give a +10 on the stealth check?",
+    "answer": "No, it grants advantage on the roll.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The description of the Blessing of the Trickster specify that is gives advantage and there are no specific rules about modifiers with the spell."
+  },
+  {
+    "question": "When are you no longer considered stunned?",
+    "answer": "Stunned ends at the end of your next turn.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation": "The stunned condition duration is defined by the text."
+  },
+  {
+    "question": "Does Pass Without Trace grant advantage on Dexterity saving throws?",
+    "answer": "No, it grants +10 to stealth checks only",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The description of the Bless Without a Trace specify that is gives advantage and there are no specific rules about stealth checks with the spell."
+  },
+  {
+    "question": "Does Banishment send the target to a specific location?",
+    "answer": "I don't know if it's something you choose or if it's just at random.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The full process of the Banishment spell is not well defined with the rules provided."
+  },
+  {
+    "question": "If a monk hits an incorporeal creature with their unarmed strike, does that count as magic for damaging the ghost?",
+    "answer": "Monks can punch ghosts at a certain level. And she is doing it.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules specified that by a certain level a monk's punches count as magical."
+  },
+  {
+    "question": "While frightened, do you have to actively flee?",
+    "answer": "Yes, if possible.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "By definition, frightened creature must move away and not towards the source of their fear."
+  },
+  {
+    "question": "While frightened, do you have to flee even if you can't see the thing you are frightened of?",
+    "answer": "You cannot get closer to it, actively. And while it's within your line of sight you have disadvantage on attacks, ability checks, stuff like that.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "When the source of the frightened condition is not within line of sight, the target no longer is required to move away."
+  },
+  {
+    "question": "Does being frightened force you to flee, or does it just keep you from getting closer?",
+    "answer": "It does not mean you have to flee, just that you have to make the attempt.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Because the language and the rule specify that the frightened creature must make the attempt to move away, and that means in scenarios where it is not possible to move, then you would do your best, such as in a corner, but it does not require actually getting away as an absolute condition."
+  },
+  {
+    "question": "After a target is damaged by Turn Undead, do they get to make a save?",
+    "answer": "If it takes damage. It succeeds. So that one is no longer fleeing right there.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "If a target takes damage, then they get a save."
+  },
+  {
+    "question": "Does someone maintain concentration through damage?",
+    "answer": "Yes, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "This section of the rules describes the process of saving to maintain concentration."
+  },
+  {
+    "question": "When you're using Eyes of the Grave, can you stealth to get close enough to sense for it?",
+    "answer": "Yes, you can stealth to get close enough to sense for it.",
+    "rules": [],
+    "rules_explanation": "This is a GM ruling as the ability to use stealth is not limited in Eyes of the Grave."
+  },
+  {
+    "question": "If you are small, do you have disadvantage on attack rolls with heavy weapons?",
+    "answer": "Yes, you have disadvantage on attack rolls with heavy weapons.",
+    "rules": [
+      "Races > Racial Traits > Size"
+    ],
+    "rules_explanation": "Races > Racial Traits > Size states the most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in \"Equipment.\""
+  },
+  {
+    "question": "Can we guide ourselves to do better?",
+    "answer": "No, because you are not aware of this happening.",
+    "rules": [],
+    "rules_explanation": "The rules specify you need to be aware of an action before you can react to it."
+  },
+  {
+    "question": "How does Advantage work when you roll a group stealth check with the spell Pass Without Trace active?",
+    "answer": "Each member of the group rolls a stealth check and adds 10 to it. Because it's a group check you are looking at 1/2 of the group passing, and the result of the dice rolls and the modifier will determine the final number.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks",
+      "Spells > Spell Lists > Bless > Description"
+    ],
+    "rules_explanation": "The rules state if at least half the group succeeds, the whole group succeeds. Otherwise, the group fails."
+  },
+  {
+    "question": "For a short rest, do spells come back or anything that has a short rest recovery period?",
+    "answer": "Yes, spells come back, and you can get spells back or anything that has a short rest recovery period.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Spells > Spell Descriptions specify what comes back during a rest."
+  },
+  {
+    "question": "Can you cast spells while flying as a bird?",
+    "answer": "Combining it with the use of a flight-based feathered creature would be not optimal.",
+    "rules": [],
+    "rules_explanation": "The rules do not specify for or against casting as a bird. The only information available is that it is not optimal."
+  },
+  {
+    "question": "Can Fjord use Divine Sense to see within 60 feet, if there are any more celestial, fiends, or undead around us?",
+    "answer": "Yes",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "You can use Divine Sense, and as you do that, you concentrate and focus and there are none"
+  }
+]

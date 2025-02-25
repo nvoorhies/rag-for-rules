@@ -1,0 +1,47 @@
+[
+  {
+    "question": "A level 4 Barbarian with Rage attempts a persuasion check against a Tummech-faced character. What do they roll to persuade that character. ",
+    "answer": "The level 4 Barbarian rolls a d20 and adds their Charisma modifier for this persuasion check.  Advantage is not relevant for this check because the Barbarian is trying to find a rope. There is no proficiency bonus because they lack proficiency in Persuasion.",
+    "rules": [
+      "Ability Scores > Using Each Ability > Charisma Checks",
+      "Combat > Actions in Combat > Ready",
+      "Races Racial Traits > Skills",
+      "Classes > Barbarian > Rages"
+    ],
+    "rules_explanation": "A persuasion check is a Charisma Check. Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma are all Ability Scores. The rules show how to form ability scores, but there is nothing in the transcript to determine ability modifiers, or specific values for any stats. There are no rules for rolling a d20 with a modifier other than relevant ability modifier. There are no rules for how or when to declare a skill other than at character creation. The use of Rages grants advantage on Strength checks and Strength saving throws, so it is not applicable in this instance."
+  },
+  {
+    "question": "A level 4 Cleric casts Gentle Repose on a corpse. Does that protect against turning undead?",
+    "answer": "Yes, if the the Gentle Repose spell is used then The target is protected from decay and cannot become undead.",
+    "rules": [
+      "Spellcasting > What Is a Spell?",
+      "Spellcasting > Casting a Spell"
+    ],
+    "rules_explanation": "Gentle Repose spell cast on a corpse protects it from turning undead."
+  },
+  {
+    "question": "What check does someone use to try and carefully maneuver across sands in a way that you don't think will draw attention to them?",
+    "answer": "A stealth check is used to try and carefully maneuver across sands in a way that you don't think will draw attention.",
+    "rules": [
+      "Ability Scores > Using Each Ability > Dexterity Checks > Stealth"
+    ],
+    "rules_explanation": "The rules for the Stealth skill say \"Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.\""
+  },
+  {
+    "question": "What saving throw is required after the skyship Silver Sun crashes and what action can the character take to improve it.",
+    "answer": "A dexterity saving throw is required and they could cast Blade Ward on themselves.",
+    "rules": [
+      "Combat > The Order of Combat > Surprise",
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "A dexterity saving throw is required but is not applicable to the player in question since he is not in that instance, there is no other rule to apply other than that a player can cast Blade Ward on themselves."
+  },
+  {
+    "question": "What damage is taken by a target hit by the bite of a Large animated object?",
+    "answer": "A target hit by the bite of a Large animated object takes 2d10 + 2 bludgeoning damage.",
+    "rules": [
+      "Monsters > Animated Object"
+    ],
+    "rules_explanation": "The statistics for animated object's are listed in the MM. The Large animated object's bite attack notes a bonus to hit, the attack's reach, and says \"Hit: 2d10 + 2 bludgeoning damage\""
+  }
+]

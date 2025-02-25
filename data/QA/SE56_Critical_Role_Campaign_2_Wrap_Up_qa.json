@@ -1,0 +1,62 @@
+[
+  {
+    "question": "If the level 0 bloodhunter/Mollymauk was within the area of effect of a Detect Undead spell, what would have happened?",
+    "answer": "The Detect Undead spell would not have detected the level 0 bloodhunter/Mollymauk. The level 0 bloodhunter/Mollymauk is not technically undead.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Targets",
+      "Monster Statistics > Type"
+    ],
+    "rules_explanation": "According to the spellcasting rules, a spell targets the type of entity the spell is meant to affect as described in the spell. Detect Undead is meant to detect Undead. Matt states that the character doesn't count as the Undead type, so would not be a target of the spell."
+  },
+  {
+    "question": "From @PryingBlackbird: A level N character and party were staying at an inn. \"Who was the skeleton in the basement of the Leaky Tap, and was Claudia Sheed truly who she said she was?\"",
+    "answer": "According to DM's notes, Claudia Sheed was a dark elf refugee originating from the Dynasty. She killed the abusive owner of the Leaky Tap and used forged documents from The Gentleman to take ownership of the inn.",
+    "rules": [],
+    "rules_explanation": "This answer is based on DM description only.  No rules are used to determine this answer."
+  },
+  {
+    "question": "What would happen if the level N party had successfully contacted Ionos Jagentoth of the Jagentoth house of Shadycreek using the sending stone they found in the merchant's home?",
+    "answer": "DM notes describe that the communication would have begun a more Shadycreek Run-centric story and narrative there, and breaking apart that story thread element.",
+    "rules": [],
+    "rules_explanation": "DM notes described a potential alternative story line."
+  },
+  {
+    "question": "From @AlexLamoroVA: \"The Mighty Nein encountered a mosaic relief of three creatures, each with three eyes, totaling nine eyes. These being Uk'otoa, the Leviathan Lord; Desirat, the Twilight Phoenix, and Quajath, the Undermaw. Did these have anything to do with the supposed nine eye prophecy visions that the Nein had or was it simply coincidence?\" And then my B-question, was there any path in this game where we would have had to face Uk'otoa?",
+    "answer": "The nine eyes between those three entities was intentionally a red herring that early in the story. If Uk'otoa had been released the party would have been bound to a sea entity and were now an indentured herald, essentially, to start helping him expand his domain and possibly help the other two entities that he's pacted with between these three and helping them be released as well.",
+    "rules": [],
+    "rules_explanation": "Explanation of DM Intent."
+  },
+  {
+    "question": "Can a level N cleric call on their patron to fight alongside them using Divine Intervention",
+    "answer": "No, Divine Intervention is not a guaranteed ability, and if it was a guaranteed ability it would remove all balance from the game.",
+    "rules": [
+      "Class Features > Cleric > Divine Intervention",
+      "Spellcasting > Balance"
+    ],
+    "rules_explanation": "The ability to call their patron in to fight alongside them, the one who gives them all their power is not the purpose of divine intervention."
+  },
+  {
+    "question": "What would have happened if Fjord had succeeded on an Intimidation check against Uk'otoa to keep his powers, and then chosen the Wild Mother as his patron",
+    "answer": "It wouldn't have worked in the way that you would have scared Uk'otoa down and been like, \"Yes, sir, Fjord, whatever you want, sir.\" Uk'otoa's not going to do that. It would have gained his respect for the will that you exhibited in the face of something that he knows is much larger than you are. The pact with the Wild Mother would've been a much harder process of now trying to absolve yourself of Uk'otoa.",
+    "rules": [],
+    "rules_explanation": "Explanation of DM Intent."
+  },
+  {
+    "question": "During the search of the Vermaloc, what was in the pile of bones that Caleb instantly incinerated with a Flaming Sphere, leading to the tearing of a character sheet on camera?",
+    "answer": "DM notes say the pile of bones held a goblin that was going to provide information about the giants and about Vince Nuthaleus, and the device that he had placed in there.",
+    "rules": [],
+    "rules_explanation": "Explanation of DM Intent."
+  },
+  {
+    "question": "What would have happened if the party had released Halas from the Happy Fun Ball?",
+    "answer": "Halas would have become a problem for a future campaign as a purely selfish entity.",
+    "rules": [],
+    "rules_explanation": "Explanation of DM Intent."
+  },
+  {
+    "question": "If Beau, the level N monk, and the party would have successfully completed the task of saving the Somnovem (Cognouza Ward) to restore its sentience would there have been any further purpose for the Wildermount guide?",
+    "answer": "No. As there was not a great investment in the characters needing to climb through the dynasty, the arc wouldn't have been necessary.",
+    "rules": [],
+    "rules_explanation": "Explanation of DM Intent."
+  }
+]

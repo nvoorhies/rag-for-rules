@@ -1,0 +1,185 @@
+[
+  {
+    "question": "Is being a \"bard\" a character class where \"you actually have to go through another whole character class first? The way like monk is? Like monk, you had to go through like cleric and then be a monk, or--\"",
+    "answer": "Not anymore. There used to be rules where you had to multiclass through to get to certain classes but it's much easier in newer editions.",
+    "rules": [
+      "Section > Multiclassing > Prerequisites"
+    ],
+    "rules_explanation": "Multiclassing rules determine if you have to start as a different class to be another class, there are not prerequisites to being a bard. The DM explains the current multiclassing rules to the player."
+  },
+  {
+    "question": "If half-elf bard level 1 uses \"Eric\" the bee to scout ahead, and a d20 roll is made to see how Eric's capabilities work, what rules cover that roll?",
+    "answer": "There are no explicit rules governing how Eric the bee's capabilities as a scout are determined, this is up to the DM's discretion.",
+    "rules": [],
+    "rules_explanation": "While there are rules about scouting and familiars, there are no explicit rules about scouting with a bee, or bees in general. It is up to the DM to adjudicate this situation."
+  },
+  {
+    "question": "The half-elf bard level 1 makes a d20 roll for a perception check, and the result is 12 with a perception modifier of plus zero. What is the result?",
+    "answer": "The check total is 12.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The die roll is added to the ability modifier to determine the check total"
+  },
+  {
+    "question": "Is a d20 roll still used to roll initiative for the half-elf bard level 1?",
+    "answer": "Yes, a d20 roll is used to roll initiative.",
+    "rules": [
+      "Section > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "As described in the section 'The Order of Combat' rolling for initiative involves making a d20 roll."
+  },
+  {
+    "question": "If the half-elf bard level 1 rolls a 13 for initiative, with an initiative modifier of plus two, what is the final initiative score?",
+    "answer": "The initiative score is 15.",
+    "rules": [
+      "Section > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The die roll is added to the initiative modifier to determine the initiative score"
+  },
+  {
+    "question": "If the black furred panther attacks the half-elf bard level 1 with an armor class of 14 with an attack roll of 13, does it hit?",
+    "answer": "No, the attack does not hit.",
+    "rules": [
+      "Section > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The attack roll plus modifiers must equal or exceed the target's Armor Class (AC) to hit. 13 is less than 14 so the attack does not hit."
+  },
+  {
+    "question": "What is the damage for the spell \"Thunderwave\" cast by half-elf bard level 1?",
+    "answer": "The spell deals 2d8 thunder damage.",
+    "rules": [
+      "Section > Bard > Spellcasting > Spells Known of 1st Level and Higher"
+    ],
+    "rules_explanation": "The spell description is needed to determine this answer which is then checked to see if this level character has it available."
+  },
+  {
+    "question": "If a d20 roll is made for a perception check with the half-elf bard level 1 with a perception modifier of plus zero, and the roll is 19, what is the perception check score?",
+    "answer": "The perception check score is 19.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The die roll is added to the ability modifier to determine the check score"
+  },
+  {
+    "question": "If the half-elf bard level 1 ties a length of rope to one of the posts on the pit side of the bridge, and ties another length of rope around their waist, and gets forty feet across the 60 foot long bridge, can they go further attached by the rope?",
+    "answer": "No. Since some of the 50 foot rope length was used to tie the character to the post, they can only get 40 feet across.",
+    "rules": [],
+    "rules_explanation": "This is a judgement call by the DM as to how much rope was used when tying it to the posts."
+  },
+  {
+    "question": "If the half-elf bard level 1 is hit with arcane energy and takes three hits points of damage, can they use a spell to heal themselves?",
+    "answer": "Yes. The character has access to the spell Cure Wounds that can be used to restore hit points.",
+    "rules": [
+      "Section > Bard > Spellcasting > Spells Known of 1st Level and Higher"
+    ],
+    "rules_explanation": "The spell list indicates Cure Wounds is available to a level 1 bard."
+  },
+  {
+    "question": "As of the present form of D&D, how many times can the half-elf bard level 1 cast their available first level spells?",
+    "answer": "The half-elf bard level 1 can cast their available first level spells a total of four times.",
+    "rules": [
+      "Section > Bard > Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "The Bard table shows how many spell slots are available to the character, this has to be checked."
+  },
+  {
+    "question": "As of the present form of D&D, does the half-elf bard level 1 have any lockpicking skills or anything like that?",
+    "answer": "The half-elf bard level 1 does not have any lockpicking skills innately, but can use thieves' tools with a Dexterity check.",
+    "rules": [
+      "Section > Bard > Proficiencies > Tools",
+      "Section > Bard > Equipment"
+    ],
+    "rules_explanation": "The character does not have proficiencies in thieves' tools, but does have access to them. Anyone can attempt to pick a lock, but only rogues are good at it."
+  },
+  {
+    "question": "If the half-elf bard level 1 tries to pick the dark marbled wood door with a d20 roll of 14 and a dexterity modifier of 15, what's the final result?",
+    "answer": "The final result is 16.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The die roll is added to the ability modifier to determine the check score, but since Dexterity is capped at 20 the Dex mod should be +2 not +15"
+  },
+  {
+    "question": "As of the present form of D&D, how many times do I get to use any of these spells, just once?",
+    "answer": "You can cast the available first level spells a total of four times, and the second level spells a total of two times.",
+    "rules": [
+      "Section > Bard > Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "The Bard table shows how many spell slots are available to the character, this has to be checked."
+  },
+  {
+    "question": "When Zathkira casts a bolt of lightning towards Capo the half-elf bard level 1, who has fire and lightning resistance, needs to roll a d20 plus their dexterity modifier to dodge out of the way. How is the total damage taken calculated on a failed save?",
+    "answer": "The lightning damage is halved after applying the lightning resistance.",
+    "rules": [
+      "Section > Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The lightning resistance means the character only takes half damage from the lighting damage. Need to perform some calculations."
+  },
+  {
+    "question": "Can the half-elf bard level 1 use the spell Cure Wounds on themself?",
+    "answer": "Yes. Cure Wounds can heal yourself or your bee friend.",
+    "rules": [
+      "Section > Bard > Spellcasting > Spells Known of 1st Level and Higher"
+    ],
+    "rules_explanation": "The spell description is needed to determine this answer which is then checked to see if this level character has it available."
+  },
+  {
+    "question": "If Eric the bee attacks Zathkira and rolls a 17 with a three to hit, does that hit?",
+    "answer": "A roll of 17 plus 3 makes a total of 20. This needs to be compared to Zathkira's Armor Class to see if it hits.",
+    "rules": [
+      "Section > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "As described in the section 'Making an Attack' rolling an attack involves making a d20 roll and adding the modifiers."
+  },
+  {
+    "question": "If Eric the bee attacks Zathkira and hits, what is the damage roll?",
+    "answer": "The damage roll is 1d4 + 1.",
+    "rules": [
+      "Section > Making an Attack > Damage Rolls"
+    ],
+    "rules_explanation": "As described in the section 'Making an Attack' the damage to be applied to a successful attack needs to be rolled. The spell description dictates what the roll is. Eric is not a spellcaster so the base rules of the damage roll apply."
+  },
+  {
+    "question": "If half-elf bard level 1 is using the spell \"Invisibility\" does rummaging through rags break the invisibility?",
+    "answer": "No, searching you can do.",
+    "rules": [],
+    "rules_explanation": "This is a judgment call by the DM."
+  },
+  {
+    "question": "With the blade of favor does \"attack, plus six to hit, 1d10 plus five radiant damage?\"",
+    "answer": "Correct.",
+    "rules": [],
+    "rules_explanation": "These are just attributes of the magical item."
+  },
+  {
+    "question": "If the DM says, \"He seems a bit wary of the request\", what check should the player make?",
+    "answer": "Make a Persuasion check.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This is a DM judgement call."
+  },
+  {
+    "question": "If the DM says, \"to know how to open the power of the orb, I need to touch it first, so I can feel where the source of its power is\", what check should the player make?",
+    "answer": "Make a Deception check.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This is a DM judgement call."
+  },
+  {
+    "question": "What is the name of the check to see the difference between two percentile dice?",
+    "answer": "The transcript does not mention such a check, only rolling percentile dice.",
+    "rules": [],
+    "rules_explanation": "This question assumes knowledge that is not in the transcript."
+  },
+  {
+    "question": "When casting cure wounds from the exalted blade, should they use 1d8 or 2d8?",
+    "answer": "It is the player's choice whether to cast at the first or second level spell slot.",
+    "rules": [
+      "Section > Bard > Spellcasting > Spells Known of 1st Level and Higher"
+    ],
+    "rules_explanation": "The rules about cure wounds apply to the player, but it must be cast from a spell slot of the characters. They have first and second level slots available."
+  }
+]

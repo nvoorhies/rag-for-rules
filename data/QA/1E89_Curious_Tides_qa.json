@@ -1,0 +1,288 @@
+[
+  {
+    "question": "Level 1 Barbarian is throwing a hammer at the eye of the kraken, and is reckless. The DM states that the reckless attack removes the disadvantage on the attack from being underwater. What roll does the Level 1 barbarian roll?",
+    "answer": "The level 1 barbarian makes one attack roll, since the advantage from Reckless Attack cancels out the disadvantage from being underwater.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Combat > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The attacker gains a single roll on an attack roll where advantage and disadvantage are both applicable due to the cancellation effect."
+  },
+  {
+    "question": "A Level 10 Druid casts Daylight into the scar on the back of a Level 12 Rogue/Paladin. What roll does the Level 10 Druid roll?",
+    "answer": "The level 10 Druid makes a d20 and adds their Wisdom modifier.",
+    "rules": [
+      "Spellcasting > Attack Rolls",
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "Some spells require the spellcaster to add their Wisdom modifier."
+  },
+  {
+    "question": "A Level 10 barbarian with 69 hitpoints slaps Vax with 6 strength. What check does the Level 10 Barbarian make?",
+    "answer": "The Level 10 barbarian makes an intimidation check adding their strength.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An ability check is rolled when a character attempts an action that has a chance of failure, with the GM deciding which ability is relevant to the task."
+  },
+  {
+    "question": "Level 12 fighter is making a perception check. What roll does he make?",
+    "answer": "The level 12 fighter makes a d20 and adds any relevant skill modifiers to the roll, such as proficiency bonus if the skill is a proficient skill.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An ability check is rolled when a character attempts an action that has a chance of failure, with the GM deciding which ability is relevant to the task."
+  },
+  {
+    "question": "A level 12 rogue is making a deception check, what does he roll?",
+    "answer": "The Level 12 rogue rolls a d20 and adds any relevant ability modifiers to the roll, such as proficiency bonus if the skill is a proficient skill.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An ability check is rolled when a character attempts an action that has a chance of failure, with the GM deciding which ability is relevant to the task."
+  },
+  {
+    "question": "What dice are rolled for perception checks?",
+    "answer": "Characters roll a d20 and add the relevant ability modifier to the roll, such as the proficiency bonus if it is a skill in which the character is proficient.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An ability check is rolled when a character attempts an action that has a chance of failure, with the GM deciding which ability is relevant to the task."
+  },
+  {
+    "question": "A Level 12 cleric casts a 5th level Control Winds spell. If a party is using the gust of wind created by the control winds for land travel on a sailing board, how does this affect the travel speed of the party?",
+    "answer": "The distance the party can travel will be cut by about half.",
+    "rules": [
+      "Adventuring > Time > Travel Pace"
+    ],
+    "rules_explanation": "The party is making progress using a spell of a certain level. There is a clear travel speed in the rules for land travel depending on pace."
+  },
+  {
+    "question": "A Half-elf Level 12 fighter, Level 10 druid with Shapechange completes the water-Ashari Aramente. Can she shapechange into an adult bronze dragon for 1 hour?",
+    "answer": "Yes. The new form can be of any creature with a challenge rating equal to the character's level or lower.",
+    "rules": [
+      "Spell Descriptions > Shapechange"
+    ],
+    "rules_explanation": "Shapechange description.  The resulting form depends on the character level."
+  },
+  {
+    "question": "A Level 12 fighter, Level 10 druid casts Shapechange and transforms into an adult bronze dragon, are there limitations to the dragon abilities?",
+    "answer": "Yes, there are limitations to the abilities of the chosen beast: You don't get legendary actions or lair actions but you get all the rest of the abilities and physical attributes of the creature.",
+    "rules": [
+      "Spell Descriptions > Shapechange"
+    ],
+    "rules_explanation": "Shapechange explanation. The resulting form depends on whether abilities are gained or maintained."
+  },
+  {
+    "question": "A group has rested for 15 minutes, do they get a short rest?",
+    "answer": "No, a short rest requires at least 1 hour",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "Rules state the minimum downtime needed for a short rest"
+  },
+  {
+    "question": "The Jello-y form of Level 12 cleric hugs a Medium sized humanoid. Can the cleric be felt?",
+    "answer": "Yes. It will feel like a piece of warm, soft Jello, or like a big piece of cotton.",
+    "rules": [],
+    "rules_explanation": "DM descision."
+  },
+  {
+    "question": "A Level 12 cleric is in her astral form. Can she bring things with her?",
+    "answer": "No. A creature in astral form does not have their reagents with them. The reagents have to be provided by the party.",
+    "rules": [],
+    "rules_explanation": "DM descision."
+  },
+  {
+    "question": "A Level 12 cleric in her astral form is casting a resurrection spell, what reagents does she need?",
+    "answer": "A diamond of at least 500 gold piece worth.",
+    "rules": [],
+    "rules_explanation": "DM descision."
+  },
+  {
+    "question": "If a 1st level character gets to 0 hit points, then gets temporary hitpoints, are they conscious?",
+    "answer": "No, receiving temporary hit points doesn't restore you to consciousness or stabilize you.",
+    "rules": [
+      "Combat > Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "Rules state how temporary hitpoints affect a character at 0 hit points."
+  },
+  {
+    "question": "What kind of check determines will?",
+    "answer": "That's like wisdom modifier. Generally, like wisdom saving throw.",
+    "rules": [],
+    "rules_explanation": "DM ruling on general concept."
+  },
+  {
+    "question": "Does the Daylight spell effect Keyleth's wildshape?",
+    "answer": "Yes, spells can be cast while wildshaped.",
+    "rules": [],
+    "rules_explanation": "DM descision."
+  },
+  {
+    "question": "Can Travis get back his hit dice from the short rest?",
+    "answer": "Yes, they get their hit dice back from a short rest.",
+    "rules": [],
+    "rules_explanation": "DM descision."
+  },
+  {
+    "question": "Can the Raven Queen and Sarenrae both effect the resurrection of Vax?",
+    "answer": "Yes. As long as the Sarenrae is in the area.",
+    "rules": [],
+    "rules_explanation": "DM ruling on special story effect."
+  },
+  {
+    "question": "Can trinket pee on Doty?",
+    "answer": "Yes, nothing stops them.",
+    "rules": [],
+    "rules_explanation": "DM ruling on what an animal can do."
+  },
+  {
+    "question": "When the players are done looting Raishan, will everyone level up?",
+    "answer": "The GM is stating they will review the logistics of that level up.",
+    "rules": [
+      "Beyond 1st Level > Experience Points"
+    ],
+    "rules_explanation": "There may not be experience awarded so a level is not certain."
+  },
+  {
+    "question": "Can the players rest now, and get spells and abilities back?",
+    "answer": "Yeah, heal up now, we're gonna take a break, we'll be here in a few minutes, guys.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "Rules state the benefits of taking a short rest."
+  },
+  {
+    "question": "Can Uvenda cast Tree Stride?",
+    "answer": "I have not a means of travel, but we could reach out to someone.",
+    "rules": [],
+    "rules_explanation": "DM decides what the NPC has."
+  },
+  {
+    "question": "Can Liam and Laura communicate with each other telepathically?",
+    "answer": "No, not normally.",
+    "rules": [],
+    "rules_explanation": "Unless they have a magic item or other means of communication."
+  },
+  {
+    "question": "Can Ashley touch and hold Liam as the Jello form of Pike?",
+    "answer": "Yeah. Pike feels like she's there, like she can be held and touched, but it's like touching a warm, soft Jello.",
+    "rules": [],
+    "rules_explanation": "DM ruling on a special story effect."
+  },
+  {
+    "question": "What kind of check is performed to know if the NPC is telling the truth?",
+    "answer": "Insight check, you mean?",
+    "rules": [],
+    "rules_explanation": "DM using conversational term for insight check."
+  },
+  {
+    "question": "If they find out that the keeper was lying, what happens?",
+    "answer": "That is up to you to decide what is true.",
+    "rules": [],
+    "rules_explanation": "GM ruling, the results depend on how the players respond."
+  },
+  {
+    "question": "Can Doty take a short rest?",
+    "answer": "The DM does not say if Doty needs a rest.",
+    "rules": [],
+    "rules_explanation": "This depends on Doty's construction and is up to the GM."
+  },
+  {
+    "question": "A Level 9 Goliath Barbarian is given the task of finding a healer. Can they detect them?",
+    "answer": "That would be a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Perception checks are used to determine if a character spots or hears something."
+  },
+  {
+    "question": "Is it possible for there to be a short rest during travel?",
+    "answer": "Yeah, heal up now, we're gonna take a break, we'll be here in a few minutes, guys.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "This depends on how long the party rests."
+  },
+  {
+    "question": "If a player has done good role-playing, is it possible that they'll have good luck? Or be able to re-roll?",
+    "answer": "This can be achieved by receiving Inspiration, and it is the GMs choice to grant Inspiration",
+    "rules": [
+      "Inspiration"
+    ],
+    "rules_explanation": "This is a DM reward."
+  },
+  {
+    "question": "Is there a penalty for being underwater?",
+    "answer": "Yes, you had disadvantage underwater, so it's just one roll.",
+    "rules": [
+      "Combat > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Under Water Attacks have disadvantage on all rolls."
+  },
+  {
+    "question": "What happens to a character's equipment as they take the new raven form?",
+    "answer": "The equipment either falls to the ground, merges into the form, or is worn. Any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.",
+    "rules": [],
+    "rules_explanation": "DM decides how to resolve special circumstances."
+  },
+  {
+    "question": "Can a group of party members communicate when the earpiece is involved?",
+    "answer": "With the distance of the earpiece, you can hear them. Yes.",
+    "rules": [],
+    "rules_explanation": "DM decides if the technology works."
+  },
+  {
+    "question": "Does the astral form have reagents?",
+    "answer": "Because you're in your astral form, you don't have the reagents with you. However, reagents can be provided by the party.",
+    "rules": [],
+    "rules_explanation": "DM decision"
+  },
+  {
+    "question": "Level 12 Rogue and others in the area are in darkness. Does it effect them?",
+    "answer": "The interior of this temple, which is largely shaded by the roof of the temple, other than the sunlight coming in from the open walls of it, the whole interior just begins to grow brighter from Pike's presence.",
+    "rules": [],
+    "rules_explanation": "Light levels determined by the DM."
+  },
+  {
+    "question": "How much time does it take for resurrection rituals to be completed?",
+    "answer": "You work with them over the next hour or so to take elements they've already prepared and alter it to fit the ritual style that you're used to, formulating and casting.",
+    "rules": [],
+    "rules_explanation": "It varies by DM."
+  },
+  {
+    "question": "When a player is in dire need, can they consume a basilisk egg to obtain power?",
+    "answer": "Grog has a magic egg. It can only be used in times of great need.",
+    "rules": [],
+    "rules_explanation": "DM descision."
+  },
+  {
+    "question": "After the Kraken fight, do they all level up?",
+    "answer": "I'll go look at the logistics of this, but after that kraken battle, most everybody leveled up on that.",
+    "rules": [
+      "Beyond 1st Level > Experience Points"
+    ],
+    "rules_explanation": "GM descision."
+  },
+  {
+    "question": "Can all of the dragons do their abilities, or does the new dragon only have fire breath?",
+    "answer": "Adult bronze dragon. See what happens.",
+    "rules": [],
+    "rules_explanation": "It is a shape change, so it follows the rules of the spell."
+  },
+  {
+    "question": "With this transformation, can she still talk?",
+    "answer": "It's Keyleth's voice but it's deeper, it's resonating, it quakes the sand on the ground near her when she speaks.",
+    "rules": [],
+    "rules_explanation": "It is a special case."
+  },
+  {
+    "question": "Can the PC transform more than one time?",
+    "answer": "Yes. It's for an hour and I can keep shapechanging into different things for an hour.",
+    "rules": [
+      "Spell Descriptions > Shapechange"
+    ],
+    "rules_explanation": "The shapechange spell description includes duration."
+  }
+]

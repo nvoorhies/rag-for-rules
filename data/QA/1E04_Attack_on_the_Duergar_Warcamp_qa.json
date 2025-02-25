@@ -1,0 +1,110 @@
+[
+  {
+    "question": "A character with low light vision is grabbing and carrying another character in dim light. Does he make a perception check with disadvantage?",
+    "answer": "Yes, the character must make a perception check with disadvantage.",
+    "rules": [
+      "Part I > Dim Light",
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "Dim light imposes disadvantage on Wisdom (Perception) checks that rely on sight. Also, A restrained creature's speed becomes 0, and it has disadvantage on Dexterity saving throws, and attack rolls against the creature have advantage."
+  },
+  {
+    "question": "A character with a ring with mind shielding is asked if the ring will aid them when facing mind flayers. What is the effect of the ring?",
+    "answer": "It may aid the character if it gives them resistance to psionic influence.",
+    "rules": [],
+    "rules_explanation": "The DM adjudicates if the item gives resistance to psionic influence, otherwise there is no mechanical effect."
+  },
+  {
+    "question": "A character wants to examine an illithid's helmet to build a copy of the device. How long would that take?",
+    "answer": "It would take weeks to build another.",
+    "rules": [],
+    "rules_explanation": "The illithid says it would take weeks. The DM is using the description as a condition to determine what the outcome of the examination would be."
+  },
+  {
+    "question": "A player is using a Tinker's kit. What ability does the player use for this check, and what adjustments are added?",
+    "answer": "An Intelligence check plus the Tinker's kit proficiency modifier.",
+    "rules": [
+      "Skills > Tool Proficiencies",
+      "Appendix PH-A: Conditions > Improvising a Skill Check"
+    ],
+    "rules_explanation": "Tool proficiencies are added to the appropriate ability check as determined by the DM. In this case it is an intelligence check. When you improvise a skill use an ability that doesn't normally apply, you must make a judgement as to the appropriateness of that check. Here, the Tinker's Kit modifier would apply to the Intelligence check"
+  },
+  {
+    "question": "A character is attempting to do a stealth check. Are there any adjustments to the check?",
+    "answer": "If the character is subject to 'Pass Without Trace' then the character gains a +10 bonus. Otherwise, the check is performed normally.",
+    "rules": [],
+    "rules_explanation": "the DM has declared there is a +10 bonus for that effect."
+  },
+  {
+    "question": "One character is polymorphed into an eagle, and is carrying two other characters. Does it have disadvantage on their stealth check?",
+    "answer": "Yes. The character has disadvantage on the check because it is carrying two gnomes.",
+    "rules": [],
+    "rules_explanation": "The DM declares that the character with an advantage on stealth due to the Pass Without a Trace spell takes disadvantage because of carrying weight."
+  },
+  {
+    "question": "One character shoots and hits an illithid. The illithid clutches at the injury. Does it need to make a saving throw?",
+    "answer": "If the blade is poisoned, the creature must make a Constitution saving throw.",
+    "rules": [],
+    "rules_explanation": "The DM indicates that the poison blade would require a saving throw. The player must meet the conditions in the item description for its effect to occur."
+  },
+  {
+    "question": "A level 9 Rogue makes an attack. What dice are rolled and totaled to determine Sneak Attack damage?",
+    "answer": "The attacker rolls 5d6 to determine the extra damage from Sneak Attack.",
+    "rules": [
+      "Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The Sneak Attack damage for a level 9 rogue is 5d6. The roll is made as part of the damage, separate to the attack roll."
+  },
+  {
+    "question": "A character succeeds with an off-hand attack. What dice are rolled to determine damage?",
+    "answer": "Only the dice rolled for the damage the weapon deals are rolled. Ability modifiers are not added to the damage roll.",
+    "rules": [],
+    "rules_explanation": "As per the rules in the players handbook, the bonus to damage of an offhand attack is zero."
+  },
+  {
+    "question": "A Storm Sorcerer is in combat. What spells can be cast as a bonus action, and are there any conditions that might affect casting them?",
+    "answer": "It has no bearing on the spells that might be cast as a bonus action. Such spells must have a casting time of '1 bonus action' and have a sorcerer level that is high enough to cast the spell.",
+    "rules": [
+      "Bard > Extra Attack"
+    ],
+    "rules_explanation": "Spells cast as a bonus action must have a casting time of '1 bonus action', otherwise the action available is simply to attack."
+  },
+  {
+    "question": "A level 19 Barbarian is raging. What bonus damage is added to melee weapon attacks using strength?",
+    "answer": "A +4 bonus is added to damage rolls.",
+    "rules": [
+      "Barbarian > Rage",
+      "The Barbarian Table"
+    ],
+    "rules_explanation": "The barbarian table lists the rage bonus damage at various levels. At level 19 the table lists the bonus as +4"
+  },
+  {
+    "question": "A Ranger casts a spell, Lightning Arrow. What action does that take?",
+    "answer": "The action can be part of a regular attack.",
+    "rules": [],
+    "rules_explanation": "Bonus action to cast Lightning Arrow, into your next arrow you fire"
+  },
+  {
+    "question": "What are the conditions for getting a stealth bonus from the Pass Without a Trace spell, and what value is that bonus?",
+    "answer": "Everyone within 30 feet of the caster gains a +10 to their stealth check.",
+    "rules": [],
+    "rules_explanation": "Plus ten to their stealth check thanks to Keyleth"
+  },
+  {
+    "question": "If I'm grappled, do I still have to make death saving throws?",
+    "answer": "Yes, the grappled condition does not prevent you from having to make death saving throws.",
+    "rules": [
+      "Appendix PH-A: Conditions",
+      "Appendix MM-A: Miscellaneous > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "While the Grappled condition reduces your speed to 0, it does not state that you are unable to perform Death Saving Throws. Because those saving throws must be performed to avoid death, they must still be rolled."
+  },
+  {
+    "question": "If a character falls to zero hit points then is healed, do they retain the unconscious condition?",
+    "answer": "No, unconsciousness ends if the character regains any hit points.",
+    "rules": [
+      "Appendix MM-A: Miscellaneous > Dropping to 0 Hit Points > Falling Unconscious"
+    ],
+    "rules_explanation": "The unconscious condition ends if you regain any hit points."
+  }
+]

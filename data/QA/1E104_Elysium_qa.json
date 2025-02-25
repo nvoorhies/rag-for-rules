@@ -1,0 +1,195 @@
+[
+  {
+    "question": "Can the level 18 cleric use their Inspiring Leader feat to grant temporary hit points to all party members? If so, how many temporary hitpoints does the party receive assuming their Charisma modifier is 0?",
+    "answer": "Yes, the level 18 cleric uses their Inspiring Leader feat, and each party member gains 18 temporary hit points.",
+    "rules": [
+      "Classes > Bard > Bard College > College of Lore > Peerless Skill",
+      "Classes > Paladin > Class Features > Spellcasting"
+    ],
+    "rules_explanation": "The rules indicate that the character level affects temporary hit points granted by the ability, so the rules are followed in the determination."
+  },
+  {
+    "question": "Can the level 1 cleric use their bonus action to summon wings of the Everlight, granting them a flying speed of 40 feet for up to ten minutes and granting the party the ability to heal an additional ten hit points?",
+    "answer": "No, the cleric receives a +2 bonus to constitution instead.",
+    "rules": [
+      "Classes > Cleric > Divine Domain",
+      "Classes > Races > Racial Traits > Ability Score Increase",
+      "Magic Items > Wondrous Item > Feather Tokens"
+    ],
+    "rules_explanation": "The Everlight ability is a permanent improvement to the character's statistics and does not have a duration."
+  },
+  {
+    "question": "Can a level 1 barbarian, with Strength 16, succeed on a Strength check of 23?",
+    "answer": "No, the dice total was a 23 and the roll was a strength check but the barbarian does not have any special properties that allow them to do this.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "The barbarian does not have any class features or abilities which add to the roll that are listed in the provided information."
+  },
+  {
+    "question": "Can the Boots of Haste be attuned during a short rest?",
+    "answer": "Yes. A short rest may involve time spent attuning to an item.",
+    "rules": [
+      "Adventuring > Resting > Short Rest",
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "The SRD defines what can be done during a short rest, and does not include any text that specifies how that time is divided up, so time can be spent attuning."
+  },
+  {
+    "question": "A level 17 Tempest domain cleric casts a spell using their channel divinity, is this a legal move?",
+    "answer": "This question cannot be answered from the source material. A level 17 Tempest cleric may have different Channel Divinity uses from what is in the SRD.",
+    "rules": [
+      "Classes > Cleric > Channel Divinity",
+      "Classes > Cleric > Divine Domain",
+      "Magic Items > Wondrous item > Circlet of Blasting"
+    ],
+    "rules_explanation": "The abilities of a cleric's Channel Divinity action are defined by the cleric's subclass. The text does not specify what subclass the cleric has."
+  },
+  {
+    "question": "After the level 20 paladin is Blessed by the power of the gods. Can the paladin use their bonus action and emit bright light in a 120-foot radius, and if there are any evil creatures within that radius can they immediately suffer 4d6 radiant damage and be knocked prone?",
+    "answer": "Yes, for one hour the Paladin has the ability as a bonus action to emit bright light in a 120 foot radius, where any evil creature within the specified radius that hits them with an attack or spell suffers the damage and is knocked prone.",
+    "rules": [
+      "Spellcasting > Duration",
+      "Magic Items > Wondrous Items"
+    ],
+    "rules_explanation": "All conditions required by the item description have been met; we are within the spell duration and the target is an evil creature within the radius specified."
+  },
+  {
+    "question": "If the light in a room seems to dim to the level of a brown-out, does anyone need to make a saving throw, or what is the implication of this dimming light on the characters. How does this affect a perception check?",
+    "answer": "This dimming light can cause the Wisdom(perception) checks to have disadvantage.",
+    "rules": [
+      "Adventuring > The Environment > Vision and Light"
+    ],
+    "rules_explanation": "The vision and light section specifies the effects of light levels on sight and perception checks."
+  },
+  {
+    "question": "A level 1 ranger is standing next to the Sun Tree, does this count as favored terrain, and does the Ranger then get extra bonuses if they make an intelligence or wisdom check in the area? What must a Ranger do to receive the bonus on the ability check?",
+    "answer": "No, the Sun Tree is not one of the listed favored terrains. The Ranger must designate the current area as their favored terrain during level up to gain the benefits of the feature.",
+    "rules": [
+      "Classes > Ranger > Natural Explorer",
+      "Adventuring > Terrain"
+    ],
+    "rules_explanation": "The Ranger must explicitly choose terrain at the level they receive the ability. Designating it as their favorite terrain, allows them to get benefits from it. In order to receive that bonus, the ability must be on Intelligence or Wisdom, and related to the terrain."
+  },
+  {
+    "question": "After being granted the Blessings of the Everlight and Dawnfather, is the level 18 life cleric now resistant to necrotic damage?",
+    "answer": "Yes, the Blessings of the Everlight and Dawnfather grant specific traits. The Dawnfather grants resistance to necrotic damage.",
+    "rules": [
+      "Classes > Races > Racial Traits > Draconic Ancestry > Damage Resistance"
+    ],
+    "rules_explanation": "The Draconic Ancestry is a class trait that once bestowed grants an ability score bonus, and damage resistance."
+  },
+  {
+    "question": "If a level 1 fighter makes a melee attack with advantage, what die is rolled?",
+    "answer": "Two d20.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When you have advantage on an attack roll, you roll a second d20 when you make the roll. Use the higher of the two rolls."
+  },
+  {
+    "question": "At level 1, what modifier is applied to the barbarian's strength check to determine how well someone crushes an object.",
+    "answer": "The Strength modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "You add the relevant ability modifier in this case, the strength modifier, and compare the total to a DC. "
+  },
+  {
+    "question": "As an 18th-level character, what does a Nature check of 31 mean?",
+    "answer": "The listed rules do not define what a specific number on a nature check will reveal to a character. The Nature check helps you determine if you are being watch or avoided.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Magic Items > Wondrous Item > Horn of Valhalla",
+      "Magic Items > Wondrous item > Luck Stone"
+    ],
+    "rules_explanation": "While the character may roll well, the result may not always lead to success. The GM determines what that means"
+  },
+  {
+    "question": "How does the inspiring leader feat work at level 18?",
+    "answer": "At level 18, each member of the party gains 18 temporary hit points.",
+    "rules": [
+      "Classes > Bard > Bard College > College of Lore > Peerless Skill"
+    ],
+    "rules_explanation": "The information provided did not grant any additional information or alteration to this feat."
+  },
+  {
+    "question": "What happens when a Large or smaller creature is hit by a net?",
+    "answer": "The creature is restrained until it is freed.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties"
+    ],
+    "rules_explanation": "The net special property has no effects based on level, class, or ability. Hitting Large or smaller creature is the only requirement."
+  },
+  {
+    "question": "Does anything happen when a character gets a 1 on an Investigation check?",
+    "answer": "No.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A roll of 1 is not a special event in the rules, with the exception of attack rolls."
+  },
+  {
+    "question": "Can a 9th level character have a 6th level spell?",
+    "answer": "No, a 9th level character cannot use a 6th level spell.",
+    "rules": [
+      "Classes > Bard > Spellcasting > Spells Known of 1st Level and Higher",
+      "Classes > Cleric > Spellcasting > Preparing and Casting Spells",
+      "Classes > Druid > Spellcasting > Preparing and Casting Spells",
+      "Classes > Sorcerer > Spellcasting > Spells Known of 1st Level and Higher",
+      "Classes > Wizard > Spellcasting > Preparing and Casting Spells",
+      "Classes > Warlock > Pact Magic > Spells Known of 1st Level and Higher"
+    ],
+    "rules_explanation": "Spellcasting is determined by class and level and has no interaction with race or background."
+  },
+  {
+    "question": "What happens to a flying creature who is knocked prone?",
+    "answer": "The creature falls, unless it has the ability to hover.",
+    "rules": [
+      "Adventuring > Movement > Special Types of Movement > Flying Movement"
+    ],
+    "rules_explanation": "The rules specifies the effect if it is knocked prone or deprived of the ability to move. "
+  },
+  {
+    "question": "What saving throws can a Barbarian make if raging and what bonus would they receive?",
+    "answer": "The Barbarian would have advantage on Strength saving throws.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "The rules indicate that raging grants advantage on strength checks and strength saving throws if you aren't wearing heavy armor."
+  },
+  {
+    "question": "If a 1st level cleric casts Bane on themselves, what saving throws must be made?",
+    "answer": "No saving throws are made when a 1st level cleric casts Bane on themselves.",
+    "rules": [
+      "Spells > Bane",
+      "Classes > Cleric > Divine Domain"
+    ],
+    "rules_explanation": "Bane can only affect other creatures, and as such the spell would not function if targeting the caster."
+  },
+  {
+    "question": "Can I cast a spell if I am wearing armor with which I am not proficient?",
+    "answer": "No.",
+    "rules": [
+      "Spellcasting > Casting in Armor"
+    ],
+    "rules_explanation": "You must be proficient with the armor you are wearing to cast a spell."
+  },
+  {
+    "question": "At level 1, can you cast a spell with only verbal components if gagged?",
+    "answer": "No.",
+    "rules": [
+      "Spellcasting > Components > Verbal (V)"
+    ],
+    "rules_explanation": "The spell requires the chanting of mystic words, and a character who is gagged cannot cast a spell with a verbal component."
+  },
+  {
+    "question": "If a player character is a half-elf, are they immune to being put to sleep by magical effects?",
+    "answer": "Yes, the player character has advantage on saving throws against being charmed, and magic can't put it to sleep.",
+    "rules": [
+      "Races Racial Traits > Half-Elf Half-Elf Traits > Fey Ancestry"
+    ],
+    "rules_explanation": "One of the half-elf racial trait is advantage on saving throws against being charmed, and magic can't put it to sleep."
+  }
+]

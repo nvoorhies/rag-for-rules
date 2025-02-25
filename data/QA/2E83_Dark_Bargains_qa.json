@@ -1,0 +1,86 @@
+[
+  {
+    "question": "A perception check is requested of the level 4 Wizard, what dice should be rolled and what adjustments should be applied?",
+    "answer": "Roll 1d20 and add the Wizard's Wisdom modifier (+0) and proficiency bonus (+2).",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "Character Advancement > Proficiency Bonus"
+    ],
+    "rules_explanation": "Perception checks are Wisdom-based. Because the character is level 4, their proficiency bonus is +2. The question concerns what should be rolled given the character's level and class so does not incorporate special rules for advantage or other situations."
+  },
+  {
+    "question": "What Strength-based die roll and associated adjustments are necessary for the level 4 fighter to throw a ball bearing in the darkness",
+    "answer": "Roll 1d20 and add the character's Strength modifier (+2). Disadvantage applies to this roll.",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "Conditions > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM calls for a Strength check to throw the ball bearing. The Darkness imparts disadvantage. Because the question only asks what adjustment apply to the check based on the character's level, class, and environment, only those factors are included."
+  },
+  {
+    "question": "As part of the same athletics check mentioned before, the level 4 fighter is under a the Fortune's Favor spell. What dice should be rolled and what adjustments should be applied",
+    "answer": "Roll 1d20 and add the character's Strength modifier (+2) with disadvantage. Then roll another d20 with these same adjustments, and use the second result.",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "Conditions > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Fortune's Favor allows the character to reroll a check. Because the roll already has disadvantage, the roll is rerolled, and the second result is used."
+  },
+  {
+    "question": "What saving throw is required by the *Zone of Truth* spell of DC 17, and what information will the caster receive about that save?",
+    "answer": "A Charisma saving throw is required. The caster will know whether the saving throw succeeded or failed.",
+    "rules": [
+      "Spellcasting > Saving Throws",
+      "2nd-level Enchantment > Zone of Truth"
+    ],
+    "rules_explanation": "Creatures in the area of effect must make a Charisma saving throw. The spell states that the caster knows whether the saving throw succeeds or fails."
+  },
+  {
+    "question": "The level 4 fighter's Guidance spell was removed from them prematurely when they were about to climb the rope. What roll is required for a character to succeed on a physical climb, what type of ability check is it, and what are the appropriate adjustments given only that information?",
+    "answer": "An Athletics check is required. It is a Strength-based check. The level 4 fighter has a Strength modifier of +4, and a proficiency bonus of +2, so a total of +6 should be added to a d20 roll.",
+    "rules": [
+      "Ability Scores > Strength Checks",
+      "Character Advancement > Proficiency Bonus",
+      "Skill Descriptions > Athletics"
+    ],
+    "rules_explanation": "The DM calls for an Athletics check to climb the rope, which is a Strength-based check. At level 4, the fighter has a +2 proficiency bonus. Because the question limits the information, it does not account for Guidance or Fortune's Favor or other situational adjustments."
+  },
+  {
+    "question": "A level 4 monk is climbing a pole and under the effect of a Guidance spell (+1d4) as well as Fortune's Favor (reroll one dice). What dice and adjustments should be rolled to succeed on a climb using Athletics?",
+    "answer": "Roll 1d20, add +3 from Strength modifier, add +2 from Proficiency bonus, add +1d4 from Guidance, with the option to reroll either the d20 or d4 from the roll of Fortune's Favor after the initial result is known.",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "1st-level Divination > Fortune's Favor",
+      "1st-level Transmutation > Guidance",
+      "Character Advancement > Proficiency Bonus",
+      "Monk > Multiclassing"
+    ],
+    "rules_explanation": "Monks are proficient in Athletics, which uses Strength. Guidance adds a d4 to the roll and can be cast by a multi-classed cleric character. Fortune's Favor allows the player to reroll the d20 after the initial roll, but has no specific interaction with disadvantage, which does not apply here."
+  },
+  {
+    "question": "A level 9 wizard who is proficient with Smith's Tools is attempting to search the area for a box. What roll and adjustments are required?",
+    "answer": "An Investigation check using the Intelligence ability is required. Because the character has proficiency in Smith's Tools and is not using them for this check, the proficiency bonus is not applied.",
+    "rules": [
+      "Ability Scores > Intelligence Checks",
+      "Multiclassing > Proficiency"
+    ],
+    "rules_explanation": "Investigation checks are Intelligence-based. Because the question only asks what dice and adjustments are used to find the item and does not include the use of Smith's Tools, the proficiency is not applied. If the character were crafting with the toolkit, proficiency would apply."
+  },
+  {
+    "question": "A Voice is heard when Nott touches the Ruby and a second Voice is heard when Jester touches it. Each character had Detect Magic cast on them at those times. According to the rules, what does that imply about the gem?",
+    "answer": "The gem is capable of telepathic communication with a single individual holding it.",
+    "rules": [
+      "5th-level Divination > Detect Magic",
+      "Legal Information"
+    ],
+    "rules_explanation": "Detect Magic would identify the item as magical and the school of magic, but doesn't reveal its specific properties such as the ability to communicate or who can communicate with it."
+  },
+  {
+    "question": "What effects does the *Magic Jar* spell, have on a spirit inside it, and what school of magic is it?",
+    "answer": "This is a necromantic spell that allows a spirit inside the gem to possess a creature within 100 feet, or return to a body also within 100 feet.",
+    "rules": [
+      "6th-level Necromancy > Magic Jar"
+    ],
+    "rules_explanation": "This accurately summarizes the effect described in the spell and its school of magic. All additional information is implied but cannot be derived directly from the description alone."
+  }
+]

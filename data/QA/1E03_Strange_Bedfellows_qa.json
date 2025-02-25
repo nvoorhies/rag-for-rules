@@ -1,0 +1,81 @@
+[
+  {
+    "question": "Keyleth, a level 9 Circle of the Moon druid, wants to cast a spell that creates a shell that keeps anything from coming in. Can Matt tell me to go ahead and make an investigation check?",
+    "answer": "Yes.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "As a GM, Matt can call for any check that is appropriate to the situation, including an Investigation check. Whether Keyleth, who is proficient in investigation, adds her proficiency bonus depends on whether the check is determined to be of a kind that her skill proficiency would apply to."
+  },
+  {
+    "question": "The dragonborn sorcerer, level nine, asks, to make sure Grog is still breathing, should I roll intelligence, right?",
+    "answer": "No, you should roll a Religion check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Matthew Mercer has determined that a religion check is appropriate in this situation as determined by the rules for ability checks."
+  },
+  {
+    "question": "The half-elf ranger, level nine, asks, because they're tracking in the Underdark, which is their favored terrain, do they have advantage on a survival check?",
+    "answer": "Yes, you have advantage on the Survival check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Ranger > Favored Terrain"
+    ],
+    "rules_explanation": "Because tracking involves Wisdom (Survival) checks, and you're tracking in your favored terrain, the Underdark, you have advantage on the roll. The Ranger favored terrain is part of the character's creation rules."
+  },
+  {
+    "question": "Scanlan, a level nine gnome bard, asks, I'm gonna sing a song of rest for you, so that'll add 1d6 to your healing rolls. Is this correct? ",
+    "answer": "Yes. Bard > Song of Rest. The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level.",
+    "rules": [
+      "Bard > Song of Rest"
+    ],
+    "rules_explanation": "The rules for Bardic Song of Rest state that at 9th level it is a d8"
+  },
+  {
+    "question": "The half-elf ranger, level nine, asks how many d12s does Grog get to roll to heal?",
+    "answer": "Grog can roll up to nine d12s to heal naturally, however it is not clear if Grog has used any healing yet that day. Barbarian > Hit Points and Hit Dice, PHB, page 46-47 states that, a barbarian rolls a d12 for hit dice and can use up to his level worth of hit dice during a long rest.",
+    "rules": [
+      "Barbarian > Hit Points and Hit Dice"
+    ],
+    "rules_explanation": "Barbarians use a d12 for hit dice, and a character's level determines how many hit dice they can roll. It also has a maximum number of hit dice equal to their level"
+  },
+  {
+    "question": "The dragonborn sorcerer, level nine, asks, \"Keyleth, if I cast Owl's Wisdom on people, it gives people advantage on wisdom checks. Would that count on saving throws against willpower?\"",
+    "answer": "No, it does not count on saving throws specifically.",
+    "rules": [
+      "Section 8 > Abilities > Saving Throws"
+    ],
+    "rules_explanation": "The enhance ability spell only affects ability checks, not saving throws. That's what makes it balanced."
+  },
+  {
+    "question": "The dragonborn sorcerer, level nine, says, As they talk, Grog slowly flatulates, everybody make a constitution saving throw. Is this a reasonable request from Liam?",
+    "answer": "There are no general rules to resolve a situation like the flatulence. It is up to the GM to decide.",
+    "rules": [],
+    "rules_explanation": "While the SRD describes how to use ability checks, saving throws and other mechanics, it is the job of the GM to decide when to invoke those mechanics."
+  },
+  {
+    "question": "The Circle of the Moon druid, level nine, asks if we're doing a Magneto's helmet or even if we Do we have a bunch of mirrors? Or where we can look through things with reflections.",
+    "answer": "This is up to GM to decide.",
+    "rules": [],
+    "rules_explanation": "The SRD rules do not have rules for or against Magneto helmets. It would be up to the GM to determine what can and can't happen."
+  },
+  {
+    "question": "The Circle of the Moon druid, level nine, asks if we're less vulnerable to the mind, I mean, I can cast Enhance Ability to help our willpower? Or our will.",
+    "answer": "No. The Owl's Wisdom version of the spell Enhance Ability helps with ability checks, not saving throws.",
+    "rules": [
+      "Section 8 > Abilities > Ability Checks",
+      "Section 8 > Abilities > Saving Throws"
+    ],
+    "rules_explanation": "The Owl's Wisdom version of the spell Enhance Ability affects Wisdom ability checks, whereas protection against mind control would be a Wisdom saving throw."
+  },
+  {
+    "question": "The goliath barbarian, level nine, asks: 20 is the stat cap for normal physical stats, however magical items can then bump that up higher. Is this a valid statement?",
+    "answer": "Yes.",
+    "rules": [
+      "Ability Score Improvement"
+    ],
+    "rules_explanation": "The SRD state \"When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.\"  The use of the term \"As normal\" implies that other rules can adjust stats beyond this cap."
+  }
+]

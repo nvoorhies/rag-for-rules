@@ -1,0 +1,380 @@
+[
+  {
+    "question": "If a 1st level race name character casts a spell (Revivify) that requires 300 gold worth of diamonds for the material component. Does the component need to be contributed to the casting of the spell at that moment or can it be done over a period of time?",
+    "answer": "The material component must be contributed to the casting of the spell at that moment.",
+    "rules": [
+      "Spellcasting > Components",
+      "Spellcasting > Material (M)"
+    ],
+    "rules_explanation": "The components rule states that the material components are a physical requirement that must be met to cast a spell. Because the spell has a faster ritual it would be assumed that all components need to be provided at the initiation of the spell."
+  },
+  {
+    "question": "When a 5th Level class name character casts Revivify is it a ritual spell?",
+    "answer": "Yes, but it is a faster ritual.",
+    "rules": [
+      "Spellcasting > Rituals"
+    ],
+    "rules_explanation": "The faster ritual is referred to in the description of the rule, in addition it is an action to case Revivify."
+  },
+  {
+    "question": "If a character is using a spell that brings a companion back from the dead, and the success of the spell is a die roll + spellcasting modifier, what die is rolled?",
+    "answer": "A d20.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "In order to make a spell check, you need to roll a d20 to see if the appropriate DC is reached. You then add the spellcasting modifier to the die roll."
+  },
+  {
+    "question": "If a 5th level race and class name character uses Revivify is it instantaneous?",
+    "answer": "No, it is an action.",
+    "rules": [
+      "Spellcasting > Casting Time"
+    ],
+    "rules_explanation": "The spellcasting rules state that each spell description begins with a block of information, including the spell's name, level, school of magic, casting time, range, components, and duration.  Revivify has a casting time of one action."
+  },
+  {
+    "question": "A character asks what the remaining time is to cast Revivify, what is the actual time that can be given using the rules?",
+    "answer": "There is no remaining time - the casting time is 1 action",
+    "rules": [
+      "Spellcasting > Casting Time"
+    ],
+    "rules_explanation": "Since the casting time is one action, the spell takes effect in a single unit of time with no reference to duration."
+  },
+  {
+    "question": "If a dead character is saved using Revivify, what are the new hit points?",
+    "answer": "One hit point.",
+    "rules": [
+      "Core Rules > Combat > Damage and Healing > Healing"
+    ],
+    "rules_explanation": "Revivify brings a character back to life with 1 hit point."
+  },
+  {
+    "question": "What happens when a character drops a bag of gems",
+    "answer": "The rock that you placed within her grasp tumbles free and hits the ground.",
+    "rules": [
+      "Equipment > Activating an item."
+    ],
+    "rules_explanation": "When a player drops an item from their inventory it lands on the ground. In this case, the rock was in the bag of holding and the player was describing it as if it was inside her body, so the DM describes it falling out onto the ground. No mechanical effects are involved"
+  },
+  {
+    "question": "What happens when a character drops an item from their shirt?",
+    "answer": "The rock that you placed within her grasp tumbles free and hits the ground.",
+    "rules": [
+      "Equipment > Activating an item."
+    ],
+    "rules_explanation": "When a player drops an item from their inventory it lands on the ground. In this case, the rock was in the shirt and the player was describing it as if it was inside her body, so the DM describes it falling out onto the ground. No mechanical effects are involved"
+  },
+  {
+    "question": "If a character carries a prone character does it use half movement?",
+    "answer": "Yes.",
+    "rules": [
+      "Core Rules > Combat > Movement and Position > Moving Around Other Creatures"
+    ],
+    "rules_explanation": "Moving a grappled creature with you uses half of your movement speed."
+  },
+  {
+    "question": "If a player picks up an unconscious player and action dashes, does it use half movement?",
+    "answer": "Yes, it's half movement carrying another body.",
+    "rules": [
+      "Core Rules > Combat > Movement and Position > Moving Around Other Creatures"
+    ],
+    "rules_explanation": "Carrying capacity is halved and an action to dash can still be used, but the carrying would be used in its calculation"
+  },
+  {
+    "question": "Does the DM need to let a character do something?",
+    "answer": "It's your turn",
+    "rules": [
+      "Core Rules > Combat > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "It is up to the player to decide what they are doing during their turn. As long as it is within the rules the player may make a choice"
+  },
+  {
+    "question": "Can a Wizard use the twin spell metamagic on another character's spell?",
+    "answer": "No, You can't twin spell somebody else's spell.",
+    "rules": [
+      "Sorcerer > Metamagic"
+    ],
+    "rules_explanation": "The metamagic has the caveat of 'When you cast a spell... ' so the caster has to be doing the casting"
+  },
+  {
+    "question": "Can a character do something with a Bonus Action?",
+    "answer": "Unless you got something you want to do with your bonus action.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The rules specify, \"You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take.\""
+  },
+  {
+    "question": "Does the wolf form of the werewolf change when going unconscious?",
+    "answer": "It continues. When you die, you revert.",
+    "rules": [
+      "Monsters > Lycanthropes > Shapechanger"
+    ],
+    "rules_explanation": "The Shapechanger trait specifies that equipment is not transformed and the shape is only reverted when you die"
+  },
+  {
+    "question": "Does the shadow assassins stay around after a white light and everything goes void, and everyone reappear where they were?",
+    "answer": "You landed, and all of your companions then, a moment later, all appear where they were.",
+    "rules": [
+      "Spellcasting > Duration > Instantaneous"
+    ],
+    "rules_explanation": "A ruling must be made as to what exactly what happens when Imogen screams. There is not a written rule about what effect takes priority."
+  },
+  {
+    "question": "If the monkey can act without the PC, does that mean the monkey can't do spells?",
+    "answer": "I think it was that I couldn't do the spell through him. That's what it was. Yeah.",
+    "rules": [
+      "Classes > Warlock > Pact Magic"
+    ],
+    "rules_explanation": "The action in question involves spells, so only the rules regarding spellcasting are relevant. An unconscious PC can't control their familiar."
+  },
+  {
+    "question": "What modifier do you add to the spell?",
+    "answer": "It's wisdom, so whatever your wisdom bonus is.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The spellcasting ability modifier is determined by the character's class."
+  },
+  {
+    "question": "Can you do Double Guidance",
+    "answer": "No, but hers is fine",
+    "rules": [
+      "Magic > Combining Magical Effects"
+    ],
+    "rules_explanation": "Only one of the same effect can be applied at once."
+  },
+  {
+    "question": "If the players are short resting right now?",
+    "answer": "If you want to take it, you can make this a short rest.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The players get to decide when they are taking a short rest and can do things that are considered to be light activity. The GM also adds in a rule about what happens if someone decides to do something that is physically intense"
+  },
+  {
+    "question": "Did I have the dream that Laudna walked into the storm like Bertrand did?",
+    "answer": "Not at the moment, no.",
+    "rules": [
+      "Player’s Handbook Errata (May 2020) > Spells > Dream"
+    ],
+    "rules_explanation": "The player is essentially asking a question about her vision. The DM is confirming that she did not get a dream.&#x20;"
+  },
+  {
+    "question": "Does this all count as a rest? We're short resting right now?",
+    "answer": "If you want to take it, you can make this a short rest.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The rules for short rest are then described. They are in control of when they choose to take a short rest."
+  },
+  {
+    "question": "If that hybrid transformation, do I revert back into sexy Chetney?",
+    "answer": "When you die, you revert.",
+    "rules": [
+      "Monsters > Lycanthropes > Shapechanger"
+    ],
+    "rules_explanation": "The change will only occur at the time of death."
+  },
+  {
+    "question": "How far away is Ashton? He got over there in one round.",
+    "answer": "He did.",
+    "rules": [
+      "Combat > Movement and Position"
+    ],
+    "rules_explanation": "The DM is confirming that the player could make it to the destination point in one round if he moves a certain amount."
+  },
+  {
+    "question": "It's half my speed because I'm carrying somebody, right?",
+    "answer": "Correct.",
+    "rules": [
+      "Adventuring > Movement, Position, and Terrain > Difficult Terrain"
+    ],
+    "rules_explanation": "Carrying someone makes movement difficult terrain and therefore halves movement speed."
+  },
+  {
+    "question": "But your running speed is what?",
+    "answer": "25",
+    "rules": [
+      "Races > Racial Traits",
+      "Classes > Class Features"
+    ],
+    "rules_explanation": "In addition to character level, movement speed is also a class feature."
+  },
+  {
+    "question": "Can you double up on the Guidance",
+    "answer": "No, but hers is fine.",
+    "rules": [
+      "Spellcasting > Combining Magical Effects"
+    ],
+    "rules_explanation": "In a 5E game, the effects of spells with the same name do not stack."
+  },
+  {
+    "question": "Does this all count as a rest? We're short resting right now?",
+    "answer": "If you want to take it, you can make this a short rest. Okay. So we'll count this conversation as a short rest, nothing real physically intense in this moment. Unless somebody decides to, in which case it might.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "There is DM adjudication in this case. As long as the players aren't doing anything intense the DM will allow the rest to continue."
+  },
+  {
+    "question": "If you ever get a limb cut off",
+    "answer": "You have the ability to regenerate parts",
+    "rules": [
+      "Magic Items > Ring of Regeneration"
+    ],
+    "rules_explanation": "This is a function of the ring the player was talking about. It will restore missing parts"
+  },
+  {
+    "question": "Do I have Identify still?",
+    "answer": "You do.",
+    "rules": [
+      "Classes > Wizard > Spellcasting"
+    ],
+    "rules_explanation": "DM is confirming that the player has the identify spell"
+  },
+  {
+    "question": "Does this all count as a rest? We're short resting right now?",
+    "answer": "If you want to take it, you can make this a short rest.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "Rules from short rest are described."
+  },
+  {
+    "question": "If we're going to tell him he's in grave danger, he's not going to be able to help us with this.",
+    "answer": "If he can't help us, we'll fucking find someone.",
+    "rules": [
+      "Campaigns > Creating Nonplayer Characters > Using Nonplayer Characters"
+    ],
+    "rules_explanation": "There is no specific rule on what the PC decides to do in the situation. This is the player making a decision and there is not a rule about player descisions or plans"
+  },
+  {
+    "question": "Can't Otohan find us and find her?",
+    "answer": "She found where she is already, she knows where she lives.",
+    "rules": [
+      "Adventures > Creating Nonplayer Characters > Giving Personality to Nonplayer Characters"
+    ],
+    "rules_explanation": "The characters are having a role-playing conversation on possible choices and their potential outcomes. There is no particular rule here, the response given is related to the world/story of the game."
+  },
+  {
+    "question": "Should I call-- Xandis? Should I call--",
+    "answer": "Thank you. I'm just going to keep him. I'll keep him on my belt for now.",
+    "rules": [
+      "Equipment > Adventuring Gear > Pouch."
+    ],
+    "rules_explanation": "The decision to do this does not have a direct rules implication. You can choose where to keep the pouch"
+  },
+  {
+    "question": "Double Guidance? Can you double up on the Guidance?",
+    "answer": "No, but hers is fine.",
+    "rules": [
+      "Spellcasting > Combining Magical Effects"
+    ],
+    "rules_explanation": "The rule states that if there are two instances of advantage or disadvantage on a d20 roll, you don't roll more than one additional d20."
+  },
+  {
+    "question": "Are you doing this?",
+    "answer": "All righty",
+    "rules": [
+      "Spellcasting > Targets > Targeting Yourself"
+    ],
+    "rules_explanation": "Assuming that it is not specified that the effect can be used on self the effect needs to be used on someone else. DM allowed the fly to be case on another party member"
+  },
+  {
+    "question": "Does this all count as a rest? We're short resting right now?",
+    "answer": "Okay. So we'll count this conversation as a short rest, nothing real physically intense in this moment. Unless somebody decides to, in which case it might.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The rule goes through the things that can occur during a short rest."
+  },
+  {
+    "question": "Which statue is this? Is this the shifting face statue?",
+    "answer": "We're going to pull it out and we'll put it on the other side of the door so if we have to run through the door, we can just tip it.",
+    "rules": [
+      "The Environment > Interacting with Objects"
+    ],
+    "rules_explanation": "This is a description of what the characters are doing with a description of the type of item that is being used."
+  },
+  {
+    "question": "So I didn't have--",
+    "answer": "Yes, you did.",
+    "rules": [
+      "General"
+    ],
+    "rules_explanation": "The DM is saying she does know something. It is implied she is trying to remember something and is confused, so the DM is helping her along."
+  },
+  {
+    "question": "Am I in now?",
+    "answer": "You go ahead and you're trying to unlock it?",
+    "rules": [
+      "Adventuring > Movement, Position, and Terrain > Difficult Terrain"
+    ],
+    "rules_explanation": "There is no actual answer but the DM is essentially restating where the character is."
+  },
+  {
+    "question": "Does this all count as a rest?",
+    "answer": "Yes, you can make this a short rest. Okay. So we'll count this conversation as a short rest, nothing real physically intense in this moment. Unless somebody decides to, in which case it might.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "DM is saying it is still a short rest as long as nothing intense happens."
+  },
+  {
+    "question": "I'm just saying, if we ever used it. Also double up--Is the trap is still active because I didn't disarm the trap?",
+    "answer": "Correct.",
+    "rules": [
+      "Adventures > Traps > Detecting and Disabling a Trap"
+    ],
+    "rules_explanation": "The DM is confirming to the players if what they think is going on with the trap is correct or not. The trap is still active since it was not disabled."
+  },
+  {
+    "question": "Which boxes did you put in there?",
+    "answer": "You can and spend-- oh, no, Sashimi, no",
+    "rules": [
+      "Equipment > Bags, Chests, and other Containers"
+    ],
+    "rules_explanation": "There is not an actual ruling answer here from Matt, just a descriptive response. Equipment is often used to store and/or carry goods"
+  },
+  {
+    "question": "If we wait--?",
+    "answer": "Yeah",
+    "rules": [
+      "Adventures > Movement, Position, and Terrain > Cover"
+    ],
+    "rules_explanation": "He is confirming that all the players would be healed."
+  },
+  {
+    "question": "You're like seven feet tall. I just roll?",
+    "answer": "You roll a d20 and add your wisdom modifier.",
+    "rules": [
+      "Adventures > Ability Checks"
+    ],
+    "rules_explanation": "This is the proper way to roll a d20 for an ability check. It requires a proficiency bonus and related modifier to be added to the die roll."
+  },
+  {
+    "question": "What did he say?",
+    "answer": "He talked like Arnold Schwarzenegger.",
+    "rules": [
+      "Campaigns > Roleplaying > Acting"
+    ],
+    "rules_explanation": "The DM is playing an NPC, as the players ask him to describe what was said, he is impersonating Arnold to the other players"
+  },
+  {
+    "question": "Did we close",
+    "answer": "Yes, we did.",
+    "rules": [
+      "Core Rules > Combat > Movement and Position"
+    ],
+    "rules_explanation": "The DM is confirming that they did do what the player thought they had done."
+  },
+  {
+    "question": "Does this all count as a rest?",
+    "answer": "It's challenging go, and you move slower than you want to",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "The player is asking about what they can do during a long rest, and the DM sets the scene by describing how stealth is affected. The rest rule is then confirmed"
+  }
+]

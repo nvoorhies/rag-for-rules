@@ -1,0 +1,50 @@
+[
+  {
+    "question": "The level 1 race and class SAM is trying to pull off a dragon scale but he rolled a two. What type of check is required?",
+    "answer": "A Strength check is required.",
+    "rules": [
+      "Part I >  SAM: Make a strength check."
+    ],
+    "rules_explanation": "Referenced the transcript and found the player character SAM was asked to make a strength check to remove the dragon scale."
+  },
+  {
+    "question": "Level and type TRAVIS running around the lair muttering about booty - what check is required?",
+    "answer": "A Perception check is required.",
+    "rules": [
+      "Part I > TRAVIS: Perception check."
+    ],
+    "rules_explanation": "Referenced the transcript and found the player character TRAVIS was asked to make a perception check while looking for booty."
+  },
+  {
+    "question": "LAURA's level and type casts the 'Jump' spell - would this stack with the effects of Boots of Feral Leaping?",
+    "answer": "No. That magic would override the spell, based on the enchantment. It's two different magical forces affecting the same thing. The Jump spell is part of the enchantment that boot was crafted around.",
+    "rules": [
+      "Part I >  LAURA: That magic would override the spell, based on the enchantment. It's two different magical forces affecting the same thing. The Jump spell is part of the enchantment that boot was crafted around."
+    ],
+    "rules_explanation": "Referenced the transcript and found the Matthew Mercer's answer."
+  },
+  {
+    "question": "What type of check is required to identify a potion, for MARISHA's level and class, as a bonus action?",
+    "answer": "An arcana check is required.",
+    "rules": [
+      "Part I > MATT: Yeah, make an arcana check."
+    ],
+    "rules_explanation": "Referenced the transcript and found the DM asks the character to make an arcana check to look at a vial to see if it looks magical"
+  },
+  {
+    "question": "A level and type TALIESIN rolls to repair a weapon - is this a tinkering check or a misfire check?",
+    "answer": "These are tinkering checks.",
+    "rules": [
+      "Part I > MATT: These are tinkering checks."
+    ],
+    "rules_explanation": "Referenced the transcript and found the rules judgement that this is a tinkering check."
+  },
+  {
+    "question": "A level and type MARISHA as an elephant is attempting to break through a doorway. What kind of check does she make?",
+    "answer": "A strength check is required",
+    "rules": [
+      "Part II > MATT: Make a strength check."
+    ],
+    "rules_explanation": "Referenced the transcript and found the DM asks the player character to make a strength check to break through the doorway."
+  }
+]

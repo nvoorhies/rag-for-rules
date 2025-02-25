@@ -1,0 +1,457 @@
+[
+  {
+    "question": "A level 3 Circle of Land druid of unspecified race and alignment casts Mass Cure Wounds. What is the maximum amount of healing each creature receives from the spell?",
+    "answer": "Each creature regains 16 hit points.",
+    "rules": [
+      "Player's Handbook > Classes > Bard > Class Features > Song of Rest",
+      "Player's Handbook > Classes > Bard > Class Features > Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "Mass Cure Wounds heals 3d8, which has a maximum of 24. Song of Rest allows the character to heal for an additional 16 hp, by allowing each hit dice to heal for its maximum value plus the character's modifier."
+  },
+  {
+    "question": "A level 3 Halfing Ranger with Fey Touched has a target DC for Fey Touched of what value?",
+    "answer": "The DC is 17.",
+    "rules": [
+      "Player's Handbook > Feats > Fey Touched",
+      "Player's Handbook > Using Ability Scores > Spellcasting Ability > Spell save DC"
+    ],
+    "rules_explanation": "The spell save DC is Charisma of 17 + proficiency bonus of 2 + 8 = 17"
+  },
+  {
+    "question": "If a level 4 warlock casts Psychic Lance at 7th level, what type of saving throw does it inflict?",
+    "answer": "The target must make an Intelligence saving throw.",
+    "rules": [
+      "Spell Description"
+    ],
+    "rules_explanation": "Per the spell description the target must make an Intelligence saving throw"
+  },
+  {
+    "question": "If a level 4 Warlock casts Psychic Lance, what components are required?",
+    "answer": "Psychic Lance requires verbal and somatic components",
+    "rules": [
+      "Spell Description"
+    ],
+    "rules_explanation": "Per the spell description the spell requires a verbal and somatic component"
+  },
+  {
+    "question": "If a level 4 Warlock casts Psychic Lance at 7th level, what is the base damage?",
+    "answer": "The spell inflicts 10d6 psychic damage.",
+    "rules": [
+      "Spell Description"
+    ],
+    "rules_explanation": "Per the spell description the 7th level version of the spell inflict 10d6 psychic damage"
+  },
+  {
+    "question": "Can a 1st level druid cast Guidance as a bonus action?",
+    "answer": "No",
+    "rules": [
+      "Player's Handbook > Spellcasting > Casting Time"
+    ],
+    "rules_explanation": "Guidance has a casting time of 1 action. Unless a feature changes it, it cannot be cast as a bonus action."
+  },
+  {
+    "question": "If a level 6 Path of the Totem Warrior Barbarian rages and is hit with a Charmed effect, what happens?",
+    "answer": "The effect is suspended for the duration of the rage.",
+    "rules": [
+      "Player's Handbook > Classes > Barbarian > Primal Paths > Path of the Totem Warrior > Totem of the Bear",
+      "Player's Handbook > Conditions > Charmed"
+    ],
+    "rules_explanation": "The level 6 Path of the Totem Warrior Barbarian has the 'Mindless Rage' feature which states they can't be charmed or frightened while raging, suspending the effect for the duration of the rage."
+  },
+  {
+    "question": "What is the duration of Geas?",
+    "answer": "30 days",
+    "rules": [
+      "Spell Description"
+    ],
+    "rules_explanation": "Per the spell description, the duration of Geas is 30 days"
+  },
+  {
+    "question": "what kind of saving throw does the Bane spell impose?",
+    "answer": "Charisma",
+    "rules": [
+      "Spell Description"
+    ],
+    "rules_explanation": "Per the spell description in this system, the Bane spell imposes a Charisma Saving Throw on the target"
+  },
+  {
+    "question": "If a creature is affected by Bane, what does it do?",
+    "answer": "Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.",
+    "rules": [
+      "Spell Description"
+    ],
+    "rules_explanation": "Per the spell description in this system, if a target fails their initial saving throw, all following rolls have 1d4 subtracted from the result"
+  },
+  {
+    "question": "A fey creature is the target of the Modify Memory spell. What rolls are made with advantage?",
+    "answer": "The fey creature makes the Wisdom saving throw with advantage.",
+    "rules": [
+      "Player's Handbook > Elf > Fey Ancestry"
+    ],
+    "rules_explanation": "The SRD describes the Elf, who all have Fey Ancestry, as having advantage on saving throws against being charmed, and magic can't put you to sleep. These rules do not transfer to the Fey type, so it needs to be explicitly stated. "
+  },
+  {
+    "question": "A character is attempting to grapple an enemy. Which skill is used for the grapple check?",
+    "answer": "Athletics",
+    "rules": [
+      "Player's Handbook > Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "The grapple check is a Strength (Athletics) check"
+  },
+  {
+    "question": "A Level 9 rogue with high Deception and Persuasion decides that they'd rather be in melee range and also wants advantage on their next attack. Can they expend their cunning action for either benefit?",
+    "answer": "Yes",
+    "rules": [
+      "Player's Handbook > Classes > Rogue > Class Features > Cunning Action",
+      "Player's Handbook > Combat > Actions in Combat > Hide",
+      "Player's Handbook > Combat > Actions in Combat > Disengage"
+    ],
+    "rules_explanation": "The Level 9 rogue has the Cunning Action ability, which allows them to take a bonus action to take the Dash, Disengage, or Hide action. Therefore, they may take a bonus action to Disengage and move into melee range, or may take a bonus action to Hide and thereby gain Advantage on their next attack."
+  },
+  {
+    "question": "If a sorcerer is flying and uses Misty Step, do they fall?",
+    "answer": "No.",
+    "rules": [
+      "Spell Description: Misty Step"
+    ],
+    "rules_explanation": "The SRD has no rule for flying creatures falling when teleporting. The action of Misty Step expends the action and movement of the sorcerer but has no additional effect on their flying capability."
+  },
+  {
+    "question": "If a level 4 Oath of Devotion Paladin takes the Observant Feat. Which saving throws and checks are modified?",
+    "answer": "None",
+    "rules": [
+      "Player's Handbook > Feats > Observant"
+    ],
+    "rules_explanation": "The observant feat only modifies investigation and perception skill checks, not any saving throws"
+  },
+  {
+    "question": "Is it possible for Forcecage to stop teleportation?",
+    "answer": "Yes, it can if it's a box",
+    "rules": [
+      "Spell Description > Forcecage"
+    ],
+    "rules_explanation": "As per the spell description, If cast as a box it prevents all matter from passing through"
+  },
+  {
+    "question": "Does rage prevent casting spells or concentrating on spells?",
+    "answer": "It prevents casting spells or concentrating on spells",
+    "rules": [
+      "Player's Handbook > Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "The rule for rage specifically states a barbarian can't cast or concentrate on spells while raging"
+  },
+  {
+    "question": "What level is the Polymorph spell?",
+    "answer": "4th",
+    "rules": [
+      "Spell Description > Polymorph"
+    ],
+    "rules_explanation": "The spell description states that it is 4th level"
+  },
+  {
+    "question": "what is the range of dimension door",
+    "answer": "500 feet",
+    "rules": [
+      "Spell Description > Dimension Door"
+    ],
+    "rules_explanation": "The spell description states that it is 500 feet"
+  },
+  {
+    "question": "Does the Blinded condition affect attacks made with tremorsense?",
+    "answer": "No",
+    "rules": [
+      "Appendix A > Conditions > Blinded"
+    ],
+    "rules_explanation": "The blinded condition specifies that a blinded creature can't see and automatically fails any ability check that requires sight. It makes no mention of tremorsense or other senses. Thus it doesn't affect such attacks."
+  },
+  {
+    "question": "Can a paladin wear non-metal armour?",
+    "answer": "Yes",
+    "rules": [
+      "Player's Handbook > Classes > Proficiencies > Armour"
+    ],
+    "rules_explanation": "Paladins have proficiency with all armour, therefore they can wear any armour they like whether it is metal or not."
+  },
+  {
+    "question": "What kind of action does Zathuda have to take to death save?",
+    "answer": "No action is required",
+    "rules": [
+      "Player's Handbook > Combat > Damage and Healing > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "The Death Saving Throw is automatic; no action is required to be taken to perform the action, though the process of dropping to 0 may have expended a reaction."
+  },
+  {
+    "question": "If a character uses a melee weapon to hit a target with a 7th level Psychic Lance, do they deal weapon damage?",
+    "answer": "No",
+    "rules": [
+      "Player's Handbook > Casting a Spell > Targets"
+    ],
+    "rules_explanation": "It is the spell, not the weapon, that does the damage in this case"
+  },
+  {
+    "question": "A character hits with Thorn Whip, but was trying not to hurt the target. What damage dice are rolled?",
+    "answer": "The target takes 1d6 damage.",
+    "rules": [
+      "Spell Description > Thorn Whip"
+    ],
+    "rules_explanation": "Thorn Whip does 1d6 damage when it hits."
+  },
+  {
+    "question": "What action can a restrained character use to end the effect on itself?",
+    "answer": "Strength (Athletics) or Dexterity (Acrobatics) check",
+    "rules": [
+      "Condition Action > Restrained"
+    ],
+    "rules_explanation": "The restrained condition only ends on themselves if a strength or dexterity check is passed"
+  },
+  {
+    "question": "A level 1 Circle of Land Druid has 10 wis. How many prepared spells do they have?",
+    "answer": "1",
+    "rules": [
+      "Player's Handbook > Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "Spells equal to wisdom modifier plus druid level (minimum of 1 spell)"
+  },
+  {
+    "question": "What level does the Bane spell have to be cast at to target 3 enemies?",
+    "answer": "It must be cast at 1st level",
+    "rules": [
+      "Spell Description > Bane"
+    ],
+    "rules_explanation": "The bane spell targets three creatures when cast at its base level; higher levels target only additional creatures."
+  },
+  {
+    "question": "A 10th level druid has teleported to a point near a giant and cast vicious mockery. How many dice are rolled for damage?",
+    "answer": "Zero",
+    "rules": [
+      "Player's Handbook > Spell Lists > Druid",
+      "Player's Handbook > Spell Description > Psychic Lance"
+    ],
+    "rules_explanation": "The Druid's spell list does not contain Vicious Mockery, nor is it a damaging spell. There are no dice to roll."
+  },
+  {
+    "question": "A 14 level Paladin makes a Charisma Saving Throw, has an aura of protection of the normal amount, and rolls a natural 1. What is the effect of Bane on the character?",
+    "answer": "The paladin's roll is modified by 1d4",
+    "rules": [
+      "Spell Description > Bane"
+    ],
+    "rules_explanation": "The bane spell has been cast at 3rd level therefore it will impose 1d4 on any checks or saves."
+  },
+  {
+    "question": "A wizard casts magic missile at 1st level, and upcasts it to level 2. How many missiles are created",
+    "answer": "The spell creates four darts",
+    "rules": [
+      "Spell Description > Magic Missile"
+    ],
+    "rules_explanation": "The 1st level version creates 3 darts, then upcasting it one level creates one additional dart"
+  },
+  {
+    "question": "A creature that has not made friends with the party dies and is then made into a spirt of death. Can this spirt be made to haunt one of the party members?",
+    "answer": "Unclear",
+    "rules": [
+      "Unearthed Arcana: Revised Class Options > 3rd Level Spiritual Weapon"
+    ],
+    "rules_explanation": "The spell requires you to 'conjure the spirit of a dead ally', and as the terms 'ally' and 'friend' both imply it could be argued either way if you are able to conjure someone and call them an ally, or if you were already allies."
+  },
+  {
+    "question": "Can Calm Emotions be cast on an animal?",
+    "answer": "no",
+    "rules": [
+      "Spell Description"
+    ],
+    "rules_explanation": "The spell description lists that each Humanoid must make a Charisma Saving Throw to not have their strong emotions suppressed."
+  },
+  {
+    "question": "What levels can a sorcerer create spell slots of?",
+    "answer": "The spellcaster can create spell slots no higher in level than 5th.",
+    "rules": [
+      "Player's Handbook > Classes > Sorcerer > Class Features > Font of Magic > Flexible Casting"
+    ],
+    "rules_explanation": "The rule states 'You can create spell slots no higher in level than 5th.'"
+  },
+  {
+    "question": "If a Druid Wild Shapes into a Shoebill, how many people can ride it",
+    "answer": "0",
+    "rules": [
+      "Monster Manual > Appendix > Acronyms and Abbreviations"
+    ],
+    "rules_explanation": "The druid, and no one else, since The Shoebill has Strength 6, a weight 7lbs and and no carrying capacity listed."
+  },
+  {
+    "question": "How many attacks can a level 5 fighter use with the attack action?",
+    "answer": "Two",
+    "rules": [
+      "Player's Handbook > Classes > Fighter > Class Features > Extra Attack"
+    ],
+    "rules_explanation": "The fighter's Extra Attack feature states 'Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.'"
+  },
+  {
+    "question": "A character attempts to climb a wall and makes an Acrobatics check to do so. Is this a valid check?",
+    "answer": "No.",
+    "rules": [
+      "Player's Handbook > Using Ability Scores > Ability Checks > Strength",
+      "Player's Handbook > Skills > Athletics Skill"
+    ],
+    "rules_explanation": "Acrobatics applies to remaining on your feet or performing stunts in motion. Climbing is a Strength (Athletics) check."
+  },
+  {
+    "question": "The NPC Laudna is wearing plate armor. What skill is applied to avoid being grappled",
+    "answer": "None",
+    "rules": [
+      "Condition",
+      "Player's Handbook > Monster Manual > Appendix > Stat Blocks > Skills"
+    ],
+    "rules_explanation": "Since there is no indication that she has expertise or proficiency in any skills, then no skill bonuses are applied."
+  },
+  {
+    "question": "A level 8 druid casts Polymorph on themself. What is the highest challenge rating beast they can turn into",
+    "answer": "1",
+    "rules": [
+      "Spell Description > Polymorph",
+      "Player's Handbook > Classes > Druid > Class Features > Wild Shape > Beast Shapes"
+    ],
+    "rules_explanation": "The spell description limits the druid to beast CR equal to their level (or the target of the spell's level, whichever is lower) while Wild Shape limits the CR to 1 at level 8"
+  },
+  {
+    "question": "If a creature is charmed, can they be compelled by a geas spell to kill themself?",
+    "answer": "No",
+    "rules": [
+      "Spell Description > Geas"
+    ],
+    "rules_explanation": "The Geas spell description prevents you from issuing commands that would result in certain death"
+  },
+  {
+    "question": "What happens when a character attuned to a Staff of the Magi has that staff dispelled?",
+    "answer": "The staff continues to function, but the bonus to spell attack rolls is lost.",
+    "rules": [
+      "Magic Items > A-Z > Staff of the Magi"
+    ],
+    "rules_explanation": "The Staff of the Magi has a base effect of granting a +2 bonus to spell attack rolls but that is tied to attunement. Therefore, while the spell works, the character loses access to all features that require attunement, while keeping access to ones that require holding."
+  },
+  {
+    "question": "can you use a pearl of power for your spirit of death?",
+    "answer": "no",
+    "rules": [
+      "Player's Handbook > What is a Spell",
+      "Player's Handbook > Equipment > Magic Items > Pearl of Power"
+    ],
+    "rules_explanation": "The Pearl of Power can only be used to recover expended spell slots, and a conjured spirit does not expend a slot."
+  },
+  {
+    "question": "If I successfully use the Thorn Whip spell to drag a target closer to me, can I then use that target's momentum as a projectile to damage another character?",
+    "answer": "no",
+    "rules": [
+      "Spell Description > Thorn Whip",
+      "Spell Description > Lightning Bolt"
+    ],
+    "rules_explanation": "Nothing in the description of Thorn Whip spell allows for secondary damage or projectile effect"
+  },
+  {
+    "question": "What skill is required for a Strength check related to the origin of stonework?",
+    "answer": "History",
+    "rules": [
+      "Player's Handbook > Using Ability Scores > Skills > Intelligence"
+    ],
+    "rules_explanation": "The skill is related to an Intelligence ability, and the skill is History."
+  },
+  {
+    "question": "What action do you take when rolling initiative?",
+    "answer": "None",
+    "rules": [
+      "Player's Handbook > Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The SRD says that during initiative, every participant makes a Dexterity check to determine their place in the initiative order."
+  },
+  {
+    "question": "A half-orc fighter 1 has 18 Strength, 14 Constitution and 10 Dexterity, and wears no armour. What is their armour class?",
+    "answer": "10",
+    "rules": [
+      "Player's Handbook > Classes > Fighter > Class Features > Unarmoured Defence"
+    ],
+    "rules_explanation": "Unarmoured Defence requires no armour or shield. The rules state that a character's AC is 10 + Dex mod + Con mod"
+  },
+  {
+    "question": "A Rogue casts a spell of 1st-level or higher. Does the spell qualify as an attack?",
+    "answer": "No",
+    "rules": [
+      "Player's Handbook > Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "To qualify for Sneak Attack extra damage, you need to hit a target with a weapon attack. Spells are not weapons."
+  },
+  {
+    "question": "Can two uses of the Silver Barbs spell force disadvantage on the same saving throw",
+    "answer": "No",
+    "rules": [
+      "Spell Description"
+    ],
+    "rules_explanation": "per spell description, on successfull hit roll, the target has disavantage to one saving throw of your choice, before it rolls, and the target is the one to roll 1d4 and substract to check or saving throw."
+  },
+  {
+    "question": "Does See Invisibility allow you to see things on other planes?",
+    "answer": "No",
+    "rules": [
+      "Spell Description > See Invisibility"
+    ],
+    "rules_explanation": "The spell allows you to see Invisible creatures and objects, it gives no mention of being able to pierce through into other planes. It's specific usecase is only being able to see invisible things on the same plane."
+  },
+  {
+    "question": "What is the spell save DC of the suggestion spell when cast by a night hag?",
+    "answer": "Spell Save DC is 14",
+    "rules": [
+      "Monster Manual > Hags > Night Hag > Actions > Innate Spellcasting",
+      "Player's Handbook > Using Ability Scores > Spellcasting Ability > Spell save DC"
+    ],
+    "rules_explanation": "Given that it states their Spell save DC is 14 it would apply to suggestion as well, since it is cast through her innate abilities."
+  },
+  {
+    "question": "What is the range of the message spell?",
+    "answer": "120 feet",
+    "rules": [
+      "Spell Description > Message"
+    ],
+    "rules_explanation": "As per the spell description, the range of the message spell is 120 feet."
+  },
+  {
+    "question": "Is the number of death saving throws for all creatures the same",
+    "answer": "Yes",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "The death saving throw doesn't key off of any creature statistic, and the number required to stabilise or die is always 3"
+  },
+  {
+    "question": "What saving throw bonus is added to a successful Charisma Check?",
+    "answer": "None.",
+    "rules": [
+      "Player's Handbook > Rolling the Dice > Saving Throws"
+    ],
+    "rules_explanation": "The rules for saving throws state that you roll a d20 and add the appopriate *ability modifier*, not a skill bonus."
+  },
+  {
+    "question": "can action surge be used to cast 2 leveled spells in the same turn?",
+    "answer": "No",
+    "rules": [
+      "Player's Handbook > Spellcasting > Bonus Action",
+      "Player's Handbook > Classes > Fighter > Action Surge"
+    ],
+    "rules_explanation": "You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action"
+  },
+  {
+    "question": "What conditions make a character incapable of taking actions",
+    "answer": "paralyzed, stunned, or unconscious",
+    "rules": [
+      "Conditions > Paralyzed",
+      "Conditions > Stunned",
+      "Conditions > Unconscious"
+    ],
+    "rules_explanation": "The stunned, paralyzed, and unconscious conditions state that the creature is incapacitated and unable to move and speak"
+  },
+  {
+    "question": "If a feat lists a minimum stat requirement, can that requirement be met using magic items that increase the stat?",
+    "answer": "Unclear",
+    "rules": [
+      "Magic Items > A-Z > Gauntlets of Ogre Power"
+    ],
+    "rules_explanation": "Some rules only apply if you actually meet the statistic required, the Gauntlets of Ogre Power can increase your skill beyond the maximum, while also counting the minimum required, therefore it's unclear if it applies to everything."
+  }
+]

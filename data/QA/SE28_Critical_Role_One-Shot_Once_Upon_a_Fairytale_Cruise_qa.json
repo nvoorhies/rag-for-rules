@@ -1,0 +1,285 @@
+[
+  {
+    "question": "A character makes a roll, what kind of check is it?",
+    "answer": "A d20 is rolled.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "Many actions in the game require a roll of a d20 to determine the check result, a d20 roll is also used to determine initiative at the start of combat and to perform saving throws."
+  },
+  {
+    "question": "A player character attempts the Electric Slide and rolls an 8. They have an acrobatics modifier of +2. What kind of check is required, and does the character succeed?",
+    "answer": "An acrobatics ability check is required. The total is 10, so they fail.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The gamemaster called for an acrobatics check and the dice roll was not equal or greater to the target number, so the check fails."
+  },
+  {
+    "question": "Peter Pan is attempting to Jump to another ship. Which rule defines the distance they are able to jump?",
+    "answer": "The jumping rules under \"Movement\" apply.",
+    "rules": [
+      "Combat > Movement and Position > Special Types of Movement > Jumping"
+    ],
+    "rules_explanation": "The jumping rule is described under special types of movement in the rules."
+  },
+  {
+    "question": "The Queen of hearts is using her action to Rage, does she get an advantage on her strength based attack roll",
+    "answer": "When you use your bonus action to rage, you get advantage on strength-based attack rolls.",
+    "rules": [
+      "Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The Barbarian Rage class feature provides an advantage on Strength checks and Strength saving throws while raging."
+  },
+  {
+    "question": "The Big Bad Wolf is subject to the Mad Hatter's 'Massage' spell, what does this do?",
+    "answer": "The cantrip reinterpreted as a massage tells him to relax and provides tension relieving in his upper back and lower neck",
+    "rules": [
+      "Section not found: SRD doesn't specify the effects of imaginary cantrips"
+    ],
+    "rules_explanation": "The rules for the cantrip are invented, so they define its effects."
+  },
+  {
+    "question": "Goldilocks casts Shield as a reaction against an attack. How long does the Shield spell last?",
+    "answer": "The Shield spell lasts until the start of the caster's next turn.",
+    "rules": [
+      "Spellcasting > Duration"
+    ],
+    "rules_explanation": "The spell duration is provided in the spell description"
+  },
+  {
+    "question": "The Hatter casts Sleep on a group of Lost Boys. He rolls 5d8 and gets a total of 24.  How do you determine who falls asleep?",
+    "answer": "The caster chooses the creatures to be affected, and creatures are affected in ascending order of their current hit points until the hit points affected equals the number rolled.",
+    "rules": [
+      "Spellcasting > Targets",
+      "Spell Descriptions > Sleep"
+    ],
+    "rules_explanation": "The sleep spell description says that creatures are affected in ascending order of their current hit points until the total is reached, and that the caster chooses who to affect."
+  },
+  {
+    "question": "Peter Pan uses Bardic Inspiration on The Hatter, adding 1d6 to an ability check. How many dice are added to the ability check?",
+    "answer": "1d6 is added to an ability check.",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "The Bardic Inspiration class feature allows the inspired character to add a Bardic Inspiration die to one ability check."
+  },
+  {
+    "question": "Wendy, after transforming into an eagle, attempts to grab one of the lost boys. Is there a specific check to be made?",
+    "answer": "You can make a grapple as an attack.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "Grappling is a specific type of melee attack."
+  },
+  {
+    "question": "The Scarecrow attempts to push a ladder on to another boat. What kind of check is made?",
+    "answer": "A strength check is made to push the ladder.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength Checks"
+    ],
+    "rules_explanation": "A strength check is the appropiate roll for attempting to push an object"
+  },
+  {
+    "question": "Is the monster in H. Michael's non-brain equipped monk's drawing a cutlass?",
+    "answer": "Unknown - the SRD doesn't provide information to identify art styles."
+  },
+  {
+    "question": "The rules use advantage or disadvantage to make a Strength check. How is this used?",
+    "answer": "Roll 2 d20s and use the higher for advantage, lower for disadvantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules describe rolling an additional d20 for either advantage or disadvantage."
+  },
+  {
+    "question": "The player has rolled a 19 to hit, but the GM states the enemy gets +5 to armor class from a shield. Does the player's roll hit?",
+    "answer": "The Armor Class (AC) of the target is added to the roll.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "If the target is wearing armor, you add the Armor Class to the roll."
+  },
+  {
+    "question": "Goldilocks says she is going to use Lucky to reroll a die. Is she able to reroll both or just one die, given that she has an attack with disadvantage?",
+    "answer": "You can reroll one of the dice when you have advantage or disadvantage.",
+    "rules": [
+      "Races > Halfling > Lucky",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The Lucky racial trait of Halflings allows rerolling one die when they have advantage or disadvantage."
+  },
+  {
+    "question": "Peter Pan casts Zone of Truth on The Beast. Peter's Spell DC is 14. The Beast rolls 18. Does the spell work?",
+    "answer": "The spell does not work. The Beast is not affected.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "If the total equals or exceeds the DC, the saving throw is a success—the creature overcomes the challenge at hand."
+  },
+  {
+    "question": "Can Peter Pan add his Jack of All Trades bonus to his roll for Zone of Truth to get the spell to work on The Beast?",
+    "answer": "You cannot add Jack of All Trades to spellcasting ability checks",
+    "rules": [
+      "Bard > Class Features > Jack of All Trades"
+    ],
+    "rules_explanation": "Jack of All Trades applies to ability checks but not spellcasting ability"
+  },
+  {
+    "question": "Goldilocks asks to make a perception check on Beast. Is this allowed, and which ability modifier is used?",
+    "answer": "It is an insight check. Roll a d20 and add your insight to that.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "You roll a d20 and add the relevant ability modifier to try to exceed the target value"
+  },
+  {
+    "question": "H Michael asks how far it is to the edge of the ship. How far can the Scarecrow move?",
+    "answer": "It can be determined using the squares on the crudely drawn map, where each square is 5 feet.",
+    "rules": [
+      "Combat > Movement and Position > Speed"
+    ],
+    "rules_explanation": "This rule states that each creature has a speed that they can move each round, and that amount is the amount they can travel."
+  },
+  {
+    "question": "Amy asks if she can frenzy to get another attack.",
+    "answer": "Yes, frenzy allows a melee attack to be made as a bonus action.",
+    "rules": [
+      "Barbarian > Primal Paths > Path of the Berserker > Frenzy"
+    ],
+    "rules_explanation": "A Barbarian following the Path of the Berserker has the Frenzy ability."
+  },
+  {
+    "question": "Wendy is being yanked off a pole. The GM says she can borrow some dice from Peter Pan. Is this rules as written?",
+    "answer": "No. While the text implies a willingness to accept custom rulings, the rules themselves do not indicate that sharing of dice is an action allowed by RAW.",
+    "rules": [
+      "None"
+    ],
+    "rules_explanation": "This seems to be a ruling that falls outside of existing rules."
+  },
+  {
+    "question": "Goldilocks has been pushed closer to the point of attack and asks if she gets her prepared action. Does she get a prepared action and what can she do?",
+    "answer": "Yes. If you cannot strike or use your action to attack, you can also hold your action, and say, \"I hold my action until they are in range.\"",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "The action is determined at the time of readying, so the only possible action is the readied one."
+  },
+  {
+    "question": "What is a short rest and can you get spells back when you complete it?",
+    "answer": "A short rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds. You do not get your spell slots back unless you are a warlock or have a feature such as the druids natural recovery.",
+    "rules": [
+      "Adventuring > Resting > Short Rest",
+      "Classes > Warlock > Pact Magic",
+      "Druid > Class Features > Circle of the Land > Natural Recovery"
+    ],
+    "rules_explanation": "A short rest is a defined period, and only warlocks get their spell slots back on a short rest without an appropriate ability."
+  },
+  {
+    "question": "Scarecrow is asking for healing as he has taken significant damage. He is a monk, will a short rest heal him?",
+    "answer": "Characters can spend Hit Dice at the end of a short rest.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The rules for short rest state that characters can spend hit dice and regain hitpoints at the end"
+  },
+  {
+    "question": "Peter Pan cast a spell. How many spells can you concentrate on at a time?",
+    "answer": "You can't concentrate on two spells at once.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The concentration rule limits a character to only one spell at a time"
+  },
+  {
+    "question": "What happens if Scarecrow pushes Peter Pan before Peter can probe deeper into The Beast's mind?",
+    "answer": "You only hear snippets of the thought \"I know what I must do now and it will be glorious--\" before the spell ends.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "If concentration is broken the spell immediately ends"
+  },
+  {
+    "question": "What roll does Goldilocks make when she is trying to get some dark chocolate from H Michael's Scarecrow?",
+    "answer": "Sleight of hand check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Dexterity"
+    ],
+    "rules_explanation": "Stealing something from someone's person is a Dexterity (Sleight of Hand) check."
+  },
+  {
+    "question": "How is a bonus applied to a roll for the bard's performance inspiration?",
+    "answer": "An extra d6 dice is added on to your next roll",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "A Bardic Inspiration die is added to the next check, not a proficiency."
+  },
+  {
+    "question": "To reach level 20 in Critical Role, how much XP will the players need?",
+    "answer": "355,000 XP",
+    "rules": [
+      "Beyond 1st Level > Character Advancement"
+    ],
+    "rules_explanation": "The character advancement table defines the XP required for each level."
+  },
+  {
+    "question": "What's the name of our sponsor for this episode, what kind of platforms is it available on and when is it releasing?",
+    "answer": "The sponsor is Star Wars Battlefront II, available on PC, PS4, and XBox One.",
+    "rules": [
+      "This information is not found in the SRD"
+    ],
+    "rules_explanation": "This information is from an advertisement and is not located in the SRD, which only contains game rules."
+  },
+  {
+    "question": "On the Jolly Roger, H Michael's Scarecrow finds a piece of paper covered in Fecal Matter. What is it?",
+    "answer": "They find a note that says \"Dear Captain-\" and then they're missing a piece. Soon we can be together and we can play hooky all night long. Love Beauty.",
+    "rules": [
+      "This information is not found in the SRD"
+    ],
+    "rules_explanation": "This information is not located in the SRD, which only contains game rules."
+  },
+  {
+    "question": "The GM asks you to roll survival. Is there a difference between using wisdom and intelligence when performing the survival roll?",
+    "answer": "You can use survival to try to track their footprints.",
+    "rules": [
+      "Using Ability Scores > Skills > Wisdom"
+    ],
+    "rules_explanation": "Per the player handbook, survival checks rely on the wisdom stat"
+  },
+  {
+    "question": "There's a door in the way of Amy's Queen of Hearts. What does she do?",
+    "answer": "She rages and scepters her way through it using a melee attack",
+    "rules": [
+      "Player Handbook> Barbarian> Class Features> Rage"
+    ],
+    "rules_explanation": "Her rage will give her advantage on the check and she will use strength"
+  },
+  {
+    "question": "The Beast is about to come on board. He is bleeding. What does H Michael's Scarecrow do?",
+    "answer": "He pulls some of my stuffing out of my hip and I apply it to the cut on her head.",
+    "rules": [
+      "No rules apply to this creative descriptive action"
+    ],
+    "rules_explanation": "This does not interact with any game rule."
+  },
+  {
+    "question": "Sam asks, about to change to part 2, can anyone take a short rest? What does this involve",
+    "answer": "It involves 25 minutes of downtime",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "There is a period of downtime where people stop doing anything and recover"
+  },
+  {
+    "question": "Goldilocks and the Scarecrow are in the area of Molly's Entangle. What kind of saving throw should be rolled?",
+    "answer": "They both make a strength saving throw.",
+    "rules": [
+      "Spells > Entangle"
+    ],
+    "rules_explanation": "The spell description details the type of save."
+  }
+]

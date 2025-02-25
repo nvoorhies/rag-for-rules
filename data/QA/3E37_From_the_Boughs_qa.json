@@ -1,0 +1,115 @@
+[
+  {
+    "question": "What skill check should a level 2 Blood Hunter roll with advantage to pick up something new in this space based on scent?",
+    "answer": "The level 2 Blood Hunter should roll a perception check with advantage.",
+    "rules": [
+      "Ability Scores > Ability Checks > Skills",
+      "Combat > Actions > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "The DM requested a perception check because the player was using their sense of smell. The DM also granted advantage on the roll, because it was scent based."
+  },
+  {
+    "question": "A level 7 druid uses Pass Without a Trace, how long do the effects last?",
+    "answer": "Pass Without a Trace lasts an hour.",
+    "rules": [
+      "Spellcasting > Duration"
+    ],
+    "rules_explanation": "Pass Without a Trace has a duration of one hour, which is unmodified here"
+  },
+  {
+    "question": "What kind of check should a level 6 barbarian use with plus 10 as they approach the outer walls of the city when the party has cast pass without trace?",
+    "answer": "The level 6 Barbarian should make a group stealth check with +10.",
+    "rules": [
+      "Ability Scores > Ability Checks > Skills",
+      "Combat > Actions > Hide Action"
+    ],
+    "rules_explanation": "The DM is calling for a stealth check for the party, and specifying the adjustment (+10) from pass without trace."
+  },
+  {
+    "question": "If a Rogue expends a fragment to roll an additional d20 for an ability check, when can they expend the additional die roll?",
+    "answer": "The rogue can expend their fragment to roll an additional d20 and choose which of the d20s to use after they roll.",
+    "rules": [],
+    "rules_explanation": "The game master and players look at the requirements to use a Potion of Possibility. The ruling is to have the player roll and THEN decide if they want to reroll using advantage."
+  },
+  {
+    "question": "If the party has an average greater than 15, what check is the party making?",
+    "answer": "The party is making a group initiative roll.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The DM calls for a group initiative roll, then mentions averaging the results against a DC of 15."
+  },
+  {
+    "question": "When attempting to climb a wall of bone, what type of saving throw would a level 7 renegade make?",
+    "answer": "The level 7 renegade would make a dexterity saving throw.",
+    "rules": [
+      "Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The DM called for a dexterity saving throw because the bones are jagged."
+  },
+  {
+    "question": "Is it possible to have a mind reading spell with no components?",
+    "answer": "Yes. The Detect Thoughts spell when cast by the Succubus/Incubus, is an Innate Spellcasting action that has Verbal components only.",
+    "rules": [
+      "Spellcasting > Components"
+    ],
+    "rules_explanation": "The innate spellcasting ability of a Succubus/Incubus Innate Spellcasting action only lists \"V\" which means Verbal components."
+  },
+  {
+    "question": "a character and the party is in the middle of a stealth check when casting the 'detect thoughts' spell. If there are lots of minds, what DC should a level 7 conjurer roll?",
+    "answer": "The level 7 Conjurer should make a save vs spell save DC which depends on who and what is around for using the \"features...DC\"",
+    "rules": [
+      "Spellcasting > Spell Descriptions"
+    ],
+    "rules_explanation": "The level 7 conjurer is the player. The prompt indicates she used \"features...DC\" which we assume to mean she has a ability which changes the DC based on circumstances"
+  },
+  {
+    "question": "With the ability *Know Your Enemy*, what kind of information can a level 7 character get about another creature?",
+    "answer": "With *Know Your Enemy*, a character can determine the armor class and current hit points relative to theirs.",
+    "rules": [],
+    "rules_explanation": "Know Your Enemy lets the character analyze technique, skill, musculature, and confidence."
+  },
+  {
+    "question": "What kind of check is made when about to be thrown by some dynamite?",
+    "answer": "An acrobatics check is made to avoid damage.",
+    "rules": [
+      "Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "When dynamite impacted, an acrobatics check is called for."
+  },
+  {
+    "question": "Is using Turn Undead an action?",
+    "answer": "Yes, Turn Undead uses an action.",
+    "rules": [
+      "Cleric > Class Features > Channel Divinity: Turn Undead",
+      "Combat > Actions"
+    ],
+    "rules_explanation": "The description of the Channel Divinity: Turn Undead action states it uses an action."
+  },
+  {
+    "question": "Does the sympathetic binding action require a mote?",
+    "answer": "No, the Sympathetic Binding action does not require a mote.",
+    "rules": [],
+    "rules_explanation": "The question references sympathetic binding not requiring some item. In the text some characters have motes and fragments, and the question was to clarify if this action also required one"
+  },
+  {
+    "question": "What is needed for gathering ethereal blood?",
+    "answer": "The gathering of ethereal blood requires an ethereal container.",
+    "rules": [],
+    "rules_explanation": "An ethereal container would be required to hold ethereal blood."
+  },
+  {
+    "question": "Does group initiative use the same bonuses and everything?",
+    "answer": "Yes, group initiative uses the same bonuses and everything.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The speaker asked if our initiative. Same bonuses and everything apply? and the reply was Same bonuses and everything."
+  },
+  {
+    "question": "If a caster attempts to use psychic lance, what type of saving throw does the target have to make?",
+    "answer": "The target makes an intelligence saving throw.",
+    "rules": [],
+    "rules_explanation": "This is based on the properties of the psychic lance spell."
+  }
+]

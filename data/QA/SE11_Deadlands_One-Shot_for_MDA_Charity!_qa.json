@@ -1,0 +1,146 @@
+[
+  {
+    "question": "The cleric, level ?, with Faith, used faith check. The dice rolled a '10'. Did that count as with a raise?",
+    "answer": "The rules for the check specify that the cleric's roll of '10' is with a raise.",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "The Marshal stated that, for Agility Trait checks, a maximum roll allows another roll to be made and added. Are the same rules for this to apply to all checks?",
+    "answer": "Yes, if the roll of a die shows the maximum number on the die, roll the die again and add the result to the total. This process can be repeated if another maximum roll occurs.",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "Does the character, Stinky Jules, a level ?, class ?, race ?, with ability/skill: , get to add something to the d4 fighting roll, and a d6.?",
+    "answer": "For an investigation check roll a d4, then subtract 2, and roll a d6. Add the results together",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "The player wants to know how many power points are available to the cleric, level ?, with Faith. I don't know the rules really at all in this game",
+    "answer": "The cleric has 10 power points available",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "What is the die type for damage with a weapon that has a fighting roll?",
+    "answer": "Whatever your fighting dice is, plus-- Your fighting skill. Roll 2d6 and take the higher of the two.",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "The player has only a d6 for Spirit. After the roll, can the player add a black chip to the roll?",
+    "answer": "No, you reroll, it, you don't add to it. you reroll with the black chip",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "The character, Travis, a level ?, class ?, race ?, with Stealth, was helping the group find the doctor's office, and rolled a four, What is the result.",
+    "answer": "The result of the Street Smarts skill roll was Four.",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "Can the player use another red chip?",
+    "answer": "No, you get the one.",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "Does the character re-roll the trait die or the skill die if a black chip was used?",
+    "answer": "The eight has to be rerolled",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "The character, Travis, is told to roll a spirit check. What is the result?",
+    "answer": "That's a four",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "Does the character re-roll the eight if a black chip is used?",
+    "answer": "Oh, I do reroll the eight if I use a black chip? Oh, thank god. Hey! Eight!",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "If a character is using the Faith skill and the dice don't catch it, does the player drop their accent?",
+    "answer": "Correct.",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "Does the smite bonus only last for a few rounds?",
+    "answer": "No, the smite only lasts for a few rounds.",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "As the bard, level ?, with Luck Stone, is about to make a smarts check, can I add to it with a luck stone.",
+    "answer": "Correct, they can roll and add it to this, as well.",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "If a player rolls all the chips, and they have chips on the table at the end, what happens.",
+    "answer": "If you finish this game and you have chips on your table---",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "When does the player make the Tracking check. It looks like they are not trained",
+    "answer": "You can all make a tracking check, all unskilled I'm pretty sure.",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "The character has no skill in tracking, is it two d4s for skillless",
+    "answer": "No, it's a d4 and a d6, and then minus two.",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  },
+  {
+    "question": "The character has rolled the following - d4 and a d6. Does the character add or take the higher?",
+    "answer": "You take the higher of the two.",
+    "rules": [
+      "Conditions > General"
+    ],
+    "rules_explanation": "This answer is based on the game master's adjudication of the circumstances."
+  }
+]

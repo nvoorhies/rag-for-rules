@@ -1,0 +1,334 @@
+[
+  {
+    "question": "Does the level 3 faun druid with the Mirthful Leap racial trait add a d8 to a standing high jump?",
+    "answer": "Yes, whenever the level 3 faun druid with the Mirthful Leap racial trait makes a high jump, they can roll a d8 and add the number rolled to the number of feet they cover, even when making a standing jump, the extra distance costs movement as normal.",
+    "rules": [
+      "Races Racial Traits",
+      "Races Racial Traits > Size",
+      "Druid",
+      "Druid > Druid Features"
+    ],
+    "rules_explanation": "The question references the Mirthful Leap racial trait. This ability adds to the total distance covered by a jump, including a standing jump. Therefore, the player will get the d8 bonus to the jump."
+  },
+  {
+    "question": "Can the level 5 air genasi bard cast Levitate to drag an ally behind a cart?",
+    "answer": "No, the spell description for Levitate specifies that the spell doesn't preserve momentum.",
+    "rules": [
+      "Bard",
+      "Bard > Bard Features"
+    ],
+    "rules_explanation": "The game master clarified that the character will not be dragged behind the cart if Levitated as that is not how the spell functions, and that the characters momentum will be lost. If the character cannot be tethered to the cart then the attempt will fail."
+  },
+  {
+    "question": "Can the level 11 air genasi bard who is being grappled by a creature cast Thunderwave?",
+    "answer": "Yes, a creature is able to cast somatic spells when grappled if they have one free hand.",
+    "rules": [
+      "Bard",
+      "Bard > Bard Features"
+    ],
+    "rules_explanation": "The question clarifies the character needs to be able to perform the somatic action. The assumption can be made here as they're holding the scimitar in one hand and being grappled by the other hand. Provided the free hand is not also restrained, a somatic action can be performed."
+  },
+  {
+    "question": "When the level 5 dwarf sorcerer takes 4 piercing damage, must he make a concentration check to maintain Bless?",
+    "answer": "Yes, whenever a character takes damage while concentrating on a spell, they must make a Constitution saving throw to maintain concentration. The DC is equal to 10 or half the damage taken, whichever is higher.",
+    "rules": [
+      "Sorcerer",
+      "Sorcerer > Sorcerer Features",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "Bless requires concentration. Taking damage requires a concentration check be made."
+  },
+  {
+    "question": "If the dark figure, a 19th level character, with fire for hair takes an action, which was held, at the end of a round can she take a bonus action?",
+    "answer": "Yes, the 19th level character, can take a bonus action on their turn, even if she held her action until the end of the round.",
+    "rules": [
+      "Combat > Your Turn > Bonus Action",
+      "Monk> Ki > Flurry of Blows"
+    ],
+    "rules_explanation": "There is no rule preventing a character from taking a bonus action at any point in their turn as long as they have not taken it already. Using a held action does not affect their ability to use a bonus action."
+  },
+  {
+    "question": "When the paladin and Orym the fighter want to do something in combat where two characters and not one have to do it. Who's turn is it? or they can use the hold action and that would become our turn at the end?",
+    "answer": "Each player can use their own reaction, if applicable, on other character's turns, or they can hold their action until a specific event happens.",
+    "rules": [
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "Orym and the new paladin each have their own turn to act. Using Orym's reaction on the dark faun's turn doesn't mean they are ceding their turn later in the round, but rather declaring that they're waiting for the specific circumstance declared to them at the time of choosing to hold their action for an event"
+  },
+  {
+    "question": "Can the level 3 faun druid use its snake heads to attack the driftwood scorpion behind her?",
+    "answer": "The 3rd level faun druid, can have one of her snake heads from her staff attack a drift scorpion behind her, if it is within reach of the weapon.",
+    "rules": [
+      "Druid",
+      "Druid > Druid Features"
+    ],
+    "rules_explanation": "There is no mechanical issue with the move, provided the faun's staff can reach"
+  },
+  {
+    "question": "Can Fy'ra Rai, a level 19 character, use both an action and a bonus action on her turn?",
+    "answer": "Yes, as long as she is able to take an action, she can take a bonus action if something in the game allows her to take one.",
+    "rules": [
+      "Combat > Your Turn > Bonus Action"
+    ],
+    "rules_explanation": "There is no rule preventing a character from using a bonus action on their turn as long as they have not taken it already and a feature or spell allows them to take an action."
+  },
+  {
+    "question": "If a 2nd-level hexblade warlock has an attack roll of 11 plus the Bless spell (1d4), what would the total be?",
+    "answer": "The total is 11 + 1d4, where the d4 is rolled to determine the numerical bonus from Bless",
+    "rules": [
+      "Combat > Making An Attack"
+    ],
+    "rules_explanation": "Character has their normal attack bonuses applied. Then the result of a d4 roll is added from Bless."
+  },
+  {
+    "question": "If a character with the Protection fighting style has a negative dexterity modifier, can they still use their reaction to impose disadvantage on an attack roll?",
+    "answer": "Yes. The Protection fighting style imposes disadvantage on the attack roll when a creature attacks a target other than you that is within 5 feet of you.",
+    "rules": [
+      "Fighter > Fighting Style > Protection"
+    ],
+    "rules_explanation": "The description of Protection fighting style does not mention a dexterity modifier."
+  },
+  {
+    "question": "Does the level 3 faun druid use her wisdom modifier when checking to see if Stonky's Ring takes the crown off of the evil faun's head?",
+    "answer": "If the object is worn or carried by a creature, you have to make an ability check with your spell casting ability contested by that creature's strength.",
+    "rules": [
+      "Spellcasting",
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "Yes, the ring requires a spellcasting ability check, which is Wisdom for a Druid."
+  },
+  {
+    "question": "If a level 3 faun druid has been granted advantage on their saving throw, against the new faun's burning hands, because of their fey ancestry, and Matt gave me a d4 due to the bless spell can she add that too?",
+    "answer": "No. Bless only applies to attack rolls and saving throws.",
+    "rules": [
+      "Spellcasting",
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The wording for bless says it affects attack rolls and saving throws, but the act of taking the crown off is an ability check."
+  },
+  {
+    "question": "Can Fy'ra Rai, level 19 character, feint back to a scorpion behind her, and also maintain concentration on the dark faun at the same time?",
+    "answer": "Yes. It is possible to attack the scorpion behind with a held action and maintain concentration",
+    "rules": [
+      "Combat > Actions",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The paladin/monk can hold their action to attack and maintaining concentration on a spell does not prevent holding the action."
+  },
+  {
+    "question": "If Orym stabs the scorpion behind him with a 12 can he still do something else?",
+    "answer": "No, that attack roll is a reaction and he is unable to do anything else.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "Because Orym held his action until a certain event occurred, and that event has now happened, the moment has passed. Using a held action is a reaction."
+  },
+  {
+    "question": "If the level 5 air genasi bard is grappled, can they still cast somatic spells?",
+    "answer": "Yes, the level 5 air genasi bard, can cast a somatic spell if he has one free hand.",
+    "rules": [
+      "Spellcasting",
+      "Spellcasting > Components"
+    ],
+    "rules_explanation": "Somatic components require a free hand but being grappled does not by default stop a spellcaster from having a free hand."
+  },
+  {
+    "question": "When making the ability check granted by Stonky's Ring and the hostile faun has to avoid it what ability check is being made?",
+    "answer": "If the object is worn or carried by a creature, you have to make an ability check with your spell casting ability contested by that creature's strength.",
+    "rules": [
+      "Spellcasting",
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The game master did not define how that ring works, but it is in line with this ability. When the opposing side is resisting a character or object, they must use their strength."
+  },
+  {
+    "question": "If the level 5 dwarf sorcerer took 4 points of piercing damage what check does he make?",
+    "answer": "They must make a DC 10 Constitution saving throw or lose concentration on Bless.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "Being injured while concentrating invokes a saving throw"
+  },
+  {
+    "question": "Can a protector, Fy'ra Rai, stop the damage of seven with fire from burning hands.",
+    "answer": "Damage from burning hands is halved on a successful Dexterity saving throw. In addition, if the damage type is one the character is resistant to, the damage is halved again.",
+    "rules": [
+      "Damage and Healing > Damage Resistance and Vulnerability",
+      "Saving Throws"
+    ],
+    "rules_explanation": "The new character, has plenty of fire resistance. which means all of you are going to take, oh shit, seven points of fire damage. I halved it already. It was 14 points."
+  },
+  {
+    "question": "At level 3 how many spells does Fearne a Circle of the Land Druid have?",
+    "answer": "As a 3rd-level Druid with a circle of the land, they prepare the list of druid spells that are available for them to cast. When doing so, they choose a number of druid spells equal to their Wisdom modifier + their druid level (minimum of one spell). In addition, they always have barkskin, and spider climb prepared and it doesn't count against the number of spells they can prepare each day. Circle spells don't count against the total number of spells you can prepare.",
+    "rules": [
+      "Spellcasting > Spells Known and Prepared",
+      "Druid> Druid Circle"
+    ],
+    "rules_explanation": "Druids choose the number of spells to prepare, and some spells are always prepared in addition to the number of spells they prepare."
+  },
+  {
+    "question": "When two characters each make initiative checks, and one has a dex of 18 and rolls a natural 3 for a total of 21, and the second has a dex of 14 and rolls a 7 for a total of 21, who goes first?",
+    "answer": "If a tie occurs, the GM decides the order among tied GM-controlled creatures, and the players decide the order among their tied characters. The GM can decide the order if the tie is between a monster and a player character.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The game master makes a choice since the characters are tied at 21."
+  },
+  {
+    "question": "Can a protector character, a 19th level, and a good person in their mind make a difference in a bad situation?",
+    "answer": "While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the *wish* spell from it.",
+    "rules": [
+      "Magic Items > Ring of Three Wishes",
+      "Magic Items > Wondrous item"
+    ],
+    "rules_explanation": "The GM is allowed to offer other alternatives. The player can choose to spend all their resources to attempt to do something beyond what the rules offer."
+  },
+  {
+    "question": "How many points of healing is the level 3 Druid's new friend going to give me? You can take back seven points, is the result.",
+    "answer": "They use Healing Word, its a 1st-level evocation spell that regains hit points equal to 1d4 + your spellcasting ability modifier.",
+    "rules": [
+      "Class Features >Spellcasting",
+      "Spells List"
+    ],
+    "rules_explanation": "The woman uses Healing Word on you that adds 1d4 of healing."
+  },
+  {
+    "question": "If a storm giant decides to leave an area and is carrying a weapon do they need to say what their action is before the action happens, can they take their weapon with them?",
+    "answer": "You can interact with one object or feature of the environment for free, during either your move or your action. For example, you could open a door during your move as you stride toward a foe, or you could draw your weapon as part of the same action you use to attack.",
+    "rules": [
+      "Combat > Your Turn > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "The woman is allowed to leave the area because that is what the spell is designed for, to keep things out but not in. Therefore, it can be decided that she is allowed to have the weapon with her since that can be a free action with the move."
+  },
+  {
+    "question": "If a 2nd level character takes a long rest what is going to have and happen to his Hit Dice?",
+    "answer": "The character can spend one or more Hit Dice at the end of a short rest, up to the character's maximum number of Hit Dice, which is equal to the character's level. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier to it. The character regains hit points equal to the total. When taking a long rest, the character regains spent Hit Dice, up to a number of dice equal to half of the character's total number of them (minimum of one die).",
+    "rules": [
+      "Adventuring > Resting > Short Rest",
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "At the end of a short rest, a character can spend one or more hit dice to heal themselves, and then they are healed by half of their remaining hit dice, from any used during the short rest, after a long rest."
+  },
+  {
+    "question": "The elven woman is just locked, staring at Orym. Opal. I need you to make a wisdom saving throw--Is this a charm effect?",
+    "answer": "No, the wisdom saving throw is to resist whatever magical effect Myr'atta is attempting to apply. If Opal fails that saving throw, she will be charmed, after this successful use, for 24 hours.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "The player has to make a wisdom saving throw against the person that did that act. If the saving throw is successful, whatever the effects of that move will be negated. This is not an additional magical influence but a saving throw against the previous magical influence."
+  },
+  {
+    "question": "If a level one dragonborn fighter has taken a long rest and is now level 3, is the one additional HP gained at level 1 now +3?",
+    "answer": "Yes, whenever your Constitution modifier increases, your hit point maximum increases by 1 for each level you have attained.",
+    "rules": [
+      "Beyond 1st Level > Hit Points"
+    ],
+    "rules_explanation": "The text states clearly that if the modifier changes it affects all previous levels. In other words, the effect is retroactive."
+  },
+  {
+    "question": "What level spells can the new character Fy'ra Rai innately cast?",
+    "answer": "There is no reference to the character's class or innate spellcasting in the available text. So no determination can be made.",
+    "rules": [],
+    "rules_explanation": "The introduction of the character is only included, which does not include her spells or abilities."
+  },
+  {
+    "question": "Does Fearne have advantage on the 22 Persuasion skill check at the end to make the elf tell her grandmother that she is okay?",
+    "answer": "The check is on her turn. Looking back at the interaction with the new faun there are no conditions that would give her advantage on the roll, because she's making an effort to get something from her. Since Fearne, has the condition she doesn't have advantage. What are the specific roles and any of the conditions that would help with adding to that check to make it work.",
+    "rules": [],
+    "rules_explanation": "The original explanation from the GM, is that there are no conditions that would give advantage to the character. Therefore she makes a persuasion skill check with a normal roll and modifier."
+  },
+  {
+    "question": "If a dragonborn has multiattack with a bite and a claw, and it has action surge, can it do the multiattack again?",
+    "answer": "Yes, on your turn, you can take one additional action on top of your regular action and a possible bonus action after using Action Surge",
+    "rules": [
+      "Fighter > Class Features > Action Surge"
+    ],
+    "rules_explanation": "The monster can take action surge and will get another action. A multiattack is also an action, and there are no restrictions around using it as the extra action in action surge."
+  },
+  {
+    "question": "What is the area of effect for thunderwave",
+    "answer": "The spell description for Thunderwave states that it affects everyone within a 15-foot cube originating from you.",
+    "rules": [
+      "Spells List > Thunderwave"
+    ],
+    "rules_explanation": "Rules information regarding spells is usually found within the spell description itself."
+  },
+  {
+    "question": "As a level 5 dwarf sorcerer with the Bless spell cast on Fearne, Dorian, and Fy'ra Rai, and he casts burning hands, what are the parameters for who can be hit with the flame?",
+    "answer": "The burning hands spell affects a 15-foot cone emanating from you. Any target within that cone must make a Dexterity saving throw to avoid taking full damage.",
+    "rules": [
+      "Sorcerer > Sorcerer Features > Spellcasting",
+      "Spells List > Burning Hands"
+    ],
+    "rules_explanation": "The question concerns spell area. A cone is an area of effect shape, not a targetted number of creatures. Being blessed doesn't impact whether or not you are in the cone."
+  },
+  {
+    "question": "How many 1st level spells can the level 1 air genasi bard, Dorian Storm have?",
+    "answer": "At 1st level, a bard knows 4 spells and has 2 spell slots to cast them.",
+    "rules": [
+      "Bard"
+    ],
+    "rules_explanation": "This information is contained in the Bard spellcasting table."
+  },
+  {
+    "question": "The party is being summoned to meet someone. How many players does Anjali get to take with her?",
+    "answer": "She cannot. It is a singular word and is a trap. One needs to be ready for this type of question.",
+    "rules": [
+      "Spells List > Word of Recall"
+    ],
+    "rules_explanation": "A key rule of the spell is that only those who know the password can be saved"
+  },
+  {
+    "question": "What does 'They are not dexterous' mean?",
+    "answer": "It's an adjective used to describe someone who is not skilled or graceful in their movements, especially in the use of their hands. So there will be a low Dex saving throw",
+    "rules": [
+      "Using Ability Scores > Dexterity"
+    ],
+    "rules_explanation": "A character's dexterity bonus or proficiency bonus is added to all dexterity saving throws."
+  },
+  {
+    "question": "What kind of check can be used to examine the thoughts of a character from Myr'atta's perspective?",
+    "answer": "It is an insight check.",
+    "rules": [
+      "Using Ability Scores > Wisdom Checks > Insight"
+    ],
+    "rules_explanation": "Insight means that you can get a sense of what someone is feeling. But not necessarily their memories, which would be investigation, or how familiar they are with the subject, which would be history or arcana, or how they feel which would be something like diplomacy or deception. But insight specifically gives you some kind of information from their mental state."
+  },
+  {
+    "question": "Can you get the spell description on Stonky's Ring as the DM?",
+    "answer": "There is no information about Stonky's Ring in the available text.",
+    "rules": [],
+    "rules_explanation": "The Ring and the powers it possesses are not specified within the text. The DM is not required to have knowledge of this."
+  },
+  {
+    "question": "Does the text say that Double O's Double Os in the front?",
+    "answer": "Yes",
+    "rules": [],
+    "rules_explanation": "No rules. The game master is speaking directly to the players."
+  },
+  {
+    "question": "If the DM says 'Make an arcana check for me' is it something's like arcana as in the skill, but then like what is the difference between what would the other one be, or what situation will that be",
+    "answer": "An Arcana skill check means that you are going to have to do a check using your intelligence, because arcana is one of those key words when dealing with the intelligence and its skills.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "This means that you will have to use the Arcana from your intelligence to understand the type of saving throw or effect is taking place."
+  },
+  {
+    "question": "In what situation would you be making a Wisdom (Religion) check?",
+    "answer": "An Intelligence (Religion) check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.",
+    "rules": [
+      "Using Ability Scores > Intelligence Checks > Religion"
+    ],
+    "rules_explanation": "An intelligence check would be applicable in this situation"
+  },
+  {
+    "question": "Does the text say what my caster stat is for paladin for spells?",
+    "answer": "Your Charisma modifier is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a paladin spell refers to your spellcasting ability.",
+    "rules": [
+      "Paladin > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "Yes, as you can see, for the paladin it is all in Charisma and you use it in a number of situations."
+  }
+]

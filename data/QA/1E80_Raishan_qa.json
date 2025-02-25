@@ -1,0 +1,205 @@
+[
+  {
+    "question": "What dexterity saving throw DC must the level 8, race and class of player character with Evasion make when triggered to take half damage from a stream of lava erupting in a 20 foot radius?",
+    "answer": "The SRD contains no rules about the specific values of saving throw DCs for eruptions. It is determined by the Thordak's lair action.",
+    "rules": [
+      "Introduction > The Three Pillars of Adventure > Combat",
+      "Actions in Combat > Damage and Healing > Saving Throws"
+    ],
+    "rules_explanation": "The DC for a saving throw is determined by the effect that causes it, not the character making the save.  The DC would be found in the desription of Thordak's lair action and is not determined from the information present about the character."
+  },
+  {
+    "question": "Can the level 8 rogue, race of player character with Evasion use Evasion to take no damage from fire damage when making a dexterity saving throw?",
+    "answer": "Yes, according to the rule 'Classes > Rogue > Evasion': At 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a *lightning bolt* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.",
+    "rules": [
+      "Classes > Rogue > Evasion",
+      "Actions in Combat > Damage and Healing > Saving Throws"
+    ],
+    "rules_explanation": "The rules for the rogue's Evasion class feature indicate that it allows them to take no damage from an effect that allows a Dexterity saving throw for half damage on a success."
+  },
+  {
+    "question": "Can the level 8 rogue, race of player character with Evasion who made their dexterity saving throw use their reaction to halve the fire damage instead?",
+    "answer": "No, according to the rule 'Classes > Rogue > Evasion': At 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a *lightning bolt* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.",
+    "rules": [
+      "Classes > Rogue > Evasion",
+      "Actions in Combat > Damage and Healing > Saving Throws"
+    ],
+    "rules_explanation": "The wording of the rogue's Evasion class feature replaces taking half damage with taking no damage when the saving throw is successful."
+  },
+  {
+    "question": "Is it possible for a level 8 rogue, race of player character with Evasion to take a reaction to use Uncanny Dodge after already taking a dexterity save for half damage?",
+    "answer": "Yes.  They must choose to use Uncanny Dodge when the attack hits. According to the rule \"Classes > Rogue > Uncanny Dodge\": Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.",
+    "rules": [
+      "Classes > Rogue > Uncanny Dodge",
+      "Actions in Combat > Reactions"
+    ],
+    "rules_explanation": "The rogue class feature Uncanny Dodge requires the rogue to use their reaction when an attacker hits them with an attack they can see, this is not limited by any earlier dice rolling."
+  },
+  {
+    "question": "Can the level 4 bard, race of player character use their action to dash?",
+    "answer": "Yes, according to the rule \"Actions in Combat > Dash\": When you take the Dash action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you dash.",
+    "rules": [
+      "Actions in Combat > Dash",
+      "Movement and Position > Speed"
+    ],
+    "rules_explanation": "The SRD details the Dash action which any creature can perform in combat."
+  },
+  {
+    "question": "Does the level 4 bard, race of player character have the ability to bonus action dash in combat if it's not granted by their subclass or any feats or spells?",
+    "answer": "No, according to the rule \"Actions in Combat > Bonus Actions\": You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take.",
+    "rules": [
+      "Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "The SRD explicitly restricts the availability of bonus actions to explicitly allowed game features."
+  },
+  {
+    "question": "Can the level 12 fighter, race of player character who is enlarged and has a reach of 5 ft fire a ranged weapon at an egg in the space occupied by a large Grog? How is this determined? Is there any disadvantage on the attack roll?",
+    "answer": "Whether an attack can be made depends on cover according to the rule \"Making an Attack > A Clear Path to the Target\": To target something, you must have a clear path to it, so it can't be behind total cover.",
+    "rules": [
+      "Making an Attack > A Clear Path to the Target",
+      "Making an Attack > Ranged Attacks > Range",
+      "The Environment > Cover"
+    ],
+    "rules_explanation": "The rules state that a character must have a clear path to a target and can't attack a target that has total cover."
+  },
+  {
+    "question": "If the level 12 fighter, race of player character uses Extra Attack, and makes a shot with Animus and takes 2 points of psychic damage, does this interrupt their attacks?",
+    "answer": "No, according to the rule \"Combat > Your Turn\": On your turn, you can move a distance up to your speed and take one action.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "The SRD indicates a character can take an action to attack and that there are ways to have more attacks but none indicate damage stops an attack"
+  },
+  {
+    "question": "What type of saving throw should a flying level 4 bard, race of player character make from falling pieces of rock?",
+    "answer": "According to the rule \"The Environment > Falling\": At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.",
+    "rules": [
+      "The Environment > Falling"
+    ],
+    "rules_explanation": "The rules do not specify any saving throw for falling, you take damage but may have a saving throw to avoid taking damage"
+  },
+  {
+    "question": "does wearing a mask give advantage on a constitution saving throw against poison gas",
+    "answer": "The SRD contains no information on any such advantage. This would be a DM adjudication.",
+    "rules": [],
+    "rules_explanation": "There is not enough information to answer this question. The ruling is DM dependant."
+  },
+  {
+    "question": "A poisoned level 8, race, and class of player character is at the top of initiative order and wishes to move. Is the character able to move or act?",
+    "answer": "It depends on what the effect is that poisoned them.",
+    "rules": [
+      "Appendix PH-A: Conditions > Poisoned"
+    ],
+    "rules_explanation": "As a poisoned character, a character has disadvantage on attack rolls and ability checks. It doesn't prevent moving or taking actions, but the poison effect itself may be part of an ability or spell that prevents actions or movement."
+  },
+  {
+    "question": "What is the DC required to dispel the beacon of hope spell? From dispel magic in the Spellcasting section of the bard?",
+    "answer": "The rule \"Spells > Dispel Magic\": Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends.",
+    "rules": [
+      "Spells > Dispel Magic"
+    ],
+    "rules_explanation": "The SRD defines a DC as 10 + the spell's level."
+  },
+  {
+    "question": "Does the Beacon of Hope spell grant advantage on an ability check?",
+    "answer": "No, according to the rule \"Spell Descriptions > Beacon of Hope\": That gives you advantage on Wisdom saving throws, death saving throws, regains max number of hit points for healing.",
+    "rules": [
+      "Spell Descriptions > Beacon of Hope"
+    ],
+    "rules_explanation": "The Beacon of Hope spell only affects wisdom saving throws and death saving throws, not ability checks"
+  },
+  {
+    "question": "what effect does the spell Abi-Dalzim's Horrid Wilting have",
+    "answer": "The SRD does not contain the spell Abi-Dalzim's Horrid Wilting",
+    "rules": [],
+    "rules_explanation": "The SRD is a limited document and only contains a subset of the spells for fifth edition DnD."
+  },
+  {
+    "question": "What saving throw do you use to resist Fireball? Is there an associated Damage resistance and Immunities to the spell?",
+    "answer": "According to the rule \"Spell Descriptions > Fireball\": Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.",
+    "rules": [
+      "Spell Descriptions > Fireball"
+    ],
+    "rules_explanation": "The src details which save to make and whether there are damage immunities and resists to certain spells."
+  },
+  {
+    "question": "The level 17, class of player character has an ability that reduces their next bludgeoning damage by half due to Uncanny Dodge, and receives two tail attacks, can they reduce both bludgeoning attacks?",
+    "answer": "No, according to the rule \"Classes > Rogue > Uncanny Dodge\": Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.",
+    "rules": [
+      "Classes > Rogue > Uncanny Dodge",
+      "Actions in Combat > Reactions"
+    ],
+    "rules_explanation": "The rogue class feature Uncanny Dodge requires the rogue to use their reaction when an attacker hits them with an attack they can see and they only have one reaction in a round."
+  },
+  {
+    "question": "Can the party stack the effects of multiple Healing Word spells on each other?",
+    "answer": "No, according to the rule \"Spellcasting > Combining Magical Effects\": The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap.",
+    "rules": [
+      "Spellcasting > Combining Magical Effects"
+    ],
+    "rules_explanation": "This rule explicitly covers how spells combine and makes it clear that spells of the same type do not stack."
+  },
+  {
+    "question": "If a character is hit by a tremor, and must make a Dexterity saving throw, what happens if they are proficient in dexterity saving throws but are hanging from a wall?",
+    "answer": "If the level, race, and class of player character is proficient in the Dexterity saving throws they can add their proficiency bonus to the roll. There are no additional adjustments in the rules.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The rules state that if a character is proficient in a saving throw they add their proficiency bonus. They can also have other modifiers or advantage/disadvantage but the rules do not have any specific ruling on what happens while hanging from a wall."
+  },
+  {
+    "question": "If a transparent Raishan takes the Hide action, what is the result if she is within a Call Lightning storm cloud?",
+    "answer": "The text does not address how being transparent affects hiding. The success of the Hide action is determined by an opposed check, as described in the rule \"Dexterity > Hiding\": When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.",
+    "rules": [
+      "Dexterity > Hiding"
+    ],
+    "rules_explanation": "The hide action requires a check contested by other participant's perception. Whether the storm cloud impacts this check is up to the DM"
+  },
+  {
+    "question": "Can the bard level, race of player character that just cast Call the Dragon song be counterspelled?",
+    "answer": "Yes, it is spell of level N, and thus can be counterspelled.",
+    "rules": [
+      "Spellcasting > Counterspell"
+    ],
+    "rules_explanation": "counterspell says if you see a creature within 60 feet of you casting a spell, you can attempt to interrupt the creature in the process of casting a spell. There are no restrictions on how you can interrupt a spell."
+  },
+  {
+    "question": "If the level 17, class of player character casts a bonus action level 2 Healing Word spell and is also making an attack action, what will the result be?",
+    "answer": "The character may cast the bonus action level 2 healing word spell and make the attack. It must be a cantrip with casting time of 1 action.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "According to the rules, a spellcaster may cast a bonus action spell and cast another spell, but the other spell must be a cantrip with a casting time of 1 action."
+  },
+  {
+    "question": "Can you make ranged weapon attacks with disadvantage while prone?",
+    "answer": "Yes. According to the rule \"The Environment > Being Prone\": A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.\n\n* The creature has disadvantage on attack rolls.\n\n* An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.",
+    "rules": [
+      "The Environment > Being Prone"
+    ],
+    "rules_explanation": "The rules specify that being prone results in a disadvantage on attack rolls.  No distinction is made for melee vs ranged attacks."
+  },
+  {
+    "question": "Does a level 16 sorcerer, race of player character automatically regain lost hit points, and does that healing count as 'healing'? Does being in a hot environment affect it?",
+    "answer": "The question is unanswerable. The rules do not contain a 16th level ability that results in automatic healing, only temporary hit points, and the hot environment is unmentioned.",
+    "rules": [],
+    "rules_explanation": "There is no way to determine from the text what the effects of the warmth would be. There is also no class information about what to do at level 16."
+  },
+  {
+    "question": "Can a level 15 monk, race of player character use a reaction to cast Uncanny Dodge if they are falling?",
+    "answer": "No, according to the rule \"Classes > Rogue > Uncanny Dodge\": Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.",
+    "rules": [
+      "Classes > Rogue > Uncanny Dodge"
+    ],
+    "rules_explanation": "Uncanny Dodge is a rogue ability not available to monks. The Monk has the Slow Fall ability which they can take as a reaction to reduce falling damage."
+  },
+  {
+    "question": "Does Grog get any additional movement or am I just here now from running into a room",
+    "answer": "The answer depends on how the turn is calculated. The rule Movement and Position > Your Turn states that each turn, you can move a distance up to your speed, and decide whether to move first or take your action first.",
+    "rules": [
+      "Movement and Position > Speed",
+      "Combat > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "There is no information about speed used on prior turns, so whether or not grog can move more depends on how many feet he can travel in his current turn."
+  }
+]

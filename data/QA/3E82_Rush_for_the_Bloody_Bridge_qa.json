@@ -1,0 +1,648 @@
+[
+  {
+    "question": "A **CR 2 Monster** makes an arcana check and rolls a 16 adjusted by proficiency bonus +1, for a total of 17. Does it know the function of the arcane device?",
+    "answer": "Based on that roll, it is able to determine it is some sort of defense.",
+    "rules": [
+      "Ability Checks > Difficulty Classes"
+    ],
+    "rules_explanation": "Without knowing the actual DC, it isn't clear whether this check is successful, but the description implies that based on the result of their check they are able to determine the object is a defense but little else."
+  },
+  {
+    "question": "Green Bean analogizes with Red Rocket. What's Green Bean in that analogy?",
+    "answer": "The question cannot be answered from the information given, the analogy is unclear.",
+    "rules": [],
+    "rules_explanation": "This is a non-rules based question and therefore is unanswerable."
+  },
+  {
+    "question": "A character with Invisibility wants to make a stealth check with advantage and gets a +10 modifier, what die is rolled, and what are the bonuses?",
+    "answer": "2d20 + 10",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "Conditions > Invisible"
+    ],
+    "rules_explanation": "A character with the invisible condition has advantage on the roll and the appropriate modifier is added to the roll."
+  },
+  {
+    "question": "A player character with proficiency makes a stealth check and rolls a 29. What's the relevant total?",
+    "answer": "29 + proficiency bonus + Dexterity modifier",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "You add the dice result, the appropriate ability modifier and proficiency bonus if proficient"
+  },
+  {
+    "question": "Can a level 1 bard cast Guidance on an intimidation check?",
+    "answer": "Yes, guidance can be used on an intimidation check.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "The spell guidance can be cast on any ability check, and intimidation checks are a subset of those checks."
+  },
+  {
+    "question": "If you cast Fly on a level 5 barbarian and 1d6 extra damage is deal on every roll, what type of action is that?",
+    "answer": "There is not enough information to answer the question. It is not clear what is responsible for the extra 1d6 damage.",
+    "rules": [],
+    "rules_explanation": "There is not enough information to answer the question; it's unclear whether casting Fly results in extra damage. The kind of action depends on the method used to cause extra damage."
+  },
+  {
+    "question": "Is the blood curse a strength or constitution saving throw?",
+    "answer": "It's a strength saving throw.",
+    "rules": [],
+    "rules_explanation": "The information to answer this question is included in the context surrounding the mention of blood curses."
+  },
+  {
+    "question": "How many strikes are needed to take out a Juggernaut?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "There is no 'Juggernaut' entry in the SRD, this is the name of a monster."
+  },
+  {
+    "question": "Can you use a bonus action to give someone a Bonded Blessing?",
+    "answer": "Yes, you can use a bonus action to give someone a Bonded Blessing.",
+    "rules": [],
+    "rules_explanation": "The text says: 'As a bonus action, I'm going to give you a Bonded Blessing.'"
+  },
+  {
+    "question": "A wizard of level 14 casts the Telekinesis spell, does that character require physical contact to use it?",
+    "answer": "No, the Telekinesis spell does not require physical contact to use it.",
+    "rules": [
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "The range for the telekinesis spell is 60 feet, with no requirement for physical contact."
+  },
+  {
+    "question": "If a DM specifies an additional adjustment to an ability check, is advantage still needed to succeed the check?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "The exact circumstances for this case is not specified in the document."
+  },
+  {
+    "question": "Can you use your action to grab the column with the ball and topple it over in the cavern?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "The rules for what can be done using the 'Use an Object' action are vague, this means it is up to the DM's description to determine if the action is viable."
+  },
+  {
+    "question": "If an object is too heavy to lift, can a telekenesis spell shove it?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "The specific circumstances for what can be done with telekinesis are not listed."
+  },
+  {
+    "question": "After a long rest, can a 20th level cleric automatically be successful on a Divine Intervention roll?",
+    "answer": "Yes, at 20th level a cleric's call for intervention succeeds automatically.",
+    "rules": [
+      "Cleric > Class Features > Divine Intervention"
+    ],
+    "rules_explanation": "The Divine Intervention feature states that at 20th level, the cleric's call for intervention succeeds automatically."
+  },
+  {
+    "question": "If a creature uses the seedline action to pull away an action, does the spell still continue?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "There is no 'seedline' entry in the SRD, it's unclear what action is being used."
+  },
+  {
+    "question": "What is the athletics check if a creature has to do a shoving?",
+    "answer": "It's your athletics versus his athletics or acrobatics.",
+    "rules": [
+      "Combat > Making An Attack > Melee Attacks > Shoving a Creature"
+    ],
+    "rules_explanation": "This answer matches the SRD text"
+  },
+  {
+    "question": "What does roam mean?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "The question is about an inferred game term that isn't defined, it therefore cannot be answered using only the srd."
+  },
+  {
+    "question": "What is DC for animal messenger when trying to find something out from someone with little knowledge",
+    "answer": "The ability does not involve a DC.",
+    "rules": [
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "The animal messenger spell transports a message. It has no method for extracting information from targets"
+  },
+  {
+    "question": "Is there a way to regain spell slots?",
+    "answer": "The answer depends on class. Sorcerers gain this at 2nd level with Font of Magic. The 20th level Sorcerous Restoration also allows spell point restoration. Clerics and Wizards gain this at level 1 with Arcane Recovery",
+    "rules": [
+      "Bard > Class Features > Spellcasting",
+      "Cleric > Class Features > Spellcasting",
+      "Sorcerer > Class Features > Font of Magic",
+      "Sorcerer > Class Features > Sorcerous Restoration",
+      "Wizard > Class Features > Spellcasting",
+      "Wizard > Class Features > Arcane Recovery"
+    ],
+    "rules_explanation": "Both Sorcerers, Clerics, and Wizards get class features that allow for spell slot restoration. The methods and level acquired differs however."
+  },
+  {
+    "question": "If using a 1st level healing word and one has multi class feature do they get extra points?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "A multi class feature requires a reference, it is otherwise too vague to answer properly."
+  },
+  {
+    "question": "What school of magic is Heroes Feast?",
+    "answer": "conjuration",
+    "rules": [
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "Each spell description begins with a block of information, including the spell's name, level, school of magic"
+  },
+  {
+    "question": "You can drop a 10 foot carpet?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "The phrase 'drop a 10 foot carpet' is not rules related and lacks the surrounding context to be answered."
+  },
+  {
+    "question": "You can't touch a thing with a cantrip with a verbal aspect?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "A spell is cast with components, the components do not restrict the ability to touch anything unless it is explicitly stated"
+  },
+  {
+    "question": "If a strength save is rolled to hold Laudna. Is that good?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Without knowing if she is using a spell the information to answer this question is ambigious."
+  },
+  {
+    "question": "What does it take for two to travel through?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This question lacks the context needed to provide an answer"
+  },
+  {
+    "question": "Can the spells damage effect hit an ally, without hitting the enemies?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This question lacks the context needed to provide an answer"
+  },
+  {
+    "question": "As you are walking stealthily, when do you need a group deception check?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "There is no rule about when a DM *needs* to make a group deception check"
+  },
+  {
+    "question": "I'm going to just look Sympathetically Bind to four of you?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Without knowing if she is asking a question. The text isn't question related and therefore is unanswerable."
+  },
+  {
+    "question": "If you have to make a wisdom saving throw and there is an extra is this from the feat or not?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Without knowing the full conditions involved, the answer would be ambiguous."
+  },
+  {
+    "question": "Make an athletics check to see where can reach or not reach with their hands",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Whether that situation is a valid use for such a check is a DM choice that depends on context."
+  },
+  {
+    "question": "If a character with advantage attacks, can you make it go away?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Without knowing the ability or spell used to make the attack have a normal roll, the answer is ambiguous."
+  },
+  {
+    "question": "If you drop someone from ten feet in the air, how much damage do you deal to the player?",
+    "answer": "1d6 bludgeoning damage",
+    "rules": [
+      "The Environment > Falling"
+    ],
+    "rules_explanation": "The rules for falling says: '...a creature takes 1d6 bludgeoning damage for every 10 feet it fell...'"
+  },
+  {
+    "question": "Should you attack the guy when we get in there?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is a player intent question, therefore unanswerable."
+  },
+  {
+    "question": "Are we still Pass Without a Trace?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "There isn't enough information to determine if the characters are still in the AOE of pass without trace. The spell requires concentration"
+  },
+  {
+    "question": "Does anyone speak Marquesian?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "It is known. But not from the source of data"
+  },
+  {
+    "question": "With an open mind up, could I hear deeper thoughts?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "There is no \"open mind up\" spell effect, its unclear what's being used."
+  },
+  {
+    "question": "If he is in the prison, what is his status?",
+    "answer": "Very injured and unconscious.",
+    "rules": [],
+    "rules_explanation": "This is information being fed from the DM to the party. No game rules apply."
+  },
+  {
+    "question": "How many times can i bonus action give you another d6?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "There is no 'bonus action give you another d6', so the limitation cannot be provided."
+  },
+  {
+    "question": "If you get hit by the spear, what the the attack?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Need to know what has to be done on hit. The language used is ambigious."
+  },
+  {
+    "question": "Can't you be a bird?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Context is key. It isn't specified if 'you' refers to one of the party, or generally anyone. Also, even with full party context, there is not enough information about what spells have been prepared by the party in order to answer."
+  },
+  {
+    "question": "Can you say fly?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This question lacks any game rules to inform its answer."
+  },
+  {
+    "question": "What happened, after that?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This question lacks any game rules to inform its answer."
+  },
+  {
+    "question": "Does it start high",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This question lacks any game rules to inform its answer."
+  },
+  {
+    "question": "Do they fly",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This question lacks any context needed to answer it."
+  },
+  {
+    "question": "Is he falling off?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This question lacks any context needed to answer it."
+  },
+  {
+    "question": "Are we being watched by anybody?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Only the DM knows for certain what their NPCs are doing. You cannot determine this from game rules."
+  },
+  {
+    "question": "All right, technically well, okay",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is not a question, it's only text fragments from an ongoing conversation."
+  },
+  {
+    "question": "As they turn, no, this is fine, This is fine?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is not a question, it's only text fragments from an ongoing conversation."
+  },
+  {
+    "question": "Okay, so as restored",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is not a question, it's only text fragments from an ongoing conversation."
+  },
+  {
+    "question": "Are they doing what again as the guy the is up there a lot of this is up there",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This question is incomprehensible and unanswerable."
+  },
+  {
+    "question": "Did you see what I just rolled?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is a question about table-specific player actions, therefore unanswerable."
+  },
+  {
+    "question": "But what is that?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This question lacks any useful context to answer it."
+  },
+  {
+    "question": "Do you know how to get across the bridge?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "The question is referring to plot details, and therefore is unanswerable."
+  },
+  {
+    "question": "How many times can I do that?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "It's unclear what ability is being referenced by the word \"that\"."
+  },
+  {
+    "question": "Does it do magical healing as well or are you just a fighter sort?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is a question about the capabilities of an NPC, not a question about the rules."
+  },
+  {
+    "question": "Are you better than average?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is not a question about a specific rule."
+  },
+  {
+    "question": "Can we scry ball now?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This question lacks the context needed to answer it."
+  },
+  {
+    "question": "Am I getting, at this point advantage from the storm or no?",
+    "answer": "No, you're lower in the area, but getting advantage, you're getting plus one from that, yeah.",
+    "rules": [],
+    "rules_explanation": "It is DM choice. So, can't be extracted"
+  },
+  {
+    "question": "Is there some sort of visual element here",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is a question regarding a specific situation in the game, information that cannot be derived solely from the rules."
+  },
+  {
+    "question": "Do you have to make eye contact to do so or at least see them when you do so",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "I can't find the specific spell in the doc. That I need to use to find out."
+  },
+  {
+    "question": "What's their job? Why is it important?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "It's DM information to the players"
+  },
+  {
+    "question": "We've got very little time. If this goes south, it's not our fault?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "It has to be a question in the formal sense. The flaw statement doesn't count, and is subjective."
+  },
+  {
+    "question": "What if he can see him anyway?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "It's DM information to the players."
+  },
+  {
+    "question": "There's a ticking clock.",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "It's DM information to the players. It isn't a yes or no thing"
+  },
+  {
+    "question": "What does that look like to you?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question"
+  },
+  {
+    "question": "They all rolled really high stealth.",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is not a question and there's no mechanical elements or components"
+  },
+  {
+    "question": "Can we tell what that does, the wicked arcane arcing device?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "It's DM information to the players. There is no mechanical element or component"
+  },
+  {
+    "question": "Is this Con or a Str save?",
+    "answer": "It cannot be determined from this text.",
+    "rules": [],
+    "rules_explanation": "Context is needed"
+  },
+  {
+    "question": "For this journey?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Not enough information"
+  },
+  {
+    "question": "What if we just move the tent?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is player intent"
+  },
+  {
+    "question": "Can I say Dora?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Humorous and not a game rule"
+  },
+  {
+    "question": "Is it starting to come back online?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "DM information. Incomplete"
+  },
+  {
+    "question": "Can I use all these?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Not enough context"
+  },
+  {
+    "question": "It is the edge?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Not a game rule. Incomplete"
+  },
+  {
+    "question": "Is that Pâte or the other PÂTE?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Game player name, and incomplete information"
+  },
+  {
+    "question": "Take it down?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Incomplete"
+  },
+  {
+    "question": "Are we doing this whole leap arc thing",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "That is related to player action and planning"
+  },
+  {
+    "question": "Did we get",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Incomplete question. Missing all relevant context."
+  },
+  {
+    "question": "Why are you doing that? Oh...",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is not a game rule element."
+  },
+  {
+    "question": "How have you all survived this long",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is sarcastic banter that can't be answered with game rules"
+  },
+  {
+    "question": "Which I mean, 1-10?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Incomplete. I have no idea what those rolls are and I can't find in the document"
+  },
+  {
+    "question": "I am getting up, how is a better?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Incomplete question. Poor grammer"
+  },
+  {
+    "question": "What's the plan for that",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Incomplete and player action"
+  },
+  {
+    "question": "Why are we doing this she is charismatic",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Incomplete and more role playing than a game rule"
+  },
+  {
+    "question": "But it doesn't help for this one",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Incomplete and out of context"
+  },
+  {
+    "question": "Do they fly",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Incomplete and out of context"
+  },
+  {
+    "question": "Did you say did it have to do with it",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Bad grammer, and missing key words"
+  },
+  {
+    "question": "This dice are look good",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Bad grammer, and missing key words"
+  },
+  {
+    "question": "It has to be, right?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Not a rules related question"
+  },
+  {
+    "question": "Do they fly",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Not a rules related question"
+  },
+  {
+    "question": "Is it Percy?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "A question about a specific story element"
+  },
+  {
+    "question": "Are we at the base, or we're still at the switchback",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "A question about the location within a specific encounter, not answerable with general rules"
+  },
+  {
+    "question": "Do we have like advantage still?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "A question about a conditional game state, not answerable with general rules."
+  },
+  {
+    "question": "And there's a couple of reals, right?",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "A specific fact about the encounter, unanswerable with general rules."
+  },
+  {
+    "question": "10 to 13 what a strange number",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "An observation."
+  },
+  {
+    "question": "How many times can i do that",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Vague without the proper context"
+  },
+  {
+    "question": "So those are the we're not the ones you'd be looking for in that case",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Garbled and out of context."
+  },
+  {
+    "question": "There's too much going on with the medics.",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Incomplete."
+  },
+  {
+    "question": "Is it coming or that",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Unintelligible. Missing context."
+  },
+  {
+    "question": "You want to hear one and 80. What did you roll",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Incomplete question. Context is missing. 'What did you roll' is also unanswerable."
+  },
+  {
+    "question": "Oh that's awesome.",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is a statement about the quality of another thing."
+  },
+  {
+    "question": "Which that makes them okay.",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "Incomplete."
+  },
+  {
+    "question": "Okay, I mean, in this instance probably no Guidance.",
+    "answer": "The question cannot be answered unambiguously using only the information in the rules SRD.",
+    "rules": [],
+    "rules_explanation": "This is the DM telling the player that they don't get a bonus."
+  }
+]

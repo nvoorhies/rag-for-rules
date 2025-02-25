@@ -1,0 +1,309 @@
+[
+  {
+    "question": "Can the Level 4 Bard load the Ioun Stone up with an Invisibility spell?",
+    "answer": "Yes, the Level 4 Bard can load the Ioun Stone up to three spell levels.",
+    "rules": [
+      "Class Features > Bard > Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "The DM states, based on rules from the SRD, that you can put up to three spell levels into that Ioun Stone, which is consistent with the Bard's level 4 spell casting abilities."
+  },
+  {
+    "question": "For an investigation check is it with proficiency or dexterity?",
+    "answer": "The investigation check for tinkering is with proficiency bonus plus dexterity.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM clarifies that the tinkering check is to be made with Dexterity because it is a meticulous task. This assumes the investigator is also proficient in tinkering."
+  },
+  {
+    "question": "As the Level 1 Ranger studies dragons can they gather information, based on the dragons being a very favored enemy?",
+    "answer": "Yes, the Level 1 ranger can. The DM explains that the Level 1 ranger would know that white dragons are one of the chromatic dragon circle; that they are considered largely very spiteful, arrogant, a little more bestial, and very, very dangerous foes; and their element is ice and frost",
+    "rules": [
+      "Ranger > Class Features > Favored Enemy"
+    ],
+    "rules_explanation": "The DM makes a rules judgement to describe the ranger's knowledge of favored enemies based on the section concerning favored enemies."
+  },
+  {
+    "question": "What dragons would a Level 1 Ranger know about?",
+    "answer": "Yes, having dragons being a very favored enemy for the Level 1 Ranger, White dragons are one of the chromatic dragon circle. They are considered largely very spiteful, arrogant, a little more bestial, and very, very dangerous foes.",
+    "rules": [
+      "Ranger > Class Features > Favored Enemy"
+    ],
+    "rules_explanation": "The DM makes a rules judgement to describe the ranger's knowledge of favored enemies based on the section concerning favored enemies."
+  },
+  {
+    "question": "Can the Level 7 Warlock cast Mending on the torn contract?",
+    "answer": "No. Mending is not on the Level 7 Warlock spell list.",
+    "rules": [
+      "Class Features > Warlock > Spellcasting",
+      "Spell Descriptions > Mending"
+    ],
+    "rules_explanation": "The DM notes that the Level 7 Warlock cast Mending on the contract. Mending is not a standard warlock spell but could be one if the warlock had used an ability to take the spell from another class spell list, such as from the Eldritch Invocations."
+  },
+  {
+    "question": "As the Leader prepares for a six mile search using a spell, what are the rules?",
+    "answer": "As per the Locate Creature spell, it can only locate creatures within 1,000 feet of the ritual that is completed. But it locates them with pinpoint accuracy.",
+    "rules": [
+      "Spell Descriptions > Locate Creature"
+    ],
+    "rules_explanation": "The Dungeon Master describes the effects of the spell based on Locate Creature."
+  },
+  {
+    "question": "As the Level 1 Ranger prepares for a search, what are the rules?",
+    "answer": "The Level 1 Ranger can use Primeval Awareness and find any dragons within six miles.",
+    "rules": [
+      "Class Features > Ranger > Primeval Awareness"
+    ],
+    "rules_explanation": "The Dungeon Master is describing what the Ranger could do given their class feature, Primeval Awareness."
+  },
+  {
+    "question": "The Staff user casts Suggestion spell. What is the saving throw DC?",
+    "answer": "DC 17.",
+    "rules": [
+      "Spellcasting > Spell Save DC"
+    ],
+    "rules_explanation": "The DM prompts the Level 1 character to check their character sheet for the Save DC. Since they are a Warlock we can infer it is calculated using their Charisma modifier and proficiency bonus as a spellcasting DC."
+  },
+  {
+    "question": "What benefits does the party get from owning horses?",
+    "answer": "As far as you know, horses are provided to full-fledged hunting members. You got the feeling, in your very, very brief preparation for this, that part of the test was to secure your own transportation.",
+    "rules": [],
+    "rules_explanation": "This is a DM judgement as to what the party would or wouldn't know, based on prior activities."
+  },
+  {
+    "question": "A Level 7 Character casts Suggestion. What is the duration?",
+    "answer": "The suggestion duration is indefinite.",
+    "rules": [
+      "Spell Descriptions > Suggestion"
+    ],
+    "rules_explanation": "The DM makes a rules judgement describing the duration of the Suggestion spell"
+  },
+  {
+    "question": "What happens when a percentage dice is rolled for growing a beard?",
+    "answer": "At this point, the Level X Character had a very, very nice coat of somewhat bristly, translucent– not very attractive facial hair, but facial hair by definition.",
+    "rules": [],
+    "rules_explanation": "DM decides on the basis of the player's level, class, and the specific die roll made. This is a DM ruling."
+  },
+  {
+    "question": "Can she cast Mending?",
+    "answer": "As she flicks her wrist a small spark of purple-ish dark energy shoots from her finger, slams into the side of the contract, and the tear in the contract repairs itself immediately.",
+    "rules": [],
+    "rules_explanation": "This is a description of in-game action without reference to the rules that might make the action possible."
+  },
+  {
+    "question": "What happens if we don't come back with all of the members we left with?",
+    "answer": "\"Well, then I suppose they would not be allowed into the guildhall.\"",
+    "rules": [],
+    "rules_explanation": "The Huntmaster answers about the party's completion of the contract"
+  },
+  {
+    "question": "If my armor class is 20, does that mean they still hit?",
+    "answer": "I thought you were wearing your pajamas with the butt flap?",
+    "rules": [],
+    "rules_explanation": "The DM is implying that wearing pajamas instead of armor would affect the armor class"
+  },
+  {
+    "question": "A level X character is hit by a melee attack while in pajamas. The party is traveling during a winter month in the frozen tundra, and the weather is terrible.",
+    "answer": "That hits.",
+    "rules": [],
+    "rules_explanation": "Because there's insufficient information given about the applicable armor class"
+  },
+  {
+    "question": "What is the effect of fatigue",
+    "answer": "Fatigue... You have one level of fatigue.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "The DM reminds the player of their character's status"
+  },
+  {
+    "question": "What happens if we don't come back with all of the members we left with?",
+    "answer": "\"Well, then I suppose they would not be allowed into the guildhall.\" \"Mostly for no longer returning to the city of Vasselheim, but that is not our problem. There is danger in this which I should get to, actually.\"",
+    "rules": [],
+    "rules_explanation": "The Huntmaster's reply"
+  },
+  {
+    "question": "If a mountain born character is in a very cold environment with warm weather clothing. What is their status?",
+    "answer": "Yes, so the rest of you guys, you go ahead and take your full evening's rest, at which point your hit points and spells are restored.",
+    "rules": [],
+    "rules_explanation": "A character can continue to rest, according to the DM's interpretation."
+  },
+  {
+    "question": "Given the condition and location of the party. What happens if the area has a giant snowstorm?",
+    "answer": "That's true, you do.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The DM states that the player has advantage, as previously stated."
+  },
+  {
+    "question": "What happens to the mount after being ridden for a long period of time?",
+    "answer": "It's okay for now.",
+    "rules": [],
+    "rules_explanation": "DM ruling"
+  },
+  {
+    "question": "Does the level X character have any advantages because of the forest terrain?",
+    "answer": "Thankfully, though, you have Vex guiding you on this path and where it would be a very difficult experience pushing through this forest, especially with the time limit you have, she is able to find the quickest paths to dodge any of the heavy areas that are dense with dangerous snowfall.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a DM's description"
+  },
+  {
+    "question": "What happens if the party doesn't secure their own transportation?",
+    "answer": "You got the feeling, in your very, very brief preparation for this, that part of the test was to secure your own transportation.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling based on in-game information."
+  },
+  {
+    "question": "A character casts suggestion on another character. If they don't take advantage of the command, does the spell end?",
+    "answer": "You shall lend us the horses, knowing that we shall take very good care of them. We may keep them for as long as we like.",
+    "rules": [],
+    "rules_explanation": "The suggestion spell was cast on an NPC, and this is how it was phrased."
+  },
+  {
+    "question": "What does the Locate Creature spell require?",
+    "answer": "As per the Locate Creature spell, it can only locate creatures within 1,000 feet of the ritual that is completed. But it locates them with pinpoint accuracy.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "According to the spell description."
+  },
+  {
+    "question": "If a creature is within the area of effect and hears the sound of the spell, do they need to know where it is coming from?",
+    "answer": "This would be more of an insight check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM makes a judgement about which ability check is appropriate."
+  },
+  {
+    "question": "The party has a two days journey to complete a task, with one day to slay something.",
+    "answer": "Once the creature is actually slain, and the pieces are harvested, then the contract is completed. Then you can take your time returning.",
+    "rules": [],
+    "rules_explanation": "According to the contract."
+  },
+  {
+    "question": "Can my bear travel as fast as a horse?",
+    "answer": "Trinket would probably be struggling to keep up with you guys.",
+    "rules": [],
+    "rules_explanation": "DM judgement."
+  },
+  {
+    "question": "A character cast suggestion on another character. Is that legal?",
+    "answer": "Listen, missy. I am a leader of this, and the fact that you pulled out a spell and did not say– and it is just– it's just not even the way I want to conduct my team. So. You. If you're going to use underhanded tactics you need to clear them with me first because I am the leader.",
+    "rules": [],
+    "rules_explanation": "This is a character-specific question regarding behavior within a party."
+  },
+  {
+    "question": "If the party is split up because some of the party members were taken and the stable boy is getting the horses ready. What is the condition of the horses?",
+    "answer": "That's right. There is one warehouse she goes to, she knocks on the door and as it opens up, you can see a rather comely looking gentleman with a nice soft, almost a purple-blue beret. Little bit of a heavy-set neck bulge that rests over the top of his little doublet. And he opens it and he looks up. “Eh, what can I– oh Lyra.”",
+    "rules": [],
+    "rules_explanation": "This is a description of in-game action without reference to the rules that might make the action possible."
+  },
+  {
+    "question": "The party leaves the guild, and a dragon is mentioned.",
+    "answer": "Hey, Vex. Can any of us sense a dragon within six miles of here?",
+    "rules": [],
+    "rules_explanation": "A character is requesting that an action be taken."
+  },
+  {
+    "question": "What happens if the monster has darkvision?",
+    "answer": "There is a very large fur-covered, wolf-like creature that is (snarls). [...]There is an elegance to the way she walks, and there is this look of silent judgment as she continuously passes her eyes over the rest of the group.",
+    "rules": [],
+    "rules_explanation": "Description of an NPC."
+  },
+  {
+    "question": "The group wants to set up a fire. How?",
+    "answer": "Okay. You guys get off of the main road, as that's probably not a very good area to be out in the open. You find, after about a five to ten minute walk, a small opening and along the way you find a tree that looks viable. There's a small slope of hill that heads up to an upper platform area maybe about five to ten feet up, and a small opening that you think would be a fitting place to put a fire that wouldn't be in danger of setting the nearby vegetation aflame.",
+    "rules": [],
+    "rules_explanation": "Description of in-game action."
+  },
+  {
+    "question": "How do I take initiative?",
+    "answer": "You take a d20. And roll it. Add initiative, which is…",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The group walks the new character through the mechanics of taking initiative."
+  },
+  {
+    "question": "If the armor class is 20, does that mean they still hit?",
+    "answer": "I thought you were wearing your pajamas with the butt flap?",
+    "rules": [],
+    "rules_explanation": "In-character comment and joke referencing that the PC is in their sleeping clothes. Not a rules question."
+  },
+  {
+    "question": "If there's no dragon in a six mile radius, what happens?",
+    "answer": "As you all leave, the Huntmaster expectantly waiting for you to exit the guildhall, you find yourself out amongst the streets of Vasselheim. With no particular direction in where to find the white dragon in three days.",
+    "rules": [],
+    "rules_explanation": "The description"
+  },
+  {
+    "question": "If the monster is close, what happens?",
+    "answer": "The door opens at this point, almost pushing you back on your heels. You catch yourself as he comes out carrying a large pile of what look like relatively well-kept furs and thick leather cloaks, and shoves them into your arms. “Be safe, little one.” Closes the door.",
+    "rules": [],
+    "rules_explanation": "The party receives warm clothing from an NPC."
+  },
+  {
+    "question": "While on a time crunch, shall we set off?",
+    "answer": "You're right. You're right, there is a–",
+    "rules": [],
+    "rules_explanation": "Character decision."
+  },
+  {
+    "question": "If we are traveling into the Vesper Timberlands",
+    "answer": "You embark on the Glasswalk Road, which forms right on the outskirts of the Braving Grounds. You are let through the front gates of the outside of the Vesper Timberlands, and this is the first time you've actually seen a formal road that is carved and at least traversed enough that the Timberland hasn't completely consumed it. You can still see various tree roots and branches are progressively, almost angrily, pushing in towards this gate, but you get the feeling based on the cuts that whoever goes through here– at least some people go through here, they keep it relatively well-kept for travel up north. You ride out into it and the canopy almost completely encloses it, so it's like a tunnel of very dense tree, vine, and leaf structure. You push forward out into the cold air and begin to ride for the remainder of the day. A good eight or nine hours hit before the chill begins to grow. The sun begins to find itself setting across the far mountains, and the forest around you grows darker and darker still.",
+    "rules": [],
+    "rules_explanation": "Description of in-game action."
+  },
+  {
+    "question": "Are the horses going to come search for us?",
+    "answer": "Yes, so the rest of you guys, you go ahead and take your full evening's rest, at which point your hit points and spells are restored. And Grog, go ahead and make a percentage roll.",
+    "rules": [],
+    "rules_explanation": "A character's full evening's rest is interrupted."
+  },
+  {
+    "question": "Is it okay to keep sleeping right here, are they going to come search for us?",
+    "answer": "Probably not more than one search party.",
+    "rules": [],
+    "rules_explanation": "DM interpretation"
+  },
+  {
+    "question": "While riding can Trinket be given a health potion?",
+    "answer": "Let's just say it's probably going to be a little sway-backed by the end of this adventure.",
+    "rules": [],
+    "rules_explanation": "DM judgement"
+  },
+  {
+    "question": "What happens if the player doesn't use a modifier and says two plus seven is ten?",
+    "answer": "Two plus seven is nine, thank you.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Player uses bad math, and another player corrects"
+  },
+  {
+    "question": "The party are outside of the Braving Grounds and need direction. Where do they get it?",
+    "answer": "That's a very good question. I would say Aldor, but he will not talk to me.",
+    "rules": [],
+    "rules_explanation": "The direction comes from an NPC."
+  },
+  {
+    "question": "Can any of us sense a dragon within six miles of here?",
+    "answer": "That's what I'm doing. I'm checking that out.",
+    "rules": [
+      "Class Features > Ranger > Primeval Awareness"
+    ],
+    "rules_explanation": "A character indicating they are using a Ranger ability."
+  },
+  {
+    "question": "If a character has advantage on the rolls because it's their favoured terrain, what are the mechanics?",
+    "answer": "That's true, you do.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The other player remembers and reaffirms."
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "question": "Can the {level} {race} {class} use advantage on their Deception check because the lie that {Mollymauk} is {Lucien Nonagon} has some truth to it?",
+    "answer": "The GM can allow the {level} {race} {class} to have advantage on the Deception check.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks",
+      "Part I > MATT: Make a deception check both of you.",
+      "Part I > TALIESIN: Technically advantage because it's kind of the truth?"
+    ],
+    "rules_explanation": "Advantage on an ability check is determined by circumstances at the GM's discretion."
+  },
+  {
+    "question": "If {Fjord} is telling the truth, does {Taliesin} still have to roll a deception check?",
+    "answer": "The {level} {race} {class} does not have to make a Deception check if they are not lying.",
+    "rules": [
+      "Part II > LIAM: I'm going to-- Insight check.",
+      "Section > Using Ability Scores > Ability Checks",
+      "Part II > MATT: You don't have to roll deception if you're not lying."
+    ],
+    "rules_explanation": "A Deception check is only necessary if the character is trying to deceive someone, and thus lying."
+  },
+  {
+    "question": "As per the Zone of Truth spell, does the {level} {race} {class} have to be entirely honest?",
+    "answer": "The spell description for Zone of Truth will describe how the spell forces creatures under its effect to speak truthfully.",
+    "rules": [
+      "Part II > SAM: Jester would like to cast Zone of Truth.",
+      "Part II > LIAM: Well, you can say whatever you want, but whatever you say has to be true. That's how it works."
+    ],
+    "rules_explanation": "The spell itself will describe the effects of the spell."
+  },
+  {
+    "question": "If the {level} {race} {class} did switch hands, what kind of check would that be?",
+    "answer": "A Sleight of Hand check contested by the target's Perception.",
+    "rules": [
+      "Part I > MATT: Make a sleight of hand check versus his perception.",
+      "Section > Using Ability Scores > Ability Checks > Contests"
+    ],
+    "rules_explanation": "Sleight of Hand is used to perform manual trickery, and Perception is used to notice things."
+  }
+]

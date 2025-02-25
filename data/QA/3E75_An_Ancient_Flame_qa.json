@@ -1,0 +1,287 @@
+[
+  {
+    "question": "How long does the Fly spell last?",
+    "answer": "The Fly spell lasts for 10 minutes.",
+    "rules": [
+      "Spellcasting > Duration"
+    ],
+    "rules_explanation": "The duration of the fly spell is stated in the spell description"
+  },
+  {
+    "question": "If one party member succeeds on the athletics check in a group athletics check, does the entire party succeed?",
+    "answer": "No, the group succeeds only if at least half the group succeeds on the check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "The rule describes how to determine whether a group succeeds or fails on a group ability check."
+  },
+  {
+    "question": "Can a druid use the Guidance cantrip while wild shaped?",
+    "answer": "No, the druid can't cast Guidance while wild shaped because the form probably can't speak, which is a verbal component.",
+    "rules": [
+      "Spellcasting > Components > Verbal (V)"
+    ],
+    "rules_explanation": "The verbal component rules for spells requires the caster to be able to speak to cast the spell.  The action she is in wild shape must permit speaking to allow the spell."
+  },
+  {
+    "question": "A 1st level character finds himself 120 feet away from a light orb that is glowing. How far away can a 2nd source of light be to give shadowy, bending light in here as we go?",
+    "answer": "The second source of light must be within 120 ft.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "The rule limits the maximum distance a light spell can travel to 120 feet."
+  },
+  {
+    "question": "Can an 11th level fighter use Guidance? I.e. does Travis, who doesn't have any spell casting abilities, have access to it?",
+    "answer": "The 11th level fighter cannot cast Guidance because it is a cleric spell and he is not a member of the cleric class",
+    "rules": [
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "The 11th level fighter would need to have a spell casting ability from a class feature in order to cast Guidance"
+  },
+  {
+    "question": "Can a 1st level druid in bat form cast a verbal component spell?",
+    "answer": "The 1st level druid can't cast a spell with verbal components, since a bat probably can't speak any language",
+    "rules": [
+      "Spellcasting > Components > Verbal (V)"
+    ],
+    "rules_explanation": "The verbal component rules for spells requires the caster to be able to speak to cast the spell. A bat probably can't speak any language."
+  },
+  {
+    "question": "Can a 1st level Druid with keen hearing and advantage on perception checks using a bat's keen hearing and advantage on perception checks.",
+    "answer": "No, the druid rolls using their wisdom, but has advantage on the roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The druid uses their own ability modifier, even when using the keen hearing ability of the bat form."
+  },
+  {
+    "question": "Can a 5th level character use the Shape Stone spell to make a five-foot long column of hole? I.e. can Letters do Stone Shape?",
+    "answer": "Yes, the Stone Shape spell can shape a five-foot long column of hole. Stone Shape creates a shape that can be up to five feet in any dimension.",
+    "rules": [
+      "Spells > Stone Shape"
+    ],
+    "rules_explanation": "The Stone Shape spell creates a shape that can be up to five feet in any dimension."
+  },
+  {
+    "question": "If they're right on the cusp of 120 feet of each other, what check is required to determine if they are in range for the Message spell?",
+    "answer": "Roll a d20. On 11 or higher, they're within range.",
+    "rules": [
+      "Spells > Message",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An ad-hoc ruling by the GM. A d20 with a target of 11 corresponds to a 50% chance of success."
+  },
+  {
+    "question": "How long is the Teleport spell's casting time?",
+    "answer": "The Teleport spell's casting time is an action.",
+    "rules": [
+      "Spellcasting > Casting Time"
+    ],
+    "rules_explanation": "The casting time of the teleport spell is stated in the spell description"
+  },
+  {
+    "question": "If the cleric character, Letters, casts Guidance to help Imogen, does that mean Fearne, who is 120ft away, doesn't need it, though?",
+    "answer": "Since Fearne is not making an athletics or acrobatics check, she does not need the Guidance spell",
+    "rules": [
+      "Spells > Guidance"
+    ],
+    "rules_explanation": "Guidance only improves ability checks. Fearne is not performing an ability check, so Guidance cannot be used to improve the check. "
+  },
+  {
+    "question": "Can Laudna, with Spider Climb and a roll of 4 on an athletics check, climb down the steep tunnel?",
+    "answer": "Yes, she still has to roll, but she has a much lower DC to do so.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules states that those with smaller forms have a much lower DC."
+  },
+  {
+    "question": "Can Fearne use Guidance from FCG for the athletics/acrobatics check. Fearne knows that Imogen is bad at those checks, so that matters to the decision.",
+    "answer": "Letters is going to attempt to use Guidance to help Imogen. That requires that she can see Imogen and that Imogen be within touch range.",
+    "rules": [
+      "Spells > Guidance",
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "The rules describes the range of the Guidance spell as 'touch'.  Fearne does not have the option to receive a buff from Guidance."
+  },
+  {
+    "question": "After Imogen is successfully caught from the falling drop, does Orym have advantage because they're helping catch her?",
+    "answer": "The check is made with advantage because they are helping",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The rules describe that characters are working together, one leading the effort and receiving advantage on the roll."
+  },
+  {
+    "question": "In the blow hole area, if a group of people have already gone down but it's not clear to go down from the remaining party members, and the team goes ahead and opens the door to another hole that might have lava, can one of them pop up to give the Guidance assistance?",
+    "answer": "No, because, once again, the spell involves touching someone. ",
+    "rules": [
+      "Spells > Guidance",
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "The rules describes the range of the Guidance spell as 'touch'."
+  },
+  {
+    "question": "Can Fearne use Guidance?",
+    "answer": "No, she has to stop being a bat first.",
+    "rules": [
+      "Spellcasting > Components > Verbal (V)"
+    ],
+    "rules_explanation": "Since the transformed Druid cannot cast spells with verbal components, they could not cast guidance."
+  },
+  {
+    "question": "At 15th level, can two Wild Shapes be used?",
+    "answer": "No.  One wild shape has been used already today.",
+    "rules": [
+      "Druid > Wild Shape"
+    ],
+    "rules_explanation": "There is no mention of being able to use multiple wild shapes in one day for a druid of that level in the SRD."
+  },
+  {
+    "question": "Can Imogen can Guide a roll. She has telekenisis up, with advantage, in 20ft for the spell for a 2nd D20.",
+    "answer": "No, she has to do that before she rolls.",
+    "rules": [
+      "Spells > Telekinesis"
+    ],
+    "rules_explanation": "The rules for Telekenisis do not improve ability checks."
+  },
+  {
+    "question": "Can I'm in a sphere of fire can I put a shield on myself?",
+    "answer": "Assuming you are a Paladin, yes, because it is a bonus action.",
+    "rules": [
+      "Spells > Shield of Faith",
+      "Bonus Action"
+    ],
+    "rules_explanation": "If it was the Paladin's turn, they could cast a bonus action spell on themselves, assuming that this can happen in the lava situation."
+  },
+  {
+    "question": "Can you have it have it, but it was a concentration. Can Fearne help?",
+    "answer": "If the Druid has two Druidcraft to do moral support, and Imogen has not made a decision and hasn't looked, it is possible to cast guidance.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "Because Druidcraft is not a concentration spell, then she is able to cast the new concentration on the party member."
+  },
+  {
+    "question": "Does the keen mind and mastery of high elves allows the PC to choose if is head first or wheel first, when the GM asked what’s that?",
+    "answer": "No, that has to be the wisdom of the player.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The text does not list rules relevant to answering this question."
+  },
+  {
+    "question": "Does the death throes deal damage?",
+    "answer": "Yes, it deals 70 (20d6) fire damage on a failed save, or half as much damage on a successful one.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Not a real question. (Providing answer to skip review).  From the Balor's stat block. "
+  },
+  {
+    "question": "Is Imogen's Circlet is supposed to keep people from being able to perceive her! Does that stop them from showing up?",
+    "answer": "There is no rule in the SRD that states a Circlet would stop perception",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There is no mention of this item in the SRD."
+  },
+  {
+    "question": "Can Laudna still use Counterspell on Ludinus teleport because she was in the air, if he used counter spell before they put up the wall and are still 60 ft away?",
+    "answer": "Yes, if he tries to cast a spell",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Not a real question. (Providing answer to skip review).  From the general rules for counterspell. "
+  },
+  {
+    "question": "Does Teleport can't work on objects with a player?",
+    "answer": "The Teleport spell can be used on an object that fits within a 10-foot cube, so long as it isn't being worn or carried by an unwilling creature",
+    "rules": [
+      "Spells > Teleport"
+    ],
+    "rules_explanation": "The Teleport spell description does not include specific rules for whether player may be touching object or not, but does that says 'If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can't be held or carried by an unwilling creature.'"
+  },
+  {
+    "question": "The oath, do these things still function if I have a condition? I rolled it, I would have to succeed to do anything about what he's saying. Like the advantage on a CON save. Does an object, such as a stone?",
+    "answer": "Yes, unless otherwise specified, the condition has no effect on their capabilities.",
+    "rules": [
+      "Appendix PH-A: Conditions"
+    ],
+    "rules_explanation": "It is determined by the effects of each condition."
+  },
+  {
+    "question": "If the person is a close friend do they make a strength saving throw or ability check to shove?",
+    "answer": "Creatures don't automatically fail saving throws from their close friends. ",
+    "rules": [
+      "Chapter 9: Combat > Making an Attack > Shoving a Creature"
+    ],
+    "rules_explanation": "The creature makes a normal saving throw or check"
+  },
+  {
+    "question": "If they used an action or a bonus action",
+    "answer": "They would then use the bonus action on that turn.",
+    "rules": [
+      "Chapter 9: Combat > Your Turn > Bonus Action"
+    ],
+    "rules_explanation": "The combat rules says the player will take a bonus action at their turn."
+  },
+  {
+    "question": "What if I use the rest of my speed to move and touch to use some of it for travel? So for 5, you would roll an acrobatics check against that as I travel?",
+    "answer": "Make an athletics or acrobatics check for descending from that point",
+    "rules": [
+      "Chapter 9: Combat > Movement and Position > Special Types of Movement"
+    ],
+    "rules_explanation": "The Combat describes Special Types of Movement as each person's going to have to make an individual check with athletics or acrobatics."
+  },
+  {
+    "question": "What is needed to to be close to the water and also close to them though?",
+    "answer": "You can swim, you can flutter down, but you can see people having to use the pressure to get down and eventually, at some points, have to push themselves through.",
+    "rules": [
+      "Chapter 9: Combat > Movement and Position > Special Types of Movement"
+    ],
+    "rules_explanation": "It was up to the players to decide to go forwards or backward."
+  },
+  {
+    "question": "If they can't Guide me, what am I rolling?",
+    "answer": "Athletics or acrobatics, your choice.",
+    "rules": [
+      "Chapter 9: Combat > Movement and Position > Special Types of Movement > Climbing, Swimming, and Crawling"
+    ],
+    "rules_explanation": "Athletics or acrobatics, depending what each player used."
+  },
+  {
+    "question": "Can you Guide me? What did that just do to the other person? Where the other person touching?",
+    "answer": "Yes. It's touch, right?",
+    "rules": [
+      "Spells > Guidance",
+      "Chapter 9: Combat > Movement and Position > Movement and Position"
+    ],
+    "rules_explanation": "In that moment, the 2 players are touching and can use touch range spells."
+  },
+  {
+    "question": "What does this do to the glass of the hammer? I'm just seeing if there's a-- Is it hot enough to burn the hammer or not?",
+    "answer": "It doesn't seem to get to the point where it would hurt you, but the glass does begin to heat.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The text does not list rules relevant to answering this question."
+  },
+  {
+    "question": "We can just swallow it, that's what we do on this show. It will the other shard, does that mean that they--Are we going to kill them if we take it?",
+    "answer": "No.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The text does not list rules relevant to answering this question."
+  },
+  {
+    "question": "If we fail one of the actions because of the situation is it the death of one of us?",
+    "answer": "No, it's not that the roll with the one fails. What happens after a natural one is up to the GM.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "No explicit rule from the SRD."
+  }
+]

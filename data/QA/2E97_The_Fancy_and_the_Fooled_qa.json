@@ -1,0 +1,457 @@
+[
+  {
+    "question": "A perception check is requested of the level 9 wizard race human named Caleb. What dice does the DM request?",
+    "answer": "The DM asks Caleb to roll a perception check.",
+    "rules": [
+      "Ability Checks > How to Determine the DC"
+    ],
+    "rules_explanation": "A perception check is a standard test of the Wisdom (Perception) skill."
+  },
+  {
+    "question": "A question is asked of the DM, whether player character race half elf class rogue level 9 Jester, would recognize NPC Lord Dezran Thain. The DM asks the character to make a history check. What dice are used for the roll?",
+    "answer": "A history check is requested, a d20 plus any applicable modifiers is rolled.",
+    "rules": [
+      "Ability Checks > What Does a Check Cover?"
+    ],
+    "rules_explanation": "History checks is based on the character's Intelligence and the DM needs to make a ruling about whether proficiency applies to the ability check."
+  },
+  {
+    "question": "level 9 wizard race human named Caleb wants to summon his familiar Frumpkin on the docks, not on the boat, maybe behind some schmutz there. Will verbal and somatic components be visible?",
+    "answer": "If Caleb is summoning him for the first time, then there are somatic and verbal components.  If he was just bamfing him out, then he would be fine.",
+    "rules": [
+      "Spellcasting > Components"
+    ],
+    "rules_explanation": "If the familiar is being summoned for the first time verbal and somatic components are necessary. Dismissing and resummoning a familiar is not casting a spell, just an action."
+  },
+  {
+    "question": "A level 9 fighter race orc multiclass is casting See Invisibility, does he see any orbs?",
+    "answer": "No, the result indicates there are no scrying baubles or glowing orbs that would indicate he is being scryed upon.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "This is a description of the game state after the See Invisibility spell has been cast. It indicates that within the spell's range no invisible scrying tools are visible. It indicates the effect of the spell in this particular situation. The rules for See Invisibility establish that it would reveal invisible objects such as scrying devices."
+  },
+  {
+    "question": "level 9 cleric multiclass asks if someone's wearing an illusion, is going to insight check him. What dice should be rolled?",
+    "answer": "An insight check requires rolling 1d20 and adding the Wisdom modifier, and the proficiency bonus if the character is proficient in Insight skill.",
+    "rules": [
+      "Ability Checks > Skills",
+      "Ability Checks > What Does a Check Cover?"
+    ],
+    "rules_explanation": "To make an insight check, you roll 1d20 and add your Wisdom modifier, and the proficiency bonus if the character is proficient in the insight skill. Because this is about whether NPC is being deceitful, insight skill is involved."
+  },
+  {
+    "question": "level 9 cleric multiclass insight checks a character. Based on the result is it determined the subject was honest?",
+    "answer": "Yes, there are no signs of deviousness or deception.",
+    "rules": [
+      "Ability Checks > Success and Failure"
+    ],
+    "rules_explanation": "This is a ruling about the result of the Insight check. Based on the Insight roll, there are no indications of deviousness or deceit. But as there is an element of interpretation involved, this is a DM ruling, not a hard application of the rules."
+  },
+  {
+    "question": "If a monkey is 40 feet away from the porthole and needs to be sneaky, what dice should be rolled?",
+    "answer": "A stealth check should be rolled.",
+    "rules": [
+      "Ability Checks > Skills",
+      "Ability Scores > Dexterity > Stealth"
+    ],
+    "rules_explanation": "To determine if a character is successful at remaining hidden a Dexterity (Stealth) check must be rolled. Because Frumpkin is in the shape of baboon he uses those statisitics"
+  },
+  {
+    "question": "If Fjord summons the Star Razor and casts See Invisibility, can he see the orb?",
+    "answer": "Yes, the orbs would be visible due to see invisibility.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "If Fjord summons his Star Razor, which is a focus, and casts see invisibility, he would be able to see invisible objects within the spell's range."
+  },
+  {
+    "question": "A character wants to see if orbs are following her and is casting See Invisibility. What is Liam rolling?",
+    "answer": "There is nothing to roll, just the game state and any DM adjudication about what may be made visible by See Invisibility",
+    "rules": [
+      "Spellcasting > Duration"
+    ],
+    "rules_explanation": "Per the spell See Invisibility you can see invisible things within its area of effect. There is no roll, unless the range is limited by an environmental effect."
+  },
+  {
+    "question": "If a character wants to take a bonus action to cast See Invisibility, is that correct?",
+    "answer": "No, it is incorrect to attempt to cast See Invisibility as a bonus action. The casting time of See Invisibility is 1 action.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "The player character is attempting to cast See Invisibility, but the casting time of the spell is 1 action, not 1 bonus action."
+  },
+  {
+    "question": "A 1st-level conjuration spell requires that it has the proper sigils on the floor and making the appropriate incense to get the energy-centered, what are these elements called?",
+    "answer": "These components are part of the ritual.",
+    "rules": [
+      "Spellcasting > Components > Material (M)"
+    ],
+    "rules_explanation": "Rituals often have various material components needed to create the space or affect the focus of the spell."
+  },
+  {
+    "question": "If a spell requires materials but they are not on hand what can be used?",
+    "answer": "A component pouch or spellcasting focus can be used in place of the specified material components, unless a cost is indicated for a component.",
+    "rules": [
+      "Spellcasting > Components > Material (M)"
+    ],
+    "rules_explanation": "A component pouch or spellcasting focus can be used for material components unless the spell specifies a cost for them, in which case the actual materials must be used."
+  },
+  {
+    "question": "When Fjord casts See Invisibility, does he see anything?",
+    "answer": "No, the Star Razor reveals no scrying bauble or glowing orb that would lead one to believe they are being scryed upon.",
+    "rules": [
+      "Spellcasting > Range",
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "This is a description of the game state after the See Invisibility spell has been cast. It indicates that within the spell's range no invisible scrying tools are visible. It indicates the effect of the spell in this particular situation."
+  },
+  {
+    "question": "Can you use glitter as a material component for a disguise spell?",
+    "answer": "No, there is nothing in the rules which permits using glitter as a material component.",
+    "rules": [
+      "Spellcasting > Components > Material (M)"
+    ],
+    "rules_explanation": "You can use a component pouch or spellcasting focus in place of most material components, but you must have the specifically required materials for spells that specify a cost."
+  },
+  {
+    "question": "Can a spellcaster use a tattoo as a means to scry on individuals?",
+    "answer": "The Scrying spell states that to target a creature you need a possession or likeness, and that a likeness needs to be recent. It is up to the DM to determine if an art piece on the body of a character fits as a possession or recent likeness.",
+    "rules": [
+      "Spell Descriptions > Scrying"
+    ],
+    "rules_explanation": "This is a more of a narrative interpretation. It has not been established that this character has a spell that does this, so we must rely on the common spell for scrying. The DM is responsible for deciding if a tattoo fits the possession or likeness requirements for the scrying spell."
+  },
+  {
+    "question": "player character level 9 sorcerer multiclass is casting a spell, and the DM asks what he rolled, and he says, \"oh, that's five\" the sorcerer multiclass wants to get lucky and use Bend Luck, can he apply that at this point?",
+    "answer": "No, because Bend Luck is not a defined 5E game rule.",
+    "rules": []
+  },
+  {
+    "question": "Player character race half elf class rogue level 9 Jester asks the DM what look that gives. The DM asks him to insight check. What dice are we rolling?",
+    "answer": "To make an insight check, roll 1d20 and add the Wisdom modifier, and the proficiency bonus if the character is proficient in Insight skill.",
+    "rules": [
+      "Ability Checks > Skills",
+      "Ability Checks > What Does a Check Cover?"
+    ],
+    "rules_explanation": "To make an insight check, you roll 1d20 and add your Wisdom modifier, and the proficiency bonus if the character is proficient in the insight skill. Because this is about whether NPC is being honest, insight skill is involved."
+  },
+  {
+    "question": "Jester is a cleric wants to cast Charm Person on Lord Sharpe, the roll was a six. Is that good?",
+    "answer": "Six is a failed save, so yes, the spell will take effect.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "For spells, the spellcaster wants the target of the spell to fail the saving throw. Thus, in this case a roll of 6 indicates the spell took effect."
+  },
+  {
+    "question": "Can Jester, race half elf class rogue level 9 multiclass do what Lord Athesias told her?",
+    "answer": "The character is free to try. It depends on the player character's skill, access to spells, and so on.",
+    "rules": []
+  },
+  {
+    "question": "A level 9 character casts Charm Person. What dice are rolled?",
+    "answer": "The target must make a Wisdom saving throw, with the difficulty being 8 + the spellcasting modifier + the proficiency bonus.",
+    "rules": [
+      "Spellcasting > Spell Descriptions"
+    ],
+    "rules_explanation": "The DM wants to implement the spell effect. In this case, the DM decides what saving throw is appropriate for the target to make, but the saving throw DC is based on a formula that involves the attacker's level."
+  },
+  {
+    "question": "If a wizard summons a Frumpkin on the docks, can it follow someone?",
+    "answer": "This is a decision that the player character must make",
+    "rules": []
+  },
+  {
+    "question": "player character race half elf class rogue level 9 multiclass Jester wants to cast a spell and is whispering about it, is that okay?",
+    "answer": "Whether or not the spell can be whispered is not defined in the rules, the game master must make the decision to allow it or disallow it.",
+    "rules": []
+  },
+  {
+    "question": "A level 9 Tempest Domain cleric summons his Star Razor, and the player character is to cast See Invisibility. He uses his action. Is this alright? and what range does it effect?",
+    "answer": "Yes, casting a spell with a casting time of 1 action requires the use of one action in combat. See Invisibility is a range of self.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Actions",
+      "Spell Descriptions > See Invisibility"
+    ],
+    "rules_explanation": "The action is determined by the casting time. A focus has no bearing on the casting time. The spell description for See Invisibility lists the range."
+  },
+  {
+    "question": "player character race half elf class rogue level 9 Jester asked her mama what her clothes look like, does she need to do a roll to make the determination?",
+    "answer": "No. Given that they are in the same location, no check is required to determine the appearance of a creature.",
+    "rules": []
+  },
+  {
+    "question": "level 9 wizard wants to spend rest of evening taking down a spell. How long does that usually take?",
+    "answer": "There are rules about how long it takes to copy spells into your spellbook. If this is something else it's up to DM to determine how long it takes.",
+    "rules": [
+      "Spellcasting > Spellbook"
+    ],
+    "rules_explanation": "The rules state how long it takes to copy spells into a spellbook, but if this is a different activity not mentioned in the rules, the DM is in charge of creating and implementing the duration."
+  },
+  {
+    "question": "A Zhentarim is making an athletics check is it important to specify zentarim",
+    "answer": "No, Zhentarim is irrelevant to making an Athletics check.",
+    "rules": [
+      "Ability Checks > Strength > Athletics"
+    ],
+    "rules_explanation": "The Zhentarim are a faction in some games, but that has no bearing on making an Athletics check. Athletics checks depend on the Strength score and proficiency in the Athletics skill."
+  },
+  {
+    "question": "If Fjord used divine sense, what would he sense?",
+    "answer": "The rules state what can be detected. It cannot be determined what exactly would be seen in a particular instance.",
+    "rules": [
+      "Class Features > Paladin > Divine Sense"
+    ],
+    "rules_explanation": "The Divine Sense feature specifically detects aberrations, celestials, dragons, elementals, fey, fiends, and undead, nothing more. Whether anything of those types is present is a matter of DM adjudication based on the game world and circumstances."
+  },
+  {
+    "question": "Player character race half elf class rogue level 9 multiclass Jester wants to be subtle, wants to use Zone of Truth tomorrow on Thain, can she drop something into his drink to make it more effective?",
+    "answer": "That does not exist, so there is no rule for this spell that the player can reference.",
+    "rules": []
+  },
+  {
+    "question": "The party's heading into party and one said, I'll take this to that, this won't end well. I will make her my best self\" Can't have her face be on the ball, this was just an interesting thought. If that happens, so be it. Can caduceus do the same neat trick with beau, I am only going to do that for one hour",
+    "answer": "A character can only be targeted by a magical effect one time. For it to have an effect, all the requirements need to be met.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "You can only be the target of one casting of a spell. The nature of how to create the effect of the spell remains the same for all characters in the group."
+  },
+  {
+    "question": "If a character is going to do that, what is being rolled?",
+    "answer": "True Seeing states that for the next hour, for the next hour, you can understand every language and have true sight. No roll is made when the spell is cast.",
+    "rules": [
+      "Spell Descriptions > True Seeing",
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "Per the spell, True Seeing, for the next hour, a character will be able to understand every language and have true sight. There is no dice roll involved when casting True Seeing"
+  },
+  {
+    "question": "Fjord is casting Divine Sense, what is being rolled?",
+    "answer": "There is no die to be rolled. The rules specify what the PC becomes aware of by casting the spell.",
+    "rules": [
+      "Classes > Paladin > Divine Sense"
+    ],
+    "rules_explanation": "Paladin's divine sense does not have a dice roll to implement the feature."
+  },
+  {
+    "question": "While standing 40 feet away and out on the wharf docks, the speaker telepathically tells Frumpkin to keep an eye on the boat and keep an eye out for Thain and to follow Thain around town. Does Frumpkin need to be on the same plane?",
+    "answer": "There are no stated restrictions for plane of existence to telepathically send messages to Frumpkin.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "As there is nothing preventing telepathic sending across different planes, the speaker is free to do so."
+  },
+  {
+    "question": "the Righteous Brand approaches within 6 feet of Jester's mom. Jester has cast Charm Person on Sharpe. What is the outcome? How do the characters act?",
+    "answer": "Sharpe is charmed by Jester, so would not harm her. How a charmed individual acts is up to the game master.",
+    "rules": [
+      "Appendix A > Conditions > Charmed"
+    ],
+    "rules_explanation": "The charmed condition prevents an individual from attacking or harming the charmer. Because the nature of acting while charmed is open to interpretation, the DM must decide how the condition affects the characters."
+  },
+  {
+    "question": "Jester, race half elf class rogue level 9, successfully Hides behind level 9 fighter Fjord. Does Sharpe not see her? What dice is involved?",
+    "answer": "To remain hidden Jester must roll a stealth check. The result is then compared to Lord Sharpe's passive perception score.",
+    "rules": [
+      "Ability Scores > Dexterity > Hiding",
+      "Ability Scores > Wisdom > Perception"
+    ],
+    "rules_explanation": "When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence."
+  },
+  {
+    "question": "The player characters are leaving character Veth's house. What is the proper way to refer to Veth to other player characters?",
+    "answer": "There is no rule which applies to this question. This is a roleplaying choice, not a rules question.",
+    "rules": []
+  },
+  {
+    "question": "Jester is around Dezran Thain and sends a message to Essek. Can she do that and not be heard?",
+    "answer": "Yes, sending the message has no audible component.",
+    "rules": [
+      "Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "There is no description of any audible, visual, or detectable component that is produced when sending a telepathic message. Thus, it is not detectable to others in the area."
+  },
+  {
+    "question": "The DM refers to 5e monkey on google which baboon is plus two, the character is referring to Frumpkin. Can he be that large?",
+    "answer": "The player character can use the stat block for a baboon, in which case Frumpkin is that big.",
+    "rules": [
+      "Spellcasting > Find Familiar",
+      "Monsters > Familiars"
+    ],
+    "rules_explanation": "The Find Familiar spell allows the DM to choose any beast whose challenge rating is 0. The statistics of that beast then apply to the familiar. Baboon is CR 0. The size of the baboon is what ever size was specified in the stat block."
+  },
+  {
+    "question": "The party is heading to the Marquis' Demense, one of the player characters casts Enhance Ability to increase perception. What do they roll?",
+    "answer": "They roll 1d20 and add the appropriate Wisdom and skill bonuses, and get advantage on all Wisdom checks.",
+    "rules": [
+      "Spell Descriptions > Enhance Ability"
+    ],
+    "rules_explanation": "Casting Enhance Ability gives you advantage on ability checks for the selected stat. If the character is proficient in that skill, they also add their proficiency bonus."
+  },
+  {
+    "question": "level 9 fighter has See Invisibility and is trying to find magic is there anything that they can do to detect them or see what they are?",
+    "answer": "If See Invisibility is active and an object or creature with illusionary effects is present then the player can attempt to try and understand what is the source of the illusion.",
+    "rules": [
+      "Spell Descriptions > See Invisibility"
+    ],
+    "rules_explanation": "The spells being cast can create illusions or magic that is not detectable with See Invisibility."
+  },
+  {
+    "question": "After teleportation or similar effects can a body part be held? How is this handled, especially in regard to plane shifting?",
+    "answer": "There are no rules given. This is a matter of DM adjudication.",
+    "rules": []
+  },
+  {
+    "question": "Does Fjord have to take his hat off?",
+    "answer": "The rules do not specify, this is descriptive and DM dependent.",
+    "rules": []
+  },
+  {
+    "question": "While on the Balleater, Fjord is looking around the interior of the chamber with his Star Razor using See Invisibility, what checks are they going to make? Where does he need to look",
+    "answer": "See Invisibility does not involve a check, and its range is self.",
+    "rules": [
+      "Spell Descriptions > See Invisibility",
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "With See Invisibility active, creatures or objects become visible to the caster, but See Invisibility has a self range."
+  },
+  {
+    "question": "Is it against the rules to have a joke on a live show?",
+    "answer": "No, it is not against the rules to make a joke on the live show.",
+    "rules": []
+  },
+  {
+    "question": "Does it require a stealth check to be inconspicuous?",
+    "answer": "It is up to the DM to determine if a stealth check is required based on the situation.",
+    "rules": [
+      "Ability Scores > Dexterity > Stealth"
+    ],
+    "rules_explanation": "The DM must decide when it is appropriate to call for a stealth check."
+  },
+  {
+    "question": "if we teleport is it better to go now or will it have a better benefit for us in the future. is the DC going to be higher?",
+    "answer": "The rules for Plane Shift determine the conditions that must be met to use it successfully, including familiarity with the target location. The rules don't prescribe anything about whether one occasion is better than another.",
+    "rules": [
+      "Spell Descriptions > Plane Shift"
+    ],
+    "rules_explanation": "The spell conditions are explained, but they are consistent at any time they are met."
+  },
+  {
+    "question": "If a spell calls for radiant damage, how can it be performed if the character cannot speak?",
+    "answer": "It depends on the components of the spell. Radiant damage is a damage type, not a component. If the spell has only verbal components, then the character is unable to cast the spell.",
+    "rules": [
+      "Spellcasting > Components",
+      "Damage and Healing > Damage Types"
+    ],
+    "rules_explanation": "Whether or not a spell can be cast when one of the components is unavailable depends on which of the V, S, and M components is the spell requires."
+  },
+  {
+    "question": "what do you do if you are fighting invisible characters or if one of your party members is invisible?",
+    "answer": "There are specific rules on how to handle fighting invisible characters which depend upon the circumstances, like vision and lighting.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The rules outline how to attack and defend with invisible characters depending upon if you are seen or not by the target and or the attacker. The lighting and the visibility of the creatures involved are important factors to consider."
+  },
+  {
+    "question": "Fjord had mentioned earlier in the campaign that he had two cloaks",
+    "answer": "The rules do not have a restriction to how many cloaks you can use. It is up to the game master.",
+    "rules": []
+  },
+  {
+    "question": "At what level does a storm make you have to make a con save",
+    "answer": "This situation is not covered by rules. The DM must make a determination whether conditions impose a Con save.",
+    "rules": []
+  },
+  {
+    "question": "if a magic item is on your person, what is the ruling on seeing through it as with true sight?",
+    "answer": "You can see the original form through shapechangers and all magic, including that from magic items, is visible.",
+    "rules": [
+      "Ability Scores > Wisdom > Truesight"
+    ],
+    "rules_explanation": "Truesight allows you to see a creature's true form regardless of shapechanging or illusion. Truesight reveals magic to the viewer."
+  },
+  {
+    "question": "level 9 ranger has had his level set sideways, what does this mean?",
+    "answer": "This is not covered by the rules, this is outside of 5e rules and relies upon DM interpretation and narrative.",
+    "rules": []
+  },
+  {
+    "question": "Does a charm spell force anyone to do anything?",
+    "answer": "A charmed creature regards the charmer as a trusted friend, and the charmer has advantage on ability checks to interact socially with the creature, but the spell doesn't give the charmer total control of the creature.",
+    "rules": [
+      "Appendix A > Conditions > Charmed"
+    ],
+    "rules_explanation": "The Charmed condition explicitly states that the charmed target isn't under the charmer's control."
+  },
+  {
+    "question": "can a charmed creature give you all their money?",
+    "answer": "The charmed condition makes them a trusted friend, so it is possible that they can give the charmer all their money if it suits the character, and the activity sounds reasonable.",
+    "rules": [
+      "Appendix A > Conditions > Charmed"
+    ],
+    "rules_explanation": "The Charmed condition only determines that the charmer is seen as a trusted friend to be heeded and protected. There is no way to enforce giving money, you might be able to persuade them to do so if the circumstances would allow for it."
+  },
+  {
+    "question": "There's also the ability to turn our backs on an ally. Is this a normal situation when fighting?",
+    "answer": "There are no rules against turning your back on an ally. This may lead to opportunity attacks or other consequences.",
+    "rules": []
+  },
+  {
+    "question": "We did not do something, can I insight check?",
+    "answer": "In order to insight check you must be present and be able to see.",
+    "rules": []
+  },
+  {
+    "question": "how does terrain work for medium characters?",
+    "answer": "Medium characters follow the rules specified under \"Moving through an area that doesn't impede movement \". The areas that do impede movement depend upon the terrain at hand.",
+    "rules": [
+      "Combat > Movement and Position > Difficult Terrain",
+      "Creature Statistics > Size"
+    ],
+    "rules_explanation": "Each foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain. The speed is based on size, and the terrain affects the way that you move."
+  },
+  {
+    "question": "The Barbarian, as the game progresses, has a Brutal Critical (3 dice). And she is making a melee attack and gets a critical hit. Can she then choose to add more?",
+    "answer": "When you score a critical hit, you get to roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "There is no reference to increasing or decreasing the number of dice rolled in a critical hit."
+  },
+  {
+    "question": "Can you knock the wall out from being him?",
+    "answer": "The GM needs to decide. If the players destroy the object it was on then he's just going to fall, not sure where.",
+    "rules": [
+      "Combat > Damage and Healing > Objects"
+    ],
+    "rules_explanation": "If that target is a destructible object or environment, the GM has discretion over how they interact. If the object is the anchor for some kind of mobility ability like Fly then losing that anchor results in the character falling."
+  },
+  {
+    "question": "If a player has the Draconic Bloodline Sorcerer does he get resistance against the Draconic damage type and can they cast a spell?",
+    "answer": "The sorcerer gets resistance to damage of the dragon type. When he casts a spell depends on the casting time listed in the spell description.",
+    "rules": [
+      "Races > Dragonborn > Draconic Ancestry",
+      "Spellcasting > Casting Time"
+    ],
+    "rules_explanation": "Depending on the type of draconic damage, the sorcerer gains resistance. Depending on the spell being cast, the casting time is based on the spells listed components."
+  },
+  {
+    "question": "I'm at zero but I got temporary hit points, am I alive?",
+    "answer": "No, temporary hit points do not restore you to consciousness or stabilize you.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points > Temporary Hit Points"
+    ],
+    "rules_explanation": "Temporary hit points are separate from your actual hit points, and can only absorb damage directed at you in that state."
+  },
+  {
+    "question": "Luc is unconscious and at 0 hit points. Yeza has just come into the room. What must be rolled or done?",
+    "answer": "If Luc is at 0 hit points at the start of his turn, he must make a death saving throw.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life."
+  }
+]

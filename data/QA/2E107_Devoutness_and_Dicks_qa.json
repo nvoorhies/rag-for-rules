@@ -1,0 +1,425 @@
+[
+  {
+    "question": "Can the level 1 Fighter/Level 2 Wizard add 10 to a stealth check due to the spell \"pass without trace\"?",
+    "answer": "Yes. They gain a +10 bonus to stealth check due to Pass Without Trace.",
+    "rules": [
+      "Spellcasting > Ritual Casting",
+      "Using Ability Scores > Ability Checks > Skills",
+      "Spells List > Pass Without Trace"
+    ],
+    "rules_explanation": "The character has casts pass without trace and it is a transmutation spell with Verbal, somatic, and material components. It is not listed as a ritual. The spell confers a +10 bonus to Stealth checks."
+  },
+  {
+    "question": "If a level 1 Fighter/Level 2 Wizard is running away from a T-rex, and they cast \"Pass without trace\" does the group have to re-roll stealth checks?",
+    "answer": "Yes, after casting \"Pass without Trace\", everyone must reroll their stealth checks.",
+    "rules": [
+      "Spellcasting > Ritual Casting",
+      "Using Ability Scores > Ability Checks > Skills",
+      "Spells List > Pass Without Trace"
+    ],
+    "rules_explanation": "The spell description does not replace stealth checks, it grants a bonus to them, and so the values change when it takes effect."
+  },
+  {
+    "question": "Can the lvl 4 Monk/Level 5 Barbarian character cancel the natural 20 of a T-rex bite by using the lvl 7 Cleric's \"Ray of Enfeeblement\"? If so, what happens to the damage?",
+    "answer": "Yes. The Ray of Enfeeblement cancels the critical hit. The Monk takes half damage from the bite.",
+    "rules": [
+      "Conditions > Frightened",
+      "Class Features > Barbarian > Rage",
+      "Spellcasting > Range",
+      "Combat > Making an Attack > Critical Hits",
+      "Spell List > Ray of Enfeeblement"
+    ],
+    "rules_explanation": "Ray of Enfeeblement imposes a limitation on Strength-based attacks. It is not concentration based, it is a spell attack, and no information in the transcript suggests that it is no longer in effect. Therefore, it can be used to prevent a hit from becoming a critical hit."
+  },
+  {
+    "question": "Level 4 Monk/ Level 5 Barbarian has the \"Ray of Enfeeblement\" in effect on a T-rex, and the cleric cancels the saving throw by being within 30 feet of the lvl 5 barbarian and the T-rex. Is this rules legal?",
+    "answer": "The rules do not specify how close a creature must be to the target to cancel the effect of a spell. There is no explicit source of this information that allows one to answer the question.",
+    "rules": [],
+    "rules_explanation": "The rules do not mention the specific rules that apply. Thus there are no applicable rules to answer the question"
+  },
+  {
+    "question": "The spell Blade Barrier creates a wall that measures 60 feet in diameter and 20 feet high. Can it be created fifteen feet off the ground?",
+    "answer": "I could say... since it is whirling blades, I'll allow it to be at any height.",
+    "rules": [
+      "Spellcasting > Range",
+      "Spell List > Blade Barrier"
+    ],
+    "rules_explanation": "The spell is not in the SRD. It appears to be a DM decision to allow it to be placed higher than surface level."
+  },
+  {
+    "question": "A T-Rex is failing a saving throw, so the high level Cleric/Paladin can use an ability to turn that into a success. What are the rules for canceling a hit in this case? Does that mean half damage for this effect, or does the T-Rex's exhaustion effect remain in place, or other effects?",
+    "answer": "The creature is under the effects of the Ray of Enfeeblement, which only imposes disadvantage on Strength based attacks, so has no effect.",
+    "rules": [
+      "Conditions > Frightened",
+      "Class Features > Barbarian > Rage",
+      "Spellcasting > Range",
+      "Combat > Making an Attack > Critical Hits",
+      "Spell List > Ray of Enfeeblement"
+    ],
+    "rules_explanation": "Ray of Enfeeblement imposes a limitation on Strength-based attacks. It is not concentration based, it is a spell attack, and no information in the transcript suggests that it is no longer in effect. Therefore, it can be used to prevent a hit from becoming a critical hit."
+  },
+  {
+    "question": "Can the level 4 monk climb the tree to be out of melee range with the T-Rex before it hits them?",
+    "answer": "The rules do not specify how far someone can move up a tree on their turn. It depends on their speed and the difficulty of the tree.",
+    "rules": [
+      "Adventuring > Time",
+      "Adventuring > Movement",
+      "Adventuring > The Environment > Special Types of Movement > Climbing, Swimming, and Crawling"
+    ],
+    "rules_explanation": "The monk is able to take the climb action, but the distance depends on the nature of the tree, and other factors."
+  },
+  {
+    "question": "A player states, \"I'm going to bless you.\" What do they need to provide with that action?",
+    "answer": "Verbal and somatic components and the touch need to be provided.",
+    "rules": [
+      "Spellcasting > Components",
+      "Spell List > Bless"
+    ],
+    "rules_explanation": "This spell requires only verbal and somatic components. Bless requires touching another creature to impart its benefits."
+  },
+  {
+    "question": "If an ancient green dragon is at range, and there is a paladin is medium armor within 30 feet of them, and an ally in light armor within 40 feet, and the dragon breath attacks them, will the 3rd level warding bond still protect that other target in the group?",
+    "answer": "You can also create a Warding Bond in any of the following ways: By touching one or both sides of a long object (such as a door, wall or pillar) that is at least 5 feet in width, if you can stretch your arms out far enough to touch both sides.",
+    "rules": [
+      "Combat > Cover",
+      "Spell List > Control Weather",
+      "Armor > Armor Class (AC)",
+      "Multiclassing > Class Features > Spellcasting",
+      "Class Features > Paladin > Sacred Oath > Oath Spells",
+      "Spell List > Warding Bond",
+      "Spellcasting > Spell Slot"
+    ],
+    "rules_explanation": "There are no applicable rules to answer the question. The warding bond must be established before hand to transfer. Warding bond has a touch range and must be designated. If all rules have been met, this can apply. But the wording is not explicit enough to be used to protect from an attack, you must designate it."
+  },
+  {
+    "question": "After killing the T-Rex, how should the players remove the T-Rex from the area?",
+    "answer": "It is going to take you guys a little bit of time to try and lash this very large-- like we're talking-- this is... many thousands of pounds of meat here. If you're going to bring the body it's going to be a collected effort. All of you plus this and whatever spells you have at your disposal that might aid this.",
+    "rules": [
+      "Adventuring > Movement > Lifting and Carrying"
+    ],
+    "rules_explanation": "The actual method of movement is not specified, but it depends on the carrying capacity of the creatures. Other methods of magical transportation, such as teleportation, have rules associated that affect use."
+  },
+  {
+    "question": "Can a druid wildshape into the dead T-Rex to carry it to town?",
+    "answer": "Generally, it's reserved for a living creature.",
+    "rules": [
+      "Class Features > Druid > Wild Shape",
+      "Monster > Type"
+    ],
+    "rules_explanation": "The target must be a beast and is a living creature, the t-rex is now a dead object."
+  },
+  {
+    "question": "Can a wizard use polymorph to turn into the dead T-Rex to carry it to town?",
+    "answer": "Generally, it's reserved for a living creature.",
+    "rules": [
+      "Spell List > Polymorph",
+      "Monster > Type"
+    ],
+    "rules_explanation": "Polymorph targets a creature. A dead T-Rex is not a creature, it is now an object."
+  },
+  {
+    "question": "Can a high level wizard polymorph some gold into a dick?",
+    "answer": "Yeah, I could transmute some of our coin to--",
+    "rules": [
+      "Spell List > Polymorph"
+    ],
+    "rules_explanation": "The text indicates that the rules allow coins to be transmuted into a dick"
+  },
+  {
+    "question": "Can I cast Blade Barrier off of the ground?",
+    "answer": "Since it is whirling blades, I'll allow it to be at any height.",
+    "rules": [
+      "Spellcasting > A Clear Path to the Target",
+      "Spellcasting > Area of Effect",
+      "Spellcasting > Components > Somatic (S)",
+      "Spellcasting > Casting Time",
+      "Spellcasting > Targets",
+      "Spell List > Blade Barrier"
+    ],
+    "rules_explanation": "Blade Barrier is not in SRD and it appears to be a DM ruling."
+  },
+  {
+    "question": "Can Veth use Sharpshooter on a target that is grappled?",
+    "answer": "Yes. Since the target is grappled, the shot is with advantage. Sharpshooter can be used.",
+    "rules": [
+      "Feats > Sharpshooter"
+    ],
+    "rules_explanation": "Although Sharpshooter incurs a -5 penalty to hit, it can be used when the rogue has advantage. Since the grappled target is a creature, it cannot move out of the location where it is being attacked."
+  },
+  {
+    "question": "Can you Polymorph a dead thing?",
+    "answer": "Generally, it's reserved for a living creature.",
+    "rules": [
+      "Spell List > Polymorph"
+    ],
+    "rules_explanation": "The polymorph spell specifically targets a creature. Once a creature is dead, it becomes an object."
+  },
+  {
+    "question": "What does the Nature proficiency of the nature cleric tell us about the world or the two moons?",
+    "answer": "Catha's next full moon is probably going to be in about three weeks, but illusion can probably fix that to a certain localized area. Ruidus is on the other side of the sky right now.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Nature"
+    ],
+    "rules_explanation": "These questions are not well enough defined. But I think that the nature cleric is trying to understand the cycles of the moon and the natural connection between the two moons and the calendar."
+  },
+  {
+    "question": "What is going on with the Nature check?",
+    "answer": "Ah, uh, one.",
+    "rules": [
+      "Class Features > Skill Proficiencies",
+      "Class Features > Druid > Druid Circle"
+    ],
+    "rules_explanation": "The only thing that can be determined is the roll, not the specifics of the proficiency."
+  },
+  {
+    "question": "Can Caleb have two Programmed Illusions going?",
+    "answer": "Yeah, they are indefinite.",
+    "rules": [
+      "Spell List > Programmed Illusion"
+    ],
+    "rules_explanation": "It can be cast and used, and there is not limitation on the number of times you can cast it."
+  },
+  {
+    "question": "In Vilya is doing a tree spell and the portal opens up on this end at the tree and the portal opens up on a tree in the Menagerie Coast somewhere. People go one way through, right? If someone's standing at the Menagerie Coast tree, will they see a portal open and if so, can they come back the other way during those same six seconds?",
+    "answer": "They could.",
+    "rules": [],
+    "rules_explanation": "Rules depend on the rules of Vilya's particular magic ability, which are not well enough described in this document."
+  },
+  {
+    "question": "If people are going from the village of Vo to the Menagerie Coast using Vilya's portal, can someone go with one of these groups, could I then come back the next day if you opened it at the same time?",
+    "answer": "It's going to be at different locations. We're breaking them up by whoever's heading where. I'm getting them closest to where they need to be. I mean, I could, perhaps, towards the end of the week. We have it broken down into five batches.",
+    "rules": [],
+    "rules_explanation": "Rules depend on the rules of Vilya's particular magic ability, which are not well enough described in this document."
+  },
+  {
+    "question": "Can I use a survival check for traveling through the jungle?",
+    "answer": "Okay, go ahead and make a survival check for me, if you don't mind.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Survival"
+    ],
+    "rules_explanation": "The nature of the survival check depends on the circumstances, but survival can be used to travel through the jungle."
+  },
+  {
+    "question": "Can advantage apply to initiative rolls?",
+    "answer": "You do get a point of exhaustion. But you do, still using your Find the Path spell and now guiding a number of volunteers from the village of Vo, you do clear out a good section of the jungle heading towards the base of this volcano.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Survival",
+      "Spell List > Find the Path"
+    ],
+    "rules_explanation": "The statement implies that, as the party is guiding them along the path, that advantage applies, depending on the difficulty of navigating."
+  },
+  {
+    "question": "If the character has an ability where I can cancel attack or saving throw, can I do it AFTER a natural 20 has already been rolled?",
+    "answer": "You can do so after seeing the initial roll but before any of the roll's effects occur.",
+    "rules": [
+      "Combat > Making an Attack > Rolling 1 or 20"
+    ],
+    "rules_explanation": "The result of rolling a natural 20 is not known until after the roll, so the character would be able to use an ability to avoid the roll."
+  },
+  {
+    "question": "With a 28 Stealth roll, will the creature still surprise?",
+    "answer": "But do not seem to notice or hear your passage.",
+    "rules": [],
+    "rules_explanation": "Creatures with high stealth rolls can sneak past creatures with low perception, as detailed in the stealth rules. You can use a creature's passive perception."
+  },
+  {
+    "question": "As the party is flanking and spreading out for the T-rex fight, there would be an additional stealth check. Is advantage available to the check?",
+    "answer": "As you guys are now approaching and spreading out in preparation for this, there would be an additional stealth check. You are helping.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "If another character is assisting, advantage is gained on the roll."
+  },
+  {
+    "question": "The druid cast Ray of Enfeeblement and then the T-rex head spins around. Can the tree provide them with cover?",
+    "answer": "I'm going to take some cover.",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "The character moves behind the nearest tree and that is sufficient for the character to have partial or three quarters cover."
+  },
+  {
+    "question": "The Sorcerer character Veth, who is on a tree, rolled low and made a cry of pain. What action can Veth take?",
+    "answer": "Yeah, all right. That's half your movement standing up from there.",
+    "rules": [
+      "Combat > Actions in Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "Because the tree is high up, she fell and thus is now prone. As such, she must spend half her movement to stand up."
+  },
+  {
+    "question": "If a T-Rex is being summoned into an area where the size is limited, what should happen?",
+    "answer": "If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available.",
+    "rules": [
+      "Spell List > Enlarge/Reduce"
+    ],
+    "rules_explanation": "The enlarge/reduce spell mentions that the target grows to the maximum size possible, but does not clarify what should happen when a target is summoned, or appears through other effect."
+  },
+  {
+    "question": "The characters have an NPC, what would be required to turn that NPC into a bear?",
+    "answer": "All right, then. It's because the target is being polymorphed.",
+    "rules": [
+      "Spell List > Polymorph"
+    ],
+    "rules_explanation": "It depends on the ability to polymorph someone. Generally it would depend on the spell polymorph."
+  },
+  {
+    "question": "Player asks what was needed for a surprise?",
+    "answer": "You still get a surprise round, except for Veth.",
+    "rules": [
+      "Combat > Surprise"
+    ],
+    "rules_explanation": "The players can do something before, the T-Rex does anything, before initiative is done."
+  },
+  {
+    "question": "Can the characters put that dinosaur into a tiny bottle?",
+    "answer": "If you have enough bags, if you have enough bags.",
+    "rules": [
+      "Equipment > Wondrous Item"
+    ],
+    "rules_explanation": "This is vague and seems to depend on the possession of the bag of holding and the amount of bags available."
+  },
+  {
+    "question": "Can a player take on the role of a T-Rex and attack with it?",
+    "answer": "Yes. Caleb totally just blue screened.",
+    "rules": [
+      "Spell List > Polymorph"
+    ],
+    "rules_explanation": "There are many reasons for changing polymorph forms, depending on the specific nature of the form, including combat reasons."
+  },
+  {
+    "question": "The player is bit, what is the process for biting and drawing a sword?",
+    "answer": "I summon the sword and prepare to charge in before a fucking Bengal tiger-shaped T-Rex runs into the fray, and I'm like: Nah, I'm good.",
+    "rules": [
+      "Equipment",
+      "Combat"
+    ],
+    "rules_explanation": "This is largely role playing and depends on the description of the events."
+  },
+  {
+    "question": "Who is up next for this fight?",
+    "answer": "Beau, as you look up you see its head-- (swoosh) (roar) As its head lunges down towards you.",
+    "rules": [],
+    "rules_explanation": "Again, not well enough defined as it's a description of events of who is targeted."
+  },
+  {
+    "question": "What will the critical be if it is blocked?",
+    "answer": "Doubled, instead we brought it to single, and then it's halved.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage",
+      "Combat > Making an Attack > Critical Hits",
+      "Spell List > Ray of Enfeeblement"
+    ],
+    "rules_explanation": "Since there is first a roll with advantage for a critical, then doubled, that process is halved due to ray of enfeeblement."
+  },
+  {
+    "question": "What can they do to the T-Rex?",
+    "answer": "The T-Rex is no longer Enfeebled.",
+    "rules": [
+      "Spell List > Ray of Enfeeblement"
+    ],
+    "rules_explanation": "The nature of enfeeblement is that it can be canceled, which has occurred here."
+  },
+  {
+    "question": "Are there any more T-Rexes? How would I find out?",
+    "answer": "At the moment, it seems pretty safe.",
+    "rules": [
+      "Actions in Combat > Search"
+    ],
+    "rules_explanation": "A perception check was used."
+  },
+  {
+    "question": "If you use a action to speak, do you have to be able to hear yourself speak? Or can you speak with just thought and action?",
+    "answer": "Okay, yeah. Can we walk away?",
+    "rules": [],
+    "rules_explanation": "The nature of speech is more complicated."
+  },
+  {
+    "question": "Does anybody else... is anybody else thinking about that vision that Vo gave us?",
+    "answer": "Why was it running? Why the eyes? Why run here?",
+    "rules": [],
+    "rules_explanation": "It's an in-world thought of the characters."
+  },
+  {
+    "question": "Where have we already heard Kent Plucker's name?",
+    "answer": "He was part of Dr. Dranzel's--",
+    "rules": [],
+    "rules_explanation": "This is world specific as there are no rules associated."
+  },
+  {
+    "question": "As the days pass after killing the T-Rex and the characters are traveling to the top of the volcano and setting up signs that are in the symbol of what was requested. What is the name of this setup?",
+    "answer": "You set up a bar area.",
+    "rules": [],
+    "rules_explanation": "This appears to be in world flavor and not really rule defined."
+  },
+  {
+    "question": "We should definitely have some music playing. What is the music playing?",
+    "answer": "(laughs) (festival music)",
+    "rules": [],
+    "rules_explanation": "No rule to answer this question as it's world context."
+  },
+  {
+    "question": "One of the members of the party is going to cast bless. Will it affect everyone in the party?",
+    "answer": "Yeah, I'll announce the dick hunt.",
+    "rules": [
+      "Spell List > Bless"
+    ],
+    "rules_explanation": "Bless is a touch-ranged spell that grants a bonus to rolls. If a character is touched, they will be blessed."
+  },
+  {
+    "question": "You all have cloaks, right? We should definitely have some music playing. This scene is about people that did bad things, is the Travel really giving everyone some way out?",
+    "answer": "I can gather that not all of you are fans of me and that's fine. I get it, few are, but nevertheless, I'm appreciative. You all have cloaks, right?",
+    "rules": [],
+    "rules_explanation": "This is roleplay and not covered by rules."
+  },
+  {
+    "question": "After the group discovers the sleeping T-Rex, what is the process of how everyone needs to take reroll checks to keep the pass without trace?",
+    "answer": "Okay, I would like all of you to re-roll stealth check to Pass Without a Trace.",
+    "rules": [
+      "Spellcasting > Components",
+      "Using Ability Scores > Ability Checks > Skills",
+      "Spell List > Pass Without Trace"
+    ],
+    "rules_explanation": "Yes, stealth checks must be rerolled for pass without trace. You get bonus on Stealth checks is a +10 bonus to Dexterity (Stealth) checks"
+  },
+  {
+    "question": "When casting blade barrier as part of Jester's turn, how is the turn order determined?",
+    "answer": "Okay. Are we doing the ray or are you doing?",
+    "rules": [
+      "Combat > The Order of Combat"
+    ],
+    "rules_explanation": "That depends on the results of rolling initiative."
+  },
+  {
+    "question": "Before we started all this, is it too late to say I Invoked Duplicity?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Actions in Combat > Reactions"
+    ],
+    "rules_explanation": "Invocation would have to be done in advance of the events and not after."
+  },
+  {
+    "question": "If you succeed the Stealth check, what would you do?",
+    "answer": "I would like some sort of log cover about 40 feet away.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Stealth",
+      "Combat > The Order of Combat"
+    ],
+    "rules_explanation": "Again, this is not rules-related, but has to do with how the character plays. There is no specific rule in the system reference document to help answer the question."
+  },
+  {
+    "question": "With the terrain and situation, who goes first?",
+    "answer": "25 to 20.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The GM decides the final order, and all that is known by the players is the roll range."
+  },
+  {
+    "question": "What does it cost to roll out for that check?",
+    "answer": "That's a lot of fun, it's a lot of fun.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Again, is just for flavor, not in the SRD, is just an explanation of the situation."
+  }
+]

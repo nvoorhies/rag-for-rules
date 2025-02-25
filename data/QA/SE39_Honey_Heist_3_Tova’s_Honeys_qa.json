@@ -1,0 +1,55 @@
+[
+  {
+    "question": "Can the level 1 [class, race: unknown] type \"hacker\" use criminal skill to hack into the system and make it even more sweet, if they have 3 criminal skill points?",
+    "answer": "Yes, the character can roll twice and take the lower of the dice for the criminal skill check. If the result is 3 or lower, the check succeeds.",
+    "rules": [
+      "Core Rules > Ability Checks > Skills",
+      "Chapter 9 > Combat > Cover & Obstacles"
+    ],
+    "rules_explanation": "Because the challenge in the game is to roll equal or under the skill value, the roll that matters for success is the lowest roll. So the advantage condition is reversed. If the roll of the dice is equal to or under the skill number, the check is successful."
+  },
+  {
+    "question": "How can a player determine the result of the hats d8 dice roll from Bearsley?",
+    "answer": "Roll a d8.",
+    "rules": [
+      "Chapter 1 > A Step-by-Step Example > 3. Roll the Dice."
+    ],
+    "rules_explanation": "The #EverythingIsContent ruleset requires the players to roll a d8 to determine which kind of hat their player has."
+  },
+  {
+    "question": "Can the level 1 [class, race: unknown] type \"thief\" re-roll twice and take the lowest of the dice for the criminal skill check to break right into that if weak point in the cross-braces, and you punch the shit out of this crate, if they have a thief skill set up to be advantage twice?",
+    "answer": "Yes, the character can roll twice and take the lower of the dice for the criminal skill check.",
+    "rules": [
+      "Core Rules > Ability Checks > Skills",
+      "Chapter 9 > Combat > Cover & Obstacles"
+    ],
+    "rules_explanation": "Because the challenge in the game is to roll equal or under the skill value, the roll that matters for success is the lowest roll. So the advantage condition is reversed. If the roll of the dice is equal to or under the skill number, the check is successful."
+  },
+  {
+    "question": "Can the level 1 [class, race: unknown] type \"muscle\" try and punch that for the player, and does advantage on the roll roll twice and take the lowest for the criminal skill, and what skill is being checked?",
+    "answer": "Yes, the character can roll twice and take the lower of the dice for the criminal skill check.",
+    "rules": [
+      "Core Rules > Ability Checks > Skills",
+      "Chapter 9 > Combat > Cover & Obstacles"
+    ],
+    "rules_explanation": "Because the challenge in the game is to roll equal or under the skill value, the roll that matters for success is the lowest roll. So the advantage condition is reversed. If the roll of the dice is equal to or under the skill number, the check is successful."
+  },
+  {
+    "question": "When the double-O Salmon has gone underwater and then has 5 minutes of oxygen remaining, how deep are the level 1 [class, race: unknown] in the car, and after about 10 min to break, would there be 6 dead bears?",
+    "answer": "The depth is not specified, other than being described as 'not too deep' and being able to see daylight from the surface. There is not a rules basis to assume characters die during the break.",
+    "rules": [
+      "Chapter 8 > Adventuring > The Environment > Vision and Light",
+      "Chapter 8 > Adventuring > The Environment > Suffocating"
+    ],
+    "rules_explanation": "The current game situation depends on the location of the vehicle, which is near but not on the sea floor. The time limit for the break is 10 min, which is longer than the oxygen supply, but also assumes all creatures can come up and get air."
+  },
+  {
+    "question": "How many d8 dice did the level 1 [class, race: unknown] needs to roll against this lock, and are we rolling against thief as an action?",
+    "answer": "You roll 2d6 for your thief skill check.",
+    "rules": [
+      "Core Rules > Ability Checks > Skills",
+      "Chapter 9 > Combat > Cover & Obstacles"
+    ],
+    "rules_explanation": "Because the challenge in the game is to roll equal or under the skill value, the roll that matters for success is the lowest roll. So the advantage condition is reversed. If the roll of the dice is equal to or under the skill number, the check is successful."
+  }
+]

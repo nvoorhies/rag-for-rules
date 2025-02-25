@@ -1,0 +1,51 @@
+[
+  {
+    "question": "Can the level 4 transmutation wizard character cast \"Feather Fall\" on himself in reaction to seeing another creature falling within 60 feet of the character?",
+    "answer": "The level 4 transmutation wizard can cast the \"Feather Fall\" spell using a reaction on a creature within 60 feet of the character.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Reactions"
+    ],
+    "rules_explanation": "The rules describe that a spell cast as a reaction is cast in response to some event and the details of the event are in the spell description. Feather Fall has a casting time of one reaction in response to a creature falling, so it follows that rule."
+  },
+  {
+    "question": "If the Barbarian takes fire damage, what happens to the Rage Feature?",
+    "answer": "While raging, the barbarian has resistance to bludgeoning, piercing, and slashing damage. The rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The barbarian has resistance to the types of physical damage but not fire so is subject to damage from fire, and must continue to attack, but is not specified to affect the state of rage."
+  },
+  {
+    "question": "If a spell has both advantage and disadvantage, how many dice are rolled?",
+    "answer": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules for resolving conflicting advantage and disadvantage say to ignore both and roll a single dice"
+  },
+  {
+    "question": "Does the level 13 monk's tongue of the sun and moon feature enable the level 13 monk to read all languages in addition to understanding all languages?",
+    "answer": "The level 13 monk's tongue of the sun and moon feature allows you to understand all spoken languages. There is no component about reading all languages in the rules.",
+    "rules": [
+      "Classes > Monk > Class Features > Tongue of the Sun and Moon"
+    ],
+    "rules_explanation": "The description of Tongue of the Sun and Moon describes understanding all spoken language, not reading language."
+  },
+  {
+    "question": "If a level 1 divination wizard has the keen mind feature and looks at the strange scribblings in the book, can they recall the details of any of the pages they just looked at?",
+    "answer": "Even with your Keen Mind feat, and for the first time, oddly, you can really not recall the details of any of the pages you just looked at.",
+    "rules": [
+      "No Rules Applicable"
+    ],
+    "rules_explanation": "The DM made a call that specifically makes that feat not apply to this situation"
+  },
+  {
+    "question": "Does the level 1 barbarian's unarmored defense class feature function while wildshaped into beast form with an AC based on natural armor?",
+    "answer": "While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Unarmored Defense",
+      "Classes > Druid > Class Features > Wild Shape"
+    ],
+    "rules_explanation": "The unarmored defense feature specifically relies on not wearing armor, so the feature would not work if you're using a beast with a natural armor feature"
+  }
+]

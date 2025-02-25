@@ -1,0 +1,477 @@
+[
+  {
+    "question": "Does Level 11 [Race] [Class] Yasha have a bonus action attack?",
+    "answer": "Based on the Barbarian class description in the SRD, she does not.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The Barbarian class features state that a Barbarian does not have a bonus action attack by default. The subclass abilities also do not convey a bonus action attack at Level 11."
+  },
+  {
+    "question": "Can a character use Uncanny Dodge when they're prone?",
+    "answer": "Yes. Uncanny Dodge states that a character can use their reaction to halve the damage from an attack. The Prone condition does not prevent a character from using their reaction.",
+    "rules": [
+      "Classes > Rogue > Uncanny Dodge",
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The description of the Uncanny Dodge ability states that it is a reaction to halve damage from an attack. The description of the Prone condition in the SRD does not explicitly prevent a character from using reactions. Thus a prone character can use uncanny dodge."
+  },
+  {
+    "question": "How much movement does a Level 11 [Race] [Class] Nott have left?",
+    "answer": "According to the SRD, her speed is 35 feet. She used half her movement to stand up, which leaves her with 15 feet of movement.",
+    "rules": [
+      "Adventuring > Movement > Speed",
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "A prone creature must use half its speed to stand. Nott has a speed of 35 feet, so standing up costs 17.5 feet. Rounding down gives 17 feet used for the action. 35-17 = 18. This gives 18 feet of movement remaining."
+  },
+  {
+    "question": "Is there a spell called Extract Aspects?",
+    "answer": "I could not locate this spell in the SRD.",
+    "rules": [],
+    "rules_explanation": "Confirmed there was not Extract Aspects Spell from srd."
+  },
+  {
+    "question": "Does Caleb have a clear line of sight to the creature to cast Disintegrate at this position?",
+    "answer": "The SRD does not specify a rule about the use of line of sight during combat or casting spells. This would be decided at the GM's discretion.",
+    "rules": [],
+    "rules_explanation": "Line of sight is a GM judgment"
+  },
+  {
+    "question": "Can the Level 11 [Race] [Class] Yasha and Beau, flank the creature in their current locations?",
+    "answer": "The SRD does not specify a rule for flanking. This would be decided at the GM's discretion.",
+    "rules": [],
+    "rules_explanation": "Flanking rules are not described in the SRD"
+  },
+  {
+    "question": "Does the creature's Defensive Shift, legendary action, provoke an attack of opportunity?",
+    "answer": "The description of the Attack of Opportunity rules does not specify whether a legendary action provokes an attack of opportunity, so it is up to the GM.",
+    "rules": [],
+    "rules_explanation": "The Rules do not discuss the possibility of Legendary Actions triggering an attack of opportunity."
+  },
+  {
+    "question": "Can Nott hide while levitating?",
+    "answer": "While it would be possible to use the Hide action while levitating, it would be up to the DM to determine if the conditions to actually Hide are available in the environment given Nott is in.",
+    "rules": [
+      "Combat > Actions in Combat > Hide"
+    ],
+    "rules_explanation": "The Hide action depends on the environment available to hide. If it's not possible to hide, then the check will automatically fail."
+  },
+  {
+    "question": "Can I, as Beau, make an attack of opportunity against the creature with disadvantage when I am restrained?",
+    "answer": "Yes, a restrained character can make opportunity attacks but they do so at disadvantage.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "Creatures can make attacks of opportunity while restrained, but if the target would have advantage on an attack roll, they instead roll normally. If the target would have disadvantage on an attack roll, they instead roll with disadvantage."
+  },
+  {
+    "question": "If a natural 20 was rolled for an attack roll, and advantage was in play to cancel out disadvantage for the same roll, does the natural 20 still hit?",
+    "answer": "Yes. If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target's AC.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "A natural 20 always hits."
+  },
+  {
+    "question": "Is advantage over for this round?",
+    "answer": "Whether any existing advantage applies on later turns depends on the source. For the Battle Cry feature, it specifies that it grants advantage on attack rolls and saving throws for this round.",
+    "rules": [],
+    "rules_explanation": "Advantage and disadvantage can originate from a number of sources. The duration of an advantage or disadvantage is always dictated by the source."
+  },
+  {
+    "question": "Can Nott do sneak attack twice in one turn?",
+    "answer": "No, you can only deal sneak attack damage once per turn.",
+    "rules": [
+      "Classes > Rogue > Class Features > Sneak Attack"
+    ],
+    "rules_explanation": "The SRD states that you can deal sneak attack once per turn."
+  },
+  {
+    "question": "What happens if I cast Levitate and then drop concentration?",
+    "answer": "When the spell ends, the target floats gently to the ground if it is still aloft.",
+    "rules": [
+      "Spellcasting > Duration > Concentration",
+      "Spells > Levitate"
+    ],
+    "rules_explanation": "When concentration is dropped from Levitate, it simply ends."
+  },
+  {
+    "question": "If you use a legendary action to shift out of a space that would provoke an attack of opportunity, does it allow you to move without triggering attacks of opportunity?",
+    "answer": "It depends on the ability or spell that is the source of the reaction. For example, the Disengage action does allow a character to move without provoking an opportunity attack.",
+    "rules": [
+      "Combat > Actions in Combat > Disengage",
+      "Combat > Reactions > Opportunity Attacks"
+    ],
+    "rules_explanation": "A creature can avoid provoking an opportunity attack by taking the Disengage action. Some abilities like Defensive Shift in this example, do not include this feature."
+  },
+  {
+    "question": "If the Level 11 [Race] [Class] Fjord is knocked unconscious, does Relentless Rage allow him to avoid being knocked unconscious?",
+    "answer": "Since you were knocked to 0 hit points due to an effect other than damage from an attack, and have Relentless Endurance, you drop to 1 hit point instead of 0. Relentless Rage only works while you're raging, and Fjord is a warlock, not a barbarian.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Relentless Rage",
+      "Races > Half-Orc > Relentless Endurance"
+    ],
+    "rules_explanation": "A half-orc has the Relentless Endurance ability that, one time, allows them to drop to one hit point rather than zero, when they are reduced to 0 hit points. A barbarian's Relentless Rage ability allows them to make a Constitution saving throw to remain at 1 hit point when they drop to 0 hit points *while raging*."
+  },
+  {
+    "question": "As the Level 11 [Race] [Class] Beau, can I straddle Fjord's space to attack the creature?",
+    "answer": "The description of Space doesn't allow sharing a space. Therefore you cannot enter Fjord's space to flank the creature.",
+    "rules": [
+      "Combat > Movement and Position > Space"
+    ],
+    "rules_explanation": "There is no straddling in the rules as it is a shared occupied space."
+  },
+  {
+    "question": "Can I, as Beau, use Step of the Wind while being restrained?",
+    "answer": "No, because Step of the Wind requires a bonus action to dash or disengage and creatures have no actions and can't move while restrained.",
+    "rules": [
+      "Classes > Monk > Class Features > Step of the Wind",
+      "Appendix PH-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "The SRD describes that creatures that are restrained can not move. Step of the wind requires movement and using the Dash action, so this cannot be done while Restrained."
+  },
+  {
+    "question": "While levitating, can a Level 7 [Race] [Class] Nott get into the prone position?",
+    "answer": "Yes. There are no restrictions on using the prone condition while levitating, though it may come with some consequences such as potentially affecting ranged attacks or having difficulty moving in a controlled manner.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The prone condition has no rules about being able to be applied while levitating."
+  },
+  {
+    "question": "If I cast a 5th level Widogast's Web of Fire and the creature uses a legendary save to succeed on the save, does the spell still apply for future rounds?",
+    "answer": "The target successfully saved against the spell's effect, so it is not affected at all, which means there are no further saves to make.",
+    "rules": [],
+    "rules_explanation": "Once the save is made, the spell is resisted, and the effect does not continue."
+  },
+  {
+    "question": "Can Jester, a Level 11 [Race] [Class] use Invoke Duplicity to make her duplicate do an action?",
+    "answer": "When Jester uses her action to cast Invoke Duplicity, she creates an illusion of herself. As a bonus action, she can move the illusion up to 30 feet and she can use it, for example, to cast Inflict Wounds at 5th-level.",
+    "rules": [],
+    "rules_explanation": "This interaction relies on understanding how the illusion is controlled as per the SRD."
+  },
+  {
+    "question": "If you lower Levitation, do you still have movement?",
+    "answer": "The levitation spell allows you to move up or down as part of your movement, but dropping concentration on the spell is not an action that allows any normal movement.",
+    "rules": [
+      "Spells > Levitate"
+    ],
+    "rules_explanation": "Dropping concentration on the spell is not itself any kind of movement. If one had movement to spare, it could be applied after."
+  },
+  {
+    "question": "If a spell requires a Wisdom save, and a character is both Blessed (adding 1d4 to the roll) and is at advantage, do both bonuses apply?",
+    "answer": "Yes, everything stacks. So a d4 can be added to the saving throw, and the higher of two d20 rolls is taken.",
+    "rules": [],
+    "rules_explanation": "It was stated and generally understood that there were multiple buffs, and all are applied."
+  },
+  {
+    "question": "If a creature is knocked prone on an attack of opportunity, what happens?",
+    "answer": "It has no bearing on the attack, as it has already happened, but the new status condition will have implications on later attack actions.",
+    "rules": [],
+    "rules_explanation": "Prone is a condition, and the effect is not retroactive."
+  },
+  {
+    "question": "Can one, two, three, all of the legendary actions be defensive shift?",
+    "answer": "I could not find a rules that prevent a creature from using Defensive Shift multiple times, so it would be up to the GM to decide if this is possible.",
+    "rules": [],
+    "rules_explanation": "The description of Legendary Actions does not prevent using the same one multiple times within a given turn. Therefore this is a DM judgment."
+  },
+  {
+    "question": "Can I, as Beau, perform a Saddle Ranch Moment?",
+    "answer": "The SRD does not define a 'Saddle Ranch Moment,' so whether you can perform this action depends on the GM's ruling.",
+    "rules": [],
+    "rules_explanation": "The SRD lacks a 'Saddle Ranch Moment' rule, so this is left to DM adjudication."
+  },
+  {
+    "question": "Can a bag of holding be used to collect someone who has been turned to stone?",
+    "answer": "There is no rule prohibiting this, but such an action could have detrimental results based on the descriptions of these objects.",
+    "rules": [
+      "Equipment > Wondrous Items > Bag of Holding"
+    ],
+    "rules_explanation": "Such an action is permitted under the rules, though the SRD does describe that overstuffing or puncturing a bag of holding will rupture the item and send its contents to the Astral Plane."
+  },
+  {
+    "question": "If someone casts Blight on something after it has already been affected by Path to the Grave, does it do double the damage?",
+    "answer": "Yes. The next time one of your allies hits the creature with an attack, the creature has vulnerability to all of the attack's damage. This attack damage vulnerability means that the creature takes double damage from it.",
+    "rules": [
+      "Classes > Cleric > Divine Domain > Grave Domain > Channel Divinity: Path to the Grave",
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "Path to the Grave applies vulnerability and the SRD defines that a creature takes double damage from vulnerability."
+  },
+  {
+    "question": "When Nott fails the acrobatic check, what would happen?",
+    "answer": "Upon failing the Acrobatics check, you take nine points of bludgeoning damage as the body just cracks into you as you land--",
+    "rules": [
+      "Adventuring > The Environment > Falling"
+    ],
+    "rules_explanation": "That Nott would fall and it would be determined for her how much damage to take."
+  },
+  {
+    "question": "Can I do a spell attack of opportunity on a creature moving away?",
+    "answer": "No. Spell Attacks do not have an analogue to an attack of opportunity",
+    "rules": [
+      "Combat > Reactions > Opportunity Attacks"
+    ],
+    "rules_explanation": "A creature can make an opportunity attack when a hostile creature that can see moves out of its reach."
+  },
+  {
+    "question": "Can the level 11 [Race] [Class] Fjord, use Relentless Endurance to stay alive?",
+    "answer": "The Level 11 [Race] [Class] Fjord, can't use Relentless Endurance. Relentless Endurance states when you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. This is also a half-orc trait",
+    "rules": [
+      "Classes > Barbarian > Class Features > Relentless Rage",
+      "Races > Half-Orc > Relentless Endurance"
+    ],
+    "rules_explanation": "This is also a half-orc trait."
+  },
+  {
+    "question": "If a player rolls a 10 on a death save, are they considered to be successful?",
+    "answer": "Yes. If the roll is 10 or higher, you succeed.",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "The save is 10 or higher."
+  },
+  {
+    "question": "At the end of his turn, what does it mean that the creature gets all of its legendary actions back?",
+    "answer": "A creature regains spent legendary actions at the start of its turn.",
+    "rules": [
+      "Monsters > Legendary Creatures > Legendary Actions"
+    ],
+    "rules_explanation": "As it says in the rules."
+  },
+  {
+    "question": "Does Nott still have advantage?",
+    "answer": "No, advantage is over.",
+    "rules": [],
+    "rules_explanation": "The source of the advantage determines the advantage duration"
+  },
+  {
+    "question": "If there is no clear direction, do you still get a sneak attack?",
+    "answer": "There are no effects that can alter sneak attack damage. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.",
+    "rules": [
+      "Classes > Rogue > Class Features > Sneak Attack"
+    ],
+    "rules_explanation": "This is the requirement for sneak attack to be possible. It needs a creature within 5 feet."
+  },
+  {
+    "question": "If the creature has no target and there are two targets equally, how do I decide which is affected by a spell?",
+    "answer": "The GM determines randomly the targets affected. You've done everything, now have to do it random",
+    "rules": [],
+    "rules_explanation": "This is not a documented mechanic and therefore is the GM's judgment."
+  },
+  {
+    "question": "Does Caleb's cat familiar that can be summoned with find familiar, also grant guidance?",
+    "answer": "Caleb does not have access to a cat from find familiar. This familiar option can only be chosen if one is using Pact of the Chain. Also, the homunculus can't perform guidance, as it doesn't have spellcasting ability.",
+    "rules": [],
+    "rules_explanation": "Find familiar can be a bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. The stats don't indicate a way to use guidance as its not a spellcaster."
+  },
+  {
+    "question": "If I used half of my movement to stand, can I use my action to dash and regain movement?",
+    "answer": "If you take the Dash action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. If you used movement to stand then you can add the Dash modifier",
+    "rules": [
+      "Combat > Movement and Position > Difficult Terrain",
+      "Combat > Actions in Combat > Dash"
+    ],
+    "rules_explanation": "The dash action adds the full speed to the existing."
+  },
+  {
+    "question": "If Fjord makes an opportunity attack that turns into a crit, how many saves does he have to make?",
+    "answer": "If the damage is from a critical hit, you suffer two failures instead.",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Death Saving Throws > Rolling 1 or 20"
+    ],
+    "rules_explanation": "Rules for critical are stated for death save. Need to make two saves here."
+  },
+  {
+    "question": "Can a creature be both Restrained and Petrified at the same time?",
+    "answer": "It would be up to the DM to decide if this is possible.",
+    "rules": [
+      "Appendix PH-A: Conditions"
+    ],
+    "rules_explanation": "The list of conditions is clear, the game rules do not clearly say that a creature can't be subjected to multiple conditions at once. That is a matter of interpretation and GM judgment, taking into account how the conditions interact."
+  },
+  {
+    "question": "Can Ashley move up to 30 feet?",
+    "answer": "Yasha can go more than 30 feet. While in Rage, a barbarian's speed increases, the game is set on the floor so she has a floor movement speed.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Fast Movement"
+    ],
+    "rules_explanation": "There are no rules that prevent this. But its known that barbarians get a increased movement speed."
+  },
+  {
+    "question": "Can The Level 11 [Race] [Class] Beau use her action to haymaker?",
+    "answer": "Whether the Level 11 [Race] [Class] Beau can use her action to \"haymaker\" into the creature is unclear because the specifics of that action are not fully defined in the SRD. An action may require a check.",
+    "rules": [
+      "Combat > Actions in Combat",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Actions require checks as the GM dictates, so as Beau wants to haymaker right haymaker, right haymaker, into this guy and this action has specific requirements, it's the DM that is determining the specific skill checks for the player to go for."
+  },
+  {
+    "question": "If a character rolls a natural 1, is it an automatic failure on a save?",
+    "answer": "No. Only a natural 1 on a death saving throw results in two failures, while a 20 results in regaining 1 hit point. For normal saving throws the die roll and modifiers must equal or exceed the DC.",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Death Saving Throws > Rolling 1 or 20"
+    ],
+    "rules_explanation": "The SRD specifies that natural 1s and 20s only have a special effect on death saving throws."
+  },
+  {
+    "question": "Do you have advantage with two attacks or with each attack?",
+    "answer": "You have advantage on your attack rolls and saving throws for this round.",
+    "rules": [],
+    "rules_explanation": "Yeah, and within 60 feet, so I think everybody's within 60 feet. Okay, great. So I would like to go up to him."
+  },
+  {
+    "question": "If damage is doubled from a crit is it doubled before adding any extra damage from a spell or ability or later?",
+    "answer": "That has no clear definition in rules so its a GM interpretation. Some of the effects could be doubled.",
+    "rules": [],
+    "rules_explanation": "That a dice can be doubled. No specification of that this is what happens."
+  },
+  {
+    "question": "At the end of Jester's turn, is her duplicate still around?",
+    "answer": "No, it moves forward, it smashes the one statue.",
+    "rules": [],
+    "rules_explanation": "Because it's not part of the turn of the duplicate."
+  },
+  {
+    "question": "Is there a limit to the range from Beauregard to Nott, that the Level 5 [Race] [Class] Nott could be at and use Mage Hand to do it?",
+    "answer": "Mage Hand has a range of 30 feet",
+    "rules": [
+      "Spells > Mage Hand"
+    ],
+    "rules_explanation": "Mage hand has range of 30 ft so it can't be more then that range."
+  },
+  {
+    "question": "If an attack is made because of the Sentinel feat, is it still part of the original creature's turn for the purpose of sneak attack damage?",
+    "answer": "Whether an attack made due to the Sentinel feat is considered part of the original creature's turn is not clearly defined in the rules, and thus is subject to GM interpretation.",
+    "rules": [
+      "Feats > Sentinel",
+      "Classes > Rogue > Class Features > Sneak Attack"
+    ],
+    "rules_explanation": "The SRD does not define whether this case allows for the use of Sneak Attack damage and thus must be adjudicated by the DM."
+  },
+  {
+    "question": "If you are levitating and are suddenly no longer levitating, and you are 20 feet in the air, are you prone? Do you take falling damage?",
+    "answer": "Yes and yes. Unless you managed to catch yourself.",
+    "rules": [
+      "Adventuring > The Environment > Falling",
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "20 ft is falling range, and its reasonable you would land on you bottom."
+  },
+  {
+    "question": "Can the party switch out people in the vault of amber?",
+    "answer": "There are no restrictions on who the players put in, so that's up to the GM.",
+    "rules": [],
+    "rules_explanation": "No restrictions on who's there. Up to the GM."
+  },
+  {
+    "question": "When Jester casts Toll the Dead on a creature that has already taken some damage, what is the damage?",
+    "answer": "It's going to be 3d12 because he's already taken some damage.",
+    "rules": [
+      "Spells > Toll the Dead"
+    ],
+    "rules_explanation": "If the target is missing any of its hit points, it rolls 3d12."
+  },
+  {
+    "question": "Can Caleb use a spell attack to cause an attack of opportunity?",
+    "answer": "No. Actions that don't use attack rolls do not cause reactions.",
+    "rules": [
+      "Combat > Reactions > Opportunity Attacks"
+    ],
+    "rules_explanation": "To make the opportunity attack there has to be a reason. Which means that has to move out of range of weapon or attack"
+  },
+  {
+    "question": "If a creature was going to attack you and you were in their range, can you teleport out with a reaction to avoid an attack of opportunity?",
+    "answer": "No. Because they used legendary action it's not a opportunity attack. He will use his last legendary action, at the end of Caduceus' turn to shift out of that space without getting attacks of opportunity.",
+    "rules": [
+      "Combat > Reactions > Opportunity Attacks"
+    ],
+    "rules_explanation": "Yeah, there's no opportunity attacks. He like barrels through and you try and go to swing and it just managed to push out before you even got a chance to swing at it. All righty, that finishes."
+  },
+  {
+    "question": "What happens if you fall into a 20-foot drop prone?",
+    "answer": "At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.",
+    "rules": [
+      "Adventuring > The Environment > Falling"
+    ],
+    "rules_explanation": "Landing in general"
+  },
+  {
+    "question": "While levitating, can I go down 20 feet, and then immediately fly 20 feet away?",
+    "answer": "Yes. Levitate states that you can change the target's altitude by up to 20 feet. If you are the target, you can move up or down as part of your move.",
+    "rules": [
+      "Spells > Levitate"
+    ],
+    "rules_explanation": "It wasn't at some point, because that way I can keep it up, and I can keep the extra save."
+  },
+  {
+    "question": "Can a Level 7 [Race] [Class] Nott, get a sneak attack?",
+    "answer": "Yes, whenever you have an attack that has advantage, that's one of the criteria for getting sneak attack. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.",
+    "rules": [
+      "Classes > Rogue > Class Features > Sneak Attack"
+    ],
+    "rules_explanation": "Because of battle cry."
+  },
+  {
+    "question": "Is Nott hidden now that the battle cry has ended, with the effect of advantage on the attack?",
+    "answer": "No, the game does not indicate that to gain advantage means you're hidden, you can have advantage or not. If you had advantage on the attack, I believe it would allow a sneak attack.",
+    "rules": [
+      "Classes > Rogue > Class Features > Sneak Attack"
+    ],
+    "rules_explanation": "You got it, you got it. Yeah, whenever you have an attack that has advantage, that's one of the criteria for getting sneak attack."
+  },
+  {
+    "question": "Does casting Levitate mean that you are flying?",
+    "answer": "It's not Fly. You can't, like, move.",
+    "rules": [
+      "Spells > Levitate"
+    ],
+    "rules_explanation": "You can go 20 feet down, 20 feet up. It's not Fly. You can't, like, move. No, no, no."
+  },
+  {
+    "question": "Can a character use Medicine to tell where stone pieces would go on a golem?",
+    "answer": "You use, go ahead and make a medicine check to try and understand where they might land within its body. This is an understanding of the physical body. Studying physiology in the presence of where your mother's work office was. One of those 3-D jigsaws of the human body. So I can get to get real creative.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Medicine"
+    ],
+    "rules_explanation": "Can check on that and you know to do what you know to do. This an anatomy and medicine to say does this side of the stone go the face"
+  },
+  {
+    "question": "Is a character in an opaque cube still considered to be seen?",
+    "answer": "To target something, you must have a clear path to it, so it can't be behind total cover.",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target",
+      "Appendix PH-A: Conditions > Total Cover"
+    ],
+    "rules_explanation": "There is the target thing. Clear cover is when you can't even see the person. No line of sight."
+  },
+  {
+    "question": "How long has the been in the game since the end of campaign 1?",
+    "answer": " 10 years ago. 826 which was the year the world ended.",
+    "rules": [],
+    "rules_explanation": " 836 for the present. This happened in 826"
+  },
+  {
+    "question": "When you cast something does that invalidate bless?",
+    "answer": "No. The duration of Bless is still up.",
+    "rules": [],
+    "rules_explanation": "Because bless have all this is what it does and doesn't negate when and casting the spell. So with that."
+  },
+  {
+    "question": "Can I run and cast something at the same time as well?",
+    "answer": "No, a lot is just two parts of a turn. That there's been a movement, then the action and the and yeah.",
+    "rules": [],
+    "rules_explanation": "That's and there. Can't just cast, so it sounds about that first of, I'm going to diagonal reaction"
+  },
+  {
+    "question": "Can a spell be cast as a reaction and an action?",
+    "answer": "The spell has to explicitly be of that. All right, you're right here, has half cover",
+    "rules": [
+      "Spellcasting > Casting Time > Reactions"
+    ],
+    "rules_explanation": "You said you can use reaction you do get to make a spell attack throw the check"
+  }
+]

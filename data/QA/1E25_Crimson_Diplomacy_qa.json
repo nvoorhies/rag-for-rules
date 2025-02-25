@@ -1,0 +1,215 @@
+[
+  {
+    "question": "When the Invisibility spell is broken, does the level 2 rogue know that?",
+    "answer": "As the spell itself would dissipate, as it is a concentration spell, the level 2 rogue would notice this.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Concentration",
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "Concentration spells end when the caster loses concentration.  When concentration ends, the spell ends, and the character would be aware of this event."
+  },
+  {
+    "question": "Because the level 6 half-elf rogue has advantage on saving throws against being charmed, does this apply to the saving throw against the charm effect of the wisdom saving throw?",
+    "answer": "Yes, the level 6 half-elf rogue has advantage on the wisdom saving throw.",
+    "rules": [
+      "Races > Half-Elf > Fey Ancestry"
+    ],
+    "rules_explanation": "The Half-Elf racial trait 'Fey Ancestry' grants advantage on saving throws against being charmed."
+  },
+  {
+    "question": "As the character goes to move away from the creatures, do the arms that are on the level 6 rogue's shoulder, tighten, flex, and hold him in place?",
+    "answer": "The arms tighten, flex, and hold the character in place.",
+    "rules": [],
+    "rules_explanation": "This is a DM determination of the narrative based on the context"
+  },
+  {
+    "question": "If the level 6 rogue uses the rogue's cunning action to disengage, does that mean that nobody can swipe at him if he runs?",
+    "answer": "Yes, using rogue's cunning action to disengage means nobody can swipe at him if he runs.",
+    "rules": [
+      "Classes > Rogue > Cunning Action"
+    ],
+    "rules_explanation": "Cunning Action allows the Rogue to take the Disengage action as a bonus action. The description of the Disengage Action specifies that their movement doesn't provoke opportunity attacks for the rest of the turn."
+  },
+  {
+    "question": "When the level 6 rogue goes unconscious, does that mean he never got his \"I'm right here\" message out?",
+    "answer": "Yes, the level 6 rogue did not get his message out.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Bonus Action"
+    ],
+    "rules_explanation": "The character's consciousness faded before the action was completed."
+  },
+  {
+    "question": "Can the level 18 ranger use Hunter's Mark and sense where Lady Briarwood is?",
+    "answer": "Yes, the level 18 ranger can sense where Lady Briarwood is.",
+    "rules": [],
+    "rules_explanation": "I am unable to find a rule to contradict this claim and so must assume that the description of hunter's mark describes it as being able to sense where someone is in range."
+  },
+  {
+    "question": "Can a level 17 bard Dimension Door outside of the palace wall?",
+    "answer": "Yes, the level 17 bard can Dimension Door outside of the palace wall but is required to make an intelligence check because the bard has not seen this part of the palace.",
+    "rules": [],
+    "rules_explanation": "Requires an intelligence check because the bard has not seen this part of the palace."
+  },
+  {
+    "question": "if the level 18 ranger hits Lady Briarwood, would that hit the other creature, or would that just hit her",
+    "answer": "It would hit both. I will allow it.",
+    "rules": [],
+    "rules_explanation": "This is a DM determination of the narrative based on the context."
+  },
+  {
+    "question": "For the Blazing Bowstring, does that ignite her? Does she take continuous fire damage, or is that just one-time fire damage?",
+    "answer": "No, it's an additional 1d10 once.",
+    "rules": [],
+    "rules_explanation": "This is a DM clarification on the usage of a custom item"
+  },
+  {
+    "question": "Does Seeker Asum get a save now that he's been hit, to shake that charm?",
+    "answer": "No, it has to be damage from the allies of the person who charmed them, so no. You guys are currently considered a threat to him.",
+    "rules": [],
+    "rules_explanation": "The terms of the charm have to be broken by the allies of the person who charmed the creature."
+  },
+  {
+    "question": "when the dragonborn casted fireball, how far can he get?",
+    "answer": "30 feet.",
+    "rules": [],
+    "rules_explanation": "That's as far as you can get."
+  },
+  {
+    "question": "For chain of returning on the firebrand warhammer, what is the distance?",
+    "answer": "60-foot max, but you would be at disadvantage on the throw, anyway.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Thrown"
+    ],
+    "rules_explanation": "The weapon is not normally considered a thrown weapon, so it takes the same distance of a handaxe, which is 60 foot max, but you would be at disadvantage on the throw, anyway."
+  },
+  {
+    "question": "At level five, what bonus does Cutting Words distract him with?",
+    "answer": "roll a d10 and subtract that from his attack modifier",
+    "rules": [],
+    "rules_explanation": "roll a d10 and subtract that from his attack modifier"
+  },
+  {
+    "question": "The universe is random and doesn't care about you and me.",
+    "answer": "Life lessons by Critical Role.",
+    "rules": [],
+    "rules_explanation": "Life lessons by Critical Role."
+  },
+  {
+    "question": "If you are a dragonborn that still flying, so can I see?",
+    "answer": "Right, from an elevated standpoint, you would probably just barely be able to see the edge of Lord Briarwood down there, below. He would have three-quarters cover, but you can see him.",
+    "rules": [],
+    "rules_explanation": "this is a DM interpretation of what the character can see"
+  },
+  {
+    "question": "If the level 17 bard is hasted, can he do two potions? Instead of attack, attack, attack.",
+    "answer": "No. The additional action is not so much a potion.",
+    "rules": [],
+    "rules_explanation": "The additional action from haste cannot be used to drink potions"
+  },
+  {
+    "question": "If i did something that did five feet– ten feet… I've got to look at this. Yeah, ten feet. If I hit Lady Briarwood, would that hit my brother, or would that just hit Bastard Briarwood?",
+    "answer": "No, that would just hit her. Oh, within ten feet? It would hit Seeker and Sylas, yeah.",
+    "rules": [],
+    "rules_explanation": "interpretation of spell range and effects."
+  },
+  {
+    "question": "Do I do any additional damage with my holy arrow?",
+    "answer": "Go ahead and roll damage for the arrow. And you do an additional 2d6 radiant damage to Lord Briarwood.",
+    "rules": [],
+    "rules_explanation": "Roll for your–\n> LAURA: I get another attack, though. Yes? Okay, then I'm going to attack her through my Blazing Bowstring. Natural 20 again!\n> \n> (cheering)\n> \n> MATT: You've certainly invoked the fury tonight. All right, go ahead.\n> \n> LIAM: She loves me.\n> \n> MATT: Against Lady Briarwood to follow up on that?\n> \n> LAURA: Yes, of course it is! Okay, eight plus seven is 15 plus two for bracers, so that's 17 times two is 34.\n> \n> SAM: Hunter's Mark.\n> \n> LAURA: Plus Hunter's Mark damage, which is another fucking six! 38 damage. No! No, it is 40 damage.\n> \n> MATT: Well, no, she's not concentrating because he's unconscious. I was saving for the Hold Person spell, but she's not concentrating on that, currently.\n> \n> LAURA: She's on fire!\n> \n> MATT: She is actually lit on fire.\n> \n> LAURA: I should say what the Blazing Bowstring does, huh? An additional d10 of damage for that. Would that have been part of the part that was multiplied by two?\n> \n> MATT: No.\n> \n> LAURA: Another six for that.\n> \n> LIAM: Does Seeker Asum get a save now that he's been hit, to shake that charm?\n> \n> MATT: It has to be damage from the allies of the person who charmed them, so no. You guys are currently considered a threat to him. All right, so that ends your turn. That brings us to Delilah. Delilah, who's now on fire. Laura, the Blazing Bowstring, does that ignite her? Does she take continuous fire damage, or is that just one-time fire damage? No, it's an additional 1d10 once. She shrugs off the flames. I remember that. Angrily."
+  },
+  {
+    "question": "What's the range on Healing Word?",
+    "answer": "30 feet.",
+    "rules": [],
+    "rules_explanation": "30 feet."
+  },
+  {
+    "question": "What is this, is it permanent?",
+    "answer": "You don't know.",
+    "rules": [],
+    "rules_explanation": "is it permanent?"
+  },
+  {
+    "question": "If she hadn't rolled a natural one on her Counterspell, that would've been pretty bad.",
+    "answer": "But through the sheer force of frustration and anger at this point now, the lightning bolt presses through her counter, and the bolt is released in that direction, arcing towards both of them.",
+    "rules": [],
+    "rules_explanation": "This is a DM determination of the narrative based on the context."
+  },
+  {
+    "question": "Does the character have advantage on those constitution saving throw if he's raging?",
+    "answer": "No, you just have a high constitution.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "The Barbarian's rage ability does not grant advantage on Constitution saving throws."
+  },
+  {
+    "question": "Is there any indication, like it would have a slight glow to it.?",
+    "answer": "There is a slight vibration.",
+    "rules": [],
+    "rules_explanation": "This is a DM determination of the narrative based on the context."
+  },
+  {
+    "question": "If I'm hasted, can I do two potions? Instead of attack, attack, attack.",
+    "answer": "No. The additional action is not so much a potion.",
+    "rules": [],
+    "rules_explanation": "The additional action from Haste can be used to 'Attack (one weapon attack only)' action but does not allow for two potions to be consumed because each requires the use an object action."
+  },
+  {
+    "question": "Is it? 18. So yeah, she makes it.",
+    "answer": "So she steps forward; almost slips, but catches herself on the shoulder of her husband",
+    "rules": [],
+    "rules_explanation": "This is a DM determination of the narrative based on the context."
+  },
+  {
+    "question": "For the exploding arrow, what do I do damage for the exploding arrow? That Percy made, by the way.",
+    "answer": "Roll for your–",
+    "rules": [],
+    "rules_explanation": "Roll for your exploding arrow"
+  },
+  {
+    "question": "So if I get to 0 hit points, does that mean I turn into a vampire?",
+    "answer": "Hopefully, you won't turn into a vampire. You did get bit.",
+    "rules": [],
+    "rules_explanation": "hopefully he won't turn into a vampire"
+  },
+  {
+    "question": "We'll bring him to Greyskull Keep.But make sure he doesn't bleed out first.",
+    "answer": "He's fine. He's not bleeding. It was non-lethal damage, right; he's not bleeding out.",
+    "rules": [],
+    "rules_explanation": "Well, not from the head but he is missing three fingers from one hand and is currently pooling."
+  },
+  {
+    "question": "Wait, we can put him in our cell.",
+    "answer": "Yeah, put him in our cell.",
+    "rules": [],
+    "rules_explanation": "yeah, put him in our cell"
+  },
+  {
+    "question": "Wait, we can put him in our cell.",
+    "answer": "Make sure he doesn't bleed out first.",
+    "rules": [],
+    "rules_explanation": "But make sure he doesn't bleed out first."
+  },
+  {
+    "question": "Make an intimidation check.",
+    "answer": "I'm going to add my Scanlan. 15.",
+    "rules": [],
+    "rules_explanation": "I'm going to add my Scanlan. 15."
+  },
+  {
+    "question": "Wait, what do I roll?",
+    "answer": "d10. And subtract that from his attack modifier.",
+    "rules": [
+      "Classes > Bard > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "You can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll."
+  },
+  {
+    "question": "Will it still work in the Sleet Storm?\"The spell will be blocked by difficult terrain.\"",
+    "answer": "Good to know. I think I've got the answer, and just say thank you.",
+    "rules": [],
+    "rules_explanation": "it may take 2 days to accomplish the blessing."
+  }
+]

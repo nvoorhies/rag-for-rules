@@ -1,0 +1,266 @@
+[
+  {
+    "question": "The level 3 hill dwarf cleric wants to cast Cure Wounds as a touch spell. The die roll resulted in 10. What is the total amount of healing the subject receives from this spell?",
+    "answer": "The subject receives 14 hit points of healing. A 1st level Cure Wounds heals for 1d8 + Spellcasting ability modifier (Wisdom) of 3, plus an additional 2 from the Disciple of Life trait (2 + spell level 1), and a 1 hit points from being a hill dwarf.",
+    "rules": [
+      "Class Features > Cleric > Spellcasting",
+      "Creature Statistics > Ability Scores",
+      "Races > Dwarf > Hill Dwarf > Ability Score Increase",
+      "Races > Dwarf > Hill Dwarf > Dwarven Toughness",
+      "Divine Domains > Life Domain > Disciple of Life"
+    ],
+    "rules_explanation": "The target receives 1d8 hit points and the cleric adds their Wisdom modifier. Because the cleric is a level 3 hill dwarf, they add 2 from Disciple of Life, and 1 hit point from Dwarven Toughness."
+  },
+  {
+    "question": "The DM asks the level 4 ranger to make a deception check with advantage. How is this roll performed?",
+    "answer": "To perform this check, roll 2 d20 dice and use the higher of the two rolls. Add the ranger's Charisma modifier and proficiency bonus to the roll. If the total equals or exceeds the target DC set by the DM, the ranger succeeds. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage",
+      "The Rogue > Expertise",
+      "Beyond 1st Level"
+    ],
+    "rules_explanation": "The ranger rolls the d20 with their Charisma modifier, adding their proficiency bonus if they are proficient in the deception skill, then sums the values of the modifier and die roll. The character's skill determines whether proficiency bonus is added to the ability check, if you have proficiency in the deception skill the proficiency bonus is added to the roll."
+  },
+  {
+    "question": "The level 4 Wildfire druid casts Detect Magic. What does the DM roll?",
+    "answer": "The DM does not roll. Detect Magic allows the caster to sense the presence of magic within range, and the caster may use an action to see a faint aura around any visible creature or object in the area that bears magic, and learn its school of magic, if any.",
+    "rules": [
+      "Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "Because Detect Magic grants information automatically upon casting it, a roll is not involved."
+  },
+  {
+    "question": "The level 4 druid wants to split from the party, head to the local temple of the Dawnfather, and have a private conversation. What does the DM roll for?",
+    "answer": "No roll is required. The DM can roleplay the NPC in order to have a meaningful exchange with the character.",
+    "rules": [],
+    "rules_explanation": "The game describes a process, not an action, and there is no information indicating any probability of failure or success, so there is no requirement for an ability check."
+  },
+  {
+    "question": "The level 4 druid uses the Ready action to perform a melee spell attack. What information is needed to determine if the spell is a hit?",
+    "answer": "Determine the spell attack modifier which is the spellcasting ability modifier (Wisdom) + the proficiency bonus. Roll a d20 and add this modifier. If the total is greater or equal to the target's AC, the spell hits. If the attack has advantage or disadvantage, roll the d20 twice and use the higher or lower roll, respectively.",
+    "rules": [
+      "Combat > Actions in Combat > Ready",
+      "Spellcasting > Spellcasting Ability > Spell attack modifier"
+    ],
+    "rules_explanation": "To determine if the spell attack hits or misses the DM rolls a d20, and the caster adds their spellcasting ability modifier, plus their proficiency bonus, if the total is equal to or higher than the target's AC, the attack is a hit. There are also possible effects that can modify the die roll by adding advantage or disadvantage."
+  },
+  {
+    "question": "A level 4 druid used the Wild Shape ability and transformed into a beast. Is the beast proficient in common?",
+    "answer": "No. The wild shape text states, \"you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores.\" This means that you do not gain the beast's proficiencies in any languages",
+    "rules": [
+      "Class Features > Druid > Wild Shape"
+    ],
+    "rules_explanation": "The Wild Shape class feature states which characteristics of the Druid are retained in the beast form. All other game statistics are replaced by the statistics of the beast."
+  },
+  {
+    "question": "The level 4 druid who is currently a beast wants to cast a spell but cannot produce the spell's material components because they are unobtainable in beast form. Is that allowed?",
+    "answer": "No, this is not allowed because the Druid is replacing all of their original forms game statistics. The spell requires a material component, and it's impossible to cast.",
+    "rules": [
+      "Class Features > Druid > Wild Shape"
+    ],
+    "rules_explanation": "Wild Shape replaces all the game statistics of the Druid with those of the beast. The section explicitly states actions that require hands or speech are impossible if the beast form is not capable of them. Since the beast is unable to obtain and manipulate the components, the action is prohibited."
+  },
+  {
+    "question": "If a ranger casts hunter's mark on a creature and that creature dies, what does it take to apply it to a new creature?",
+    "answer": "If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.",
+    "rules": [
+      "Spell Descriptions > Hunter's Mark"
+    ],
+    "rules_explanation": "Because that is what the spell text says."
+  },
+  {
+    "question": "What does the sleight of hand skill modify?",
+    "answer": "The Dexterity (Sleight of Hand) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck.",
+    "rules": [
+      "Using Ability Scores > Skills > Sleight of Hand"
+    ],
+    "rules_explanation": "The SRD lists all skills and their ability modifier."
+  },
+  {
+    "question": "What does the insight skill modify?",
+    "answer": "The Wisdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone's next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms.",
+    "rules": [
+      "Using Ability Scores > Skills > Insight"
+    ],
+    "rules_explanation": "The SRD lists all skills and their ability modifier."
+  },
+  {
+    "question": "What does the arcana skill modify?",
+    "answer": "The Intelligence (Arcana) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.",
+    "rules": [
+      "Using Ability Scores > Skills > Arcana"
+    ],
+    "rules_explanation": "The SRD lists all skills and their ability modifier."
+  },
+  {
+    "question": "The level 3 hill dwarf cleric is 15 foot away from a monster who is attacking their ally. Can the cleric bless the ally as a reaction?",
+    "answer": "No. Bless requires an action, not a reaction.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The casting time for the spell must be a reaction."
+  },
+  {
+    "question": "The DM says everyone gains a level. How does the level 3 hill dwarf cleric determine their HP?",
+    "answer": "Roll a d8 or take 5, then add the character's Constitution modifier. Add the result to the character's hit point maximum.",
+    "rules": [
+      "Classes > Hit Points at Higher Levels"
+    ],
+    "rules_explanation": "The character rolls their hit die and adds the modifier."
+  },
+  {
+    "question": "The level 4 oath of devotion paladin with 18 Charisma has been using Sacred Weapon for a minute. The effect ends. What happens to the light from their sword?",
+    "answer": "The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.",
+    "rules": [
+      "Classes > Paladin > Divine Domain > Oath of Devotion > Channel Divinity > Sacred Weapon"
+    ],
+    "rules_explanation": "Per the rules of the feature, the light ends when Sacred Weapon ends."
+  },
+  {
+    "question": "The oath of devotion paladin is a fallen character. What happens to their Sacred Weapon command ability?",
+    "answer": "The rules do not say. A fallen Paladin may become an Oathbreaker as a subclass, but this does not change any of their existing class abilities unless they take actions related to this new oath.",
+    "rules": [],
+    "rules_explanation": "The fall of a paladin has no prescribed mechanical impact."
+  },
+  {
+    "question": "The oath of devotion paladin is a multiclass character. Does the multiclass affect the Sacred Weapon ability?",
+    "answer": "No, the multiclassing rules do not affect the Sacred Weapon ability.",
+    "rules": [],
+    "rules_explanation": "The ability continues to be controlled by the paladin's level in that class, multiclassing has no interaction with the ability"
+  },
+  {
+    "question": "Can the level 4 paladin take the Oath of Devotion as an action or a bonus action?",
+    "answer": "No, it is a roleplaying event with no action cost.",
+    "rules": [],
+    "rules_explanation": "There is no reference to how long it takes to take the oath, other than it is an action, bonus action, or anything. There is also no reference that it can't be done."
+  },
+  {
+    "question": "Does FCG's stealth increase from the mithral armor?",
+    "answer": "Yes, It adds one to the AC and provides without disadvantage.",
+    "rules": [],
+    "rules_explanation": "The rules do not specify on what that bonus effects, but specifies that mithral armor provides the advantage of not having the disadvantage, therefore it must give advantage on some stealth activities."
+  },
+  {
+    "question": "If a bard grants inspiration to another character, for how long is it available?",
+    "answer": "Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes.",
+    "rules": [
+      "Class Features > Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "That is the text for Bardic Inspiration"
+  },
+  {
+    "question": "The DM asks the level 2 hill dwarf cleric to make a persuasion check. How is this check performed?",
+    "answer": "Roll a d20 and add the cleric's Charisma modifier and proficiency bonus to the roll. If the total equals or exceeds the target DC set by the DM, the cleric succeeds.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The cleric rolls the d20 with their Charisma modifier, adding their proficiency bonus if they are proficient in the Persuasion skill, then sums the values of the modifier and die roll. The specified DC is then compared to the die roll result."
+  },
+  {
+    "question": "What is the maximum number of charges that a 'Staff of the Magi' can have?",
+    "answer": "The staff has 50 charges for the following properties.",
+    "rules": [
+      "Magic Items > Staff of the Magi"
+    ],
+    "rules_explanation": "The staff can only hold up to 50 charges"
+  },
+  {
+    "question": "The level 4 wildfire druid wants to split from the party, head to the leftmost side of that district as you cross up into that region, and come to this modest temple of the Dawnfather and cast Bless on everyone there. What level spell slot does the cleric need to use and what level or lower can it be cast from?",
+    "answer": "Requires a 1st-level spell slot.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "It is a 1st level spell that is not cast at a higher level."
+  },
+  {
+    "question": "A level 1 character takes acid damage from some acid and some fire damage from fire, can they resist one and not the other?",
+    "answer": "No, a player character cannot choose which damage is to be resisted when taking multiple damage types.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The damage reduction must apply to a \"damage type\" as a whole. The player can't pick certain instances or sources of a type to affect while ignoring others."
+  },
+  {
+    "question": "The level 3 hill dwarf cleric is 15 foot away from an ally. Can the cleric bless the ally as an action?",
+    "answer": "Yes. This is a legal action to take, using the Cleric's turn and expending a spell slot of the appropriate level to cast.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The spell's casting time is 1 action, which a creature can take on their turn, but not as a reaction."
+  },
+  {
+    "question": "What do you add to the DC for a saving throw against a spell you have cast?",
+    "answer": "Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The spell save DC is a function of your proficiency bonus and spellcasting ability modifier."
+  },
+  {
+    "question": "The level 5 wildfire druid casts Flaming Sphere. What size is the sphere? What are the damage dice? What damage does it do if the target saves?",
+    "answer": "The spell creates A 5-foot-diameter sphere of fire. Until the spell ends, any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.",
+    "rules": [
+      "Spell Descriptions > Flaming Sphere"
+    ],
+    "rules_explanation": "This information is directly from the spell description."
+  },
+  {
+    "question": "What is the material component for the Druid cantrip shillelagh?",
+    "answer": "The material component is mistletoe, a shamrock leaf, and a club or quarterstaff.",
+    "rules": [
+      "Spell Descriptions > Shillelagh"
+    ],
+    "rules_explanation": "The material component is explicitly listed in the spell's description."
+  },
+  {
+    "question": "The 6th level cleric tries to learn the body language of the grace of God. Can they ask the mighty nine box set?",
+    "answer": "No, as it is not relevant to the question of learning the body language of the grace of God.",
+    "rules": [],
+    "rules_explanation": "This information is in the campaign notes. The way you are phrasing the question does not refer to anything previously said. I edited the question to reflect what previously happened in the game."
+  },
+  {
+    "question": "What does the skill history modify for history checks?",
+    "answer": "Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.",
+    "rules": [
+      "Using Ability Scores > Skills > History"
+    ],
+    "rules_explanation": "The SRD lists the various abilities and skills, this one relates to history checks."
+  },
+  {
+    "question": "The level 3 hill dwarf cleric is going to head out. What starting gear do they get?",
+    "answer": "According to the SRD, you start with the following equipment, in addition to the equipment granted by your background: \n\n- (a) a mace or (b) a warhammer (if proficient)\n- (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)\n- (a) a light crossbow and 20 bolts or (b) any simple weapon\n- (a) a priest's pack or (b) an explorer's pack\n- A shield and a holy symbol",
+    "rules": [
+      "Classes > Cleric > Equipment"
+    ],
+    "rules_explanation": "You start with the given equipment."
+  },
+  {
+    "question": "The oath of devotion paladin is fighting a creature. What happens if he rolls a one on an attack roll?",
+    "answer": "If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target's AC.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "The roll is 1, therefore it is a miss. Also, because of how it is worded, it says if you have certain magic that grants, you get to reroll but it is not a default rule for all characters."
+  },
+  {
+    "question": "The oath of devotion paladin casts detect thoughts as an action. What happens?",
+    "answer": "As written in the srd, detect thoughts is not on the oath of devotion spell list and is not a spell to be used for the devotion.",
+    "rules": [
+      "Divine Domains > Oath of Devotion > Channel Divinity > Sacred Weapon"
+    ],
+    "rules_explanation": "You can only cast specific spells on a certain list"
+  },
+  {
+    "question": "The guards in the city are surprised the group of adventures are protectors of the diarchy. What does that mean?",
+    "answer": "The group is afforded respect and access throughout the city, granted a reward for their duties, and a modest ask of the Diarchy, subject to capability. They are ever-mindful of abuses of power and appreciate humility in our heroes.",
+    "rules": [],
+    "rules_explanation": "That is what the king and queen declared."
+  },
+  {
+    "question": "The party is on a group'80 minute, what do they do?",
+    "answer": "To that point, reaches over and finds the side clamps and releases them as the chassis opens up and your arms fold up, and all the armor dislodges slightly and lifts up. \"Just to check,\" pulls the one on the front side of the face that you haven't had pulled, and your face plate flips and comes up again. \"Oh yeah, just like you. Faithful Care-Giver. FCG, huh.\"  LAURA: Oh!  MATT: \"All right.\"  TRAVIS: That's never happened before, right?  SAM: Uh-uh.  AABRIA: Ah!  LAURA: Oh!  CHRISTIAN: My heart feels so full.  TRAVIS: Faithful Care-Giver, I'm fucking dying.  MATT: \"All right. Let me go ahead and start getting this affixed.\"",
+    "rules": [],
+    "rules_explanation": "To that point, reaches over and finds the side clamps and releases them as the chassis opens up and your arms fold up, and all the armor dislodges slightly and lifts up. \"Just to check,\" pulls the one on the front side of the face that you haven't had pulled, and your face plate flips and comes up again. \"Oh yeah, just like you. Faithful Care-Giver. FCG, huh.\" LAURA: Oh! MATT: \"All right.\" TRAVIS: That's never happened before, right? SAM: Uh-uh. AABRIA: Ah! LAURA: Oh! CHRISTIAN: My heart feels so full. TRAVIS: Faithful Care-Giver, I'm fucking dying. MATT: \"All right. Let me go ahead and start getting this affixed.\""
+  }
+]

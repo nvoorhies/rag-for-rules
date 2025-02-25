@@ -1,0 +1,118 @@
+[
+  {
+    "question": "If a 7th level druid is bitted by a werewolf, are we allowed to be things that are not actually predators?",
+    "answer": "The rules do not restrict the types of creatures into which a character can transform due to lycanthropy. It is acceptable to be a wereherbivore, why the heck not.",
+    "rules": [
+      "Part I",
+      "Part I"
+    ],
+    "rules_explanation": "There is nothing in the gameplay transcript that would suggest the race and/or class of the person who was bitten would place restrictions on the werebeast the lycanthrope transforms into. The choice is not codified, and is therefore up to the discretion of the table, who has no limitations on the choice except by narrative convention."
+  },
+  {
+    "question": "Regarding a character bitten and turned into a werewolf, does a single bite can turn you, or-- Just a single bite can turn you?",
+    "answer": "If someone is bitten by a werewolf, if you bite someone, then you kill them, they're dead. Then if you just bite them and they get away, then they have the potential to turn.",
+    "rules": [
+      "Part I"
+    ],
+    "rules_explanation": "The gameplay transcript states that if a werewolf kills a person by biting them, they're dead. But if the werewolf just bites them and they get away, then they have the potential to turn."
+  },
+  {
+    "question": "How are ability checks with poison handled? Is it disadvantage on all ability checks?",
+    "answer": "When a creature is poisoned, it has disadvantage on all ability checks and attacks.",
+    "rules": [
+      "Part I"
+    ],
+    "rules_explanation": "A player character is poisoned by a mushroom. The rules indicate that it's disadvantage on all ability checks and attacks."
+  },
+  {
+    "question": "If the 7th-level werewolf used a short rest to transform, can it only do this once a day?",
+    "answer": "no, Once every short rest.",
+    "rules": [
+      "Part I"
+    ],
+    "rules_explanation": "The 7th-level werewolf PC character asks how many times they can transform. The rules state that they can transform once per short rest."
+  },
+  {
+    "question": "For a given perception check with assistance, what is the rule? Do you roll with advantage?",
+    "answer": "When you assist another character, you can roll with advantage.",
+    "rules": [
+      "Part I"
+    ],
+    "rules_explanation": "The rules discussion indicates that with multiple people assisting in a check, the primary character can roll with advantage."
+  },
+  {
+    "question": "For the spirit's test, do you have to go in on his own?",
+    "answer": "No. You're all going to be going into the temple here.  If stuff starts going bad, we can try and evacuate you out of there.",
+    "rules": [
+      "Part I"
+    ],
+    "rules_explanation": "The gameplay transcript answers the question of whether all players are going into the temple or not. In this case they are all entering the temple."
+  },
+  {
+    "question": "Does it matter what type of light is shining in from the outside to a nature check?",
+    "answer": "no, looks like sunlight, yeah.",
+    "rules": [
+      "Part I"
+    ],
+    "rules_explanation": "The player character asks if the sunlight coming through the hole in the temple is actually sunlight light to the touch. The response is that it looks like sunlight."
+  },
+  {
+    "question": "What is the rule about extra damage that is added to a weapon? Do you double the dice?",
+    "answer": "When you score a critical hit, you roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal.",
+    "rules": [
+      "Part I",
+      "Combat > Making an Attack > Damage Rolls"
+    ],
+    "rules_explanation": "The PC werewolf lands a critical hit, and has a flame bonus die. The question is what happens to the bonus die."
+  },
+  {
+    "question": "Are there game rules associated with the character's purity that would affect the trial?",
+    "answer": "no.",
+    "rules": [
+      "Part I"
+    ],
+    "rules_explanation": "This is a metagame question, and the rules dont apply to metagame circumstances."
+  },
+  {
+    "question": "Does using Quicken Spell means you can cast a spell in the same turn.",
+    "answer": "Quicken Spell, you can do a cantrip.",
+    "rules": [
+      "Part I",
+      "Spellcasting > Casting a Spell > Actions"
+    ],
+    "rules_explanation": "The rules discussion indicates that if you use a quickened spell you can cast a cantrip as well."
+  },
+  {
+    "question": "Does advantage apply to a roll due to disadvantage? Do you roll with advantage or just roll a straight D20?",
+    "answer": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20.",
+    "rules": [
+      "Part II",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules dicussion resolves that since advantage was specified to be the circumstance to re-roll, the condition of disadvantage that was applied cancels the advantage condition."
+  },
+  {
+    "question": "Do all of the Gorygenei's attacks count as magical?",
+    "answer": "yes.",
+    "rules": [
+      "Part II"
+    ],
+    "rules_explanation": "The DM confirms this during a rules discussion."
+  },
+  {
+    "question": "If the PC is blinded and takes their turn, do they continue to roll each turn?",
+    "answer": "If a spell doesn't specify, at the end of the turn yes, you continue.",
+    "rules": [
+      "Part II"
+    ],
+    "rules_explanation": "In this section, the NPC is determining whether or not to use Bestial Regeneration or not. If you can attack on your next turn it's a terrible move. So the DM is implying that the blinded condition will require a role each turn."
+  },
+  {
+    "question": "When is Bestial Regeneration rolled for the character? On his turn?",
+    "answer": "Start of your turn",
+    "rules": [
+      "Part II"
+    ],
+    "rules_explanation": "For game play the character uses its ability to regain HP at the beginning of its turn as determined by the game rules."
+  }
+]

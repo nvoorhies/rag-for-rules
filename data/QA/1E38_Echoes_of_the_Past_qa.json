@@ -1,0 +1,16 @@
+[
+  {
+    "question": "Does a character get advantage on a deception check because another character is helping?",
+    "answer": "In this situation, the character gains advantage on the roll.",
+    "rules": [
+      "Ability Checks > Working Together"
+    ],
+    "rules_explanation": "A character can assist another creature by adding advantage to an ability check where that would be productive and where the acting character has skills that would be relevant"
+  },
+  {
+    "question": "If Keyleth is made to vomit from taking a shot of liquor after having eaten a Heroes' Feast, does she lose the effects of the spell Heroes' Feast?",
+    "answer": "No. Because the feast was eaten an hour prior, she still gains the benefits.",
+    "rules": [],
+    "rules_explanation": "Matt explains that this is the ruling in this particular case. There is no rule to directly support it so it represents a GM judgement in response to the situation."
+  }
+]

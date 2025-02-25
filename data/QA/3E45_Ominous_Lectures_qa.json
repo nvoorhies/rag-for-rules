@@ -1,0 +1,501 @@
+[
+  {
+    "question": "What is the minimum amount of time the full group must spend in a short rest to regain Ki points?",
+    "answer": "A monk must spend at least 30 minutes of the rest meditating to regain ki points.",
+    "rules": [
+      "Classes > Monk > Ki"
+    ],
+    "rules_explanation": "To regain Ki points during a short rest, at least 30 minutes of the rest must be spent meditating."
+  },
+  {
+    "question": "Is a 9 on a persuasion check sufficient for Ryn to force Tuldus to do jumping jacks?",
+    "answer": "A 9 on a persuasion check is not sufficient.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a game master determination based on the overall situation and is not covered in the core rules"
+  },
+  {
+    "question": "In a D&D game, how does the DM determine if a player closes a door?",
+    "answer": "The D&D rules do not mandate how a Dungeon Master narrates a scene, which could include automaticaly closing the door for the players.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules do not provide a mechanic or direction for the dungeon master to arbitrate on how a door closes."
+  },
+  {
+    "question": "If a player's character makes a roll for stealth or deception to avoid drawing attention, what ability checks does the Dungeon Master call for?",
+    "answer": "A player makes a Dexterity (Stealth) or Charisma (Deception) check as appropriate.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules allow for either stealth or deception depending on the circumstances. The text does not specify if both are needed in this specific case."
+  },
+  {
+    "question": "Can a player roll Guidance on the deception roll of another character?",
+    "answer": "Yes, provided both characters are in range and all the rules are followed.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The question does not specify spell name and level, abilities, ranges, but \"Guidance\" indicates a spell has been cast to help another character."
+  },
+  {
+    "question": "What is the result of a natural 20 on a Charisma (Deception) check?",
+    "answer": "The success of a Charisma (Deception) check depends on whether the check succeeds against a target Difficulty Class.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The result depends on the specific circumstances of the check."
+  },
+  {
+    "question": "If multiple characters are attempting a group action involving stealth or deception, what kind of checks are made?",
+    "answer": "In a group check, everyone in the group makes an ability check of the appropriate type. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together",
+      "Using Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "The fully activity name, and target save DC/score is not specified here, however, in the working together section it tells you the group check mechanics and specifies for stealth that it is a Dexterity (Stealth) check, and for deception that it is a Charisma (Deception) check"
+  },
+  {
+    "question": "The rules mention an \"investigationer\" check. Is this a valid check in D&D?",
+    "answer": "There is no reference in the SRD to an \"investigationer\" check.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a misspoken reference to the investigation skill."
+  },
+  {
+    "question": "Can Guidance be applied to an Investigation check?",
+    "answer": "Yes, the spell can affect any ability check, provided all the other rules regarding ranges, casting conditions, etc are followed.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The question does not specify spell name and level, abilities, ranges, but \"Guidance\" indicates a spell has been cast to help another character and that it can be used to any single ability check."
+  },
+  {
+    "question": "How is Armor Class determined when not wearing armor?",
+    "answer": "If you are not wearing armor, your Armor Class equals 10 + your Dexterity modifier.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This describes the general rule, several classes alter this for their members but none are specified in this section of the text."
+  },
+  {
+    "question": "Which class feature grants a character a bonus to Persuasion and Deception checks.",
+    "answer": "The SRD does not contain a class feature grants a bonus to Persuasion and Deception checks. However, a feat or magic item could grant such a bonus.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The proficiency bonus for a skill can be doubled, which is similar to adding a bonus, and a magic item or feat could increase a character's proficiency bonus."
+  },
+  {
+    "question": "Is it possible to have disadvantage on a persuasion check even with a high roll?",
+    "answer": "Yes, you can have disadvantage on a roll even if you have bonuses and roll high.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The game's rules do not say that bonuses can cancel out disadvantage. If you have both advantage and disadvantage, you roll a single d20"
+  },
+  {
+    "question": "What ability check is required to determine if he's a good fellow or not?",
+    "answer": "To determine someone's motivations, you make a Wisdom (Insight) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Using Each Ability > Wisdom > Wisdom Checks > Insight"
+    ],
+    "rules_explanation": "An Insight check is a Wisdom check that determines the true intentions of a creature."
+  },
+  {
+    "question": "For a character with the familiar pact, after Pâté performs his final service, can Marisha use her power to bring him back from beyond?",
+    "answer": "It is possible to restore a familiar that has ceased to exist.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There is nothing in the rules stating what specific requirements need to be followed in this situation, thus you're relying on your DM."
+  },
+  {
+    "question": "If damage reduces someone to 0 hit points, what happens?",
+    "answer": "When you drop to 0 hit points, you either die outright or fall unconscious.",
+    "rules": [
+      "Damage and Healing > Dropping to 0 Hit Points"
+    ],
+    "rules_explanation": "The exact result of dropping to 0 hit points depends on the amount of damage taken and other factors."
+  },
+  {
+    "question": "When can you do with sorcery points?",
+    "answer": "You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points.",
+    "rules": [
+      "Classes > Sorcerer > Font of Magic > Sorcery Points"
+    ],
+    "rules_explanation": "This describes the base functionality, more options may be gained at higher levels."
+  },
+  {
+    "question": "When a spell that causes a saving throw is cast, what determines the DC for the saving throw?",
+    "answer": "The DC to resist one of your spells equals 8 + your spellcasting ability modifier + your proficiency bonus + any special modifiers.",
+    "rules": [
+      "Spellcasting > Known and Prepared Spells > Spellcasting Ability"
+    ],
+    "rules_explanation": "That formula describes how the DC for a saving throw is calculated. Special modifiers come from abilities, feats, or magical effects."
+  },
+  {
+    "question": "In order to be valid, what must all the spells on a wizard's prepared list adhere to?",
+    "answer": "The spells must be of a level for which you have spell slots.",
+    "rules": [
+      "Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "The wizard prepares his list from his spellbook each day and must have spell slots to cast the spell."
+  },
+  {
+    "question": "What skills checks can be made in order to find Professor Kadija Sumal's office?",
+    "answer": "You can make a Wisdom (Perception) or Intelligence (Investigation) to find Kadija Sumal's office.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The GM has the option to select whatever is the appropriate check to resolve situations. Perception and Investigation are appropriate for finding an office."
+  },
+  {
+    "question": "A character makes an investigation check and has a \"brain fart\". Do they have the option to redo the roll if they believe that another of their abilities would be more appropriate?\"?",
+    "answer": "The rules do not explicitly allow for redoing ability checks when a player decides that a different ability would have been more suitable after the initial roll has been made.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The GM decides which ability check is most appropriate for a situation. It's the player's responsibility to make their case before the roll."
+  },
+  {
+    "question": "Who would be given advantage on saving throws against spells or magical effect?",
+    "answer": "The specific ability or feature would state that advantage is granted. The game does not provide a general rule for who has advantage.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Advantage is granted by specific situations or abilities."
+  },
+  {
+    "question": "What actions can be taken in front threshold before you hear locks unlatching?)",
+    "answer": "The rules do not explicitly state what actions a character can take while peeking through doors.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This would be at the discretion of the GM. Opening a door could be an action."
+  },
+  {
+    "question": "When a character is using Detect Thoughts, how do they find out information that isn't on the surface of the target's mind?",
+    "answer": "You can use your action to either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates).",
+    "rules": [
+      "Spellcasting > Spell Lists > Wizard Spells > Detect Thoughts"
+    ],
+    "rules_explanation": "Those rules tell you how to detect the creatures reasoning and emotional state."
+  },
+  {
+    "question": "Are there any effects in the spell description for Detect Thoughts that might apply to a Wisdom Saving Throw? What is needed to get an advantage on saving throws or disadvantage to hit with the effect of a the feat or other spell? What are the target ranges for the effects for Detect Thoughts?",
+    "answer": "If you probe deeper, the target must make a Wisdom saving throw. It has advantage on the saving throw if you or your companions are fighting it. Otherwise there is no effect to make someone have disadvantage and there are ranges where the effect can take place.",
+    "rules": [
+      "Spellcasting > Spell Lists > Wizard Spells > Detect Thoughts"
+    ],
+    "rules_explanation": "Detect Thoughts specifies the conditions for a saving throw, what is learned, the range, and the duration of concentration."
+  },
+  {
+    "question": "What happens when you are casting spells with different school?",
+    "answer": "There are no core rules dictating a result or outcome related to casting spells from different schools.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a freeform aspect of the world"
+  },
+  {
+    "question": "Could you use the Lucky feat to change a natural one to a 20?",
+    "answer": "No, the Halfling Lucky trait only allows you to re-roll a natural 1.  The Lucky feat lets you reroll any d20 roll, but it does not specifically allow a re-roll of other dice types.",
+    "rules": [
+      "Races > Halfling > Lucky",
+      "Feats > Lucky"
+    ],
+    "rules_explanation": "The Halfling has a racial trait called Lucky, which allows them to reroll a natural 1 on a d20 for an attack roll, ability check, or saving throw. The Lucky feat does not let you change a roll to a natural 20."
+  },
+  {
+    "question": "If the character casts Guidance on herself and rolls a one, do they get to reroll the d4?",
+    "answer": "There is nothing in the rules that allow the character to reroll the d4 from the Guidance spell",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The halfling's Lucky trait only lets you reroll a natural 1 on the d20 for attack rolls, ability checks, or saving throws, not damage or healing rolls. If you have both advantage and disadvantage on the triggering roll, you don't roll more than one additional d20."
+  },
+  {
+    "question": "If a player rolled Insight (rolled a 17 with advantage, then another roll with natural 20). Is that high enough to know if the character is lying?",
+    "answer": "The outcome depends on the DM.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules do not set a save DC, that is up to the DM. Additionally, \"Amusing.\" (Ludinus) does not specify if there is additional insight. Because you have advantage, you use the natural 20. The outcome of whether the insight check against the save DC is successful will tell you if they think the character is lying."
+  },
+  {
+    "question": "Does having rolled two dice with advantage for an insight check, does that mean I roll twice for bardic inspiration?",
+    "answer": "No, You can use only one Metamagic option on a spell when you cast it, unless otherwise noted",
+    "rules": [
+      "Classes > Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "You cannot add a die more than once. This depends on the Metamagic options the character has. If they have metamagic that adds inspiration, or inspiration in general (or similar feature, like bardic inspiration), it is added to your roll. However, it can only be added once. You do not double dice on anything."
+  },
+  {
+    "question": "Does it matter if the person who's insight checking the creature is in their direct line of sight or can they be around the corner?",
+    "answer": "To use Insight, the creature must be visible",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Using Each Ability > Wisdom > Wisdom Checks > Insight",
+      "Spellcasting > Range > A Clear Path to the Target"
+    ],
+    "rules_explanation": "The range of the ability is limited by not being behind total cover."
+  },
+  {
+    "question": "If you cast a bonus action spell can you use it as an action?",
+    "answer": "No you cannot. You must use a bonus action to cast a bonus action spell",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A spell cast with a bonus action is especially swift. You must use a bonus action on your turn to cast the spell, provided that you haven't already taken a bonus action this turn. You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action."
+  },
+  {
+    "question": "Can a 4th level character be targeted by the command spell",
+    "answer": "The spell is valid provided other conditions are met",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "No information about level is necessary"
+  },
+  {
+    "question": "How can the locks of a door can be unlocked by any kind of spell that can do that?",
+    "answer": "The Knock spell unlocks what is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.  If you choose a target that is held shut with arcane lock, that spell is suppressed for 10 minutes.",
+    "rules": [
+      "Spellcasting > Spell Lists > Wizard Spells > Knock"
+    ],
+    "rules_explanation": "These rules specify how locks can be bypassed magically"
+  },
+  {
+    "question": "At first level can an oath of devotion paladin have chain mail armor and what does it do?",
+    "answer": "At first level, a paladin has chain mail armor. While wearing chain mail armor, your AC is 16.",
+    "rules": [
+      "Armor > Chain Mail",
+      "Classes > Paladin > Equipment"
+    ],
+    "rules_explanation": "Starting Equipment for a paladin includes chain mail and the armor section describes the AC provided by chain mail."
+  },
+  {
+    "question": "What are the rules for someone who has their mind is read by another person?",
+    "answer": "The Detect Thoughts spell allows the spellcaster to see the surface thoughts of the creature and with another action the spellcaster can probe deeper into the same creature's mind.",
+    "rules": [
+      "Spellcasting > Spell Lists > Wizard Spells > Detect Thoughts"
+    ],
+    "rules_explanation": "Detect Thoughts specifies what is learned, the range, and the duration of concentration."
+  },
+  {
+    "question": "At 11th level what happens when a ruby vanguard fails against the Turn Undead effect?",
+    "answer": "Destroy Undead. Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.",
+    "rules": [
+      "Classes > Cleric > Channel Divinity > Channel Divinity: Turn Undead > Destroy Undead"
+    ],
+    "rules_explanation": "This describes what happens if an undead is targeted by the Turn Undead ability and has its save fail."
+  },
+  {
+    "question": "Does speaking a name when summoning with planar ally give me control?",
+    "answer": "Speaking a name does not guarantee control with the Planar Ally spell.",
+    "rules": [
+      "Spellcasting > Spell Lists > Cleric Spells > Planar Ally"
+    ],
+    "rules_explanation": "Planar ally explicitly states that if you speak a name you \"might get a different creature anyway (GM's choice)\""
+  },
+  {
+    "question": "If a barbarian has advantage on a tracking fey, fiend, and undeads, can I use the feature to look at that Ryn?",
+    "answer": "The barbarian has advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "These are the rules as explained in the section, however, not in this particular scenario. No classes are specified."
+  },
+  {
+    "question": "The Warlock's Eldritch Sight invocation allows casting detect magic. Does this mean that a warlock can detect the presence of fey, fiend, and undeads?",
+    "answer": "The Detect Magic spell detects magic items and spells, but not creature types.",
+    "rules": [
+      "Spellcasting > Spell Lists > Wizard Spells > Detect Magic"
+    ],
+    "rules_explanation": "This ability allows you to sense the presence of magic. This will not allow them to detect the types of creatures."
+  },
+  {
+    "question": "What is the effect of a Wisdom (Perception) check with a result of 25 in a bustling city street?",
+    "answer": "The outcome of this check depends on what the individual is trying to perceive, and that is for the Dungeon Master to decide.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules do not provide any guidance for a specific roll."
+  },
+  {
+    "question": "Can a player declare that they're trying to hide? Can a player move before hiding, or do they have to hide and not move that turn?",
+    "answer": "You can take the Hide action which allows a Stealth check. The player can move before hiding.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A character can move, use the Hide action, and then potentially move more. So long as all movement restrictions are adhered to."
+  },
+  {
+    "question": "Does knowing Druidic keep you from being affected by a language based enchantment? Do you have to be able to hear them too? Is knowing a password enough to be unaffected by a glyph?",
+    "answer": "No. Unless specifically stated in an ability, knowing a language doesn't grant a resistance.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Knowing druidic is only a linguistic feature."
+  },
+  {
+    "question": "What happens if someone with 0 hit points is given temporary hit points?",
+    "answer": "If you have 0 hit points, receiving temporary hit points doesn't restore you to consciousness or stabilize you. They can still absorb damage directed at you while you're in that state, but only true healing can save you.",
+    "rules": [
+      "Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "Temporary hit points do not restore consciousness."
+  },
+  {
+    "question": "Can a familiar attack? Does a familiar have its own initiative? If a familiar has died, can the familiar's creator bring it back?",
+    "answer": "A familiar can't attack, but it can take other actions as normal. In combat, it rolls its own initiative and acts on its own turn. When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The listed points all come from the Find Familiar description."
+  },
+  {
+    "question": "Does the Paladin's Divine Smite also affect the undead creature they're attacking?",
+    "answer": "The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.",
+    "rules": [
+      "Classes > Paladin > Class Features > Divine Smite"
+    ],
+    "rules_explanation": "Yes, undead and fiends take an additional damage die of radiant damage."
+  },
+  {
+    "question": "If an effect only affects elementals, and the player can choose the type of elemental they conjure, what do you do?",
+    "answer": "There is no specific core rule describing what must be done if a player gets to choose the type of elemental. Thus, the GM arbitrates.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a DM decision"
+  },
+  {
+    "question": "Is there a rule about a paladin being able to touch something to be able to affect it with their magic?",
+    "answer": "Yes, some paladin spells have a range of 'touch', which means that the paladin must touch the target to affect it.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "The paladin must be able to touch to deliver the effect of the spell."
+  },
+  {
+    "question": "What happens if you cast a spell on yourself with a range of self in the area of another character?",
+    "answer": "If you are in the area of effect of a spell you cast, you can target yourself.",
+    "rules": [
+      "Spellcasting > Targets > Targeting Yourself"
+    ],
+    "rules_explanation": "This is how it resolves"
+  },
+  {
+    "question": "When multiple locks unlock on a door, how does one know where they are?",
+    "answer": "There is nothing in the core rules detailing how you would know where the locks are.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is DM defined"
+  },
+  {
+    "question": "If a character with Fey Ancestry succeeds on a Wisdom saving throw against an enchantment, what happens?",
+    "answer": "Fey Ancestry. You have advantage on saving throws against being charmed, and magic can't put you to sleep.",
+    "rules": [
+      "Races > Elf > Fey Ancestry",
+      "Races > Half-Elf > Fey Ancestry",
+      "Monsters > Monsters (E) > Ettercap > Shapechanger"
+    ],
+    "rules_explanation": "There is nothing in the rules mandating any additional effects on succeeding on a Wisdom save when fey ancestry grants advantage."
+  },
+  {
+    "question": "Is there a range for Frightful Presence?",
+    "answer": "Yes, the range for Frightful Presence is 120 feet.",
+    "rules": [
+      "Monsters > Monsters (D) > Dragons, Chromatic > Blue Dragon > Actions > Frightful Presence",
+      "Monsters > Monsters (D) > Dragons, Chromatic > Red Dragon > Actions > Frightful Presence",
+      "Monsters > Monsters (D) > Dragons, Metallic > Brass Dragon > Actions > Frightful Presence",
+      "Monsters > Monsters (D) > Dragons, Metallic > Gold Dragon > Actions > Frightful Presence"
+    ],
+    "rules_explanation": "Frightful Presence specifies what happens on a failed save and then indicates the range of the area of effect."
+  },
+  {
+    "question": "Can a familiar be targeted by abilities? If so, what happens?",
+    "answer": "If a familiar is targeted by an ability, it can be affected by the ability",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There are no rules saying familiars are exempt from being targets of abilities."
+  },
+  {
+    "question": "When you enter the ranger, do you learn more languages?",
+    "answer": "When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is from the favored enemies, so it is situational"
+  },
+  {
+    "question": "Is there a specific rule to create the most awkward walk you possibly can?",
+    "answer": "No.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There is no rule that governs this"
+  },
+  {
+    "question": "If the character has a door closed on them, do they know that someone's on the other side?",
+    "answer": "Whether a character is aware of someone on the other side of a closed door depends on a Wisdom (Perception) check, modified by how well they can hear through the door.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "There is no automatic rule to be aware of something on the other side of a door. Perception checks can help discover information."
+  },
+  {
+    "question": "If a player character is using a specific action on a magic item, can a different magic item be used in concert?",
+    "answer": "This depends on the items in question, and what is required for activation.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules describe what happens when specific items and spells are combined, but do not provide a general rule."
+  },
+  {
+    "question": "If a spell with a saving throw does not describe what kind of action can be used, what action or activity is then required by the player when making a roll?",
+    "answer": "Whether a reaction is required depends on the specific wording of the spell or ability. Some special abilities, spells, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's. The opportunity attack is the most common type of reaction.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules do not call out a required action for a saving throw"
+  },
+  {
+    "question": "Could Laudna roll with advantage for Pâté?",
+    "answer": "A player character can get help from another character to gain advantage. However, the rules do not provide enough information to determine if the circumstances in the narrative allow the Help action in this case.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "This depends on the scenario, not a general rule."
+  },
+  {
+    "question": "Is there a rule that specifies you have to keep the party together?",
+    "answer": "No, no such rule exists",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules do not regulate players actions or movements, nor do they suggest that a group must remain together."
+  },
+  {
+    "question": "If you get a result that's so low that it has to be said in a certain cadence, is it valid?",
+    "answer": "The SRD contains no rules about the way a dice roll should be said aloud, the roll is still a valid roll.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "How a result is said aloud doesn't influence the dice roll itself, and does not invalidate a dice roll. This would be a humorous statement."
+  },
+  {
+    "question": "Are the flowers of the Feywild poisonous?",
+    "answer": "The rules don't specify if flowers in the Feywild are poisonous.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The properties of a place are at the determination of the dungeon master"
+  }
+]

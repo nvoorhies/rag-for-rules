@@ -1,0 +1,346 @@
+[
+  {
+    "question": "Can the level 4 cleric of the Wildmother use Gentle Repose on both of the slain party members at once?",
+    "answer": "No, Gentle Repose has a casting time of 1 action and can only target a single creature.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Casting Time"
+    ],
+    "rules_explanation": "The casting time of 1 Action means the spell affects only one target per casting."
+  },
+  {
+    "question": "When the level 4 cleric attempts to use Revivify on the character named Fjord, what roll must be made?",
+    "answer": "A d20 must be rolled, and the spellcasting modifier must be added.",
+    "rules": [
+      "Section > Subsection > Rule Name"
+    ],
+    "rules_explanation": "Taliesin as Caduceus is instructed to roll for Divine Intervention success."
+  },
+  {
+    "question": "What is the DC to restore the character named Fjord to life using Revivify, and why that DC?",
+    "answer": "The DC of the divine intervention roll depends on how many times Fjord has previously died, which is recorded by the Dungeon Master.",
+    "rules": [
+      "No relevant rule found.  This DC is either set by the DM explicitly or derived from a pre-existing DC"
+    ],
+    "rules_explanation": "The DC is implied to be altered by previous failed attempts."
+  },
+  {
+    "question": "If the cleric succeeds on the divine intervention roll, what is the number of Hit Points restored by Revivify?",
+    "answer": "Revivify returns the character to life with one hit point.",
+    "rules": [
+      "No relevant rule found for this question"
+    ],
+    "rules_explanation": "The spell description is assumed to be known by both the DM and the players."
+  },
+  {
+    "question": "If the party had just succeeded casting Gentle Repose on the two downed allies would that have helped this Level 4 cleric of the wildmother with his Revivify attempt?",
+    "answer": "The SRD describes Gentle Repose as 'The target is protected from decay and can't become undead.' and 'It also extends the time limit on raising the target from the dead since days spent under the influence'. Extending the time limit does not affect the roll, but would prevent the target from becoming undead before the caster was ready to cast Revivify",
+    "rules": [
+      "No relevant rule found"
+    ],
+    "rules_explanation": " Gentle repose is purely for time preservation and preventing undead conversion."
+  },
+  {
+    "question": "Can a character make a reaction if it is not a reaction spell?",
+    "answer": "No, a reaction can only be taken to cast a reaction spell. The paladin cannot cast a non-reaction spell as a reaction.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Reactions"
+    ],
+    "rules_explanation": "A reaction can only be used to cast spells with the correct casting time."
+  },
+  {
+    "question": "What saving throw is needed to resist paralysis caused by an arcane effect?",
+    "answer": "A Wisdom saving throw is required.",
+    "rules": [
+      "No related Rule found"
+    ],
+    "rules_explanation": "Assumed from context"
+  },
+  {
+    "question": "Can the level 3 paladin cast Cure Wounds at 5th level?",
+    "answer": "There are no rules preventing the paladin casting cure wounds at 5th level if he has a 5th level spell slot available.",
+    "rules": [
+      "Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "Yes, it can.  You can cast a lower level spell with a higher level slot."
+  },
+  {
+    "question": "Can the level 3 wizard cast minor illusion while another character is casting a detect magic?",
+    "answer": "Yes, two characters may cast spells simultaneously, but if the circumstances require an ability check to avoid interruption, the caster must succeed on it.",
+    "rules": [
+      "No rule found"
+    ],
+    "rules_explanation": "No rule to disallow this behavior"
+  },
+  {
+    "question": "Does a medicine check reveal a hard orb inside a dissected body?",
+    "answer": "The question asks for a ruling on when to use medicine. The medicine skill is a measure of 'your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes' which is does not match the request.",
+    "rules": [
+      "Using Ability Scores > Skills > Medicine"
+    ],
+    "rules_explanation": "The task does not fit the stated uses of the medicine skill in the SRD, making it an invalid request. The task appears to fall under a more generic investigation check."
+  },
+  {
+    "question": "Does a character get advantage on a medicine check if other players are helping?",
+    "answer": "Yes, if the character could attempt the check alone, another character can use the Help action to grant advantage on the ability check",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The rule states that Working Together can grant advantage on any ability check."
+  },
+  {
+    "question": "The medicine check resulted in 25, what does it reveal?",
+    "answer": "The SRD cannot say what the medicine check reveals.  The medicine skill can only 'try to stabilize a dying companion or diagnose an illness'",
+    "rules": [
+      "Using Ability Scores > Skills > Medicine"
+    ],
+    "rules_explanation": "The described action does not match the uses of the medicine skill as defined in the rules."
+  },
+  {
+    "question": "Does True Sight reveal the orb inside Fjord?",
+    "answer": "The SRD does not include a spell or ability named True Sight. The presence of the orb is up to the GM's discretion. However, the text does state that True Sight allows you to ‘see into the Ethereal Plane’.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The existence and effects of the orb are up to the GM"
+  },
+  {
+    "question": "What kind of dust is needed for Greater Restoration spell?",
+    "answer": "The material component is diamond dust, worth at least 100 gp.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The spell components for greater restoration."
+  },
+  {
+    "question": "Can Residuum be used to make a Restoration spell, instead of diamond dust?",
+    "answer": "Yes, Residuum, by its nature, can be used to replace any amount of money's worth of a material component.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Residuum is a generic material component, and can be used in place of any other."
+  },
+  {
+    "question": "What saving throw is required to resist Tasha's Hideous Laughter?",
+    "answer": "A Wisdom saving throw is required.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This detail should be in the spell description for Tasha's Hideous Laughter."
+  },
+  {
+    "question": "Can Cure Wounds and Greater Restoration be cast at the same time?",
+    "answer": "The question is unclear and requires the addition of further context to be answered. It's ambiguous to determine if Cure Wounds is to be used by the player or another player. Even if this information was provided, it is impossible to cast two spells with a casting time of 1 action at once using a single action.",
+    "rules": [
+      "Section > Subsection > Rule Name"
+    ],
+    "rules_explanation": "This requires an answer to know who is casting what, at whom and when. "
+  },
+  {
+    "question": "When can the cleric cast Commune?",
+    "answer": "The cleric's level is too low to cast the Commune spell and the service requires the use of Divine Intervention. However, if using Divine Intervention, there is a 10% chance of commune succeeding for Divine Intervention. Once a successful Divine Intervention is performed, it can not be done again for seven days.",
+    "rules": [
+      "Section > Subsection > Rule Name"
+    ],
+    "rules_explanation": "The text clearly says the cleric is too exhausted to commune"
+  },
+  {
+    "question": "Can the Level 4 cleric of the Wildmother cast Commune using Divine Intervention? What must be rolled to succeed and what happens on a success or a failure?",
+    "answer": "Yes, however, it can not be performed again for seven days. The cleric uses percentile dice. If the result is a 1-10 it is a success, otherwise, it is a failure.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The GM states the 1-10 roll to succeed"
+  },
+  {
+    "question": "When jester communes with the Traveler does she get to ask more than one question?",
+    "answer": "Yes, she gets three questions.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "That is how the commune spell works"
+  },
+  {
+    "question": "Does Greater Restoration heal curses?  Does it remove a ball from inside someones body?",
+    "answer": "The text states “I mean, yeah, Greater Restoration, but does that remove a ball from somebody?",
+    "rules": [
+      "No rules found"
+    ],
+    "rules_explanation": "They're commenting on the SRD."
+  },
+  {
+    "question": "When can Caduceus cast speak with dead on the dead fishman?",
+    "answer": "Caduceus can not cast Speak with Dead until tomorrow when he has his spell slots back.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "He is out of spell slots for today."
+  },
+  {
+    "question": "Does Veth get advantage on her deception check because her friend helped her?",
+    "answer": "Yes, Veth gets advantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "Working together grants advantage."
+  },
+  {
+    "question": "The deception check resulted in a natural 20, what does that reveal?",
+    "answer": "The SRD cannot say what the natural 20 reveals. This will be determined by the GM.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The outcome of the check is not found in the SRD."
+  },
+  {
+    "question": "If Jester casts Locate Object to find the Orb, but she has only slept on the idea, can she cast the spell?",
+    "answer": "Sleeping on the idea is a narrative tool only. The question of 'Can she cast the spell' is determined only if she has the ability to cast the spell and the required spell slot.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "SRD does not include any information on sleeping on ideas."
+  },
+  {
+    "question": "If Caduceus casts Locate Object level 3, can he know the exact location of the orb?",
+    "answer": "The spell description in the SRD does not provide information on the exactness of sensing the object. It only says that he can sense the presence of something.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The degree of accuracy of this spell is open to the GM's interpretation."
+  },
+  {
+    "question": "After being given healing by Caduceus, how many hit points does Fjord have?",
+    "answer": "The SRD does not contain this specific result. It is dependent on how many hit points were restored.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules define how hit points are restored, but not the actual restored amount. This is determined by the die roll. "
+  },
+  {
+    "question": "Does the Disguise Self spell require concentration?",
+    "answer": "Yes, Disguise Self requires concentration, up to 1 hour",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "As stated in the SRD section on Disguise Self"
+  },
+  {
+    "question": "What dice are rolled when Caduceus casts Commune using Divine Intervention?  What are the conditions for success or failure?",
+    "answer": "When using Divine Intervention, you use your percentile dice. The divine intervention succeeds if the roll is equal or lower than your cleric level, as dictated by the DM.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "That is how Divine Intervention works."
+  },
+  {
+    "question": "How many questions can be asked if a cleric casts the Commune spell?",
+    "answer": "The spell allows up to three questions that can be answered with a yes or no.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The details of the Commune spell are known."
+  },
+  {
+    "question": "What does Greater Restoration cure?",
+    "answer": "The spell description says it can reduce the target's exhaustion level by one, or end one of the following effects on the target: One effect that charmed or petrified the target. One curse, including the target's attunement to a cursed magic item.  Any reduction to one of the target's ability scores. One effect reducing the target's hit point maximum.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The options for Greater Restoration"
+  },
+  {
+    "question": "Can Jester try to use Locate Object to find out where the orb is, if she has been away for 40 minutes?",
+    "answer": "Yes, there is nothing preventing her from attempting to cast the spell, only if she has the appropriate components and a free spell slot.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is not a use case covered in the Locate Object's text"
+  },
+  {
+    "question": "Can Veth determine if Orly has a curse with Detect Poison spell?",
+    "answer": "No, the Detect Poison spell will not detect curses.  Detect poison and disease indicates the ability to sense poison, poisonous creatures and diseases.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Detect Good and Evil spell would detect curses. A Detect Poison spell is not what they should use."
+  },
+  {
+    "question": "Does Detect Good and Evil reveal curses?",
+    "answer": "The rules for Detect Good and Evil do not explicitly say that it detects curses, but depending on the nature of the curse, it may detect evil associated with it.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "It's implied, depending on the kind of curse."
+  },
+  {
+    "question": "If a character casts Disguise Self, can they be identified with truesight?",
+    "answer": "True Sight ‘perceives the original form of a shape changer’ but does not mention ignoring or negating illusions. Therefore, the creature is only able to see through shape changes, not necessarily illusions.   ",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The SRD defines what True Sight does, and it does not define this."
+  },
+  {
+    "question": "How long does fly last?",
+    "answer": "The fly spell lasts for 10 minutes with concentration.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Spell Description is assumed known"
+  },
+  {
+    "question": "If the ranger's fly spell has faded and both he and a companion are 350 feet in the air, what happens when they fail a Dexterity saving throw?",
+    "answer": "Each falling creature takes 35d6 bludgeoning damage and lands prone.",
+    "rules": [
+      "The Environment > Falling"
+    ],
+    "rules_explanation": "350 feet divided by 10 feet per dice equals 35d6 bludgeoning damage, as per the falling rule."
+  },
+  {
+    "question": "What check must be made to see who they're with?",
+    "answer": "A perception check must be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "That is the appropriate ability check."
+  },
+  {
+    "question": "What is the range of a commune spell?",
+    "answer": "The range of a commune spell is self.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The range for the commune spell"
+  },
+  {
+    "question": "How long does the spell Fly last if it does not involve a dragon?",
+    "answer": "The fly spell lasts for 10 minutes with concentration.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Spell is not the domain of a dragon."
+  },
+  {
+    "question": "What saving throw is required to resist a Dragon Turtle's Steam Breath?",
+    "answer": "A DC 18 Constitution saving throw is required.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Saving throw as indicated in the stat block for the Steam Breath action."
+  },
+  {
+    "question": "Can someone use Detect Magic to identify the school of magic for an item?",
+    "answer": "Yes, Detect magic reveals its school of magic, if any.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The spell indicates that the school of magic will be seen"
+  },
+  {
+    "question": "Can the Wildmother end a storm using Divine Intervention?",
+    "answer": "Divine intervention would allow you to ask for the Wildmother to end the storm, but there is a percentile chance for this to fail.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Divine intervention to end the storm."
+  }
+]

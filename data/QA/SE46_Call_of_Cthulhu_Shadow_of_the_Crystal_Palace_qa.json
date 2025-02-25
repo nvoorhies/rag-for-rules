@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Level 3 Engineer, does the wire go in a specific place to isolate lights?",
+    "answer": "No, but the engineer definitely knows that they can isolate the lights to this section of the Crystal Palace, and, this system is pretty open, so all they would have to do is roll it to the generator down below right now, and this is just a nice push button solution to a light problem at the moment.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "This judgement depends on the DM's interpretation of their own fictional world rather than the application of rules. It is a yes/no judgement based on information not in the core SRD"
+  },
+  {
+    "question": "Level 3 Engineer asks if she needs to use a particular skill to examine the static generator. The Keeper says to use an electrical repair roll. Is there any skill to just sort of examine this really quickly so that she can [futz with the machine]?",
+    "answer": "Yes, the keeper says to use electrical repair roll for this one. You can also use one of your science or electrical skills.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call for which kind of roll should be made rather than a direct application of the rules. No explicit rules are used to generate this answer."
+  },
+  {
+    "question": "Can someone translate the Kanji writing? What kind of roll should be used?",
+    "answer": "The keeper recommends an intelligence roll, because knowing the language is primarily an intelligence based challenge.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call for which kind of roll should be made rather than a direct application of the rules. No explicit rules are used to generate this answer."
+  },
+  {
+    "question": "History, anthropology, or archeology check to determine details about the significance of Benjamin Franklin in 1776?",
+    "answer": "Yes, make a history or anthropology roll at half difficulty.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call for which kind of roll should be made rather than a direct application of the rules. No explicit rules are used to generate this answer."
+  },
+  {
+    "question": "Should I make a survival check for this Burlap bag/Velveteen?",
+    "answer": "Yes.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a determination of whether or not a roll should be made given the circumstances rather than an application of particular rules."
+  },
+  {
+    "question": "Level 12 fighter wants to pry the plaque off the fountain, what kind of roll should be used?",
+    "answer": "The Keeper requests a strength check to accomplish this task",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "There are no specific rules about this, so it is up to the Keeper to determine what kind of roll is appropriate. This is a judgement call rather than the application of rules."
+  },
+  {
+    "question": "Level 12 fighter is checking around to make sure we're not visited by something what kind of roll should be made?",
+    "answer": "Roll spot hidden, no reason to be stealthy.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "There are no specific rules about this, so it is up to the Keeper to determine what kind of roll is appropriate. This is a judgement call rather than the application of rules."
+  },
+  {
+    "question": "Can the party use luck to adjust the rolls?",
+    "answer": "Yes, you can push a number down by that number.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is an SRD system option rule from Call of Cthulhu which is not contained in the D&D SRD."
+  },
+  {
+    "question": "Level 12 fighter is looking for Mr. Wayland (NPC), is there a stealth check?",
+    "answer": "There is not a stealth check initially, but as he gets closer he requests for a sanity check.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call rather than an application of rules."
+  },
+  {
+    "question": "Keeper wants to know what everyone is rolling. For keeping track to make sure that no one was following the party, what is that skill?",
+    "answer": "The keeper tells the player to roll a stealth check or survival.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call for which kind of roll should be made rather than a direct application of the rules. No explicit rules are used to generate this answer."
+  },
+  {
+    "question": "Is that called spot hidden on here?",
+    "answer": "The fourth column on the right is spot hidden.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "Just providing the location of spot hidden on the character sheet."
+  },
+  {
+    "question": "Can the two characters do a charm roll?",
+    "answer": "Yes, both characters can make a charm roll.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "It is up to the Keeper to request the roll, and if it can be made by one or more characters."
+  },
+  {
+    "question": "What did I roll?",
+    "answer": "Give me a roll. Probably either a... Intelligence or a spot hidden. Whatever you feel like.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call for which kind of roll should be made rather than a direct application of the rules. No explicit rules are used to generate this answer."
+  },
+  {
+    "question": "You said that was an intelligence or education roll for anybody who wants.",
+    "answer": "That would be a... that would be a intelligence, or education roll for anybody who wants.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call for which kind of roll should be made rather than a direct application of the rules. No explicit rules are used to generate this answer."
+  },
+  {
+    "question": "And is there a roll I can make to sort of, ascertain anything widgy about this guy?",
+    "answer": "You can make an engineering roll, or a... That's interesting.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call for which kind of roll should be made rather than a direct application of the rules. No explicit rules are used to generate this answer."
+  },
+  {
+    "question": "I get a sense of where I need to go to turn on the lights? Or can I make the first roll of the game?",
+    "answer": "No roll is required. Make an electrical repair roll just to see if you can see where the wires are running to.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call for which kind of roll should be made rather than a direct application of the rules. No explicit rules are used to generate this answer."
+  },
+  {
+    "question": "Is that called spot hidden on here?",
+    "answer": "Roll Stealth.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call for which kind of roll should be made rather than a direct application of the rules. No explicit rules are used to generate this answer."
+  },
+  {
+    "question": "There are sprits all around us what stat should I use?",
+    "answer": "Roll a occult roll. Parapsychology, I believe. Psychology, all right.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call for which kind of roll should be made rather than a direct application of the rules. No explicit rules are used to generate this answer."
+  },
+  {
+    "question": "Can the player make a spot hidden check?",
+    "answer": "Roll Spot Hidden.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call rather than an application of rules."
+  },
+  {
+    "question": "Can I look for the--",
+    "answer": "There are a lot of wires running through this machine. There's a lot of-- Yeah, you can either make a... Make a spot hidden check, or make a... Or a science check.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a judgement call for which kind of roll should be made rather than a direct application of the rules. No explicit rules are used to generate this answer."
+  }
+]

@@ -1,0 +1,499 @@
+[
+  {
+    "question": "When a paralyzed creature is attacked from within 5 feet, is the attack an automatic critical hit?",
+    "answer": "Yes, any attack that hits the target is a critical hit if the attacker is within 5 feet of the creature.",
+    "rules": [
+      "Combat > Making an Attack > Critical Hits",
+      "Appendix PH-A: Conditions > Paralyzed"
+    ],
+    "rules_explanation": "The paralyzed condition from the Hold Person spell causes attack rolls to have advantage, and any attack that hits the target is a critical hit if the attacker is within 5 feet of the creature."
+  },
+  {
+    "question": "When a target succeeds on the saving throw against Whirlwind, how much damage does it take?",
+    "answer": "The target takes half damage.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "In general most spells that allow a saving throw against damage specify that half damage is taken on a successful save."
+  },
+  {
+    "question": "If a ranged attack is aimed specifically for something, is it at disadvantage?",
+    "answer": "Aiming an arrow specifically for something will result in disadvantage to the attack roll and a minus five to hit.",
+    "rules": [],
+    "rules_explanation": "This rules judgement does not come directly from the SRD. The disadvantage and adjustment described are the dungeon master's judgement on an activity outside of the default rules."
+  },
+  {
+    "question": "If a surprise attack is denied because the target is raging, can the attacker still use sharpshooter to drop five from the attack roll to deal +10 damage.",
+    "answer": "Yes, the sharpshooter feat can still be used to drop five from the attack roll to deal +10 damage.",
+    "rules": [],
+    "rules_explanation": "The sharpshooter feat does not rely on the condition of surprise, so the +10 damage can still be applied."
+  },
+  {
+    "question": "When a creature uses their action to perform a shove, does it use their strength, or athletics skill?.",
+    "answer": "When performing a shove action, you must make an athletics check",
+    "rules": [
+      "Combat > Actions in Combat > Attack > Shoving a Creature"
+    ],
+    "rules_explanation": "The shove action requires an athletics check to determine whether you knock the creature prone, or push it away."
+  },
+  {
+    "question": "If a character is hiding, and the creature is held, is it a sneak attack?.",
+    "answer": "If a rogue attacks a held creature and a friend is next to it, it is a sneak attack.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The rogue's sneak attack feature applies to any attack with advantage, or when another enemy of the target is within 5 feet of it."
+  },
+  {
+    "question": "If a character gets hit by one of the archer's shots, after using Gloves of Missile Snaring, how does it apply?.",
+    "answer": "The Gloves of Missile Snaring states that you can reduce the damage. If you do you can catch it.",
+    "rules": [
+      "Magic Items > Gloves of Missile Snaring"
+    ],
+    "rules_explanation": "The Gloves of Missile Snaring magic item allow you to spend a reaction to reduce the damage of a ranged attack by 1d10 plus your Dexterity modifier."
+  },
+  {
+    "question": "What type of action is a Spiritual Weapon attack?",
+    "answer": "If you want to have it attack Kevdak? Roll for the damage, this is your bonus action.",
+    "rules": [
+      "Spell Descriptions > Spiritual Weapon"
+    ],
+    "rules_explanation": "Spiritual weapon uses a bonus action to cast, and make an attack every round."
+  },
+  {
+    "question": "Does the spiritual weapon's melee attack trigger divine strike?.",
+    "answer": "Well, that's only on your melee attack, it's not your actual spells.",
+    "rules": [
+      "Classes > Cleric > Divine Strike"
+    ],
+    "rules_explanation": "Divine Strike only applies to melee weapon attacks, not to spells."
+  },
+  {
+    "question": "If the wizard attempts to leap over an enemy with acrobatics, what rule applies.",
+    "answer": "Let me deal with it, guys. You don't want to prod me right now.",
+    "rules": [],
+    "rules_explanation": "This is not directly from the SRD, but is a ruling for game management. It shows that the DM is attempting to stay in control of a novel game situation."
+  },
+  {
+    "question": "does holding concentration on a spell and using wand to do other things still works?.",
+    "answer": "While maintaining concentration I can still use the wand to do things, yeah?",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "You can perform other actions that are separate from the spell while maintaining concentration."
+  },
+  {
+    "question": "If you angle fireball to not include some people, how does that work?.",
+    "answer": "I'll do the same thing, then. Shit.",
+    "rules": [],
+    "rules_explanation": "This does not come directly from the SRD, but is a ruling for game management, and does not have a clear answer in the rules."
+  },
+  {
+    "question": "If you cannot see a friendly NPC character who is within range, can they be healed with Healing Word?.",
+    "answer": "A creature you can see within range, so no, you have to be able to see her to aid her.",
+    "rules": [],
+    "rules_explanation": "The Healing Word spell requires that you can see the target."
+  },
+  {
+    "question": "If a wildshaped druid’s air elemental picks up debris that swirls around it and slams into people, do they take damage from the roof of the house or tree branches?",
+    "answer": "Well, three archers are coming out, so we'll say for the sake of this, going to put him up there.",
+    "rules": [],
+    "rules_explanation": "The dungeon master is indicating a change in encounter design and making a judgement based on fictional elements."
+  },
+  {
+    "question": "If you use action surge to attack multiple times, are those with disadvantage due to sharpshooter?.",
+    "answer": "You can, go for it. Your regular straight attack. You have advantage, and then it's disadvantage for that, so that brings it to a regular attack.",
+    "rules": [
+      "Combat > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Sharpshooter, Reckless Attack and other conditions relating to Advantage and Disadvantage are combined according to the appropriate condition."
+  },
+  {
+    "question": "If you are 5 feet from the thing, is it a natural crit?.",
+    "answer": "Because you were within five feet, so, yes. So double the dice. So what'd you roll on the dice?",
+    "rules": [
+      "Appendix PH-A > Paralyzed"
+    ],
+    "rules_explanation": "This ruling is based on the paralyzed condition, which states any attack within 5ft of a paralyzed creature results in a critical hit."
+  },
+  {
+    "question": "When frenzied raging can you attack for a bonus action?.",
+    "answer": "Yeah, it's a bonus action, so you could if you wanted to. The weapon isn't attuned to you, so it would just act as a regular axe, possibly.",
+    "rules": [
+      "Classes > Barbarian > Path of the Berserker > Frenzy"
+    ],
+    "rules_explanation": "The frenzy rage feature allows you to make an attack with a bonus action."
+  },
+  {
+    "question": "With a called shot, do you have advantage on the attack if you are raging?.",
+    "answer": "Well, you have advantage against attacks with him anyway, because he's paralyzed. I will say, it'll have– okay, you'll have advantage on the attack, but I will say it's a general minus five to the attack, just because it's a very specific called shot. Go for it.",
+    "rules": [
+      "Appendix PH-A > Paralyzed"
+    ],
+    "rules_explanation": "In general, you have advantage on the attack because he's paralyzed, but I will say it's a general minus five to the attack because it's a very specific called shot. Go for it."
+  },
+  {
+    "question": "For purposes of range for the gun, what is the first range increment for the pistol?.",
+    "answer": "400 feet.",
+    "rules": [],
+    "rules_explanation": "This is DM specifying game information."
+  },
+  {
+    "question": "Do you have an advantage on a ranged attack because the enemy is paralyzed?.",
+    "answer": "Oh, he's paralyzed! I have advantage on the attack.",
+    "rules": [
+      "Appendix PH-A > Paralyzed"
+    ],
+    "rules_explanation": "The paralyzed condition gives advantage to attack rolls."
+  },
+  {
+    "question": "Do you double the dice on a crit or just add the modifier?.",
+    "answer": "Double the dice and then add the modifier to it.",
+    "rules": [
+      "Combat > Making An Attack > Critical Hits"
+    ],
+    "rules_explanation": "When a critical hit occurs the damage dice for the attack are doubled, then damage modifiers are applied to the total."
+  },
+  {
+    "question": "If you are doing a torso shot, is there any save involved?.",
+    "answer": "So he gets no save, there's no save for the torso shot, he's going to take his damage and move ten feet away from me.",
+    "rules": [],
+    "rules_explanation": "Torso shot is being treated as an action with a direct effect that does damage and moves someone ten feet away without a save"
+  },
+  {
+    "question": "If using sharpshooter do you have advantage?.",
+    "answer": "You have advantage on that, and then you have disadvantage because it's a called shot, plus minus five.",
+    "rules": [
+      "Combat > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage and disadvantage cancel each other out"
+  },
+  {
+    "question": "If someone is being shoved do they make acrobatics check or athletics check.",
+    "answer": "So you shove it five feet. This way? All right, so it's going to go ahead and make an acrobatics–",
+    "rules": [
+      "Combat > Actions in Combat > Attack > Shoving a Creature"
+    ],
+    "rules_explanation": "The target of a shove is not required to make a check, instead the shover is required to make an athletics check. In order to not fall after being shoved, the target must make an acrobatics check."
+  },
+  {
+    "question": "does a surprise round affect all the archers?.",
+    "answer": "It affects everyone except for these four individuals, or these two individuals with the clubs, and these two women here with big swords, and Kevdak.",
+    "rules": [],
+    "rules_explanation": "Based on DM's discretion."
+  },
+  {
+    "question": "If you aim an arrow, is it at disadvantage?.",
+    "answer": "It would be at disadvantage and a minus five to hit.",
+    "rules": [],
+    "rules_explanation": "It would be at disadvantage and a minus five to hit."
+  },
+  {
+    "question": "Does surprise attack count if raging?.",
+    "answer": "Correct.",
+    "rules": [],
+    "rules_explanation": "Not specified, but it is implied that surprise attack is cancelled when the defender is raging, so the attacker does not have advantage."
+  },
+  {
+    "question": "What is the damage of the Hail of Thorns spell?.",
+    "answer": "Level three, so that's 3d10 points of piercing damage.",
+    "rules": [],
+    "rules_explanation": "The dungeon master is determining spell details not contained in the SRD and also clarifying level."
+  },
+  {
+    "question": "For Healing Word, what's the range on it?.",
+    "answer": "60 feet for Healing Word, I believe. Right?",
+    "rules": [
+      "Spell Descriptions > Healing Word"
+    ],
+    "rules_explanation": "The healing word spell has a range of 60 ft."
+  },
+  {
+    "question": "If you are at 0 HP and are helped by a friendly spell, how many HP do you get?.",
+    "answer": "So you go to zero, and then eight.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points"
+    ],
+    "rules_explanation": "You can still receive healing at 0 HP."
+  },
+  {
+    "question": "Does it have to be an attack-action-based can i do what?.",
+    "answer": "Looking at that right now, the berserker is here. Let me see.",
+    "rules": [
+      "Classes > Barbarian > Path of the Berserker > Frenzy"
+    ],
+    "rules_explanation": "You can't take an Attack action to attack since it has to be a bonus action from the frenzy rage."
+  },
+  {
+    "question": "Can Vex, the level 10 ranger fly down and grab Pike, the level 10 cleric?.",
+    "answer": "It's going to be hard-pressed for you this turn to pull out your broom. I mean, you've been clutching your broom with you this whole time, you leaned it up against the wall as you hid down there?",
+    "rules": [],
+    "rules_explanation": "This is a GM ruling about actions."
+  },
+  {
+    "question": "When taking an action to dash, how many squares of movement are there?.",
+    "answer": "I'm going to use my bonus action to dash, and hasted I get 24 squares of movement on this board.",
+    "rules": [
+      "Combat > Actions in Combat > Dash"
+    ],
+    "rules_explanation": "Using the Dash action allows you to move up to your speed as another action. It looks like the characters speed is 30ft, which means 6ft for each square."
+  },
+  {
+    "question": "how does that work if you only have half your–?.",
+    "answer": "I mean, he doesn't have an arm, he doesn't have the arm. That was– he can't get that back.",
+    "rules": [],
+    "rules_explanation": "A ruling and does not come directly from the SRD, but is a ruling for game management based on descriptions from other rules."
+  },
+  {
+    "question": "When you revert and have 90 extra health points and have not taken any damage can you do what?.",
+    "answer": "No, I'm up 90 bonus hit points and I haven't taken any damage.",
+    "rules": [],
+    "rules_explanation": "The answer is no."
+  },
+  {
+    "question": "The Sprinter's Boots double the base speed or the total?.",
+    "answer": "What you got, what you doing? Oh, I cast Cure Wounds on myself. And you're done? You're healed up? Okay, that's the end of your turn. I can't do any, don't I have a bonus action? You have a bonus action still if you want.",
+    "rules": [],
+    "rules_explanation": "The DM is explaining how the player can use their bonus action with the boots."
+  },
+  {
+    "question": "With the command move how does that work after what just happened?",
+    "answer": "Okay. All right, so. What's the DC on that?",
+    "rules": [
+      "Spell Descriptions > Command"
+    ],
+    "rules_explanation": "The DM is asking to perform a roll for command."
+  },
+  {
+    "question": "What does this board back there look like?.",
+    "answer": "Kind of, right now, yeah.",
+    "rules": [],
+    "rules_explanation": "A description of the board."
+  },
+  {
+    "question": "When shoving a barrel off a roof at a person is this a good action?",
+    "answer": "What? Who's that? Is the action or are we going to do extra damage to him or am I not?.",
+    "rules": [],
+    "rules_explanation": "This is not directly from the SRD, but is a ruling for game management based on descriptions from other rules."
+  },
+  {
+    "question": "If the person is standing over them are they going to make an attack?.",
+    "answer": "They're both trying to take you out. One of them has disadvantage because you're in its spot and it couldn't get away from you, it had nowhere to go really.",
+    "rules": [
+      "Combat > Range"
+    ],
+    "rules_explanation": "You have disadvantage when you're with in a melee"
+  },
+  {
+    "question": "How many dice is it to heal with a healing potion?.",
+    "answer": "8d4 plus eight?",
+    "rules": [],
+    "rules_explanation": "How much the player can use with the potion."
+  },
+  {
+    "question": "What happens when a character falls on an object or other person, then you are not really able to do any attack. Is all he's able to do for that is if it's like something they cannot do at this moment. Is this where it finishes?",
+    "answer": "Well, going to put him up there.",
+    "rules": [],
+    "rules_explanation": "A judgment call for the GM, because that's what they can do."
+  },
+  {
+    "question": "What are you guys looking for Vex and are you doing? What is it say again what is that?.",
+    "answer": "Well, it's AID. You have 15 extra hit points, So that's what it is",
+    "rules": [
+      "Spell Descriptions > Aid"
+    ],
+    "rules_explanation": "DM is telling you how to use it to cast the thing."
+  },
+  {
+    "question": "If Vax jumps off the tower with hasted movement, what happens?.",
+    "answer": "So you move around. I want to go up by Keyleth. And pass her, I want to jump down and land in front of Grog.",
+    "rules": [],
+    "rules_explanation": "Where he wants to go and what will happen if he does do that"
+  },
+  {
+    "question": "Is it a stealth check?.",
+    "answer": "As you're going down, he looks over, looks at you and goes, “Hey. Hey!” And can't even catch you, you're too fast. Make an acrobatics check as you leap off the roof.",
+    "rules": [
+      "Combat > Actions in Combat > Hide"
+    ],
+    "rules_explanation": "Stealth check is not going to be enough to be hidden you had to perform an acrobatics check."
+  },
+  {
+    "question": "Can marisha get an attack of opportunity as he pushes?",
+    "answer": "Marisha, you do get an attack of opportunity, it does fall and hit the barrel next to you, I mean, next to Vax. It doesn't hit you, but it spooks you momentarily as it slams onto the barrel next to your side and rolls off.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attack"
+    ],
+    "rules_explanation": "What would happen from the movement."
+  },
+  {
+    "question": "If Greenbeard's turn comes around, which is the end, but is at 28. So he resists. Rolls, What would it be?.",
+    "answer": "Okay, well, that ends Kevdak's turn. Scanlan, you're up.",
+    "rules": [
+      "Spell Descriptions > Hold Person"
+    ],
+    "rules_explanation": "You can just save."
+  },
+  {
+    "question": "If you use Healing Word to heal, communicate, does that action aid?.",
+    "answer": "As the beautiful musical tones of the singing come to a close, your holy symbol, the glow fades, and a moment passes before you hear the soft coughing of the child's throaty expulsion, himself taking in his next breath of air.",
+    "rules": [],
+    "rules_explanation": "It shows how your holy symbol is activated."
+  },
+  {
+    "question": "Can you use a potion?.",
+    "answer": "You can, yeah. That will heal you, a superior, let's see. Superior is 8d4 plus eight.",
+    "rules": [],
+    "rules_explanation": "You're answering what to use a potion."
+  },
+  {
+    "question": "If he's raging, do you double the dice because he's five feet away?.",
+    "answer": "Technically it's a critical hit. So, I mean, it's a critical hit, so you do your brutal critical. You roll two more d12s.",
+    "rules": [],
+    "rules_explanation": "Because it is half is damage due to rage."
+  },
+  {
+    "question": "Can I get back an axe that was yanked from my hand?.",
+    "answer": "He reaches over and picks up your hammer.",
+    "rules": [],
+    "rules_explanation": "It cannot use its weapons."
+  },
+  {
+    "question": "But how does that work if you only have half your–?.",
+    "answer": "I mean, he doesn't have an arm, he doesn't have the arm. That was– he can't get that back.",
+    "rules": [],
+    "rules_explanation": "You cannot use the attack because you're not really able to do an attack."
+  },
+  {
+    "question": "Okay, no, are you saying what's in your head is different than what's in my head?.",
+    "answer": "Okay. That was double sixes. So that's 22 plus eight is 30, so 15 points of slashing damage.",
+    "rules": [],
+    "rules_explanation": "Okay."
+  },
+  {
+    "question": "Well now that I'm not doing so well do that.",
+    "answer": "You can't do it, Grasping Vine's a 4th-level spell. You can only do up to a second level as a bonus.",
+    "rules": [],
+    "rules_explanation": "How to heal yourself or others."
+  },
+  {
+    "question": "I'm going to try to do the Pike move and jump down one level. All right, make an acrobatics check",
+    "answer": "14– 19. You leap down and make it right there.",
+    "rules": [],
+    "rules_explanation": "What has to be done to proceed."
+  },
+  {
+    "question": "Are they not going to attack him as well? .",
+    "answer": "Well, one of them's going to go ahead and attack Pike, because it was the one that wasn't affected by the Command spell. That's going to be a 19.",
+    "rules": [],
+    "rules_explanation": "A statement of what and why its happening."
+  },
+  {
+    "question": "If you can't do anything then, what happens?.",
+    "answer": "Greenbeard is going to go ahead and finally do something.",
+    "rules": [],
+    "rules_explanation": "Well, now if the turn, for his."
+  },
+  {
+    "question": "Can I cast it at a higher level, so I'll Counterspell that",
+    "answer": "Heal, 70. Old version was almost all your hit points.",
+    "rules": [],
+    "rules_explanation": "Counter spell isn't that high, so the old version is still going to be enough hit points."
+  },
+  {
+    "question": "Wait, was he holding a weapon?.",
+    "answer": "Yes, he has no weapons, his weapon was pulled away from him.",
+    "rules": [],
+    "rules_explanation": "What's available to be done."
+  },
+  {
+    "question": "Does that mean he gets the three 12s again",
+    "answer": "With the Brutal Critical at this level, how many extra dice is it for you?",
+    "rules": [
+      "Classes > Barbarian > Brutal Critical"
+    ],
+    "rules_explanation": "Asking for more damage because of ability."
+  },
+  {
+    "question": "Do you need advantage to summon a willing person into a gauntlet?",
+    "answer": "It's a wisdom save, but if it's a willing person they can go in.",
+    "rules": [],
+    "rules_explanation": "It depends on the person and if they're willing."
+  },
+  {
+    "question": "Can I attack from there even if I have full protection in cover?.",
+    "answer": "Yeah. All right, so. There we go. There is currently–",
+    "rules": [],
+    "rules_explanation": "A judgement call by the DM."
+  },
+  {
+    "question": "What do I roll for the counter spell?.",
+    "answer": "That's 17. Let me check here real fast. Plus the spell's level. Yeah. It's dispelled.",
+    "rules": [
+      "Spell Descriptions > Counterspell"
+    ],
+    "rules_explanation": "To successfully use Counterspell you must make an ability check using your spellcasting ability, the DC for which is 10 + the spell's level. It would've took over if it could've done it, but it did not."
+  },
+  {
+    "question": "If he gets it in his hand, will it be all we're doing?.",
+    "answer": "It's not a huge threat to them at the moment and they're both going to focus actually on you, Scanlan. When it gets around to their turn, though.",
+    "rules": [],
+    "rules_explanation": "What the plan is to do is be a threat to them."
+  },
+  {
+    "question": "Am I able to use my bonus action to hide behind that chimney from Kevdak's view, and the archers are, am I able to do that?.",
+    "answer": "Yeah, the chimney should offer you enough, and you have a tree between the two of you anyway.",
+    "rules": [
+      "Combat > Actions in Combat > Hide"
+    ],
+    "rules_explanation": "You can perform to do that action."
+  },
+  {
+    "question": "am I able to do is to use my bonus action to hide behind that chimney from Kevdak's view, and the archers are, am I able to do that?.",
+    "answer": "Make a dexterity, make a stealth check.",
+    "rules": [
+      "Skills > Dexterity > Stealth"
+    ],
+    "rules_explanation": "To do that action you need to roll with dexterity skill."
+  },
+  {
+    "question": "With advantage, that is going to be a 14 is it in that doorway?.",
+    "answer": "Misses. Okay. You get a critical and hit on this one. So this is the bladestorm.",
+    "rules": [],
+    "rules_explanation": "How that applies is to who and which one."
+  },
+  {
+    "question": "If I aim an arrow, it's at disadvantage.The siege arrow that Percy gave me, is that a magical weapon or a technical weapon?.",
+    "answer": "It's a technical weapon, it's used essentially against structures, objects.",
+    "rules": [],
+    "rules_explanation": "What does a item really do."
+  },
+  {
+    "question": "if I'm in the air! are they going to get an action attack?.",
+    "answer": "But for you to get low enough to hand him that, they all have big double greatswords, and they're– well, half of them are half-giants. So you can do this. As you swish up, which you've already said you're going to do, you fly up and you reach down.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attack"
+    ],
+    "rules_explanation": "If you don't do it right then, you're going to miss."
+  },
+  {
+    "question": "can I be hit if they swing at me like that? .",
+    "answer": "As you fly off from doing this, all of them swing wide at you, that's five attacks of opportunity against you.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attack"
+    ],
+    "rules_explanation": "What that could lead to."
+  },
+  {
+    "question": "Do I have a reaction or something?.",
+    "answer": "All right, so. Three of these individuals, some of which you may have passed in your time, and two of which you see are members that were absorbed into the tribe from what was previously the Rivermaw tribe, (roar) give off these angry roars and go into an immediate rage, breaking the surprise element, and charge.",
+    "rules": [],
+    "rules_explanation": "Not at the moment."
+  },
+  {
+    "question": "If i aim an arrow, it's at disadvantage?.",
+    "answer": "If you aimed specifically for something? It would be at disadvantage and a minus five to hit.",
+    "rules": [],
+    "rules_explanation": "Correct it does impact your performance."
+  }
+]

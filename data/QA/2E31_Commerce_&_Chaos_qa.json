@@ -1,0 +1,66 @@
+[
+  {
+    "question": "The level 3 character of an unknown class and race who has just purchased a set of tinkerer's tools for 50 gold wants to disassemble a gun. What kind of ability check is required?",
+    "answer": "The SRD states that if the level 3 character is not proficient in tinkerer's tools, a straight intelligence check is required. The character must add their Intelligence modifier to the d20 roll.",
+    "rules": [
+      "Equipment > Tools",
+      "Using Ability Scores > Ability Checks > Skills",
+      "Appendix MM-B: Nonplayer Characters > Skills"
+    ],
+    "rules_explanation": "The SRD states that if the character is not proficient in tinkerer's tools, a straight intelligence check is required. The description in the SRD specifies that the bonus for proficiency is only added when the player is proficient with the relevant tool or skill."
+  },
+  {
+    "question": "A level 6 monk wants to create a forgery, and has a forgery kit, but does not know if they are proficient. What is the proficiency modifier and which skill is used for the roll?",
+    "answer": "The question does not provide sufficient information. The roll should be a Dexterity check. If the level 6 Monk has a relevant background, they may be proficient in the skill of Forgery and gain their proficiency bonus in addition to their Dexterity modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Appendix MM-B: Nonplayer Characters > Skills",
+      "Feats"
+    ],
+    "rules_explanation": "The question does not provide enough information to answer the question. The roll would be a straight intelligence check + proficiency bonus. The dexterity is used as the determining ability since it requires working with your hands, and an intelligence skill is added if the character is proficient"
+  },
+  {
+    "question": "When looking for diamonds, if two level X characters, a <class1> and a <class2>, aid each other, what happens for the check?",
+    "answer": "The character making the check has advantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "When two or more characters team up to attempt a task, the character making the check does so with advantage."
+  },
+  {
+    "question": "A level X Jester wants to haggle for a reduced price with Pumat. What kind of roll is required?",
+    "answer": "A persuasion check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "When you attempt to influence someone with tact, social graces, or good nature, you make a Charisma (Persuasion) check."
+  },
+  {
+    "question": "What happens when a 5 gold mask is bought from Suvo?",
+    "answer": "There is no specified game effect, and the transcript notes the merchant is prone to embellishing.",
+    "rules": [],
+    "rules_explanation": "The rules state that the contents of the letter are up to the GM, and can be customized to suit their campaign."
+  },
+  {
+    "question": "A level X Firbolg is training to make potions. Does he need a special proficiency or materials to help make one, and if so what are they?",
+    "answer": "Proficiency in Herbalism Kit is necessary to make healing potions and buying the materials will allow the process to be cheaper.",
+    "rules": [
+      "Equipment > Tools"
+    ],
+    "rules_explanation": "You would be purchasing proficiencies, the training is what you would be doing. This would be the bulk of your downtime, because it will take a while for you to really get."
+  },
+  {
+    "question": "A level X character of a party is trying to sell a greater healing potion to a vendor. What is the gold piece value?",
+    "answer": "The transaction description indicates the price for such a potion is 250 gp at this particular vendor.",
+    "rules": [],
+    "rules_explanation": "The rules give sample prices for transactions, but note that the prices may be modified by the GM."
+  },
+  {
+    "question": "An arrow hits Beau. What action to do I need to spend to use the new ability?",
+    "answer": "You need to spend a reaction to use that ability.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's."
+  }
+]

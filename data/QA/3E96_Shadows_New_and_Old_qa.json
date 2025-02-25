@@ -1,0 +1,264 @@
+[
+  {
+    "question": "What is the impact on the AC of the Imogen [level 11, Sorcerer] when Orym [level 11, Paladin] uses Bait and Switch?",
+    "answer": "The AC of Imogen [level 11, Sorcerer] is increased by 4.",
+    "rules": [
+      "Combat > Actions in Combat > Reactions"
+    ],
+    "rules_explanation": "The rules define that a creature can take a reaction. Bait and Switch is a specific ability that allows Imogen's AC to be increased."
+  },
+  {
+    "question": "The DM asks Fearne [level 11, Ranger] to perform a d20 + athletics check to climb the tree, but the character has a -2 to athletics, what adjustment is made to the d20 roll, and what is the correct way to calculate the skill check value?",
+    "answer": "The athletics skill check should be d20 - 2",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The athletics skill modifies the strength ability which is defined as the primary part of the ability check. The modifier is applied to the d20 roll."
+  },
+  {
+    "question": "Are two rings allowed to be attuned by a single character, Taliesin the [level 11, Fighter]?",
+    "answer": "Yes, a character can be attuned to two rings.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "A character can be attuned to up to three magic items at a time. Rings do not have any special rules about how many can be equipped."
+  },
+  {
+    "question": "How does Ashley's [level 11, Ranger] Pass Without a Trace spell impact the group's ability to make stealth checks?",
+    "answer": "Creatures within 30 feet of Ashley [level 11, Ranger] gain a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means, and leave behind no tracks or other traces of its passage.",
+    "rules": [
+      "Spellcasting > Spell Lists > Ranger Spells > Pass Without Trace"
+    ],
+    "rules_explanation": "The Pass Without a Trace spell has a fixed impact on the stealth checks of the group."
+  },
+  {
+    "question": "Given that all members of the party are within 30 feet of Ashley [level 11, Ranger], and Ashley [level 11, Ranger] has already cast Pass Without a Trace, what roll should be made, and with what adjustments to determine each group member's group stealth check?",
+    "answer": "Each character rolls a d20, adds their dexterity modifier (positive or negative), adds their proficiency bonus (if proficient in stealth) and adds +10. This is then used as their individual stealth value for purposes of a group stealth check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Spellcasting > Spell Lists > Ranger Spells > Pass Without Trace"
+    ],
+    "rules_explanation": "The stealth check is based on the dexterity ability, which is modified as appropriate. The pass without trace spell adds a fixed value to the roll."
+  },
+  {
+    "question": "If Dorian [level 11, Bard] casts Cure Wounds on Laudna [level 11, Warlock] who is bleeding on the floor, what is the relevant information for determining the damage, healing and adjustments?",
+    "answer": "The caster rolls 1d8 and adds their spellcasting ability modifier. This has no effect on undead.",
+    "rules": [
+      "Spellcasting > Spell Lists > Bard Spells > Cure Wounds"
+    ],
+    "rules_explanation": "Based on the spell description, we see that this roll will determine how many hit points a creature recovers. But given that the target is undead, she cannot be healed. It would have no effect on Laudna [level 11, Warlock]."
+  },
+  {
+    "question": "What rule applies advantage to melee weapon attack rolls using strength?",
+    "answer": "There is not a generic rule that applies advantage to melee weapon attack rolls using strength. Advantage can be granted from certain spells and class features.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage is never applied to anything by default, it must be granted by an ability, spell, or some other specific source."
+  },
+  {
+    "question": "If Orym [level 11, Paladin] absorbed a rare Voldo harness item, what is the effect?",
+    "answer": "The wearer's maximum hit points increase by 2, and all attack rolls and ability checks have advantage until they complete a long rest.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "This is how this item functions."
+  },
+  {
+    "question": "What level spells can the individual described in 'ME' cast with the  Quintessence Array?",
+    "answer": "The individual cannot cast spells with the Quintessence Array, it is used to absorb magic.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "This item does not allow you to cast spells"
+  },
+  {
+    "question": "If Imogen [level 11, Sorcerer] casts a 4th level spell, and there are alterations to spellcraft in the current area, what rule applies?",
+    "answer": "Even mildly powerful magics have a chance of acting strangely. So for those of you who utilize spellcraft, do not be too surprised with odd encounters.",
+    "rules": [],
+    "rules_explanation": "There is no specific rule, only general advice from the game master."
+  },
+  {
+    "question": "If the group is making a teleport to an area that is known and safe, but it is Eisencross where magic doesn't always function properly, what rule applies?",
+    "answer": "Magic gets a bit strange to the north, and I cannot guarantee my first attempt at getting us to our destination will be smooth.",
+    "rules": [],
+    "rules_explanation": "There is no codified rule that applies. The game master explains how it will be handled in this particular game."
+  },
+  {
+    "question": "Essek [NPC] makes a teleport attempt for a party of 7, and the text includes 'the breath seemingly pulled from your lungs as you feel the gravity drawing you into the center'. Which rules describe this kind of magic transportation?",
+    "answer": "There is no specific rule quoted for this, only a description of the sensation of teleportation.",
+    "rules": [],
+    "rules_explanation": "The game master is describing this action, but there is no direct game rule that relates to this sensation."
+  },
+  {
+    "question": "If Essek [NPC] uses Teleport and the d100 roll is 14, what rule applies?",
+    "answer": "The DM determines what occurs using this roll.",
+    "rules": [],
+    "rules_explanation": "Teleport has different results depending on the result of the d100."
+  },
+  {
+    "question": "With a roll of 45 on the percentile dice for the Teleport spell, what rule applies?",
+    "answer": "The landscape is cold. There is a wind that begins to kick in, and you immediately pull yourself into a warmer space. A gentle fall of snow begins to apparate around you. You see these rolling white fields of snow on the surrounding mountain range.",
+    "rules": [],
+    "rules_explanation": "There is no codified rule, only a general description of the results of this particular roll."
+  },
+  {
+    "question": "Essek [NPC] knows the Teleport spell, but is unfamiliar with the destination region. Given a roll of 61 on the percentile dice, what occurs?",
+    "answer": "You feel yourself pulled through the sudden thrust of arcane energy. (whooshing) You all land again in a different set of heavy snow about knee-to-thigh deep.",
+    "rules": [],
+    "rules_explanation": "Because the destination is not fully known, the effect is randomized within a subset of the expected result of the Teleport spell."
+  },
+  {
+    "question": "The Quintessence Array is used on a rare item. Which rule covers what occurs?",
+    "answer": "For rare, maximum hit point increases by two. All attack rolls and ability checks have advantage until they complete a long rest.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "This is the specific function of this item."
+  },
+  {
+    "question": "If Orym [level 11, Paladin] absorbs a Ring of Protection into his armor, what are the effects?",
+    "answer": "Plus two permanent increase to your maximum hit points. All your attack rolls and ability checks have advantage until your next long rest.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "This is the function for absorbing a rare item."
+  },
+  {
+    "question": "If the Voldo harness has a 20% chance to break on the second use, what does the rule mean by breaking?",
+    "answer": "We don't want to risk breaking it",
+    "rules": [],
+    "rules_explanation": "There is no additional detail on what a breakage means in rules terms."
+  },
+  {
+    "question": "What are the effects of exhaustion?",
+    "answer": "Level 1: Disadvantage on ability checks. Level 2: Speed halved. Level 3: Disadvantage on attack rolls and saving throws. Level 4: Hit point maximum halved. Level 5: Speed reduced to 0. Level 6: Death",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "This is the definition of each level of exhaustion"
+  },
+  {
+    "question": "What actions are available during a short rest?",
+    "answer": "eating, drinking, reading, and tending to wounds",
+    "rules": [
+      "Resting > Short Rest"
+    ],
+    "rules_explanation": "This is the rule defining what actions can occur during this period."
+  },
+  {
+    "question": "How does darkness impact a ranged attack roll?",
+    "answer": "When you attack a target that you can't see, you have disadvantage on the attack roll.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "This is the rule directly relevant to attacking a target in darkness."
+  },
+  {
+    "question": "If a character rolls a 49 on Teleport, does the presence of Guidance have any effect on the roll?",
+    "answer": "no, it is just nice to have.",
+    "rules": [],
+    "rules_explanation": "There is no mechanical effect on this roll."
+  },
+  {
+    "question": "If the target is not undead, does the Command spell affect the creature?",
+    "answer": "No, the spell has no effect if the target's undead.",
+    "rules": [
+      "Spellcasting > Bard Spells > Command"
+    ],
+    "rules_explanation": "The description of the Command spell states the spell does not function on undead."
+  },
+  {
+    "question": "If one of the characters casts Command, does the target need to understand the language?",
+    "answer": "yes, the target needs to understand the language.",
+    "rules": [
+      "Spellcasting > Bard Spells > Command"
+    ],
+    "rules_explanation": "The spell description states that the target needs to understand the command."
+  },
+  {
+    "question": "Can the spell Command affect any creature?",
+    "answer": "The creature has to be someone I can see within range.",
+    "rules": [
+      "Spellcasting > Bard Spells > Command"
+    ],
+    "rules_explanation": "The Command spell can be cast on a creature within range that the caster can see."
+  },
+  {
+    "question": "What are the effects on a successful dispel magic on Glyph of Warding?",
+    "answer": "The spell can be dispelled.",
+    "rules": [],
+    "rules_explanation": "There is no particular effect only that it can be affected by dispel magic."
+  },
+  {
+    "question": "Can you benefit from the extra damage from the Butcher's Bib when attacking with a magical hammer?",
+    "answer": "No, Butcher's Bib only works with slashing damage.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "The requirements to use Butcher's Bib do not include bludgeoning."
+  },
+  {
+    "question": "Can you use the Voldo harness to absorb items?",
+    "answer": "Yes, I can.",
+    "rules": [],
+    "rules_explanation": "The harness has the ability to absorb magic items."
+  },
+  {
+    "question": "Does Ashley [level 11, Ranger] recover from a level of exhaustion?",
+    "answer": "With a long rest, you recover a point of exhaustion.",
+    "rules": [
+      "Resting > Long Rest"
+    ],
+    "rules_explanation": "The long rest rules state exhaustion is removed"
+  },
+  {
+    "question": "What effect does the Gambler's Blade have on the wearer?",
+    "answer": "You get plus one to his attack, and then if he has a death save, he takes one off.",
+    "rules": [],
+    "rules_explanation": "It is a weapon that gives the character this ability"
+  },
+  {
+    "question": "How far away are the undead frost giants?",
+    "answer": "About 150, 200 feet off.",
+    "rules": [],
+    "rules_explanation": "The DM is describing this in his narration."
+  },
+  {
+    "question": "Can Imogen [level 11, Sorcerer] use the spell Fly on that many people?",
+    "answer": "I can't Fly that many people.",
+    "rules": [
+      "Spellcasting > Spell Lists > Sorcerer Spells"
+    ],
+    "rules_explanation": "The implication is that there are too many targets for a single casting of this spell, therefore the spell does not allow for this."
+  },
+  {
+    "question": "What actions are available to a controlled mount?",
+    "answer": "Dash, Disengage, and Dodge",
+    "rules": [
+      "Mounted Combat > Controlling a Mount"
+    ],
+    "rules_explanation": "These are the only options this entity is limited to."
+  },
+  {
+    "question": "How many attempts are allowed when teleporting using the Teleport spell?",
+    "answer": "I can do this once more for the day.",
+    "rules": [],
+    "rules_explanation": "In this particular situation, the DM restricts the number of attempts."
+  },
+  {
+    "question": "With advantage on attack rolls and ability checks, does a point of exhaustion still apply disadvantage to ability checks?",
+    "answer": "Well, ability checks will be straight because I've got one point of exhaustion.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This is the interaction between the advantage on ability checks and the disadvantage due to exhaustion: they cancel out."
+  },
+  {
+    "question": "How does the Pipe of Remembrance function?",
+    "answer": "When I don't want to feel like shit, I have a smoke, and it materializes the best thing I ever did, the most heroic act, the kindest act I ever performed. That's what it does.",
+    "rules": [],
+    "rules_explanation": "There is not additional mechanical detail on this item's function."
+  }
+]

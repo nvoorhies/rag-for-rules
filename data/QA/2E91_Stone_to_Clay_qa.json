@@ -1,0 +1,58 @@
+[
+  {
+    "question": "A level 6 cleric/ level 5 rogue is attempting to determine the sincerity of the NPC Essek, a drow. What dice should she roll?",
+    "answer": "She should make a Wisdom (Insight) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A Wisdom (Insight) check is made when attempting to determine someone's feelings or true intentions."
+  },
+  {
+    "question": "A level 6 cleric is attempting to make an assist another player on an insight check. How does the DM adjudicate that action?",
+    "answer": "The DM has ruled that the player is not able to assist on insight in this situation.",
+    "rules": [
+      "Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "A character can only assist on a task that they could attempt alone, but also only where two or more people actually working together would be productive. In this case, the DM has determined it is not such a case."
+  },
+  {
+    "question": "How does the DM rule to resolve if the level 6 rogue was being watched while here. ",
+    "answer": "The DM asked for a Wisdom (Perception) check from the level 6 rogue. Then the DM revealed there were no floating balls.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills > Wisdom",
+      "Using Ability Scores > Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "Because the question was whether she could be seen or not, the Dm asked for a Wisdom (Perception) check to resolve the question"
+  },
+  {
+    "question": "Can a player wearing a haversack carry 4 bolts of cloth and 12 green cloaks",
+    "answer": "The character could carry 12 green cloaks but might not be able to carry four bolts of cloth. A haversack has limitations on the size and weight of the objects within.",
+    "rules": [
+      "Equipment > Adventuring Gear > Handy Haversack",
+      "Equipment > Adventuring Gear > Container Capacity"
+    ],
+    "rules_explanation": "A handy haversack has limits to the size of each pouch, so it would be possible for the cloaks to be smaller in size and fit, while the bolts of cloth might be too large in a single dimension to fit in the bag."
+  },
+  {
+    "question": "A character is using the Fortunes Favor feat. Can it be used multiple times?",
+    "answer": "No. Once a roll has been made with advantage from Fortune's Favor the effect is completed",
+    "rules": [],
+    "rules_explanation": "Fortunes Favor is not a rule in the SRD and has no defined usage."
+  },
+  {
+    "question": "Does a level 7 Tempest Cleric need to be present to improve the hot tub the party has in their house, or can they be doing other activities elsewhere?",
+    "answer": "The SRD has no requirements to be present when improving a hot tub.",
+    "rules": [],
+    "rules_explanation": "The improvement of the hot tub is outside of the game rules and so is under DM fiat. As such the SRD has no rules for determining whether presence is needed or not."
+  },
+  {
+    "question": "A level 9 Monk with Dexterity 13, and Wisdom 15 is in a room with no light. They are hit with a spell that requires the must roll a 20 to detect a threat in the room.",
+    "answer": "The Monk has Blindsight out to a range of 60 feet, and therefore is not blinded and is able to make a normal roll. They will roll 1d20 with +4 to the roll. In addition, since their passive perception is 12 they will automatically succeed on a DC 12 or less check.",
+    "rules": [
+      "Monk > Class Features > Senses > Blindsight",
+      "Using Ability Scores > Passive Checks"
+    ],
+    "rules_explanation": "Because the monk has Blindsight it does not matter if there is light in the room or not."
+  }
+]

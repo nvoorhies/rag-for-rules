@@ -1,0 +1,124 @@
+[
+  {
+    "question": "Is the Dexterity check to sit where Eadwulf would be seated a contested roll, or does someone need to meet a target number?",
+    "answer": "The roll is a dexterity check contested by Eadwulf.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The question specifies that two entities are attempting to perform an opposed action.  The answer is unambiguously specified by the context of the situation. The rules for contests are in the combat chapter"
+  },
+  {
+    "question": "If all the place settings for a meal are occupied, can a character choose to sit at the table, and therefore, does someone need to meet a target number?",
+    "answer": "This requires a dexterity check. In this situation the character rolled a 17.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The player attempted to take a seat from a NPC, triggering a Dexterity contest. The outcome of the particular roll is not as important as the fact that it triggered the contest. The game master stated that the NPC was moving to take a chair. This triggered a contest between the player and the NPC, as the action of seating themselves was unopposed. If the initial NPC action was opposed, then the ability check would be against the game master set DC value as the default."
+  },
+  {
+    "question": "If a spell has an effect to increase AC when wearing no armor and using no shield, can this be combined with the AC bonus from a shield, and does someone need to specify a target number?",
+    "answer": "The AC granted by the effect only applies while you are wearing no armor. You can use a shield and still gain this benefit.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Unarmored Defense"
+    ],
+    "rules_explanation": "The character is asking if they can use a shield with the unarmored defense.   The AC calculation states only no armor for its affect but you can still use a shield."
+  },
+  {
+    "question": "To determine if a character is lying, should an insight check or investigation check be used?",
+    "answer": "An insight check should be used.",
+    "rules": [
+      "Using Ability Scores > Wisdom > Insight",
+      "Skills > Wisdom > Insight"
+    ],
+    "rules_explanation": "The character is asking about discerning the honesty of another character. The Insight skill specifically covers this use case so is the correct skill to use."
+  },
+  {
+    "question": "How far away from the caster can creatures be to have the little turtle statue affect them?",
+    "answer": "I do not believe you have to be holding hands. ",
+    "rules": [
+      "Unearthed Arcana - Artificer",
+      "Classes > Wizard > Spellcasting"
+    ],
+    "rules_explanation": "Jester gave Caleb a statue of her god the Traveler. Caleb asks if people have to be holding hands. This question about the game's SRD rules would not be answerable with a direct answer and instead required knowing about a PC ability. "
+  },
+  {
+    "question": "When multiple bonuses apply to the same skill, should these skill bonuses be added together to modify a roll?",
+    "answer": "Your proficiency bonus can't be added to a single die roll or other number more than once.",
+    "rules": [
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "The characters discuss adding modifiers together, when only one proficiency applies to a single roll."
+  },
+  {
+    "question": "How does the Sleight of Hand skill affect a character's ability to slip bottle rockets to Luc?",
+    "answer": "Make a sleight of hand check.",
+    "rules": [
+      "Using Ability Scores > Dexterity > Sleight of Hand"
+    ],
+    "rules_explanation": "The character's Dexterity (Sleight of Hand) check determines success"
+  },
+  {
+    "question": "Can a character cast Word of Recall in a location that is not a designated sanctuary?",
+    "answer": "You get the little temple, I don't.",
+    "rules": [
+      "Classes > Cleric"
+    ],
+    "rules_explanation": "The question is about whether a sanctuary is needed for the spell. The text about the party, temples, and connection makes the answer clear."
+  },
+  {
+    "question": "Does the game require holding hands during teleportation?",
+    "answer": "You have to do it within 10 feet of you.",
+    "rules": [
+      "Classes > Wizard > Spellcasting"
+    ],
+    "rules_explanation": "Liam asks about it, and Matt clarifies the range"
+  },
+  {
+    "question": "If a group is unsure about the correct amount of Alchemist's Fire should they use the items?",
+    "answer": "Well then, you better not use them until you confirm with Dani, then.",
+    "rules": [
+      "Equipment"
+    ],
+    "rules_explanation": "The rules for equipment indicates that the players should know what the items are, but not that the Game Master has to provide the information."
+  },
+  {
+    "question": "After casting word of recall can the caster also teleport everyone else?",
+    "answer": "We'll need both of us for everybody, but.",
+    "rules": [
+      "Classes > Cleric"
+    ],
+    "rules_explanation": "Matt implies the spell can't transport everyone"
+  },
+  {
+    "question": "If a picture in a frame gives a subtle nod, has an illusion spell been cast?",
+    "answer": "The illusion isn't accompanied by sound, smell, or other sensory effects.",
+    "rules": [
+      "Spellcasting > What Is a Spell > Spells"
+    ],
+    "rules_explanation": "The picture is moving. That is magic. But the lack of accompanying spell, smell, and other sensory effects limits the range to illusion magic."
+  },
+  {
+    "question": "What happens if those six humanoid-ish figures did not go away?",
+    "answer": "As you step through the door, they all disappear, and you feel the enchantment that your weapon had given to you fade.",
+    "rules": [
+      "Spells > What Is a Spell > Spells"
+    ],
+    "rules_explanation": "This question asked about what happened, and that is described in the text."
+  },
+  {
+    "question": "If a character wants to distract an enemy with their wit, what rule should they use?",
+    "answer": "Cutting Words. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll.",
+    "rules": [
+      "Classes > Bard > Bard College > Expertise"
+    ],
+    "rules_explanation": "The character asks what action to perform. The game master then defines exactly how to do it. That action is a known rule, so it is listed as the answer."
+  },
+  {
+    "question": "If something is blocking something, does it have advantage on the other?",
+    "answer": "If you place an area of effect at a point that you can't see and an obstruction, such as a wall, is between you and that point, the point of origin comes into being on the near side of that obstruction.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "The question asked about if something blocking something else has advantage. The answer specified that obstacles affect line of sight and point of origin."
+  }
+]

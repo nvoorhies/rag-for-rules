@@ -1,0 +1,356 @@
+[
+  {
+    "question": "The Level 1+ [Class: Any] [Race: Any] character Nott is in a tunnel. The transcript says 'First off, I'd like you to make a stealth check with advantage'. What skill check should Nott roll, and does the check have advantage?",
+    "answer": "The character Nott should roll a Dexterity (Stealth) check, with advantage.",
+    "rules": [
+      "Ability Checks > Types of Checks > Ability Checks",
+      "Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Since the game master is specifically requesting a stealth check and the Stealth skill is associated with the Dexterity ability, the player must roll a Dexterity (Stealth) check. The game master also specified that the player has advantage on the check."
+  },
+  {
+    "question": "The Level 1+ character Jester knows the `Sacred Flame` spell. What saving throw does the target have to make?",
+    "answer": "The target must make a Dexterity saving throw.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Sacred Flame"
+    ],
+    "rules_explanation": "According to the spell description, the target must succeed on a Dexterity saving throw."
+  },
+  {
+    "question": "A creature that is frightened moves out of the sight of the source of its fear. Does the frightened creature continue to have disadvantage on attack rolls?",
+    "answer": "No, the frightened creature no longer has disadvantage on attack rolls because it has moved out of sight of the source of its fear.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The frightened condition imposes disadvantage on attack rolls and ability checks while the source of the fear is within line of sight.  If the source of the fear is no longer in line of sight, the disadvantage does not apply."
+  },
+  {
+    "question": "The Level 1+ [Class: Any] [Race: Any] character Yasha is raging. If an invisible creature moves out of reach and provokes an attack of opportunity, does Yasha have advantage or disadvantage or neither on the attack roll?",
+    "answer": "Yasha has disadvantage on the attack roll.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks",
+      "Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The attack of opportunity will have disadvantage because the target is an unseen attacker."
+  },
+  {
+    "question": "The Level 1+ [Class: Any] [Race: Any] is asked to make a religion check. What ability should the roll be associated with?",
+    "answer": "The roll should be associated with the Intelligence ability.",
+    "rules": [
+      "Using Ability Scores > Skills > Intelligence > Religion"
+    ],
+    "rules_explanation": "The SRD clearly states which Ability goes with each Skill"
+  },
+  {
+    "question": "The Level 1+ [Class: Any] [Race: Any] cast `Detect Magic` and did not sense a magical aura. Given this finding, can the caster rely on brute force to damage these glyphs?",
+    "answer": "Yes, the caster can rely on brute force because no magical aura was detected.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "If an Arcana check is not successful in detecting magic, then by logical deduction non-magical means are appropriate."
+  },
+  {
+    "question": "The Level 1+ [Class: Any] [Race: Any] cast `Detect Magic`. According to the rules, does `Detect Magic` have a somatic component?",
+    "answer": "Yes, Detect Magic has a somatic component.",
+    "rules": [
+      "Spellcasting > Components > Somatic"
+    ],
+    "rules_explanation": "According to the SRD, the description for the `Detect Magic` spell specifies that it has a verbal and somatic component."
+  },
+  {
+    "question": "The Level 1+ [Class: Any] [Race: Any] casts `Resistance`. According to the rules, does `Resistance` have a somatic component?",
+    "answer": "Yes, Resistance has a somatic component.",
+    "rules": [
+      "Spellcasting > Components > Somatic"
+    ],
+    "rules_explanation": "According to the SRD, the description for the `Resistance` spell specifies that it has a verbal and somatic component, with no material component."
+  },
+  {
+    "question": "The Level 1+ [Class: Any] [Race: Any] is in initiative order, and casts Stillness of Mind. What happens?",
+    "answer": "The charmed or frightened condition is ended.",
+    "rules": [
+      "Monk > Class Features > Stillness of Mind"
+    ],
+    "rules_explanation": "At 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened."
+  },
+  {
+    "question": "Can the Level 1+ character Yasha, a Barbarian with the Sentinel feat, make an attack of opportunity on a creature that is moving out of reach?",
+    "answer": "Yes, Yasha can make an attack of opportunity.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "A reaction attack from the Sentinel feat is an attack of opportunity.  The movement of the creature out of reach can trigger an attack of opportunity."
+  },
+  {
+    "question": "A Level 1+ character, Fjord, is charmed. Does it take advantage or disadvantage or neither when making a Wisdom saving throw?",
+    "answer": "Neither",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks",
+      "Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Does not apply. Advantage was from Beacon of Hope, which was dispelled"
+  },
+  {
+    "question": "With Beacon of Hope active, does a tiefling have resistance to fire damage when making a saving throw?",
+    "answer": "No, Beacon of Hope does not grant resistance to fire damage.",
+    "rules": [
+      "Tiefling > Racial Traits > Hellish Resistance",
+      "Spellcasting > Spell Descriptions > Beacon of Hope"
+    ],
+    "rules_explanation": "Beacon of Hope grants advantage to saving throws.  Tieflings have resistance to fire damage."
+  },
+  {
+    "question": "Can a Level 1+ character use their action to gather the carcasses of two foot tall gremlins, or does it take longer?",
+    "answer": "The character can spend their action gathering their lifeless bodies.",
+    "rules": [
+      "Combat > Actions in Combat > Use an Object"
+    ],
+    "rules_explanation": "Gathering the carcasses qualifies as interacting with an object, and is thus covered by the rules governing actions in combat."
+  },
+  {
+    "question": "A Level 1+ character, Jester, is at a range of 10 feet from a firewall. Does she take damage?",
+    "answer": "Yes, at the end of her turn she takes damage.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Wall of Fire"
+    ],
+    "rules_explanation": "The description for Wall of Fire states \"One side of the wall, selected by you when you cast this spell, deals 5d8 fire damage to each creature that ends its turn within 10 feet of that side or inside the wall.\""
+  },
+  {
+    "question": "Does a character have a saving throw against being charmed every round, or is it specific to each spell?",
+    "answer": "It is specific to each spell.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Duration > Concentration"
+    ],
+    "rules_explanation": "Specific saving throw conditions, if any, are described in the specific spell. Some effects last a specific number of turns, some spells specify saving throws to resist at the end of a turn, and some spells end if the character is damaged. This is effect specific."
+  },
+  {
+    "question": "A Level 7+ Monk used all her Ki points. Can she still attack?",
+    "answer": "Yes, the monk can still attack.",
+    "rules": [
+      "Monk > Class Features > Martial Arts"
+    ],
+    "rules_explanation": "The number of ki points a monk has only affects the monk's ability to use them, not the ability to attack."
+  },
+  {
+    "question": "The Level 1+ [Class: Any] is asked what is her Dexterity modifier, what is her Dexterity ability score?",
+    "answer": "These are separate character statistics.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The DM is asking for the modifier; it's derived from her Dexterity score."
+  },
+  {
+    "question": "Does the Light cantrip prevent a Rogue from hiding?",
+    "answer": "Yes, a Rogue can not Hide in bright light.",
+    "rules": [
+      "Using Ability Scores > Dexterity > Hiding",
+      "Spellcasting > Spell Descriptions > Light"
+    ],
+    "rules_explanation": "The spell Light produces bright light in a 20 foot radius, and Stealth is disadvantage in bright light."
+  },
+  {
+    "question": "If a character has proficiency in an ability check, can she also have a second bonus in the same ability check, as well?",
+    "answer": "No, you only add your proficiency bonus once to an ability check.",
+    "rules": [
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "Your proficiency bonus can't be added to a single die roll or other number more than once."
+  },
+  {
+    "question": "If a Level 1+ [Race:Any] [Class: Any] is within ten feet of one part of a Wall of Fire, does the whole wall block vision?",
+    "answer": "Not necessarily",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Wall of Fire"
+    ],
+    "rules_explanation": "It is stated within the rules of wall of fire that it is opaque and therefore would block vision of creatures behind the wall itself. Unless the creature is standing in a place that is itself within 10 feet of the flames, it isn't taking damage."
+  },
+  {
+    "question": "Can a hasted Level 1+ monk use a bonus action and their regular action to move?",
+    "answer": "Yes, the hasted creature can move using an action and the dash action.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Haste",
+      "Combat > Actions in Combat > Dash"
+    ],
+    "rules_explanation": "A creature affected by haste gains an additional action to dash, disengage, hide, use an object or make an attack."
+  },
+  {
+    "question": "A Level 1+ Monk has 0 Ki points. The monk ends his turn, and an effect forces him to make a wisdom save. Can the Level 1+ Monk use flurry of blows on the effect's trigger?",
+    "answer": "No, the monk has zero Ki and cannot use flurry of blows",
+    "rules": [
+      "Monk > Class Features > Ki"
+    ],
+    "rules_explanation": "Flurry of blows requires expending 1 ki point to use, and with 0 ki the Monk does not have the required resource."
+  },
+  {
+    "question": "A raging Level 1+ Barbarian casts reckless attack. Does this give every enemy advantage on attacks against the Barbarian?",
+    "answer": "Yes, every enemy gets advantage on attacks against the Barbarian.",
+    "rules": [
+      "Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "The reckless attack ability states 'attack rolls against you have advantage until your next turn.'"
+  },
+  {
+    "question": "A Level 1+ Barbarian with a wisdom score of 10 is using a telepathic bond to communicate, and an incubus telepathically tries to charm her. What happens?",
+    "answer": "The Level 1+ Barbarian must make a Wisdom saving throw.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Charm",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The incubus's charm is a magical effect that requires the Barbarian make a Wisdom saving throw."
+  },
+  {
+    "question": "Does a Level 1+ barbarian get an attack of opportunity against someone who is casting Haste?",
+    "answer": "No, the act of casting a spell, by itself, does not provoke an opportunity attack",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction."
+  },
+  {
+    "question": "When a spell requires a save to avoid being both frightened and charmed, does Stillness of Mind automatically negate both or just one condition.",
+    "answer": "The level 7+ Monk's Stillness of Mind feature only ends one effect on itself that is causing it to be charmed or frightened",
+    "rules": [
+      "Monk > Class Features > Stillness of Mind"
+    ],
+    "rules_explanation": "You can use your action to end one effect on yourself that is causing you to be charmed or frightened."
+  },
+  {
+    "question": "When a caster uses the Dispel Magic spell, are they rolling a wisdom or a Intelligence check?",
+    "answer": "You make an ability check using your spellcasting ability.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability."
+  },
+  {
+    "question": "In d&d, if you have two sources for eye sight, and are blinded, do you count as being able to see?",
+    "answer": "No, a blinded creature can't see and automatically fails any ability check that requires sight.",
+    "rules": [
+      "Appendix PH-A: Conditions > Blinded"
+    ],
+    "rules_explanation": "A blinded creature can't see and automatically fails any ability check that requires sight."
+  },
+  {
+    "question": "A creature can use an action to pick a lock, and each lock requires a check. Can a Thief-archetype Rogue use Thief's Hands to make picking a lock take a bonus action instead?",
+    "answer": "No, Fast Hands is a bonus action.",
+    "rules": [
+      "Rogue > Roguish Archetypes > Thief > Fast Hands"
+    ],
+    "rules_explanation": "The thief archetype hands ability changes actions not checks to bonus actions: Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action."
+  },
+  {
+    "question": "Beacon of Hope grants advantage on saving throws, but what happens if the attacker had a reason to impose disadvantage on those saves?",
+    "answer": "The character has neither advantage nor disadvantage",
+    "rules": [
+      "Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20."
+  },
+  {
+    "question": "Does the stunned condition prevent Nott the level 1+ Rogue from hiding as a bonus action, or does it only prevent her from moving and attacking, even if it's as a bonus action?",
+    "answer": "The stunned condition prevents using Stillness of Mind.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation": "A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly."
+  },
+  {
+    "question": "The Level 1+ [Class: Any] with Extra Attack uses their action to dash, and has an effect that allows her to make one attack as a bonus action. Is it possible to take two attacks that turn, and move at the same time?",
+    "answer": "No, this is not possible",
+    "rules": [
+      "Combat > Actions in Combat > Attack",
+      "Combat > Actions in Combat > Dash",
+      "Combat > Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "The character is using her action to Dash, and there are no game features available at that level that allow her to take the Attack action as a bonus action. Without the Attack action, she cannot make any attacks with it."
+  },
+  {
+    "question": "Can a Level 1+ character, Yasha, get reckless against the same enemy and can Yasha reroll on the same attack as part of action?",
+    "answer": "Yes, but the mechanics of the effect are misstated",
+    "rules": [
+      "Barbarian > Class Features > Reckless Attack",
+      "Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Reckless attack grants advantage, not auto success, the attacker may get advanatage."
+  },
+  {
+    "question": "A Level 1+ character, Caleb, is 25 ft from a stunned enemy and casts Fire Bolt. Do you still get the advantage on the hit?",
+    "answer": "Yes. Advantage is on attacks within 5 feet.",
+    "rules": [
+      "Combat > Actions in Combat > Melee Attacks"
+    ],
+    "rules_explanation": "When the attack is at range, the enemy being stunned just automatically fails the dexterity saving throw, it does not impact the ranged attack roll itself"
+  },
+  {
+    "question": "Can a Level 1+ character, Yasha get an extra attack if she is only armed with a greatsword?",
+    "answer": "No.",
+    "rules": [
+      "Fighter > Class Features > Extra Attack"
+    ],
+    "rules_explanation": "Fighter extra attack applies only when making the Attack action, not reckless attacks using a readied action or reaction."
+  },
+  {
+    "question": "According to the SRD rules, does Fjord get a bonus to his charisma save from having resistance?",
+    "answer": "No, having resistance to a damage type does not grant a bonus to saving throws.",
+    "rules": [
+      "Damag and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "Resistance causes damage to be halved, but does not impact ability checks or saving throws."
+  },
+  {
+    "question": "Does Beacon of Hope grants Nott resistance to lightning damage",
+    "answer": "No, Beacon of Hope does not grant lightning resistance.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Beacon of Hope"
+    ],
+    "rules_explanation": "The SRD does not provide rules text supporting this statement."
+  },
+  {
+    "question": "The Level 1+ character Yasha is asked to make a constitution saving throw for poison damage. Does advantage apply from beacon of hope?",
+    "answer": "No, The character Yasha's is no longer under the effects of Beacon of Hope, and is therefore not subject to any advantage for Constitution saving throws from the spell.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Beacon of Hope"
+    ],
+    "rules_explanation": "Beacon of Hope only affects creatures within 30 feet at the time it is cast."
+  },
+  {
+    "question": "If an area is no longer a combat encounter, can Nott move in melee with the BBEG?",
+    "answer": "Not necessarily. If not in combat, Nott can move to a space that puts it in melee range with the BBEG, but that move may provoke an attack of opportunity depending on whether it involves leaving another creature's reach.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "A brief burst of intense, quick, not necessarily dangerous combat, but a curious encounter with three creatures, one of which seems to have gotten away. You all take a moment to look amongst yourselves to see who's okay. Nott is still nowhere to be seen."
+  },
+  {
+    "question": "Can a level 17 fighter take a single attack for a reaction, or does the use of extra attack have any affect on their reaciton.",
+    "answer": "No, the fighter gets one attack, and only one attack, for their reaction.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "Yasha does get an attack of opportunity, a Sentinel attack if she wants to take it. It has disadvantage because it is invisible."
+  },
+  {
+    "question": "A character has been charmed, and someone casts Blindness/Deafness on him. Do they get a saving throw?",
+    "answer": "Yes, the target gets a saving throw",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Blindness/Deafness"
+    ],
+    "rules_explanation": "The Level 1+ character Jester casts blindness/deafness on Caleb. Caleb gets to do a con save. If he resisted, Caleb can see Jester, but still cant see the monsters in the dark."
+  },
+  {
+    "question": "When did we change from advantage to disadvantage? And where is this defined in the SRD?",
+    "answer": "You can choose which of the listed attack to reckless, and this gives everyone advantage against you and you advantage against the target.",
+    "rules": [
+      "Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "Yeah, if you're reckless in your attacks, every enemy gets attacks at advantage. That's the downside to it."
+  },
+  {
+    "question": "Can the Level 1+ [Class: Any] move past a raged barbarian?",
+    "answer": "Yes. You can move through a nonhostile creature's space, though that space counts as difficult terrain.",
+    "rules": [
+      "Combat > Movement and Position > Moving Around Other Creatures"
+    ],
+    "rules_explanation": "You move up around the corner, head down into the interior. You don't see anybody. You are about 15 feet from this point. "
+  }
+]

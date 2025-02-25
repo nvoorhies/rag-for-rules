@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Is the level 4 wizard able to cast 'Shield' while within the protective dome created by ritually cast 'ceremony'?",
+    "answer": "The rules do not indicate that an effect such as a protective dome would interfere with spellcasting.",
+    "rules": [
+      "Spellcasting > Components > Verbal (V)",
+      "Spellcasting > Components > Somatic (S)",
+      "Spellcasting > Components > Material (M)"
+    ],
+    "rules_explanation": "The spellcasting rules describe the components that are needed to cast a spell and there are no rules describing how external environmental effects interfere with the normal requirements for Verbal, Somatic, and Material spellcasting."
+  },
+  {
+    "question": "If the level 5 ranger casts Pass Without Trace, does it affect both the ranger's group and the Tomb Takers?",
+    "answer": "No, only the ranger's party are affected, as the spell affects \"each creature within 30 feet of me.\"",
+    "rules": [
+      "Spellcasting > What Is a Spell? > Range"
+    ],
+    "rules_explanation": "The range description for Pass Without Trace states that each creature within 30 feet of the caster is affected, so only members of the Mighty Nein are affected."
+  },
+  {
+    "question": "Can the level 4 wizard as a level 5 character who's a weasel still make a stealth check?",
+    "answer": "Yes, the level 5 character can make a stealth check in their new wild shape. While in wild shape their \"game statistics are replaced by the statistics of the beast\", and they retain their alignment, personality, Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature.",
+    "rules": [
+      "Druid > Wild Shape"
+    ],
+    "rules_explanation": "The rules for wild shape say you use the skills of the new shape and retain the personality, wisdom, charisma, and intelligence of your original for and that the character in question should roll the dice."
+  },
+  {
+    "question": "Can a lightfoot halfling re-roll a natural one on a dexterity ability check?",
+    "answer": "The halfling character can reroll a 1 on a Dexterity ability check. The Lucky racial trait states: 'When you roll a 1 on the d20 for an ability check, you can reroll the die and must use the new roll.'",
+    "rules": [
+      "Races > Halfling > Racial Traits > Lucky"
+    ],
+    "rules_explanation": "The halfling's Lucky ability allows them to reroll a 1 on the d20 for ability checks."
+  },
+  {
+    "question": "Does the Life Domain cleric's Disciple of Life trait add to the Heal spell?",
+    "answer": "Yes. The Life Domain cleric’s Disciple of Life feature states 'Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.' Since Heal is a spell of 1st level or higher that restores hit points it would benefit from the Disciple of Life trait",
+    "rules": [
+      "Classes > Cleric > Divine Domain > Life Domain > Disciple of Life"
+    ],
+    "rules_explanation": "The text of the Life Domain Feature Disciple of Life is clearly applicable to any healing spells cast by the Life Domain Cleric"
+  }
+]

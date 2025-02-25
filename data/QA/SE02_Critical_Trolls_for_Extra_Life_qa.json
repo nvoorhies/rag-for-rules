@@ -1,0 +1,204 @@
+[
+  {
+    "question": "Can the level 1 human fighter, level 9 rogue Salty Pete replace a piece of parchment using sleight of hand with disadvantage?",
+    "answer": "Yes, perform a Dexterity (Sleight of Hand) check with disadvantage.",
+    "rules": [
+      "Ability Checks > Advantage and Disadvantage",
+      "Skills > Dexterity",
+      "Skills > Intelligence"
+    ],
+    "rules_explanation": "Salty Pete must roll twice and use the lower roll because the DM is imposing disadvantage on the Sleight of Hand check."
+  },
+  {
+    "question": "Level 1 Warlock Snugglelord asks, can detect magic determine what kind of magic is on an object?",
+    "answer": "Yes, the Detect Magic spell reveals the school of magic for each magical effect detected.",
+    "rules": [
+      "Spellcasting > What Is a Spell?",
+      "Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "The Detect Magic spell description states that it reveals the school of magic affecting the object."
+  },
+  {
+    "question": "A level 1 human fighter, level 9 rogue Salty Pete has thieves' tools. When unlocking a door, do I add Dexterity and Proficiency?",
+    "answer": "Yes, to unlock the door, roll a d20 and add your Dexterity bonus and your proficiency modifier if proficient in the use of thieves' tools.",
+    "rules": [
+      "Skills > Dexterity",
+      "Equipment > Tools"
+    ],
+    "rules_explanation": "Opening locks is a task associated with Dexterity. Since Salty Pete is proficient with thieves' tools, the Dexterity check adds the thief tool proficiency."
+  },
+  {
+    "question": "Level 1 warlock Snugglelord asks, can I take a misty step as a bonus action after moving?",
+    "answer": "Yes, you can move and then take a bonus action to cast Misty Step if nothing currently in melee with you.",
+    "rules": [
+      "Combat > Your Turn",
+      "Spell Descriptions > Misty Step"
+    ],
+    "rules_explanation": "Snugglelord can use Misty Step as a bonus action and move before using it as nothing is currently engaged in melee with him so he is free to move as his move does not provoke opportunity attacks."
+  },
+  {
+    "question": "An level 11 fighter asks, I got a magical weapon - initiative is just dex, right?",
+    "answer": "Initiative is a Dexterity check.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The passage quoted says that initiative is determined by making a Dexterity check."
+  },
+  {
+    "question": "level 11 fighter asks, As a brown bear for the level 11 Wood Elf Druid can I make a bite/claw attack and what is the modifier?",
+    "answer": "Yes, you can make a bite and claw attack. Refer to the Brown Bear stat block for attack modifiers; this would be +5 for both attacks based on a +2 proficiency bonus at level 11 and a strength modier of +3 for the bear.",
+    "rules": [
+      "Druid > Wild Shape",
+      "Character Advancement >  Proficiency Bonus",
+      "Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "When a druid wild shapes, his or her stats are replaced by the statistics of the beast. To determine the to hit roll we look to the brown bear's stat block and see the strength modifier is 3. Given that the character level is 11, the proficiency bonus would be +4."
+  },
+  {
+    "question": "level 11 Wood elf Druid asks, What's the DC for Thunderwave?",
+    "answer": "The DC for Thunderwave is 8 + your proficiency bonus + your Wisdom modifier. You must prepare this spell to cast it.",
+    "rules": [
+      "Cleric > Spellcasting > Spell Save DC"
+    ],
+    "rules_explanation": "A spell save DC is generally 8 + proficiency bonus + the spellcasting ability modifier. Wisdom is the spellcasting ability for druids."
+  },
+  {
+    "question": "Does the bonus to hit points from the level 1 Hill Dwarf toughness racial trait apply retroactively?",
+    "answer": "Yes, the hit point maximum increases by 1, and it increases by 1 every time you gain a level.",
+    "rules": [
+      "Races > Dwarf > Hill Dwarf > Dwarven Toughness"
+    ],
+    "rules_explanation": "The Dwarven Toughness trait says 'Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.'"
+  },
+  {
+    "question": "Level 1 human fighter, level 9 rogue Salty Pete asks, can I use my cunning action to hide until I go into stealth?",
+    "answer": "You can use your cunning action to disengage.",
+    "rules": [
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "The cunning action is limited to dash, disengage or hide."
+  },
+  {
+    "question": "Which ability modifier do I add to a charisma check when initiating the magical ability of a red stapler?",
+    "answer": "The item description specifies that you add your charisma to this roll.",
+    "rules": [],
+    "rules_explanation": "There are no general rules applicable, the DM stated that the red stapler specifically uses the character's charisma."
+  },
+  {
+    "question": "Level 1 human fighter, level 9 rogue Salty Pete asks, do I level up after defeating the goblin and gain a new rogue sneak attack damage?",
+    "answer": "Yes, you are granted experience points when you defeat an enemy.",
+    "rules": [
+      "Beyond 1st Level > Experience Points"
+    ],
+    "rules_explanation": "A character earns XP for defeating monsters."
+  },
+  {
+    "question": "Edna asks, As part of being a conjuration wizard, I can do a minor conjuration as an action, and I can just conjure things that are up to ten pounds. Can I conjure a ten-pound rock over his head?",
+    "answer": "Yes. You can conjure a nonmagical object that is light enough and that fits entirely within a space 3 feet on a side.",
+    "rules": [],
+    "rules_explanation": "As a conjuration wizard, Edna can use Minor Conjuration as an action to conjure a nonmagical object within certain size and weight limits."
+  },
+  {
+    "question": "Someone just threw a Deck of Many Things on your ass! Why are you guys laughing at me? Deck of Many Things is a bad thing for you guys?",
+    "answer": "When you draw a card from the Deck of Many Things, its magic takes effect. You must declare how many cards you intend to draw before drawing them, and you draw each card no more than 1 hour after the previous draw.",
+    "rules": [],
+    "rules_explanation": "The Deck of Many Things has the power to greatly change the life of the person drawing the cards. Some cards are beneficial but many are detrimental."
+  },
+  {
+    "question": "The note says, \"Seeking the ones called Vox Moronica.\" Is that what we're called now?",
+    "answer": "There are no general rules applicable to your name, and there is nothing in the rules to confirm that what the note states will define you as such.",
+    "rules": [],
+    "rules_explanation": "A group name is not a mechanic of the game and does not affect the game rules."
+  },
+  {
+    "question": "An 11th level fighter who is raging is about to attack an illusion. Do I get advantage with reckless attack?",
+    "answer": "Reckless attack grants advantage on melee weapon attack rolls using Strength. Illusions typically require an attack roll, so Advantage can be granted.",
+    "rules": [
+      "Barbarian > Class Features > Rage",
+      "Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "The rules state that advantage is given to melee weapon attack rolls."
+  },
+  {
+    "question": "After being attacked, level 1 human fighter, level 9 rogue Salty Pete asks, is it possible to use my cunning action to hide until I go into stealth?",
+    "answer": "You must really be in a situation where you can hide properly.",
+    "rules": [
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "The cunning action allows a rogue to take a hide action, but that action will still be governed by the rules that dictate when and where a creature can hide, which may or may not be possible in his current circumstances."
+  },
+  {
+    "question": "Is initiative just your dex, right?",
+    "answer": "Initiative is a Dexterity check.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The passage quoted says that initiative is determined by making a Dexterity check."
+  },
+  {
+    "question": "Can the level 4 conjuration wizard Edna use a minor conjuration as an action, and I can just conjure things that are up to ten pounds. Can I conjure a ten-pound rock over his head?",
+    "answer": "Yes, you can conjure a nonmagical object that is light enough and that fits entirely within a space 3 feet on a side.",
+    "rules": [],
+    "rules_explanation": "As a conjuration wizard, Edna can use Minor Conjuration as an action to conjure a nonmagical object within certain size and weight limits."
+  },
+  {
+    "question": "I would like the entire party to roll a persuasion check. Whoever rolls highest--",
+    "answer": "There is no rules for the entire party to roll a persuasion check to have success go to the highest.",
+    "rules": [],
+    "rules_explanation": "This is a freeform scenario with no applicable rules."
+  },
+  {
+    "question": "I'm going to throw Snugglelord towards Victor to protect his son. Athletics checks, contested. Will a check work in this case?",
+    "answer": "If you want to throw Snugglelord and there is a character resisting you, you will need roll athletics checks, contested.",
+    "rules": [
+      "Ability Checks > Contests"
+    ],
+    "rules_explanation": "Since Snugglelord does not want to be thrown, the player throwing him and the player playing him must roll athletics checks, contested."
+  },
+  {
+    "question": "How do I top that?",
+    "answer": "There are no rules that dictate topping another player's actions",
+    "rules": [],
+    "rules_explanation": "This is a freeform scenario with no applicable rules."
+  },
+  {
+    "question": "As part of being a conjuration wizard, I can do a minor conjuration as an action, and I can just conjure things that are up to ten pounds. Can I conjure a ten-pound rock over his head?",
+    "answer": "Yes. You can conjure a nonmagical object that is light enough and that fits entirely within a space 3 feet on a side.",
+    "rules": [],
+    "rules_explanation": "As a conjuration wizard, Edna can use Minor Conjuration as an action to conjure a nonmagical object within certain size and weight limits."
+  },
+  {
+    "question": "So, is it possible to use my cunning action to hide until I go into stealth?",
+    "answer": "You can use your cunning action to disengage, dash or hide. Whether you go into stealth will be determined by external factors.",
+    "rules": [
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "The cunning action is limited to dash, disengage or hide, going into stealth will depend on your ability to meet requirements for stealth"
+  },
+  {
+    "question": "All right, roll a d20 and add your intelligence modifier to it, to see how you're able to conjure it in the right space above it.",
+    "answer": "Roll a d20 + your Intelligence modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This is a standard ability check with the intelligence stat."
+  },
+  {
+    "question": "While holding this stapler it begins to shake and glow with this weird goldish red energy... I need you to go ahead and roll and add your charisma to this. Can you use this as an action?",
+    "answer": "The item description specifies that you add your charisma modifier to this roll and that the roll must be done as an action.",
+    "rules": [],
+    "rules_explanation": "The DM is using free form actions to determine what will happen."
+  },
+  {
+    "question": "If I could get a confirmation on what my Tourette's entails.",
+    "answer": "There is no rule for a specific type of medical disorder.",
+    "rules": [],
+    "rules_explanation": "This is a condition being applied by the DM for narrative purposes."
+  },
+  {
+    "question": "You have to really be in a situation where you can hide properly. When am I able to do that?",
+    "answer": "You must have cover, be lightly obscured or heavily obscured.",
+    "rules": [],
+    "rules_explanation": "Check the SRD for details on the hide action. But generally you need to be obscured by something and not clearly visible."
+  }
+]

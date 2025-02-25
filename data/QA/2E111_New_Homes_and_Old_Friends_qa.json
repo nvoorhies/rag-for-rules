@@ -1,0 +1,57 @@
+[
+  {
+    "question": "The level 4 [race] with [class] casts a ball bearing. What ability modifier is added to the d20 roll? Can a d4 be added?",
+    "answer": "Add the Dexterity modifier and a d4 can be added.",
+    "rules": [
+      "Spellcasting",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question indicates a d20 roll is to be made, but it is not stated whether it is an attack, skill check, or saving throw. Based on the subsequent exchange, it is a ranged attack, which defaults to the use of the character's Dexterity modifier. A friendly character adds a d4 to the roll via Bless, so this is included in the answer."
+  },
+  {
+    "question": "When Yasha, the level 4 [race] with [class], receives a room what stained glass window is depicted, and what is the design?",
+    "answer": "The stained glass above the fireplace depicts the symbol of the Storm Lord against a clouded background with gray and lavender flowers along the bottom edge, hints of lightning.",
+    "rules": [],
+    "rules_explanation": "The question is answered by directly referencing the description of Yasha's room."
+  },
+  {
+    "question": "Is the [race] wizard able to travel from Nicodranas to Zadash using their nascent tower?",
+    "answer": "No, the dome has limitations and a time cost.",
+    "rules": [],
+    "rules_explanation": "The player playing Caleb explains the nascent tower is takes a lot of time and attention and focus, but he will still use the dome; he cannot always do this."
+  },
+  {
+    "question": "Does the Rogue need to physically possess the flask to have it enchanted?",
+    "answer": "Yes, the flask must be physically brought to Pumat",
+    "rules": [],
+    "rules_explanation": "The question is answerable by the exchange when Nott is asking Pumat to enchant the flask."
+  },
+  {
+    "question": "Can a bonus action be taken to perform a pose with the Cloak of Billowing, and what is the roll for a pose?",
+    "answer": "The cloak of billowing takes a bonus action, but does not require a roll.",
+    "rules": [],
+    "rules_explanation": "There is a description of the item that says it requires a bonus action to activate it."
+  },
+  {
+    "question": "The level 4 [race] [class] has a Ioun stone of Fortitude. What is the AC of that Ioun stone and how does this affect the character?",
+    "answer": "The Ioun Stone of Fortitude has an AC of 24, and the character's Constitution score increases by 2, to a maximum of 20.",
+    "rules": [],
+    "rules_explanation": "The rules do not specify a generic AC for Ioun stones, but one stone has a specific defensive value in the transcript."
+  },
+  {
+    "question": "What is the wisdom saving throw for the scrying spell that Jester is attempting to cast?",
+    "answer": "The wisdom saving throw is 18.",
+    "rules": [
+      "Spellcasting > Spell Save DC"
+    ],
+    "rules_explanation": "Laura, the player for Jester, is casting the scrying spell. Matt, the GM, is looking up the wisdom saving throw for that particular spell."
+  },
+  {
+    "question": "Can the level 4 [race] [class] Jester cast Scry on Molly's grave?",
+    "answer": "Yes, Jester can cast scry on Molly's grave as you can choose a location you've seen before as the target of the spell.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "Matthew explains you can choose a location you've seen before as the target of the spell."
+  }
+]

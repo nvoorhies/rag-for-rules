@@ -1,0 +1,100 @@
+[
+  {
+    "question": "What is the DC for the nature check for the 11th-level character who is a Storm Herald Barbarian with the Path of the Berserker using red poppies and has a strength of 23 and Charisma of 14?",
+    "answer": "10",
+    "rules": [
+      "Part I > Welcome back > Long Rest"
+    ],
+    "rules_explanation": "There is no specific rule for the DC of a check to convince a soul to return. The GM indicates the target DC"
+  },
+  {
+    "question": "When the party has had one success in the resurrection ritual, and is attempting to force the soul of the subject back into the body using a casting of compulsion, what modifier to the roll should the 1st-level FCG use?",
+    "answer": "Wisdom Modifier",
+    "rules": [
+      "Part I > Welcome back > Use my hand > SAM: I'll take it, unless... > MATT: \"So I will say the spell allows you to either choose intimidation to compel in your own intimidating way or to roll and just add your spell modifier, which is your wisdom modifier."
+    ],
+    "rules_explanation": "The game master determines the parameters of the roll based on the actions taken by the player. In this instance, the game master indicated that FCG could roll using his spell modifier, which is his wisdom modifier."
+  },
+  {
+    "question": "If I have cast Find Familiar, how long does the effect last?",
+    "answer": "The spell effect lasts until you dismiss them",
+    "rules": [
+      "Part I > Welcome back > What did you say? > SAM: Find Familiar? Until you dispel them."
+    ],
+    "rules_explanation": "The player references the rules of Find Familiar, which specify the duration of the effect"
+  },
+  {
+    "question": "What is the game effect on a recently raised character?",
+    "answer": "Characters that were recently raised take a −4 penalty to all attack rolls, saving throws, and ability checks that reduces by one every long rest.",
+    "rules": [
+      "Part I > Break > Can we go towards it? > MATT: \"Do be aware because this is a thing to be mindful of, as this was a Raise Dead spell. You do have minus four to all attack rolls, saving throws, and ability checks right now. And that reduces by one every long rest."
+    ],
+    "rules_explanation": "The game master relays the ongoing game effects on a character due to having recently being raised from the dead"
+  },
+  {
+    "question": "If I am the DM and playing an NPC with Find Familiar, do I add the stats of the Imp from that spell to the monster data block?",
+    "answer": "Yes, if the imp or animal would reasonably aid in combat or otherwise use their abilities. However it will often be unneccesary",
+    "rules": [
+      "Part II > And welcome back > Yes! > MATT: \"I'm going to go to CritRoleStats, and look up Pike's stats here for a second."
+    ],
+    "rules_explanation": "This is an inference based on the GM looking up and using the implied statistics of an NPC spell in determining a situation."
+  },
+  {
+    "question": "What is a Ring of Protection bonus to AC and Saving Throws",
+    "answer": "The ring of protection is a +1 to AC and Saving Throws",
+    "rules": [
+      "Part II > And welcome back > So now I'm down? > MATT: \"Yep, it is a ring of protection.",
+      "Part II > And welcome back > So now I'm down? > MARISHA: \"It is a ring of protection plus one."
+    ],
+    "rules_explanation": "The player identifies that the ring of protection grants a +1 bonus."
+  },
+  {
+    "question": "Does the spell, Freedom of Movement, work in a dreamscape?",
+    "answer": "No, the spell would not function to convey freedom of movement as you are a visitor in another character's vision",
+    "rules": [
+      "Part II > So now I'm down? > SAM: \"As you attempt to draw the energy of the spell forward and reach out to impart her with this capability, no effect takes hold. No spell here follows through, as you are a visitor in somebody else's vision."
+    ],
+    "rules_explanation": "The game master negates the spell because they deem it mechanically impossible."
+  },
+  {
+    "question": "What is the d20 modifier when using the telepathy spell?",
+    "answer": "The d20 roll is added to your charisma modifier.",
+    "rules": [
+      "Part II > So now I'm down? > LAURA: \"I'm going to envision the storm in my mind, and I'm going to try to part the winds and the clouds until I can see the ground.",
+      "Part II > So now I'm down? > MATT: \"As you focus, the winds pick up stronger and stronger. Roll a d20 and add your charisma modifier."
+    ],
+    "rules_explanation": "The game master requests a d20 roll and specifies that it be modified by the character's charisma modifier."
+  },
+  {
+    "question": "If you identify a ring with detect magic, do you know what is enchanted on the ring?",
+    "answer": "No, in general, you'll need to attune to the ring, or otherwise spend an hour with it.",
+    "rules": [
+      "Part II > So now I'm down? > MATT: \"If you attune to it, then you can figure it out. Or spend an hour with it."
+    ],
+    "rules_explanation": "The game master defines whether attunement is required to reveal the properties of the ring"
+  },
+  {
+    "question": "Is it possible to use the Identify spell on a magic item?",
+    "answer": "Yes, the ring, it is possible",
+    "rules": [
+      "Part II > What is this? > LAURA:\"Oh, FCG can look at it."
+    ],
+    "rules_explanation": "It is established that magical items can be identified by relevant spellcasting such as the Identify spell, and therefore, the item's properties can be revealed."
+  },
+  {
+    "question": "The Party needs to fast travel in a world with 2 moons, what distance can one use Misty Step?",
+    "answer": "As a general rule, a misty step allows one to travel thirty feet to an unoccupied space that one can see.",
+    "rules": [
+      "Part II > You pull out"
+    ],
+    "rules_explanation": "The party need to travel back to Jrusar, one character asks about what magic to use, and then refers to Misty Step."
+  },
+  {
+    "question": "What does a Perception check enable?",
+    "answer": "Perception check enables one to notice things about one's surroundings",
+    "rules": [
+      "Part II > What does she say > TRAVIS: Oh yeah"
+    ],
+    "rules_explanation": "The party checks the world, and refers to the ability to use a Perception check"
+  }
+]

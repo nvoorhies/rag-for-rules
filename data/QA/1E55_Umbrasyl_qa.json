@@ -1,0 +1,240 @@
+[
+  {
+    "question": "Can the 5th level bard use Cutting Words to buff their own saving throw?",
+    "answer": "No, Cutting Words only reduces the attack, ability check, or damage roll made by the attacker. It cannot be used to buff the bard's roll.",
+    "rules": [
+      "Bard > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "The question asked whether Cutting Words can be used to buff the 5th level bards' saving throw. It does not give any text for this ability to be used this way. Cutting Words lets the bard use their reaction to reduce an attack, ability check or damage roll of an enemy, but does not let the bard buff a roll"
+  },
+  {
+    "question": "As a 14th level barbarian wearing the Chain of Returning with one point of exhaustion and having raged before but not currently raging, does having one point of exhaustion affect the Athletics check to climb?",
+    "answer": "Yes, because the 14th level barbarian has one level of exhaustion they have disadvantage on ability checks including the Athletics check.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The barbarian is described as having one level of exhaustion. Looking up Exhaustion it says at level 1 it imposes disadvantage on ability checks, as well as being a check using Strength, it falls under that condition."
+  },
+  {
+    "question": "If the 14th level rogue is within 5ft of a dragon, does it have sneak attack?",
+    "answer": "Whether the 14th level rogue has sneak attack depends on whether or not there's another enemy of the dragon within 5ft of it that isn't incapacitated and the rogue doesn't have disadvantage on the attack roll. If those conditions are met, the 14th level rogue has Sneak Attack.",
+    "rules": [
+      "Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The rogue needs an ally to threaten the target to trigger sneak attack if they do not have advantage on their roll"
+  },
+  {
+    "question": "If the 14th level barbarian has a Potion of Speed active that grants an extra action and is raging and a 5th-level cleric casts Command on it, can the cleric Command the barbarian to use the extra action to move?",
+    "answer": "The target must make a Wisdom saving throw. Assuming the target fails the saving throw, it must follow the command on its next turn. The available commands are Approach, Drop, Flee, Grovel, and Halt. The target must follow the command to the best of its ability. It is not possible to force the barbarian to take an action with the use of the command spell",
+    "rules": [
+      "Spellcasting > Casting a Spell > Bonus Action",
+      "Spell Descriptions > Command"
+    ],
+    "rules_explanation": "The command spell is of the enchantment school and is specifically mentioned in the SRD. Since it only takes the bonus action to activate the ability, it does not require the command spell to take an action. It can force the barbarian to take an action, in particular, it does not let the barbarian 'use the extra action' to move and therefore it cannot make the barbarian do anything that would require the action."
+  },
+  {
+    "question": "If a 14th level barbarian is transformed into an eagle by Polymorph, what is their intelligence score?",
+    "answer": "The 14th level barbarian's statistics are replaced by the statistics of an eagle, with an Intelligence score of 2 (-4). They retain their alignment and personality.",
+    "rules": [
+      "Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "The question asks what happens to the stat block when an ability specifically says a statistic is changed. The Polymorph text explains, 'The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.'"
+  },
+  {
+    "question": "What is the duration for Conjure Woodland Beings?",
+    "answer": "The duration for Conjure Woodland Beings is Concentration, up to 1 hour.",
+    "rules": [
+      "Spell Descriptions > Conjure Woodland Beings"
+    ],
+    "rules_explanation": "Directly listed in the rules for the spell itself.  No other rules modify this value."
+  },
+  {
+    "question": "What does it cost in time to attune to a magic item?",
+    "answer": "Attuning to an item requires a creature to spend a short rest focused on only that item while being in physical contact with it.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "The Magic Items section describes how to attune and the length of time it takes. There is no action or bonus action time for attuning, it must be done over a short rest"
+  },
+  {
+    "question": "What are the effects of being Hunter's Marked",
+    "answer": "Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it.",
+    "rules": [
+      "Spell Descriptions > Hunter's Mark"
+    ],
+    "rules_explanation": "Directly quoted from the rules for Hunter's Mark, there are no caveats"
+  },
+  {
+    "question": "A 14th-level barbarian just drank a Potion of Speed, what action can they use the extra action to perform?",
+    "answer": "That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.",
+    "rules": [
+      "Spell Descriptions > Haste"
+    ],
+    "rules_explanation": "From the Haste section of Spells in the SRD. This directly affects the target, and is stated without caveats."
+  },
+  {
+    "question": "After a long rest, can the 14th level paladin reattune to 3 items?",
+    "answer": "No. Attuning to an item requires a creature to spend a short rest focused on only that item while being in physical contact with it. It takes one short rest to attune to each item.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "Attuning to an item takes a short rest. The time to attune is not 'one or more items.'"
+  },
+  {
+    "question": "What happens when a barbarian with Dark One's Blessing is damaged by Insect Plague?",
+    "answer": "The poison damage from Insect Plague, as it occurs at the start of the turn, does not trigger Dark One's Blessing",
+    "rules": [
+      "Warlock > Otherworldly Patrons > The Fiend > Dark One's Blessing"
+    ],
+    "rules_explanation": "Dark one's blessing states \"When you reduce a hostile creature to 0 hit points\". Poison does not directly reduce the target to 0 hit points - it deals damage at the start of each of its turns. The target is reduced to 0 hit points by the *effect* of poison, which is not what the ability's rule requires."
+  },
+  {
+    "question": "Can Keyleth use a bonus action to hide in a cranny?",
+    "answer": "No. Only rogues can use a bonus action to hide.",
+    "rules": [
+      "Actions in Combat > Hide",
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "The hide action uses a Dex (stealth) check. Cunning action allows the rogue to take a hide action as a bonus action. The GM stated the character could not use a bonus action for stealth, and it is a character who does not have the Cunning Action feat, they cannot use a bonus action to hide"
+  },
+  {
+    "question": "Can Grog hold his action to attack someone?",
+    "answer": "Yes, Grog can use the Ready action to hold his action until one of his friends attacks Umbrasyl.",
+    "rules": [
+      "Actions in Combat > Ready"
+    ],
+    "rules_explanation": "Any creature is able to use the Ready action on their turn in combat. Grog can use the Ready action."
+  },
+  {
+    "question": "What is the range of the Throwing Dragon Blade?",
+    "answer": "There is no rule that specifies the range of the Throwing Dragon Blade.",
+    "rules": [
+      "Weapons > Weapon Properties > Thrown"
+    ],
+    "rules_explanation": "There is no specification of range to this item, and it is not a general weapon. Therefore the weapon cannot be used for long range, and has the same range as any thrown weapon."
+  },
+  {
+    "question": "Does Hunter's Mark give Vex the knowledge of where the dragon is?",
+    "answer": "Hunter's Mark gives you knowledge of the target creature's location: Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it.",
+    "rules": [
+      "Spell Descriptions > Hunter's Mark"
+    ],
+    "rules_explanation": "Quoting the description of the spell, which gives the exact benefits conferred."
+  },
+  {
+    "question": "After Grog, a 14th level barbarian with 1 point of exhaustion, takes acid damage, is it permissible to Rage?",
+    "answer": "Yes. Though Grog has one point of exhaustion imposing disadvantage on ability checks, and they would need to perform a con save to attempt to perform the action, the requirements of rage impose no ability checks.",
+    "rules": [
+      "Barbarian > Rage",
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "Rage, unlike spellcasting, doesn't require components, and exhaustion only causes disadvantage on checks. To activate the power requires the target to use their bonus action. This does not trigger the level 1 save."
+  },
+  {
+    "question": "What is the action used in a melee attack?",
+    "answer": "The action used is an action.",
+    "rules": [
+      "Actions in Combat > Attack"
+    ],
+    "rules_explanation": "The rules state, \"The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.\" This satisfies the conditions."
+  },
+  {
+    "question": "Can the 14th level rogue, after hiding, dart out and then hide again with Cunning Action?",
+    "answer": "Yes, on each of their turns, they can use a Cunning Action to Hide",
+    "rules": [
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "Cunning Action states, \"Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.\""
+  },
+  {
+    "question": "When you score a critical hit, how do you calculate damage?",
+    "answer": "Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal.",
+    "rules": [
+      "Damage and Healing > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "This question describes the procedure used, so the answer is found under the Critical Hits heading under Damage Rolls"
+  },
+  {
+    "question": "What does a spiritual weapon do?",
+    "answer": "You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.",
+    "rules": [
+      "Spell Descriptions > Spiritual Weapon"
+    ],
+    "rules_explanation": "Quoting the spell."
+  },
+  {
+    "question": "What does the Invisibility spell do?",
+    "answer": "A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.",
+    "rules": [
+      "Spell Descriptions > Invisibility"
+    ],
+    "rules_explanation": "Just quoting from the text of the Invisibility spell. Because the Hand cannot cast spells on it's own, the invisible drag still exists"
+  },
+  {
+    "question": "What conditions are needed to apply as sneak attack in a melee attack, and am I correct in stating that Grog is within five feet of the dragon so I am no longer at disadvantage?",
+    "answer": "It depends, the 14th-level rogue needs advantage on the attack roll, or another enemy of the target must be within 5 feet of it, that enemy isn't incapacitated, and the rogue doesn't have disadvantage on the attack roll.",
+    "rules": [
+      "Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "Copy and pasting the applicable sneak attack rule."
+  },
+  {
+    "question": "If a storm giant holds a storm javelin, what distance can they throw it?",
+    "answer": "It can be thrown with a range of 60/240 ft.",
+    "rules": [
+      "Equipment > Weapons > Javelin",
+      "Monsters > Giants > Storm Giant"
+    ],
+    "rules_explanation": "This uses normal range rules from the equipment section, and notes that the storm giant has the ability to use it."
+  },
+  {
+    "question": "The 14th level barbarian just tried to remove the bloodaxe, tried to tug it forward and dislodge it, but the chain managed to pull it a little loose, what is the position of the axe?",
+    "answer": "Since they did not move the axe forward (action), just tug on it, it is in the same space it was before the tug action.",
+    "rules": [
+      "Using Ability Scores",
+      "Actions in Combat"
+    ],
+    "rules_explanation": "This did not entail the movement of the action forward so, it is in the exact same place it was at the start of that action."
+  },
+  {
+    "question": "You guys now watch as Keyleth apparate right in front of Vax, and go speeding past you, as she's now plummeting from the air, having summoned to your side. Am I technically an earth elemental still?",
+    "answer": "To answer that we need to know, How long does the conjure elemental spell last?",
+    "rules": [
+      "Spell Descriptions > Conjure Elemental"
+    ],
+    "rules_explanation": "We need this to resolve whether keyleth would still have been an Earth Elemental at that point. She had cast the spell at the start of the combat earlier, so it depends on the duration of the spell."
+  },
+  {
+    "question": "How long does attuning to the Cloak of Displacement take?",
+    "answer": "To attune to the Cloak of Displacement requires a short rest focused on only that item.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "The duration is defined under the rule about attunement, in the section on magic items"
+  },
+  {
+    "question": "Does damage break an effect where it says that you take the damage at the start of each of the creature's turns?",
+    "answer": "Taking damage requires a Constitution saving throw to maintain concentration on a spell.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The spell specifies the duration is concentration, therefore the constitution saving throw is required to maintain. Taking the damage alone does not break the concentration."
+  },
+  {
+    "question": "What is the effective value to be added to an athletics check if you have a strength of 28?",
+    "answer": "The modifier would be +8",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down). 28-10=18 18/2=9 and round down that is +9"
+  },
+  {
+    "question": "I drank that Potion of Speed. It hastes me for a minute. How many rounds is a minute?",
+    "answer": "One round is 6 seconds. A minute is 10 rounds.",
+    "rules": [
+      "Time"
+    ],
+    "rules_explanation": "According to the Time section of the SRD a round is 6 seconds and a minute is 60 seconds so a minute would be 10 rounds"
+  }
+]

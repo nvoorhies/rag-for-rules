@@ -1,0 +1,156 @@
+[
+  {
+    "question": "What type of roll do you make when you are trying to break through a door?",
+    "answer": "When you are trying to break through a door, you'd roll a d20 and add your strength modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Rolling the d20"
+    ],
+    "rules_explanation": "To make an ability check, roll a d20 and add the relevant ability modifier, which in this case is strength."
+  },
+  {
+    "question": "As a dwarf what bonus do I get to which of my ability scores?",
+    "answer": "As a dwarf, you get plus two to your constitution.",
+    "rules": [
+      "Races > Dwarf > Ability Score Increase"
+    ],
+    "rules_explanation": "The Dwarf racial traits include a +2 bonus to the Constitution score."
+  },
+  {
+    "question": "If a character has a stat of 12, what modifier does that character apply to that stat?",
+    "answer": "If you have a 12? That stat, it has a plus one modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "For every two points above 10, a character has a +1 modifier."
+  },
+  {
+    "question": "Does that character get the benefit of advantage if an experience or a circumstance in the game puts you in an advantageous position?",
+    "answer": "If an experience or a circumstance in the game puts you in an advantageous position, you get to roll two d20s and drop the lowest, so you get the higher of the two rolls.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When you have advantage, you roll a second d20 and use the higher of the two rolls."
+  },
+  {
+    "question": "I'm going to roll 1d8 to add to the base value. What class is that?",
+    "answer": "As a warlock, you are rolling a d8, as well. So you start with eight and then add this to it.",
+    "rules": [
+      "Classes > Warlock > Hit Points"
+    ],
+    "rules_explanation": "The Warlock class description states that hit points at higher levels is 1d8 + your Constitution modifier per warlock level after 1st"
+  },
+  {
+    "question": "If they're trying to convince her to help out of sheer intimidation and fearing for what she doesn't want to happen, she becomes an ally, although a much more tenuous relationship. What does it become as opposed to persuasion?",
+    "answer": "Now it becomes as opposed to a persuasion, it becomes an intimidation-based experience",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "Skills represent aspects of ability scores. If the players are trying to influence someone with intimidation, they must roll an intimidation skill check"
+  },
+  {
+    "question": "What does she do if she's charismatic?",
+    "answer": "If you want her to be as charismatic as you said before, she would bow deeply; you could say that she was happy to introduce herself and, while hearing some things about the party, she's eager to understand what it is they might have to do with her.",
+    "rules": [
+      "Gamemastering Advice > Rationalize the world around them"
+    ],
+    "rules_explanation": "Gamemasters must rationalize how the world reacts to what the player does. A Charismatic NPC is likely to react to a party in a friendly way, and be interested in what they want."
+  },
+  {
+    "question": "What do you want to be when you grow up?",
+    "answer": "What do they want? And what do they fear? You can make a shit-ton of really simple NPCs with just the information of their name, what race and class they are, what they want and what they fear; and that's all you really need to branch out any conversation or encounter they go through.",
+    "rules": [
+      "Gamemastering Advice > Build the World > What do they want? What do they fear?"
+    ],
+    "rules_explanation": "To improvise NPCs, gamemasters should prepare some key information. One of the most useful is what do they want, and what do they fear?"
+  },
+  {
+    "question": "What can you decide on on the spot versus what an player does that is a challenge?",
+    "answer": "For most things that are actively a challenge in the game, you as the Dungeon Master decide how difficult it is given the circumstance.",
+    "rules": [
+      "Gamemastering Advice > Being a Fair Judge"
+    ],
+    "rules_explanation": "The DM decides the Difficulty Class for tasks and challenges."
+  },
+  {
+    "question": "What happens at 14 hit points?",
+    "answer": "At 14, it's a plus two.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "For every two points above 10, a character has a +1 modifier."
+  },
+  {
+    "question": "As a warlock, what dice do I get when I level up?",
+    "answer": "As a warlock, you are rolling a d8",
+    "rules": [
+      "Classes > Warlock > Hit Points"
+    ],
+    "rules_explanation": "The Warlock class description states that hit points at higher levels is 1d8 + your Constitution modifier per warlock level after 1st"
+  },
+  {
+    "question": "So I know as a dwarf, I get plus two to my constitution. Correct?",
+    "answer": "True. Exactly. Yup.",
+    "rules": [
+      "Races > Dwarf > Dwarf Traits > Ability Score Increase"
+    ],
+    "rules_explanation": "The Dwarf description includes the racial trait 'Ability Score Increase', where their Constitution score increases by 2"
+  },
+  {
+    "question": "The reason that their characters are twins is because they actually share a birthday and they created it that way, so that was kind of a cool little point there. But she's off with her husband in Greece having great vacation times or whatever. Pfft. What's a reasonable response?",
+    "answer": "Boring.",
+    "rules": [
+      "Gamemastering Advice > Being a Fair Judge"
+    ],
+    "rules_explanation": "Being bored is a perfectly reasonable reaction to somebody being on vacation"
+  },
+  {
+    "question": "“All right, so I get plus one to hit damage from the Bless spell, and the bard gives everyone plus two to hit and damage, oh no it's just hit, no it's to hit damage, okay, and you're going to plus one from that ability, but only within ten feet of them–” So what is this?",
+    "answer": "so they simplified that in this edition. Most modifiers to hit and damage are pretty consistent. You don't have a lot of crazy things.",
+    "rules": [
+      "MARISHA'S: I'm eating chicken. You go ahead, I'm eating chicken. (laughter)I: LIAM] Everyone's gonna play this game the way they want to, but I think if you're playing it for like the numbers and maxing out your numbers, and the like, “How can I deal the most damage,” when you're picking your skills, it's less fun, Like, choose the things that draw you to it as a character or personality or– Be really weak with powerful magic or be totally musclebound like Grog with a– and be a, y'know, an idiot."
+    ],
+    "rules_explanation": "Fifth Edition doesn't have stacking modifiers that are all active at once, but advantage or disadvantage. Maxing out numbers makes the game less fun."
+  },
+  {
+    "question": "Roll five times, not six. Roll five times, and then everyone, for the purposes of this game–",
+    "answer": "You rolled five times, you have five numbers, then take a 16.",
+    "rules": [
+      "Player's Handbook"
+    ],
+    "rules_explanation": "Rolling the Ability Scores is usually done six times."
+  },
+  {
+    "question": "How do the dice work?",
+    "answer": "for those of you who haven't seen how the dice work, there are different dice values in the game. You have a d4, which is a four-sider dice. So it's the little caltrop. Painful to step on. You got a d6, your typical six-sided dice; d8, which is a little more pointy, that's an eight-sider. You got a ten-sider, which comes in two varieties: regular or additional numbers– this is if you're doing percentage rolls, you know what the percentile dice numbers are. Pardon me. A d12, which is only really used if you're a barbarian, apparently. It's the saddest and the red-headed stepchild of D&D. A d20, which is the most-used dice in the game. Most all decisions are based on a 20-sided dice.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Rolling the d20"
+    ],
+    "rules_explanation": "Dice represent random numbers. Each face represents a number in the die's range. The most used die is the d20, which has 20 faces."
+  },
+  {
+    "question": "If you don't want to have, if you think a movement, an action, and a bonus action's too much? What can you do?",
+    "answer": "You can simplify the rules. cut out half the skills if you don't think they're necessary. You can get rid of feats, you can get rid of backgrounds. You can halve the spell lists, if you want. If you want to narrow it down, you can go through and trim and trim and trim until you think you have a nice, simpler system for everyone to start with, and then you can start rolling out the more expanded aspects of the system. So don't feel like you have to verbatim hand everyone this book and be, read it all, let's go!",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Rolling the d20",
+      "Characters > Classes > Multiclassing"
+    ],
+    "rules_explanation": "These books are guidelines for your game. Change as you see fit."
+  },
+  {
+    "question": "How much do magical items cost? How do I handle magical items?",
+    "answer": "The Dungeon Master Guide actually has a really good breakdown about, in the magical items section, about the cost and rarity of magical items. common magical items cost between 50 to 100 gold pieces. And it says “character level: first or higher”.  Uncommon, also first or higher, but around 100 to 500 gold pieces. Rare magical items are from fifth level or higher, around 500 to 5,000 gold pieces. Then very rare, and then legendary which get higher and higher from there. Legendary being 50,000 gold pieces and more.",
+    "rules": [
+      "Magic Items > The Dungeon Master Guide > Cost and Rarity"
+    ],
+    "rules_explanation": "The Dungeon Master's Guide has a whole section on pricing magic items by their rarity."
+  },
+  {
+    "question": "Where do they get it?",
+    "answer": "You can just make it up on the spot, and I recommend keeping an eye on what level the players are and what the experience values are for each level, so you know how much they need to get to the next level. That allows you to kind of build a structure.",
+    "rules": [
+      "Beyond 1st Level > Character Advancement",
+      "Experience > Making it Up on the Spot"
+    ],
+    "rules_explanation": "You determine how much experience points to award, and the experience points needed to level can be found in the character advancement table."
+  }
+]

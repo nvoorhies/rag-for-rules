@@ -1,0 +1,207 @@
+[
+  {
+    "question": "Can the Locate Object spell be cast to locate an object by its description \"tome that contains the Incantation of Isolation\"?",
+    "answer": "No. The spell requires that you must describe or name an object that is familiar to you.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Locate Object > Range",
+      "Spellcasting > Spell Descriptions > Locate Object > Duration"
+    ],
+    "rules_explanation": "The range and duration of the spell are irrelevant to the question asked. The specific description in the range section that states \"Describe or name an object that is familiar to you.\" means the described spell application does not follow the spell rules."
+  },
+  {
+    "question": "As a level 9 Bard with access to the *Wristpocket* spell, can I make the book disappear and reappear again to be humorous?",
+    "answer": "Yes. *Wristpocket* is not a real spell and, therefore, there are no rules against it.",
+    "rules": [],
+    "rules_explanation": "This is a joke question about a fictitious spell with no established rules."
+  },
+  {
+    "question": "As a level 9 Bard with a dexterity modifier of +5, what is the DC to pick a lock when my proficiency bonus is +4 and the Bard is inspiring me, granting me an additional d4 which I roll a 1 on?",
+    "answer": "There is no roll necessary, because the Bard can add the modifier (+5), proficiency bonus (+4), and minimum value of the die granted by the Bardic Inspiration (+1), resulting in a total of 30 on the check.",
+    "rules": [
+      "Bard > Bardic Inspiration",
+      "Using Ability Scores > Ability Checks > Proficiency Bonus"
+    ],
+    "rules_explanation": "The question does not ask to roll but to sum an automatic total. A bard character of level 9 has a proficiency bonus of +4. Since the text does not specify that the character is proficient with thieves tools it can be assumed they cannot add the proficiency modifier to the roll. The minimum from the d4 inspiration die is 1. Dexterity modifier is given as +5.  So the total is 5 + 4 + 1 = 10."
+  },
+  {
+    "question": "What statistics are used to pick a lock",
+    "answer": "The Dexterity modifier is added to the roll",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Ability Checks > Proficiency Bonus"
+    ],
+    "rules_explanation": "Ability checks are made by rolling a d20 and adding the appropriate ability modifier. Proficiency can be added to the roll if the character is proficient with the tool being used in the check."
+  },
+  {
+    "question": "How does advantage affect the difficulty class to pick a lock?",
+    "answer": "Advantage does not affect the difficulty class. Advantage allows you to roll the d20 twice and use the higher result.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules for advantage state that 'When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage' and 'If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20.' This does not alter the difficulty class of the roll"
+  },
+  {
+    "question": "Can a 1st level spell, Thunderwave, be cast on the Tome of Isolation?",
+    "answer": "Yes, this is allowed since the tome does not fall into the types of objects listed as prohibited from being affected by spells",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Targets"
+    ],
+    "rules_explanation": "The spell doesn't target a creature, and it does not require components prohibited by the Tome of Isolation to cast"
+  },
+  {
+    "question": "Can the effects of the 8th level spell Dominate Monster be applied to a book?",
+    "answer": "The book is not a monster so, no, Dominate Monster cannot be cast on the book.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Targets"
+    ],
+    "rules_explanation": "The target is a creature, not an object.  Therefore the spell cannot be cast on the book"
+  },
+  {
+    "question": "If the Ioun stone is pinging due to the no named book, what is the result when Friends is cast on the book?",
+    "answer": "The book absorbs the magic, but no reaction.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Targets"
+    ],
+    "rules_explanation": "The book is not a creature therefore there would not be any other reaction to the cantrip"
+  },
+  {
+    "question": "If a wall was coming towards me and I was trying to dodge it while on a broom, what kind of check would I use?",
+    "answer": "To yank out of the way of the wall while on the broom, make a Dexterity saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "In general Dex saving throws are often made to avoid area effects"
+  },
+  {
+    "question": "If I barely managed to hold on in the dodge and almost fell off the broom, what kind of check is used to keep from falling?",
+    "answer": "The type of check to avoid falling is a Strength saving throw to hold onto the broom.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Strength saving throws are often used to hold onto something, such as a rope or in this instance the broom"
+  },
+  {
+    "question": "What happens on a success of a DC 10 Wisdom Saving throw after a book absorbed the Friends Cantrip?",
+    "answer": "There is no additional effect from a successful saving throw because it is an object and therefore not subject to Wisdom saving throws",
+    "rules": [
+      "Using Ability Scores > Saving Throws",
+      "Spellcasting > Spell Descriptions > Targets"
+    ],
+    "rules_explanation": "Saving throws are a reaction to an effect, but objects are not subject to Wisdom saving throws. See targets section."
+  },
+  {
+    "question": "As a level 11 Bard, if you are playing the song \"I'm So Vain\", what Inspiration number results?",
+    "answer": "As an 11th level Bard, the Bardic Inspiration die is a d10.",
+    "rules": [
+      "Bard > Bardic Inspiration",
+      "The Bard"
+    ],
+    "rules_explanation": "The Bard table shows that the Bardic Inspiration die size is increased to d10 at level 10"
+  },
+  {
+    "question": "If someone is picking a lock with a DC of 30, what is the result of adding a 1 inspiration die and rolling a 15 plus bonuses? What happens if they do not add inspiration and have a one point less check?",
+    "answer": "If the total is 30 or more the lock is picked. If the total is less than 30 the lock is not picked. If a check is not completed, it is not completed.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "This describes that the difficulty class defines if the check is successful or not. The addition of the die, the skill, ability, and so on are there to make the check pass the DC"
+  },
+  {
+    "question": "At what level are #DCs possible?",
+    "answer": "The SRD does not specify any level or other means of determining a DC, as it is up to the GM.",
+    "rules": [],
+    "rules_explanation": "The Difficulty Class is a value set by the GM"
+  },
+  {
+    "question": "If a character uses the 8th level spell \"Plane Shift\" and travels, do they take their equipment?",
+    "answer": "Yes.  When you cast the spell the description states \"along with any equipment they are wearing or carrying\"",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Plane Shift > Components",
+      "Spellcasting > Spell Descriptions > Plane Shift > Range"
+    ],
+    "rules_explanation": "The range and components are not relevant to the carrying of equipment, but it is explicit in the details of the spell"
+  },
+  {
+    "question": "If a feat causes a character to have a higher proficiency with blacksmith tools, are you able to determine the effectiveness at a quick glance?",
+    "answer": "No. The statistics for the check are not knowable at a quick glance.",
+    "rules": [],
+    "rules_explanation": "This information requires inspecting the character sheet and calculating the bonus"
+  },
+  {
+    "question": "At what level is the ability Score Improvement granted?",
+    "answer": "The Ability Score Improvement feature is granted at 4th level, and again at 8th, 12th, 16th, and 19th level.",
+    "rules": [
+      "Barbarian > Ability Score Improvement",
+      "Bard > Ability Score Improvement",
+      "Cleric > Ability Score Improvement",
+      "Druid > Ability Score Improvement",
+      "Fighter > Ability Score Improvement",
+      "Monk > Ability Score Improvement",
+      "Paladin > Ability Score Improvement",
+      "Ranger > Ability Score Improvement",
+      "Rogue > Ability Score Improvement",
+      "Sorcerer > Ability Score Improvement",
+      "Warlock > Ability Score Improvement",
+      "Wizard > Ability Score Improvement"
+    ],
+    "rules_explanation": "The class description includes details at which level the ability score improvement becomes available"
+  },
+  {
+    "question": "What happens after three steps from a charred building?",
+    "answer": "After three steps from the charred building, a heavy, iron bear trap snaps onto her leg.",
+    "rules": [],
+    "rules_explanation": "That happens in this game session. It's not related to a rule. The character has entered a dangerous area with a known hazard."
+  },
+  {
+    "question": "What are the actions that can be taken in combat?",
+    "answer": "The most common actions you can take are attack, cast a spell, dash, disengage, dodge, help, hide, ready, search, and use an object.",
+    "rules": [
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "This is defined by the game rules to determine choices during game play"
+  },
+  {
+    "question": "If you are in combat, are there things you can do without spending an action or movement?",
+    "answer": "Yes. Your turn can include a variety of flourishes that require neither your action nor your move, such as communicate however you are able, through brief utterances and gestures.",
+    "rules": [
+      "Combat > Your Turn > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "Actions and movement are not the only options available during combat"
+  },
+  {
+    "question": "If you are playing a 15th level character, what are the benefits of wearing a belt of storm giant strength while having a natural strength of 14",
+    "answer": "Your Strength score is 29 while you wear this belt. You gain +9 Strength modifier. This can have an impact on attack rolls, strength based skill checks, strength saving throws, and your carrying capacity is 435 pounds.",
+    "rules": [
+      "Equipment > Wondrous Item > Belt of Giant Strength",
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The text states that the strength becomes 29. The rest is a function of having such a high strength score. The maximum strength allowable is 30."
+  },
+  {
+    "question": "If you don a Hat of Disguise and turn into a different shape, how do you determine what people see?",
+    "answer": "You decide what it looks like, including color, style, and accessories, but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or remove the armor.",
+    "rules": [
+      "Equipment > Armor > Light Armor",
+      "Equipment > Magic Items A-Z > Wondrous Item > Hat of Disguise",
+      "Spellcasting > Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "It can be the outfit of a peasant, a prince, or anything in between. However, it has to be roughly the same shape. The item weight is retained."
+  },
+  {
+    "question": "A veteran touches someone to cast the spell cure wounds, with a touch range. Can the touch attack also deliver a weapon attack damage?",
+    "answer": "No. Touching someone to cast the spell is an action and a weapon attack is also an action but they cannot be combined into the same action.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The most common action to take in combat is the Attack action. Casting a spell is also an action, so it can be combined into a single action. The most that could be done is a bonus action with quickened casting."
+  },
+  {
+    "question": "Which schools of magic are mentioned in the SRD?",
+    "answer": "The schools of magic listed in the SRD are abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy, and transmutation.",
+    "rules": [
+      "Spellcasting > The Schools of Magic"
+    ],
+    "rules_explanation": "The whole section covers the schools of magic and lists each of them."
+  }
+]

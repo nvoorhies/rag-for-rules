@@ -1,0 +1,497 @@
+[
+  {
+    "question": "What Dexterity check is required for a set trap described with \"A successful DC 15 Dexterity check using thieves' tools breaks the trip wire harmlessly.\"",
+    "answer": "A successful Dexterity check using thieves' tools with a DC of 15 is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This question is answered by the general rules about ability checks;  The rule \"Each type of trap has the checks and DCs needed to detect or disable it.\"",
+    "rules_used": 1
+  },
+  {
+    "question": "If a Medium PC is grappled by each of two Huge creatures at the same time, can the PC take an action to attempt to escape from both grapples at once?",
+    "answer": "Yes, it is only one action to attempt to break from both grapples.",
+    "rules": [
+      "Combat > Actions in Combat > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "The rules for grappling state that a grappled creature can use its action to escape."
+  },
+  {
+    "question": "A level 1 single class rogue with dexterity 16, wisdom 14, and bless cast on them attempts to hit a creature adjacent to another hostile creature. They roll a 17 on the die. Does this hit? Does the rogue get sneak attack?",
+    "answer": "A roll of 17 plus the dexterity modifier (+3) and bless (+1d4) and proficiency bonus (+2) is the attack roll result. If the creature is adjacent to another hostile creature and the rogue does not have disadvantage, they do get sneak attack. ",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Classes > Rogue > Sneak Attack",
+      "Using Ability Scores > Proficiency Bonus",
+      "1st-level evocation > Bless"
+    ],
+    "rules_explanation": "An attack roll is equal to the die roll plus relevant modifiers, including the ability modifier. Sneak attack is granted if the rogue has advantage on the attack roll or if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and the rogue doesn't have disadvantage on the attack roll. The Bless spell allows a character to add 1d4 to their saving throw or attack roll."
+  },
+  {
+    "question": "Is a creature stunned by stunning strike automatically critically hit by the monk's next attack?",
+    "answer": "No, stunned is not paralyzed and does not make the attack an auto-crit.",
+    "rules": [
+      "Appendix PH-A > Conditions > Paralyzed",
+      "Appendix PH-A > Conditions > Stunned"
+    ],
+    "rules_explanation": "The gameplay transcript specifically mentions that 'stunned is not paralyzed'. The rules for paralyzed indicate that attacks are auto-crits, whereas stunned does not have this effect. A stunned creature does have disadvantage on Dexterity saving throws, and attack rolls against the creature have advantage."
+  },
+  {
+    "question": "A level 17 barbarian hits a creature in melee while raging. Caduceus casts path to the grave as a reaction, then Yasha attacks the same creature with advantage. Is all damage from the first successful hit doubled?",
+    "answer": "Yes, all damage from the first hit will be doubled because the creature is briefly vulnerable to the strike.",
+    "rules": [
+      "Part I, 21:11:50",
+      "Section 37"
+    ],
+    "rules_explanation": "When Yasha attacked, Matt said that the first damage doubled. Since Yasha is a raging Barbarian, this would happen anyway since the monster was vulnerable. All damage would be doubled on the first attack."
+  },
+  {
+    "question": "The rogue casts Phantasmal Force on a target. The target fails the saving throw. The rogue is hasted. Does the rogue get another round to do damage?",
+    "answer": "The target takes an extra 5 points of psychic damage from a goblin on its face as it was hasted.",
+    "rules": [
+      "Part I, 21:12:36",
+      "Part I, 21:12:49"
+    ],
+    "rules_explanation": "Since it doesn't get a saving throw every turn, the rogue can continue to do damage to it. When you start attacking it, it feels like it is losing that visual cortex. It is finding no purchase, so maybe the illusion is starting to-- you've gotten a round of distraction from it."
+  },
+  {
+    "question": "The Fighter uses Thunder Step. Does it get a Dexterity saving throw against that to try and reduce damage?",
+    "answer": "Yes it gets a constitution saving throw.",
+    "rules": [
+      "Class Feature",
+      "Ability checks",
+      "Saving Throws"
+    ],
+    "rules_explanation": "The player has an int score so he can choose any rule he wants, if he picks constitution the enemy is able to make a constitution saving throw."
+  },
+  {
+    "question": "If you have advantage and roll a natural one and a natural 20, what is the final result of the roll?",
+    "answer": "The final result of the roll is a natural 20.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When you have advantage, you use the higher of the two rolls."
+  },
+  {
+    "question": "What is the range of the spiritual weapon spell?",
+    "answer": "The range of the spiritual weapon spell is 60 feet.",
+    "rules": [
+      "Part I, 21:16:07",
+      "Class Feature"
+    ],
+    "rules_explanation": "This is a lookup of a statistic within the spell description. Jester casts Spiritual Weapon for her bonus action, which has a range of 60 feet."
+  },
+  {
+    "question": "Does casting a spiritual weapon allow for an attack with the spiritual weapon on the same turn it is cast?",
+    "answer": "No, as spiritual weapon is cast as a bonus action you have to make an attack on your subsequent turn",
+    "rules": [
+      "Combat > Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "Spiritual weapon is cast with a bonus action, and attacks do not come from bonus actions. The rules state: 'You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action.'"
+  },
+  {
+    "question": "If a creature that is the target of a sacred flame spell makes its dexterity saving throw, what is the effect?",
+    "answer": "If the saving throw is successful, the target takes no damage.",
+    "rules": [
+      "Part I, 21:17:22",
+      "Evocation > Sacred Flame"
+    ],
+    "rules_explanation": "The spell description of Sacred Flame indicates what happens on a successful save:  'If the target succeeds on the saving throw, it takes no damage.'"
+  },
+  {
+    "question": "Does the shield of retribution give the character who uses it a reaction?",
+    "answer": "I was using my reaction to hold my--",
+    "rules": [
+      "Chapter 9 > Combat > Actions"
+    ],
+    "rules_explanation": "Yes, the rules state When you're holding an action, it uses your reaction to release it. Therefore you use a reaction to hold the action which you are using."
+  },
+  {
+    "question": "Can you use the Sentinel feat to make a reaction attack against a creature that moves out of your reach because it was forced to by a spell, not by its own movement?",
+    "answer": "Yes, the Sentinel feat can be triggered by an attack of opportunity on a creature who moves out of your range.",
+    "rules": [
+      "Part I, 21:22:40",
+      "Feats"
+    ],
+    "rules_explanation": "Since the Sentinel feat did trigger, the creature is given a move to take another swing, but can't move into the bushes due to them moving to far."
+  },
+  {
+    "question": "If the character can reach both of two creatures could they use their action to cast Sacred Flame at both of them?",
+    "answer": "No. Sacred Flame can target one creature",
+    "rules": [
+      "Part I, 21:23:19",
+      "Cleric Spells > Sacred Flame"
+    ],
+    "rules_explanation": "Since Sacred Flame can only target 1 creature, they can not attack two, as the transcript said 'Same one, over here?'"
+  },
+  {
+    "question": "Does Mariner's armor prevent disadvantage when making attacks underwater, as it pertains to this rule: 'When making a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated'?",
+    "answer": "The Armor isn't, but she is.",
+    "rules": [
+      "Chapter 9 > Combat > Making an Attack > Ranged Attacks in Close Combat",
+      "Armor Class"
+    ],
+    "rules_explanation": "Correct, there is a visual of Fjord, and the transcript says: Oh, the one that's not stunned. This is implying that since they are stunned, that would be affected by it."
+  },
+  {
+    "question": "A creature is stunned until the end of Beau's next turn, the other's turn passes. Is Beau still stunned?",
+    "answer": "No, because it's the end of her next turn",
+    "rules": [
+      "Part I, 21:24:13",
+      "Appendix PH-A > Conditions > Stunned"
+    ],
+    "rules_explanation": "The rules for stunned specify when it ends: A stunned creature is incapacitated can't move and can speak only falteringly. This is until the end of your next turn."
+  },
+  {
+    "question": "What determines if an attack has advantage?",
+    "answer": "The Creatures are all stunned, and they're within short range, so we have advantage on the attacks.",
+    "rules": [
+      "Part I, 21:26:08",
+      "Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Here the transcript refers back to: It's all good. I didn't know I was going to have advantage! This implies advantage is a plus and not a dice roll."
+  },
+  {
+    "question": "The DM makes a ruling to rationalize actions in this game, what rule is he using to do so?.",
+    "answer": "You're right. I fucked up my own order. Cool.",
+    "rules": [
+      "Chapter 9 > The Dungeon Master > Improvising"
+    ],
+    "rules_explanation": "The rules for improvising say The game relies on you to stitch together various rules elements and adjudicate the following: Is it reasonable? What happens?"
+  },
+  {
+    "question": "When did the effects of the spell Thunderstep take place?",
+    "answer": "Does it get a dex saving throw against that to try and reduce damage?",
+    "rules": [
+      "Part I, 21:29:41",
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "A player can use the spell at any time, but some spells allow players to use saving throws and effects like a dex throw to not take effects from a spell."
+  },
+  {
+    "question": "The Spiritual Weapon hits the side of its body and scrape off of its hard, armored exterior. How does this alter the spell?",
+    "answer": "I'm sorry. It swings through. It manages to hit the side of its body and then scrape off of its hard, armored exterior.",
+    "rules": [
+      "Spell List > Cleric Spells > Spiritual Weapon"
+    ],
+    "rules_explanation": "The spell has no effect, because it missed. So the damage won't occur since the hit did not land. As Matt said, it does nothing."
+  },
+  {
+    "question": "What happens on a circle to determine if they can move?",
+    "answer": "On a failed save, a target is overwhelmed with despair for 1 minute.",
+    "rules": [
+      "Spells > Symbol",
+      "Spellcasting > Areas of Effect"
+    ],
+    "rules_explanation": "He doesn't use just this, but he goes with the whole 9 yards. Meaning that he takes it all."
+  },
+  {
+    "question": "If a person is a non critter who is not in the US or Canada will they win the Wyrmwood giveaway?",
+    "answer": "Once again, it's only for critters in the US and Canada, excluding Quebec, because weird laws.",
+    "rules": [
+      "Feat Information"
+    ],
+    "rules_explanation": "This refers back to the announcement that was stated during this transcript."
+  },
+  {
+    "question": "What is the damage and bonus for a normal attack?",
+    "answer": "Natural 20. You're so dumb that you have to write down--",
+    "rules": [
+      "Feat Information"
+    ],
+    "rules_explanation": "This isn't a rule, but that you can use it on any check. No rule here to take advantage on."
+  },
+  {
+    "question": "With the party under water and Jester wants to go up to the one that is attacking Caduceus. How far can she move with the use of a bonus action?",
+    "answer": "You can get one, two, three. That's as far as you can get.",
+    "rules": [
+      "Chapter 9 > Combat > Movement and Position > Using Different Speeds"
+    ],
+    "rules_explanation": "Since this water is difficult terrain, she can only move one spot, two because she has to go up."
+  },
+  {
+    "question": "If you are holding onto an action when does the effect or result go through?",
+    "answer": "You were using you reaction to hold your--",
+    "rules": [
+      "Part I, 21:41:42",
+      "Chapter 9 > Combat > Reactions"
+    ],
+    "rules_explanation": "As the transcript said, that is my reaction, is to hold my attack? When you're holding an action, it uses your reaction to release it, and therefore you use your reaction."
+  },
+  {
+    "question": "During a Hasted Round does the second action have any advantage?",
+    "answer": "My god, this is a long-ass spell.",
+    "rules": [
+      "Chapter 9 > Combat > Time > The Round",
+      "Spells"
+    ],
+    "rules_explanation": "As a result of how powerful the Haste spell is, I'm going to go bolt, bolt, bolt and fire three times, you gain the action which allows you to move more"
+  },
+  {
+    "question": "What can you create using the creation spell?",
+    "answer": " Does it get a dex saving throw against that to try and reduce damage?",
+    "rules": [
+      "Chapter 9 > The round",
+      "Chapter 9 > SpellCasting > Casting a Spell > Saving throws"
+    ],
+    "rules_explanation": "Depending on the type of material they select to create. If you do not then the result would be the same."
+  },
+  {
+    "question": "Does disadvantage balance out to a straight roll if a roll has both?",
+    "answer": "Doesn't it balance out, though, because it would've been at disadvantage?",
+    "rules": [
+      "Chapter 9 > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage. You don't even know, do you?"
+  },
+  {
+    "question": "While raging, can Yasha see anything that's inside?",
+    "answer": "Looking through the interior of the now partially jagged, broken entrance to this temple's base, you can see this very heavily covered, seaweed-infested interior that wraps around the inside, and one central, big, knotted tangle of seaweed.",
+    "rules": [
+      "Feat Information",
+      "Rage"
+    ],
+    "rules_explanation": "The only thing that seems to happen is that you drop rage, it does not seem to make you blind since that is not in any rulings."
+  },
+  {
+    "question": "What is the point of Patient defense?",
+    "answer": "Does Patient Defense matter if I'm grappled?",
+    "rules": [
+      "Chapter 9 > Appendix PH-A > Grappled"
+    ],
+    "rules_explanation": "Yeah. All grapple does is lower your speed to zero. You can't move. Restrained is what really fucks you up because that gives advantage on attacks against you."
+  },
+  {
+    "question": "What is needed when the spell dimension door is activated?",
+    "answer": "Does it get a dex saving throw against that to try and reduce damage?",
+    "rules": [
+      "Chapter 9 > The Round",
+      "Chapter 9 > Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Depending on what one was to do at the moment. If you were attacking you would add modifiers like strength or dexterity."
+  },
+  {
+    "question": "While using the Sentinel ability, you rolled a natural one and a natural 20! What happens?",
+    "answer": "No, I rolled a natural one.",
+    "rules": [
+      "Chapter 9 > Sentinel"
+    ],
+    "rules_explanation": "The rules state He does move. It's fine, it just went to waste in that situation"
+  },
+  {
+    "question": "Is it possible to have advantage on attacks with a stunning creature, like on a turn where they are stunned?",
+    "answer": "Yes, the target is stunned and it has advantage. These are creatures all stunned and they're within your short range, so you have advantage on the attacks.",
+    "rules": [
+      "Chapter 9 > Combat > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Because as Matt the DM said, it is correct for the ruling."
+  },
+  {
+    "question": "Does this test: 'Does it get a dex saving throw against that to try and reduce damage?' require a dex saving throw?.",
+    "answer": "Does it get a dex saving throw against that to try and reduce damage?",
+    "rules": [
+      "Spell Information"
+    ],
+    "rules_explanation": "To see if whatever they were throwing at the character can allow for a Dexterity check.",
+    "type": "question of clarification of whether spell rules trigger"
+  },
+  {
+    "question": "What does Jester need to add for a spiritual weapon attack roll?",
+    "answer": "Add your spell attack modifier, which is your proficiency bonus plus your wisdom modifier.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "This is a fully supported rules lookup to determine the spell attack modifier."
+  },
+  {
+    "question": "Does the caster of Toll the Dead have to move to attack again.",
+    "answer": "No, Toll the dead doesn't allow you to attack again.",
+    "rules": [
+      "Spell information",
+      "Spell List"
+    ],
+    "rules_explanation": "There is no where on the spell that says the creature is allowed to do this."
+  },
+  {
+    "question": "What do you have to succeed on to activate the Shield of Retribution.",
+    "answer": "Okay. Eh. 14 points of damage. The strength saving throw is a six.",
+    "rules": [
+      "Chapter 9 > Ability Scores > Saving Throws",
+      "Taliesin's Character Sheet"
+    ],
+    "rules_explanation": "The power is activated and now he must do a saving throw for 16. You get pushed back 20 feet. Matt made a weird choice and this is the result."
+  },
+  {
+    "question": "What does the stun condition do?",
+    "answer": "That one is still stunned, because it's until the end of your next turn.",
+    "rules": [
+      "Part I, 21:48:39",
+      "Appendix PH-A > Conditions > Stunned"
+    ],
+    "rules_explanation": "The rules for the condition stun says that it has until the end of someone's next turn, and the one on this creature had not gone off."
+  },
+  {
+    "question": "When you use a Natural 20 accidentally, what does that allow you to do?",
+    "answer": "This time you, with the falchion, rake it out of the air.",
+    "rules": [
+      "Weapons",
+      "Attacks"
+    ],
+    "rules_explanation": "Since it was done on accident, that is the result."
+  },
+  {
+    "question": "Does Mariner's armor give them straight advantage?",
+    "answer": "They stay at advantage because of my Mariner's Armor?",
+    "rules": [
+      "Magic Items > Armor Class",
+      "Attacks"
+    ],
+    "rules_explanation": "Yes, is what Matt stated. Mariner's armor gives them advantage for attacks under water."
+  },
+  {
+    "question": "What happens if you use the Thunderstep power?.",
+    "answer": "You got it. I don't have any visual of where we are in relation to anything.",
+    "rules": [
+      "Feats",
+      "Spellcasting"
+    ],
+    "rules_explanation": "This allows them to travel a certain distance to another place, that would be considered difficult, but not impossible. It is a power/spell."
+  },
+  {
+    "question": "Which score is used when a creature makes a Constitution saving throw?",
+    "answer": "Does it get a dex saving throw against that to try and reduce damage?",
+    "rules": [
+      "Part I, 21:29:41",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "You are saying to make a Con saving throw, not a Dex"
+  },
+  {
+    "question": "Do I apply both a damage bonus for hex and for a spell?",
+    "answer": "Ah! Yeah, I know.",
+    "rules": [
+      "Spells",
+      "Spell Slots"
+    ],
+    "rules_explanation": "Yes, but only on that character. When you use an action, a character is allowed to do that. "
+  },
+  {
+    "question": "What is used to know about a magic item?.",
+    "answer": "Identify",
+    "rules": [
+      "Spellcasting",
+      "Items",
+      "Class Information"
+    ],
+    "rules_explanation": "Depending on the spellcaster class, there is a variety of powers you can do to look at a item, and tell it's strengths/ weaknesses."
+  },
+  {
+    "question": "Does Sentinel Turn him back on me?",
+    "answer": "He does move. It's fine.",
+    "rules": [
+      "Chapter 9 > Oppertunity Attacks"
+    ],
+    "rules_explanation": "Matt states that does not trigger, implying that there is something else at play. As such, that action didn't occur."
+  },
+  {
+    "question": "Can I cast it with a bonus action.",
+    "answer": "With my bonus action, I'll cast Hex and get it up now.",
+    "rules": [
+      "Chapter 9 > The Round",
+      "Chapter 9 > bonus action"
+    ],
+    "rules_explanation": "This spell gives the action to be done as a bonus action, and not an action."
+  },
+  {
+    "question": "When in the wild is there some sort of healing action?",
+    "answer": "Can we afford a short rest?",
+    "rules": [
+      "Chapter 8 > Adventuring > Resting"
+    ],
+    "rules_explanation": "You can have a short rest and heal. You would also need to look at the class features and such of the player's, since that can effect what is all rolled"
+  },
+  {
+    "question": "What is used to make a Persuasion check.",
+    "answer": "Make a persuasion check.",
+    "rules": [
+      "Chapter 7 > Using Ability Scores > Charisma > Persuasion"
+    ],
+    "rules_explanation": "In speaking with the ocean or plant life, you need to use a persuasion roll to see if the character is able to charm or persuade them."
+  },
+  {
+    "question": "How does Jester's Wildmother goddess speak to Jester?",
+    "answer": "Yeah, he totally just said, 'What's up.",
+    "rules": [
+      "Chapter 4 > Personality and Background > Alignment",
+      "Religion"
+    ],
+    "rules_explanation": "This depends on the situation, but it could be wisdom and stuff. That's up to Matt to state in each situation. I'll show you."
+  },
+  {
+    "question": "How can you see through the glass sphere?.",
+    "answer": "In theory. I sat down on the floor-- oh shoot. I cannot do it now because my books are in your bag. If I take them out, they would be ruined.",
+    "rules": [
+      "Section 5 > Spellcasting > Learning Spells"
+    ],
+    "rules_explanation": "Caleb as a wizard needs his spellbook to read spells."
+  },
+  {
+    "question": "If the player has a high roll for a skill check can you go to the next roll?.",
+    "answer": "If you roll a Natural 20 does that negate a roll.",
+    "rules": [
+      "Chapter 7 > Using Ability Scores > Ability Checks > Natual 20",
+      "Chapter 7 > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules state If for any reason you can get higher than 23 the result should just pass.",
+    "additional_information": "I am not 100% sure on this one since the rules for 20 is if the AC or throw or other is higher then it is not valid."
+  },
+  {
+    "question": "When making a nature check what is the modifier.",
+    "answer": "Nature check, oh no.",
+    "rules": [
+      "Taliesin's Stats"
+    ],
+    "rules_explanation": "It depends on his Stats and the number would range from 1-5"
+  },
+  {
+    "question": "How can you influence other peoples.",
+    "answer": "The player tries to create a Persona for the world.",
+    "rules": [
+      "Feat Information"
+    ],
+    "rules_explanation": "Well there is a feat for it, but most likely it's up to the game master to say what's going to happen with it."
+  },
+  {
+    "question": "Could you ask him.",
+    "answer": "How do I do that, Jester?",
+    "rules": [
+      "Spells Information"
+    ],
+    "rules_explanation": "Here they are asking how to contact him. A known God and not another character in the group."
+  },
+  {
+    "question": "Who can add two of these, or can it only do one?",
+    "answer": "Each of us get two what?",
+    "rules": [
+      "Feat information",
+      "Class Information"
+    ],
+    "rules_explanation": "From this alone, there isn't a answer to this question. It's a known ruling, so a answer can not be had."
+  },
+  {
+    "question": "Should I go under and ready the cannons?.",
+    "answer": "Correct, no flags.",
+    "rules": [
+      "Armor class > Ship AC"
+    ],
+    "rules_explanation": "The DM needs to give some more to help with finding the boat, the boat's stats and such, that's all I can provide."
+  },
+  {
+    "question": "What action is used when trying to throw an object?",
+    "answer": "Does it get a dex saving throw against that to try and reduce damage?",
+    "rules": [
+      "Spell information"
+    ],
+    "rules_explanation": "Depends on what happens. In the turn they did, what occurred? We don't know without knowing more."
+  }
+]

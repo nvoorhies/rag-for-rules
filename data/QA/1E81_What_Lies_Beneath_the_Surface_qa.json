@@ -1,0 +1,245 @@
+[
+  {
+    "question": "Can the level 12 circle of the moon Druid use a general tremors of the lair begin to subside because it's been long enough removed because the volcanic activity begins to come to a small gentle end?",
+    "answer": "The rules do not cover the impact of the death of a dragon on lair activities",
+    "rules": [],
+    "rules_explanation": "The SRD contains information about general effects to help adjudicate the players actions but does not cover this example."
+  },
+  {
+    "question": "Do a level 14 rogue/level 1 paladin with 21 armor have to make a constitution saving throw?",
+    "answer": "You must make a constitution saving throw",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "Taking damage while concentrating on a spell requires a constitution saving throw"
+  },
+  {
+    "question": "What is a 'spell save DC'?",
+    "answer": "8 + your proficiency bonus + your spellcasting ability modifier",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "This is the formula for calculating spell save DC"
+  },
+  {
+    "question": "What kind of check can be made to try and clear guns in the hopes that they're actually going to work?",
+    "answer": "There is no specific rule that relates to clearing guns.  A proficiency check could be warranted, or an investigation check if it's thought there is something wrong with the guns.",
+    "rules": [],
+    "rules_explanation": "The rules do not cover firearms but an appropriate skill check could be used to adjudicate this example."
+  },
+  {
+    "question": "Can the level 12 circle of the moon druid use a nature check to see if they recognize the scent?",
+    "answer": "Yes, make a nature check",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM may call for an ability check at any time."
+  },
+  {
+    "question": "If the level 14 rogue/level 1 paladin use detect poison and you don't sense anything, you don't sense anything that is clarified toxin to the point where it would register as a poison, so at least, you're calm– you're calmed to know that there isn't something coursing through his system right now that is in danger of killing him?",
+    "answer": "You don’t sense any toxin clarified enough to register as poison.",
+    "rules": [],
+    "rules_explanation": "The spell or ability will reveal the information that it is capable of revealing but it does not automatically provide a binary yes/no response to the user."
+  },
+  {
+    "question": "can the level 12 circle of the moon druid do an insight check?",
+    "answer": "Yes, make a insight check",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM may call for an ability check at any time."
+  },
+  {
+    "question": "If you are an injured level 11 barbarian/level 1 fighter, can you try and clear my guns in the hopes that they're actually gonna work, so proficiency?",
+    "answer": "Yes.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules do not cover firearms but an appropriate skill check could be used to adjudicate this example."
+  },
+  {
+    "question": "Can you use Detect Poison and you don't– you don't sense anything that is clarified toxin to the point where it would register as a poison, so at least, you're calm– you're calmed to know that there isn't something coursing through his system right now that is in danger of killing him?",
+    "answer": "You don’t sense any toxin clarified enough to register as poison.",
+    "rules": [],
+    "rules_explanation": "The spell or ability will reveal the information that it is capable of revealing but it does not automatically provide a binary yes/no response to the user."
+  },
+  {
+    "question": "How many pulls do I get?",
+    "answer": "You pull one card.",
+    "rules": [],
+    "rules_explanation": "Based on the agreement before the draw"
+  },
+  {
+    "question": "Does it matter if a scimitar is a strength or dex weapon?",
+    "answer": "It can be either.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Finesse"
+    ],
+    "rules_explanation": "A weapon with the finesse property can use either strength or dexterity."
+  },
+  {
+    "question": "What if she has less than 30 hit points?",
+    "answer": "If you have less than 30 hit points, this is a request to level them with lay on hands or another healing spell, which is in line with the rules in the SRD.",
+    "rules": [],
+    "rules_explanation": "Rules do not strictly govern table conversation but this question is requesting a rules implementation"
+  },
+  {
+    "question": "If the item is not magical, what does it do?",
+    "answer": "It is just a rod basically.",
+    "rules": [],
+    "rules_explanation": "The presence of magic or lack thereof determines the effect that the item has"
+  },
+  {
+    "question": "Can Keyleth just sky write with Sky Write?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "The question is permissible within the game rules"
+  },
+  {
+    "question": "What's my carrying capacity on my broom?",
+    "answer": "Your broom can carry 400 pounds at a flying speed of 30 while carrying over 200 pounds.",
+    "rules": [],
+    "rules_explanation": "A ruling based on the features of a magic item"
+  },
+  {
+    "question": "Do you fly, fly?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "Ruling based on non-rules based attempt to activate item"
+  },
+  {
+    "question": "Can I skywrite a simple rendition of the symbol of Emon?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "The request is permissible within the game rules"
+  },
+  {
+    "question": "If the skywrite spell is cast and there are clouds then darkness separates into what looks like little plumes of white that spell out a very basic rendition of the symbol of Emon?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "A ruling based on the description of a spell"
+  },
+  {
+    "question": "Can I do a nature check to see if I recognize the scent?",
+    "answer": "Sure, make a nature check.",
+    "rules": [],
+    "rules_explanation": "This is a request for the Dungeon Master (DM) to allow the use of a skill check, which is within their purview to grant or deny based on the situation."
+  },
+  {
+    "question": "I'm gonna try and scry on Raishan. Okay, so what's my spell save DC?",
+    "answer": "Your spell save DC is 20",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The spell save DC depends on your proficiency bonus and charisma modifier."
+  },
+  {
+    "question": "what could it hurt to try to scry on raishan?",
+    "answer": "You could have resistance",
+    "rules": [],
+    "rules_explanation": "The question is about strategic impact not about game rules."
+  },
+  {
+    "question": "what DC do I roll to scry?",
+    "answer": "The reason, the item's DC, not your spell DC. I guess so, but I don't know if you ever put the scrying eye DC on here, it doesn't have a DC. It doesn't– then, uh, then we'll use your spell DC, that's fine, okay, so.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling, so no specific SRD rule is used but it's an application of how to adjudicate an unusual rules scenario."
+  },
+  {
+    "question": "does scrying give any direction?",
+    "answer": "Scrying doesn't give any direction",
+    "rules": [],
+    "rules_explanation": "The question is about the attributes of a spell not about game rules."
+  },
+  {
+    "question": "Can I do like a– can I do a roll to see–",
+    "answer": "Make an intelligence check",
+    "rules": [],
+    "rules_explanation": "Requesting permission to perform an intelligence check."
+  },
+  {
+    "question": "if I scry on Viscan, could I recognize, yeah, this looks like the similar island?",
+    "answer": "You could try, yeah.",
+    "rules": [],
+    "rules_explanation": "DM ruling"
+  },
+  {
+    "question": "Has everyone spent their hit dice? What are we at in point totals here?",
+    "answer": "This is a request for information about a table state, not a rules query.",
+    "rules": [],
+    "rules_explanation": "The question is about the hit points of party members not about game rules."
+  },
+  {
+    "question": " try and clear my guns in the hopes that they're actually gonna work",
+    "answer": "They try and clear their guns in the hopes that they're actually gonna work. So proficiency?",
+    "rules": [],
+    "rules_explanation": "Requesting permission to roll a relevant skill"
+  },
+  {
+    "question": "You said you were just pulling one card, so you pull one card.",
+    "answer": "Ruling to enforce the agreement before the pull",
+    "rules": []
+  },
+  {
+    "question": "is that a strength or dex weapon?",
+    "answer": "It's a strength weapon",
+    "rules": []
+  },
+  {
+    "question": "Can I make this a reckless attack?",
+    "answer": "You can.",
+    "rules": [
+      "Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "The barbarian's reckless attack feature can be used."
+  },
+  {
+    "question": "If there's a vase I would totally smash that. Make an intelligence check. Zero. Eleven, okay.",
+    "answer": "ruling and roll based on attempt to open object",
+    "rules": []
+  },
+  {
+    "question": "Does anyone know what these are?",
+    "answer": "Roll an Arcana Check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master requests a roll, which is within their power to do"
+  },
+  {
+    "question": "How many pulls do I get?",
+    "answer": "You said you were just pulling one card, so you pull one card.",
+    "rules": [],
+    "rules_explanation": "This is a restatement of an already agreed upon game state, and the rule will be adhered to"
+  },
+  {
+    "question": "Is there a name for it, whatever this is?",
+    "answer": "Oh, yes.",
+    "rules": [],
+    "rules_explanation": "The question is permissible within the game rules"
+  },
+  {
+    "question": "How much longer do you think Raishan will stay there? Especially if she's not finding what she's looking for.",
+    "answer": "The question cannot be answered by the rules.",
+    "rules": [],
+    "rules_explanation": "This is a request for information about the behavior of an NPC and cannot be answered using the rules"
+  },
+  {
+    "question": "can I do a roll to see–",
+    "answer": "Make an intelligence check.",
+    "rules": [],
+    "rules_explanation": "This is a request for a skill check, which the Dungeon Master (DM) has the authority to grant or deny based on the situation."
+  },
+  {
+    "question": "Is there a way, do you know, where we can maybe, like, restore ourselves faster?",
+    "answer": "I wouldn't recommend that.",
+    "rules": [],
+    "rules_explanation": "The question is about strategic impact not about game rules. There are no mechanisms within the game that would permit this."
+  },
+  {
+    "question": "How much do you heal up overnight, generally?",
+    "answer": "At night, you get full points, and you get back half of your– half of your hit dice that were spent.",
+    "rules": [],
+    "rules_explanation": "Information about the mechanical effect of a long rest."
+  }
+]

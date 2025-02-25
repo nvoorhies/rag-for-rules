@@ -1,0 +1,116 @@
+[
+  {
+    "question": "If the level 4, class unknown, race unknown, with chutzpah of 4 wants to use Animalgram and roll chutzpah, what does that mean in game terms?",
+    "answer": "The character rolls 4d6 and each die with a result of 4 or higher is a success.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks",
+      "Introduction > What is D&D > d20",
+      "Character Creation > Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The question establishes the use of a skill called 'chutzpah'. The DM determines this uses the 'Ability Checks' rules from the 'How to Play' section. The core mechanic involves rolling a d20 and adding an ability modifier. However, the system the character is playing only has D6s, and 4 is a success. The success of this is related to the class, level, and race as listed in the prompt. The system doesn't use modifiers so they can be ignored."
+  },
+  {
+    "question": "If a group needs to climb down the bank of a river, what ability check must they use?",
+    "answer": "They must make an alacrity check.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested an alacrity check from the group to descend the river bank."
+  },
+  {
+    "question": "If a character has a relevant backstory, do they gain an advantage on their roll, and if so, how does that translate into mechanical terms?",
+    "answer": "They do not gain advantage, but they do gain a bonus dice on the roll.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks"
+    ],
+    "rules_explanation": "The DM is stating that a relevant backstory does not provide advantage, it provides an extra die to roll."
+  },
+  {
+    "question": "If a group of characters is racing in vehicles, and they show their choices by hiding a number and revealing at the same time, and one rolls a 1, 2, 3, 4, 5, or 6, what does that signify?",
+    "answer": "A roll of 1 signifies brake; 2 signifies turn left; 3 signifies turn right; 4 signifies use an item; 5 signifies go faster, accelerate; and 6 signifies any other creative action the characters can come up with.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks"
+    ],
+    "rules_explanation": "The DM is stating the meaning of each number for this scenario."
+  },
+  {
+    "question": "If a character sprays poisonous gas at an enemy, and the gas is harmful, what saving throw must the characters use to save against the gas?",
+    "answer": "The characters must make a constitution saving throw.",
+    "rules": [
+      "Introduction > How to Play > Saving Throws"
+    ],
+    "rules_explanation": "This is implied by the statement 'It hits your nose, it's very stinky and it's already starting to hurt you. You better get out of there or you might fade away'."
+  },
+  {
+    "question": "What is the result of rolling a 1 during a racing round?",
+    "answer": "The car will take damage.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks"
+    ],
+    "rules_explanation": "This is a rule of the game explicitly stated by the DM, and is not necessarily a common mechanic in D&D."
+  },
+  {
+    "question": "What ability check is made to see if a character can hold onto a rocket booster?",
+    "answer": "An alacrity check is made.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks"
+    ],
+    "rules_explanation": "The DM is making a judgement call about the game mechanics."
+  },
+  {
+    "question": "What ability check is used when hobos are throwing rocks at the characters?",
+    "answer": "A rotundity check is made.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks"
+    ],
+    "rules_explanation": "The DM is making a judgement call about the game mechanics."
+  },
+  {
+    "question": "How many items can a character hold at one time?",
+    "answer": "Characters can hold two items at a time.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks"
+    ],
+    "rules_explanation": "The DM is making a judgement call about the game mechanics."
+  },
+  {
+    "question": "What can you do with cool points that are earned while racing in a car?",
+    "answer": "Cool points can be spent to do cool things like jumps and spins and speed blasts and amazing tricks and find better routes.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks"
+    ],
+    "rules_explanation": "This is a rule of the game explicitly stated by the DM, and is not necessarily a common mechanic in D&D."
+  },
+  {
+    "question": "What is the check used to see if you can swing into a car?",
+    "answer": "An alacrity check is made.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks"
+    ],
+    "rules_explanation": "The DM is making a judgement call about the game mechanics."
+  },
+  {
+    "question": "How many successes are needed on a group alacrity check?",
+    "answer": "The group needs five successes to win.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks"
+    ],
+    "rules_explanation": "This is a rule of the game explicitly stated by the DM, and is not necessarily a common mechanic in D&D."
+  },
+  {
+    "question": "When trying to stay hidden, what ability check should be made?",
+    "answer": "An alacrity check is made.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks"
+    ],
+    "rules_explanation": "The DM is making a judgement call about the game mechanics."
+  },
+  {
+    "question": "When trying to determine if someone is lying what ability check should be made?",
+    "answer": "A history check should be made.",
+    "rules": [
+      "Introduction > How to Play > Ability Checks"
+    ],
+    "rules_explanation": "The DM is looking for a history check but realizes it is not a thing and states it is rotundity."
+  }
+]

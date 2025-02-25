@@ -1,0 +1,380 @@
+[
+  {
+    "question": "After a player rolls a natural 20 on their dice, a player asks: \"You just rolled a 20?\", what rule applies to rolling a 20 on a dice?",
+    "answer": "The question does not contain enough information to answer. A natural 20 may trigger different rules in different contexts, such as Section: Combat > Making an Attack > Rolling 1 or 20. More context is required.",
+    "rules": [],
+    "rules_explanation": "The rules that apply to a natural 20 in combat are different to the rules that apply when a roll is made outside of combat, and in some cases, the effect may not be fully determined."
+  },
+  {
+    "question": "When the warlock level 17, class level does a misty step as an action, and DM states that, 'Right, but you Misty Stepped, is casting that as a bonus action.'  What is the rule regarding action and bonus actions?",
+    "answer": "Combat > Your Turn > Bonus Actions:  You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "Misty step is a spell with a bonus action casting time. The DM is clarifying this to the player."
+  },
+  {
+    "question": "A Level 12 Barbarian/Fighter is asked for a wisdom saving throw.  Then someone asks, 'And I get my d4, or do I lose my d4?'\". How does a d4 apply to a saving throw?",
+    "answer": "The question does not contain enough information to answer, there is no generic rule for a +1d4 modifier for saving throws, it must be granted by a feat, class feature, or similar magic. If it exists, it will apply to the saving throw.",
+    "rules": [],
+    "rules_explanation": "Without reference to the specific ability providing the d4 bonus to saving throws, the question is unanswerable."
+  },
+  {
+    "question": "Player asks 'And I get my d4, or do I lose my d4?' in reference to disadvantage due to 'exploited fate'. The DM answers 'So it's a straight roll.' What is meant by straight roll in this context?",
+    "answer": "Using Ability Scores > Advantage and Disadvantage: If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The player was likely to have a d4 bonus granted by a separate ability, but if a roll has both advantage and disadvantage, any additional modifiers are not negated."
+  },
+  {
+    "question": "In relation to attacks, a player asks, 'So it's quadrupled.' What action is it that would be quadrupled?",
+    "answer": "This question cannot be answered using only the SRD. This references some custom rule or mechanic not detailed in the SRD",
+    "rules": [],
+    "rules_explanation": "The question includes too little information. Without context for the situation in gameplay, a quadrupling action cannot be identified from the SRD"
+  },
+  {
+    "question": "During the description of a legendary action, a player states, 'So it cancels Bane more or less--' what part of Bane cancels part of the Turn",
+    "answer": "Without reference to the specific action in the game cancelling Bane, this question cannot be answered using the SRD. This also references some custom rule or mechanic not detailed in the SRD",
+    "rules": [],
+    "rules_explanation": "There is nothing about the normal functionality of Bane that would cause it to be cancelled unless a circumstance was detailed which suppressed or cancelled Bane, and since this is never described it can't be answered."
+  },
+  {
+    "question": "Can one of Braius' attacks be a spell and one be a melee attack?",
+    "answer": "Combat > Your Turn > Actions: The most common actions you can take are described in the \"Actions in Combat\" section. Many class features and other abilities provide additional options for your action.",
+    "rules": [
+      "Combat > Your Turn > Actions"
+    ],
+    "rules_explanation": "A spell generally requires an action. To have a spell and a melee attack would either require two actions, or a specific ability that allows it."
+  },
+  {
+    "question": "A character asks, 'Do I roll both of those or do they just negate?' referring to a d4 and negative d4 roll. What rule applies to this situation?",
+    "answer": "Using Ability Scores > Advantage and Disadvantage: If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The statement is interpreted as referencing a situation granting both a bonus and a penalty to the roll which cancel each other out."
+  },
+  {
+    "question": "A player states: 'If I move back in the middle of all of my allies there, will it get an attack on me?' What is being referenced?",
+    "answer": "Combat > Making an Attack > Melee Attacks > Opportunity Attacks: You can make an opportunity attack when a hostile creature that you can see moves out of your reach.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "The player is referencing an attack of opportunity from moving out of an enemy's reach."
+  },
+  {
+    "question": "During initiative count 20, the DM says, 'So beginning of its turn, it gets its legendary actions back.' What rule is being applied here?",
+    "answer": "If you're playing a legendary creature or using a stat block that includes legendary actions, the creature regains all expended legendary actions at the start of its turn.",
+    "rules": [],
+    "rules_explanation": "There is no rule in the SRD that says initiative count 20 triggers a regain of legendary actions. It can only be assumed that initiative count 20 is when a creature has its turn, which triggers the start of its turn. Outside of that assumption, the question is unanswerable using only the SRD. This is because what a turn consists of for a monster or NPC is not described in detail. The only source of information the SRD provides is that monsters have stat blocks, which include legendary actions that recharge at the start of the creature's turn."
+  },
+  {
+    "question": "A discussion occurs on the ability 'brand of castigation'. The DM asks, 'Just double checking on the Brand of Castigation, you can place it after an attack?' What rule is the DM trying to clarify?",
+    "answer": "Some special abilities have a trigger that occurs either on the turn you attack or after damaging a creature. In this case, the brand of castigation requires the use of damaging a creature in order to apply it.",
+    "rules": [],
+    "rules_explanation": "Checking what the trigger for an ability is is part of the normal execution of the game, however, it is not codified in a specific rule."
+  },
+  {
+    "question": "Player asks the DM, 'Okay, I get two attacks per turn. Can one be a spell and one be a melee attack?' DM replies with 'No'. What is the rule being applied?",
+    "answer": "Section: Combat > Your Turn > Actions: states that most spells take an action to cast. Actions In Combat lists actions a creature can take in combat; taking a spell as one action would preclude taking another action in that turn.",
+    "rules": [
+      "Combat > Your Turn > Actions"
+    ],
+    "rules_explanation": "Casting a spell typically takes a characters action. If a character has only one action and casts a spell, they cannot take another action that turn. To have both a spell and attack, the attack would need to come from a feature, such as extra attack"
+  },
+  {
+    "question": "A player asks the DM, 'Does a large creature, which I assume this is, have advantage on its save?' What rule is the player referencing?",
+    "answer": "Certain spells cause the restrained condition. Whether a large creature has advantage on a save depends on the condition being applied to the target of the save.",
+    "rules": [],
+    "rules_explanation": "The question references an ability used by an allied player. The DM needs to clarify which ability is in question, and how it would interact with size and saving throws"
+  },
+  {
+    "question": "A DM is discussing moving through glass as a monster. What is the rule for moving through such a substance?",
+    "answer": "This rules question cannot be answered using only the SRD. Creatures are unable to move through solid objects unless they have a feature that states otherwise.",
+    "rules": [],
+    "rules_explanation": "The DM has to determine if the glass acts as an obstruction to movement or not, and creatures can't move through solid objects unless they have a feature that specifically allows them to do so"
+  },
+  {
+    "question": "During a turn, after failing a persuasion check, the text states: 'That finishes Ashton's turn there.' What rule about turn taking applies?",
+    "answer": "Combat > The Order of Combat > Your Turn: On your turn, you can move a distance up to your speed and take one action. You decide whether to move first or take your action first.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "A player can move and take an action on their turn. Once they have taken an action, the turn is generally considered to be over"
+  },
+  {
+    "question": "The rules state: '...I'll let you still have your bonus.' In what context is a bonus being discussed?",
+    "answer": "Combat > The Order of Combat > Your Turn > Bonus Actions: You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "A bonus action is generally derived from a feature or spell that makes it possible. If such a spell or feature is invoked, a bonus action is available. Without that, it isn't."
+  },
+  {
+    "question": "Can someone have both advantage and disadvantage, and what does it mean when they do?",
+    "answer": "Using Ability Scores > Advantage and Disadvantage: If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The presence of both advantage and disadvantage on a roll cancels both, and you roll only a single d20"
+  },
+  {
+    "question": "The DM asks: 'You do get an attack of opportunity, if you want to take it.' In what way is it determined that an attack of opportunity is allowed?",
+    "answer": "Combat > Making an Attack > Melee Attacks > Opportunity Attacks: You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "If an enemy moves out of your reach, you can use your reaction to perform an attack"
+  },
+  {
+    "question": "The DM says, 'You can't do it whenever you want, it can.' What rule applies to a player being limited in what they can do?",
+    "answer": "This rules question cannot be answered using only the SRD. The options for actions are limited and are determined by class abilities, magic items, spells and so on. It depends entirely on what the individual features say.",
+    "rules": [],
+    "rules_explanation": "The question doesn't state what the player is trying to do, so it's impossible to determine what's stopping them using just the SRD"
+  },
+  {
+    "question": "A rules question is asked: Do I get to add plus four to your saving throw?. What does the statement relate to?",
+    "answer": "This question cannot be answered using only the SRD. It does not reference what class, spell, item or effect is granting this bonus.",
+    "rules": [],
+    "rules_explanation": "While bonuses to saving throws are common, this question requires more information to determine what, if any, bonuses a player gets to add"
+  },
+  {
+    "question": "A player asks, 'So if you succeed, do I still do half damage?' What rule is the player asking about?",
+    "answer": "The question includes too little information, without context for the spell, ability, or action used it's impossible to determine if it still does half damage on a successful save.",
+    "rules": [],
+    "rules_explanation": "Some spells deal damage on both a successful and failed saving throw, however, others require a failed saving throw for damage to be dealt."
+  },
+  {
+    "question": "A monster that has two of the following effects active on it; Bane (Charisma Saves) and Exploited Faith (Disadvantage on Saves). Which effect has dominance?",
+    "answer": "Using Ability Scores > Advantage and Disadvantage: If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A roll cannot have advantage and disadvantage at the same time. If both effects are present, they cancel out and the dice is rolled normally."
+  },
+  {
+    "question": "Laudna, you are up. Is there a disadvantage if she is base-to-base on spells?",
+    "answer": "Combat > Making an Attack > Ranged Attacks in Close Combat: Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "The rules for ranged attacks in close combat specify that being within 5 feet of an enemy grants disadvantage on the roll."
+  },
+  {
+    "question": "Do the bonuses from a d4 and plus four all stack on the constitution saving throw?",
+    "answer": "With the given information in the prompt it is impossible to determine whether two buffs stack or not without knowing the source of the d4 and +4 bonuses, as buffs are not always guaranteed to stack.",
+    "rules": [],
+    "rules_explanation": "Whether buffs stack is dependent on the wording of the features, items, and spells being used. The rule on bonuses is that they do not stack if from the same source, but if there are different conditions for each then they are allowed to stack and therefore the question is unanswerable without further information"
+  },
+  {
+    "question": "If a rule states that 'They can attack' while in melee, does that mean it is with advantage or not?",
+    "answer": "The rules question cannot be answered using only the SRD. While melee attacks within 5 feet of a hostile enemy grants disadvantage on attack rolls, this is overridden if some ability grants advantage on the attack roll.",
+    "rules": [],
+    "rules_explanation": "A number of factors are used to determine advantage and disadvantage on attack rolls. The proximity of an enemy when using ranged weapons is only one factor."
+  },
+  {
+    "question": "Taliesin states: It doesn't say size restriction. What are the rules for range or size restrictions?",
+    "answer": "The question does not contain enough information to answer. Each effect with a range or size restriction will be listed in the description of the spell, effect, or item. Restrictions are effect specific.",
+    "rules": [],
+    "rules_explanation": "There is no generic rule for sizes, or range restrictions, they have to come from a specific rule on an item/spell etc"
+  },
+  {
+    "question": "A character has a condition which gives disadvantage on attacks, and an ally does something which gives advantage. Does an action that is an athletics roll receive advantage?",
+    "answer": "Using Ability Scores > Ability Checks: For every ability check, the GM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An athletics check is a specific type of ability check, and a character's skill in Athletics does not make it exempt from the presence of advantage or disadvantage."
+  },
+  {
+    "question": "Is turning off the hold on the hammer a bonus action or an action?",
+    "answer": "This rules question cannot be answered using only the SRD. There is nothing about holding a hammer that takes an action. This depends on the features of whatever item or spell the hammer is a result of.",
+    "rules": [],
+    "rules_explanation": "The action used or not used to hold the hammer depends on whatever is creating the hammer in the first place."
+  },
+  {
+    "question": "Taliesin asks, '...I don't have advantage on this because it's just saving throw and skill checks, correct, Marisha?' What are the rules for advantages or attacks just--?",
+    "answer": "Using Ability Scores > Advantage and Disadvantage: Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules state only that you gain advantage on saving throws, ability checks, or attack rolls."
+  },
+  {
+    "question": "I'm in my Form of Dread, so I go to crack my neck in fury, but my head just turns a little too far and goes (cracking)' The DM replies 'This loud (cracking) snap sound echoes through the buzz.' Can I still move?",
+    "answer": "This question does not have a clear answer in the SRD as it involves how far a head can turn, and what counts as \"breaking\" a neck and whether that results in the character being 'Incapacitated' (which would result in you being unable to move). The GM must therefore make a judgement call on what exactly happens",
+    "rules": [],
+    "rules_explanation": "The rules are open to interpretation, so the outcome is entirely up to DM adjudication."
+  },
+  {
+    "question": "A DM asks, 'You haven't divided up our spell slot stuff?' What does this reference?",
+    "answer": "This refers to characters' access to a set amount of spell slots that can be used between long rests. Characters use these spell slots to power spells.",
+    "rules": [],
+    "rules_explanation": "Characters use spell slots to cast spells, so having those to distribute is important"
+  },
+  {
+    "question": "Does a character's class level have any effect on their ability to move or attack?",
+    "answer": "This rules question cannot be answered using only the SRD. Some classes, subclasses, and features can increase movement or the amount of attacks.",
+    "rules": [],
+    "rules_explanation": "Some features are exclusive to a given class, and can't be generalized across the game, while others can be learned by anyone through feats."
+  },
+  {
+    "question": "Does everyone who's affected by a Cone of Cold take 24 points of damage, or is that reduced because I succeeded?",
+    "answer": "A spell description for an area-of-effect spell states what happens on a success or failure, and damage depends on that save.",
+    "rules": [],
+    "rules_explanation": "Without knowing the spell, damage is determined by the effect of the spell."
+  },
+  {
+    "question": "The scene is in a dark space and Imogen is speaking with Vordo, the Golden Weaver. Is it true or not I can get an advantage on that roll if I know that tether is something I can feed on. What rule applies?",
+    "answer": "The question does not contain enough information to answer. Unless a specific rule states that feeding on the tether grants advantage, the request would need to be determined and adjudicated by the DM.",
+    "rules": [],
+    "rules_explanation": "There are class skills which may grant advantage, but nothing that states feeding on a tether provides advantage"
+  },
+  {
+    "question": "A player states, 'If I am this-- well, I have Spell Sniper. Would this be disadvantage being base-to-base on spells?' What is the rule on Spells and disadvantages when at the base?",
+    "answer": "Combat > Making an Attack > Ranged Attacks in Close Combat: Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "The disadvantage is dependent on where the character is positioned relative to hostile targets, but spell sniper is referenced which may effect this roll"
+  },
+  {
+    "question": "A character asks, 'But if it's something that she has to make a saving throw for, would that be at disadvantage?' What does she mean?",
+    "answer": "A character may have abilities that impose disadvantage on their opponents' saving throws. To determine whether disadvantage is imposed, it is important to know the ability, skill, or condition that is granting it.",
+    "rules": [],
+    "rules_explanation": "Without reference to the source of the possible disadvantage, or which creature has the condition that is causing the imposed disadvantage, it is impossible to determine. However, the general idea is that some effects can grant disadvantage on saving throws."
+  },
+  {
+    "question": "A character states: \"but that's a failure. So your attacks are at disadvantage for your turn and Predathos' attacks have advantage on you.\" What condition does this sound like and what are the rules?",
+    "answer": "Without more information about the situation, it is impossible to determine the exact effects. It sounds similar to the frightened condition which imposes disadvantage on ability checks and attack rolls while the source of the fear is within line of sight, however, the details would depend on which specific state is applying these buffs.",
+    "rules": [],
+    "rules_explanation": "Multiple conditions can impose advantage and disadvantage on attacks, the rules are based on whichever effect is causing it."
+  },
+  {
+    "question": "The speaker says, 'All right, so Orym flips around Seedling in his hand and presses the hilt against the back of this creature's neck, and his fingers splay wide. Come on, Imogen. Come on! Small black blooms spread out from his hand and little dark tendrils through the crystal wrap around this creature's neck as I cast Hex.' How do I add damage from Hex in that case?",
+    "answer": "A character must hit with an attack to add the Hex damage to the target. Hex does 1d6 necrotic damage each time you hit the target with an attack.",
+    "rules": [],
+    "rules_explanation": "The extra damage from Hex only applies on hit, not merely on the casting of the spell."
+  },
+  {
+    "question": "The action miracle devourer has been used. What action can be used after it.",
+    "answer": "This question cannot be answered using only the SRD. The available actions after using the ability depend on the ability's text",
+    "rules": [],
+    "rules_explanation": "Each ability dictates what you can and cannot do after use, so without knowing what that is, or what the actions available are, it's unanswerable. For example, you can normally take one action per turn. If Miracle Devourer takes an Action you would not have another Action to take."
+  },
+  {
+    "question": "A situation is described and then a player asks 'Does it get two rounds per'. What does \"does it get\" mean?",
+    "answer": "The SRD does not have rules for 'two rounds per' but it is likely referencing taking two turns.",
+    "rules": [],
+    "rules_explanation": "The DM needs to explain what it is that is being attempted."
+  },
+  {
+    "question": "A character is trying to cast Telepathic Bond. The DM asks 'because this space is based in your will, roll and add your charisma modifier to it.' What rule is this using?",
+    "answer": "The SRD contains no explicit rules about what happens in a space based on will. Since this is a demi-plane created by the will of a character, the normal rules of spellcasting may be subject to change or adjustment. This modification would be covered by the Dungeon Master responsibilities.",
+    "rules": [],
+    "rules_explanation": "Because Telepathic bond is cast in a demi-plane that operates differently than the prime material, the normal rules of spellcasting may not apply."
+  },
+  {
+    "question": "What if you have multiple instances of temporary hitpoints?",
+    "answer": "Combat > Damage and Healing > Temporary Hit Points: Healing can't restore temporary hit points, and they can't be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones.",
+    "rules": [
+      "Combat > Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "Temporary Hit Points are not cumulative and one must pick the larger amount."
+  },
+  {
+    "question": "What roll is required to follow, Fearne, the Matron of Ravens, and what kind of space is it.",
+    "answer": "There is no indication in the text that following the Matron or Ravens requires a roll. She is followed to a temporary space to talk.",
+    "rules": [],
+    "rules_explanation": "The rules do not indicate that entering or following requires a skill or action"
+  },
+  {
+    "question": "If Fearne was attacked, what is the ruling?",
+    "answer": "This question cannot be answered using only the SRD as the creature stats of Fearne and the attacker are unknown. It does state that Fearne's allie will not be attacked.",
+    "rules": [],
+    "rules_explanation": "All combat is resolved using the player's stat block and comparing it against an enemy. There's nothing that would detail that Fearne is being attacked and what her stats are to make a comparison."
+  },
+  {
+    "question": "With a critical hit, what gets multiplied and what doesn't, for 5E, what happens with a critical hit?",
+    "answer": "Combat > Damage and Healing > Damage Rolls > Critical Hits: When you score a critical hit, you get to roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "All damage dice are doubled on a critical hit. Modifiers are added normally."
+  },
+  {
+    "question": "The rules state that a push is not an attack of opportunity, does that apply to something that telekinetically shoves a player?",
+    "answer": "Combat > Making an Attack > Melee Attacks > Opportunity Attacks: You can make an opportunity attack when a hostile creature that you can see moves out of your reach. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "If you are moved by someone or something, and it is not a result of your movement, you do not provoke an attack of opportunity. The movement must not use your Action or Reaction. Telekinetic movement does not trigger this."
+  },
+  {
+    "question": "While in a space with both total cover and an ally, does a disadvantage still apply?",
+    "answer": "This rules question cannot be answered using only the SRD. It does not contain the nature of the attack as well as how the disadvantage was applied. There may be specific rules about actions depending on the class ability being used.",
+    "rules": [],
+    "rules_explanation": "Certain abilities will override the condition of cover, but there is no basis to answer this as it's too vague."
+  },
+  {
+    "question": "You are trying to quicken a spell. What action is required for mirror image?",
+    "answer": "The SRD does not state that Mirror Image requires a separate spell for Form of Dread, but if Form of Dread requires another spell, you must follow all the rules for casting a spell.",
+    "rules": [],
+    "rules_explanation": "Form of Dread does not state that it costs an additional spell to cast it. Without it, the question is unanswerable."
+  },
+  {
+    "question": "A PC asks, 'Am I in an aura or something?' What can they sense from being in an aura?",
+    "answer": "The question is unanswerable without knowing which specific aura they are speaking of. Auras have different effects.",
+    "rules": [],
+    "rules_explanation": "There is no general rule for what happens when you are in an aura, it depends on the specific aura."
+  },
+  {
+    "question": "Does it take an action to put on this mask?",
+    "answer": "This rules question cannot be answered using only the SRD. It is a 'use item thing'. An action may be used, but it is unknown. More information is needed.",
+    "rules": [],
+    "rules_explanation": "Putting on a mask may take an action to use, or it may have special properties which alter the rule. Unless more information is given, the question cannot be answered."
+  },
+  {
+    "question": "Can the turn to Braius get re-rolled?",
+    "answer": "This question cannot be answered using only the SRD. This would depend on an ability or effect in play, not on a general case.",
+    "rules": [],
+    "rules_explanation": "Unless something specifically grants a reroll to a turn, they cannot be generally re-rolled."
+  },
+  {
+    "question": "What are the rules for temporary levels?",
+    "answer": "The SRD contains no rules for \"temporary levels\".",
+    "rules": [],
+    "rules_explanation": "A mechanic of temporary levels is homebrew and is not part of the core SRD rules"
+  },
+  {
+    "question": "If the entity is inorganic, what bonuses and disadvantages apply to saves?",
+    "answer": "This rules question cannot be answered using only the SRD. There are no general rules for a creature with that composition and saves. It would depend on any features or spells currently affecting the entity.",
+    "rules": [],
+    "rules_explanation": "The effects on saves are all dependent on spells or abilities being in play."
+  },
+  {
+    "question": "If an attack requires to be within five feet and is slowed, how does that function?",
+    "answer": "This rules question cannot be answered using only the SRD. It is possible for many different factors to impact a creature's move speed. This would depend on the specifics of whatever caused the speed to be halved.",
+    "rules": [],
+    "rules_explanation": "The question does not include any information about what the rules are. Without reference to an ability or spell, this question is unanswerable."
+  },
+  {
+    "question": "After a long rest, how does one choose between a one or a zero for Rollies and breaking concentration?",
+    "answer": "This question cannot be answered using only the SRD. As Rollies is not an SRD rule, there are no ways to determine what dice are rolled or the DC that is required to beat it",
+    "rules": [],
+    "rules_explanation": "Rollies are an invented game mechanic and so not specified in the rules"
+  },
+  {
+    "question": "The text states: They are. As many as he wants. As many as he wants, it can.' What is being referenced?",
+    "answer": "This rules question cannot be answered using only the SRD. It is an incomplete and not fully sensical question. It is referencing some undefined action or feature.",
+    "rules": [],
+    "rules_explanation": "It is impossible to derive from the SRD what the statement is referring to as the context is missing. Nothing in the rules is able to allow actions without limits"
+  },
+  {
+    "question": "A character uses their reaction after being attacked. Can they still move?",
+    "answer": "This rules question cannot be answered using only the SRD, as it would depend on what type of attack was used that made the player use their reaction, as some may force the player to be unable to move due to being stunned.",
+    "rules": [],
+    "rules_explanation": "Some conditions may restrict movement. Without further information, one cannot generally say whether or not movement is possible."
+  }
+]

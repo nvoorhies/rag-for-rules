@@ -1,0 +1,307 @@
+[
+  {
+    "question": "A level 11 Barbarian (Str 18, Con 16) tries to rage. Is this possible?",
+    "answer": "Yes. The SRD states that \"On your turn, you can enter a rage as a bonus action\" and the barbarian table indicates this character level has 4 rages.",
+    "rules": [
+      "Classes > Barbarian > Rage",
+      "Classes > Barbarian > The Barbarian > Level 11"
+    ],
+    "rules_explanation": "The barbarian class description says that you can enter a rage using a bonus action and the table for the barbarian class indicates that this level character has access to rages."
+  },
+  {
+    "question": "A level 11 Barbarian (Str 18, Con 16) is knocked out of the air as the statue impacts and then slams them into the building across that way. What is my condition?",
+    "answer": "Restrained. The rule state that you are restrained until you manage to break free, because you are now partially covered by the statue.",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "The game description was that the creature is now partially covered by the statue that has hit them. The condition for this situation is restrained."
+  },
+  {
+    "question": "A level 11 Barbarian (Str 18, Con 16) has 'Holy Fists of Beauregard' active, and is subject to bludgeoning damage. What saving throw is required to maintain concentration? Is advantage granted?",
+    "answer": "It's a constitution saving throw with advantage, and the DC is half the damage taken.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The game description indicates that the saving throw required is a constitution saving throw. A character hit by an attack is said to get advantage on this roll."
+  },
+  {
+    "question": "A level 11 Barbarian (Str 18, Con 16) wants to do a bonus action involving imagination is this possible?",
+    "answer": "Only if a class feature, spell, or other ability allows you to do something with a bonus action related to imagination. There is no general rule that covers imagination and bonus actions.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The rules state that you can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. There is no other mention of imagination in the SRD document."
+  },
+  {
+    "question": "A level 11 Barbarian (Str 18, Con 16) wants to jump. Which attribute is used and what is the distance possible.",
+    "answer": "A long jump depends on Strength score. The long jump distance can cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump.",
+    "rules": [
+      "Using Ability Scores > Strength > Jumping"
+    ],
+    "rules_explanation": "The SRD document indicates that the distance of the long jump depends on the Strength attribute. I can cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump."
+  },
+  {
+    "question": "A level 11 Barbarian (Str 18, Con 16) has taken some missteps in their life that have led you to this moment, and is subject to grief. What kind of save is required?",
+    "answer": "It is necessary to perform a dexterity saving throw. The rules explain that 'I need you to go ahead and make a dexterity saving throw'.",
+    "rules": [],
+    "rules_explanation": "This situation has no general applicable rule; instead, the game master has provided this information."
+  },
+  {
+    "question": "A level 11 Barbarian (Str 18, Con 16) is asked how many times can you Battle Cry in a day? .",
+    "answer": "The number of times Battle Cry can be used in a day depends on the specific class ability or feat that grants the Battle Cry feature. The SRD does not provide this information.",
+    "rules": [],
+    "rules_explanation": "This information is not available in the SRD, and would depend on a feat or ability not listed in the document."
+  },
+  {
+    "question": "A level 11 Barbarian (Str 18, Con 16) has rage persistent. Does it check if the character is attacked, or attacked?",
+    "answer": "The rules for persistent rage state that the rage does not end unless the character falls unconscious or chooses to end it. As long as the character doesn't fall unconscious or end the rage, it continues even if the character is not attacked or does not attack.",
+    "rules": [
+      "Classes > Barbarian > Primal Path > Persistent Rage"
+    ],
+    "rules_explanation": "As a persistent rage ability, the rules clarify that only falling unconscious or voluntarily ending the rage stops the effect."
+  },
+  {
+    "question": "A level 11 Barbarian (Str 18, Con 16, Int 12) is being drawn back to the surface in the astral sea. How far can they move?",
+    "answer": "If the aether that allows you to coast through the air becomes thin and you find yourselves, those who are aloft, slowly drawn back to the surface, then the player's speed is 35 feet.",
+    "rules": [],
+    "rules_explanation": "The player can move 35 feet. This is determined based on what is said in the transcript. It has nothing to do with abilities."
+  },
+  {
+    "question": "At the end of the level 11 Wizard (Int 20, Cha 16)'s turn, Caduceus uses a legendary action to use Gaze of the Somnovem. Is this a valid turn?",
+    "answer": "It is not a valid turn. The rules state that A legendary creature can take a certain number of special actions outside its turn and Only one legendary action option can be used at a time and only at the end of another creature's turn.",
+    "rules": [
+      "Monsters > Legendary Creatures > Legendary Actions"
+    ],
+    "rules_explanation": "The rules of the game restrict taking legendary actions to the end of another creature's turn. Therefore it is only valid to trigger it at that time."
+  },
+  {
+    "question": "The level 11 Wizard (Int 20, Cha 16) and others are in a brief vision that pulled up there, and then as soon as you stood there, you looked confused as to why you were there. You glance right up into the massive bulbous form of Cognouza Incarnate.. You were then asked what can you do. What actions are possible at this time?",
+    "answer": "You can do a little right now, and you can cast for the moment, you're just going to cast a spell, and then you can also take your movement, if you'd like to move.",
+    "rules": [],
+    "rules_explanation": "The game transcript indicates that a brief visition occurred and that certain actions are possible as a result. This is not based on any specific rule, and is unique to the situation in the game."
+  },
+  {
+    "question": "The level 11 Wizard (Int 20, Cha 16) is subject to Fastidan's gaze. What kind of saving throw is required?",
+    "answer": "A constitution saving throw is required.",
+    "rules": [],
+    "rules_explanation": "This situation has no general applicable rule; instead, the game master has provided this information."
+  },
+  {
+    "question": "The level 11 Wizard (Int 20, Cha 16) is going to throw a small flask or bottle at an enemy. What kind of attack roll is made?",
+    "answer": "Make a ranged attack against a creature or object, treating the flask/bottle as an improvised weapon. On a hit, the target is covered in [type of liquid].",
+    "rules": [
+      "Equipment > Adventuring Gear > Acid",
+      "Equipment > Adventuring Gear > Alchemist's Fire"
+    ],
+    "rules_explanation": "The rules specify that small thrown objects such as vials of acid are treated as improvised weapons. The rules for these thrown weapons involves making a ranged attack roll."
+  },
+  {
+    "question": "What does the restrained condition imply?",
+    "answer": "A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed. Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage. The creature has disadvantage on Dexterity saving throws.",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "The restrained condition has specific characteristics as listed in the conditions section of the SRD document."
+  },
+  {
+    "question": "The Bard (Cha 16) has used bardic inspiration on Essek. Does Essick need to make a roll?",
+    "answer": "Yes. The rules describe that the creature is required to roll a d20.",
+    "rules": [
+      "Classes > Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "The rules mention the use of a d20 when describing bardic inspiration."
+  },
+  {
+    "question": "The Thief is hit 5 times in 1 round. Can they use Rogue Evasion on each hit?",
+    "answer": "A character can only take one reaction per round.",
+    "rules": [
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "The rules for reactions state that you can only take one reaction per round, therefore they could not apply evasion to each hit."
+  },
+  {
+    "question": "The Wizard (Int 20, Cha 16) wants to imagine an attack. Does the amount of volume the target is affect the chance of that ability working?",
+    "answer": "The sheer volume of what you were attempting was fairly difficult.",
+    "rules": [],
+    "rules_explanation": "This answer is based on the situation in the transcript, and does not apply directly to the rules."
+  },
+  {
+    "question": "If a Bard (Cha 16) tries to grapple someone to move them in the Astral Sea does that have a technical implication?",
+    "answer": "The state is restrained.",
+    "rules": [],
+    "rules_explanation": "The technical implementation of the grapple mechanic is a state of restraint as clarified by the game master."
+  },
+  {
+    "question": "The level 13 Warlock (Cha 18) casts Marine Layer. What is the extent of that spell?",
+    "answer": "There is no such spell as Marine Layer in the SRD document. The extent of this 'spell' cannot be determined.",
+    "rules": [],
+    "rules_explanation": "The SRD document does not have any mention of a spell known as 'Marine Layer'."
+  },
+  {
+    "question": "The 13th Level Warlock (Cha 18) casted Marine Layer, can they see Lucien?",
+    "answer": "Yes, because they can see him, and he can't see you.",
+    "rules": [],
+    "rules_explanation": "This situation has no general applicable rule; instead, the game master has provided this information."
+  },
+  {
+    "question": "A level 9 Paladin casts lay on hands to save a dying thief but there is also an anti-magic field. How would you cast the spell?",
+    "answer": "Lay on Hands is not a spell and is not impacted by anti-magic fields. As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.",
+    "rules": [
+      "Classes > Paladin > Lay on Hands"
+    ],
+    "rules_explanation": "The use of Lay on Hands is a class ability of the paladin class. There is no rule to prevent it's use in an anti-magic field as it is not a spell."
+  },
+  {
+    "question": "What is the effect of a wisdom drain?",
+    "answer": "There was no mention of wisdom drain, only a mind attack.",
+    "rules": [],
+    "rules_explanation": "There was no rule about wisdom drain mentioned."
+  },
+  {
+    "question": "A creature is subjected to a necrotic attack. What is the result on the attacker?",
+    "answer": "There is no general rule specifying the result on the attacker when a creature is subject to a necrotic attack.",
+    "rules": [],
+    "rules_explanation": "There was no rule about necrotic attacks having any particular effect on the attacker."
+  },
+  {
+    "question": "Given a cleric is hit with an attack, and as a reaction casts Hellish Rebuke. How does that work?",
+    "answer": "It does not work. You cannot cast hellish rebuke if you are unconscious. As soon as two attacks hit, Jester is slain and the last two attacks do not go through.",
+    "rules": [
+      "Spellcasting > Casting Time > Reactions",
+      "Appendix PH-A: Conditions > Unconscious"
+    ],
+    "rules_explanation": "The spellcasting rules clarify that a reaction requires you to be able to take actions, which is not possible in the unconcious condition."
+  },
+  {
+    "question": "A Fighter is in the marine layer can the eyes of somnoven still target them?",
+    "answer": "Luctus, who can peer through here tries to follow where those blasts came from, but cannot see through the fog. So cannot target Fjord.",
+    "rules": [],
+    "rules_explanation": "This situation has no general applicable rule; instead, the game master has provided this information."
+  },
+  {
+    "question": "A Level 17 Oath of Devotion Paladin is given a ring of fire resistance. What effect does that have on flame strike if cast on them?",
+    "answer": "The spell save on the saving throw against Flame Strike would be at +5, this is found in the rules on combining magical effects. Then the target has resistance to fire damage, meaning it takes half damage on successful saving throw and is applied after all other modifiers. The spell has a saving throw. The spell does both fire and radiant damage, and only the fire portion is reduced.",
+    "rules": [
+      "Spellcasting > Combining Magical Effects",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The rules describe spell casting saves to be modified by the proficiency bonus, this makes for a saving throw of +5. There is also a note of how to apply modifiers, including resistance to a certain kind of damage. The ring does nothing to the radiant damage."
+  },
+  {
+    "question": "The Level 9 Paladin tries Divine Intervention. Is there advantage?",
+    "answer": "No. There is no advantage, Jester.",
+    "rules": [],
+    "rules_explanation": "There is no known rule to provide advantage in this situation."
+  },
+  {
+    "question": "The level 9 paladin asks the DM what are the chances to succeed for divine intervention at level 10. .",
+    "answer": "See if you can get 15% or below on a hundred percentile dice.",
+    "rules": [],
+    "rules_explanation": "This information is unique to the context of the game."
+  },
+  {
+    "question": "A level 17 Oath of Devotion Paladin who was charmed by the somnovem is damaged and wants to stop being charmed. Can they make a roll at that time?",
+    "answer": "The game transcript indicates that a save can happen at that point, so yes you can roll.",
+    "rules": [],
+    "rules_explanation": "In this specific game it was possible to roll a saving throw at the point of damage. There is not, however, a general rule in the SRD document to draw from."
+  },
+  {
+    "question": "The BBEG vanished from next to Beauregard and appears instead next to another character, what is this ability called?",
+    "answer": "Fold Space.",
+    "rules": [],
+    "rules_explanation": "In this specific instance it is called Fold Space. This is not from the srd."
+  },
+  {
+    "question": "The Eyes of the Somnovem are using gaze attacks. What kind of saving throw do they impose?",
+    "answer": "It varies. The Wisdom saving throw. A constitution saving throw. An intelligence saving throw.",
+    "rules": [],
+    "rules_explanation": "There is no one rule covering the type of save applied to a gaze attack in general. It depends on the specific gaze attack."
+  },
+  {
+    "question": "What is the DC save against gaze of gaudios?",
+    "answer": "This information is not contained in the SRD document.",
+    "rules": [],
+    "rules_explanation": "The specifics of gaze attacks is up to the game master to invent. Therefore the information to answer this question is not present in the srd."
+  },
+  {
+    "question": "A character can't do any damage because nothing's in melee with him except for me. They will use their action to imagine three tarot cards appear before him and flip over. Can they also attempt to hide?",
+    "answer": "I'm going to try to focus on Lucien. I can't really do any damage because nothing's in melee with him except for me...Well, you didn't use your bonus action to hide after firing, so you're not hidden.",
+    "rules": [],
+    "rules_explanation": "The rules do not indicate that you can take two actions at once. The game master has specified this character could not take the hide action because they had not used a bonus action."
+  },
+  {
+    "question": "Can a level 5 Ranger use both Extra Attack and Cunning Actions.",
+    "answer": "Cunning Action is a bonus action; a turn can only include one bonus action, and attacking does not use bonus actions.",
+    "rules": [
+      "Classes > Rogue > Cunning Action",
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "Rangers are not rogues, but both have access to bonus actions for different purposes, but turns can only have one bonus action."
+  },
+  {
+    "question": "Are there any penalties for using a crossbow while prone?",
+    "answer": "A prone creature's attack rolls have disadvantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The 'prone' condition causes attack rolls to have disadvantage."
+  },
+  {
+    "question": "what legendary action are left for lucien to use?",
+    "answer": "Legendary actions come back.",
+    "rules": [],
+    "rules_explanation": "All legendary actions are available again after the beginning of Lucien's turn."
+  },
+  {
+    "question": "Can Caduceus cast Freedom of Movement to remove the grapple?",
+    "answer": "Yes.",
+    "rules": [
+      "Spell Descriptions > Freedom of Movement",
+      "Appendix PH-A: Conditions > Restrained",
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "Although Freedom of Movement is not included in the SRD. If I were DM, I would rule that it ends the restrained condition. The spell says 'Your movement is not restricted', and the rule of the restrained condition says 'A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.' Thus the spell would end the effect."
+  },
+  {
+    "question": "Does Fredom of Movement prevent Reactions.",
+    "answer": "No, it doesn't. It just means your speed cannot be reduced.",
+    "rules": [
+      "Spell Descriptions > Freedom of Movement"
+    ],
+    "rules_explanation": "Freedom of Movement prevents the slowing or stopping of movement speed, but does not otherwise impact Reactions."
+  },
+  {
+    "question": "Can a player that is 35 feet up be targeted",
+    "answer": "This can be determined from the area of effect of the ability being used. Generally it would be possible.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "The rules for area of effect clarify the area that it can touch and there's nothing to denote a point above can't be targeted."
+  },
+  {
+    "question": "Is there a disadvantage to attacking a creature under Marine Layer",
+    "answer": "No, there is no disadvantage to attacking a creature inside a cloud created by Marine Layer.",
+    "rules": [],
+    "rules_explanation": "No rule specifies the mechanical effect of the spell 'Marine Layer'."
+  },
+  {
+    "question": "If an effect provides a bonus on strength saving throws what is the modifier?",
+    "answer": "A strength saving throw modifier is the character's Strength modifier.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Saving throws are based on the relative ability modifier, in this case it's the strength ability modifier."
+  },
+  {
+    "question": "What does the slowed condition imply? Can you move with it?",
+    "answer": "You can either take a bonus action or an action on your turn, but not both. And you move at half speed.",
+    "rules": [],
+    "rules_explanation": "The characters are using the slowed condition outside of the SRD.  Therefore, the effect of that condition on game mechanics must be determined from the effects applied by the DM and can not be answered with general rules. "
+  },
+  {
+    "question": "What kind of save is Spirit Guardians? When is that save applied?",
+    "answer": "Spirit Guardians is a wisdom save. When a creature enters the area for the first time on a turn, it must attempt the save.",
+    "rules": [],
+    "rules_explanation": "The type of saving throw is a Wisdom save as explained by one of the players. The rules state it does not take it immediately, but at the start of its turn, it will."
+  }
+]

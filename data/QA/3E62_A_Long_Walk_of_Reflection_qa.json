@@ -1,0 +1,66 @@
+[
+  {
+    "question": "What kind of check is required to look for the best place to set up camp?",
+    "answer": "A Wisdom (Survival) check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Looking for a suitable place to set up camp falls under the general use of the Survival skill, which is associated with Wisdom."
+  },
+  {
+    "question": "If the level 1 warrior, is using smith's tools to carve stars into fruit leather, what kind of ability check is required?",
+    "answer": "A Dexterity or Performance check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Creating a carved pattern falls into either dexterity for carving or performance for visual display."
+  },
+  {
+    "question": "If a 1st level Wizard is trying to put a 4th level spell, Dragon's Breath, into a crossbow, what kind of ability check is required?",
+    "answer": "An Arcana check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Placing an enchantment is an ability check, and enchantment magic falls under the purview of the Arcana skill."
+  },
+  {
+    "question": "A level 4 Non-proficient character has zero modifier to animal handling, and performs an animal handling check, what is there proficiency bonus?",
+    "answer": "The proficiency bonus is +2.",
+    "rules": [
+      "Beyond 1st Level > Proficiency Bonus"
+    ],
+    "rules_explanation": "A fourth level character is a proficiency bonus of +2 to skills in which they are proficient. Because the character is not proficient, no proficiency bonus is added to the roll, the fact that there is a general proficiency bonus for the level of the character is noted for clarity."
+  },
+  {
+    "question": "Level 4 Ashton wants to meditate. What kind of save is required?",
+    "answer": "A wisdom save is required.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The DM calls for the save with no other context."
+  },
+  {
+    "question": "The book glides off. What kind of wisdom check is required?",
+    "answer": "A wisdom check for survival is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Because they are looking for the best place to set up camp, it is wisdom (survival)"
+  },
+  {
+    "question": "If a level 4 is being asked if it can do age check on bones from a long time ago, what check is requested?",
+    "answer": "An Investigation or Nature check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Determining the age of an item involves checking the details of the scene (investigation) and knowledge of natural decay (nature)."
+  },
+  {
+    "question": "For a 3rd level character to take on new class, do they need a strength score of 13 or higher?",
+    "answer": "It depends on the new class. To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one.",
+    "rules": [
+      "Beyond 1st Level > Multiclassing > Prerequisites"
+    ],
+    "rules_explanation": "There are ability score minimums to multiclass, and they are different for every class."
+  }
+]

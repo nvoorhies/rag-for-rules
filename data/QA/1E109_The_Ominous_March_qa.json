@@ -1,0 +1,178 @@
+[
+  {
+    "question": "When the Ranger takes a moment and concentrates and you can sense the direction and distance seems to be approximately the same. He then takes about five minutes or so to concentrate, and while the distance and direction is relatively the same, there is very faint movement. What rules are used for this type of skill check?",
+    "answer": "The rules for the Ranger's skill check include determining which skill is applicable, and determining whether there is a target value, and what modifiers to apply to the target's passive score.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Ranger > Class Features > Spellcasting"
+    ],
+    "rules_explanation": "The Ranger is using a magical or class-based sense to determine information. The Dungeon Master determines what ability is applicable for the skill check."
+  },
+  {
+    "question": "The character is wearing the ring and they are all gathered about, you heal the footfalls, another, another, another, the approach of level 12, 16th and 19th level level Paladin. How long does it take for to attuned?",
+    "answer": "Attuning to an item requires a creature to spend a short rest focused on only that item while being in physical contact with it (this can't be the same short rest used to learn the item's properties). This focus can take the form of weapon practice (for a weapon), meditation (for a wondrous item), or some other appropriate activity. If the short rest is interrupted, the attunement attempt fails. Otherwise, at the end of the short rest, the creature gains an intuitive understanding of how to activate any magical properties of the item, including any necessary command words.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "The rules for attuning to a magic item specify the required time and conditions for attunement."
+  },
+  {
+    "question": "Is it a check or saving throw to be used for Manners?",
+    "answer": "That's not explicitly identified. It needs to be a strength ability check, because there's not.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "There was ambiguity in the statement, so further clarification of game state from the Dungeon Master was necessary."
+  },
+  {
+    "question": "For a 4th level circle of the Land Druid spell, Spell Scroll how many days does it take?",
+    "answer": "The crafting of spell scrolls is a downtime activity, taking weeks and weeks.",
+    "rules": [
+      "Beyond 1st Level > Downtime Activities > Crafting"
+    ],
+    "rules_explanation": "The crafting rules specify that only 5gp of progress can be made each day."
+  },
+  {
+    "question": "The Band of Shrouds, while it's attuned to you and on you, within 60 feet of you at all times, divination magic is inert and cancelled. It only affects those nearby, so if you are to strike, perhaps it's best you do so away from his vision, and we distract. Does this need to be attuned?",
+    "answer": "Yes it does need to be attuned.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "Many powerful items require attunement for their magical properties to take effect."
+  },
+  {
+    "question": "A first level charater using the rage ability. While raging, what the character gain? I'm a not wearing heavy armor.",
+    "answer": "While raging, you gain the following benefits if you aren't wearing heavy armor: You have advantage on Strength checks and Strength saving throws. When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table. You have resistance to bludgeoning, piercing, and slashing damage.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The rage rules details the benefits, including not wearing heavy armor."
+  },
+  {
+    "question": "Can I do a nature check to see if this is above my capabilities for The unnatural form of weather pattern?",
+    "answer": "You get the sense that this is itself a minor miracle.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Druid > Class Features > Spellcasting"
+    ],
+    "rules_explanation": "A Nature check is used to determine information about natural phenomenon."
+  },
+  {
+    "question": "Keyleth, how big would a creature be if it had footprints approximately 150 to 200 feet across?",
+    "answer": "Based on your experience with various creatures that leave large tracks you've dealt with or hunted in your history with the Ashari, it's *big*. The legs generally are pretty thick for a creature of immense size because it has to support all that weight, but if each footfall, crater here is about 150, 200 feet wide, you can surmise the creature is hundreds of feet tall.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Nature"
+    ],
+    "rules_explanation": "The Druid uses a Nature check to determine the size of a creature from its tracks."
+  },
+  {
+    "question": "How many days does it take me, as level 4, to make a 4th-level Spell. Spell scroll, I'm a Druid.",
+    "answer": "That's going to be quite a while, that's weeks and weeks and weeks. That's a downtime activity.",
+    "rules": [
+      "Beyond 1st Level > Downtime Activities > Crafting"
+    ],
+    "rules_explanation": "The crafting rules in the Player's Handbook indicate that it would take a very long time for a character to craft a scroll given the limited progress that can be made each day."
+  },
+  {
+    "question": "Did we get told for these trammels, for these harpoons, that they need to be wielded by the person associated to their gods, or can Grog chuck them all?",
+    "answer": "From what you understand there was no specification of that. It was more the fusing of the divine energy within the trammels' creation grants it with the power. The means of delivering it doesn't seem to be as important.",
+    "rules": [],
+    "rules_explanation": "There is no game mechanic associated, Dungeon Master provides information."
+  },
+  {
+    "question": "But it is a melee weapon,the trammels harpoons?",
+    "answer": "It's javelin-like; it could be thrown.",
+    "rules": [],
+    "rules_explanation": "There is no game mechanic associated, Dungeon Master provides information."
+  },
+  {
+    "question": "What's a fair amount of history checks to understand history?",
+    "answer": "If you feel confident in your ability to understand history. I would say putting it this way, those who have researched the lands that would probably be Percival and Scanlan.",
+    "rules": [],
+    "rules_explanation": "There is no game mechanic associated, Dungeon Master provides information."
+  },
+  {
+    "question": "Keyleth, can I do a nature check, after Seeing the damage that was described on the outside of the mountain range? Yeah?",
+    "answer": "What you can tell from a nature check is that these are not natural formations in the ground. These are blunt trauma to the ground that has caused these large craters.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Nature"
+    ],
+    "rules_explanation": "The player is using his nature skill, to determine how the damage was inflicted."
+  },
+  {
+    "question": "Can I do a nature check to find out how big and angry is this guy?.",
+    "answer": "Based on your experience with various creatures that leave large tracks you've dealt with or hunted in your history with the Ashari, it's *big*. The legs generally are pretty thick for a creature of immense size because it has to support all that weight, but if each footfall, crater here is about 150, 200 feet wide, you can surmise the creature is hundreds of feet tall.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Nature"
+    ],
+    "rules_explanation": "A nature check is used to determine information about terrain and animals."
+  },
+  {
+    "question": "Allura! Do you have any way, any *thing*, any suggestion for helping us avoid his grasp again? Because if it went the way it went the last time we are fucked right out of the gate.",
+    "answer": "There are ways to make sure those bindings don't hold you still. There are magics that can prevent that. And if your enemy is as strong a magic user as I know, he will use distance to his advantage. Close that distance and make it your advantage. I know not quite what he's capable of in his new ascended form, and that scares me. But strike quickly, strike true. Everything you've got, work together. Communicate. And anything you can do to allow yourself preparation, and the jump on this fray, do it. That ring that Vord gave you, that'll be a boon enough. If you can catch him off guard, that might mean everything.",
+    "rules": [],
+    "rules_explanation": "This is advice given by a friendly NPC, not an action following specific rules."
+  },
+  {
+    "question": "You said there were kinds, but I want to make sure.",
+    "answer": "Certainly, there are a few in your midst that you can utilize. There's a spell called Freedom of Movement that can prevent being held or paralyzed in that way.",
+    "rules": [],
+    "rules_explanation": "This is advice given by a friendly NPC, not an action following specific rules."
+  },
+  {
+    "question": "And Death Ward lasts for eight hours?",
+    "answer": "Death Ward? Yes! They're both 4th-level, though.",
+    "rules": [],
+    "rules_explanation": "There is no check or skill associated, only verbal confirmation."
+  },
+  {
+    "question": "I don't know if it's for Pike or for the DM.",
+    "answer": "13?",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Cleric > Class Features > Spellcasting"
+    ],
+    "rules_explanation": "There was a persuasion check attempted to get Pike, to go with the party."
+  },
+  {
+    "question": "Does uncanny dodge affect this at all for a 17 rogue Vax?",
+    "answer": "Unfortunately, because you were relying on her eagle maneuverability, no.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master rules Uncanny Dodge does not apply."
+  },
+  {
+    "question": "Am I able to feel gradual coming towards where we are, away, anything like that?",
+    "answer": "From where you are currently, which is in the volcano, it seems to be east and south of its previous location.",
+    "rules": [],
+    "rules_explanation": "The DM narrates the answer."
+  },
+  {
+    "question": "Can I do a nature check to see if this is above my capabilities?",
+    "answer": "It's definitely an unnatural form of weather pattern. You get the sense that this is itself a minor miracle.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master is asking for a roll. You get the sense that this is itself a minor miracle."
+  },
+  {
+    "question": "It was really small, so... is there a saving throw?",
+    "answer": "Philter of Love. Right.",
+    "rules": [],
+    "rules_explanation": "Dungeon Master was seeking verbal confirmation that the effect triggered a saving throw."
+  },
+  {
+    "question": "It was really small, so... How long does it last? I need to find something small or you can read it for you, if you like. The next time you see a creature within ten minutes after drinking this philter, you become charmed by the creature for one hour.",
+    "answer": "How long does it last? One hour.",
+    "rules": [],
+    "rules_explanation": "The length is part of the description, so no mechanic roll was necessary."
+  },
+  {
+    "question": "With that, you close your eyes. Beneath your breath, you recite the incantation. With that, you feel your body suddenly sucked into a dark void and thrust through the absence of space. And within a moment's time, before you can adjust to the sudden cold and dark vacuous void around you, your feet hit hard ground, your eyes focus again to the light. Can I tell what am I making? ",
+    "answer": "It's a 12, but I rolled a three.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Insight"
+    ],
+    "rules_explanation": "The player made an insight check."
+  }
+]

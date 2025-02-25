@@ -1,0 +1,189 @@
+[
+  {
+    "question": "What is a periapt of wound closure?",
+    "answer": "The periapt of wound closure is a magic item.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "The transcript refers to a periapt of wound closure, which is a magic item. To give a full answer, it is worth checking attunement rules"
+  },
+  {
+    "question": "A 1st-level character rolls a two and a two on a constitution saving throw. With a cuddle bonus, and with the character having winter clothes, do they withstand the cold?",
+    "answer": "The DM has applied house rules that means that in the circumstances, a character with the winter clothes and the cuddle bonus is warm enough.",
+    "rules": [
+      "Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "A constitution saving throw is used to determine a character's ability to resist certain effects. With the advantage from cuddling, and having winter clothes, the DM has ruled the character has warmed up enough."
+  },
+  {
+    "question": "A Level 4 Barbarian leads on horseback and sees a crownsguard. Can the crownsguard demand 2 gold to pass?",
+    "answer": "Whether the crownsguard can demand two gold to pass is a DM call.",
+    "rules": [],
+    "rules_explanation": "The amount a crownsguard might demand is an extrinsic detail that is outside of the rules."
+  },
+  {
+    "question": "If a Level 4 druid casts Pass Without Trace, what bonus to Stealth checks do the party members gain?",
+    "answer": "All party members within 30 feet of the caster will gain a +10 to their stealth checks.",
+    "rules": [
+      "Spell Descriptions > Pass Without Trace"
+    ],
+    "rules_explanation": "Pass Without Trace grants a +10 bonus to stealth checks for all party members within 30 feet of the caster."
+  },
+  {
+    "question": "A Level 4 Monk wants to know can an elf brought back to life look younger?",
+    "answer": "The text of the rules does not specify that a body is brought back younger.",
+    "rules": [],
+    "rules_explanation": "The rules for reincarnation do not specify that a body is brought back younger. The DM is free to adjudicate this."
+  },
+  {
+    "question": "If someone disguises themselves and makes a deception check, do they add a bonus?",
+    "answer": "Yes, the player would add their bonus to the deception check.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Deception is a Charisma skill, so if a character is proficient in the deception skill, they would add their proficiency bonus to a Charisma check made to deceive."
+  },
+  {
+    "question": "A Level 4 ranger wants to know if the spell Pass Without Trace lasts for 1 hour?",
+    "answer": "Yes, the spell Pass Without Trace has a duration of concentration, up to one hour.",
+    "rules": [
+      "Spell Descriptions > Pass Without Trace"
+    ],
+    "rules_explanation": "The duration of Pass Without Trace is concentration, up to one hour. It is also worth noting that a character needs to maintain concentration to maintain the spell."
+  },
+  {
+    "question": "A Level 4 Fighter can cuddle with the party for a constitution saving throw, can the fighter add winter clothes and cuddling to make the roll?",
+    "answer": "If the DM allows, winter clothes and cuddling can add to the constitution saving throw.",
+    "rules": [
+      "Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The DM can allow circumstantial modifiers to affect the roll, but these are not strictly covered in the rules."
+  },
+  {
+    "question": "If a Level 4 warlock in the dark uses her darkvision, what is the range she can see?",
+    "answer": "The range is 60 feet.",
+    "rules": [
+      "Races Racial Traits > Darkvision"
+    ],
+    "rules_explanation": "The warlock has the darkvision racial trait, which states that they can see in dim light within 60 feet as if it were bright light, and in darkness as if it were dim light."
+  },
+  {
+    "question": "A Level 4 character asks if there are structures around, what skill do they use to find one?",
+    "answer": "The character would make a Wisdom (Perception) check.",
+    "rules": [
+      "Ability Scores > Ability Checks > Wisdom"
+    ],
+    "rules_explanation": "A Wisdom (Perception) check is used to be aware of the surroundings, which would include noticing structures."
+  },
+  {
+    "question": "A Level 4 Druid asks if there is a spell or ability that can test if the experience will be good, using smell checks. Will a wisdom check or wisdom modifier help them with the smell check?",
+    "answer": "A wisdom check will allow a character to get a sense of their surroundings.",
+    "rules": [
+      "Ability Scores > Ability Checks > Wisdom"
+    ],
+    "rules_explanation": "A wisdom check tests a character's perception and intuition. Using a wisdom modifier on a check, the druid could sniff things."
+  },
+  {
+    "question": "If the DM wants to know how well the character is with the smell, is there a rule about that?",
+    "answer": "The DM calls for a Wisdom check to understand the barrage of smells.",
+    "rules": [
+      "Ability Scores > Ability Checks > Wisdom"
+    ],
+    "rules_explanation": "A Wisdom check would apply here to understand this sense."
+  },
+  {
+    "question": "When the player is smelling something in their bag, does the result only work for that character?",
+    "answer": "It is up to the DM if the effects of a characters smell bag can be used for other characters, not the owner.",
+    "rules": [],
+    "rules_explanation": "There is no rules that dictates what kind of magical item the scent pouch is, nor its effects on others smelling it. This would be up to the DM."
+  },
+  {
+    "question": "What checks can Keg make to see if a character is lying?",
+    "answer": "Keg could make an insight check to see if the person is lying.",
+    "rules": [
+      "Ability Scores > Ability Checks > Wisdom"
+    ],
+    "rules_explanation": "An insight check allows a character to detect the true intentions of a creature."
+  },
+  {
+    "question": "If an Iron Shepherd says they are Rick, can the DM call for a check to see if this is a valid name?",
+    "answer": "Yes, the DM can call for a Deception check.",
+    "rules": [
+      "Ability Scores > Ability Checks > Charisma"
+    ],
+    "rules_explanation": "Deception checks allow a character to convincingly hide the truth."
+  },
+  {
+    "question": "Does The Gentleman have paid us for this endeavor. Does that include some sort of bonus?",
+    "answer": "Not enough information in the transcript. Requires DM adjudication.",
+    "rules": [],
+    "rules_explanation": "It is unclear whether the Gentleman paid them for this endeavor, and if that includes a bonus. Requires DM adjudication."
+  },
+  {
+    "question": "If you have a 25 stealth is it okay if you are carrying stuff to roll?",
+    "answer": "A character can still roll if they have 25 stealth and carrying stuff.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "It is possible to still make stealth checks while carrying things."
+  },
+  {
+    "question": "Is there a way to know if the Sour Nest is nestled into it. nestled into the forest even further north of where the city stops in the forest?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "The question assumes the city is nestled. The rules do not state that this information is not possible to be known."
+  },
+  {
+    "question": "If she does a general nature check to determine, Is there something wrong with the soil here or something? What spell does she use?",
+    "answer": "She can make a nature check or use the spell Druidcraft.",
+    "rules": [
+      "Ability Scores > Ability Checks > Intelligence",
+      "Spell Descriptions > Druidcraft"
+    ],
+    "rules_explanation": "The question involves nature, thus an Intelligence (Nature) check applies."
+  },
+  {
+    "question": "After she rolls the Druidcraft, what to use animal handling check to draw the animal?",
+    "answer": "Yes, you can use the Animal Handling check to draw the animal",
+    "rules": [
+      "Ability Scores > Ability Checks > Wisdom"
+    ],
+    "rules_explanation": "She could use a animal handling check to bring over the birds."
+  },
+  {
+    "question": "When Nott wants to look around and make yourself not as hideable. I give you is is more belieable, is it with the spell Pass Without Trace?",
+    "answer": "No, Pass Without Trace does not turn a character invisible.",
+    "rules": [
+      "Spell Descriptions > Pass Without Trace"
+    ],
+    "rules_explanation": "Pass Without Trace only grants a +10 bonus to Stealth checks"
+  },
+  {
+    "question": "If the party can teleport after a crash to the woods, what happens in a 30 -foot radius?",
+    "answer": "It was not specified what would happen within 30 feet after teleporting and crash to woods, and you do not know what she is talking about. Requires DM adjudication.",
+    "rules": [],
+    "rules_explanation": "Requires DM adjudication."
+  },
+  {
+    "question": "Can I tell where The Sour Nest would be from here, make a survival check to find out?",
+    "answer": "Yes, you can make a Wisdom (Survival) check to try and find where The Sour Nest would be.",
+    "rules": [
+      "Ability Scores > Ability Checks > Wisdom"
+    ],
+    "rules_explanation": "The question involves a location and wilderness skills, thus a Wisdom (Survival) check applies."
+  },
+  {
+    "question": "There is a new horse standing there, one that wasn't with the rest of your trio.Medium brown in color.Kill it!",
+    "answer": "I'm not quite sure how to respond to that. Would you like me to elaborate on what action I am taking or provide a summary of what is going on?",
+    "rules": [
+      "The AI can only access SRD data."
+    ],
+    "rules_explanation": "There's no rules question in this turn. The comment about killing the horse and the confused AI response that followed is only used for dramatic effect."
+  },
+  {
+    "question": "Level 17 Monk needs to talk to the animals and she has Speech of the woods spell ready? Oh. I know I have it.. I set this all up and then I'm not going to be able to talk to the bird!",
+    "answer": "A character does not need to have a spell prepared to use Druid speech, and they do not have the spell to do that, and what she prepared has to have the speech for that bird.",
+    "rules": [],
+    "rules_explanation": "A character does not need to have a spell prepared to use Druid speech. But without the spell, they can not talk to the bird."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Can the level 12 Bard cast a shorty spell in that amount of time between level 1 Predathos getting smoked and the new one appearing? The time was described as \"a few moments\".",
+    "answer": "Yes, the GM will allow the level 12 Bard a minute to cast a spell in that time.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The GM decides if a player has enough time to take certain actions."
+  },
+  {
+    "question": "Does the level 12 Blood Hunter's Brand of Castigation on the old Predathos-Imogen transfer to the new Kaiju Predathos' head?",
+    "answer": "Yes, the Brand of Castigation transfers to the new Predathos' head because the arcana is still bound to it.",
+    "rules": [],
+    "rules_explanation": "This is a ruling by the GM as to whether or not an game effect carries over from one state to another"
+  },
+  {
+    "question": "The level 12 Blood Hunter is attempting to climb up the side of the Kaiju Predathos' head. Is an Athletics check appropriate?",
+    "answer": "Yes, an Athletics check is appropriate for the level 12 Blood Hunter to climb up the side of the Kaiju Predathos' head.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM determines that climbing the head requires a Strength (Athletics) check."
+  },
+  {
+    "question": "If the Kaiju Predathos head vanishes beneath the ground in front of the level 11 Rogue/Druid hybrid, does the level 12 Blood Hunter get a reaction attack?",
+    "answer": "No, the level 12 Blood Hunter does not get a reaction attack because by the time the head leaves the level 12 Blood Hunter's melee range, it's underground, so the level 12 Blood Hunter would be striking the dirt.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "An Opportunity Attack must be made as a reaction when a hostile creature leaves your reach. Since the head was already below ground when leaving the Blood Hunter's reach there was nothing to attack."
+  },
+  {
+    "question": "When the Kaiju Predathos head comes into being, can the level 11 Sorcerer cast Blade of Disaster?",
+    "answer": "Yes, there is nothing to suggest that the 11th level sorcerer cannot cast Blade of Disaster.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "Any turn when a character can cast a spell, they are allowed to cast it providing all other conditions are met."
+  },
+  {
+    "question": "If the level 11 Sorcerer attacks the hand with a spell that's got an intelligence saving throw, do the hands make individual saves?",
+    "answer": "Yes, the hands make individual saves and are affected individually, but if it's a spell that affects a mind, it won't affect the hands, likely.",
+    "rules": [],
+    "rules_explanation": "The GM is making a ruling about how the creature is being treated for rules purposes, saying each hand will save separately, but also cautioning against mind-affecting spells as the hands may not be susceptible to them."
+  },
+  {
+    "question": "Since glass is particularly psychically resonant, can the level 11 Sorcerer focus on that to try and harm the space there?",
+    "answer": "Yes, the GM will allow the level 11 Sorcerer to focus on the glass to try and harm the space there.",
+    "rules": [],
+    "rules_explanation": "The GM is ruling that glass being psychicly resonant may affect the circumstances of an attack."
+  },
+  {
+    "question": "For the Shriek of Oblivion, is it a spell or an ability?",
+    "answer": "The Shriek of Oblivion is an ability and it is not a spell. Therefor features like evasion or resistance to specific types of damage are applied to it as the GM deems appropriate.",
+    "rules": [],
+    "rules_explanation": "The GM is giving the player information about the source of the ability, and stating that magical affects will apply to it as they deem correct."
+  },
+  {
+    "question": "If the level 11 Sorcerer is raging, do they have advantage on Strength saving throws?",
+    "answer": "Yes, if the level 11 Sorcerer is raging, they do have advantage on any Strength saving throws.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "While raging, a barbarian has advantage on strength checks and strength saving throws. "
+  },
+  {
+    "question": "If the level 11 Rogue/Druid hybrid is 5 feet away from a hostile target, can they use Scorching Ray shots?",
+    "answer": "Yes, the level 11 Rogue/Druid hybrid can use Scorching Ray shots even within 5 feet of a hostile target provided that the target's attack range or melee range does not extend to that area.",
+    "rules": [],
+    "rules_explanation": "The GM reminds themselves of a rule related to ranged attacks and confirms that range does not include the player's current location, the area immediately around a character is only inside the melee range of the monster. "
+  },
+  {
+    "question": "If the arm is that far out, would it still have the same melee distance as the other arms, or because it's really big, does it have 30--?",
+    "answer": "That arm has a 30-foot reach.",
+    "rules": [],
+    "rules_explanation": "GM establishes that the monster has increased melee range with one of it's attacks"
+  },
+  {
+    "question": "At the end of Fearne's turn, it's going to spend one of its legendary actions to use Telekinetic Vacuum. How does it know where Laudna is? Does it have tremorsense?",
+    "answer": "The telekinetic vacuum can be used to try and affect any character on the playing field, regardless of obscurity or cover. The rules allow the GM to choose a character affected by Telekinetic Vacuum.",
+    "rules": [],
+    "rules_explanation": "This isn't a rules question, but a question of what was possible in the game given unknown criteria of the ability."
+  },
+  {
+    "question": "Can it gain temporary hit points?",
+    "answer": "Temporary hit points are different from gaining hit points.",
+    "rules": [],
+    "rules_explanation": "The GM is clarifying that the spell text stating \"it cannot regain hit points\" does not apply to temporary hit points which do not count as healing. "
+  },
+  {
+    "question": "If it activated Screech of the Ravaged Mind at the end of Chetney's turn, does it have disadvantage on concentration checks?",
+    "answer": "Yes, the Blood Hunter has disadvantage on it because the Screech of the Ravaged Mind puts a disadvantage on concentration checks.",
+    "rules": [
+      "Appendix PH-A: Conditions > Conditions > Exhaustion"
+    ],
+    "rules_explanation": "While the Screech of the Ravaged Mind ability was activated the character experiences levels of exhaustion."
+  },
+  {
+    "question": "What level does Ashton cast lighting bolt?",
+    "answer": "Transmutated to thunder damage.",
+    "rules": [],
+    "rules_explanation": "The player is not asking a rules question, instead they are declaring which damage type they are swapping from one to the other. Not appropriate."
+  },
+  {
+    "question": "Does he's moving independently - does I gets a reaction attack?",
+    "answer": "No, because as it burrows through the ground, by the time it leaves your melee, it's underground. So you'd be striking the dirt.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "The monster is moving from the Blood Hunters melee range but burrowing underground at the same time making it impossible to strike."
+  }
+]

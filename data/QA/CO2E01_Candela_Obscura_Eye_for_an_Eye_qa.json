@@ -1,0 +1,83 @@
+[
+  {
+    "question": "Can the level 4 multi-class character use a nerve drive when making a control roll?",
+    "answer": "Yes.",
+    "rules": [
+      "General > Ability Checks",
+      "Part I  (259:26): Yes, that's correct."
+    ],
+    "rules_explanation": "Rules from the SRD state nerve drives can be spent on action rolls. The NPC said \"Yes, that's correct.\""
+  },
+  {
+    "question": "If the level 4 multi-class character scores a mixed success on a control roll when being shot at from a moving train, do they still get shot?",
+    "answer": "Yes, the DM determines that a mixed success will still result in a successful shot but with some negative consequence, like taking some body marks.",
+    "rules": [
+      "General > Ability Checks"
+    ],
+    "rules_explanation": "This is an SRD undefined DM judgement and fictional consequence of the action roll."
+  },
+  {
+    "question": "How many times can Beatrix use her \"We Saw This Coming\" ability?",
+    "answer": "The Beatrix character can add a dice to their roll three times per assignment.",
+    "rules": [],
+    "rules_explanation": "The question involves a skill check where the player states that it can only be used 3 times per session. This is specific to the class abilities within this particular game and outside of the scope of the SRD."
+  },
+  {
+    "question": "When the player wants to \"Survey\" a location, can it apply Focus?",
+    "answer": "No. Survey and Focus are distinct skills and cannot be combined in that way",
+    "rules": [],
+    "rules_explanation": "Survey and Focus are distinct skills and cannot be combined, as stated by the GM."
+  },
+  {
+    "question": "If the level 4 multi-class character does not have any dots in the Sway skill, how many dice do they roll?",
+    "answer": "If you don't have any dots in it, you roll two, and take the lowest.",
+    "rules": [
+      "Break > Break (331:47): When you don't have any dots in it, you roll two, and take the lowest."
+    ],
+    "rules_explanation": "The GM explains the rule: When you don't have any dots in it, you roll two, and take the lowest."
+  },
+  {
+    "question": "When characters make a group action, does one person roll and others spend drive to assist?",
+    "answer": "Yes. One person rolls and then anybody else can spend drive if they want to.",
+    "rules": [],
+    "rules_explanation": "The DM describes the situation and specifies the rules for a group check in this particular game. This is specific to the class abilities within this particular game and outside of the scope of the SRD."
+  },
+  {
+    "question": "What dice are rolled as part of the Stamina Training ability, and do you get the drive back if they succeed",
+    "answer": "Gilded dice are rolled and you get that drive back.",
+    "rules": [],
+    "rules_explanation": "Again, Stamina training is not part of the SRD rules, it is a part of the unique game system in this game."
+  },
+  {
+    "question": "If the character is using the Sharpshooter ability, how many nerve drives are required to increase the dice pool to the maximum of six?",
+    "answer": "If the character has Sharpshooter, then they only have to burn one less nerve drive because of Sharpshooter.",
+    "rules": [],
+    "rules_explanation": "Again, Stamina training is not part of the SRD rules, it is a part of the unique game system in this game. The answer is derived from the combination of the Sharpshooter ability and the maximum dice rule."
+  },
+  {
+    "question": "With the character having the Gilded Strike, on that die when a 6 is rolled, what happens?",
+    "answer": "On that die, you replenish one of your Nerve drive.",
+    "rules": [],
+    "rules_explanation": "This has to do with the unique system in this game. Fully replenished all resources that are used. So, there are multiple dice in the pool, when the Gilded die is one of those dice, then when it's used it grants back one nerve."
+  },
+  {
+    "question": "Does the Move check while sprinting by the Violet character trigger an opportunity attack?",
+    "answer": "Yes, you are trying to sprint by them. It is one die. This is high stakes roll.",
+    "rules": [
+      "Part I (100:23) - \"Okay, I'm going to have you make a Move roll again for me here because you are trying to sprint by them. What I will say, high stakes roll.\""
+    ],
+    "rules_explanation": "Although the term \"opportunity attack\" is not explicitly used here, the mechanics described and the risk being discussed imply the functionality of an opportunity attack as implemented in the core 5e rules, or a similar mechanic under a different name but the SRD has no information about the Candela O system so I cannot confirm how it applies."
+  },
+  {
+    "question": "When applying the doctor ability is a 4 a mixed success?",
+    "answer": "Yes, a four is a mixed result",
+    "rules": [],
+    "rules_explanation": "This rules is specific to the Candela O game and no covered in the SRD."
+  },
+  {
+    "question": "When patching up a party member, how many intuition drives need to be marked in the event of rolling a 4 on the gilded die?",
+    "answer": "On a four to five, you would spend two intuition to do this.",
+    "rules": [],
+    "rules_explanation": "This is a skill check which is particular to the Candela O game."
+  }
+]

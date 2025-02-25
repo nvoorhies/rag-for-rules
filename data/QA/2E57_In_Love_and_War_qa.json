@@ -1,0 +1,80 @@
+[
+  {
+    "question": "Can (Fjord) the Level 8 Fighter/Warlock use perception to look around and see if anyone is actively casting anything, using anything?",
+    "answer": "Given Level 8 Fighter/Warlock can make a Perception check.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The text states that the DM can call for an ability check at any time so long as the character is able to make the action being asked for."
+  },
+  {
+    "question": "What is the DC for the Sending spell cast by the Level 8 Cleric/Bard?",
+    "answer": "I am unable to answer this question. The Save DC for the sending spell depends on the spellcasting ability and proficiency bonus of the caster, and that information is not present in this document.",
+    "rules": [],
+    "rules_explanation": "The range is 30 feet for the Sending spell. Information about the dice rolls needed to determine if the roll is succcessful are not available in this gameplay log."
+  },
+  {
+    "question": "What are the limitations of the Disguise Self Spell being cast by the Level 8 Wizard on the level 8 Goblin?",
+    "answer": "I am unable to answer this question. The limits of this ability depend on the specifics of the spell and are not specified in this document.",
+    "rules": [],
+    "rules_explanation": "The question involves specific application of spell Disguise Self limits and without the spell details, it cannot be resolved."
+  },
+  {
+    "question": "The Level 8 Fighter/Warlock, is making an insight check on him and make sure that this guy's not going to turn on us and just throw us in jail.",
+    "answer": "A Level 8 Fighter/Warlock can make an Insight check.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The text states that the DM can call for an ability check at any time so long as the character is able to make the action being asked for."
+  },
+  {
+    "question": "What is the result of the intelligence check? ",
+    "answer": "The result of the intelligence check depends on the dice rolled, the relevant ability modifier, and the difficulty class of the check; these pieces of information are not available to me.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The gameplay log transcript only includes the fact that an intelligence check is made, not the relevant information to determine the final result."
+  },
+  {
+    "question": "What are the limits to casting Detect Magic on an area?",
+    "answer": "I cannot answer this question, as the spell being cast is missing the rules that I need to answer the question. ",
+    "rules": [],
+    "rules_explanation": "The game log includes the fact that Detect Magic is being cast, but not what that spell allows."
+  },
+  {
+    "question": "What skill is the Level 9 Rouge using to search corners and throw liquid around",
+    "answer": "The Level 9 Rouge can use Investigation to throw liquid around to see if it splashes on any invisible people.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The text states that the DM can call for an ability check at any time so long as the character is able to make the action being asked for."
+  },
+  {
+    "question": "Can the Level 9 Rouge use disguise self for any period of time?",
+    "answer": "I am unable to answer this question as the duration of this spell is not provided in this game log.",
+    "rules": [],
+    "rules_explanation": "The range is 30 feet for the Sending spell. Information about the dice rolls needed to determine if the roll is succcessful are not available in this gameplay log."
+  },
+  {
+    "question": "Is a Level 9 Fighter/Warlock making a Persuasion check to convince the tavern owner to provide them with more than just simple food?",
+    "answer": "A Level 9 Fighter/Warlock can make a Persuasion check.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The text states that the DM can call for an ability check at any time so long as the character is able to make the action being asked for."
+  },
+  {
+    "question": "Does the DC of a saving throw, required by an ability or spell, use the proficiency bonus of the spell caster or the target",
+    "answer": "I am unable to answer this question. The DC is a specific formula and the information to calculate it is not given in this log.",
+    "rules": [],
+    "rules_explanation": "This information is not available, however, there is a saving throw on the next turn by that said character (Yeza)"
+  },
+  {
+    "question": "Does a Level 8 Cleric/Bard make a Dex check and then have advantage, to see if they can give the tattoo to Yeza? ",
+    "answer": "Since the Level 8 Cleric/Bard has advantage on the Dex check, the final result depends on the two dice rolled and the relevant ability modifier. The relevant rule is:",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Since the player has advantage, the higher of the two dice rolled will be used, and the dex bonus will be added."
+  }
+]

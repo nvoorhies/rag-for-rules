@@ -1,0 +1,341 @@
+[
+  {
+    "question": "A level 1 halfling fighter is 40 feet away from an arcanist. What does the halfling roll to determine what he can see of her?",
+    "answer": "The level 1 halfling fighter makes a Wisdom (Perception) check to determine what he can see of the arcanist. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The halfling is making an ability check to perceive their surroundings, therefore they should roll a Wisdom (Perception) check."
+  },
+  {
+    "question": "The DM says a crossbow bolt whistles past a level 1 halfling fighter. What roll is made to determine if he avoids the bolt?",
+    "answer": "The level 1 halfling fighter makes a Dexterity saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The character is attempting to avoid a harmful effect, therefore they are making a saving throw. As the bolt is an attempt to strike him, a dexterity saving throw is most appropriate."
+  },
+  {
+    "question": "A hexblade warlock attempts to put a ring on while their hand is being stepped on, and gravity feels quadrupled. Should they make an athletics or sleight of hand check?",
+    "answer": "The hexblade warlock should make an Athletics check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Since the character is using brute strength to achieve their aim, the most appropriate check is a Strength (Athletics) check"
+  },
+  {
+    "question": "The DM states that because gravity feels quadrupled on the warlock they have disadvantage on their check. How does this affect their roll?",
+    "answer": "The player rolls 2d20 and uses the lower result.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A character with disadvantage rolls two d20s and uses the lower value."
+  },
+  {
+    "question": "A hexblade warlock wants to psychically communicate with their sister. What ability check do they make?",
+    "answer": "The hexblade warlock makes a Charisma saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "This is not a saving throw against a bad effect, the DM is using this to test the character's spellcasting ability."
+  },
+  {
+    "question": "A level 1 halfling fighter attempts to slash at an arcanist but does not make purchase. What kind of roll did he make?",
+    "answer": "The level 1 halfling fighter makes an attack roll.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The halfling fighter is attempting to strike at an enemy with a sword, this is an attack roll."
+  },
+  {
+    "question": "A DM asks everyone to roll initiative. What kind of roll is this and what ability is used?",
+    "answer": "The players make a Dexterity check.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative",
+      "Using Ability Scores > Dexterity"
+    ],
+    "rules_explanation": "Initiative is determined by each player making a Dexterity check."
+  },
+  {
+    "question": "A level 3 dwarven sorcerer casts bless on allies. What kind of check does the DM ask them to make afterwards?",
+    "answer": "The DM asks them to make an Intelligence (Arcana) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Intelligence"
+    ],
+    "rules_explanation": "Since the arcana skill is about knowing spells, and the DM said it was just to see if they could, not as a requirement of the bless spell, it is being used as an intelligence arcana check"
+  },
+  {
+    "question": "A DM tells a player that they are going to take an opportunity attack. What is the trigger for this?",
+    "answer": "The trigger is leaving a hostile creature's reach.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "Leaving a hostile creature's reach triggers an opportunity attack"
+  },
+  {
+    "question": "What kind of check does the DM ask a level 3 air genasi bard to make when they try to enhance a thunderwave?",
+    "answer": "The DM asks them to make an Intelligence (Arcana) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Intelligence"
+    ],
+    "rules_explanation": "Since the spell to enhance is a spell, the best fit skill check is intelligence arcana. Metagaming pigeons aside."
+  },
+  {
+    "question": "A construct tries to grapple a level 3 air genasi bard and fails. The DM then asks the air genasi bard to make a strength saving throw. What is the DC of the saving throw?",
+    "answer": "The DM rolls a 13 for the DC of the Strength saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The construct rolled a 13, so 13 is the DC for the saving throw."
+  },
+  {
+    "question": "A DM says a tether has been re-established between a hexblade warlock and a new creature. What kind of points should the warlock be considering?",
+    "answer": "The player should be considering her action economy.",
+    "rules": [
+      "Combat > Your Turn > Actions"
+    ],
+    "rules_explanation": "There is a choice of which actions to take so the action economy is relevant here."
+  },
+  {
+    "question": "A hexblade warlock is prone and wants to stand up. What kind of check should they make?",
+    "answer": "The hexblade warlock makes an Athletics check.",
+    "rules": [
+      "Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "Standing up from prone requires movement which requires a check, athletics is the best fit here."
+  },
+  {
+    "question": "A dire wolf just took piercing damage from a knife and the DM says they need to make a constitution saving throw. What happens if they roll a natural 20?",
+    "answer": "They feel something, the stab of pain is there, but then they feel something extra as it begins to move through them, a poison that hasn't taken effect yet, but it's not gone. And in their heightened state, this adrenaline, this aggression, the excitement of fresh blood and being so close to another kill speeds up their heartbeat and they feel it beginning to move through their veins, but there is no deleterious effect yet.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The creature makes the saving throw because of the poison, the effect of which is determined by the DM."
+  },
+  {
+    "question": "The ground starts to rumble and the DM says everyone but Dariax needs to make a dexterity or strength saving throw to keep their footing. What happens if they roll a 14?",
+    "answer": "If the player beats the DC, they succeed on the save and remain standing.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "If the roll meets or beats the DC then they are able to keep their footing"
+  },
+  {
+    "question": "If a character takes the Dash action, how much can they move?",
+    "answer": "They can move twice their speed.",
+    "rules": [
+      "Combat > Your Turn > Actions > Dash"
+    ],
+    "rules_explanation": "The Dash action grants extra movement for the current turn, it's the equivalent to the creature's speed after applying any modifiers. Therefore the creature can move twice their normal speed."
+  },
+  {
+    "question": "The DM says because a character is very heavy, they have to make a dexterity saving throw with disadvantage. What does this mean?",
+    "answer": "It means they roll 2d20 and take the lower of the two rolls.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Disadvantage means the roll is made twice and the lower number is used"
+  },
+  {
+    "question": "A DM asks the character being focused on by a spell to make a charisma saving throw. What does a roll of 23 mean?",
+    "answer": "With a 23, you are running on fumes. You don't know what's happening. You feel something beginning to be torn away from you and you reach out, you reach out for your sister.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "As they met the DC, the character gets to continue making a choice."
+  },
+  {
+    "question": "The turn is over but a player wants to use their pool of healing. Can they do that?",
+    "answer": "No, unless the character is taking a reaction.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "Without the use of a reaction, a character is unable to take an action on an other character's turn."
+  },
+  {
+    "question": "A character is about to be hit with a spear. What happens when they scream 'checks out'?",
+    "answer": "The spear hits them.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "Checks out is not an applicable response, thus it hits."
+  },
+  {
+    "question": "An elf stabs a human holding a heavy item. What happens if the human then attempts to cast a spell?",
+    "answer": "The holding a heavy item does not impact casting a spell.",
+    "rules": [
+      "Spellcasting > Components > Somatic"
+    ],
+    "rules_explanation": "The material to cast the spell does not prohibit casting a spell. A somatic component does require a hand to be free."
+  },
+  {
+    "question": "A character succeeds on a saving throw to avoid being hit by a pillar. What happens next?",
+    "answer": "They feel it just lurch a little bit. They don't have to go anywhere now, but this isn't going to stay a pillar for very long.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Because they succeed, the are not affected."
+  },
+  {
+    "question": "The DM describes a Hexblade's curse, asking \"Does my Hexblade's Curse only curse her when I interact with her?\"",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "The answer to this question is the definition of the curse. There is no actual rule to point to."
+  },
+  {
+    "question": "A hasted character has used their action to heal. Do they get another attack?",
+    "answer": "Yes, they get a weapon attack.",
+    "rules": [
+      "Conditions > Hasted"
+    ],
+    "rules_explanation": "Being hasted grants another action to the character, and it can be used for one weapon attack"
+  },
+  {
+    "question": "If two characters have a grapple, does that prevent a ranged attack on either?",
+    "answer": "No, but may cause disadvantage.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks in Close Combat",
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The characters being within melee combat may impose disadvantage on an attack. A clear shot however is required."
+  },
+  {
+    "question": "Dorian, a level 5 air genasi bard, is trying to grab an spike from Opal, who is grappled. What kind of roll should they make?",
+    "answer": "The character must make an Intelligence saving throw.",
+    "rules": [],
+    "rules_explanation": "When making physical contact with a mind altering item, it requires an intelligence saving throw."
+  },
+  {
+    "question": "Does getting healed remove your ability to hear?",
+    "answer": "It is determined by the source of the condition. Some condition causing effects would also deafen",
+    "rules": [
+      "Conditions > Deafened"
+    ],
+    "rules_explanation": "Unless something in particular deafens the target, they would be able to hear."
+  },
+  {
+    "question": "A dire wolf used an action to leap, and succeeded on an acrobatics check. What is left for them to do?",
+    "answer": "They have a bonus action and multiattack left.",
+    "rules": [
+      "Druid > Wild Shape"
+    ],
+    "rules_explanation": "It takes their action to dash into the hand, leaving their bonus action and multiattack action to use while in dire wolf shape"
+  },
+  {
+    "question": "A druid wildshapes to use its direwolf form to attack a caster. If the caster tries to cast a spell while being bitten on the throat, does that allow the druid to reroll their damage?",
+    "answer": "No, but they can add the result of damage dice from a new roll if they are willing to give in to the dark possibility.",
+    "rules": [],
+    "rules_explanation": "Although not strictly defined, this is a narrative opportunity granted by the DM to allow the druid to do that."
+  },
+  {
+    "question": "The DM asks players to make a dexterity or strength saving throw. Which ability should a dex-based character use?",
+    "answer": "They can choose either ability.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The prompt indicated that the creature had a choice of what ability to use for the roll."
+  },
+  {
+    "question": "Can a hexblade warlock who used their action and bonus action to make an eldritch blast cast misty step to get closer to their target?",
+    "answer": "No. Unless the spell is cast with a reaction, the character is limited to one bonus action and one action per turn.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "Spells that are not reactions, or otherwise can only be cast using the action and a bonus action per turn."
+  },
+  {
+    "question": "Can a character attempt anything with their bonus action when there are no spell slots available to them?",
+    "answer": "A character cannot cast any bonus action spells if there are no spell slots available.",
+    "rules": [
+      "Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "The character has no spell slots, so no spells can be cast."
+  },
+  {
+    "question": "A DM has granted Haste. How much does it increase the character's movement by?",
+    "answer": "It doubles the creature's speed.",
+    "rules": [
+      "Spell Descriptions > Haste"
+    ],
+    "rules_explanation": "One of the benefits of being hasted doubles their speed"
+  },
+  {
+    "question": "If a hasted character is carrying another body, does that still allow them all of the doubled movement?",
+    "answer": "No, carrying another body slows movement.",
+    "rules": [
+      "Combat > Movement and Position > Moving Around Other Creatures"
+    ],
+    "rules_explanation": "Carrying or dragging another body reduces the movement by half, if the DM considers this to apply after haste then that is correct."
+  },
+  {
+    "question": "A DM asks a player to make an intelligence saving throw. Is this the correct ability?",
+    "answer": "The ability is not correct. The proper saving throw is Charisma.",
+    "rules": [
+      "Spell Descriptions > Fear"
+    ],
+    "rules_explanation": "The spell specifically mentions the character must make a Wisdom saving throw"
+  },
+  {
+    "question": "A DM allows a dead friend's inspiration to be used. Is this possible?",
+    "answer": "No. ",
+    "rules": [
+      "Spell Descriptions > Bless",
+      "Spell Descriptions > Bardic Inspiration"
+    ],
+    "rules_explanation": "A bless requires concentration, inspiration is used to augment actions as they happen."
+  },
+  {
+    "question": "What is a bonus action used for?",
+    "answer": "A bonus action can be used to cast Hexblade's Curse",
+    "rules": [
+      "Classes > Warlock > Hexblade's Curse"
+    ],
+    "rules_explanation": "Hexblade's curse is the casting a bonus action spell"
+  },
+  {
+    "question": "Can you cast a single spell for an action and a bonus action?",
+    "answer": "No, unless the spell specifically allows for it to be cast as a bonus action.",
+    "rules": [
+      "Combat > Your Turn > Actions",
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "You can use a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. \nMost spells are cast with an action."
+  },
+  {
+    "question": "Can you use an ability to reroll a roll for advantage?",
+    "answer": "Yes, but only one of the dice can be rerolled.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one."
+  },
+  {
+    "question": "If a character is in the sky, do they need to make strength or dexterity saving throws against effects on the ground?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "It is up to the DM, but traditionally no."
+  },
+  {
+    "question": "Can an unconscious character use inspiration?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "The DM adjudicates this as part of the DM section on adjudicating situations, and the rules do not address this specific situation. It is generally assumed you cannot."
+  },
+  {
+    "question": "Can you cast a bonus action spell and ready an action?",
+    "answer": "No, you can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action",
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "The character's bonus action has already been used, so another spell cannot be cast"
+  },
+  {
+    "question": "What happens if you cast cure wounds to full heal someone at level 3. Does the additional value stack?",
+    "answer": "No, any hit points regained in excess of this number are lost.",
+    "rules": [
+      "Damage and Healing > Healing"
+    ],
+    "rules_explanation": "A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost."
+  }
+]

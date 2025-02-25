@@ -1,0 +1,270 @@
+[
+  {
+    "question": "Can the level 11, level: wizard figure cast another concentration spell and maintain concentration on both?",
+    "answer": "No. A spellcaster can only concentrate on one spell at a time. If a spell requires concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. If you lose concentration, such a spell ends.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "This rule specifies that you can only concentrate on one spell at a time and details what can cause you to lose concentration."
+  },
+  {
+    "question": "The Level 1 cleric class figure used a 'Pearl of Power' can it be used to restore a 3rd level spell?",
+    "answer": "Yes, the SRD states that a pearl of power allows the restoration of one expended spell slot of 3rd level or lower",
+    "rules": [
+      "Magic Items > Wondrous Items > Pearl of Power"
+    ],
+    "rules_explanation": "This section specifies that a pearl of power allows a spellcaster to regain one expended spell slot of 3rd level or lower."
+  },
+  {
+    "question": "The character glugs a 'Potion of Possibility', how long does this effect last?",
+    "answer": "The effect from the potion of possibility last for 8 hours or until used.",
+    "rules": [
+      "",
+      "Magic Items"
+    ],
+    "rules_explanation": "I am not able to determine what the effects of the 'Potion of Possibility' are, so I can only state the duration of '8 hours or until used'."
+  },
+  {
+    "question": "The Level 1 grass figure makes a persuasion check, what dice are rolled and what is added to the dice rolls to determine the result?",
+    "answer": "To determine the result of a persuasion check, roll 1d20 and add the character's Charisma modifier and proficiency bonus if proficient.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The character should roll a d20, add its Charisma modifier, and add its proficiency bonus if it is proficient in the Persuasion skill."
+  },
+  {
+    "question": "Can the level 1 cleric figure use Guidance to add to the ability check?",
+    "answer": "Yes. As long as the rules for the spell are observed, guidance may be cast.  The target then rolls a d4 and adds it to the ability check.",
+    "rules": [
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "If the caster has the spell prepared, has a spell slot available, and the target is within range, the spell may be cast. It requires the target to roll a d4 and add it to the ability check."
+  },
+  {
+    "question": "Is the natural armor of a golem applied before or after the shield?",
+    "answer": "The Shield is held and the Armor Class is calculated. It is applied at the same time as the Dex Mod.",
+    "rules": [
+      "Equipment > Armor"
+    ],
+    "rules_explanation": "If a monster has natural armor, wears armor, or carries a shield, this is noted in parentheses after its AC value. The order in which these values are applied is not important as long as they are all applied."
+  },
+  {
+    "question": "Can the Level 1 cleric add Guidance to a dexterity roll?",
+    "answer": "Yes. As long as the rules for the spell are observed, guidance may be cast.  The target then rolls a d4 and adds it to the ability check.",
+    "rules": [
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "If the caster has the spell prepared, has a spell slot available, and the target is within range, the spell may be cast. It requires the target to roll a d4 and add it to the ability check."
+  },
+  {
+    "question": "What's the difference between Guidance and an A next to Arcana on a character sheet? What does Advantage mean?",
+    "answer": "When you have advantage or disadvantage on a roll, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This rule describes what advantage means. It is distinct from Guidance which adds a d4 to the roll."
+  },
+  {
+    "question": "Does this story describe a situation where multiple dice are added to a given roll?",
+    "answer": "Yes. \n\n1.  Adding guidance to an arcana check with advantage.\n",
+    "rules": [
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "This is a question about stacking bonus and advantage, the section 'proficiency bonus' in 'using ability scores' in the SRD addresses this: Your proficiency bonus can't be added to a single die roll or other number more than once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save."
+  },
+  {
+    "question": "How is the damage calculated for a fall?",
+    "answer": "The base fall damage is 1d6 bludgeoning damage for every 10 feet a creature falls, to a maximum of 20d6. A soft landing may reduce that fall damage.",
+    "rules": [
+      "Adventuring > The Environment > Falling"
+    ],
+    "rules_explanation": "When falling in Dungeons and Dragons, you take 1d6 bludgeoning damage for every 10 feet you fall with a maximum of 20d6."
+  },
+  {
+    "question": "The Level 1 grass figure uses potion of invisibility, how does this effect the rolls of their partners?",
+    "answer": "Attack rolls against the invisible creature have disadvantage, and the invisible creature's attack rolls have advantage.",
+    "rules": [
+      "Combat > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "While invisible (using an item or spell), the other characters have advantage on attack rolls against the invisible and the now invisible character has advantage on attack rolls"
+  },
+  {
+    "question": "Does a familiar remain when subject to an anti-magic field?",
+    "answer": "No. A conjured familiar or elemental temporarily winks out of existence in an antimagic field.",
+    "rules": [
+      "Spellcasting > Combining Magical Effects",
+      "",
+      "Magic Items > A-Z > Globe of Invulnerability"
+    ],
+    "rules_explanation": "A conjured familiar is a magical effect and these are suppressed inside an antimagic field"
+  },
+  {
+    "question": "What determines the DC for avoiding a shove?",
+    "answer": "The contested ability check to avoid a shove is contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Shoving a Creature"
+    ],
+    "rules_explanation": "This rule details that instead of an attack roll, a character makes a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use)."
+  },
+  {
+    "question": "If a multi-class character possesses both divine smite and brutal critical, do the dice add together?",
+    "answer": "Yes.  Both these powers can be combined on a single critical hit. First, roll all dice for the attack and multiply damage from the weapon by 2x. Then add the dice for brutal critical. Then add the radiant dice for Divine Smite.",
+    "rules": [
+      "Paladin > Divine Smite",
+      "Barbarian > Brutal Critical"
+    ],
+    "rules_explanation": "If a DM ruled that a character would both get a critical hit and have a Brutal Critical feature, then the calculation is as follows: roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack. If a paladin uses Divine Smite, they may roll those radiant dice as well, as they are triggered by hitting with a melee weapon attack."
+  },
+  {
+    "question": "What conditions allow a multi-class character to roll additional damage?",
+    "answer": "Multi-class characters retain the powers of their respective classes.",
+    "rules": [
+      "Multiclassing"
+    ],
+    "rules_explanation": "A multi-class character should apply the rules to the classes it has leveled"
+  },
+  {
+    "question": "What armor is a lawful good medium celestial with a wisdom 18 and charisma 16 able to use",
+    "answer": "A medium celestial with the wisdom and charisma indicated is able to use light armor, medium armor, shields, simple weapons, and martial weapons without adjustments.",
+    "rules": [
+      "Cleric > Proficiencies"
+    ],
+    "rules_explanation": "These proficiencies are described for the cleric class. Some armor and weapons can be restricted by alignment. I did not find a restriction for the abilities indicated."
+  },
+  {
+    "question": "If the party of adventures does something out of alignment with their gods, what happens",
+    "answer": "That action, in itself, does nothing.  However, a god may ignore or punish transgression by their followers as they see fit.",
+    "rules": [
+      "Races > Alignment",
+      "Cleric > Spellcasting Ability"
+    ],
+    "rules_explanation": "While races and classes in D&D have alignment tendencies, these do not impose any restrictions of their own. The relationship with a deity is up to each deity."
+  },
+  {
+    "question": "What happens if the game master gives a character inspiration, but the character fails a check?",
+    "answer": "If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll.",
+    "rules": [
+      "Adventuring > Inspiration > Using Inspiration"
+    ],
+    "rules_explanation": "The player can expend the inspiration to gain advantage on the roll."
+  },
+  {
+    "question": "Is there a limit on the number of skills a character can be proficient in?",
+    "answer": "No. No rules limit the number of skill proficiencies that can be granted",
+    "rules": [
+      "Skills"
+    ],
+    "rules_explanation": "I could find no rule to prevent a character having more than a certain number of skill proficiencies. I have assumed this means there is not limit."
+  },
+  {
+    "question": "What does it mean when someone has 'immunity to bludgeoning from non-magical attacks'?",
+    "answer": "If a creature or an object has immunity to a damage type, damage of that type is negated against it. bludgeoning damage from nonmagical attacks are therefore negated.",
+    "rules": [
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "When a creature has damage immunity, all damage of that type is negated."
+  },
+  {
+    "question": "Does the level 1 character have the ability to rage?",
+    "answer": "Yes.  At 1st level, a barbarian gains the Rage and Unarmored Defense features",
+    "rules": [
+      "Classes > Barbarian > Class Features"
+    ],
+    "rules_explanation": "The Rage feature is gained at 1st level."
+  },
+  {
+    "question": "Does 'get in here' from another player, allow them to move more that half their movement?",
+    "answer": "No.  That is not a game mechanic and has no effect on movement.",
+    "rules": [
+      "Combat > Actions in Combat > Dash",
+      "",
+      "Combat > Movement and Position > Difficult Terrain"
+    ],
+    "rules_explanation": "Only the listed mechanics in the SRD will affect movement."
+  },
+  {
+    "question": "Can a level 1 celestial character use a circlet of blasting?",
+    "answer": "It would have to have the right proficiencies to use it properly",
+    "rules": [
+      "Magic Items > Wearing and Wielding Items",
+      "Magic Items > Activating an Item > Spells"
+    ],
+    "rules_explanation": "The 'Wearing and Wielding Items' section states that to properly use a magic item the user has to meet all criteria listed. Certain magic items require attunement for a magic item to be used; there might be other criteria as well."
+  },
+  {
+    "question": "Does everything have to be silvered before you can hurt it",
+    "answer": "No. Only certain creatures are resistant to damage from nonmagical attacks and susceptible to silvered weapons.",
+    "rules": [
+      "Equipment > Silvered Weapons"
+    ],
+    "rules_explanation": "The text on Silvered Weapons states that 'Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons.'"
+  },
+  {
+    "question": "can a wizard create a sphere of annihilation",
+    "answer": "No. This must be found as a Wondrous Item.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "The SRD does not list a method of creating a sphere of annihilation, so a wizard cannot. A wizard can create many magic items, but not every magic item."
+  },
+  {
+    "question": "The Level 12 strength 24 multi-class character has a mace with 1d8 for damage, and the 'raging damage' for his character is +3 damage for rage, can he choose to use two hands to increase damage?",
+    "answer": "It is not possible to increase the damage with this weapon by using two hands.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Two-Handed"
+    ],
+    "rules_explanation": "The mace does not have the two-handed or versatile properties; therefore, it is not possible to increase the damage by using two hands. The character can however, have 1d8 + 3 damage"
+  },
+  {
+    "question": "In D&D, what action does it take to break concentration?",
+    "answer": "No action is required to break concentration on a spell.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "You can end concentration at any time (no action required)."
+  },
+  {
+    "question": "Can you take a light action to make a bonus action. ",
+    "answer": "There is no defined concept of a 'light action'.",
+    "rules": [
+      "Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "Bonus actions can be taken only when a special ability, spell, or other feature of the game states that you can do something as a bonus action."
+  },
+  {
+    "question": "What is the best form of attack a small target can use for great distances with high likely hood of damage",
+    "answer": "I'm sorry, but that is not in the SRD and I am unable to assist.",
+    "rules": [],
+    "rules_explanation": "The SRD has no such tactical advice or discussion of the best weapon, it only provides weapon details."
+  },
+  {
+    "question": "Does a person under the influence of a sphere of anti-magic have damage reduction?",
+    "answer": "No. If an object is in an anti-magic field, the properties and powers of magic items are suppressed in the sphere. As the damage reduction is from the magic item, it is suppressed. ",
+    "rules": [
+      "Magic Items > A-Z > Globe of Invulnerability"
+    ],
+    "rules_explanation": "The SRD states that within the area of the globe of invulnerability (antimagic field), the properties and powers of magic items are suppressed."
+  },
+  {
+    "question": "If the players are hit by a petrification glyph, can they repeat a saving throw every turn?",
+    "answer": "The trigger for the affected creature to repeat the saving throw is detailed in the specific glyph or spell",
+    "rules": [],
+    "rules_explanation": "Because this is a custom glyph, I am unable to determine if it's continuous and may only state the rules of the spell 'Flesh to Stone' for example:"
+  },
+  {
+    "question": "What are the rules for determining a group check?",
+    "answer": "To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "This rule details how to perform a group ability check"
+  },
+  {
+    "question": "What is the range for the 'sending spell' to Keyleth?",
+    "answer": "The Sending spell has unlimited range.",
+    "rules": [
+      "Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "This rule is included in the spell's description."
+  }
+]

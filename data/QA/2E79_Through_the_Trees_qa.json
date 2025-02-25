@@ -1,0 +1,168 @@
+[
+  {
+    "question": "If the 1st-level **[Ranger, Jester]** wants to use her nature or survival ability to narrow down a geography, what check does she make?",
+    "answer": "The 1st-level **[Ranger, Jester]** can make a Nature or Survival check.",
+    "rules": [
+      "Ability Checks > Skills"
+    ],
+    "rules_explanation": "The DM asked the player **[Ranger, Jester]** to make a skill check using the Nature or Survival skills in order to narrow down the geography."
+  },
+  {
+    "question": "Can **[Druid, Caduceus]** talk to both animals and plants?",
+    "answer": "The SRD does not contain any information indicating that the Druid class allows you to specifically talk to both animals and plants.",
+    "rules": [
+      "Druid > Spellcasting"
+    ],
+    "rules_explanation": "Determining a specific ability of a class requires referencing the class description in the SRD, no such ability is listed in the class definition."
+  },
+  {
+    "question": "Does the marsh where they teleport to cause the characters difficulty in traversing it?",
+    "answer": "The DM is the arbiter of whether terrain is considered difficult.",
+    "rules": [
+      "Adventuring > Movement > Difficult Terrain"
+    ],
+    "rules_explanation": "Whether or not terrain is considered difficult is a judgment made by the DM, according to the rules."
+  },
+  {
+    "question": "If a 9th-level **[Cleric, Caduceus]** attempts a divine intervention, what result on percentile dice is required for it to succeed?",
+    "answer": "A divine intervention succeeds if the percentile dice roll is equal to or lower than the character's cleric level, 9 in this case.",
+    "rules": [
+      "Cleric > Class Features > Divine Intervention"
+    ],
+    "rules_explanation": "Divine intervention is a class feature of the cleric class. It has a chance to succeed equal to the cleric's level and is arbitrated by rolling percentile dice and checking against the character's level."
+  },
+  {
+    "question": "Is there any reason why the 1st level **[Ranger, Jester]** could not use scry again?",
+    "answer": "If a scrying attempt is resisted, then the target cannot be scryed on again for 24 hours, but otherwise there is no specific rule preventing it.",
+    "rules": [
+      "Spellcasting > How to Play > Targets",
+      "Spell Lists > Ranger Spells > Scrying"
+    ],
+    "rules_explanation": "The Dungeon Master mentioned a specific condition that would prevent the 1st level **[Ranger, Jester]** from using scry again."
+  },
+  {
+    "question": "If we continue on without sleep tonight, what happens?",
+    "answer": "If a character continues on without sleep, they gain a point of exhaustion",
+    "rules": [
+      "Adventuring > Resting > Exhaustion"
+    ],
+    "rules_explanation": "Creatures who continue without sleep are at risk of exhaustion, which is applied with a level as described in the linked rules section."
+  },
+  {
+    "question": "Can the spell Teleportation Circle be done as a ritual?",
+    "answer": "The SRD does not list Teleportation Circle as a ritual spell",
+    "rules": [
+      "Spellcasting > Rituals"
+    ],
+    "rules_explanation": "Some spells are specifically tagged as rituals. As teleportation circle does not have this tag, it cannot be cast as a ritual."
+  },
+  {
+    "question": "Does advantage on one of the perception or survival checks helmed by **[Cleric, Caduceus]** and **[Ranger, Jester]** apply to both of them?",
+    "answer": "The rules state that because everyone is helping in the fire line, advantage is granted to both characters.",
+    "rules": [
+      "Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The Dungeon Master grants advantage in the check as everyone is helping in this one check. This helps both **[Cleric, Caduceus]** and **[Ranger, Jester]**."
+  },
+  {
+    "question": "If Jester used a spell or ability that gives him a bonus action, would she only gain a bonus action if the feat is not of her class?",
+    "answer": "This is a misrepresentation of Cunning Action, a Rogue class feature. Cunning Action gives the Rogue certain actions as a bonus action. The SRD does not contain any language or rule that would restrict someone's ability to use an ability on the basis of their class.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The rogue's Cunning Action class feature allows the use of a bonus action. The SRD does not provide any caveats to this rule."
+  },
+  {
+    "question": "Can the 18th level **[Wizard, Caleb]** polymorph himself once a day without using a spell slot?",
+    "answer": "Yes, due to his Transmuter ability, a level one spell can be cast by the 18th level **[Wizard, Caleb]** without expending a spell slot.",
+    "rules": [
+      "Wizard > Arcane Traditions > Transmutation > Transmuter",
+      "Wizard > Class Features > Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "The Wizard's level 18 transmuter ability allows the wizard to avoid expending a spell slot when casting a level one transmutation spell."
+  },
+  {
+    "question": "Did the polymorph and fly last for the same amount of time?",
+    "answer": "No, the Fly spell lasts for 10 minutes and the Polymorph spell lasts for an hour.",
+    "rules": [
+      "Spell Lists > Druid Spells > Polymorph",
+      "Spell Lists > Wizard Spells > Polymorph",
+      "Spell Lists > Wizard Spells > Fly"
+    ],
+    "rules_explanation": "The spells and features do not all grant the same amount of time, each spell must be checked individually in the SRD to assess duration."
+  },
+  {
+    "question": "In the current situation, does advantage on Wisdom and perception checks mean owls get to counteract disadvantage, so it'll just be a straight roll for the character in the dark with perception?",
+    "answer": "Yes, having both advantage and disadvantage causes neither to apply, resulting in a straight roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Per the SRD, it is correct to consider that having both advantage and disadvantage negates eachother."
+  },
+  {
+    "question": "To prepare the circle, how much time does the 18th-level **[Wizard, Caleb]** need?",
+    "answer": "For a ritual spell that is not prepared, a total of 11 minutes is required.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Longer Casting Times",
+      "Spellcasting > Rituals"
+    ],
+    "rules_explanation": "Certain spells and abilities can shorten the time of casting spells as a ritual, or other ways. However, this is in the absence of those."
+  },
+  {
+    "question": "If you were to continue on without sleep tonight, what would occur for all those in the party?",
+    "answer": "Exhaustion would occur to all members of the party for not sleeping.",
+    "rules": [
+      "Adventuring > Resting > Exhaustion"
+    ],
+    "rules_explanation": "Characters who have been adventuring and not sleeping are at risk of exhaustion, which is applied with a level as described in the linked rules section."
+  },
+  {
+    "question": "How far away can **[Fighter, Fjord]** make his major image?",
+    "answer": "A Major Image has a range of 120 feet",
+    "rules": [
+      "Spell Lists > Wizard Spells > Major Image"
+    ],
+    "rules_explanation": "A Major Image spells has a range of 120 feet as listed in the SRD."
+  },
+  {
+    "question": "Once the major image is conjured, how long would Nott have to swipe the skull before the group has to run for a banishment?",
+    "answer": "The description doesn't provide a time limit for casting a banishment spell. It provides one minute for the creation of a Teleportation Circle.",
+    "rules": [
+      "Spell Lists > Wizard Spells > Banishment",
+      "Spell Lists > Wizard Spells > Teleportation Circle"
+    ],
+    "rules_explanation": "There is no time limit on casting this spell from either the banishment or the teleportation circle descriptions in the SRD"
+  },
+  {
+    "question": "Are we able to get the benefit of pass without trace even while invisible?",
+    "answer": "Pass Without Trace creates a veil of shadows, so there is nothing about Invisibility that directly blocks the effect of the Pass Without Trace Spell.",
+    "rules": [
+      "Spell List > Druid Spells > Pass Without Trace"
+    ],
+    "rules_explanation": "The SRD does not have any mention of interaction between Invisibility and Pass Without Trace."
+  },
+  {
+    "question": "The object we seek, this heart, is it to the south of us?",
+    "answer": "A breeze was blowing warm in a south, southwestern direction.",
+    "rules": [
+      "Spell Lists > Cleric Spells > Commune"
+    ],
+    "rules_explanation": "Using the Commune spell it allowed to find out information about what sought, and the breeze that was blowing to the southwestern direction gives hint of the heart location"
+  },
+  {
+    "question": "Is it in a temple or a building? Is it protected by something built by civilization?",
+    "answer": "Just sense natural imprisonment methods. No absence of mortar, stone, and humanoid mind and hands.",
+    "rules": [
+      "Spell Lists > Cleric Spells > Commune"
+    ],
+    "rules_explanation": "Using the Commune spell it allowed to find out information about what sought, and the absence or presence of stone, mortar, and humanoid is what the deity revealed"
+  },
+  {
+    "question": "The others who seek this object, are they ahead of us?",
+    "answer": "The wind blows once more in the southwestern direction, but it is cold and stronger; Yes",
+    "rules": [
+      "Spell Lists > Cleric Spells > Commune"
+    ],
+    "rules_explanation": "Using the Commune spell it allowed to find out information about what sought, and the cold and stronger wind blowing that time is what the deity revealed, it is assumed to means 'yes'"
+  }
+]

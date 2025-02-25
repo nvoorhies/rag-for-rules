@@ -1,0 +1,433 @@
+[
+  {
+    "question": "The Player rolls a 22 for a Dexterity (Stealth) check, what is the result?",
+    "answer": "The DM states, \"Nice!\"",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks",
+      "Section > Dexterity > Dexterity Checks > Stealth"
+    ],
+    "rules_explanation": "The player is performing a skill check with Stealth.  The success or failure is determined by comparison to a Difficulty Class."
+  },
+  {
+    "question": "What die is rolled for hit points when leveling up in the Paladin class at level 16?",
+    "answer": "A d10 is rolled to determine the number of hit points gained.",
+    "rules": [
+      "Section > Classes > Paladin > Hit Points"
+    ],
+    "rules_explanation": "The Paladin class rules states that at each level beyond first, the player should roll a d10 and add their constitution modifier to determine the amount of HP gained at the level."
+  },
+  {
+    "question": "What die is rolled for hit points when leveling up in the Wizard class at level 16?",
+    "answer": "A d6 is rolled to determine the number of hit points gained.",
+    "rules": [
+      "Section > Classes > Wizard > Hit Points"
+    ],
+    "rules_explanation": "The Wizard class rules states that at each level beyond first, the player should roll a d6 and add their constitution modifier to determine the amount of HP gained at the level."
+  },
+  {
+    "question": "What level spell slot is required to send a Sending spell?",
+    "answer": "The sending spell is a 3rd-level evocation spell.",
+    "rules": [
+      "Section > Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "The spell description indicates the level of the spell. No further calculation is required."
+  },
+  {
+    "question": "If a character attempts to imitate the voice of another person to deceive someone, what kind of skill check is appropriate?",
+    "answer": "A Charisma (Deception) check should be made.",
+    "rules": [
+      "Section > Using Ability Scores > Charisma Checks > Deception"
+    ],
+    "rules_explanation": "The rules state \"Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions.\""
+  },
+  {
+    "question": "What is the DC for an insight check to determine if someone is lying?",
+    "answer": "The DC for the insight check is determined by the DM. The rules don't provide a fixed DC.",
+    "rules": [
+      "Section > Using Ability Scores > Wisdom Checks > Insight"
+    ],
+    "rules_explanation": "The rules state that the Wisdom (Insight) check determines whether you can determine the true intentions of a creature, such as when searching out a lie, and the difficulty is determined by the DM."
+  },
+  {
+    "question": "If a 16th level cleric casts Greater Restoration, what level spell slots must they expend?",
+    "answer": "Greater Restoration is a 5th-level abjuration spell.",
+    "rules": [
+      "Section > Spell Descriptions > Greater Restoration"
+    ],
+    "rules_explanation": "The spell description indicates the level of the spell. No further calculation is required."
+  },
+  {
+    "question": "If 16th level wizard casts Programmed Illusion, what level spell slots must they expend?",
+    "answer": "Programmed Illusion is a 6th-level illusion spell.",
+    "rules": [
+      "Section > Spell Descriptions > Programmed Illusion"
+    ],
+    "rules_explanation": "The spell description indicates the level of the spell. No further calculation is required."
+  },
+  {
+    "question": "If a 16th level wizard casts Summon Familiar, but doesn't specify any animal or shape for the familiar, what type of creature appears?",
+    "answer": "The rules for Summon Familiar don't allow for the omission of the animal's type. The wizard can choose a type from the available list.",
+    "rules": [
+      "Section > Spell Descriptions > Find Familiar"
+    ],
+    "rules_explanation": "The spell description specifies that the spirit takes an animal form *you choose* from the provided list of animals."
+  },
+  {
+    "question": "If 16th level wizard Melora casts Stoneshape to make a opening in a stone wall, is there a limit to the thickness of the wall she can make a passage through?",
+    "answer": "Yes, the wall has to be no more than 5 feet thick.",
+    "rules": [
+      "Section > Spell Descriptions > Stone Shape"
+    ],
+    "rules_explanation": "The spell description indicates that the wall can be no more than 5 feet in any dimension."
+  },
+  {
+    "question": "Can Fjord summon an Arcane Gate with one end next to himself, and the other end 450 yards away?",
+    "answer": "No, the description of the spell says one must have visual on the destination point of the gate, which he does not.",
+    "rules": [
+      "Section > Spell Descriptions > Arcane Gate"
+    ],
+    "rules_explanation": "You have to be able to see both points the arcane gate will connect."
+  },
+  {
+    "question": "If Caleb teleports to The Evening Nip to save Veth's family, and he appears in a space that is already occupied, what happens to the person occupying that space?",
+    "answer": "The teleport fails if he attempts to teleport to a location occupied by solid matter or another creature",
+    "rules": [
+      "Section > Spell Descriptions > Teleport"
+    ],
+    "rules_explanation": "A space may only be occupied by one medium creature. You can't teleport into a space that is already occupied. "
+  },
+  {
+    "question": "Jester knows the cleric spell Modify Memory, and her party want's her to cast it, what level spell must she cast?",
+    "answer": "There is no cleric spell called Modify Memory",
+    "rules": [
+      "Section > Spell Lists > Cleric Spells"
+    ],
+    "rules_explanation": "The spell doesn't appear on the cleric spell list."
+  },
+  {
+    "question": "Veth casts Sending using Laura's voice, so the message is disguised. What ability check is appropriate to determine how convincing the deception is?",
+    "answer": "A Charisma (Deception) check is appropriate.",
+    "rules": [
+      "Section > Using Ability Scores > Charisma Checks > Deception"
+    ],
+    "rules_explanation": "The rules state \"Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions.\""
+  },
+  {
+    "question": "Caduceus is in melee combat, can he cast bless on an ally 60 feet away?",
+    "answer": "No. The range of the bless spell is only 30 feet.",
+    "rules": [
+      "Section > Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The description of the bless spell specifies that the target must be within 30 feet of the caster."
+  },
+  {
+    "question": "A 16th level cleric decides to cast Bless at 3rd-level, how many allies can he affect?",
+    "answer": "The cleric can affect 5 allies",
+    "rules": [
+      "Section > Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "Normally bless affects 3 allies, but if cast at a higher level, one additional ally can be targeted per level above 1st."
+  },
+  {
+    "question": "What is disadvantage, as it applies to saving throws, in Dungeons and Dragons 5th edition?",
+    "answer": "When you have disadvantage, you roll a second d20 when you make the roll. Use the lower of the two rolls.",
+    "rules": [
+      "Section > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules for advantage and disadvantage say that you roll a second d20 and use either the higher (for advantage) or lower (for disadvantage)."
+  },
+  {
+    "question": "What is the range of Dispel Magic?",
+    "answer": "The range of Dispel Magic is 120 feet.",
+    "rules": [
+      "Section > Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "The spell description indicates the range is 120 feet."
+  },
+  {
+    "question": "Yasha is attacking Trent who is 10 feet away from her. Trent then moves away. Can Yasha make an opportunity attack against Trent if she has the Sentinel feat?",
+    "answer": "This question cannot be resolved using the provided information. You must know the abilities of the specific feat.",
+    "rules": [
+      "Section > Combat > Actions > Opportunity Attacks"
+    ],
+    "rules_explanation": "The rules specify the conditions in which an opportunity attack can be made. However the interaction with the Sentinel feat depends on the actions of the Sentinel feat, which must be provided to completely answer the question."
+  },
+  {
+    "question": "Jester casts Dominate Person on Astrid, and succeeds. For the next minute, the DM controls Astrid. During the end of Astrid's turns, does she get another saving throw?",
+    "answer": "No. There is no rule in the Dominate Person description for the saving throw to be repeated at the end of her turns",
+    "rules": [
+      "Section > Spell Descriptions > Dominate Person"
+    ],
+    "rules_explanation": "After the initial save, the spell only specifies that the spell ends it target takes damage"
+  },
+  {
+    "question": "How much does it cost to add silver to a weapon, if someone wants to make it silvered?",
+    "answer": "It costs 100 gp to silver a single weapon or ten pieces of ammunition",
+    "rules": [
+      "Section > Equipment > Weapons > Silvered Weapons"
+    ],
+    "rules_explanation": "The text describes, the process of silvering a weapon, and the cost associated."
+  },
+  {
+    "question": "How far can someone be dragged if they are being carried, and the carrier uses the dash action?",
+    "answer": "A person can drag something, but is speed is reduced to 5 feet if they are carrying over their maximum carrying capacity",
+    "rules": [
+      "Section > Using Ability Scores > Strength > Lifting and Carrying"
+    ],
+    "rules_explanation": "The rules describe that you can push, drag or lift something in excess of carrying capacity."
+  },
+  {
+    "question": "If a ranger hits an enemy with a weapon attack, and a creature is within 5 feet of him, can he use his multiattack to attack that second creature?",
+    "answer": "This depends on the Multiattack attack action the Ranger has. It requires the Horde Breaker feature",
+    "rules": [
+      "Section > Classes > Ranger > Hunter > Hunter's Prey"
+    ],
+    "rules_explanation": "It only works against two creatures within 5 ft of the ranger"
+  },
+  {
+    "question": "If a creature has 5 levels of exhaustion, what is it's movement speed?",
+    "answer": "With 5 levels of exhaustion, the speed is reduced to 0.",
+    "rules": [
+      "Section > Appendix PH-A > Conditions > Exhaustion"
+    ],
+    "rules_explanation": "The table indicates the effect that each level of exhaustion has on a character"
+  },
+  {
+    "question": "A Wizard is about to be hit by a spell but rolls a natural 20 on his saving throw. However, he is affected by Bane, so needs to subtract a roll from a d4 from the total. Is this possible, or is the attack automatically avoided if a natrual 20 is rolled",
+    "answer": "You must modify the d20 roll with the Bane roll, and then compare to the DC to determine if you succeded in the saving throw.",
+    "rules": [
+      "Section > Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The d20 roll is used to compare to the Difficulty class. So you can not avoid calculating modifiers unless the roll is a 1."
+  },
+  {
+    "question": "Can a paladin learn Shillelagh as one of his prepared spells if they also have levels in druid, as it appears on the druid spell list?",
+    "answer": "No, a paladin can only prepare spells from the paladin spell list.",
+    "rules": [
+      "Section > Classes > Paladin > Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "Paladins can only choose from the paladin spell list when preparing their spells."
+  },
+  {
+    "question": "If a sorcerer has successfully cast Hold Person on Trent, what happens to him?",
+    "answer": "The target must succeed on a Wisdom saving throw or be paralyzed for the duration.",
+    "rules": [
+      "Section > Spell Descriptions > Hold Person"
+    ],
+    "rules_explanation": "The target is paralyzed for up to 1 minute, and can make another saving throw at the end of each of its turns to end the spell early. "
+  },
+  {
+    "question": "If a sorcerer multi-classed with warlock casts Hold Person and succeeds, can he now attack and kill him without further action?",
+    "answer": "No, paralysis itself does not cause death. Paralysis gives attack advantage",
+    "rules": [
+      "Section > Appendix PH-A > Conditions > Paralyzed"
+    ],
+    "rules_explanation": "The Paralysis condition states that all attacks against the creature have advantage. So attack rolls are easier to hit with but does not guarantee a kill."
+  },
+  {
+    "question": "Does a 3rd-level Dispel Magic spell automatically dispel Fly cast by a 4th-level spell?",
+    "answer": "No, Make an ability check using your spellcasting ability. The DC equals 10 + the spell's level",
+    "rules": [
+      "Section > Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "If it isn't of equal or lower value, you have to roll for it. You automatically break a 3rd level or lower spell."
+  },
+  {
+    "question": "In a party of four, what kind of DC should I impose for the Horrid Wilting spell?",
+    "answer": "Horrid Wilting has no variable effects. The Save DC is based on the caster's stats. ",
+    "rules": [
+      "Section > Spell Descriptions > Horrid Wilting"
+    ],
+    "rules_explanation": "There is no modifier in Horrid Wilting, and there are no variable elements based on party size, or level of the players, therefore the spell should be cast as described."
+  },
+  {
+    "question": "A 10th level wizard has Allura's staff, and is wielding it. If he casts globe of invulnerability using 6 charges from the staff, what level spell slot is used?",
+    "answer": "The Globe of Invulnerability staff is a 6th level spell and you use a level 6 spell slot",
+    "rules": [
+      "Section > Spell Descriptions > Globe of Invulnerability"
+    ],
+    "rules_explanation": "The staff has six charges, so a level 6 slot is used"
+  },
+  {
+    "question": "If an action has a bonus action as part of it, can both actions occur at the same time?",
+    "answer": "There is no general rule allowing two actions to be performed simultaneously. A bonus action is only available to when you take an action on their turn",
+    "rules": [
+      "Section > Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "Rules state you can take a bonus action *when* a special ability is used. Not during. "
+  },
+  {
+    "question": "Is a bard allowed to use polymorph on himself to change into a turtle?",
+    "answer": "Yes, a bard can use polymorph on himself.",
+    "rules": [
+      "Section > Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "The target can be a willing creature that you can see within range."
+  },
+  {
+    "question": "If a paladin has two silver pieces that are worth, in total, 20 copper pieces, what can he buy with it?",
+    "answer": "The two silver peices are worth enough to buy a laborer's work for a full day",
+    "rules": [
+      "Section > Equipment"
+    ],
+    "rules_explanation": "A silver piece buys a laborer's work for half a day"
+  },
+  {
+    "question": "If a player casts Chain Lightning, which also hit a player that had to be counterspelled and fails, does that waste all three bolts?",
+    "answer": "No, each target still gets a separate bolt.",
+    "rules": [
+      "Section > Spell Descriptions > Chain Lightning"
+    ],
+    "rules_explanation": "That action and the targeting occurs before the resolution occurs and saving throws happen"
+  },
+  {
+    "question": "If you are attempting to restrain someone, but they cast Dimension Door to try and escape your grasp, does their attempted teleport escape, the restraint?",
+    "answer": "Dimension door will not work because being restrained means your speed becomes 0, and they're will be no movement to cast the spell.",
+    "rules": [
+      "Section > Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "A restained creature's speed becomes zero and it can't benefit from any bonus to it's speed"
+  },
+  {
+    "question": "A Bard multi-classed with Warlock casts Hexblade Curse. Can he then make three attacks with Eldritch Blast and have the same target for all of them?",
+    "answer": "Yes, the beams from Eldritch Blast can be directed at the same target. Hexblade's Curse is applied to a target so they all have the benefit.",
+    "rules": [
+      "Section > Spell Descriptions > Eldritch Blast"
+    ],
+    "rules_explanation": "All beams can be directed at the same target "
+  },
+  {
+    "question": "A barbarian runs 20 feet, then makes a charge attack with his axe. Can he also use his normal movement?",
+    "answer": "No, the Charge attack replaces the action, it doesn't add to it.",
+    "rules": [
+      "Section > Monster > Special Traits"
+    ],
+    "rules_explanation": "You must use it. Doesn't mean you are gaining any additional"
+  },
+  {
+    "question": "Is a Globe of Invulnerability the same as an anti-magic field?",
+    "answer": "No. A globe of invulnerability only stops spells of level 5 or lower. The antimagic spell stops everything",
+    "rules": [
+      "Section > Spell Descriptions > Globe of Invulnerability"
+    ],
+    "rules_explanation": "The antimagic field spell stops any spell from entering or leaving the area."
+  },
+  {
+    "question": "If a paladin with the Path of Devotion oath is 25 feet away from his party members, do they gain a +1 bonus on saving throws?",
+    "answer": "This depends on what level the paladin is. The aura increases to 30 at 18th level.",
+    "rules": [
+      "Section > Classes > Paladin > Aura of Protection"
+    ],
+    "rules_explanation": "At 6th level the range is only 10, this increases to 30 at level 18."
+  },
+  {
+    "question": "What is the bonus to an athletics check granted by the portable ram?",
+    "answer": "The portable ram gives a +4 bonus on the Strength check.",
+    "rules": [
+      "Section > Equipment > Adventuring Gear > Portable Ram"
+    ],
+    "rules_explanation": "The equipment description explicitly indicates a +4 bonus on Strength checks made to break down doors with it."
+  },
+  {
+    "question": "The player wants to climb a smooth tree trunk, what ability check is appropriate?",
+    "answer": "A Strength (Athletics) check is appropriate when you attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.",
+    "rules": [
+      "Section > Using Ability Scores > Strength Checks > Athletics"
+    ],
+    "rules_explanation": "A smooth tree trunk would require a strenth and athletics"
+  },
+  {
+    "question": "Is it possible to make a sleight of hand check to stick a ring on someone's finger without them noticing?",
+    "answer": "Yes it is possible if the DM approves.",
+    "rules": [
+      "Section > Using Ability Scores > Dexterity Checks > Sleight of Hand"
+    ],
+    "rules_explanation": "Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check"
+  },
+  {
+    "question": "Is a character automatically detected if he casts a spell to teleport, or plane shift next to him?",
+    "answer": "The rules do not dictate any automatic detection based on spellcasting alone. Some spells however like 'detect magic' might detect this",
+    "rules": [
+      "Section > Spellcasting"
+    ],
+    "rules_explanation": "There is nothing here that causes a trigger of any kind."
+  },
+  {
+    "question": "What does advantage on the athletics check do?",
+    "answer": "If you have advantage, you roll a second d20 when you make the roll. Use the higher of the two rolls",
+    "rules": [
+      "Section > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules specify that this is how advantage works"
+  },
+  {
+    "question": "The Dragonborn Calliope has made it clear she wishes to protect the family. Does she make a persuasion or intimidation check to convince the bad guy to attack her instead?",
+    "answer": "This depends on the approach she is making to convince. If she is making threats, an intimidation check is appropriate. If she is using other means, persuasion is appropriate",
+    "rules": [
+      "Section > Using Ability Scores > Charisma Checks > Intimidation",
+      "Section > Using Ability Scores > Charisma Checks > Persuasion"
+    ],
+    "rules_explanation": "The two skills are specifically defined, and depend on the approach the player is taking."
+  },
+  {
+    "question": "Someone casts Hold Person with a touch spell. The touch happens but the person saves and remains unaffected. Does he still retain touch range, if that touch is only relevant for the spell?",
+    "answer": "No, the effects of a touch spell require the targeted individual to fail the saving throw. If the save succeeds, there is no persistent effect on the target and the touch is not retained",
+    "rules": [
+      "Section > Spellcasting > Range"
+    ],
+    "rules_explanation": "There are no rules here."
+  },
+  {
+    "question": "What happens if the DM rolls the same saving throw for multiple enemies and one has to roll higher than another to avoid the effect, but both succeed?",
+    "answer": "In this case, the DM is rolling and not taking an action so nothing happens",
+    "rules": [
+      "Section > DM_ADVICE"
+    ],
+    "rules_explanation": "The DM can choose any dice value that is equal to the same class. In this case, the results will be equal. "
+  },
+  {
+    "question": "Can the cleric make the oath to have two types of animal, or can it only be one type? What if he wants to defend more than just one type of animal?",
+    "answer": "There is no special oath that can be taken by clerics in the 5E rules. There's Oath, not Animal",
+    "rules": [
+      "Section > Classes > Paladin > Sacred Oath"
+    ],
+    "rules_explanation": "No rules as stated."
+  },
+  {
+    "question": "You have rolled a random number on a table of effects, and the effect says \"the target can't do something\", but the target is actually incapable of doing that thing in the first place. Is the effect wasted?",
+    "answer": "There are no explicit rules, in this section to determine this interaction. It is a question for the DM to determine the outcome",
+    "rules": [
+      "Section > Using Ability Scores",
+      "Section > Spell Descriptions"
+    ],
+    "rules_explanation": "There is no rule dictating what is intended."
+  },
+  {
+    "question": "A Rune Carver wants to use a magic time to increase all stats. Is this possible in D&D 5e?",
+    "answer": "This depends if a Manual of something, has been published as a part of 5e.",
+    "rules": [
+      "Section > Magic Items > Manual of Bodily Health"
+    ],
+    "rules_explanation": "There is a manual that increases Constitution. So it must be checked before use."
+  },
+  {
+    "question": "There is a note in the campaign diary, where the DM asks to 'add notes', can the DM add a note to a players note book? ",
+    "answer": "There are no rules. This depends what the note is used for, and it's intent.",
+    "rules": [
+      "Section > DM_ADVICE"
+    ],
+    "rules_explanation": "The answer relies on the GM's descretion."
+  },
+  {
+    "question": "There is a 30 foot pit, what happens if that 10 ton barrel of beer falls on the ground next to it",
+    "answer": "There are no hard rules, and is up to the DM to provide guidance in this section",
+    "rules": [
+      "Section > DM_ADVICE"
+    ],
+    "rules_explanation": "The DM may decide what will happen or whether a roll is required, this cannot be determined from the rules."
+  },
+  {
+    "question": "If a druid's totem is 10 feet away, can he hold an action to cast it?",
+    "answer": "There are no rules in this section that allow a druid to cast an action."
+  }
+]

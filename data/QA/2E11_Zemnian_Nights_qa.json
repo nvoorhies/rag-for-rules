@@ -1,0 +1,385 @@
+[
+  {
+    "question": "Can the Half-elf Ranger/Wizard, with the ritual casting ability, cast a spell as a ritual if that spell has the ritual tag?",
+    "answer": "Yes, if that spell has the ritual tag and the Half-elf Ranger/Wizard has the spell prepared or on their list of spells known.",
+    "rules": [
+      "Spellcasting > Ritual Casting",
+      "Half-Elf Racial Traits > Languages"
+    ],
+    "rules_explanation": "The general spellcasting rules state that if a character has a Ritual Casting feature, and the character has the spell prepared or on their list of spells known, they may cast it as a ritual. The SRD also states that by virtue of the Half-elf race, the character can speak, read, and write Common and Elvish."
+  },
+  {
+    "question": "Does darkvision provide dim light?",
+    "answer": "No. Within a specified range, a creature with darkvision can see in dim light as if it were bright light, and in darkness as if it were dim light.",
+    "rules": [
+      "Senses > Darkvision"
+    ],
+    "rules_explanation": "The SRD states that within a specified range, a creature with darkvision can see in dim light as if it were bright light, and in darkness as if it were dim light and does not create a volume of dim light around the creature."
+  },
+  {
+    "question": "Does the Mariner's studied leather armor include a +1, +2, or +3 armor bonus?",
+    "answer": "There is no description of Mariner's studied leather armor in the SRD. Only Armor +1, +2, or +3 has a mention of this bonus.",
+    "rules": [
+      "Equipment > Armor > Armor, +1, +2, or +3"
+    ],
+    "rules_explanation": "There is no such armor named mariner's studied leather armor in the srd. It is possible that the speaker is referring to a homebrew or non-srd item."
+  },
+  {
+    "question": "The level 3 Fighter Champion has darkvision, and is in an area of dim light. Does it grant him advantage on an investigation check?",
+    "answer": "No. Only the 'Keen Senses' trait grants advantage on certain checks based on the use of a sense. Darkvision allows one to see better in dim light and darkness.",
+    "rules": [
+      "Races Racial Traits",
+      "Skills > Investigation",
+      "Senses > Darkvision"
+    ],
+    "rules_explanation": "Having darkvision allows a character to see in darkness as if it were dim light, and in dim light as if it were bright light. This does not in itself grant advantage on checks."
+  },
+  {
+    "question": "Does adding a blue lining to a cloak make it a reversible cloak, and what is the cost?",
+    "answer": "The SRD doesn't cover the topic of customizing the appearance of equipment or materials. It is up to the DM to set a price and requirements for such a modification.",
+    "rules": [
+      "Equipment",
+      "Equipment > Selling Treasure"
+    ],
+    "rules_explanation": "The SRD has rules on treasure, selling treasure, prices of mundane items, and modifications of magic armor, but it says nothing about modifying the appearance of mundane armor, weapons or clothing."
+  },
+  {
+    "question": "The level 1 Half-elf Paladin wearing breastplate is attempting to persuade two town guards. What ability and skill should the Half-elf Paladin use to make the check?",
+    "answer": "A persuasion check would be a Charisma (Persuasion) check.",
+    "rules": [
+      "Skills > Charisma > Persuasion"
+    ],
+    "rules_explanation": "The SRD states that the Persuasion skill is a Charisma skill."
+  },
+  {
+    "question": "Is there an investigation action available to a character in 5e D&D, and what is it used for?",
+    "answer": "Yes. When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check.",
+    "rules": [
+      "Skills > Intelligence > Investigation"
+    ],
+    "rules_explanation": "SRD Describes the Investigation Skill as described."
+  },
+  {
+    "question": "Can a level 1 Half-elf ranger/wizard perform the Thaumaturgy cantrip and open all the windows?\"",
+    "answer": "Thaumaturgy does not allow you to open and slam windows open. You can create a harmless tremors in the ground for 1 minute and it would then be up to the GM to determine if it can open the windows.",
+    "rules": [
+      "Spell Descriptions > Thaumaturgy",
+      "Half-Elf Racial Traits > Languages"
+    ],
+    "rules_explanation": "The spell description for Thaumaturgy allows only for a limited number of effects. Opening windows is not listed"
+  },
+  {
+    "question": "Can a level 1 Half-elf Ranger/Wizard make a history check to know the Constellation Bridge is?",
+    "answer": "Yes, a level 1 character with proficiency in the History skill may make a history check. Add your Intelligence modifier and proficiency bonus to your roll.",
+    "rules": [
+      "Skills > Intelligence > History",
+      "Half-Elf Racial Traits > Languages"
+    ],
+    "rules_explanation": "The SRD rules state that if a character has proficiency in a skill, they can add their proficiency bonus to ability checks that involve that skill. A level 1 character would add 2 to this roll."
+  },
+  {
+    "question": "What is the sleight of hand skill used for?",
+    "answer": "Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The GM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.",
+    "rules": [
+      "Skills > Dexterity > Sleight of Hand"
+    ],
+    "rules_explanation": "The SRD Contains this description of the sleight of hand skill."
+  },
+  {
+    "question": "What bonus does a character with proficiency in thieve's tools apply to Dexterity checks made to open a locked door?",
+    "answer": "A character proficient with thieves' tools adds their proficiency bonus to Dexterity checks made to pick locks.",
+    "rules": [
+      "Skills > Dexterity",
+      "Equipment > Tools > Thieves' Tools"
+    ],
+    "rules_explanation": "Proficiency in a tool lets you add your proficiency bonus to ability checks you make using that tool. Theives' tools can be used to pick locks. This would result in a Dexterity check."
+  },
+  {
+    "question": "A level 1 Chaotic Good Fighter wants to make a deal with Pumat Soul, they are hoping to get a discount on a healing potion. What check do they use and where does it come from?",
+    "answer": "To try and bargain for a discount, the player should use a Charisma (Persuasion) check.",
+    "rules": [
+      "Skills > Charisma > Persuasion"
+    ],
+    "rules_explanation": "Persuasion checks are described in the SRD under Charisma skills."
+  },
+  {
+    "question": "Beau has darkvision and the torch was put out. What is the result of the investigation check for trap doors with disadvantage?",
+    "answer": "The SRD does not list any rules about darkvision granting advantage, so there is no advantage. However, since there is no light source, you have disadvantage on this because there is no light source in the area.",
+    "rules": [
+      "Advantage and Disadvantage",
+      "Senses > Darkvision"
+    ],
+    "rules_explanation": "With disadvantage due to the dim light, the PC rolls two d20s and takes the lower of the two rolls. The SRD makes no mention of darkvision granting advantage on ability checks."
+  },
+  {
+    "question": "Can a multi-classed character add a stat bonus to a spell attack or a saving throw DC?",
+    "answer": "Yes, both attack rolls and saving throw DCs are based on a spellcasting ability score, which can be affected by the Ability Score Increase feature.",
+    "rules": [
+      "Spellcasting > Spell Save DC",
+      "Spellcasting > Spell Attack Modifier",
+      "Ability Score Improvement"
+    ],
+    "rules_explanation": "The relevant modifiers for spell attacks and saving throws are directly determined by ability scores. The Ability Score Improvement feature allows you to increase these, thereby increasing the related modifiers."
+  },
+  {
+    "question": "What is the damage dice for an axe used by a level 1 character?",
+    "answer": "1d6 (short axe) to 1d12 (greataxe)",
+    "rules": [
+      "Equipment > Weapons"
+    ],
+    "rules_explanation": "This is obtained directly from the weapons table based on the weapon name."
+  },
+  {
+    "question": "If the level 2 wizard/ranger is using the Detect Magic spell, is it from the spell list they use? Also, what is the range of the spell?",
+    "answer": "Yes, Detect Magic is a level 1 spell on both the Wizard and Ranger spell list. The range is Self.",
+    "rules": [
+      "Spell Lists > Wizard Spells",
+      "Spell Lists > Ranger Spells",
+      "Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "Per the spell description in the SRD it has a casting time of 1 action, requires verbal and somatic components, and has a range of Self."
+  },
+  {
+    "question": "How long does Disguise Self last and does it require concentration?",
+    "answer": "Disguise Self lasts for 1 hour and it requires Concentration.",
+    "rules": [
+      "Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "As per the spell description in the SRD, it is a level 1 illusion spell. The range is self, requires verbal and somatic components and has a duration of 1 hour and concentration."
+  },
+  {
+    "question": "what skill should the group use to keep an eye on a situation outside of a tavern?",
+    "answer": "The skill used to maintain vigilance in a tavern exterior would be Wisdom (Perception).",
+    "rules": [
+      "Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "The description for perception in the SRD covers spotting, hearing, or detecting the presence of something. This would apply to seeing if anyone suspicious was approaching."
+  },
+  {
+    "question": "Can a level 2 ranger/wizard cast Message twice?",
+    "answer": "Since Message is a cantrip, a spellcaster can cast it as many times as desired.",
+    "rules": [
+      "Spellcasting > Cantrips"
+    ],
+    "rules_explanation": "Since it is a cantrip, it requires no spell slots and is cast as willed."
+  },
+  {
+    "question": "Nott is a level 1 goblin. Nott has disadvantage on something. Can Nott use Lucky to change 2 bad rolls to 2 good rolls?",
+    "answer": "No, if circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Races Racial Traits > Halfling > Lucky"
+    ],
+    "rules_explanation": "The rules state that advantage and disadvantage cancel each other out; you roll only one d20 and Lucky cannot affect it. Lucky allows you to reroll a d20 but cannot grant advantage."
+  },
+  {
+    "question": "What are the rules for a level 2 ranger/wizard with spiderclimb and also with a condition where they have a difficult time seeing?",
+    "answer": "If a character has a climbing speed, they do not need to spend extra movement to climb. If a character has difficulty seeing, they may have disadvantage on checks based on sight.",
+    "rules": [
+      "Movement > Special Types of Movement > Climbing",
+      "Movement > Difficult Terrain",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The text provided shows the conditions for both having a climbing speed as well as having advantage and disadvantage. Since there is nothing in the question to show both at once, there is no cross interaction."
+  },
+  {
+    "question": "What is a skill DC?",
+    "answer": "There is no such thing as a skill DC. The Difficulty Class (DC) is the target number for a saving throw, ability check or attack roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Saving Throws"
+    ],
+    "rules_explanation": "The SRD refers to Difficulty Class as a target number for checks and saving throws, not to skills."
+  },
+  {
+    "question": "When the Fighter uses a bonus action for Second Wind to regain hit points, what is the range of the ability?",
+    "answer": "The Second Wind ability targets only the user, so the range is self.",
+    "rules": [
+      "Fighter > Class Features > Second Wind"
+    ],
+    "rules_explanation": "The Second Wind feature in the SRD states \"On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.\""
+  },
+  {
+    "question": "How do we use a helping person's actions for the chain lock investigation?",
+    "answer": "The helper grants advantage on the check to another character.",
+    "rules": [
+      "Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "Characters working together on a task that requires an ability check can give each other advantage on the check."
+  },
+  {
+    "question": "What is the perception penalty in Dim light?",
+    "answer": "In a lightly obscured area, such as dim light, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.",
+    "rules": [
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "The Vision and Light section of the SRD says that light obscurity creates disadvantage on Wisdom (Perception) checks that rely on sight."
+  },
+  {
+    "question": "If the 3rd level thief has a magic item, can they slide the book under a tray of bread?",
+    "answer": "Yes, if the act of sliding the book is quick and unobtrusive. A Sleight of Hand check is required.",
+    "rules": [
+      "Skills > Dexterity > Sleight of Hand"
+    ],
+    "rules_explanation": "Performing a quick act of legerdemain, such as hiding something, requires a Dexterity (Sleight of Hand) check."
+  },
+  {
+    "question": "Can the level 3 wizard use a familiar's senses when the familiar is on a different plane?",
+    "answer": "While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.",
+    "rules": [
+      "Wizard",
+      "Wizard > Spellcasting",
+      "Wizard > Find Familiar"
+    ],
+    "rules_explanation": "This is not in the description of the find familiar spell, and it has a range limit of 100 feet. Therefore, the familiar and character must be within 100 feet of each other to use the familiar's senses."
+  },
+  {
+    "question": "If the level 3 wizard used the Friends spell on the man, what are the consequences?",
+    "answer": "A typical spell in 5e does not have lingering consequences, but after the spell ends the target knows you used magic to influence them and they may act hostile towards you.",
+    "rules": [
+      "Spell Descriptions > Friends"
+    ],
+    "rules_explanation": "It does not appear to be something that is specified in the srd."
+  },
+  {
+    "question": "Where can I find the details of someone's race, and the skills they are proficient in?",
+    "answer": "The description of each race includes racial traits that are common to members of that race. The following entries appear among the traits of most races. The race can speak, read, and write certain languages.",
+    "rules": [
+      "Races Racial Traits",
+      "Races Racial Traits > Languages"
+    ],
+    "rules_explanation": "As defined in the srd."
+  },
+  {
+    "question": "With a dagger and a shortsword, what proficiency bonus is applied to each weapon?",
+    "answer": "The proficiency bonus is applied once to the attack roll, not per weapon. Also, the proficient character must also have proficiency in those types of weapons.",
+    "rules": [
+      "Equipment > Weapons > Weapon Proficiency"
+    ],
+    "rules_explanation": "A proficiency bonus is a value determined by character level. So the bonus for a weapon is based on character level and if the character is proficient in the weapon used."
+  },
+  {
+    "question": "The level 3 wizard/ranger decides they are a bit tuckered, so they take a rest upstairs. What is the minimum amount of time required for a rest?",
+    "answer": "A short rest is at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds. A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity",
+    "rules": [
+      "Resting > Short Rest",
+      "Resting > Long Rest"
+    ],
+    "rules_explanation": "A short rest is a period of downtime, at least 1 hour long, and a long rest is a period of extended downtime, at least 8 hours long"
+  },
+  {
+    "question": "Is it against the rules for characters to split the party?",
+    "answer": "No, there are no such rules against splitting the party.",
+    "rules": [],
+    "rules_explanation": "There is nothing about splitting the party anywhere in the rules."
+  },
+  {
+    "question": "A level 3 ranger/wizard casts Disguise Self, but then their real body is found. Can the two crownsguard see both of them?",
+    "answer": "The changes wrought by the Disguise Self spell fail to hold up to physical inspection.",
+    "rules": [
+      "Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "The description for Disguise Self specifies that the changes wrought by it fail to hold up to physical inspection, but it seems to hold up to sight."
+  },
+  {
+    "question": "How can a level 3 Half-elf fighter check if a door is trapped?",
+    "answer": " A Wisdom (Perception) check is appropriate for detecting traps.",
+    "rules": [
+      "Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "Detecting a trap is a common use of the Wisdom (Perception) skill."
+  },
+  {
+    "question": "If 2 characters are making perception checks at the same time, do both add the perception stat to the roll?",
+    "answer": "Yes, each character rolls separately and adds their own Wisdom modifier to the roll. If they are proficient, they also add their proficiency bonus.",
+    "rules": [
+      "Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "Perception checks use the wisdom modifier plus the character's proficiency bonus if they are proficient in the skill."
+  },
+  {
+    "question": "What is the range of the message cantrip, and can you reply to it?",
+    "answer": "The range of the Message cantrip is 120 feet. The target can reply in a whisper that only you can hear.",
+    "rules": [
+      "Spell Descriptions > Message"
+    ],
+    "rules_explanation": "The spell description provides the answer to this question."
+  },
+  {
+    "question": "If you can see the target from the street, can the Disguise Self fool the crownsguard?",
+    "answer": "Disguise Self's description states that the changes wrought by this spell fail to hold up to physical inspection, not visual inspection. Therefore the spell could trick them if they were not close enough for inspection.",
+    "rules": [
+      "Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "The spell description says nothing about how close a person needs to be to determine if the spell is in effect"
+  },
+  {
+    "question": "What does the blessing spell do and for how long?",
+    "answer": "Bless blesses up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw. It is a concentration spell up to 1 minute.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The description for the Bless spell provides the information needed to answer the question."
+  },
+  {
+    "question": "What does the Crown of Madness spell do, what saving throw does it require, and what happens on a successful save?",
+    "answer": "The target must make a Wisdom saving throw. On a failed save, the target is charmed by you for the duration. While charmed, it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The charmed target can act only in this way on its turn, and must end its turn if there is no one it can attack. If you've given the charmed target no commands, it defends itself against hostile creatures. When you cast the spell, or as an action on a later turn, you can target another creature within range. The cord snaps if you or any of your companions do anything harmful to the target.",
+    "rules": [],
+    "rules_explanation": "This is not in the SRD, so cannot answer definitively."
+  },
+  {
+    "question": "Does it take the ranger an action to use darkness with the darkness eyes?",
+    "answer": "Since you have not specified 'darkness eyes' (a wondrous item), this is a yes or no questions. The darkness is a magic item, but the usage requires an action.",
+    "rules": [
+      "Activating an Item"
+    ],
+    "rules_explanation": "When a magic item needs an action to activate, that is specified in the item's description. Also, any activated property of an item is under its control, not the wielder's."
+  },
+  {
+    "question": "When do long term effects expire for touch spells?",
+    "answer": "Spells that don't list a duration persist until they are dispelled or otherwise nullified.",
+    "rules": [
+      "Spellcasting > Duration",
+      "Spellcasting > Duration > Instantaneous"
+    ],
+    "rules_explanation": "Spells with an instantaneous duration have no set length. Therefore, their effects persist unless dispelled or otherwise nullified."
+  },
+  {
+    "question": "Is it easier to follow a person in disguise if you have seen them before?",
+    "answer": "No. the better you know someone that you're trying to recognize, the better you will be at seeing past the disguise.",
+    "rules": [],
+    "rules_explanation": "This is not in the SRD. This would depend on the game master's judgement, not a specific rule. It is not something that can be answered from the SRD."
+  },
+  {
+    "question": "What happens if I dispel the disguise?",
+    "answer": "If you are the caster, Disguise Self can be dismissed at any time. A dispel magic spell will end it too.",
+    "rules": [
+      "Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "The Disguise Self spell description states how it can be ended. There is no saving throw, just the statement of the spell duration and how to end it."
+  },
+  {
+    "question": "If the party fails all of their plans what is their responsibility with the Knights of Requital?",
+    "answer": "If the characters entered into an agreement with the Knights of Requital, it is the GM's discretion to decide what they would do or how they would react if you don't hold up your end of the bargain.",
+    "rules": [],
+    "rules_explanation": "There are no specific rules about this circumstance."
+  },
+  {
+    "question": "Can all party members have a familiar?",
+    "answer": "Only if all party members have access to the Find Familiar spell and cast it themselves.",
+    "rules": [
+      "Spell Descriptions > Find Familiar"
+    ],
+    "rules_explanation": "The Find Familiar spells only grants each caster 1 familiar. There's no rules on multiple characters having a shared familiar."
+  },
+  {
+    "question": "Can a caster cast the Guidance and Blessing spell on the same character?",
+    "answer": "Yes. The guidance cantrip does not require concentration, and the blessing spell creates a separate effect.",
+    "rules": [
+      "Spell Descriptions > Guidance",
+      "Spell Descriptions > Bless",
+      "Spellcasting > Combining Magical Effects"
+    ],
+    "rules_explanation": "The rules state that, in general, multiple magical effects can affect a target as long as the spells are different. The rule on spells of the same name only prevents recasting the same spell, not using two different spells that create similar effects."
+  }
+]

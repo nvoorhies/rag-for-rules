@@ -1,0 +1,433 @@
+[
+  {
+    "question": "Can the level 10 Sorcerer with the Draconic Bloodline add their Charisma modifier on the roll of the projectile spell from their sky sentinel bowstring?",
+    "answer": "It is not possible to determine from the rules provided in the SRD whether the level 10 Sorcerer with the Draconic Bloodline can add their Charisma modifier on the roll of the projectile spell from their sky sentinel bowstring.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this combination of abilities applies from the rules provided."
+  },
+  {
+    "question": "Can the level 4 Paladin add a d10 inspiration die to the current wisdom check being performed?",
+    "answer": "It is not possible to determine from the rules provided in the SRD whether the level 4 Paladin can add a d10 inspiration die to the current wisdom check being performed.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this combination of abilities applies from the rules provided."
+  },
+  {
+    "question": "A character with a Dexterity score of 17 makes an acrobatics check and rolls a 31. Given a rooftop height of 16 to 20 feet, can they reach the rooftop?",
+    "answer": "It is not possible to determine from the rules provided in the SRD whether the acrobatics check is sufficient to reach the rooftop.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this check is sufficient to reach the rooftop."
+  },
+  {
+    "question": "Does a 17 roll on a DC 17 saving throw succeed?",
+    "answer": "Yes, if the total of the roll plus modifiers equals or exceeds the DC, the saving throw is a success.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The rules state that the total must equal *or exceed* the DC for the saving throw to be a success."
+  },
+  {
+    "question": "How many points of damage does the 1st level bard do when casting Thunderwave at 3rd level?",
+    "answer": "It is not possible to determine the points of damage for Thunderwave from the rules provided.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this combination of abilities applies from the rules provided."
+  },
+  {
+    "question": "Can a hasted character spend two actions and a bonus action in one turn?",
+    "answer": "No, the _Haste_ spell only grants one extra action per turn, not two.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Haste"
+    ],
+    "rules_explanation": "The Haste spell allows the use of a *single* extra action on each of the target's turns. As a bonus action is not an action, spending it is not relevant to this limit."
+  },
+  {
+    "question": "If a spell effect requires a DC 10 Constitution saving throw, does a roll of 12 succeed?",
+    "answer": "Yes, if the total of the roll plus modifiers equals or exceeds the DC, the saving throw is a success.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The rules state that the total must equal *or exceed* the DC for the saving throw to be a success."
+  },
+  {
+    "question": "Can a wizard use a sorceror-specific ability, such as a metamagic?",
+    "answer": "No, metamagic is a sorcerer class feature, and cannot be used by another class unless they have a specific feature allowing it.",
+    "rules": [
+      "Classes > Sorcerer > Metamagic"
+    ],
+    "rules_explanation": "Metamagic options are only available to the sorcerer class. There is nothing in the general rules on classes, nor in the descriptions of other classes, to suggest that characters can access the abilities of classes other than the ones that they have taken."
+  },
+  {
+    "question": "Can the level 3 barbarian rage and use reckless attack at the same time?",
+    "answer": "Yes, using Reckless Attack and Rage on the same turn is allowed. Reckless Attack is used when you make your first attack, while entering a rage uses a bonus action.",
+    "rules": [
+      "Classes > Barbarian > Rage",
+      "Classes > Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "Rage can be triggered as a bonus action on a turn, and Reckless Attack is triggered when the player makes their first attack. As these do not share an action type, it is possible to use them both."
+  },
+  {
+    "question": "A character that has been subjected to a *Cone of Cold* is in the area of another spell. Does the effect apply in the area?",
+    "answer": "Yes. A condition caused by Cone of Cold does not block other area effects.",
+    "rules": [],
+    "rules_explanation": "The SRD lists all of the effects of the _Cone of Cold_ spell. The spell has no properties that affect the application of other effects."
+  },
+  {
+    "question": "Does a ranger apply Hunter's Mark damage, and Sneak Attack damage to a single attack?",
+    "answer": "No, a creature can only apply sneak attack damage once per turn.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "Sneak Attack only applies to one attack per turn."
+  },
+  {
+    "question": "Can an action surge be used to repeat an action, such as fixing a misfired weapon?",
+    "answer": "Yes, you can use Action Surge to take one additional action on your turn.",
+    "rules": [
+      "Classes > Fighter > Action Surge"
+    ],
+    "rules_explanation": "The Action Surge class feature for Fighters grants an additional action that can be used for any action."
+  },
+  {
+    "question": "Does a creature with poison resistance take 1/4 damage from a poison effect?",
+    "answer": "No, a creature with resistance to poison damage takes half damage, and would apply any other modifiers before halving.",
+    "rules": [
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The rules state \"If a creature or an object has resistance to a damage type, damage of that type is halved against it.\" There is no 'quarter' resistance."
+  },
+  {
+    "question": "Can a level 1 Bard heal themselves with a bonus action?",
+    "answer": "It is not possible to determine whether a level 1 Bard can heal themselves with a bonus action from the rules provided.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this is possible."
+  },
+  {
+    "question": "Does resistance to poison halve the damage of effects that cause both damage and the poisoned condition?",
+    "answer": "It is not possible to determine from the rules provided in the SRD whether resistance to poison halves the damage in effects which cause both damage and the poisoned condition.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this combination of abilities applies from the rules provided."
+  },
+  {
+    "question": "If a character succeeds on a DC 15 Dexterity saving throw, is there an option that they take no damage?",
+    "answer": "Yes, under the effects of the Evasion Class Feature.",
+    "rules": [
+      "Classes > Rogue > Evasion"
+    ],
+    "rules_explanation": "The Evasion class feature grants a rogue to take no damage if they succeed on the saving throw."
+  },
+  {
+    "question": "Can a person use two actions, one to make a melee attack and one to reload?",
+    "answer": "It is not possible to determine whether a person can use two actions to make a melee attack and reload from the rules provided.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this is possible."
+  },
+  {
+    "question": "Do you get to take your held action immediately after the thing triggers the held action?",
+    "answer": "Yes, you can either take your reaction right after the trigger finishes or ignore the trigger.",
+    "rules": [
+      "Combat > Your Turn > Ready"
+    ],
+    "rules_explanation": "The text states “When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger.”"
+  },
+  {
+    "question": "Does having one creature in melee range allow you to get sneak attack on another creature?",
+    "answer": "Yes, if the target is within 5 feet of an ally of the rogue that isn't incapacitated and the rogue doesn't have disadvantage on the attack roll.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The rules state that you don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll."
+  },
+  {
+    "question": "How do you determine a character's total for a passive perception check?",
+    "answer": "A character's total for a passive perception check is 10 + all modifiers that normally apply to the check. If the character has advantage on the check, add 5. For disadvantage, subtract 5.",
+    "rules": [
+      "Using Ability Scores > Passive Checks"
+    ],
+    "rules_explanation": "The total is calculated as 10 + all modifiers that normally apply to the check. Advantage grants +5 to the total, while disadvantage grants -5 to the total."
+  },
+  {
+    "question": "If a feat requires a Strength of 13 or higher, and the character's strength drops below 13, can you still use that feat?",
+    "answer": "No. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite.",
+    "rules": [
+      "Feats"
+    ],
+    "rules_explanation": "The first paragraph of the Feats section specifies that one must meet any prerequisite to use it."
+  },
+  {
+    "question": "Does a shield affect an ability check?",
+    "answer": "No, a shield does not affect an ability check.",
+    "rules": [
+      "Equipment > Armor > Shields"
+    ],
+    "rules_explanation": "A shield grants a bonus to AC, but does not impose a penalty on ability checks, saving throws, or attack rolls. The Stealth section notes that some armors impose a Disadvantage on Dexterity (Stealth) checks."
+  },
+  {
+    "question": "Does an airship count as solid ground for a Tremorsense ability?",
+    "answer": "It is not possible to determine from the rules provided in the SRD whether an airship counts as solid ground for a Tremorsense ability.",
+    "rules": [],
+    "rules_explanation": "The description of tremorsense only indicates the ability to detect vibrations while in contact with \"the same ground or substance\". An airship is not on the ground, and whether it counts as a \"substance\" that would transmit tremors is up to the DM."
+  },
+  {
+    "question": "Does the heavy property impose disadvantage on attacks at level 1?",
+    "answer": "No. Small creatures have disadvantage on attack rolls with heavy weapons.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Heavy"
+    ],
+    "rules_explanation": "The heavy property only affects small characters. It does not grant disadvantage to larger creatures."
+  },
+  {
+    "question": "Can someone who does not have an ability make an insight check?",
+    "answer": "Yes, anyone can attempt an ability check. Proficiency in the Insight skill means  an individual can add his or her proficiency bonus to ability checks that involve that skill.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The rules state proficiency in a skill adds the bonus to the check, but it is not a requirement to make the ability check."
+  },
+  {
+    "question": "Is a character with the Cloak of Displacement harder to hit?",
+    "answer": "Yes, a character with the Cloak of Displacement causes attackers to have disadvantage on attack rolls.",
+    "rules": [],
+    "rules_explanation": "The exact rules for the cloak of displacement are not in the SRD, but it is assumed that such a cloak works in this way based on information given."
+  },
+  {
+    "question": "What modifier is added to the damage for fire ball cast from a wand?",
+    "answer": "A spell cast from an item uses the spell save DC, spell attack bonus, and spellcasting ability of the item's user.",
+    "rules": [
+      "Magic Items > Activating an Item > Spells"
+    ],
+    "rules_explanation": "The rules state \"The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell.\""
+  },
+  {
+    "question": "Is it possible to use the spell Pass Without Trace when you are already taking a short rest?",
+    "answer": "It is not possible to determine from the rules provided in the SRD whether you can cast spells during a short rest.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this is possible."
+  },
+  {
+    "question": "Do small characters have disadvantage on the damage of heavy weapons?",
+    "answer": "No, small characters have disadvantage on the *attack rolls* with heavy weapons.",
+    "rules": [
+      "Races > Racial Traits > Size",
+      "Equipment > Weapons > Weapon Properties > Heavy"
+    ],
+    "rules_explanation": "The 'Size' trait of a race states that small characters have trouble wielding heavy weapons, \"as explained in 'Equipment'.\" In the weapon properties list, it is the attack roll, not the damage roll, that is affected by this."
+  },
+  {
+    "question": "If I have proficiency with the Perception skill, can I add my proficiency bonus to a roll?",
+    "answer": "Yes, if you are proficient in a skill, you can add your proficiency bonus to ability checks that involve that skill.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "If the check is for a skill you are proficient in, then you may add your proficiency bonus."
+  },
+  {
+    "question": "I am holding craven edge. If the effect is from a 6th level spell, am I able to use counterspell?",
+    "answer": "No. _Counterspell_ is a 3rd level spell and therefore cannot counter a 6th level spell.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Counterspell"
+    ],
+    "rules_explanation": "The _Counterspell_ spell description indicates that it can stop any spell of 3rd level or lower. Using a higher level spell slot allows the spell to stop a higher level spell."
+  },
+  {
+    "question": "If a spell with Scrying was performed, what is the duration?",
+    "answer": "The duration of the scrying spell depends on the spell used.",
+    "rules": [
+      "Spellcasting > Spell Descriptions"
+    ],
+    "rules_explanation": "There are many spells that have the ability of scrying. It is up to which is cast to what is the duration of the spell."
+  },
+  {
+    "question": "If there are two opponents flanking me, does that mean I have advantage on the attack?",
+    "answer": "It is not possible to determine from the rules provided in the SRD whether two opponents flanking grants advantage on the attack.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this combination of abilities applies from the rules provided."
+  },
+  {
+    "question": "Does a ranger with Favored Enemy (Dragons) do additional damage against half-dragons?",
+    "answer": "No, the Favored Enemy trait does not affect half-dragons.",
+    "rules": [
+      "Classes > Ranger > Favored Enemy"
+    ],
+    "rules_explanation": "The Favored Enemy trait states that the ranger has significant experience with a \"certain *type* of enemy\". Half-Dragons do not have the Dragon *type*, thus they do not count towards the trait."
+  },
+  {
+    "question": "If the spell Dominate Person fails, is a creature still friendly to the wizard?",
+    "answer": "No, on a failed save, the target is friendly to the caster.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Dominate Person"
+    ],
+    "rules_explanation": "The dominate person spell description says, \"If it fails the saving throw, it is charmed by you for the duration.\""
+  },
+  {
+    "question": "If I have disadvantage on an attack, but am helped by an ally, do I still have disadvantage?",
+    "answer": "Yes, if circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules state \"If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20.\""
+  },
+  {
+    "question": "What does it mean for something to be Small for these specific rules?",
+    "answer": "Small is a size category including creatures that are between 2 and 4 feet tall.",
+    "rules": [
+      "Races > Racial Traits > Size"
+    ],
+    "rules_explanation": "Characters of most races are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few races are Small (between 2 and 4 feet tall)."
+  },
+  {
+    "question": "What is the rule for exhaustion?",
+    "answer": "A creature suffers the effect of its current level of exhaustion as well as all lower levels. Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "The description of the Exhaustion condition in Appendix A covers this information. More detailed effect descriptions require reference to the table."
+  },
+  {
+    "question": "If a wizard casts a spell using a spell slot of 3rd level or higher that allows a choice of damage type, can they change the damage type to something other than fire or radiant?",
+    "answer": "No, when you cast a spell at a higher level, you can't change what has been written in the spells description.",
+    "rules": [
+      "Spellcasting > Casting a Spell at a Higher Level",
+      "Spellcasting > Spell Descriptions > Flame Strike"
+    ],
+    "rules_explanation": "The general rule for casting spells at a higher level is that \"the spell assumes the higher level for that casting\", which increases some effects of some spells, but does not allow you to change the damage type or effect as written in the spell description."
+  },
+  {
+    "question": "If I don't have advantage on my Dexterity (Stealth) check, do I still get the plus 10 from hiding in plain sight?",
+    "answer": "Yes, if you remain there without moving or taking actions",
+    "rules": [
+      "Classes > Ranger > Hide in Plain Sight"
+    ],
+    "rules_explanation": "The conditions for the bonus are that you must have access to materials to camouflage with and that you remain without moving or taking actions. It has no requirement for advantage."
+  },
+  {
+    "question": "Can a 17th level thief add sneak attack if I am attacking with advantage?",
+    "answer": "Yes, you can deal an extra 1d6 damage when you hit a target with a weapon attack and have advantage on the attack roll",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The rogue's sneak attack states that you can deal an extra damage when you hit a target with a weapon attack and have advantage on the attack roll."
+  },
+  {
+    "question": "Am I able to fix it?",
+    "answer": "It is not possible to determine whether you can fix the weapon from the rules provided.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this combination of abilities applies from the rules provided."
+  },
+  {
+    "question": "If a beast fails a save, is it still dominated? Can you command it?",
+    "answer": "It is not possible to dominate a beast with the Dominate Person spell.",
+    "rules": [
+      "Spellcasting > Dominate Person"
+    ],
+    "rules_explanation": "The text of the spell states \"You attempt to beguile a *humanoid* that you can see within range.\""
+  },
+  {
+    "question": "Can a level 3 wild magic sorceress cast lightning bolt at 7th level?",
+    "answer": "It is not possible to determine whether a level 3 wild magic sorceress can cast lightning bolt at 7th level from the rules provided.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this combination of abilities applies from the rules provided."
+  },
+  {
+    "question": "What die is rolled for wild magic surge at level 16?",
+    "answer": "It is not possible to determine what die is rolled for wild magic surge at level 16 from the rules provided.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine what die is rolled for wild magic surge at level 16."
+  },
+  {
+    "question": "How much force damage do you take from the sphere of annihilation",
+    "answer": "Anything that touches the sphere but isn't wholly engulfed and obliterated by it takes 4d10 force damage.",
+    "rules": [
+      "Magic Items > Sphere of Annihilation"
+    ],
+    "rules_explanation": "The description of the Sphere of Annihilation states this information."
+  },
+  {
+    "question": "Does a potion of greater healing prevent infection?",
+    "answer": "No, greater healing does not prevent infection",
+    "rules": [
+      "Magic Items > Potion of Healing"
+    ],
+    "rules_explanation": "There is no mention of any side effects in potion of healing that would give the user the ability to fight of infection."
+  },
+  {
+    "question": "Can you use more than one metamagic?",
+    "answer": "No, you can use only one Metamagic option on a spell when you cast it, unless otherwise noted.",
+    "rules": [
+      "Classes > Sorcerer > Metamagic"
+    ],
+    "rules_explanation": "The second paragraph says this rule."
+  },
+  {
+    "question": "What's the attack bonus and damage for the weapon?",
+    "answer": "It is not possible to determine the attack bonus and damage for the weapon from the rules provided.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this combination of abilities applies from the rules provided."
+  },
+  {
+    "question": "If an attack is made with advantage against you, what does Cloak of Displacement do?",
+    "answer": "The attacker has disadvantage on the attack roll",
+    "rules": [],
+    "rules_explanation": "The exact rules for the cloak of displacement are not in the SRD, but it is assumed that such a cloak works in this way based on information given."
+  },
+  {
+    "question": "Can you cast a spell using components that it does not include? What if there is a cost to the components, and you don't have enough?",
+    "answer": "No, if you can't provide one or more of a spell's components, you are unable to cast the spell.",
+    "rules": [
+      "Spellcasting > Components"
+    ],
+    "rules_explanation": "The rules state \"If you can't provide one or more of a spell's components, you are unable to cast the spell.\""
+  },
+  {
+    "question": "How long can the Sun Tree stay open at level 4?",
+    "answer": "It is not possible to determine how long the Sun Tree can stay open from the rules provided.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this combination of abilities applies from the rules provided."
+  },
+  {
+    "question": "Can a player use a Limrick to cast a spell?",
+    "answer": "It is not possible to determine whether a player can use a limrick to cast a spell from the rules provided.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this is possible."
+  },
+  {
+    "question": "Can you determine if you can fly after taking this test?",
+    "answer": "It is not possible to determine whether you can fly after taking this test from the rules provided.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this combination of abilities applies from the rules provided."
+  },
+  {
+    "question": "Can the party teleport?",
+    "answer": "It is not possible to determine whether the party can teleport from the rules provided.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this is possible."
+  },
+  {
+    "question": "Are the walls able to stop the sphere of annihilation?",
+    "answer": "The sphere obliterates all matter it passes through. Artifacts are the exception unless an artifact is susceptible to damage from a sphere of annihilation",
+    "rules": [
+      "Magic Items > Sphere of Annihilation"
+    ],
+    "rules_explanation": "The rules for the sphere of annihilation state this information."
+  },
+  {
+    "question": "Can an invisible creature be detected by nonmagical means?",
+    "answer": "Yes, the creature's location can be detected by any noise it makes or any tracks it leaves.",
+    "rules": [
+      "Appendix PH-A: Conditions > Invisible"
+    ],
+    "rules_explanation": "The invisibility condition specifies that “The creature's location can be detected by any noise it makes or any tracks it leaves.”"
+  },
+  {
+    "question": "In Whitestone, if you have a thiefs' guild can you not use their services or are they not allowed at Vasselheim?",
+    "answer": "It is not possible to determine whether a thief's guild is allowed at Vasselheim from the rules provided.",
+    "rules": [],
+    "rules_explanation": "The rules provided are for a very limited subset of all of the rules of the game, so it is not possible to determine whether this is possible."
+  },
+  {
+    "question": "Can a creature that has been teleported get attacked by a gelatinous cube?",
+    "answer": "Yes, any creature can enter the space of a transparent gelatinous cube but is subjected to the cube's Engulf and has disadvantage on the saving throw.",
+    "rules": [
+      "Monsters > Oozes > Gelatinous Cube"
+    ],
+    "rules_explanation": "The Gelatinous Cube's stat block states that \"Other creatures can enter the space, but a creature that does so is subjected to the cube's Engulf and has disadvantage on the saving throw.\""
+  }
+]

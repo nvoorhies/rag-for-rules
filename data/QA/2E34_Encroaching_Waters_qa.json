@@ -1,0 +1,126 @@
+[
+  {
+    "question": "A level 4 rogue is making a persuasion check. They do not have any particular ability score adjustments, and they roll a 13. They are proficient with Persuasion, what is the result?",
+    "answer": "The level 4 rogue adds their proficiency bonus to the 13 they rolled for the check",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "Beyond 1st Level > Proficiency Bonus"
+    ],
+    "rules_explanation": "The rouge adds their proficiency bonus because they are proficient in the skill being used."
+  },
+  {
+    "question": "A member of the party wishes to use suggestion to persuade NPC Orly, who is not hostile. Assuming all criteria of the spell are met, NPC Orly would need to make a saving throw, What type of saving throw would this be?",
+    "answer": "The target must make a Wisdom saving throw to resist the Suggestion spell.",
+    "rules": [
+      "Spell Descriptions > Suggestion"
+    ],
+    "rules_explanation": "The Suggestion spell description states a Wisdom saving throw is required."
+  },
+  {
+    "question": "How does a creature use or attempt a Tiny Octopus with an Athletics skill of 9 to squeeze through that grate?",
+    "answer": "The tiny octopus would make an athletics check.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules state that the GM calls for an ability check when a character attempts an action"
+  },
+  {
+    "question": "The party is moving in a boat at sea, can Wizard Caleb Widogast cast knock in these conditions?",
+    "answer": "It cannot be determined from the SRD whether Caleb can cast the knock spell as it can be hard underwater, but he could cast it underwater.",
+    "rules": [
+      "Spellcasting > Components",
+      "Spell Descriptions > Knock"
+    ],
+    "rules_explanation": "The rules do not explain whether verbal components can be performed underwater, or if an octopus can perform somatic components for the user. The spell Knock has only verbal components."
+  },
+  {
+    "question": "Does a constitution modifier affect how many minutes a character can hold their breath underwater?",
+    "answer": "Yes. A character can hold their breath for a number of minutes equal to 1 + its constitution modifier.",
+    "rules": [
+      "The Environment > Suffocating"
+    ],
+    "rules_explanation": "A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds)."
+  },
+  {
+    "question": "Does a Ranger get a bonus to the check to determine the location of a town, and if so, what type of skill check is this considered? ",
+    "answer": "A ranger does not get a bonus to check to find a town, but he gets double proficiency bonus to an intelligence or wisdom skill check related to his favored terrain.",
+    "rules": [
+      "Classes > Ranger > Natural Explorer"
+    ],
+    "rules_explanation": "Because finding a town has nothing to do with the Ranger's Favored Terrains and doubling proficiency bonus is not a feature for that, he only gets it for Intelligence or Wisdom checks related to his favored terrain."
+  },
+  {
+    "question": "A medium sized PC has spent a ki point to use Step of the Wind to double their jump distance. They are attempting to jump. The GM states that they have disadvantage. What is the procedure for resolving the long jump?",
+    "answer": "The PC makes a Strength (Athletics) check with disadvantage, and then adds 5 for a running start of at least 10 feet before the jump. The distance is equal to the strength score.",
+    "rules": [
+      "Ability Scores > Strength",
+      "Combat > Movement and Position > Jumping"
+    ],
+    "rules_explanation": "The Long Jump section specifies the process for making a long jump. Advantage and disadvantage is applied as normal."
+  },
+  {
+    "question": "Is a Bard proficient in all armor?",
+    "answer": "No, a bard is only proficient in light armor.",
+    "rules": [
+      "Classes > Bard > Proficiencies"
+    ],
+    "rules_explanation": "The bard's proficiencies section specifies that they are proficient with light armor."
+  },
+  {
+    "question": "If I throw a shuriken with one hand, do i add both str and dex to the attack and damage rolls?",
+    "answer": "No, you use either Str or Dex for both the attack and damage rolls if you are proficient in the finesse property",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Finesse",
+      "Combat > Making An Attack"
+    ],
+    "rules_explanation": "The rules state that when making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
+  },
+  {
+    "question": "What are the effects of being grappled and restrained?",
+    "answer": "The restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed and Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage and The creature has disadvantage on Dexterity saving throws.",
+    "rules": [
+      "Conditions > Restrained",
+      "Conditions > Grappled"
+    ],
+    "rules_explanation": "The rules give a full description of both conditions"
+  },
+  {
+    "question": "If I am swimming and have a ring of water walking on, does that count as difficult terrain?",
+    "answer": "The water is not difficult terrain for a character with a ring of water walking",
+    "rules": [],
+    "rules_explanation": "The rules state that the ring causes you to stand on and move across any liquid surface as if it were solid ground."
+  },
+  {
+    "question": "A level 9 Warlock has cast Hunger of Hadar, an 3rd-level spell. Later the Sorcerer makes a ranged spell attack within the spell. Does that count as light? What are the stats?",
+    "answer": "The terrain becomes dark and creates an area of extreme cold. At the start of each of your turns, each creature takes 2d6 cold damage. It cannot be determined if area is lightly or heavily obscured, but if the area of the spell reaches a point where there is dim light, darkvision is ineffective.",
+    "rules": [
+      "Spell Descriptions > Hunger of Hadar",
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "The SRD describes the effects of the Hunger of Hadar spell on vision."
+  },
+  {
+    "question": "What is the range of Telekinesis, and can I use it to grab a necklace off an enemy?",
+    "answer": "The range is 60 feet. You must make an ability check with your spellcasting ability contested by that creature's Strength check. If you succeed, you pull the object away from that creature and can move it up to 30 feet in any direction but not beyond the range of this spell.",
+    "rules": [
+      "Spell Descriptions > Telekinesis"
+    ],
+    "rules_explanation": "The spell provides the range and procedure for moving an object worn by another creature."
+  },
+  {
+    "question": "The players found an immovable rod. What can it support, and how hard is it to move?",
+    "answer": "The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 10 feet on a success.",
+    "rules": [
+      "Magic Items > Immovable Rod"
+    ],
+    "rules_explanation": "The description of the immovable rod gives the weight capacity and procedure for moving it."
+  },
+  {
+    "question": "A 10th level grave cleric is in the area of a fire ball spell, What type of saving throw is required?",
+    "answer": "The character must make a Dexterity Saving throw.",
+    "rules": [
+      "Spell Descriptions > Fireball"
+    ],
+    "rules_explanation": "The fireball spell description states that each creature within the spell must make a Dexterity Saving Throw."
+  }
+]

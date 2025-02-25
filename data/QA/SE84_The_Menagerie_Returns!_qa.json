@@ -1,0 +1,43 @@
+[
+  {
+    "question": "Can the Level 6, Race and Class that is Loreborne, make a Reveal to make a spellcast roll if anything is hidden within close range, that roll would succeed against it is no longer hidden?",
+    "answer": "Yes, that is allowed.",
+    "rules": [
+      "Section > Not found > Not found"
+    ],
+    "rules_explanation": "The GM made a ruling allowing this action without specifying a rule in the SRD, suggesting that this ruling is a homebrew. The ability Reveal is assumed to be available to the character from somewhere beyond the standard rules, such as the Daggerheart content the group is playtesting."
+  },
+  {
+    "question": "The spell says, 'Recant. Use an action to spend a Hope and make a target roll a reaction roll of 15'. Does the target roll, or do I roll for the target?",
+    "answer": "I roll for him. Yeah.",
+    "rules": [
+      "Section > Not found > Not found"
+    ],
+    "rules_explanation": "The GM rules that he rolls for the target but does not cite any standard rule, relying on GM fiat. Based on context from the playtest, it is likely that the 'reaction roll' referenced is a term unique to the Daggerheart content."
+  },
+  {
+    "question": "If a Level 6, Class Warlock were to cast runic lock, does he have to make a spellcast roll for that?",
+    "answer": "I don't.",
+    "rules": [
+      "Section > Not found > Not found"
+    ],
+    "rules_explanation": "The player states that they do not need to make a spellcast roll but do not cite any standard rule, suggesting that this is specific to the Book of Vargas Grimoire, which is a homwbrew compendium"
+  },
+  {
+    "question": "You are so strong, Sir Danté! I give you a Hope. I have a d6. Do I roll it or does he do it?",
+    "answer": "Traditionally, you roll the d6.",
+    "rules": [
+      "Section > Not found > Not found"
+    ],
+    "rules_explanation": "The GM states the common practice for this roll, but doesn't specify a rule, so it's likely that the tradition is related to the playtest."
+  },
+  {
+    "question": "What am I rolling? Do I add to it? Do I do it with my hide move?",
+    "answer": "You roll your finesse roll and then if you have advantage because of your ability there.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks",
+      "Section > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The player rolls a finesse check and the GM specifies that they should use their skill that gives them advantage. The GM uses rules for making ability checks and for applying advantage. He references the player's class features and abilities."
+  }
+]

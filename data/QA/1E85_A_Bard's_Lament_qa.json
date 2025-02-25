@@ -1,0 +1,365 @@
+[
+  {
+    "question": "The level 4 Barbarian (Path of the Berserker) makes a ranged attack with the dwarven thrower. Do they need to make a wisdom saving throw?",
+    "answer": "Yes, the level 4 Barbarian (Path of the Berserker) must make a wisdom saving throw before making a ranged attack with the dwarven thrower. They must make a wisdom saving throw before *each* attack roll.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "The transcript indicates that a wisdom saving throw was required for each attempt to attack, so the answer should be in the affirmative."
+  },
+  {
+    "question": "The level 4 Barbarian (Path of the Berserker) uses Retaliation to make an attack of opportunity. They roll a 32 to hit. Does the attack hit?",
+    "answer": "Yes, because with a 32, the target AC doesn't matter.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "Although the AC of the Earthbreaker Groon is not explicitly stated, but since 32 is a very high number that is above any reasonable AC it should be enough to hit any reasonable armor class value."
+  },
+  {
+    "question": "The level 4 Barbarian (Path of the Berserker) uses a action to move five feet and the DM says, \"Seems fine.\" Can the barbarian also attack?",
+    "answer": "No. In combat, moving and taking the attack action both require using an action. This is not the same as the Dash action to move your speed.",
+    "rules": [
+      "Section 8 > Movement and Position > Breaking Up Your Move",
+      "Section 8 > Actions in Combat > Attack"
+    ],
+    "rules_explanation": "The rules state that taking the Attack action or moving uses the character's action for the turn. Since the barbarian only has one action, he cannot do both."
+  },
+  {
+    "question": "When the level 4 Barbarian (Path of the Berserker) tries to grapple an opponent and makes an athletics check of 24, what happens?",
+    "answer": "The level 4 Barbarian (Path of the Berserker) makes an athletics check against the target's Acrobatics or Athletics check (target chooses). On a success the target is grappled, and is subject to the grappled condition.",
+    "rules": [
+      "Section 8 > Actions in Combat > Making an Attack > Grappling"
+    ],
+    "rules_explanation": "The SRD specifies the exact procedure for determining success or failure in a grappling contest. A grapple uses an athletics check for the initiator and allows the target to choose an athletics or acrobatics check for their resistance."
+  },
+  {
+    "question": "When the level 4 Barbarian (Path of the Berserker) is Frenzied, does Great Weapon Master add a bonus to their attack roll?",
+    "answer": "No, Great Weapon Master provides a penalty to the attack roll and an increased damage dice.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "The application of GWM provides for a -5 to hit and a +10 to damage."
+  },
+  {
+    "question": "If an opponent has Patient Defense and has been hit repeatedly, is the level 4 Barbarian (Path of the Berserker) required to roll with disadvantage?",
+    "answer": "Yes. According to the transcript, Patient Defense allows the opponent to use your own momentum against you to sway every attack away from him, so make all of your attacks at disadvantage.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "Patient Defense imposes disadvantage. Patient defense has no rules information in SRD."
+  },
+  {
+    "question": "Does the level 4 Barbarian (Path of the Berserker)'s damage from Enlarge double on objects and structures because of the Titanstone Gauntlets?",
+    "answer": "It had that previously.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "Yes, it had that previously."
+  },
+  {
+    "question": "The party wants to know if they would have to leave the city to cast the Tree Stride spell back to Whitestone.",
+    "answer": "No, I don't think we have to. It's not like– It's not like showy wizard magic.\"",
+    "rules": [
+      "Part II > - > -"
+    ],
+    "rules_explanation": "Based on the DM's answer. The SRD has no such city rules"
+  },
+  {
+    "question": "Can the 4th level ranger (hunter) throw the Dwarven Thrower? Is there a short range and a long range? If it would be long range, does that mean disadvantage on the throw?",
+    "answer": "Yes, the long range of 60 feet means that it would be a disadvantage throw. Short range is 20?",
+    "rules": [
+      "Part I > - > -",
+      "Section 8 > Actions in Combat > Making an Attack > Ranged Attacks > Range"
+    ],
+    "rules_explanation": "The SRD rules on ranged attacks explain the implication of long range. There are no special considerations for barbarians with ranged attacks."
+  },
+  {
+    "question": "If the 4th level ranger casts Cure Wounds at 4d8 plus their wisdom modifier, what kind of dice should be rolled.",
+    "answer": "18 plus 10 for Great Weapon Master. 28. 30?\"LAURA: \"You said 20.\"TRAVIS: \"I said 20 I meant 30.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "They meant 30."
+  },
+  {
+    "question": "If the barbarian is covered in blood is there disadvantage on their great weapon master reckless attacks?",
+    "answer": "No. Because he used his Patient Defense. Essentially with each blow that you–",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "Disadvantage is due to Patient Defense, not blood."
+  },
+  {
+    "question": "The raging level 4 Barbarian (Path of the Berserker)is hit and drops to 0 hit points, can they use Relentless Rage?",
+    "answer": "Yes, the level 4 Barbarian (Path of the Berserker) can use their Relentless Rage feature.",
+    "rules": [
+      "Part I > - > -",
+      "Section 5 > Barbarian > Class Features > Relentless Rage"
+    ],
+    "rules_explanation": "The Relentless Rage feature allows a barbarian to make a Constitution saving throw to drop to 1 hit point instead of 0."
+  },
+  {
+    "question": "Is the DC of the Relentless Rage constitution saving throw DC 10?",
+    "answer": "No, the DM is stating here that the DC changes to DC 15 because it's a second trigger of that ability.",
+    "rules": [
+      "Part I > - > -",
+      "Section 5 > Barbarian > Class Features > Relentless Rage"
+    ],
+    "rules_explanation": "The initial DC is 10 but increases by 5 for each subsequent trigger before the next long rest."
+  },
+  {
+    "question": "If the level 4 Barbarian (Path of the Berserker) is trying to hit the opponent but has disadvantage, which dice result is used?",
+    "answer": "The lower dice result is used.",
+    "rules": [
+      "Section 8 > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules for advantage/disadvantage state that when you have disadvantage, you use the lower of the two dice."
+  },
+  {
+    "question": "If the level 4 Barbarian (Path of the Berserker) is stunned can they make an attack?",
+    "answer": "No, he is stunned until the end of his turn. Can't move, can't do anything, you're considered incapacitated.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "Having the stunned condition means the character is also incapacitated, which prevents actions."
+  },
+  {
+    "question": "The rogue is scrying on Scanlan and the DM asks you to roll a wisdom saving throw.",
+    "answer": "SAM: \"Negative two.\"",
+    "rules": [
+      "Part II > - > -"
+    ],
+    "rules_explanation": "The ability modifier used for a spell attack depends on the spellcasting ability of the spellcaster."
+  },
+  {
+    "question": "The level 4 Barbarian (Path of the Berserker)is at 9 hit points. After Pike cast a fourth level Cure Wounds that deals 22, what is the barbarian's total?",
+    "answer": "31 hit points",
+    "rules": [
+      "Section 8 > Damage and Healing > Healing"
+    ],
+    "rules_explanation": "The Barbarian cannot exceed his hit point maximum. (Not provided)"
+  },
+  {
+    "question": "What's the range of a long range throw of the Dwarven Thrower?",
+    "answer": "Long range of 60 feet.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "Long range of 60 feet."
+  },
+  {
+    "question": "Are attacks rolled at disadvantage because he's covered in blood or because of Patient Defense?",
+    "answer": "Patient Defense, yes.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "Patient Defense, yes."
+  },
+  {
+    "question": "If the 4th level ranger (Hunter) casts cure wounds at 4d8, what is the wisdom modifier?",
+    "answer": "4d8 plus your wisdom modifier.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "4d8 plus your wisdom modifier."
+  },
+  {
+    "question": "The Druid teleports back to Whitestone using Transport via Plants. Are they required to move to an abundant terrace to cast?",
+    "answer": "So you find your way back to the Abundant Terrace, where you find a similar-sized tree, to what you arrived in. Using Transport Via Plants, you transport yourself back to Whitestone, stepping out of the Sun Tree.",
+    "rules": [
+      "Part II > - > -"
+    ],
+    "rules_explanation": "The SRD does not contain any information on Abundant Terrace"
+  },
+  {
+    "question": "The DM describes how Grog's strength now becomes 26. What is his new strength modifier?",
+    "answer": "plus eight",
+    "rules": [
+      "Part I > - > -",
+      "Section 8 > Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "A strength of 26 has a modifier of +8 according to the Ability Scores and Modifiers table."
+  },
+  {
+    "question": "As he runs to the back as he darts back, you guys watch as he runs to the back. As he does, his feet barely touch the sand (fast, light footsteps). You see these very faint little plumes behind each footstep, as this giant man has almost no weight across the ground–TRAVIS: “Like a jackrabbit.MATT: –as he runs with such speed. And as he lands and finds his footing (loud boom), the weight seems to kick in once more, and you watch as the sand (scattering sound) shoots out behind him. Can he do that?",
+    "answer": "That wasn't an attack.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "Not a valid question because it is an open ended role play question by the player asking if that's a game ability."
+  },
+  {
+    "question": "What is the result of using stones endurance in this case?",
+    "answer": "Yeah, it does none.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "Stone's Endurance reduces the attack, which was 10 damage?"
+  },
+  {
+    "question": "With the recently reinforced Titanstone Gauntlets, if he was to now use Enlarge, what kind of resistance would he gain?",
+    "answer": "And when I use Enlarge now, I gain resistance to fire, cold, lightning, for ten minutes.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "When I use Enlarge now, I gain resistance to fire, cold, lightning, for ten minutes."
+  },
+  {
+    "question": "What is the range of a scroll to have an effect",
+    "answer": "The spell uses its normal casting time, range, and duration",
+    "rules": [
+      "Section 9 > Spellcasting > Activating an Item > Spells"
+    ],
+    "rules_explanation": "A spells casting time is on the spell description."
+  },
+  {
+    "question": "With Grog's Titanstone gauntlets, what is his strength if his gauntlets says that his strength now becomes 26?",
+    "answer": "26 is good. It's two more than what you had, so everything goes up plus one damage to hit.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "26 is good. It's two more than what you had, so everything goes up plus one damage to hit."
+  },
+  {
+    "question": "If they long rest will that bring grog back to full health",
+    "answer": "Spells are back, you guys are healed.",
+    "rules": [
+      "Section 8 > Resting > Long Rest",
+      "Part I > - > -"
+    ],
+    "rules_explanation": "At the end of a long rest, a character regains all lost hit points."
+  },
+  {
+    "question": "The Ranger asks how far they can throw the Dwarven Thrower. With disadvantage on the throw?",
+    "answer": "The long range of 60 feet means that it would be a disadvantage throw?",
+    "rules": [
+      "Part I > - > -",
+      "Section 8 > Actions in Combat > Making an Attack > Ranged Attacks > Range"
+    ],
+    "rules_explanation": "The SRD rules on ranged attacks explain the implication of long range. There are no special considerations for barbarians with ranged attacks."
+  },
+  {
+    "question": "How far can the ranger get within 50 feet?",
+    "answer": "You wanna try?",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "Whether they can move a particular distance is up to the GM's judgment"
+  },
+  {
+    "question": "With the Patient Defense up, is there disadvantage on the reckless and great weapon master attacks",
+    "answer": "Patient Defense, so they're just straight rolls.",
+    "rules": [
+      "Part I > - > -",
+      "Section 8 > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20."
+  },
+  {
+    "question": "The level 4 Barbarian (Path of the Berserker)is unconscious and uses his relentless rage what damage rolls apply",
+    "answer": "you need to make a constitution saving throw. The DC of 10.",
+    "rules": [
+      "Section 5 > Barbarian > Class Features > Relentless Rage"
+    ],
+    "rules_explanation": "The Relentless Rage feature requires a Constitution saving throw with DC 10. Success allows the barbarian to continue fighting."
+  },
+  {
+    "question": "The barbarian is using the attack action and makes it into Melee range. Now they're going to have to make all three attacks with disadvantage. Is this accurate?",
+    "answer": "He used his Patient Defense. Essentially with each blow that you–",
+    "rules": [
+      "Part I > - > -",
+      "Section 8 > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Each use of a bonus action only lasts until the end of turn. The question makes it so it is a new turn."
+  },
+  {
+    "question": "If you cast a scroll spell you have but is higher level than you how does that work",
+    "answer": "if the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the scroll with no other effect.",
+    "rules": [
+      "Section 9 > Spellcasting > Magic Items > Spell Scroll"
+    ],
+    "rules_explanation": "The spell scroll entry contains rules for casting spells of a higher level."
+  },
+  {
+    "question": "How far can I throw this thing?",
+    "answer": "Long range of 60 feet. The long range of 60 feet means that it would be a disadvantage throw?",
+    "rules": [
+      "Section 8 > Actions in Combat > Making an Attack > Ranged Attacks > Range",
+      "Part I > - > -"
+    ],
+    "rules_explanation": "The rules for ranged attacks specify the implications of long range."
+  },
+  {
+    "question": "Can the party have a raven's spa night",
+    "answer": "no.",
+    "rules": [
+      "Part II > - > -"
+    ],
+    "rules_explanation": "The character Vex says 'Just kidding' after the suggestion."
+  },
+  {
+    "question": "For a History check, what would be added to a natural 20.",
+    "answer": "That's a natural twenty, with my history is–SAM: “Whore check!”TALIESIN: – is a 30. That's a 30.",
+    "rules": [
+      "Part II > - > -"
+    ],
+    "rules_explanation": "That's 30."
+  },
+  {
+    "question": "Can the enlarged player gain resistance to the magic",
+    "answer": "And when I use Enlarge now, I gain resistance to fire, cold, lightning, for ten minutes.",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "Not valid question. It's a description"
+  },
+  {
+    "question": "The DM is using three hit dice what what should I do.",
+    "answer": "I'm going to use three hit dice, I'm at 12 kittens.",
+    "rules": [
+      "Part II > - > -"
+    ],
+    "rules_explanation": "Not a valid question."
+  },
+  {
+    "question": "Is it possible to roll both enlarged damage and double damage.",
+    "answer": "double damage",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "no fire, lightning, and what?TRAVIS: And cold.MARISHA: Lightning, fire, and cold, and double damage?TRAVIS: Yeah, so –MATT: Well, not double damage."
+  },
+  {
+    "question": "Long range of 60 feet. The long range of 60 feet means that it would be a disadvantage throw?",
+    "answer": "Correct.",
+    "rules": [
+      "Part I > - > -",
+      "Section 8 > Actions in Combat > Making an Attack > Ranged Attacks > Range"
+    ],
+    "rules_explanation": "The rules for ranged attacks state that you have disadvantage on the attack roll when your target is beyond normal range."
+  },
+  {
+    "question": "If a member of vox machina has a question about a potion that vex would know whether or not that is a good amount of money for a potion, is that is a good amount or is that a shit amount, what's should they roll?",
+    "answer": "LAURA: I don't know, me personally, if that is a good amount. But Vex would know, is that a good amount or is that a shit amount?MATT: Based on your previous dealings with this individual, the fact that you are getting a price at all–",
+    "rules": [
+      "Part I > - > -"
+    ],
+    "rules_explanation": "Not a valid question. \"Is it a good amount?\" does not imply a specific action in game. It's a player question. "
+  },
+  {
+    "question": "If a skill check has a GIF is it pronounced hard G or soft G?",
+    "answer": "Let's run the GIF (hard g) of that now, please.",
+    "rules": [
+      "Part II > - > -"
+    ],
+    "rules_explanation": "Not a valid question. It is not D&D mechanics."
+  },
+  {
+    "question": "Does everything come with the same modifiers and ability scores",
+    "answer": "All right, I'm going to use three hit dice, I'm at 12 kittens.",
+    "rules": [
+      "Part II > - > -"
+    ],
+    "rules_explanation": "Not a valid question. I'm going to use three hit dice, I'm at 12 kittens."
+  }
+]

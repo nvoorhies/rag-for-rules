@@ -1,0 +1,156 @@
+[
+  {
+    "question": "The turtle race character wants to know if he can fan the flames and if so, what happens?",
+    "answer": "The character may use their hat to fan the flames and smoke billows out, causing the NPC to cough.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling on the effects of the player's actions."
+  },
+  {
+    "question": "What sort of damage would the bricks do if thrown?",
+    "answer": "This is unknown, the DM says \"One way to find out.\"",
+    "rules": [],
+    "rules_explanation": "This is not answered and the question is purely rhetorical."
+  },
+  {
+    "question": "The simian character possesses an advantage on agility rolls for balancing and climbing due to their race, how does that apply to his roll?",
+    "answer": " The Simian race character does have advantage on agility checks for climbing and balancing and the player receives Hope back after succeeding.",
+    "rules": [
+      "Skills > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This is a race-specific skill that gives the character a bonus to their climb."
+  },
+  {
+    "question": "The GM asks \"How do we know if anyone has forest advantages?\"",
+    "answer": "This does not trigger a rules explanation, the GM is asking the players directly.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question."
+  },
+  {
+    "question": "The character asks \"Can I try to coat my staff with the sludge? I wanna get all the numbing stuff on my staff so I can--\"",
+    "answer": "This does not trigger a rules explanation, the GM okays the action, the question becomes \"is the staff going numb?\".",
+    "rules": [],
+    "rules_explanation": "This is not a rules question."
+  },
+  {
+    "question": "Does the talons on the giant owl have sludge on them?",
+    "answer": "The DM calls for a Wisdom (Instinct) check to see if the character can recall that detail amongst all the chaos.",
+    "rules": [
+      "Skills > Ability Checks"
+    ],
+    "rules_explanation": "The DM calls for the player to make a skill check."
+  },
+  {
+    "question": "The character asks about the Enrapture spell if this affects the targets or everyone around you?",
+    "answer": "The DM answers by clarifying the intended spell's targets are only the shadow in the woods.",
+    "rules": [],
+    "rules_explanation": "This is clarification about a game effect."
+  },
+  {
+    "question": "The character is making an attack and asks what to add to the attack roll?",
+    "answer": "Attack rolls require the appropriate ability modifier (e.g. Agility) to be added to the roll",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Modifiers to the Roll > Ability Modifier"
+    ],
+    "rules_explanation": "This is a reminder of the general rules for attack rolls and how to calculate it."
+  },
+  {
+    "question": "As the player pulls the target with a far attack is he pulling it all the way up to him?",
+    "answer": "this is a question about game state that is not covered in the rules, and so not suitable to include in a Rules Question answer set",
+    "rules": [],
+    "rules_explanation": "This is not a rules question."
+  },
+  {
+    "question": "The player takes a major wound and asks \"I don't get my Retaliation Attack, I take it?\"",
+    "answer": "The DM responds that because the attack knocked you out of melee range before you get a chance, the force of its strength pushing you just beyond, you do not get your Retaliation attack.",
+    "rules": [],
+    "rules_explanation": "This is the DM making a ruling about whether a circumstance allows for the opportunity attack."
+  },
+  {
+    "question": "As the player's skirts flare and they get yanked around a little bit. Then I'll attack with my fan.",
+    "answer": "Clarification: The DM ask if they can do that. The GM is looking at the game turn action states.",
+    "rules": [],
+    "rules_explanation": "This is a question of turn action allocation, not a request to explain a rule"
+  },
+  {
+    "question": "The player asks whether, seeing the monsters, can I tell if their condition looks at all like something I've healed, or are they beyond that?",
+    "answer": "The DM says that they do not look beyond healable, it is tough to tell, and calls for an instinct roll.",
+    "rules": [
+      "Skills > Ability Checks"
+    ],
+    "rules_explanation": "The DM calls for a skill check. It will not be a rules reference, only a skill check."
+  },
+  {
+    "question": "Because the player wants to do a tag team with another and the other spent 2 hope tokens on me (the speaker) I have to also spend the hope?",
+    "answer": "To help an ally with the help action, a character can use Hope and add a d6 to the roll, and it will cost one character three hope in this example.",
+    "rules": [
+      "Skills > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The DM explains that the help action can be assisted using the expenditure of hope points."
+  },
+  {
+    "question": "Does the d6 added for vulnerability apply to both targets?",
+    "answer": "The additional damage only applies to the target that was deemed vulnerable",
+    "rules": [],
+    "rules_explanation": "This is a game ruling."
+  },
+  {
+    "question": "When the player is asked to help with tag team can this ability get a sneak attack bonus or does it have to be melee?",
+    "answer": "It just says when you would use an attack. It doesn't have to be melee. For your when you use sneak attack, you may also spend any number of Hope before the attack and add more dice.",
+    "rules": [],
+    "rules_explanation": "The DM is ruling based on the features of a specific ability."
+  },
+  {
+    "question": "What kind of action is required to make one of the puppets safe? The target to be safe from the slime.",
+    "answer": "The GM has to have it in mind to make a safe space for the puppet.",
+    "rules": [],
+    "rules_explanation": "The GM is describing a scenario, and saying it's not applicable."
+  },
+  {
+    "question": "If you reduce hit dice below zero or take a stress?",
+    "answer": "If you reduce a hit point below zero, you just take a stress.",
+    "rules": [],
+    "rules_explanation": "This is the DM explaining the result of an action."
+  },
+  {
+    "question": "If the Shadow Step was not Hope but Stress, I should have marked it for the Shadow Step?",
+    "answer": "Yes, you mark a stress for the action.",
+    "rules": [],
+    "rules_explanation": "This is a confirmation of a player action cost and tracking."
+  },
+  {
+    "question": "If I recall, it's, no, you're both getting the roll, so you would both get a Hope. Okay. Yeah. Should we do that?",
+    "answer": "The Dm responds yeah, it is accurate",
+    "rules": [],
+    "rules_explanation": "This confirms that both players get a Hope back in a tag team for the one action."
+  },
+  {
+    "question": "If it's over the Severe, then you just take that much or if you add it--",
+    "answer": "No, you take three hit points, okay, okay, okay, okay. Minor is one, Major is two, and Severe is three. And if I use an Armor slot--It doubles your Severe. Maybe it can knock it down to a number right in between? It takes me down to the Major.\"",
+    "rules": [],
+    "rules_explanation": "The GM describes the armor reduction process."
+  },
+  {
+    "question": "How does the vulnerable on the monster effect the player's roll?",
+    "answer": "d6 is added to damage against vulnerable targets",
+    "rules": [],
+    "rules_explanation": "Explanation about the vulnerable target rules."
+  },
+  {
+    "question": "Can I add something for a tag team roll?",
+    "answer": "If you have the Hope to spend it. How much Hope does he-- You nee three Hope. Three Hope.",
+    "rules": [],
+    "rules_explanation": "The Dm confirms it will cost three to tag team for that action and is the cost the character is asking."
+  },
+  {
+    "question": "Since it's already tied, we can give it a shot. It already...",
+    "answer": "Boko is now restrained. Yay! The dark shadows that kind of loom beneath, you watch almost completely cause Sweet Pea to vanish",
+    "rules": [],
+    "rules_explanation": "the success means the tag team works to restrain the monster"
+  },
+  {
+    "question": "Should we take a short rest?",
+    "answer": "The DM is asking the group a question about what they are doing. No ruling, only a narrative question about the game's actions.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question."
+  }
+]

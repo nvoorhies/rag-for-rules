@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Does *Polymorph* carry over damage to the caster?",
+    "answer": "If a caster goes to zero hit points in animal form from the *Polymorph* spell, they revert back to their regular form with full health, and any damage that carries over is applied to their regular health at that point.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "This is a rule of how damage is handled when a character drops to 0hp while under a polymorph spell."
+  },
+  {
+    "question": "How is the success of a door strength check as a triceratops determined?",
+    "answer": "The strength check involves rolling a d20 and adding the strength modifier of the triceratops form to the result.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Spellcasting > Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "The strength check is the generic rule for attempting a task that involves brute strength. The Polymorph spell is used because the character has taken that shape."
+  },
+  {
+    "question": "After a turn mangling a door, does Level X Bard/Y  Creature in Triceratops Form still have an action?",
+    "answer": "No,  Creature in Triceratops Form's action was used.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "The action used to make a strength check at the door is the creature's turn action."
+  },
+  {
+    "question": "Is Level X Bard/Y  Creature in Triceratops Form considered flanked by enemies?",
+    "answer": "No, Level X Bard/Y  Creature in Triceratops Form is not considered flanked.",
+    "rules": [],
+    "rules_explanation": "The DM determined that the positioning did not meet the requirements for flanking."
+  },
+  {
+    "question": "For Level X Bard/Y  Creature in Triceratops Form to break through the door, what kind of roll is required?",
+    "answer": "Another strength check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A strength check is used for any task that involves applying brute force."
+  },
+  {
+    "question": "When Level X Bard/Y  Creature in Triceratops Form mangles a door with a 23, what is his movement?",
+    "answer": "The mangled door does not take much effort to push through, so the action counts as part of Level X Bard/Y  Creature in Triceratops Form's movement.",
+    "rules": [
+      "Combat > Movement and Position > Breaking Up Your Move"
+    ],
+    "rules_explanation": "The character is allowed to move and interact with a single object as part of that movement."
+  },
+  {
+    "question": "How to Level X Bard/Y  Creature in Gnome Form perform a Dukes of Hazzard over the table?",
+    "answer": "An acrobatics check is required to determine how cool the move looks.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An acrobatics check is used to check how cool a move is"
+  },
+  {
+    "question": "When an invisible Level X Bard/Y  Creature in Gnome Form casts a fire breath spell, is the invisibility broken?",
+    "answer": "Yes, Level X Bard/Y  Creature in Gnome Form invisibility is broken when the character does an attack.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Unseen Attackers and Targets",
+      "Spellcasting > Spell Descriptions > Invisibility"
+    ],
+    "rules_explanation": "This is a general rule about invisibility."
+  },
+  {
+    "question": "On a building's roof, does Level X Bard/Y  Creature in Gnome Form have half cover?",
+    "answer": "Yes, Level X Bard/Y  Creature in Gnome Form has half cover from the roof.",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "Being behind the parapet of a roof counts as having half cover."
+  },
+  {
+    "question": "What is Level X Bard/Y  Creature in Gnome Form spellcasting ability modifier for Bigby's Hand?",
+    "answer": "Level X Bard/Y  Creature in Gnome Form's spellcasting ability modifier is charisma.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "Bard's use charisma for their spellcasting ability modifier."
+  },
+  {
+    "question": "As Level X Bard/Y  Creature in Gnome Form falls off the roof after casting Bigby's Hand, what does he do?",
+    "answer": "Level X Bard/Y  Creature in Gnome Form simultaneously trust falls off the roof as Bigby's Hand tries to catch him, he rolls a d20 and adds his Charisma modifier.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Bigby's Hand"
+    ],
+    "rules_explanation": "Level X Bard/Y  Creature in Gnome Form's is using Bigby's Hand to attempt to catch him as he falls."
+  },
+  {
+    "question": "How does Level X Barbarian/Y rage affect incoming weapon attacks?",
+    "answer": "With rage Level X Barbarian/Y has resistance to bludgeoning, piercing, and slashing damage, halve these damage types.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "This is a core feature of rage."
+  },
+  {
+    "question": "With stones endurance does Level X Barbarian/Y get to get rid of the damage he rolled on the die?",
+    "answer": "The damage on the dice remains and is calculated and one of the incoming damage totals can be reduced by the stone's endurance roll result plus Level X Barbarian/Y constitution modifier",
+    "rules": [],
+    "rules_explanation": "this is determined by the DM's ruling to what would logically happen, and has no specific rule governing this action."
+  },
+  {
+    "question": "Does Bestial Fury allow Trinket the bear to get two attacks if the level X ranger/Y is not attacking?",
+    "answer": "Yes, per bestial fury Trinket gets two attacks",
+    "rules": [],
+    "rules_explanation": "DM's choice based on how long the character gave control to the beast. There may be some class features being added to the creature, but there is nothing stated that does that in this gameplay."
+  },
+  {
+    "question": "Can vampire spawn move through wind wall because they are in gaseous form?",
+    "answer": "No, as a point of spell description they are not able to.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Wind Wall"
+    ],
+    "rules_explanation": "Wind wall specifically blocks gaseous form creatures."
+  },
+  {
+    "question": "What damage does Trinket take by being in a Level X Druid/Y Wind Wall spell?",
+    "answer": "Trinket needs to make a strength saving throw or take 3d8 bludgeoning damage.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Wind Wall"
+    ],
+    "rules_explanation": "This comes directly from the effects of the spell on creatures in the wall."
+  },
+  {
+    "question": "If Level X Barbarian/Y leaps off of a balcony with a strength of 13, what does he do?",
+    "answer": "A make athletics check for the jump is required, before he leaps. And then he gets advantage on that strength check because you're raging and its reckless and just funnier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This was specifically added, because it was seen as a funny moment, and is not necessarily normal game play."
+  },
+  {
+    "question": "When casting lightning arrow, does Level X ranger/Y get a critical on this because I don't have to roll?",
+    "answer": "No, one can't get a critical hit on an action of that kind.",
+    "rules": [],
+    "rules_explanation": "The GM states that no critical hit can happen because no attack roll was made."
+  },
+  {
+    "question": "Is it metagaming for a DM to give a character knowledge that is in line with their character, but also helps progress the game?",
+    "answer": "The GM has the right to refuse metagaming actions.",
+    "rules": [],
+    "rules_explanation": "The GM has the right to ensure what characters know to be true in the game."
+  },
+  {
+    "question": "If two team members are attempting the same action, do they get advantage?",
+    "answer": "Not necessarily, but it is possible.",
+    "rules": [
+      "Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "There are specific rules on whether this is possible and that it can grant advantage. The text of the transcript implies the action was only taken by one character."
+  },
+  {
+    "question": "With someone performing a 'Pass Without a Trace' spell, and another sprinkling 'Dust of Tracelessness' behind them, are they stealthy?",
+    "answer": "Everyone will roll a stealth check, but also receive bonuses. Plus ten for 'Pass Without a Trace', but the Dust provides no specific bonuses",
+    "rules": [],
+    "rules_explanation": "The effect of these items is not clear, but this is a plausible interpretation. The Stealth skill indicates the skill being checked, and the spell name gives a numerical bonus."
+  },
+  {
+    "question": "Does Initiative use dexterity modifiers?",
+    "answer": "Yes, Initiative is determined by dexterity modifiers",
+    "rules": [
+      "Combat > Initiative"
+    ],
+    "rules_explanation": "The rules about determining what the Initiative uses."
+  },
+  {
+    "question": "What is used when a perception check is made?",
+    "answer": "When making a perception check use what is better, active perception or passive perception.",
+    "rules": [],
+    "rules_explanation": "You use the result of a rolled active check, or default to the passive check if there is no roll."
+  },
+  {
+    "question": "Can a bonus d10 die, from the Bard's Song of Rest feature, be used to supplement a health dice during a short rest?",
+    "answer": "If a number of friendly creatures who can hear performance regain hit points at the end of the short rest by spending one or more hit dice, each of those creatures regains an extra 1d8 hit points (from the song of rest rule).",
+    "rules": [
+      "Classes > Bard > Song of Rest"
+    ],
+    "rules_explanation": "This rule explains what the Song of Rest features does for characters who spend hit die during a short rest."
+  }
+]

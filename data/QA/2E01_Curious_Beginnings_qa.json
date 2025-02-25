@@ -1,0 +1,386 @@
+[
+  {
+    "question": "Can the level 1 goblin rogue with a half mask sit down to a table?",
+    "answer": "Yes, you walk over to it, you sit down.",
+    "rules": [
+      "Part I > Combat > Movement and Position > Moving Around Other Creatures",
+      "Part I > Ability Checks > Contests"
+    ],
+    "rules_explanation": "The DM determined the goblin could sit down in the context of the scene without requiring a check or roll of any kind."
+  },
+  {
+    "question": "Does the level 5 half-orc paladin with a scar across his face, sitting at the table receive information about other's counting the coins?",
+    "answer": "Make a Perception check. If the result of his roll + perception modifier is 20 or higher, he will receive more information about the other.",
+    "rules": [
+      "Part I > Using Ability Scores > Ability Checks",
+      "Part I > Paladin > Class Features"
+    ],
+    "rules_explanation": "The DM called for a skill check to resolve the question, since the outcome of the roll was unknown. The half-orc must roll a d20 and add their appropriate modifier, a process that requires the rules for ability checks."
+  },
+  {
+    "question": "Can the level 1 blue skinned teifling with a cute dress percieve the level 3 human wizard whispering if it's said quietly? How would the 3rd level human know?",
+    "answer": "The level 3 divination wizard can say it quietly, but the blue skinned tiefling Beauregard can potentially hear the whisper based on her perception and passive perception. You can see that they're whispering, you're not sure what the words are.",
+    "rules": [
+      "Part I > Races Racial Traits",
+      "Part I > Races > Tiefling",
+      "Part I > Spellcasting > Ritual Casting"
+    ],
+    "rules_explanation": "The DM adjudicated that the teifling character heard some sounds, but couldn't distinguish the words based on the details of the scene and the characters skills, and that the wizard isn't sure the sounds were heard."
+  },
+  {
+    "question": "If Beauregard, the level 5 monk tries to insight the masked Nott what does she learn, and how does the DM determine it?",
+    "answer": "Beauregard, the level 5 monk makes an insight check. If Beauregard's roll + insight modifier is 13 or higher, the DM will give her more information.",
+    "rules": [
+      "Part I > Using Ability Scores > Ability Checks",
+      "Part I > Ability Scores > Wisdom",
+      "Part I > Skills (PHB p176).",
+      "Part I > Skills > Insight (PHB p178)"
+    ],
+    "rules_explanation": "The Dungeon Master is calling for a Insight Skill check to be made. The player rolls a d20 and adds her Insight modifier to the roll. The Dungeon Master will compare the total to a target number and provide the appropriate results."
+  },
+  {
+    "question": "Can the level 3 human wizard cast Detect Magic?",
+    "answer": "Yes, the level 3 human wizard can cast Detect Magic. If the ritual tag is present, the spell can also be cast as a ritual.",
+    "rules": [
+      "Part I > Character Creation > Classes > Wizard > Spellcasting > Ritual Casting"
+    ],
+    "rules_explanation": "The player asked about spellcasting, and the Dungeon Master confirmed that Detect Magic can be cast"
+  },
+  {
+    "question": "The lavender tiefling wanted to know if he could tell whether Jester's party had coin based on seeing them distributing it. Can he tell they have a little coin on them?",
+    "answer": "Because they've completed distributing the coins, you don't see any coin, unfortunately.",
+    "rules": [
+      "Part I > Using Ability Scores > Ability Checks",
+      "Part I > Skills > Perception (PHB p179)"
+    ],
+    "rules_explanation": "The DM adjudicates based on the state of the world, and doesn't call for a roll."
+  },
+  {
+    "question": "If the level 3 human wizard decides to spend an hour using Arcane Recovery to gain back that one spell slot used this morning. Can he do so?",
+    "answer": "Yes, I'll allow that",
+    "rules": [
+      "Part II > Wizard > Class Features > Arcane Recovery"
+    ],
+    "rules_explanation": "The dungeon master makes a ruling using his knowledge of the player handbook."
+  },
+  {
+    "question": "Can Jester, the blue teifling take books from Sheenah's shop and rearrange them without the shopkeeper noticing?",
+    "answer": "Roll Sleight of Hand to attempt to rearrange the interior of this bookstore.",
+    "rules": [
+      "Part I > Using Ability Scores > Ability Checks",
+      "Part I > Skills > Sleight of Hand (PHB p177)"
+    ],
+    "rules_explanation": "The DM is calling for a skill check to resolve the question. The player rolls a d20 and adds her sleight of hand modifier to the roll. The DM then compares the result to the target number."
+  },
+  {
+    "question": "With one spell slot, can the level 3 human wizard gain back that one spell slot he used this morning?",
+    "answer": "Yes, I'll allow that.",
+    "rules": [
+      "Part I > Wizard > Class Features > Arcane Recovery"
+    ],
+    "rules_explanation": "The Dungeon Master is making a ruling using his knowledge of the player handbook."
+  },
+  {
+    "question": "If the goblin rogue in the back row becomes tipsy but not fully intoxicated do they need to make any checks?",
+    "answer": "Yes, make a constitution saving throw.",
+    "rules": [
+      "Part I > Using Ability Scores > Saving Throws > Constitution",
+      "Part I > Using Ability Scores > Saving Throws (PHB p179)"
+    ],
+    "rules_explanation": "The DM called for a skill check to resolve the question, since the outcome of the roll was unknown."
+  },
+  {
+    "question": "If the level 1 teifling rogue touches Nott's shoulder and casts Blessing of the Trickster on her, what does the effect do?",
+    "answer": "There's a slight sense of warmth that emanates from under her hand, and for a moment, you look over and glance instinctively, ready to almost draw your sword again. But it seems to quicken your reflexes. You have this surge of adrenaline that doesn't quite fade. The level 1 teifling rogue has advantage on all her stealth checks. For the next hour.",
+    "rules": [
+      "Part I > Sorcerer Spell List > Bless",
+      "Part I > Wizard > Spellcasting > Ritual Casting"
+    ],
+    "rules_explanation": "The Dungeon Master adjudicated the results of the character casting the spell and specified what the character and others percieved as a result of the spell and what mechanical effect the spell produced."
+  },
+  {
+    "question": "If Fjord has an allergic attack is Frumpkin is near, what happens?",
+    "answer": "Yes, he's having an actual allergic attack. A minor one.",
+    "rules": [
+      "Part I > Spellcasting > Duration",
+      "Part I > Spellcasting"
+    ],
+    "rules_explanation": "The DM adjudicates based on the fictional world. There's no roll involved."
+  },
+  {
+    "question": "What's the range on the touch cantrip Shillelagh and for how long does it last?",
+    "answer": "It's a touch range with a duration of 1 minute.",
+    "rules": [
+      "Part I > Druid Spell List > Cantrips > Shillelagh"
+    ],
+    "rules_explanation": "It's a fact about the spell, which the DM answers."
+  },
+  {
+    "question": "Can the level 3 human wizard, Vaxleth, ask for arcane recovery at some point during the time Nott was getting drunk?",
+    "answer": "Sure, yeah. I'll allow that.",
+    "rules": [
+      "Part I > Wizard > Class Features > Arcane Recovery",
+      "Part I > Spellcasting > Ritual Casting"
+    ],
+    "rules_explanation": "The Dungeon Master is making a ruling using his knowledge of the player handbook."
+  },
+  {
+    "question": "What happens when the level 1 teifling cleric casts thaumaturgy and opens and closes the windows, and the music stops?",
+    "answer": "You watch as four of the nearby windows slam open with a sudden burst of wind, and all the various bits of torchlight that light the deeper and more shadowed corners of the room suddenly darken and flicker. The music suddenly comes to a stop. Everyone holds their position and glances over at the table where you're all sitting. They all slam shut a second time. The light flickers and then brightens back to its normal place.",
+    "rules": [
+      "Part I > Sorcerer Spell List > Thaumaturgy"
+    ],
+    "rules_explanation": "The Dungeon Master adjudicates the fictional world and the effect of a character's actions."
+  },
+  {
+    "question": "After the card reading, can the level 3 human wizard cast Detect Magic?",
+    "answer": "You lean back and subtly begin a brief muttering of an incantation, your fingers wash through the air, a faint silver gleam across your fingertips. Nothing magical shows up in the immediate vicinity.",
+    "rules": [
+      "Part I > Character Creation > Classes > Wizard > Spellcasting > Ritual Casting"
+    ],
+    "rules_explanation": "The Dungeon Master adjudicates the fictional world and the effect of a character's actions."
+  },
+  {
+    "question": "Ashely wants to pat down the party and wants to do it with advantage because she's really good at this, so what should she roll for?",
+    "answer": "Roll an Investigation check. I'll give you advantage because you're really good at this.",
+    "rules": [
+      "Part I > Using Ability Scores > Ability Checks > Intelligence Checks",
+      "Part I > Skills > Investigation (PHB p177)"
+    ],
+    "rules_explanation": "To determine how well someone can discern subtle details. The player rolls a d20 and adds her sleight of hand modifier to the roll. The DM compares the result to a target number to determine if they are successful."
+  },
+  {
+    "question": "Because she is all kinds of trouble, for nott, the Goblin, can Jester, the tiefling, cast Blessing of the Trickster?",
+    "answer": "Yes, there's a slight sense of warmth that emanates from under her hand, and for a moment, you look over and glance instinctively, ready to almost draw your sword again. But it seems to quicken your reflexes. You have this surge of adrenaline that doesn't quite fade. You have advantage on all your stealth checks. For the next hour.",
+    "rules": [
+      "Part I > Sorcerer Spell List > Bless",
+      "Part I > Wizard > Spellcasting > Ritual Casting"
+    ],
+    "rules_explanation": "The Dungeon Master adjudicated the results of the character casting the spell, describing what the character and others perceived as a result of the spell and what mechanical effect the spell produced."
+  },
+  {
+    "question": "If Fjord, the half-orc tries to make an insight check on nott, what does he learn?",
+    "answer": "That's a 14, except negative three to performance. So 11. You are lying. I am definitely on the run from someone.",
+    "rules": [
+      "Part I > Using Ability Scores > Ability Checks",
+      "Part I > Ability Scores > Wisdom",
+      "Part I > Skills (PHB p176).",
+      "Part I > Skills > Insight (PHB p178)"
+    ],
+    "rules_explanation": "The Dungeon Master is calling for a Insight Skill check to be made. The player rolls a d20 and adds her Insight modifier to the roll. The Dungeon Master will compare the total to a target number and provide the appropriate results."
+  },
+  {
+    "question": "If a creature's name is used with a 9th-level conjuration (gate) spell, what happens if that creature is on a different plane than the one from which the spell is cast?",
+    "answer": "If that creature is on a plane other than the one you are on, the portal opens in the named creature's immediate vicinity and draws the creature through it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the GM deems appropriate.",
+    "rules": [
+      "Part II > Wizard > Spell Descriptions > Gate"
+    ],
+    "rules_explanation": "This is simply a detailed rule of the game."
+  },
+  {
+    "question": "With the spell Toll the Dead, does the person get a saving throw?",
+    "answer": "Natural one.",
+    "rules": [
+      "Part II > Ability Scores > Saving Throws",
+      "Part II > Sorcerer Spell List > Toll the Dead"
+    ],
+    "rules_explanation": "The DM adjudicated that it's the D12 damage, or 1d8 if he isn't wounded. The dice are rolled and a 3 is the result."
+  },
+  {
+    "question": "What is Yasha's reaction and does Liam get his Dagger back?",
+    "answer": "Okay, so you'll spend your action throwing them out to the individuals. So your shortsword and crossbow clatter to the ground, and you quickly scramble to grab them. Caleb's dagger falls at his foot. Your staff gets tossed quickly from behind you. Your falchion meets your arm.",
+    "rules": [
+      "Part II > Fighter > Class Features > Action"
+    ],
+    "rules_explanation": "The Dungeon Master adjudicated the fictional world and the effect of a character's actions."
+  },
+  {
+    "question": "What happens if Nott fails her sleight of hand check to hide a little crossbow.?",
+    "answer": "You see him slowly pocketing this crossbow.",
+    "rules": [
+      "Part II > Using Ability Scores > Ability Checks",
+      "Part II > Skills > Sleight of Hand (PHB p177)"
+    ],
+    "rules_explanation": "To determine how well someone can conceal something on their person, the DM is calling for a Sleight of Hand Skill check to be made. The player rolls a d20 and adds her Sleight of Hand modifier to the roll. The DM then compares the result to a target number to determine if she is successful."
+  },
+  {
+    "question": "If a character is being carried by Yasha and does not have a walking stick can she keep her walking stick?",
+    "answer": "I'll take it, and I can just carry you to your seat.",
+    "rules": [
+      "Part II > Ranger > Level 2",
+      "Part II > Ranger > Class Features > Action"
+    ],
+    "rules_explanation": "To determine if the stick is needed"
+  },
+  {
+    "question": "As the game continues, may liam use arcane recovery again in the same day",
+    "answer": "Sure, yeah. I'll allow that.",
+    "rules": [
+      "Part I > Wizard > Class Features > Arcane Recovery"
+    ],
+    "rules_explanation": "The Dungeon Master is making a ruling using his knowledge of the player handbook."
+  },
+  {
+    "question": "Will Ashley tell the party to give up their weapons before they enter?",
+    "answer": "Yes, before you go in, I do have to give you guys a pat-down, 'cause you can't go in with any weapons.",
+    "rules": [
+      "Part II > Character Creation > Ranger, Level 1"
+    ],
+    "rules_explanation": "The name is just stated by the DM as part of the story"
+  },
+  {
+    "question": "If Jester skips around when they try to get through Yasha, will she not have to pay the entry fee?",
+    "answer": "Weirdly, being part of the show means you strangely pay more. I'm not entirely sure how that works.",
+    "rules": [
+      "Part II > Character Creation > Ranger, Level 1"
+    ],
+    "rules_explanation": "The DM, is being humerous here. There is no such rule."
+  },
+  {
+    "question": "Do they all need to pay money for the show?",
+    "answer": "Mollymauk, That Jester's adorable. and then you collect five copper from each of you as you pass through, so mark off five copper, except for the two of you, you guys are part of it.",
+    "rules": [
+      "Part II > Ranger > Level 2"
+    ],
+    "rules_explanation": "The DM is stating that everybody except the performer are to pay"
+  },
+  {
+    "question": "Does the wizard have to hand over the weapons if he shows the books?",
+    "answer": "I open up the coat just so she can see the books.\nI don't think I find anything. 12.\nYou find two books and a modicum of change and nothing else on him. He's actually pretty sparse as far as collectibles and keepsakes.",
+    "rules": [
+      "Part II > Ranger > Level 2"
+    ],
+    "rules_explanation": "To determine if he still has weapons the party had to check"
+  },
+  {
+    "question": "If Nott attempts to hide the crossbow what skill check is needed?",
+    "answer": "Okay, make a sleight-of-hand check to try and hide that.",
+    "rules": [
+      "Part II > Using Ability Scores > Ability Checks",
+      "Part II > Skills > Sleight of Hand (PHB p177)"
+    ],
+    "rules_explanation": "The Dungeon Master is calling for a Sleight of Hand Skill check to be made. The player rolls a d20 and adds her Sleight of Hand modifier to the roll. The DM then compares the result to a target number to determine if she is successful."
+  },
+  {
+    "question": "While playing as Fjord can Taliesin quickly pick up the cards and stack the deck?",
+    "answer": "Sure, roll an insight check.",
+    "rules": [
+      "Part I > Using Ability Scores > Ability Checks",
+      "Part I > Ability Scores > Wisdom",
+      "Part I > Skills (PHB p176).",
+      "Part I > Skills > Sleight of Hand (PHB p177)"
+    ],
+    "rules_explanation": "The Dungeon Master is calling for a Perception Skill check to be made. The player rolls a d20 and adds her Perception modifier to the roll. The Dungeon Master will compare the total to a target number and provide the appropriate results."
+  },
+  {
+    "question": "To search the corpse of the undead woman can jester's illusion search it too?",
+    "answer": "As you go to move to it, both of your forms merge. The Crown's Guard goes like, “Don't move.”",
+    "rules": [
+      "Part II > Warlock > Class Features > Eldritch Invocations",
+      "Part II > Skills (PHB p176)"
+    ],
+    "rules_explanation": "The DM is stating that it's not possible for both to move, and that the guards do not allow them to move."
+  },
+  {
+    "question": "As you're singing out this discordant sound, folks nearby are covering their ears and glancing back and looking in surprise at this strange creature giving off this. Does it die?",
+    "answer": "No. However, it now, after taking a few hits nearby, its red eyes– or at least one red eye slips over to look in your direction. That's as much of an effect.",
+    "rules": [
+      "Part II > Sorcerer Spell List"
+    ],
+    "rules_explanation": "The DM is stating the effect of this spell"
+  },
+  {
+    "question": "Does the attack with the guiding bolt receive advantage?",
+    "answer": "The next attack has advantage.",
+    "rules": [
+      "Part II > Sorcerer Spell List > Guiding Bolt"
+    ],
+    "rules_explanation": "The DM is simply stating what happens when you use this spell"
+  },
+  {
+    "question": "If a creature uses a reaction can it use its reaction on another creatures turn?",
+    "answer": "You can take a reaction, which can occur on your turn or on someone else's. When you take a reaction, you can't take another one until the start of your next turn. If the reaction interrupts another creature's turn, that creature can continue its turn right after the reaction.",
+    "rules": [
+      "Part II > Actions in Combat > Reactions"
+    ],
+    "rules_explanation": "The information provided details how Reactions work in 5th edition D&D."
+  },
+  {
+    "question": "If Yasha spends her action tossing weapons, can she distribute the weapons to everybody this turn?",
+    "answer": "Yes, you could distribute– you could use your action to toss the weapons out to everybody this turn.",
+    "rules": [
+      "Part II > Using a bonus action",
+      "Part II > Actions in Combat"
+    ],
+    "rules_explanation": "The DM ruled that she could distribute based on the circumstances of the moment"
+  },
+  {
+    "question": "At the top of the round, this creature closest to one of the people nearby screaming, this young woman who's trying to back away, it just turns toward her and grabs and tries to tear into her with two strikes, what happens?",
+    "answer": "The first one, that is actually going to miss. She ducks out of the way and begins crawling across the ground as it goes for a second attack. That, however, does hit, it's a 16.",
+    "rules": [
+      "Part II > Spellcasting > Range",
+      "Part II > Spellcasting"
+    ],
+    "rules_explanation": "The DM adjudicates the action based on the rules of attacking, whether an attack hits, misses, has advantage, and so on"
+  },
+  {
+    "question": "If the level 3 human wizard pushes a child out of the way, turn, putting your pocketed diamond out in front of you, you focus and you watch as this beam of light blue energy streaks past, just barely coasting between a few heads. It slams into this creature, as crystals form where the wound and impact was. What attack did he use and what happens?",
+    "answer": "Then I will re-up with Chromatic Orb, You pull up your diamond, and right as you're about to release the spell, one of the people in the crowd slams into you with her shoulder and you get jarred off to the side. The acid bolt of the Chromatic Orb flies off and actually burns a hole through the distant tent and then vanishes into the night sky.",
+    "rules": [
+      "Part II > Wizard > Spellcasting > Focus",
+      "Part II > Warlock > Otherworldly Patrons",
+      "Part II > Rangers > Spells and Powers"
+    ],
+    "rules_explanation": "The DM is detailing the effect of the action."
+  },
+  {
+    "question": "If you cast guiding bolt, what saving throw can you make?",
+    "answer": "There's no saving throw for guiding bolt. You make a ranged spell attack.",
+    "rules": [
+      "Part II > Sorcerer Spell List > Guiding Bolt"
+    ],
+    "rules_explanation": "Guiding bolt requires a range spell attack, not a saving throw. When casting a guiding bolt the caster rolls a d20 and adds a ranged modifier."
+  },
+  {
+    "question": "How much can the teifling, Molly, get out of the bar table?",
+    "answer": "You can't really flank it, but you can get next to it. All right. Can I get close enough to take a shot?",
+    "rules": [
+      "Part II > Actions in Combat > Melee Attacks",
+      "Part II > Rangers > Spells"
+    ],
+    "rules_explanation": "The DM is stating that the target can not be flanked"
+  },
+  {
+    "question": "If two creatures are in a ringleader range and the ringleader uses it's action will the targets need to roll twice against it?",
+    "answer": "No, it is resolved when you cast the spell so you don't make multiple rolls.",
+    "rules": [
+      "Part II > Spellcasting > Targets",
+      "Part II > Actions in Combat"
+    ],
+    "rules_explanation": "The DM adjudicates the action based on his interpretation of the spell"
+  },
+  {
+    "question": "Since Nott has advantage on her Dex checks, can she use her advantage again when she's making sleight of hand checks?",
+    "answer": "You have advantage on that, technically, right? Dexterity checks?\nWell, did you give me dexterity or just stealth? How does that work?\nI think it's just stealth checks with the blessing.\nLet me double-check that real fast.\nNo, it is stealth. You're correct. Yeah.",
+    "rules": [
+      "Part I > Sorcerer Spell List > Sorcerer"
+    ],
+    "rules_explanation": "The DM states and determines it is a stealth blessing"
+  },
+  {
+    "question": "If someone tries to move the immovable rod but does not succeed, what happens to their ability check? Does it use it or does it still remain?",
+    "answer": "The rod doesn't move, even if it is defying gravity",
+    "rules": [
+      "Part II > Magic Items A-Z > Immovable Rod"
+    ],
+    "rules_explanation": "There is no mention in the rule description to whether or not the check still succeeds or not if it fails, just that the item will remain in place no matter what happens."
+  },
+  {
+    "question": "Can Beau (marisha) attack the zombie if she does not know there are rules to have the stick.",
+    "answer": "If you were using your ki point to do that, yes.",
+    "rules": [
+      "Part II > Monk > Flurry of Blows"
+    ],
+    "rules_explanation": "The DM is simply asking her to confirm the condition for her power is in effect."
+  }
+]

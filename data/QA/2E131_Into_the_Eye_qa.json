@@ -1,0 +1,477 @@
+[
+  {
+    "question": "What ability modifier is added to initiative?",
+    "answer": "Dexterity modifier",
+    "rules": [
+      "Combat > Initiative > Initiative"
+    ],
+    "rules_explanation": "The rules state that initiative is determined by a Dexterity check, therefore a player adds their Dexterity modifier to determine the initiative roll."
+  },
+  {
+    "question": "Does a (Level 14, Zealot Barbarian, Race unknown) have to make a strength saving throw against the Maelstrom?",
+    "answer": "Yes, while raging, you gain advantage on Strength saving throws.",
+    "rules": [
+      "Barbarian > Rage > Rage",
+      "Using Ability Scores > Saving Throws > Saving Throws"
+    ],
+    "rules_explanation": "The Barbarian's Rage ability gives advantage on Strength saving throws and the target was subjected to a Strength saving throw. When a character has advantage, they roll two d20 and take the higher result."
+  },
+  {
+    "question": "When a (Level 14, Zealot Barbarian, Race unknown) saves against the Maelstrom, how much damage do they take, and what kind?",
+    "answer": "With a successful save on the Maelstrom, a character takes half of 6d6 bludgeoning damage. A Zealot Barbarian halves bludgeoning damage when raging.",
+    "rules": [
+      "Barbarian > Rage > Rage",
+      "Spellcasting > Saving Throws > Saving Throws"
+    ],
+    "rules_explanation": "The spell description does not state any special rules for a successful save. With a raging barbarian, the raging ability grants resistance to bludgeoning, slashing, and piercing damage halving the damage total."
+  },
+  {
+    "question": "If the (Level 14, Zealot Barbarian, Race unknown) is raging, and the other lightning spirit is 30 feet away, is it considered reckless for the Lightning Spirit?",
+    "answer": "If the other lightning spirit is within range of the raging barbarian, then it has advantage on these attacks since her last use was reckless.",
+    "rules": [
+      "Barbarian > Rage > Reckless Attack"
+    ],
+    "rules_explanation": "The Barbarian's Reckless Attack ability grants advantage to enemies attacking the barbarian in melee."
+  },
+  {
+    "question": "If the ball lightning requires a dexterity saving throw, does the (Level 14, Zealot Barbarian, Race unknown) make the saving throw, or take damage regardless?",
+    "answer": "The success of a saving throw against the ball lightning spell halves the damage of the spell.",
+    "rules": [
+      "Spellcasting > Saving Throws > Saving Throws"
+    ],
+    "rules_explanation": "Most spells that have saving throws do less on a save. The spell text specifies the result of a success."
+  },
+  {
+    "question": "After (Level 14, Zealot Barbarian, Race unknown) hits zero hit points, can they use a reaction to avoid taking another point of damage?",
+    "answer": "Any damage when you're unconscious, (snaps) takes off a death save.",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "Any time an unconcious character takes damage, they suffer a death saving throw failure."
+  },
+  {
+    "question": "If the Laura is at 0 hit points, how many d6 are rolled for their exploding thunder attack?",
+    "answer": "There is no rules text in the SRD that indicates a change to the number of dice based on the user's health total.",
+    "rules": [],
+    "rules_explanation": "There is no rules text in the SRD that indicates a change to the number of dice based on the user's health total."
+  },
+  {
+    "question": "When (Level 14, Zealot Barbarian, Race unknown) is downed, and raging, what effect will falling prone have?",
+    "answer": "So you would fall prone.",
+    "rules": [
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "After a successful save against the maelstrom, a character is knocked prone as a rider effect."
+  },
+  {
+    "question": "If a (Level 14, Zealot Barbarian, Race unknown) is raging after dropping to zero hit points, does a heal action restore a death save failure?",
+    "answer": "It's an action, which you cannot do, because you already used your action to attack.",
+    "rules": [
+      "Combat > Your Turn > Actions",
+      "Combat > Reactions > Reactions"
+    ],
+    "rules_explanation": "The Zealot Barbarian ability does not allow for more actions than normal, only continues raging through damage to zero."
+  },
+  {
+    "question": "When reduced to zero hit points by the damage from BalL Lightning, does the (Level 14, Zealot Barbarian, Race unknown) become prone?",
+    "answer": "No, she never falls unconscious.",
+    "rules": [
+      "Barbarian > Class Features > Rage",
+      "Combat > Dropping to 0 Hit Points"
+    ],
+    "rules_explanation": "The rules do not say that a character knocked to 0 hit points when raging must make saving throws."
+  },
+  {
+    "question": "If the character is a 14th-level zealot barbarian, how many death saving throws do they get?",
+    "answer": "Three total, yep.",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "Death saving throws is an automatic system used by all characters, without difference, in the setting. You are not penalized for class abilities. "
+  },
+  {
+    "question": "What happens on a successful strength saving throw against the Maelstrom spell?",
+    "answer": "So now you only take 3d6-- or it's 6d6 bludgeoning damage halved, right?",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "The specific effect is detailed in the spell description itself, not in the general rules."
+  },
+  {
+    "question": "If (Level 14, Zealot Barbarian, Race unknown) holds out the sword when lightning is in the area, would this automatically attract it?",
+    "answer": "Go ahead and make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks"
+    ],
+    "rules_explanation": "The GM can call for any ability check as appropriate in a rules situation"
+  },
+  {
+    "question": "Is additional radiant damage applied every turn when the (Level 14, Zealot Barbarian, Race unknown) has wings out?",
+    "answer": "Every turn you get to do that once when you have your wings out, so.",
+    "rules": [
+      "Barbarian > Multiclassing > Class Features",
+      "Feats > Ability Score Improvement"
+    ],
+    "rules_explanation": "The specific effect is detailed in the character's class ability text, not in the general rules."
+  },
+  {
+    "question": "Can you use an action to damage yourself to continue raging after hitting zero hit points?",
+    "answer": "Can't damage yourself, the only way to get up is through--",
+    "rules": [
+      "Game Play > Actions > Actions in Combat"
+    ],
+    "rules_explanation": "There is no action to damage yourself. You must be harmed by an outside source."
+  },
+  {
+    "question": "What does the exhausted condition entail?",
+    "answer": "Level 1 Disadvantage on ability checks",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion > Exhaustion"
+    ],
+    "rules_explanation": "As the character gains a level of Exhaustion they gain its mechanical penalties"
+  },
+  {
+    "question": "Does the player character have advantage on attack rolls against her, since she rolled recklessly?",
+    "answer": "Yes, you do have advantage on these attacks since her last use was reckless.",
+    "rules": [
+      "Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "Reckless Attack grants advantage to attacks against the Barbarian"
+  },
+  {
+    "question": "Is there a bonus for being next to the lightning spirit?",
+    "answer": "Okay, now you are next to-- you're adding the extra lightning damage for being next to him? Lightning damage is not halved so--",
+    "rules": [],
+    "rules_explanation": "No rules located"
+  },
+  {
+    "question": "What happens if (Level 1, character class, Race unknown) rolls a three on the wild magic?",
+    "answer": "That's okay I had it upside down. 65.",
+    "rules": [],
+    "rules_explanation": "Not a valid rules question. The DM has a table that details the effects. The rules don't define the results, but the roll changes the game based on DM actions."
+  },
+  {
+    "question": "Does the wild magic trigger?",
+    "answer": "See where your feet fall.",
+    "rules": [],
+    "rules_explanation": "Not a valid rules question. The GM is the arbitrator of wild magic effects."
+  },
+  {
+    "question": "Are we seeing if we fuse with a slab of stone right now?",
+    "answer": "You have arrived without issue.",
+    "rules": [],
+    "rules_explanation": "The GM states that the journey was successful."
+  },
+  {
+    "question": "How far can the eagles fly?",
+    "answer": "80 feet",
+    "rules": [],
+    "rules_explanation": "Giant Eagles have a flying speed of 80 feet. But that has nothing to do with the Polymorph spell, other than that the beast form needs to be able to travel by flying and this form meets that requirement"
+  },
+  {
+    "question": "Taliesin: It's plus what for initiative? MATT: Dexterity is what would be, dexterity modifier.",
+    "answer": "Dexterity is what would be, dexterity modifier.",
+    "rules": [
+      "Combat > Initiative"
+    ],
+    "rules_explanation": "Initiative determines the order of turns during combat. When combat starts, every participant makes a Dexterity check to determine their place in the initiative order."
+  },
+  {
+    "question": "ASHLEY: Okay, would that be considered an action, me grabbing the--? MATT: No.",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "Not a valid rules question. The GM is providing a judgement."
+  },
+  {
+    "question": "Is there any death saving throw at the moment for a 14th-level zealot barbarian that is unconscious but continuing to rage?",
+    "answer": "No, she never falls unconscious.",
+    "rules": [
+      "Barbarian > Primal Paths > Path of the Zealot"
+    ],
+    "rules_explanation": "Due to the path of the Zealot, damage does not stop the raging, keeping her from being in a state of requiring a death saving throw."
+  },
+  {
+    "question": "Does healing restore a death save?",
+    "answer": "Would that take-- would that restore a death save?",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Stabilizing a Creature"
+    ],
+    "rules_explanation": "The healing restores your character to combat, stopping the automatic death saving throws each round."
+  },
+  {
+    "question": "Can you teleport while Ball Lightning?",
+    "answer": "Only on a success",
+    "rules": [
+      "Spell List > 5th Level > Ball Lightning"
+    ],
+    "rules_explanation": "The success of a saving throw determines if the character can teleport."
+  },
+  {
+    "question": "TALIESIN: I'm this lightning guy that's right there. MATT: You are right there. TRAVIS: I'll move within 30 feet of Yasha, just out of the range.",
+    "answer": "You have advantage on this because she did roll recklessly.",
+    "rules": [
+      "Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "Enemies have advantage on the attack rolls made against someone who uses reckless attack."
+  },
+  {
+    "question": "My lightning spirit will crackle up to the top of that peak. Is the range 30 feet? MATT: (crackling) Just out of range.",
+    "answer": "Just out of range.",
+    "rules": [],
+    "rules_explanation": "Not a valid rules question. The GM is making a judgement based on character abilities and positioning."
+  },
+  {
+    "question": "Since I've got a lightning spirit right next to me, I'm going to slam attack it twice. MATT: Go for it, you do have advantage on these attacks since her last use was reckless.",
+    "answer": "you do have advantage on these attacks since her last use was reckless.",
+    "rules": [
+      "Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "Enemies have advantage on the attack rolls made against someone who uses reckless attack."
+  },
+  {
+    "question": "Yeah, I'm going to just give her like 350 gold.",
+    "answer": "She takes it. \"A fair trade.\"",
+    "rules": [
+      "Equipment > Trade Goods > Trade Goods"
+    ],
+    "rules_explanation": "Calliope provides two opals of 100 gp each to the group and Taliesin gives her 350 gold. The GM agrees that this is fair."
+  },
+  {
+    "question": "Does that mean she's knocked prone, too?",
+    "answer": "No, she never falls unconscious.",
+    "rules": [
+      "Monsters > Alignment"
+    ],
+    "rules_explanation": "The text of the exploding thunder effect states that it hits with bludgeoning damage and be knocked prone if you fail. The Zealot Barbarian ability keeps her from requiring the save. "
+  },
+  {
+    "question": "I'm going to teleport to the unoccupied space. TALIESIN: Oh no. LAURA: Oh, you teleported in? TALIESIN: Yeah.",
+    "answer": "There's nothing about if they save.",
+    "rules": [],
+    "rules_explanation": "Talisen did a Ball Lightning attack. On success, that damage is applied. There is no additional rules based for if Talisen would not be able to move, or teleport."
+  },
+  {
+    "question": "LAURA: Is there a map behind him, with a big arrow that says-- TRAVIS and SAM: \"You are here\"?",
+    "answer": "Unfortunately, Scry doesn't really help out with that.",
+    "rules": [
+      "Spell Description > Scrying > What does this do?"
+    ],
+    "rules_explanation": "The Scrying spell only lets you see or hear a target, but cannot provide additional information about the target's surrounding area."
+  },
+  {
+    "question": "Am I still within 30 feet? MATT: You'll find out. TALIESIN: Yeah, okay, then I'm going to--",
+    "answer": "Yep, she's in range for you.",
+    "rules": [],
+    "rules_explanation": "Not a valid rules question. The GM is making a judgement based on character abilities and positioning."
+  },
+  {
+    "question": "Is it like the Matrix, if she dies here, she dies in real life?",
+    "answer": "No, no it's like \"Nightmare on Elm Street.\"",
+    "rules": [],
+    "rules_explanation": "Not a valid rules question. This is a joke and not related to the SRD rules"
+  },
+  {
+    "question": "Wait, any damage? MATT: Any damage when you're unconscious, (snaps) takes off a death save.",
+    "answer": "Any damage when you're unconscious, (snaps) takes off a death save.",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "If you take any damage while you have 0 hit points, you suffer a death saving throw failure."
+  },
+  {
+    "question": "And you as well, yes.",
+    "answer": "Oh, and you as well, yes.",
+    "rules": [
+      "Spell Description > Areas of Effect > Sphere"
+    ],
+    "rules_explanation": "The sphere is 15 feet and (Level 14, Zealot Barbarian, Race unknown) is standing within it."
+  },
+  {
+    "question": "So I'll roll it. It's late. LAURA: Is that-- MATT: Yeah, you can totally do it.",
+    "answer": "Yeah, you can totally do it.",
+    "rules": [
+      "Spell List > Message > Check"
+    ],
+    "rules_explanation": "The GM confirms that Laura, who already knows the spell, has a free slot to cast it again."
+  },
+  {
+    "question": "Is there anything, like-- I can't get a clue of where he is?",
+    "answer": "Unfortunately, Scry doesn't really help out with that.",
+    "rules": [
+      "Spell Description > Scrying"
+    ],
+    "rules_explanation": "The effects of the Scrying spell are limited, it doesn't grant knowledge of the target's precise location."
+  },
+  {
+    "question": "Do you have to tell me what you think when you finish it?",
+    "answer": "We're not with me, you can't count. I got to count myself.",
+    "rules": [
+      "Spell Description > Sending"
+    ],
+    "rules_explanation": "You can't include anyone with the sending, its only one person, and 25 words."
+  },
+  {
+    "question": "All right, you all go ahead and take a dip as a scattered crew within the hot spring. If you want to. TALIESIN: Oh, let me do that thing, then. Roll a d6, anyone who's getting in.",
+    "answer": "It's big enough.",
+    "rules": [],
+    "rules_explanation": "Valid Question, However there is no official text in the SRD for if you need to make a roll to be within a hot spring."
+  },
+  {
+    "question": "Okay, so you just keep coasting upwards, slowly spiraling as your wings take you up higher and higher. The flashes of light all around you as the blood is pumping through your veins in the back of your head, that furious, Zealot-like rage, keeping you conscious in spite of the fact that your body is falling into its end. You continue to swim upward, the next round comes.",
+    "answer": "Full rages, okay, so I think I've used--",
+    "rules": [
+      "The text provided shows a 14th-level Zealot Barbarian"
+    ],
+    "rules_explanation": "I want to make it clear, no death saves were spent. Just a couple of rages."
+  },
+  {
+    "question": "Is there a way I can get into the path of lightning or something?",
+    "answer": "Go ahead and make a perception check.",
+    "rules": [
+      "Ability Checks > Ability Checks"
+    ],
+    "rules_explanation": "The DM may call for a perception check."
+  },
+  {
+    "question": "If you really died?",
+    "answer": "We're back to--",
+    "rules": [
+      "DM decision to alter time stream"
+    ],
+    "rules_explanation": "Laura did one more message and then all those people took a long rest, so where are we?"
+  },
+  {
+    "question": "Are you going to do it?",
+    "answer": "I'mma send a message to Vandran.",
+    "rules": [
+      "Spell List > Message"
+    ],
+    "rules_explanation": "LAURA: Can I use one more Message spell? MATT: If you've got the spell slots for it."
+  },
+  {
+    "question": "There's instructions on it. Is that how that works?",
+    "answer": "Yeah.",
+    "rules": [
+      "Game Play > Message > Check"
+    ],
+    "rules_explanation": "As long as it says the things you need to make, it would be useful to have. You could also, you can do the thing that we can do all the time, that we're in a great spot here"
+  },
+  {
+    "question": "She's going to fall, so I won't attack. LIAM: So do I not use my--?",
+    "answer": "No, you use the form of the eagle.",
+    "rules": [
+      "Spell List > Transformation"
+    ],
+    "rules_explanation": "You must use the form of the eagle you transform in to for stats such as perception, stealth, and strength"
+  },
+  {
+    "question": "Do I get a d4? TALIESIN: You get a d4.",
+    "answer": "You get a d4.",
+    "rules": [
+      "Cleric > Level 1 > Blessing"
+    ],
+    "rules_explanation": "Guidance is used on top of the Eagle form."
+  },
+  {
+    "question": "Did you have any dreams or anything?",
+    "answer": "Between the passive perception of Caduceus and a number of other of you, you do not see any additional eyes that have gathered on your teammates.",
+    "rules": [
+      "Abilities > Passive Checks",
+      "Monsters > Special Traits > Senses > Passive Perception"
+    ],
+    "rules_explanation": "Since the characters took a long rest, the DM uses their passive perception score to determine if they notice any unusual qualities from the rest."
+  },
+  {
+    "question": "Well, should we give a look-see?",
+    "answer": "Well, if we're lucky, do it, so let me tell us if all of the sudden we know what the weather's like."
+  },
+  {
+    "question": "We've done it three times now? LIAM: I really want to-- No, I mean, tomorrow, and tomorrow-- Uh-oh. I want to try to be conservative with our abilities.",
+    "answer": "You continue on this path for another mile or so and the storm is gone. As are the mountains.",
+    "rules": [],
+    "rules_explanation": "Not a valid rules question. Just continuing with the story."
+  },
+  {
+    "question": "Is there a way to get to the higher spell levels?",
+    "answer": "Let's do a time jump.",
+    "rules": [],
+    "rules_explanation": "You can do all of the things, and it'll have a reason for it happening later"
+  },
+  {
+    "question": "Do I need to fiddle with it more to ascertain how to operate it, or have I already figured that out with all of my--?",
+    "answer": "I think you've figured it out with the tinkering you've done. It is currently functional and powered. It would need to be affixed to somebody, which would likely involve a successful grapple.",
+    "rules": [
+      "Mechanics of the game are often determined by the GM"
+    ],
+    "rules_explanation": "How to use an item is determined by the GM. If there is information on how it would be done, then a character can use that."
+  },
+  {
+    "question": "You're about to fall out of your rage, what do you do? ASHLEY: See if this will work, hang on. Can I dash? Can I--",
+    "answer": "You've been dashing up.",
+    "rules": [
+      "Combat > Actions > Dash"
+    ],
+    "rules_explanation": "Dash as an action allows the character to double his or her speed. Dashing can only be used once."
+  },
+  {
+    "question": "Right, okay. Um, okay. (exhales) All right, so I... in front of me, I'm going to go for the one, the--? MATT: Right here? ASHLEY: Yes.",
+    "answer": "All right, still in the air, slightly above it.",
+    "rules": [],
+    "rules_explanation": "No SRD content"
+  },
+  {
+    "question": "Am I allowed to say that?",
+    "answer": "This is earlier.",
+    "rules": [
+      "This information is not in the SRD"
+    ],
+    "rules_explanation": "Unclear; sounds like a DM's determination of the current timeline within their story"
+  },
+  {
+    "question": "And we haven't rested yet. Okay, so, oh, what if they knew, this was not--",
+    "answer": "What are you going to do now?",
+    "rules": [],
+    "rules_explanation": "We're doing something important, that is what happens"
+  },
+  {
+    "question": "What if you really have to say, who knows. MATT: That's never happened.",
+    "answer": "All right.",
+    "rules": [],
+    "rules_explanation": "The chance of a 20 to hit 18, that's not a death. That's what happens."
+  },
+  {
+    "question": "Yeah, if you look-- going back and measuring here.",
+    "answer": "Just out of range.",
+    "rules": [],
+    "rules_explanation": "That does not take away the fact that you should've done it before. It's just that this is all a process in which."
+  },
+  {
+    "question": "Can you Polymorph into a white dragon? Probably not, huh? You can only Polymorph up to a certain challenge rating?",
+    "answer": "Up to a certain challenge rating, yep.",
+    "rules": [
+      "Spell List > Polymorph"
+    ],
+    "rules_explanation": "The polymorph spell only lets you transform into a beast, it does not allow you to become a dragon."
+  },
+  {
+    "question": "LAURA: How far is it? TALIESIN: Ish, I mean, you can give me an ish. ASHLEY: I can help you, I got fingers to count.",
+    "answer": "I will say it's about... at your current location, between two and three days' travel.",
+    "rules": [
+      "Adventuring > Movement > Travel Pace"
+    ],
+    "rules_explanation": "The GM decides what type of terrain they are going through to help determine the party's travel pace."
+  },
+  {
+    "question": "So 15 bludgeoning to you. MARISHA: Okay. TALIESIN: 30 points of damage? LAURA: 30 points of damage and you're knocked prone, everybody.",
+    "answer": "You failed as well, right?",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success.",
+    "comments": "And he's gonna need him and he is gonna want to make sure to do anything like we"
+  },
+  {
+    "question": "We can use this to have a very good, can we try and use it, have it to be a little less than a day's travel before we get all this way?",
+    "answer": "So we did make some good time with that."
+  }
+]

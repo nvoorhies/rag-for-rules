@@ -1,0 +1,349 @@
+[
+  {
+    "question": "A level 18, sorcerer 18 character is trying to grab a book while a perception check has disadvantage and a -2 modifier. What number does the roll need to be to succeed?",
+    "answer": "Because the level 18 sorcerer has the Jack of all Trades class feature, this will add half of their proficiency bonus rounded down, +3, to the roll. A perception check requires an action or bonus action. Without knowing a specific DC, it's impossible to say what number must be rolled to succeed.",
+    "rules": [
+      "Classes > Bard > Jack of All Trades",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The level 18 sorcerer has the Jack of all Trades class feature, this will add half of their proficiency bonus rounded down, +3, to the roll."
+  },
+  {
+    "question": "A player wants to pick up a big book of beasts as a -2 modifier. Would the level 18 class affect the roll? What number does he need to roll to succeed?",
+    "answer": "Because the level 18 barbarian has the Jack of all Trades class feature, this will add half of their proficiency bonus rounded down, +3, to the roll. Without knowing a specific DC, it's impossible to say what number must be rolled to succeed.",
+    "rules": [
+      "Classes > Bard > Jack of All Trades",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The level 18 barbarian has the Jack of all Trades class feature, this will add half of their proficiency bonus rounded down, +3, to the roll."
+  },
+  {
+    "question": "A level 18 class with disadvantage and a -2 modifier rolls a 14. What is the value of the adjusted roll?",
+    "answer": "The player rolls 2 dice and takes the lower roll.  The second roll is reduced by two. If the second roll is higher than the first, the result is the first value with an adjustment of -2. If the second roll is lower than the first, the result is the second value with an adjustment of -2.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "With disadvantage two dice are rolled and the lowest value is used. The modifier is then applied to the chosen value."
+  },
+  {
+    "question": "Can a tiger in tiger form, 60 feet away, stay in the range of Polymorph, which lasts for the duration?",
+    "answer": "Yes, as long as the caster maintains Concentration.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The Polymorph spell requires concentration, so the polymorph will last as long as the caster concentrates and meets the other conditions of the spell."
+  },
+  {
+    "question": "If a concentration spell has a range of 60 feet to cast it, does the caster need to stay in the range for the spell to remain in effect?",
+    "answer": "No, the caster needs to maintain concentration but can move outside of the spell's casting range.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "As long as the caster maintains Concentration the spell will remain active regardless of distance."
+  },
+  {
+    "question": "Can the Animal Shapes and Wind Walk spells be cast on a target simultaneously?",
+    "answer": "Yes, because only Animal Shapes requires concentration",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The Wind Walk spell does not require concentration."
+  },
+  {
+    "question": "Does the Animal Shapes spell allow the caster to determine what animals each of the targets can be, and change them on their action?",
+    "answer": "The description of Animal Shapes does not exist in this document. The spells Polymorph, which is similar, does not give these abilities",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Neither Animal Shapes or Polymorph are described in the System Reference Document."
+  },
+  {
+    "question": "If a character throws a dagger at a wall, can he use his teleport ability to teleport into the wall?",
+    "answer": "If the ability requires the blade to solidly hit something in order to teleport to it, the character could not teleport into the wall.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This questions hinges on the specific wording of the Blink-Back Belt Vestige ability being used."
+  },
+  {
+    "question": "Does it cost movement to teleport with Whisper, and if so, how much?",
+    "answer": "The dagger name is not in this document and I can not find the answer.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This questions hinges on the specific wording of the Blink-Back Belt Vestige ability being used."
+  },
+  {
+    "question": "The Pass Without a Trace spell, will it stack with stealth checks with disadvantage?",
+    "answer": "Yes, because the check still has disadvantage, but you apply the spell's bonus to the roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage and disadvantage affect the dice rolled, not the modifiers applied to the result."
+  },
+  {
+    "question": "What bonus is added to stealth checks from the Pass Without Trace spell?",
+    "answer": "A +10 bonus is added.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Pass Without Trace are not in the System Reference Document"
+  },
+  {
+    "question": "If a character flies down from the air and lands in their sister's hair, what is the procedure for calculating damage to each?",
+    "answer": "The falling character makes a dexterity saving throw, acrobatics. The sister makes a perception check. If the dexterity check is successful, then no damage is taken by either party. If the dexterity check is failed, they take the appropriate falling damage.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Determining falling damage in this instance is left to GM judgement based on the Acrobatics and Perception checks."
+  },
+  {
+    "question": "Can a Misty Step spell be used to transport someone inside a solid object?",
+    "answer": "The description of Misty Step does not exist in this document",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Misty Step are not in the System Reference Document"
+  },
+  {
+    "question": "Can a character in wind form enter a temple or mansion?",
+    "answer": "The description of Wind Walk does not exist in this document",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Wind Walk are not in the System Reference Document"
+  },
+  {
+    "question": "Can you communicate telepathically when you're in mist form?",
+    "answer": "The description of Wind Walk does not exist in this document",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Wind Walk are not in the System Reference Document"
+  },
+  {
+    "question": "What does the Commune With Nature spell do?",
+    "answer": "The description of Commune With Nature does not exist in this document",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Commune With Nature are not in the System Reference Document"
+  },
+  {
+    "question": "Can Move Earth be used to move stone?",
+    "answer": "No. The spell can only reshape dirt, sand, or clay.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Move Earth are not in the System Reference Document"
+  },
+  {
+    "question": "Does Stone Shape last only for a little bit?",
+    "answer": "Stone Shape is instantaneous.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Stone Shape are not in the System Reference Document"
+  },
+  {
+    "question": "What is the duration of Stone Shape?",
+    "answer": "Stone Shape is instantaneous",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Stone Shape are not in the System Reference Document"
+  },
+  {
+    "question": "When a character is about to cast Gate, can he cast invisibility first? Is Gate a concentration spell?",
+    "answer": "Yes, Gate is a concentration spell. Casting a subsequent concentration spell would break the first spell.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The Gate spell requires concentration, so you can not concentrate on two at once."
+  },
+  {
+    "question": "Will the stones work in the mansion to transfer the person back?",
+    "answer": "The target must be on the same plane of existence.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Gate Stone's functionality is not found in the System Reference Document"
+  },
+  {
+    "question": "What happens if Percy's form is caught out in the open when the invisibility drops?",
+    "answer": "This is a situation that is left to the judgment of the GM.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The consequence for dropping invisibility is left up to GM's judgment"
+  },
+  {
+    "question": "If a character pours poison on a blade, do you get poison damage if you hit them with it?",
+    "answer": "Yes, you would probably do a little bit of poison damage.",
+    "rules": [
+      "Equipment > Poisons"
+    ],
+    "rules_explanation": "If there is a blade you can apply poison to, then yes, you would probably do a little bit of poison damage."
+  },
+  {
+    "question": "What is the effect of the Heroes' Feast spell?",
+    "answer": "The spell creates a feast and grants immunity to fear and poison, advantage on Wisdom saving throws, and 2d10 to maximum hit points for the duration.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The effects of Heroes' Feast are not in the System Reference Document"
+  },
+  {
+    "question": "Does a dexterity saving throw get anything added to the roll?",
+    "answer": "Yes, a character adds his or her Dexterity modifier to the roll.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "To make a saving throw, roll a d20 and add the appropriate ability modifier. For example, you use your Dexterity modifier for a Dexterity saving throw."
+  },
+  {
+    "question": "Can you use natural explorer to hide?",
+    "answer": "Natural Explorer has no bearing on stealth or hiding.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Natural Explorer feature has no mention of conferring ability to hide. The rules for Natural Explorer are not in the System Reference Document."
+  },
+  {
+    "question": "A level 3 sorcerer casts Fly on a character that is on the ground, when the spell ends, do they take falling damage?",
+    "answer": "Yes, unless the target has some other means of staying aloft or preventing falling damage.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules of falling states you take falling damage unless a power prevents this. The effects of spells in the SRD do not guarantee the ability to stop falling."
+  },
+  {
+    "question": "When does a flying creature take falling damage?",
+    "answer": "When the creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the *fly* spell.",
+    "rules": [
+      "Adventuring > Movement > Special Types of Movement > Flying Movement"
+    ],
+    "rules_explanation": "This section details the circumstances that cause a flying creature to fall"
+  },
+  {
+    "question": "What is a torch's light radius?",
+    "answer": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet.",
+    "rules": [
+      "Equipment > Adventuring Gear"
+    ],
+    "rules_explanation": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet."
+  },
+  {
+    "question": "What is the DC for a strength check required to move an immovable rod?",
+    "answer": "The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 10 feet on a success.",
+    "rules": [
+      "Equipment > Magic Items A-Z > Immovable Rod"
+    ],
+    "rules_explanation": "A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 10 feet on a success."
+  },
+  {
+    "question": "If you pour poison on a blade, do you get poison damage if you hit them with it?",
+    "answer": "Yes, you would probably do a little bit of poison damage",
+    "rules": [
+      "Equipment > Poisons"
+    ],
+    "rules_explanation": "Poisons can be used to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition is exposed to its effects"
+  },
+  {
+    "question": "How often can you use a divine intervention?",
+    "answer": "If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.",
+    "rules": [
+      "Classes > Cleric > Divine Intervention"
+    ],
+    "rules_explanation": "If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest."
+  },
+  {
+    "question": "A player rolls to read a scroll with advantage. Does the player add their d12 + 2 to both rolls, or just the one they choose?",
+    "answer": "The d12 + 2 is only added to the highest of the two rolls.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Only the highest roll has any bonuses from the class applied"
+  },
+  {
+    "question": "If the cleric casts Heroes' Feast, then has an increased hit point max, does that then change the effect of Lay On Hands?",
+    "answer": "No, Lay on Hands uses the paladin level, not the target hit points.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is because the healing is not dependent on hit points."
+  },
+  {
+    "question": "what happens when a sphere of annihilation comes into contact with an extradimensional space?",
+    "answer": "When a sphere of annihilation comes into contact with an extradimensional space, the GM determines randomly what happens, using the following table. 01–50: The sphere is destroyed. 51–85: The sphere moves through the portal or into the extradimensional space. 86–00: A spatial rift sends each creature and object within 180 feet of the sphere, including the sphere, to a random plane of existence.",
+    "rules": [
+      "Equipment > Magic Items A-Z > Sphere of Annihilation"
+    ],
+    "rules_explanation": "The Sphere of Annihilation description provides the mechanics for determining what happens when it comes into contact with a planar portal or extradimensional space."
+  },
+  {
+    "question": "How far can the big hand of Scanlan move?",
+    "answer": "The description of Arcane Hand does not exist in this document",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Arcane Hand are not in the System Reference Document"
+  },
+  {
+    "question": "Can you use cutting words on an effect?",
+    "answer": "No, because you can only use it against an attack roll, an ability check, or a damage roll.",
+    "rules": [
+      "Classes > Bard > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "The player can expend one of their Bardic Inspiration dice to subtract from the creature's roll."
+  },
+  {
+    "question": "What happens to the 7th, level dragon if you use a wing shot and knock him out of the air?",
+    "answer": "When a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the fly spell.",
+    "rules": [
+      "Adventuring > Movement > Special Types of Movement > Flying Movement"
+    ],
+    "rules_explanation": "The flying creature falls, taking damage as per falling damage rules."
+  },
+  {
+    "question": "Can you use the wall of stone spell to create a tunnel?",
+    "answer": "Not a heavy tunnel. The wall is 6 inches thick, and is composed of ten 10-foot-by-10-foot panels. If you create a span greater than 20 feet in length, you must halve the size of each panel to create supports.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Wall of Stone are not in the System Reference Document"
+  },
+  {
+    "question": "What happens after a wish is cast?",
+    "answer": "The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take 1d10 necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast wish ever again if you suffer this stress.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Wish are not in the System Reference Document"
+  },
+  {
+    "question": "What is the range of the power word kill spell?",
+    "answer": "The range is 60 feet.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Power Word Kill are not in the System Reference Document"
+  },
+  {
+    "question": "Does the darkness spell prevent hearing?",
+    "answer": "No, but deafened creatures can't hear.",
+    "rules": [
+      "Spellcasting > Areas of Effect > Sphere"
+    ],
+    "rules_explanation": "Darkness only creates a heavily obscured area."
+  },
+  {
+    "question": "When can someone cast a reaction?",
+    "answer": "A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's.",
+    "rules": [
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's."
+  }
+]

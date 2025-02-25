@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Can the level 17 barbarian/fighter draw the sword of Kas while it is still in its sheath?",
+    "answer": "You probably have to draw it.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Ammunition",
+      "Equipment > Magic Items > Activating an Item"
+    ],
+    "rules_explanation": "Normally a rules question like this would require a check on a skill like sleight of hand to draw it without being noticed, the DM states you have to draw it, implying the PC can't use a trick to draw it."
+  },
+  {
+    "question": "Does the level 4 druid have to use the dragonborn paladin's Aura of Protection when making a constitution saving throw?",
+    "answer": "The plus four is what you get.",
+    "rules": [
+      "Game Mechanics > Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "This is a question about stacking bonuses on a saving throw. It is clarified that the character only gets the best bonus but these effects do not stack"
+  },
+  {
+    "question": "Is an effect instantaneous if a permanent transformation can be dispelled?",
+    "answer": "Correct.",
+    "rules": [
+      "Spellcasting > Duration > Instantaneous"
+    ],
+    "rules_explanation": "The GM confirms that permanent transformations such as the kind created by the True Polymorph spell can be dispelled with Dispel Magic as per the SRD even if the transformation has a \"Permanent\" duration.  This implies this spell effect still uses a duration of \"instantaneous.\""
+  },
+  {
+    "question": "Can 2 5th level bard simulacrum use Cutting Words to reduce the same attack?",
+    "answer": "No.",
+    "rules": [
+      "Combat > Actions > Reactions"
+    ],
+    "rules_explanation": "This is a question about whether to Reaction based on the rules of combat"
+  },
+  {
+    "question": "When creating a Simulacrum of the level 5 bard would the 9th level wizard DM have to roll to dispel it or does the caster of Cutting Words have to roll?",
+    "answer": "Vecna would have to roll.",
+    "rules": [
+      "Spellcasting > Rituals",
+      "Game Mechanics > Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This is a question about who makes an ability check or saving throw when dispel magic is used. The DM has to roll to see if his spell overrides the other character's effect."
+  },
+  {
+    "question": "If a spell is instantaneous can it also have a trigger?",
+    "answer": "The spell is instantaneous, unless it's copying the effect of a spell.",
+    "rules": [
+      "Spellcasting > Duration > Instantaneous"
+    ],
+    "rules_explanation": "The spell has an instantaneous casting time unless it's replicating another spell."
+  }
+]

@@ -1,0 +1,405 @@
+[
+  {
+    "question": "As Pike Trickfoot, what does my bonus action do?",
+    "answer": "You can use a bonus action to click the Sprinter's Boots together to double your walking speed.",
+    "rules": [
+      "Races > Racial Traits > Speed",
+      "Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "The SRD indicates that the bonus actions available to a character depends on the features they have.  The transcript details that character's ability to click their boots as a bonus action."
+  },
+  {
+    "question": "If Fjord attempts to take the box from Bigby's Hand, but Bigby's Hand resists, what kind of check is made?",
+    "answer": "A contested Strength check is made. Fjord adds their strength modifier to the roll, and the hand adds its strength modifier to its roll.",
+    "rules": [
+      "Using Ability Scores > Contests"
+    ],
+    "rules_explanation": "The SRD notes that a contest occurs when two individuals oppose each other. In this instance, the characters are both trying to be in control of the same box using strength. This makes it a contested strength check. The highest roller succeeds."
+  },
+  {
+    "question": "Can Jester use the rest of her movement after casting Firestorm?",
+    "answer": "Yes. Jester can use the rest of her movement after casting Firestorm as casting Firestorm does not expend movement.",
+    "rules": [
+      "Combat > Your Turn > Movement and Position"
+    ],
+    "rules_explanation": "The rules say that on your turn you can move a distance up to your speed, and can use as much or as little of your speed as you like on your turn and there are no rules indicating that casting a spell prevents the rest of your movement from being used."
+  },
+  {
+    "question": "As a level 15 fighter, does Percy have disadvantage on ranged weapon attacks against Fjord, who is prone?",
+    "answer": "Yes, the prone condition grants disadvantage on attack rolls when using a ranged weapon.",
+    "rules": [
+      "Appendix PH-A > Conditions > Prone"
+    ],
+    "rules_explanation": "The prone condition in the SRD states that attack rolls against a prone creature have advantage if the attacker is within 5 feet of the creature, otherwise the attack roll has disadvantage."
+  },
+  {
+    "question": "Does the radiant damage that Fjord takes because of the Star Razor trigger a concentration check?",
+    "answer": "Yes, the radiant damage that Fjord takes because of the Star Razor triggers a concentration check, as a Constitution saving throw.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The SRD specifies that whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration"
+  },
+  {
+    "question": "Can Fjord take an opportunity attack from his back?",
+    "answer": "Yes, but the attack roll is made with disadvantage.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Opportunity Attacks",
+      "Appendix PH-A > Conditions > Prone"
+    ],
+    "rules_explanation": "The SRD states that you can make an opportunity attack when a hostile creature leaves your reach. The SRD also states that you have disadvantage on attack rolls when you are prone, unless the target is within 5 feet of you."
+  },
+  {
+    "question": "If a dominant person spell is dispelled does Bigby's Hand also vanish",
+    "answer": "Yes, because it was a concentration spell that was cast, Bigby's Hand does vanish",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The SRD indicates that you lose concentration on a spell if you cast another spell that requires concentration"
+  },
+  {
+    "question": "Does Pike have disadvantage on her Guiding Bolt attack since Fjord is next to her?",
+    "answer": "Yes, because Pike is next to Fjord, a hostile creature, she has disadvantage on the ranged spell attack. ",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "The SRD states that you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated."
+  },
+  {
+    "question": "Does Pike deal extra damage from Divine Strike more than once per turn?",
+    "answer": "No, Divine Strike can only be used once on each of your turns. It is not on every attack.",
+    "rules": [
+      "Cleric"
+    ],
+    "rules_explanation": "The specifics of what the Divine Strike Class feature does, but it specifies that the effect happens once on each of your turns and does not happen on every attack."
+  },
+  {
+    "question": "Since Pike is stunned at the top of the round, does that mean those attacking her get advantage?",
+    "answer": "Yes, because Pike is stunned, those making attack rolls against her have advantage.",
+    "rules": [
+      "Appendix PH-A > Conditions > Stunned"
+    ],
+    "rules_explanation": "The SRD says that attack rolls against a stunned creature have advantage."
+  },
+  {
+    "question": "Since Fjord is polymorphed into a T-Rex, does he have access to his warlock feats?",
+    "answer": "Feats do not inherently carry over, though I am holding Fjord's body rather than creating a fresh T-Rex.",
+    "rules": [
+      "Spellcasting > Wild Shape"
+    ],
+    "rules_explanation": "The description for Wild Shape states 'You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.' This ruling is a GM Judgement, so not in SRD."
+  },
+  {
+    "question": "If Scanlan is stunned, does this prevent Jester from teleporting using Dimension Door?",
+    "answer": "As Scanlan is stunned he can't perform the action to cast the spell Dimension Door so it does not activate.",
+    "rules": [
+      "Appendix PH-A > Conditions > Stunned"
+    ],
+    "rules_explanation": "The SRD lists one of the effects of the stunned condition is that the creature can't move and can only speak falteringly."
+  },
+  {
+    "question": "As a level 15 character, is Scanlan's Bardic Inspiration Die a d10 or d12?",
+    "answer": "The Bardic Inspiration die is a d12 for a bard of 15th level.",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "The SRD specifies that The Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level."
+  },
+  {
+    "question": "If a bonus action is used to cast Hexblade's curse, can Thunderstep still be cast in the same turn?",
+    "answer": "Yes, the bonus action to activate the curse does not prevent casting another spell of action casting time.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "The bonus action rule notes that you can cast a spell with a bonus action if you cast a cantrip with your action and there are no other restrictions. In this instance, Hexblade's curse is not a spell."
+  },
+  {
+    "question": "If they are within 5 feet of each other and Pike decides to move, does Fjord get an attack of opportunity? Are both seeing each other with the fog cloud that is present?",
+    "answer": "Scanlan currently cannot see Fjord, but Pike can see Fjord. If he moves he would get an attack of opportunity from Pike",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "The rules say that you can make an opportunity attack when a hostile creature leaves your reach and it depends if they can see each other."
+  },
+  {
+    "question": "Does War Caster allow casting a non-melee spell as an Opportunity attack?",
+    "answer": "Yeah, with War Caster.",
+    "rules": [
+      "Feats > War Caster"
+    ],
+    "rules_explanation": "This is referring to an external source, not included in the SRD: 'War Caster: When a hostile creature’s movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.'"
+  },
+  {
+    "question": "If Pike is trying to Enervation on Fjord, does it count for her buddies to take 19 points of necrotic damage and I heal half of that?",
+    "answer": "No. The potion description is of a single target effect, the spell applies to the attacked target only. As she saved, the effect is halved",
+    "rules": [
+      "Spell Descriptions > Enervation"
+    ],
+    "rules_explanation": "Per the spell: 'A beam of black and purple energy lashes out, dealing 4d8 necrotic damage to a creature, then 2d8 healing to the caster.'"
+  },
+  {
+    "question": "Can an opportunity attack be swapped with a Banishing Smite?",
+    "answer": "No, not for this one. Banishing Smite is a bonus action that adds its effect to a melee attack, rather than being the attack itself. ",
+    "rules": [
+      "Spell Descriptions > Banishing Smite"
+    ],
+    "rules_explanation": "The rules say it's a bonus action that empowers the next melee attack, not a reaction. This rules out banishing smite as a spell that can be used for an opportunity attack as per the warmaster feat."
+  },
+  {
+    "question": "Can a bonus action be used to move a duplicate Jester cast?",
+    "answer": "Yes, yeah, I'll move my duplicate, but she has to be within visual of me, so I'm not going to be able to move her right now. Well, you can move her as you're moving there.",
+    "rules": [
+      "Actions in Combat > Bonus Action"
+    ],
+    "rules_explanation": "The text of mirror image, an external source rather than the spells listed in the SRD, gives the condition that Jester's image must be within visual for her to move it. The question is if movement expends the action, and the judgement is it is still the same turn so she can move it as she moves."
+  },
+  {
+    "question": "Can Pike use a Healing word spell if that is what she uses as an action?",
+    "answer": "It depends on the other spell cast that turn as \"you can't cast a cantrip and a spell on the same turn\"",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "You can cast a cantrip and a spell on the same turn. Since a Healing Word is a bonus action, Pike would be limited in what action Pike could take in the same turn."
+  },
+  {
+    "question": "If a bard uses Cutting Words is that technically an attack?",
+    "answer": "No. Cutting Words is not an attack. The bard just sings to the target.",
+    "rules": [
+      "Bard > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "A bard uses an action, not an attack. It's verbal component, not an attack that would make the enemy prone to any given debuff."
+  },
+  {
+    "question": "If the T-Rex is no longer grappling Pike, does that mean I, as Beauregard, still have disadvantage?",
+    "answer": "Yes, because you can't add to his 5 points. The ruling is disadvantage is only canceled by advantage. No other addition of bonuses or debuffs can cancel out advantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rule is that disadvantage is only canceled by advantage."
+  },
+  {
+    "question": "Can a wizard cast a spell while in another tower?",
+    "answer": "Yes, this may depend on the spell.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "Depending on the spell in question a wizard can be in one tower and affect a creature in another depending on the range of the spell and whether there is an obstruction."
+  },
+  {
+    "question": "If Vax steals the crystal, what action has he taken?",
+    "answer": "Assuming the item is on the ground and in immediate reach, that action would be to grab it and has an action and a bonus to that point. Then the action is to grab and squeeze the crystal. So I have a hasted action now, and 120 feet of movement.",
+    "rules": [
+      "Spellcasting > Area of Effect"
+    ],
+    "rules_explanation": "Depending on the circumstances, the DM decides what may require an action or bonus action. Since he has already reached a tower, the action would be grabbing the crystal and crushing it."
+  },
+  {
+    "question": "For a wizard to get 15 points of bludgeoning damage for a rock's spell, what level does the wizard need to be?",
+    "answer": "This is referencing a previous spell so cannot be answered from the SRD"
+  },
+  {
+    "question": "If Pike has the Plate of the Dawn Martyr does this mean that she resistant to radiant damage or is it only fire?",
+    "answer": "Just fire",
+    "rules": [
+      "Armor"
+    ],
+    "rules_explanation": "The plate lists only one resistance (fire)"
+  },
+  {
+    "question": "What saving throw does the T-Rex have from Thunder Step?",
+    "answer": "The T-Rex must make a Constitution saving throw.",
+    "rules": [
+      "Spell Descriptions > Thunderstep"
+    ],
+    "rules_explanation": "The description for Thunderstep states that Each creature, other than you, within 5 feet of you must make a Constitution saving throw, taking 3d8 thunder damage on a failed save, or half as much damage on a successful one."
+  },
+  {
+    "question": "With my Marine Layer ability, how many beings that are next to me can still see?",
+    "answer": "All creatures can see within the fog cloud.",
+    "rules": [
+      "Spell Descriptions > Marine Layer ability"
+    ],
+    "rules_explanation": "The fog is magical, and as the caster, Fjord can see through it and does not effect the number of beings next to him that can see as he has the spell."
+  },
+  {
+    "question": "What is the Bardic Inspiration die for a 2nd-level Bard?",
+    "answer": "It is a d6.",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "The SRD specifies that at 1st level, you gain one Bardic Inspiration die, a d6."
+  },
+  {
+    "question": "If Laura casts Dispelled Magic on the boots, does that mean the Haste spell on the boots is gone for the rest of the game?",
+    "answer": "Yes, it's gone.",
+    "rules": [
+      "Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "The dispelled Haste effect is what allows the character to be hasted for a brief period. As such, when you dispel the magic of the spell, it is gone. The boots, however, are not the thing being dispelled."
+  },
+  {
+    "question": "If Molly falls off of a roof, will his body stay where it fell, or where Percy was before the switch?",
+    "answer": "The body will stay wherever the body was at.",
+    "rules": [
+      "General Rules"
+    ],
+    "rules_explanation": "Matt confirms that the body will stay wherever the body was at. So it seems."
+  },
+  {
+    "question": "After the paladin casts a 4th-level Heal on himself, may he cast Healing Word to heal Scanlan?",
+    "answer": "No, you can't do two spells in one action.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "The rules state that it is up to what actions that player takes on one turn. A bonus action and action is needed to cast the two different spells."
+  },
+  {
+    "question": "When Fjord transforms, can he still use the protect command word he cast before transforming?",
+    "answer": "As you were changed because of Vax's attack then, yes. The polymorph does not take an action so it's still in effect.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The protection spell does not end until you take damage because it's a concentration spell, but because you polymorphed from the Haste effects from the same turn, it is still cast as a trigger spell."
+  },
+  {
+    "question": "Can a stunned creature speak to cast dimension door?",
+    "answer": "The rules show you can't.",
+    "rules": [
+      "Appendix PH-A > Conditions > Stunned"
+    ],
+    "rules_explanation": "The stunned condition notes the creature can't move and can only speak falteringly."
+  },
+  {
+    "question": "As Jester, if I succeed in my Dimension Door spell, can I grab the gem?",
+    "answer": "Yes you can. The limitation is travel not affecting other actions. So a movement and an action can both still be taken. I'm going to go grab it.",
+    "rules": [
+      "Combat > Your Turn > Movement and Position"
+    ],
+    "rules_explanation": "The rules state on your turn, you can move a distance up to your speed and take one action."
+  },
+  {
+    "question": "If the target of Command is an awakened tree and I use the term 'drop', what will happen?",
+    "answer": "The target drops whatever it is holding and then ends its turn.",
+    "rules": [
+      "Spell Descriptions > Command"
+    ],
+    "rules_explanation": "The spell description for command lists Drop as a possible command and its effect."
+  },
+  {
+    "question": "When I take thunder damage, does the ring of evasion cause me to avoid the damage?",
+    "answer": "Oh yes. In addition, you can take that Divine Smite back. That spell slot, and you did not take that damage.",
+    "rules": [
+      "Fighting Style",
+      "Ranger"
+    ],
+    "rules_explanation": "The effects of both is outside of SRD, so just general knowledge."
+  },
+  {
+    "question": "As Vax, when my cloak stopped working for a split second, has the Displacement cloak come back up, or am I still vulnerable?",
+    "answer": "There is displacement cloak. It is back up as the top of the turn restarts the feature.",
+    "rules": [
+      "Magic Items > Cloak of Displacement"
+    ],
+    "rules_explanation": "The cloak of Displacement's magical aura affects you while in its power. Per it's description, that effect is that  Attack rolls against you have disadvantage and your hit is a 23 for the same save DC, and does not indicate any vulnerability."
+  },
+  {
+    "question": "Is there a maximum height of 40 feet on Flame Strike",
+    "answer": "Yes.",
+    "rules": [
+      "Spell Descriptions > Flame Strike"
+    ],
+    "rules_explanation": "The spel description of Flame Strike states that the effect is a cylinder which is '40-foot high cylinder centered on a point within range.'"
+  },
+  {
+    "question": "Can Jester roll for a reaction to the attack of the imp?",
+    "answer": "Yes, she's a War Caster. Okay. Well, I'm a War Caster. So I'm going to cast--",
+    "rules": [
+      "Feats > War Caster"
+    ],
+    "rules_explanation": "As mentioned in the item's description, a caster has advantage on Constitution saving throws."
+  },
+  {
+    "question": "Given his actions this combat, what does Jester know of Vax's whereabouts?",
+    "answer": "Nope. All that you see right now inside the room is the imp went out, you saw the gem drop, the winged man in dark clothing snatch it, and then a T-Rex come around the corner. You just have the view outside of the door right there.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "A spell is only useful to what you can cast with it. Because she does not perform the actions necessary, Jester cannot know Vax's location."
+  },
+  {
+    "question": "If Pike falls unconscious due to melee attack in the marine cloud, will the attacking enemy get an attack of opportunity?",
+    "answer": "No, because you're out of it. I'm okay. Finishing Pike's go",
+    "rules": [
+      "Appendix PHA > Conditions"
+    ],
+    "rules_explanation": "Per the Unconscious Condition, an unconscious creature is incapacitated and unaware of its surroundings. Incapacitated creatures can't move, take actions, or react."
+  },
+  {
+    "question": "If she casts heal with the gem, can she use her bonus action to move her duplicate?",
+    "answer": "Okay, well, I don't think I can do that. Right, but, because, does the can't-- do two spells in one, like rule kick in, because it's a bonus and then the action? I think so? Okay, yeah. So yeah. So the answer's no.",
+    "rules": [
+      "Spellcasting > Bonus Action"
+    ],
+    "rules_explanation": "Yes, a bonus action is still a spell and you can't cast 2 spells in one turn. For example 'You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action'."
+  },
+  {
+    "question": "Does Vax get disadvantage on a melee spell attack?",
+    "answer": "No, the displacement cloak doesn't apply to spell attacks only weapon attacks.",
+    "rules": [
+      "Magic Items > Cloak of Displacement"
+    ],
+    "rules_explanation": "The feat reads 'Attack rolls against you have disadvantage'. However the ability of it deactivates when hit, and it also depends on which part of his turn has proceeded, as such Vax wouldn't be able to have the benefit."
+  },
+  {
+    "question": "Jester states she didn't get her bonus action that round, does this mean Vax has already used his action for the turn?",
+    "answer": "So the next time you touch and that means-- Oh shit! Oh shit! It's me. Sam, I got a question I have here. You hear me right, I'm on the air at the last of the Okay, just so I can have 4, okay--",
+    "rules": [
+      "Actions in Combat > Your Turn"
+    ],
+    "rules_explanation": "On your turn, you can move a distance up to your speed and take one action and does not automatically mean that the other player has used their action as well."
+  },
+  {
+    "question": "How does the cutting of words apply to an attack?",
+    "answer": "Doesn't count. If-- well, yeah",
+    "rules": [
+      "Bard > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "While you can cut down the d20 number, that is different from attack so it doesn't count."
+  },
+  {
+    "question": "Does Jester feels a pain because she is carrying the gem with her?",
+    "answer": "Yes, the GM tells of a particular pain or side effect."
+  },
+  {
+    "question": "If you use the Enervation spell as an attack of opportunity on a fleeing target, what save does the target make and what happens to the saving?",
+    "answer": "The player saves against the effect. This applies to Pike.",
+    "rules": [
+      "Spell Descriptions > Enervation"
+    ],
+    "rules_explanation": "Per the player log: 'On a failed save, you take--  4d8 necrotic damage. So you take--' because of her save, she took 9 points rather than a potential higher point."
+  },
+  {
+    "question": "If Caduceus has War Caster what concentration spell will he be casting?",
+    "answer": "The War Caster does not indicate that he would also have the concentration spell. There's no reference to Caduceus having it so there's no real indication he would have any. We'll see it for sure if she gets hit. This does not violate a need, so no requirements needed.",
+    "rules": [
+      "Feats > War Caster"
+    ],
+    "rules_explanation": "War Master's only feature is to give people an opportunity attack based on spells, but there is no need for them to also have to cast a concetration spell in this instance."
+  },
+  {
+    "question": "If a 5th-level Thunder Step spell casts on somebody and that character fails the saving throw, how much damage is done, and what occurs to the target?",
+    "answer": "32 points of thunder damage. Constitution make a constitution save",
+    "rules": [
+      "Spell Descriptions > Thunder Step"
+    ],
+    "rules_explanation": "If the target fails, 3d8 thunder damage. So it is not possible to determine this from the SRD without a random damage roll for dice."
+  },
+  {
+    "question": "If a T-Rex is in a marine cloud, what vision does it have?",
+    "answer": "Yeah, so I would say that the fog cloud would work on you, even in a T-Rex form. I mean, technically, what happens, too, if there any humanoids, there you can't see out of.",
+    "rules": [
+      "Player's Handbook > The Environment > Vision and Light"
+    ],
+    "rules_explanation": "Per the PHB, 'A heavily obscured area--such as darkness, opaque fog, or dense foliage--blocks vision entirely. A creature effectively suffers from the blinded condition (see appendix A) when trying to see something in that area.'"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What is the effect of a banshee scream from Sindel on the Level 1 Johnny Cage?",
+    "answer": "Chunks of your face begin to peel away, and your ears immediately rupture, and blood pours out from them.",
+    "rules": [],
+    "rules_explanation": "This is a direct ruling of the gamemaster using the story game and a description of the setting. There is no direct rules information applied."
+  },
+  {
+    "question": "Does rattling to the defensive stance count as landing a hit on my foe?",
+    "answer": "No. Rattling is a specific action.",
+    "rules": [],
+    "rules_explanation": "The game master ruling establishes that the requested action does not meet the intended parameters for the story."
+  },
+  {
+    "question": "If Rain, Level 1 wizard, takes zero action points to declare their realm shall triumph, and then their foe draws one drama, does that still count as Rain's action?",
+    "answer": "No. It's a free action.",
+    "rules": [],
+    "rules_explanation": "The game master determines that this action takes no action points, which means it is a free action for the character."
+  },
+  {
+    "question": "How many action dice does Kitana, Level 1 fighter, automatically replenish at the top of Round 2?",
+    "answer": "You all automatically replenish one edge die.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master directly states what happens at the beginning of round 2."
+  },
+  {
+    "question": "Can the player, Level 1 fighter, change stances at the top of the round?",
+    "answer": "Yes, you can change stances at the top of the round.",
+    "rules": [],
+    "rules_explanation": "The DM clarifies that changing stances is a valid choice at the start of the round"
+  },
+  {
+    "question": "The Player, level 1 fighter, asks if they get credit for an objective when another player moves the duel to an adjacent area, instead of them. Does the player, level 1 fighter, get credit?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "The DM determines credit for the objective is not granted to the player."
+  },
+  {
+    "question": "If the players elect to raise the stakes, do they spend any action points to do so?",
+    "answer": "No, it just happens.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master rules that raising the stakes has no cost"
+  },
+  {
+    "question": "The player is told to harry a foe, what does that mean?",
+    "answer": "The foe must spend action points or be rattled.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master rules that to Harry a foe requires spending action points or becoming rattled."
+  }
+]

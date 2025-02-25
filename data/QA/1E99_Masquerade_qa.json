@@ -1,0 +1,225 @@
+[
+  {
+    "question": "A character with constitution modifier is 18, with a bonus of 4. What is the constitution saving throw? ",
+    "answer": "A character with a constitution score of 18 has a +4 modifier, but this modifier is not used on a constitution saving throw. The DM determines what, if any, modifier will be applied to the saving throw.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The SRD describes how to calculate the ability modifier for a given score. Saving throws use abilities, but have modifiers applied to the roll as specified by the situation."
+  },
+  {
+    "question": "If the cleric casts Earthquake, what's the casting time on that?",
+    "answer": "The Earthquake spell has a casting time of 1 action.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action",
+      "Spellcasting > Casting Time > Reactions"
+    ],
+    "rules_explanation": "This answer pulls directly from the spell description, if available, but includes other related rules to give all the information for the answer"
+  },
+  {
+    "question": "A spell that has a ranged attacks has normal/long range, the target beyond normal range. What happen to the target's attack roll? ",
+    "answer": "Your attack roll has disadvantage when your target is beyond normal range, and you can't attack a target beyond the weapon's long range.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Range"
+    ],
+    "rules_explanation": "The SRD describes the range rules for ranged attacks."
+  },
+  {
+    "question": "A character attempts to persuade with a roll result of 22. What happen?",
+    "answer": "The character's attempt at persuasion succeeds.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The SRD states that if the ability check total equals or exceeds the DC, the ability check is a success."
+  },
+  {
+    "question": "A level 1 bard casts Luck, what happens?",
+    "answer": "There is no \"Luck\" spell available to bards. \"Luck\" in D\\u0026D 5th edition does not refer to a spell.",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The game play transcript indicates the spell that is being cast. The SRD states that befor a spellcaster can use a spell, he or she must have the spell firmly fixed in mind, or must have access to the spell in a magic item."
+  },
+  {
+    "question": "A level 1 luck use adds what to an roll result?",
+    "answer": "The SRD does not define the characteristics or effects of a \"luck\" ability.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This is a more general answer to a general question that could be answered by the SRD. This question is using the luck ability to influence an ability roll so I chose that section for the relevant SRD."
+  },
+  {
+    "question": "If a creature can cast the Commune with Nature spell, what does she instantly knows about the land within 3 miles of you?",
+    "answer": "The spell gives you knowledge of the land within 3 miles of you. You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area: terrain and bodies of water, prevalent plants, minerals, animals, or peoples, powerful celestials, fey, fiends, elementals, or undead, influence from other planes of existence, or buildings.",
+    "rules": [
+      "Spell Lists > Druid Spells > Commune with Nature"
+    ],
+    "rules_explanation": "The SRD defines what information is obtained from the Commune with Nature spell"
+  },
+  {
+    "question": "A caster wishes to use Luck ability. What happens?",
+    "answer": "There is no general 'Luck ability' described in the SRD, but rather specific racial and class features that are related to the concept of Luck. Depending on which feature is being invoked, the effects may vary.",
+    "rules": [
+      "Races > Halfling Traits > Lucky",
+      "Classes > Bard > Bardic Inspiration",
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The SRD documents two luck-related abilities but makes no reference to a general ability called 'Luck'."
+  },
+  {
+    "question": "A gnome tries to use stealth check but rolls a 4. What happens?",
+    "answer": "The gnome makes a Dexterity (Stealth) check, adding the gnome's Dexterity modifier and proficiency bonus, if applicable, to the roll of 4 to generate a total. The GM compares the check against the appropriate DC to determine success or failure.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The SRD defines how to perform and adjudicate ability checks."
+  },
+  {
+    "question": "What is the duration of the Wind Walk spell if it is not concentration?",
+    "answer": "The Wind Walk spell has a duration of 8 hours.",
+    "rules": [
+      "Spell Lists > Druid Spells > Wind Walk"
+    ],
+    "rules_explanation": "The duration of a spell can be obtained by referencing the spell description"
+  },
+  {
+    "question": "What roll is required to see if a spell is an illusion?",
+    "answer": "A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Areas of Effect"
+    ],
+    "rules_explanation": "This describes the type of roll required to disbelieve an illusion."
+  },
+  {
+    "question": "With the spell Transport via Plants, what is the procedure to move from one tree to another?",
+    "answer": "You find the nearest large tree and with a quick snap of your fingers, a flash of druidic energy, you watch as the tree form splits open, revealing the doorway. On the other side is the space at the destination tree. You step through.",
+    "rules": [
+      "Spell Lists > Druid Spells > Transport via Plants"
+    ],
+    "rules_explanation": "The description for this spell does not specify a snap of fingers, or that the tree splits open. It simply says that you can enter a Large or larger plant and exit from a different one."
+  },
+  {
+    "question": "The store keeper at Whitestone farmer's market offers to sell a potion and ring: \"This liquid, upon being imbibed, will temporarily allow you to see, read, and speak any language you like!\" and “There's a ring that Allows you to move freely.” Can Identify spells identify them?",
+    "answer": "Yes, an Identify spell will reveal whether the items are magical and what their properties are.",
+    "rules": [
+      "Spell Lists > Wizard Spells > Identify"
+    ],
+    "rules_explanation": "The Identify spell states that it reveals the properties of a magical object."
+  },
+  {
+    "question": "Can Chod make an insight check?",
+    "answer": "Any creature can make an insight check if the DM calls for it or allows it, providing the creature isn't incapacitated, and has the ability to perceive the subject of the check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules for ability checks state that anyone can make an ability check when asked to by the DM."
+  },
+  {
+    "question": "When does the hate of Disguise last?",
+    "answer": "The Hat of Disguise has a duration of until you take the hat off.",
+    "rules": [
+      "Magic Items > Hat of Disguise"
+    ],
+    "rules_explanation": "The Hat of Disguise Magic item description is checked for the answer."
+  },
+  {
+    "question": "A half orc turns into Scanlan and then the half elf Vex merges into him. What is he and where is the half-elf?",
+    "answer": "The SRD does not include any rules which describe the combination of shape changing and forcible merging of a character with that character's boss. It is up to the DM to adjudicate what effect those actions would have.",
+    "rules": [
+      "Using Ability Scores"
+    ],
+    "rules_explanation": "There is no specific rule in the SRD that covers this situation. The closest related rules relate to spell descriptions for Alter Self and Polymorph."
+  },
+  {
+    "question": "A barbarian has a wisdom saving throw for the Frantic Flail ability. What is the DC for this wisdom saving throw?",
+    "answer": "I cannot assess the DC. There is no source of this DC in the SRD.",
+    "rules": [
+      "Spellcasting > Casting A Spell > Saving Throws"
+    ],
+    "rules_explanation": "The SRD states the what the saving throw against a given spell effect will be, but unless a specific monster stat block or ability definition is in the document there will be no answer."
+  },
+  {
+    "question": "A barbarian, named Grog, is prone, stunned, and grappled. Can he move?",
+    "answer": "No. A stunned creature is incapacitated and can't move.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation": "The incapacitated and stunned conditions prevent a creature from moving, and the grappled condition sets the creature's speed to 0."
+  },
+  {
+    "question": "What is the casting time of the Enhance Ability spell?",
+    "answer": "The Enhance Ability spell has a casting time of 1 action.",
+    "rules": [
+      "Spell Lists > Bard Spells > Enhance Ability",
+      "Spell Lists > Cleric Spells > Enhance Ability",
+      "Spell Lists > Sorcerer Spells > Enhance Ability"
+    ],
+    "rules_explanation": "The information for this is contained in the spell description. As all of the spell lists included have the same casting time."
+  },
+  {
+    "question": "what does an Owl's Wisdom spell do?",
+    "answer": "The SRD document describes the Owl's Wisdom spell, there is no general Owl's Wisdom spell to be found.",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The game play transcript indicates the spell that is being cast. If there was no Owl's Wisdom spell listed there would be no definitive response to the question. An ability with that name would not be identifiable."
+  },
+  {
+    "question": "If someone has proficiency in medicine, what checks can they make?",
+    "answer": "A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness.",
+    "rules": [
+      "Using Ability Scores > Skills > Wisdom"
+    ],
+    "rules_explanation": "If a character is proficient in a skill and has advantage on the ability check, they can apply the bonus of that skill to any ability check for which the skill could reasonably apply. The specifics of how this interacts with the medicine skill is detailed here."
+  },
+  {
+    "question": "If someone is a chef, what checks can they make?",
+    "answer": "There is no defined \"chef\" skill in the SRD. The GM may allow a Cooking Utensils proficiency to apply to checks involving the preparation of food.",
+    "rules": [
+      "Equipment > Tools"
+    ],
+    "rules_explanation": "The SRD does not define any \"chef\" skills, or anything with a similar name. There are crafting skills, so the closest skill is cooking utensils."
+  },
+  {
+    "question": "What size is Vex?",
+    "answer": "Unless specified otherwise Vex is considered to be a Medium sized creature.",
+    "rules": [
+      "Races > Subraces > Size"
+    ],
+    "rules_explanation": "The size of the different races are described here."
+  },
+  {
+    "question": "What happens if a character is holding a torch?",
+    "answer": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.",
+    "rules": [
+      "Equipment > Adventuring Gear > Torch"
+    ],
+    "rules_explanation": "The effects of holding a torch is described here."
+  },
+  {
+    "question": "Can an aboleth's enslaved reaction?",
+    "answer": "The charmed target is under the aboleth's control and can't take reactions.",
+    "rules": [
+      "Monsters > Aboleth > Enslave"
+    ],
+    "rules_explanation": "The properties and effects of the enslave ability are checked, to provide an answer for the aboleth."
+  },
+  {
+    "question": "What happens when the Half-Orc Lionel, the Chod, is in physical contact with the Sorcerer Vex?",
+    "answer": "The SRD includes no rules on the physical interaction of a half-orc sorcerer with the half-elf Vex. Any effects are up to the DM's discretion.",
+    "rules": [
+      "Races > Half-Orc",
+      "Races > Half-Elf",
+      "Classes > Sorcerer"
+    ],
+    "rules_explanation": "There is no applicable rule in the SRD, therefore the DM would need to come up with a ruling."
+  },
+  {
+    "question": "If Lionel takes a level of exhaustion what happens?",
+    "answer": "A character suffers the effect of its current level of exhaustion as well as all lower levels.&#x20; If Lionel takes a level of exhaustion he suffers disadvantage on ability checks.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion > Level 1"
+    ],
+    "rules_explanation": "This rule is defined in the Exhaustion condition description in the SRD."
+  }
+]

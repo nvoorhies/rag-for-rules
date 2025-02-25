@@ -1,0 +1,453 @@
+[
+  {
+    "question": "The bard (level unknown, race unknown, Bard class) rolls a nine for an Insight check. What happens next?",
+    "answer": "The game master requests a Deception or Persuasion check from another character.",
+    "rules": [
+      "Ability Scores > Ability Checks > Skills",
+      "Spells > Components > Verbal (V)",
+      "Combat > Actions > Hide",
+      "Appendix MM-A: Miscellaneous Creatures > Ape"
+    ],
+    "rules_explanation": "The transcript indicates the bard's roll was insufficient, so the game master allows an attempt to decieve him."
+  },
+  {
+    "question": "The fire genasi (level unknown, race unknown, Monk class) makes a History check. What is the result?",
+    "answer": "The fire genasi (level unknown, race unknown, Monk class) makes a History check with advantage and rolls an 18.",
+    "rules": [
+      "Ability Scores > Ability Checks > Skills",
+      "Combat > Actions > Hide"
+    ],
+    "rules_explanation": "The DM states that the fire genasi (level unknown, race unknown, Monk class) will have advantage on a History check and that the roll was an 18."
+  },
+  {
+    "question": "The lagomore (level unknown, race unknown, Rogue class) must make a Constitution saving throw. What is the result?",
+    "answer": "The lagomore (level unknown, race unknown, Rogue class) rolls an 8 on the Constitution saving throw.",
+    "rules": [
+      "Ability Scores > Saving Throws",
+      "Combat > Actions > Hide"
+    ],
+    "rules_explanation": "The transcript indicates that the roll for a Constitution saving throw was an 8."
+  },
+  {
+    "question": "What dice are used to determine how many hit dice player character Monk class has?",
+    "answer": "Characters that are Monk class have 1d8 hit dice.",
+    "rules": [
+      "Classes > Monk > Hit Points > Hit Dice"
+    ],
+    "rules_explanation": "The SRD indicates that player character's Monk class have 1d8 for their Hit Dice. "
+  },
+  {
+    "question": "A 3rd level sorcerer cast Aid at 3rd level, how many additional hit points does this add to each character's maximum?",
+    "answer": "As a 3rd level spell, the Aid spell adds 10 hit points to each character's maximum.",
+    "rules": [
+      "Spell Descriptions > Aid"
+    ],
+    "rules_explanation": "The initial casting of the Aid spells gives 5 additional hit points to the target's maximum. Each level thereafter adds an additional 5 to the maximum."
+  },
+  {
+    "question": "What is the range of the message cantrip?",
+    "answer": "The message cantrip has a range of 120 feet.",
+    "rules": [
+      "Spell Descriptions > Message"
+    ],
+    "rules_explanation": "The spell description for the message cantrip indicates it has a range of 120 feet."
+  },
+  {
+    "question": "Does casting Message require a component?",
+    "answer": "The message cantrip requires verbal and somatic components.",
+    "rules": [
+      "Spell Descriptions > Message"
+    ],
+    "rules_explanation": "The spell description for Message specifies that the components are V, S."
+  },
+  {
+    "question": "What happens to the attacker when Mor, a rogue (level unknown, race unknown), Misty Steps behind the half-giant and attacks?",
+    "answer": "The half-giant does not get an opportunity attack, and Mor has advantage on the attack roll.",
+    "rules": [
+      "Combat > Actions > Opportunity Attacks",
+      "Feats > Grappler"
+    ],
+    "rules_explanation": "Since the rogue (level unknown, race unknown) uses misty step, they do not provoke an opportunity attack. Because she is behind the half-giant, she also gains advantage."
+  },
+  {
+    "question": "The Hexblade warlock (level unknown, race unknown) casts a Persuasion check with advantage, rolls a 16 and their persuasion bonus is +4. What is the result?",
+    "answer": "The Hexblade warlock (level unknown, race unknown) achieves a total of 20 on the Persuasion check.",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage allows the Hexblade warlock (level unknown, race unknown) to roll twice, and the highest roll is 16 which is added to their bonus of +4 for a total of 20."
+  },
+  {
+    "question": "If a player character casts Light on their spear, what is the range of bright light and dim light that is cast?",
+    "answer": "The Light cantrip causes the spear to shed bright light in a 20-foot radius and dim light for an additional 20 feet.",
+    "rules": [
+      "Spell Descriptions > Light"
+    ],
+    "rules_explanation": "The spell description for Light indicates it causes the affected item to shed bright light in a 20-foot radius and dim light for an additional 20 feet."
+  },
+  {
+    "question": "What happens if a character affected by the Snare spell moves onto the ground in the spells radius",
+    "answer": "The trap triggers when a small, medium, or large creature moves onto the ground or the floor in the spells radius.",
+    "rules": [
+      "Spell Descriptions > Snare"
+    ],
+    "rules_explanation": "According to the description of the Snare spell, it triggers when a small, medium, or large creature moves onto the ground or the floor in the spells radius."
+  },
+  {
+    "question": "The GM invokes Unseen Attacker Rules, and a rogue (level unknown, race unknown, Rogue class) is making an attack roll against a creature, what die or dice are rolled?",
+    "answer": "The rogue (level unknown, race unknown, Rogue class) would make the attack roll with advantage.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "According to the rules for Unseen Attackers and Targets, when a creature can't see you, you have advantage on attack rolls against it."
+  },
+  {
+    "question": "A Half-Giant is affected by the Warding Wind spell. How is there movement impacted?",
+    "answer": "The terrain between the Half-Giant, and spellcaster is difficult terrain. The Half-Giant is deafened, and has their movement speed is halved in the area.",
+    "rules": [
+      "Spell Descriptions > Warding Wind"
+    ],
+    "rules_explanation": "The Warding Wind spell description says terrain in area is considered difficult and creatures are deafened."
+  },
+  {
+    "question": "The Dungeon Master asks the rogue (level unknown, race unknown) to make a constitution saving throw. What is the consequence for taking six points of burning damage",
+    "answer": "Taking six points of burning damage does not affect the dice or target value of the constitution saving throw.",
+    "rules": [
+      "Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Taking damage does not impact any saving throws that need to be made."
+  },
+  {
+    "question": "The game master asks the fire genasi (level unknown, race unknown, Monk class) to make a dexterity saving throw after a child splashes her with water. What happens if the fire genasi (level unknown, race unknown, Monk class) rolls 11?",
+    "answer": "The fire genasi (level unknown, race unknown, Monk class) takes the full cold damage of the splash.",
+    "rules": [
+      "Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "An 11 does not reach the target value to avoid damage."
+  },
+  {
+    "question": "What condition does the Blindness spell inflict?",
+    "answer": "The Blindness spell inflicts the blinded condition.",
+    "rules": [
+      "Spell Descriptions > Blindness/Deafness",
+      "Appendix PH-A: Conditions > Blinded"
+    ],
+    "rules_explanation": "The blinded condition is part of the spells text description."
+  },
+  {
+    "question": "What is the range for the Chill Touch cantrip?",
+    "answer": "The Chill Touch cantrip has a range of 120 feet.",
+    "rules": [
+      "Spell Descriptions > Chill Touch"
+    ],
+    "rules_explanation": "The spell description for Chill Touch specifies a range of 120 feet."
+  },
+  {
+    "question": "What saving throw does the Blindness spell force?",
+    "answer": "The Blindness spell forces a Constitution saving throw.",
+    "rules": [
+      "Spell Descriptions > Blindness/Deafness"
+    ],
+    "rules_explanation": "The Blindness spell description specifies that the target must make a Constitution saving throw."
+  },
+  {
+    "question": "When is the blinded condition removed, if it's from the Reach to the Blaze ability?",
+    "answer": "The Blindness condition from Reach to the Blaze lasts until magic such as the *lesser restoration* spell removes the blindness.",
+    "rules": [
+      "Spell Descriptions > Blindness/Deafness",
+      "Appendix PH-A: Conditions > Blinded"
+    ],
+    "rules_explanation": "It is implied that the effects are magically derived, and the spells information indicates magical intervention can stop the condition."
+  },
+  {
+    "question": "What stat is used for an athletics check?",
+    "answer": "Strength is the ability used for Athletics checks.",
+    "rules": [
+      "Ability Scores > Using Each Ability > Strength > Strength Checks"
+    ],
+    "rules_explanation": "The SRD states that the Athletics skill reflects aptitude in certain kinds of Strength checks."
+  },
+  {
+    "question": "If the hexblade warlock casts Toll the Dead, does the frightened condition come into play?",
+    "answer": "The hexblade warlock casts the Toll the Dead cantrip, which does not impose the frightened condition.",
+    "rules": [
+      "Spell Descriptions > Toll the Dead"
+    ],
+    "rules_explanation": "Toll the Dead causes psychic damage. Since it doesn't cause the Frightened condition it does not come into play here."
+  },
+  {
+    "question": "Does Invisibility affect attacks?",
+    "answer": "When you attack a target that you can't see, you have disadvantage on the attack roll. When a creature can't see you, you have advantage on attack rolls against it.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The SRD describes the conditions for attacking unseen targets."
+  },
+  {
+    "question": "What saving throw is required to see someone's alignment, or their true intentions?",
+    "answer": "A Charisma saving throw is required to resist the Detect Thoughts spell.",
+    "rules": [
+      "Spell Descriptions > Detect Thoughts"
+    ],
+    "rules_explanation": "Creatures can resist Detect Thoughts by making a Charisma saving throw."
+  },
+  {
+    "question": "Can a character have inspiration from multiple sources?",
+    "answer": "No. You either have inspiration or you don't—you can't stockpile multiple \"inspirations\" for later use.",
+    "rules": [
+      "Using Ability Scores > Inspiration > Gaining Inspiration"
+    ],
+    "rules_explanation": "The SRD states that you either have inspiration or you don't."
+  },
+  {
+    "question": "What is the range of Detect Magic?",
+    "answer": "The range for Detect Magic is self.",
+    "rules": [
+      "Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "The SRD specifies Detect Magic has a range of self."
+  },
+  {
+    "question": "What type of saving throw, is required to resist the Poison spray cantrip?",
+    "answer": "To avoid damage from the Poison Spray cantrip, a creature must make a Constitution saving throw.",
+    "rules": [
+      "Spell Descriptions > Poison Spray"
+    ],
+    "rules_explanation": "The spell description specifies that the target must make a Constitution saving throw."
+  },
+  {
+    "question": "What does it mean to have proficiency with thieves tools?",
+    "answer": "Proficiency with thieves' tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.",
+    "rules": [
+      "Equipment > Tools > Thieves' Tools"
+    ],
+    "rules_explanation": "The SRD explicitly lists what proficiency with thieves' tools is used for."
+  },
+  {
+    "question": "What happens when you drop to zero hit points in 5e?",
+    "answer": "When you drop to 0 hit points, you either die outright or fall unconscious.",
+    "rules": [
+      "Damage and Healing > Dropping to 0 Hit Points"
+    ],
+    "rules_explanation": "This is a general rule outlined in the Dropping to 0 Hit Points section."
+  },
+  {
+    "question": "Is it OK to multi-class a sorcerer with another spell casting class, how does this effect preparing spells?",
+    "answer": "When multiclassing spellcasting classes, you determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class.",
+    "rules": [
+      "Multiclassing > Class Features > Spellcasting"
+    ],
+    "rules_explanation": "The text in the Multiclassing Spellcasting section gives a specific rule for how spells known and preparation are handled."
+  },
+  {
+    "question": "Does moving next to the other party members grant flanking?",
+    "answer": "The Dungeon Master's Guide discusses flanking as an optional rule. The System Reference Document does not cover the rules for flanking.",
+    "rules": [],
+    "rules_explanation": "Flanking rules are not included in the SRD so there is no rules string that can be used to answer this question."
+  },
+  {
+    "question": "If a creature is deafened, can they still cast spells?",
+    "answer": "A deafened creature can't hear and automatically fails any ability check that requires hearing. A character who is gagged or in an area of silence, such as one created by the *silence* spell, can't cast a spell with a verbal component.",
+    "rules": [
+      "Appendix PH-A: Conditions > Deafened",
+      "Spellcasting > Components > Verbal (V)"
+    ],
+    "rules_explanation": "The SRD indicates that deafened means you cannot hear, and a verbal component for a spell cannot be cast if a character cannot speak."
+  },
+  {
+    "question": "Can a sorcerer cast spells in armor?",
+    "answer": "You must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Casting in Armor"
+    ],
+    "rules_explanation": "The description for casting a spell in armor says that you must be proficient."
+  },
+  {
+    "question": "Can you regain expended hit dice from short rests?",
+    "answer": "A character can spend one or more Hit Dice at the end of a short rest, up to the character's maximum number of Hit Dice, which is equal to the character's level.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The text of the short rest rules specify spending Hit Dice."
+  },
+  {
+    "question": "If a Bard casts Invisibility on his brother, can his brother still touch the object",
+    "answer": "Invisibility can only be cast on creatures, and not objects.",
+    "rules": [
+      "Spell Descriptions > Invisibility"
+    ],
+    "rules_explanation": "In the description of the spell it clearly says “A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person.”"
+  },
+  {
+    "question": "The lagomore (level unknown, race unknown, Rogue class) casts Snare. How long does the effect last?",
+    "answer": "There is no duration listed in the SRD for Snare. The SRD does not include the Snare spell.",
+    "rules": [],
+    "rules_explanation": "This spell is not part of the official rules."
+  },
+  {
+    "question": "Can Disguise Self change your body's physical makeup?",
+    "answer": "Disguise Self does not change your physical form. Just the illusion.",
+    "rules": [
+      "Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "It mentions “You make yourself - - - look different” and then goes on with all of the parameters it can change to that affect LOOKS. Not physical attributes."
+  },
+  {
+    "question": "A level 1 paladin with 14 charisma, what is maximum amount of Lay on Hands they can use?",
+    "answer": "A 1st-level paladin can heal a total of 5 hit points with Lay on Hands.",
+    "rules": [
+      "Classes > Paladin > Class Features > Lay on Hands"
+    ],
+    "rules_explanation": "The paladin level determines their amount of Lay on Hands, and since the paladin is level 1, it would be equal to their level times 5."
+  },
+  {
+    "question": "What is the carrying capacity of a Medium character, with a strength of 14.",
+    "answer": "A Medium character with a Strength score of 14 has a carrying capacity of 210 pounds.",
+    "rules": [
+      "Using Ability Scores > Strength > Lifting and Carrying > Carrying Capacity"
+    ],
+    "rules_explanation": "A character's carrying capacity is their Strength score multipled by 15."
+  },
+  {
+    "question": "What does the Conclave refer to?",
+    "answer": "The SRD does not reference a conclave.",
+    "rules": [],
+    "rules_explanation": "The SRD does not contain any information about the Conclave."
+  },
+  {
+    "question": "If a creature is subjected to both deafened and blinded what happens?",
+    "answer": "A blinded creature can't see and automatically fails any ability check that requires sight. A deafened creature can't hear and automatically fails any ability check that requires hearing.",
+    "rules": [
+      "Appendix PH-A: Conditions > Blinded",
+      "Appendix PH-A: Conditions > Deafened"
+    ],
+    "rules_explanation": "The SRD details the effects of being blinded and deafened."
+  },
+  {
+    "question": "What are the mechanics of moving a stone table?",
+    "answer": "More than one character can try to accomplish a task. The character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "These are the core rules to the mechanic presented in the scenario in the question."
+  },
+  {
+    "question": "What is the effect of the Aid spell?",
+    "answer": "The aid spell increases the target's hit point maximum and current hit points by a specified amount for the duration.",
+    "rules": [
+      "Spell Descriptions > Aid"
+    ],
+    "rules_explanation": "This information is directly provided in the spell description in the SRD."
+  },
+  {
+    "question": "Does casting Disguise Self change your physical form?",
+    "answer": "The Disguise Self spell does not change a character's physical form, but only the illusions other see.",
+    "rules": [
+      "Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "This can be found in the Disguise Self's spell description in the SRD."
+  },
+  {
+    "question": "A fighter is fighting a fire giant. How much fire damage is a fire giant immune to?",
+    "answer": "A fire giant is not immune to fire damage.",
+    "rules": [
+      "Monsters (A-Z) > Giants > Fire Giant > Damage Immunities"
+    ],
+    "rules_explanation": "The Fire Giant monster stat block from the SRD does not include fire damage under 'Damage Immunities'."
+  },
+  {
+    "question": "What is an amulet of proof against detection and location, and what are its properties?",
+    "answer": "While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.",
+    "rules": [
+      "Magic Items > Magic Items A-Z > Amulet of Proof against Detection and Location"
+    ],
+    "rules_explanation": "The SRD lists the Amulet of Proof against Detection and Location, and its properties."
+  },
+  {
+    "question": "With what skills are Rogues proficient?",
+    "answer": "Rogues can choose any four skills from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Sleight of Hand, and Stealth",
+    "rules": [
+      "Classes > Rogue > Class Features > Proficiencies > Skills"
+    ],
+    "rules_explanation": "See class features in the Player's Handbook, or SRD."
+  },
+  {
+    "question": "What is the Silver Ray weapon property?",
+    "answer": "There is no Silver Ray weapon property in the SRD.",
+    "rules": [],
+    "rules_explanation": "The System Reference Document 5.1 does not reference the name 'Silver Ray' under the list of weapon names, weapon categories, weapon traits, the monster manual or spell description."
+  },
+  {
+    "question": "Does the Blindness spell have a bonus action component to cast?",
+    "answer": "The Blindness spell does not have a bonus action component, instead, it requires an action, a verbal component and may have a somatic component.",
+    "rules": [
+      "Spell Descriptions > Blindness/Deafness"
+    ],
+    "rules_explanation": "The spells description states that it takes 1 action to cast, components are verbal and if you require one somatic."
+  },
+  {
+    "question": "How many uses per day does the ring of three wishes have?",
+    "answer": "The Ring of Three Wishes has 3 charges. The magic is lost after all 3 charges are used.",
+    "rules": [
+      "Magic Items > Rings > Ring of Three Wishes"
+    ],
+    "rules_explanation": "From the rings description from the item in the SRD file, a wearer of this ring can use one of three wishes as an action to expend it. Once the charges are gone it can not be used again."
+  },
+  {
+    "question": "What is the damage type done by a Silvered weapon?",
+    "answer": "The damage type of a Silvered weapon remains the same, silvered weapons only bypass damage immunities.",
+    "rules": [
+      "Equipment > Weapons > Silvered Weapons"
+    ],
+    "rules_explanation": "While Silvered Weapons cost money to apply to a weapon, silvered weapons can hit specific monsters who are immune or resistant to weapons that are non-magical."
+  },
+  {
+    "question": "If a character gains a level and chooses to gain their level in the rogue class, which skills may they choose from",
+    "answer": "They can choose two from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Sleight of Hand, and Stealth",
+    "rules": [
+      "Classes > Rogue > Class Features > Proficiencies > Skills"
+    ],
+    "rules_explanation": "When multiclassing, the skills gained are dependent on the class taken. A rogue can choose from the list of skills mentioned above."
+  },
+  {
+    "question": "How much does scale mail weigh?",
+    "answer": "Scale mail weighs 45 pounds.",
+    "rules": [
+      "Equipment > Armor > Medium Armor > Scale Mail",
+      "Equipment > Armor > Armor"
+    ],
+    "rules_explanation": "The Weight column in the Armor table specifies the weight of scale mail."
+  },
+  {
+    "question": "What alignment is a Solar?",
+    "answer": "A Solar is lawful good.",
+    "rules": [
+      "Monsters (A-Z) > Angels > Solar"
+    ],
+    "rules_explanation": "The first line in the stat block says \"Large celestial, lawful good\"."
+  },
+  {
+    "question": "A level 5 character has a single attack, what is the action economy?",
+    "answer": "A fifth-level character can move a distance up to their speed and take one action on their turn.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "The general rule is that on your turn, you can move and take one action."
+  },
+  {
+    "question": "What is a familiar?",
+    "answer": "A familiar is a spirit that takes an animal form you choose.",
+    "rules": [
+      "Spell Descriptions > Find Familiar"
+    ],
+    "rules_explanation": "The spell find familiar contains a description of a familiar."
+  },
+  {
+    "question": "If an item causes you to add a plus 5 to an attack roll, can this be changed?",
+    "answer": "No rule states that you can change the bonus to an attack roll. Therefore, you can't change it.",
+    "rules": [],
+    "rules_explanation": "There is not a way to alter this because the player has no mechanics that suggest they can"
+  }
+]

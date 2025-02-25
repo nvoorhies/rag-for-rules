@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Can the level 2 druid cast a druid spell as a ritual if that spell has the ritual tag and is prepared?",
+    "answer": "Yes, you can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.",
+    "rules": [
+      "Druid > Spellcasting > Ritual Casting"
+    ],
+    "rules_explanation": "This is a straightforward application of the \"Ritual Casting\" rule for the Druid class."
+  }
+]

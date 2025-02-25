@@ -1,0 +1,418 @@
+[
+  {
+    "question": "Can the level 4 Fighter/Barbarian use a wood chisel to unlatch his leather harness and take his shirt and tools off?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Actions > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "The rules state that you can interact with one object for free on your turn."
+  },
+  {
+    "question": "If the level 5 Wildfire Druid spends a bonus action to command her Wildfire Spirit and then performs his ranged attack, can she then move the Flaming Sphere?",
+    "answer": "No, moving the Flaming Sphere also uses a bonus action, and only one bonus action is permitted per turn.",
+    "rules": [
+      "Combat > Actions > Bonus Actions"
+    ],
+    "rules_explanation": "You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available."
+  },
+  {
+    "question": "Can Imogen cast Blindness/Deafness which requires a Saving Throw on a creature who is standing behind half cover?",
+    "answer": "The range of the spell is 30 feet and there is no rule stating that half cover affects casting spells.",
+    "rules": [
+      "Spellcasting > Range",
+      "Combat > Cover > Half Cover"
+    ],
+    "rules_explanation": "The range of the spell is 30 feet and the saving throw is unaffected by half cover."
+  },
+  {
+    "question": "If Shatter is cast, with a point of origin that would encompass Gurge's prison door, does the lock break?",
+    "answer": "Yes, A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.",
+    "rules": [
+      "Spellcasting > Areas of Effect",
+      "Spells > Shatter"
+    ],
+    "rules_explanation": "Shatter does thunder damage to everything in a 10 foot radius, and 'any non-magical object that isn't being worn or carried within it also takes damage.'"
+  },
+  {
+    "question": "If a level 4 Barbarian/Bard rages, and the table moves to attack them, what is the AC of the table being used for the attack roll?",
+    "answer": "There is no general rule governing animated objects.  The Dungeon Master must decide what statistics to apply to it including Armor Class, Hit Points, attacks, Strength, and so on.",
+    "rules": [
+      "Monsters > Modifying Creatures",
+      "Monsters > Types"
+    ],
+    "rules_explanation": "There is no listing for animated furniture in the monster listing.  As animated object, it is up to the DM to create. As a construct, it is not required to have a dexterity, therefore the lack of a bonus to the object's AC is not prohibited by any rule."
+  },
+  {
+    "question": "If the rage ability Temporal Morass is activated by the level 4 Barbarian/Bard, does it force an already affected creature to repeat its Constitution saving throw?",
+    "answer": "No. The ability states: \"Each enemy creature within 15 feet of you must succeed on a Constitution saving throw or until the end of your next turn, its speed is halved and it can't take reactions.\"",
+    "rules": [
+      "Barbarian > Path of the Totem Warrior"
+    ],
+    "rules_explanation": "The ability only affects a creature that isn't already affected."
+  },
+  {
+    "question": "What is the speed of the monkey summoned by the level 4 Wildfire Druid's Wildfire Spirit?",
+    "answer": "The stat block of a 5e monkey says that it has a Speed of 30.",
+    "rules": [
+      "Monsters"
+    ],
+    "rules_explanation": "The statistics of the monkey are the same as the beast, and no reference to a speed is given for the Wildfire spirit's use of it."
+  },
+  {
+    "question": "Can the level 4 Fighter use a reaction to make an attack of opportunity against a table affected by the rage ability Temporal Morass, which halves its speed and prevents it from taking reactions?",
+    "answer": "No, because the rage ability prevents affected creatures from taking reactions.",
+    "rules": [
+      "Monsters > Modifying Creatures",
+      "Monsters > Types"
+    ],
+    "rules_explanation": "The Temporal Morass ability states it halves speed and prevents it from taking reactions."
+  },
+  {
+    "question": "Can the level 4 Fighter use his Second Wind ability and then his Action Surge to attack?",
+    "answer": "Yes. Second Wind uses a bonus action. Action Surge lets you take one additional action on top of your regular action and a possible bonus action.",
+    "rules": [
+      "Combat > Actions > Bonus Actions",
+      "Fighter > Class Features > Action Surge"
+    ],
+    "rules_explanation": "The rules for Action Surge state that on your turn, you can take one additional action on top of your regular action and a possible bonus action."
+  },
+  {
+    "question": "Can a level 4 Sorcerer use two sorcery points to convert to a spell slot?",
+    "answer": "Yes, two sorcery points can be converted to a 1st level spell slot.",
+    "rules": [
+      "Sorcerer > Class Features > Font of Magic > Flexible Casting > Creating Spell Slots",
+      "Sorcerer > The Sorcerer > Table"
+    ],
+    "rules_explanation": "The creating spell slots table in the Font of Magic section of the Sorcerer Class features details the conversion rates. A first level slot requires two sorcery points"
+  },
+  {
+    "question": "Can the level 4 Wildfire Druid move the Flaming Sphere as a Bonus Action, and then as an action shoot Flaming Seeds?",
+    "answer": "No, the Wildfire Seed ranged attack also uses a bonus action, so either moving the sphere or the ranged attack can occur, but not both.",
+    "rules": [
+      "Combat > Actions > Bonus Actions"
+    ],
+    "rules_explanation": "You can only have one bonus action per turn."
+  },
+  {
+    "question": "Does the frightened condition impose disadvantage on all rolls?",
+    "answer": "No. A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.  The creature can't willingly move closer to the source of its fear.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The Frightened condition only imposes disadvantage on ability checks and attack rolls."
+  },
+  {
+    "question": "If a Wild Magic Sorcerer casts a 1st-level Witch Bolt, can they use a Bonus Action on their turn to regain a spell slot?",
+    "answer": "The rules for the Tides of Chaos ability of a Wild Magic Sorcerer do not address spending a Bonus Action to regain a spell slot. This would be a metamagic decision with sorcery points.",
+    "rules": [
+      "Sorcerer > Sorcerous Origins"
+    ],
+    "rules_explanation": "This is not a feature of Tides of Chaos or any Sorcerer ability in SRD5.1."
+  },
+  {
+    "question": "If the level 4 Fighter is within 5 feet of a creature, can he use his Second Wind ability?",
+    "answer": "Yes. Second Wind does not have range restrictions; it only takes a Bonus Action to use.",
+    "rules": [
+      "Fighter > Class Features > Second Wind"
+    ],
+    "rules_explanation": "The Second Wind feature only requires a Bonus Action to use, and has no other restrictions."
+  },
+  {
+    "question": "With the Bardic Inspiration dice, is it their Proficiency Bonus, or their Wisdom?",
+    "answer": "Neither. Bardic Inspiration is determined by their Charisma.",
+    "rules": [
+      "Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "Bardic Inspiration is determined by Charisma."
+  },
+  {
+    "question": "If the caster is at 0 hit points, can you cast Cure Wounds to get them back into the fight?",
+    "answer": "Yes, a character returns to consciousness from 0 hit points and gains 1 hitpoint following a saving throw of 20.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "The rolling of a natural 20 results in the regeneration of 1 hitpoint and therefore conciousness."
+  },
+  {
+    "question": "If a character is unconscious, is rolling a Death Save an action?",
+    "answer": "No. Rolling a death save just happens at the start of your turn if you're at zero hit points.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "At the beginning of your turn at zero hit points, the game requires a d20 roll for a Death Save."
+  },
+  {
+    "question": "If the level 4 Fighter successfully stabs with a blade on the back of a table that then moves 20ft away to the other side of a room, is that an attack of opportunity?",
+    "answer": "Yes, because the attacking creature is moving out of the Fighter's reach, and OAs do not require range.",
+    "rules": [
+      "Combat > Actions > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "If you leave a hostile creature's reach during your move, you provoke an opportunity attack."
+  },
+  {
+    "question": "If the level 4 Fighter is now on the ground 20ft away and has nine hit points, can the level 3 Cleric heal him for more than his maximum?",
+    "answer": "No. A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost.",
+    "rules": [
+      "Combat > Damage and Healing > Healing"
+    ],
+    "rules_explanation": "Healing is limited to the maximum hit points of the creature being healed."
+  },
+  {
+    "question": "If a character is concentrating on Flame Blade, can they cast Charm Person?",
+    "answer": "Yes, but they would lose concentration on Flame Blade as Charm Person also requires concentration.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "A character can't concentrate on two spells at once. If you have concentration, and cast another spell that requires concentration, then you lose concentration on the first spell."
+  },
+  {
+    "question": "If an item or ability causes a saving throw, is it impacted by being affected by the spell Hex?",
+    "answer": "No, the Hex spells states it gives disadvantage on ability checks, not saving throws.",
+    "rules": [
+      "Spells > Hex",
+      "Using Ability Scores > Ability Checks vs Saving Throws"
+    ],
+    "rules_explanation": "Saving throws are not ability checks. The Hex spell only affects Ability Checks not saving throws"
+  },
+  {
+    "question": "With the Warlock's Eldritch Blast that's supposed to hit a blinded enemy, can the advantage come from the Eldritch Blast power?",
+    "answer": "Advantage comes from being blinded.  The source of blindness is not relevant.",
+    "rules": [
+      "Combat > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Anytime you attack a blinded creature, the source of their blindness is not relevant"
+  },
+  {
+    "question": "What happens when there's no light source?",
+    "answer": "In Darkness, creatures are in a heavily obscured area.",
+    "rules": [
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "Darkness creates a heavily obscured area. A heavily obscured area blocks vision entirely."
+  },
+  {
+    "question": "If a wisdom saving throw is needed and a magical effect is taking place, do you get advantage on the saving throw?",
+    "answer": "No. Advantage on saving throws is determined by the feature or magical effect that is forcing the saving throw, not on the type of saving throw itself.",
+    "rules": [
+      "Combat > Making an Attack > Advantage and Disadvantage",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Whether a saving throw is made with advantage depends entirely on the specific text describing the effect. There is no automatic advantage on wisdom saves."
+  },
+  {
+    "question": "If the level 4 Blood Hunter/Barbarian is a werewolf, are they immune to the frightened condition?",
+    "answer": "No, there is no immunity to the frightened condition granted by being a werewolf or a blood hunter.",
+    "rules": [
+      "Lycanthropes"
+    ],
+    "rules_explanation": "There is no immunity to the frightened condition granted by being a werewolf."
+  },
+  {
+    "question": "If he's inside a Flaming Sphere and ends his turn and succeeds the saving throw, does that damage go into the 1's he's taken?",
+    "answer": "No. The seven points of damage go directly to the target.",
+    "rules": [
+      "Spell Descriptions > Flaming Sphere",
+      "Combat > Damage and Healing"
+    ],
+    "rules_explanation": "You do not take damage from the Flaming Sphere if you make a successful save. You take only half the amount of damage."
+  },
+  {
+    "question": "What does a Level Four Sorcerer get to use their action and bonus action per turn?",
+    "answer": "As a Level Four Sorcerer, a character gets one action and one bonus action per turn.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "A character gets one action and one bonus action per turn"
+  },
+  {
+    "question": "If Laudna casts Hex, which is a bonus action, can she also cast Eldritch Blast?",
+    "answer": "Yes, casting *hex* as a bonus action allows Laudna to also use an action that turn to cast *eldritch blast*.",
+    "rules": [
+      "Combat > Actions > Bonus Actions",
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "You use a bonus action for Hex, and it is not stated as a limitation for the Eldritch Blast action."
+  },
+  {
+    "question": "In a game like D&D, is there a bonus to be found when the story beats it?",
+    "answer": "That is up to the DM discretion.",
+    "rules": [
+      "Combat > Making an Attack",
+      "Rules Introduction"
+    ],
+    "rules_explanation": "There are no rules around the idea of narrative advantage"
+  },
+  {
+    "question": "If a PC is down and a creature of the same alignment comes across, do they automatically try to help the PC?",
+    "answer": "No, not by any rule. Creatures will act according to their own alignment.",
+    "rules": [
+      "Alignment"
+    ],
+    "rules_explanation": "The text states, \"A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes.\""
+  },
+  {
+    "question": "If the character is polymorphed into a turtle, do they still have the hit points and abilities they had?",
+    "answer": "No, they take on the new creature's HP and abilities",
+    "rules": [
+      "Spellcasting > Polymorph",
+      "Wild Shape"
+    ],
+    "rules_explanation": "The player becomes the new creature at the cost of Polymorph, but also applies to Wild Shape."
+  },
+  {
+    "question": "If the character is stealthed, do they have to have it up or can they roll for it now?",
+    "answer": "When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.",
+    "rules": [
+      "Using Ability Scores > Dexterity > Hiding"
+    ],
+    "rules_explanation": "A player may use a stealth check whenever they are attempting to hide"
+  },
+  {
+    "question": "While frightened, what is Laudna capable of?",
+    "answer": "While frightened, Imogen has disadvantage on attack rolls and ability checks while the source of her fear is within line of sight, and can not move closer to the source of her fear.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The rules outline what conditions the frightened condition adds and removes."
+  },
+  {
+    "question": "If you don't know where your enemy is, do you get disadvantage on checks against them?",
+    "answer": "When you attack a target that you can't see, you have disadvantage on the attack roll.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "If you can not see a target, attacks against that target suffer from disadvantage."
+  },
+  {
+    "question": "What happens to a Flame Blade spell if the caster is changed to an animal?",
+    "answer": "It can't be used because you are a turtle.",
+    "rules": [
+      "Monsters",
+      "Using Ability Scores > Charisma"
+    ],
+    "rules_explanation": "Spells are tied to a caster's spellcasting ability"
+  },
+  {
+    "question": "Does the level 4 Fighter's Bait and Switch maneuver's AC bonus stay up even if she moves away?",
+    "answer": "Bait and Switch states that the AC boost lasts until the start of your next turn. It doesn't say anything about the other character needing to stay by.",
+    "rules": [
+      "Tasha's Cauldron of Everything (Unearthed Arcana) > Battle Master > Maneuvers > Bait and Switch"
+    ],
+    "rules_explanation": "Nothing states it has to be in contact or that the AC would then go away."
+  },
+  {
+    "question": "For a level 4 Bard, how many six-level spell slots can they have?",
+    "answer": "Zero.",
+    "rules": [
+      "Bard > Class Features > Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "The Bard Spellcasting Table has no six level spell slots until level 11"
+  },
+  {
+    "question": "Does the level 12 Wizard's action to make a broom fly provoke opportunity attacks?",
+    "answer": "No, the broom is animated with a command word, and does not take any action of the player to move. It therefore does not provoke an opportunity attack.",
+    "rules": [
+      "Combat > Actions > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "You can avoid provoking an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction."
+  },
+  {
+    "question": "Does Hex affect ability checks or saving throws?",
+    "answer": "Hex affects ability checks, not saving throws.",
+    "rules": [
+      "Spells > Hex"
+    ],
+    "rules_explanation": "The curse of the Hex spell gives the target disadvantage on one ability check you choose."
+  },
+  {
+    "question": "If a creature is moved forward with another PC from a spell or something, does that movement provoke an attack of opportunity?",
+    "answer": "No, you don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction.",
+    "rules": [
+      "Combat > Actions > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "An opportunity attack is only triggered by a hostile creature leaving your reach using their own action."
+  },
+  {
+    "question": "If a spell doesn't target the person, does it provoke an attack of opportunity?",
+    "answer": "The triggering condition for an OA is when a hostile creature leaves your reach using its movement, action, or reaction",
+    "rules": [
+      "Combat > Actions > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "If a spell targets an area, it does not provoke an attack of opportunity"
+  },
+  {
+    "question": "Does the Paladin's extra AC stay up if she moves away from the person?",
+    "answer": "No, the ally needs to be within 5 feet",
+    "rules": [
+      "Paladin > Class Features > Aura of Protection"
+    ],
+    "rules_explanation": "It can affect an ally who is within 5 feet of you"
+  },
+  {
+    "question": "If a player rolls a natural 20, what happens?",
+    "answer": "If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target's AC. This is called a critical hit.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "On a natural 20, you have a critical hit."
+  },
+  {
+    "question": "For the Paladin Oath, does it apply for bonus action spells?",
+    "answer": "It does not specify what type of spell to cast.",
+    "rules": [
+      "Paladin > Class Features > Spellcasting"
+    ],
+    "rules_explanation": "Bonus Actions do not restrict any type of spell to not be cast."
+  },
+  {
+    "question": "Can you multi class into a level in Warlock to add a new pact?",
+    "answer": "No, pacts are a warlock class feature and not a standalone feature, and you can't gain the same class feature multiple times.",
+    "rules": [
+      "Multiclassing",
+      "Warlock"
+    ],
+    "rules_explanation": "You do not receive the class's starting equipment, and a few features have additional rules when you're multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting."
+  },
+  {
+    "question": "Can the creature get a discount or is it flat fee to take the gondola?",
+    "answer": "No discount. It's a silver from each of you",
+    "rules": [
+      "Equipment > Expenses > Food, Drink, and Lodging"
+    ],
+    "rules_explanation": "The table provides general costs not specifically tied to the player's relationship."
+  },
+  {
+    "question": "Do effects get worse as levels of exhaustion?",
+    "answer": "Yes. A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "The rules for Exhaustion list increasing cumulative effects"
+  },
+  {
+    "question": "For a monster's action, does a spell count as an action for the monsters?",
+    "answer": "Some spells take actions, bonus actions or even longer to cast.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Casting Time"
+    ],
+    "rules_explanation": "Each spell has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the spell. Casting a spell is, therefore, not necessarily an action"
+  },
+  {
+    "question": "Can a melee attack hit an ally?",
+    "answer": "It could be ruled that an ally provides half cover (+2 AC) depending on the position of characters and DM judgement. Some character traits and feats such as the protection fighting style allows abilities associated when allies are nearby.",
+    "rules": [
+      "Combat > Cover > Half Cover"
+    ],
+    "rules_explanation": "A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend."
+  },
+  {
+    "question": "If there is 20ft radius sphere on the floor, can you shoot at a target behind it?",
+    "answer": "Creatures can provide cover, but in this case, a spell effect can be the origin, unless they are behind total cover.",
+    "rules": [
+      "Combat > Cover > Total Cover",
+      "Spellcasting > Casting a Spell > Targets > A Clear Path to the Target",
+      "Spellcasting > Areas of Effect"
+    ],
+    "rules_explanation": "To target something, you must have a clear path to it, so it can't be behind total cover, and A spell's effect expands in straight lines from the point of origin."
+  }
+]

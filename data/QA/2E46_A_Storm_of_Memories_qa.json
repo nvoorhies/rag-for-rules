@@ -1,0 +1,212 @@
+[
+  {
+    "question": "The Level 9 TALIESIN's character thinks what happened was his fault. Can he be checked if that's actually true?",
+    "answer": "Yes, make an insight check.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "In order to determine whether a character is telling the truth, the Dungeon Master has called for an insight check. The exact method of determining when an ability check is needed is not defined in the SRD, beyond it being when the DM calls for it in order to overcome a challenge."
+  },
+  {
+    "question": "Can the level 6 LAURA's character get out of giving a bribe?",
+    "answer": "Make a persuasion check.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "In order to determine whether a character can persuade another to do something, the Dungeon Master has called for a persuasion check. The exact method of determining when an ability check is needed is not defined in the SRD, beyond it being when the DM calls for it in order to overcome a challenge."
+  },
+  {
+    "question": "The Level 9 TALIESIN's character is trying to find something for breakfast. What kind of check is required?",
+    "answer": "Make a perception check.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "In order to determine whether a character can perceive something, the Dungeon Master has called for a perception check. The exact method of determining when an ability check is needed is not defined in the SRD, beyond it being when the DM calls for it in order to overcome a challenge."
+  },
+  {
+    "question": "Does the level 16 TRAVIS's character get an additional luck point?",
+    "answer": "Advantage acts as a luck point; it technically is a third die, but they've already rolled.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When there is an additional advantage the character would have received, the DM instead uses it to create a 'luck point' to improve the already rolled roll. This is a valid, though non-standard, application of the 'Advantage and Disadvantage' rules."
+  },
+  {
+    "question": "Does the Level 9 TALIESIN's character get to do something because the word 'not' is in a sentence?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "There is no rule about the use of the word 'not' in a sentence."
+  },
+  {
+    "question": "The level 16 TRAVIS's character wants to make the boat go to the Gravid Archipelago. What skill check is required?",
+    "answer": "None.",
+    "rules": [],
+    "rules_explanation": "Making a player character travel somewhere is not a rules interaction."
+  },
+  {
+    "question": "The Level 9 TALIESIN's character gets a natural 20 to find breakfast. What happens?",
+    "answer": "The closest place to get breakfast, the Bisaft Meadery, is found.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "As a result of the Dungeon Master calling for a skill check and the player getting the best possible roll, they are rewarded with the positive outcome of successfully finding their target."
+  },
+  {
+    "question": "The Level 13 ASHLEY's character was hit by an attack and now has advantage. What happens to that attack?",
+    "answer": "That information is used to determine whether subsequent attacks are successful. The original attack was already resolved.",
+    "rules": [
+      "Combat > The Order of Combat",
+      "Ability Scores > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "An ability score adjustment has no impact on the result of an already rolled die in the game. The attack needs to be resolved before the advantage is applied."
+  },
+  {
+    "question": "What saving throw does Yasha need to make against the unleashed wings of the Yasha?",
+    "answer": "A Charisma saving throw.",
+    "rules": [
+      "Spellcasting",
+      "Barbarian > Path of the Totem Warrior > Totem Spirit > Eagle"
+    ],
+    "rules_explanation": "Since the character is an eagle totem warrior, the wings come from an aspect of their totem spirit, the check should be from a saving throw from the use of a magical ability."
+  },
+  {
+    "question": "The lightning is trying to move away from the Level 13 ASHLEY's character. Can she stop it?",
+    "answer": "As a reaction, it is possible to grapple the attack with an athletics check. Since the Level 13 ASHLEY's character is raging, that is at advantage.",
+    "rules": [
+      "Combat > Actions in Combat > Melee Attacks > Grappling",
+      "Ability Scores > Using Ability Scores > Ability Checks",
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "Grappling an opponent takes an action. Raging barbarians receive advantage on strength checks. No specifics are provided about the monster's required check to avoid being grappled beyond that it's opposed by the PC."
+  },
+  {
+    "question": "The monster is attempting to move away from the level 13 ASHLEY's character. Does the ASHLEY get to do something because she has a feat?",
+    "answer": "If the monster is in reach and tries to get away, Sentinel drops their speed to zero.",
+    "rules": [
+      "Feats > Sentinel",
+      "Combat > Actions in Combat > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "The sentinel feat causes a creature's speed to drop to 0 when they are hit by an opportunity attack."
+  },
+  {
+    "question": "What attacks do i get per turn as a Level 13 ASHLEY's character?",
+    "answer": "You have two attacks each turn.",
+    "rules": [
+      "Classes > Barbarian > Extra Attack"
+    ],
+    "rules_explanation": "Barbarians get a second attack per turn at level 5."
+  },
+  {
+    "question": "How many damage dice do you get as a level 13 barbarian for a reckless strike when you are raging?",
+    "answer": "Only once during each of your turns when you deal damage to it, you can cause the target to take necrotic damage equal to your level.",
+    "rules": [
+      "Classes > Barbarian > Path of the Totem Warrior > Spirit Walker",
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "The spirit walker ability adds to the strike but the ability is limited to one strike per turn. Raging adds the rage damage to each strike."
+  },
+  {
+    "question": "How many damage dice do you get as a level 13 barbarian for a reckless strike when you are raging and have an ability?",
+    "answer": "Only once during each of your turns when you deal damage to it, you can cause the target to take necrotic damage equal to your level.",
+    "rules": [
+      "Classes > Barbarian > Path of the Totem Warrior > Spirit Walker",
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "The spirit walker ability adds to the strike but the ability is limited to one strike per turn. Raging adds the rage damage to each strike."
+  },
+  {
+    "question": "If you make a reckless strike, do you still have advantage for your turn?",
+    "answer": "Reckless prevents disadvantage on a straight roll.",
+    "rules": [
+      "Classes > Barbarian > Reckless Attack",
+      "Ability Scores > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Making a reckless strike grants a single attack for the round with advantage. Additional attacks are reckless. The primary effect of this trait is to prevent disadvantage, not to generate advantage."
+  },
+  {
+    "question": "If a monster has fallen from fright, does that mean they move away? Can't they move closer?",
+    "answer": "Frightened doesn't force you to move; you just can't get closer.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The condition of being frightened prevents a character from approaching the source of the fear."
+  },
+  {
+    "question": "The lightning attacks the character at the mast. What kind of roll should be made for that?",
+    "answer": "Dexterity Saving Throw, with advantage.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Saving Throws",
+      "Ability Scores > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "As the DM said that the voice in the character's mind said, 'This storm was birthed only for you,' the circumstances grant advantage on the saving throw for this attack. Additionally, the tempest feat grants advantage against dex saves against attacks by large or bigger creatures."
+  },
+  {
+    "question": "Can you do an attack of opportunity while climbing with sentinel feat?",
+    "answer": "Yes",
+    "rules": [
+      "Feats > Sentinel",
+      "Combat > Actions in Combat > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "The sentinel feat does not specify any conditions that prevent the user from completing an attack of opportunity."
+  },
+  {
+    "question": "When a person drops their sword, does that finish their turn?",
+    "answer": "No, the character can still act.",
+    "rules": [
+      "Combat > Your Turn > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "Dropping a carried item is a free activity that can occur during the character's turn, allowing for other actions."
+  },
+  {
+    "question": "A plate of food is summoned from thin air. Can one put spice in it?",
+    "answer": "You can drop a gold piece and be good for the next two weeks on flavoring the food for you and the crew.",
+    "rules": [],
+    "rules_explanation": "The DM has declared this is allowable."
+  },
+  {
+    "question": "If you're helping someone during a storm, do you make that roll at advantage?",
+    "answer": "There's no rule that covers that situation. That is a determination that the DM would have to make.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "There are no explicit rules covering specific types of environmental events providing advantage on ability checks when characters are working together."
+  },
+  {
+    "question": "If they succeed at that, can Nott's player steal the rest of the wine?",
+    "answer": "The action is seen before it's completed, so it won't be allowed.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question."
+  },
+  {
+    "question": "What happens to a creature's abilities while it's being used as an octopus?",
+    "answer": "They cannot act as anything besides an octopus. A player has to make a cat. Ten minutes later, Caleb has an octopus.",
+    "rules": [],
+    "rules_explanation": "This was part of a larger set of actions, including a polymorph, which does have rules associated with them."
+  },
+  {
+    "question": "When someone gets the result of the thing, is it two separate?",
+    "answer": "No, you just get two jars of honey and honeycomb for five gold.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question."
+  },
+  {
+    "question": "If Yasha is looking for a sign, is it something else",
+    "answer": "Since it was your vision, if you wish to look over the words that were told to you, keep that for you.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question."
+  },
+  {
+    "question": "How do we find the lost island of Teddy Ruxpin?",
+    "answer": "We're going to find the lost island of Teddy Ruxpin; I'm ready for this shit. Let's bring it.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question."
+  },
+  {
+    "question": "With advantage, am I doing the advantage thing? 2D20?",
+    "answer": "Correct.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This confirms that the player is aware of and using the advantage and disadvantage rules correctly."
+  }
+]

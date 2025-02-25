@@ -1,0 +1,121 @@
+[
+  {
+    "question": "Can a level 1 sorcerer contribute to rent with their treasure earnings?",
+    "answer": "The rules for character class and level do not detail specific amounts of treasure earned or expenses.  The rules mention treasure earned by characters generally and lifestyle expenses, but not in the way that would determine if a level one sorcerer can contribute to rent.",
+    "rules": [
+      "Section > Introduction > What Is D&D",
+      "Chapter 2 > Beyond 1st Level > Lifestyle Expenses"
+    ],
+    "rules_explanation": "The question is related to whether a level 1 character can afford to contribute to rent. This is answered by the rules for character level and treasure, and how to afford a lifestyle. The rules for character class define the abilities and hit points of characters but are not about character income."
+  },
+  {
+    "question": "Can a Level 1 sorcerer use Detect Thoughts on the sword?",
+    "answer": "The SRD does not give enough information to answer the question. The required information are the spells a Level 1 sorcerer knows, and whether they can cast Detect Thoughts.",
+    "rules": [
+      "Chapter 11 > Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The transcript asks if the level one sorcerer can cast a specific spell, so the question is about what spells they have prepared and the rules of spell casting."
+  },
+  {
+    "question": "What happens if a character tries to Detect Thoughts on a sword?",
+    "answer": "A powerful enchantment holds a consciousness within the sword, but there is not a brain to pierce particularly, and nothing seems to break through.",
+    "rules": [],
+    "rules_explanation": "In this situation, there is no explicit rule in the SRD that covers the question of whether the attempt to Detect Thoughts on a sword succeeds, because Detect Thoughts is designed to be used on creatures, not objects. The rules in the document have therefore failed, and an answer will be obtained by the GM's judgement, which this is."
+  },
+  {
+    "question": "If FCG (level 1, class unknown, race: strange being of metal and will) gets a natural 1 when attacking a creature with a greatsword, what happens?",
+    "answer": "The attack misses regardless of any modifiers or the target's AC.",
+    "rules": [
+      "Chapter 9 > Combat > Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "Because the dice roll was a natural 1, the attack automatically misses."
+  },
+  {
+    "question": "Can a Level 6 wizard use the *dancing lights* cantrip to put light out through their vision to the atmosphere?",
+    "answer": "The fully description for the Dancing Lights spell does not say that it can put light out through the caster's vision to the atmosphere. However, the core description the *dancing lights* spell permits the creation of 'torch-sized lights', so by implication it can be used to make the area darker by ending the spell",
+    "rules": [
+      "Chapter 11 > Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "To determine if a spell can be cast, we must refer to the description of the spell and determine if the casting criteria are met. Although dancing lights does not directly say it can extinguish light, it can be interpreted from the description."
+  },
+  {
+    "question": "Can a Level 11 FCG (level 11, class unknown, race: strange being of metal and will) ritually cast Commune?",
+    "answer": "I cannot determine whether a Level 11 FCG (level 11, class unknown, race: strange being of metal and will) can ritually cast Commune, because the SRD does not give information about the ability of specific classes to cast the Commune spell or which classes can cast spells as rituals.",
+    "rules": [
+      "Chapter 11 > Spellcasting > Rituals",
+      "Chapter 11 > Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "This is asking about a class ability which permits ritual casting, which is limited to characters with that specific class feature and spells on their spell list with the ritual tag. I cannot determine the answer with only the SRD because specific character class information is required."
+  },
+  {
+    "question": "Is it possible for a level 8 Level 8 Imogen (level 8, class unknown, race unknown) to drift toward those pockets where I can see closer, where I can see more clearly, while dreaming?",
+    "answer": "There is not enough information to answer this question. While in a dream state, spells or magical abilities may allow movement, but these capabilities depends on game master interpretation or additional information. The game state requires knowledge about spells that allow Imogen to drift toward those pockets.",
+    "rules": [],
+    "rules_explanation": "The spell list, in the SRD, determines what a character can do, and in this situation it can only be determined by the powers the character has if it is possible for them to drift."
+  },
+  {
+    "question": "Is it possible for Level 10 Imogen (level 10, class unknown, race unknown) to teleport 8 people, including herself?",
+    "answer": "The SRD does not give enough information to answer this question. The required information would be the spells known by Level 10 Imogen, and her classes.",
+    "rules": [
+      "Chapter 11 > Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "If Imogen can cast teleport, then we know how many willing creatures can be teleported."
+  },
+  {
+    "question": "If an effect is cast on someone who has advantage or disadvantage, do you roll more than 2 dice?",
+    "answer": "No. If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don't roll more than one additional d20. If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20.",
+    "rules": [
+      "Chapter 7 > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The text provides the explicit rule that when advantage and disadvantage apply, you only roll 2 dice total. It also specifies how it applies if both occur at the same time."
+  },
+  {
+    "question": "For a 7th level spellcaster, what are the mechanics of Teleport?",
+    "answer": "I am not able to answer this question. The description of the Teleport spell provided in the system reference document does not say that the mechanics of the spell change depending on the level of the caster.",
+    "rules": [
+      "Chapter 11 > Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The effect of a spell is determined by the spell description; thus, the answer requires the teleport spell to be checked and the 7th level to change the spell in some manner."
+  },
+  {
+    "question": "What skills can level 7 Laudna, race unknown, class unknown, with the Pass without Trace spell use to be stealthy?",
+    "answer": "If level 7 Laudna has the Pass Without Trace spell, then the group gets a +10 to stealth. This applies to Stealth checks. If Laudna was proficient with the skill, the group would gain the proficiency bonus in the form of the passive stealth.",
+    "rules": [
+      "Chapter 7 > Using Ability Scores > Skills",
+      "Chapter 11 > Spells Listing > Pass Without a Trace"
+    ],
+    "rules_explanation": "Pass without a Trace is a spell that grants +10 to stealth checks. I also assumed that the Stealth skill was the one being used for stealthiness."
+  },
+  {
+    "question": "Does the character have to roll for it to have no mishap with associated object?",
+    "answer": "Not with an associated object.",
+    "rules": [],
+    "rules_explanation": "GM judgement based on game context, not present in srd."
+  },
+  {
+    "question": "Can level 10 Fresh Cut Grass (level 10, class: unknown, race: strange being of metal and will) Guide himself in a vision?",
+    "answer": "I cannot answer this question. The rules on ability checks and vision do not specify what one can and cannot do within a vision. This would be a GM ruling.",
+    "rules": [
+      "Chapter 7 > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question hinges on what is possible within a vision. As this is not defined, I must state that I cannot answer this question."
+  },
+  {
+    "question": "What happens if the character casts Legend Lore on something that is not legendary or has importance?",
+    "answer": "If it's not legendary or has importance, I'll get some information, and if it's not--",
+    "rules": [],
+    "rules_explanation": "Ambiguous response, cannot create JSON object. The question is answered by what happens if something *isn't* legendary, so the quote above is all the SRD has to say on the subject"
+  },
+  {
+    "question": "What happens if the d20 roll is 0-0 on the one dice and 0 on the other, when rolling to die?",
+    "answer": "zero-zero on the one dice, and then zero on the other.",
+    "rules": [],
+    "rules_explanation": "Does not follow a rules question / answer format. This appears to be a re-statement of the question. It does not relate to any of the SRD rules listed."
+  },
+  {
+    "question": "How many people does Pass Without a Trace cover?",
+    "answer": "This spell reset every day.",
+    "rules": [],
+    "rules_explanation": "Does not answer the question, so no object can be made. This is a character joke and meta humor. It's not useful for constructing a general rules question."
+  }
+]

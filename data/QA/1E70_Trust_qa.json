@@ -1,0 +1,60 @@
+[
+  {
+    "question": "Level 4 Bard with an Intelligence of 16 (+3 modifier) and proficency in religion, inspired by a D12 rolls a religion check and gets a 9.  What is the total of this roll?",
+    "answer": "The total of the religion check is 26. This is calculated by adding a proficiency bonus to the base roll 9 +3, the inspiration roll using a d12, and the Intelligence modifier of 3.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "The bard adds their proficiency bonus to any skill they are proficient in, adds their intelligence modifier, and adds the inspiration die roll."
+  },
+  {
+    "question": "Level 5 Barbarian with a Strength of 18 (+4 modifier) makes an intimidation check and rolls a 20. What is the total of this roll?",
+    "answer": "The total of the intimidation check is 24. This is calculated by adding a proficiency bonus of 3 to the base roll 20 (+3).",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Barbarian > The Barbarian"
+    ],
+    "rules_explanation": "The barbarian adds their proficiency bonus to any skill they are proficient in, including Intimidation in this case."
+  },
+  {
+    "question": "If a level 4 druid who has a spell prepared is knocked unconscious, can they still use this slot?",
+    "answer": "No, an unconscious creature is incapacitated and can't take actions or reactions.",
+    "rules": [
+      "Appendix PH-A > Conditions > Unconscious"
+    ],
+    "rules_explanation": "The unconscious condition prevents the affected creature from taking actions. Casting a spell requires an action or bonus action. So, you must be conscious to cast a spell."
+  },
+  {
+    "question": "When attacking a target at long range, what are the mechanics of the roll?",
+    "answer": "When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Ranged Attacks > Range"
+    ],
+    "rules_explanation": "The attacker has disadvantage, and cannot attack targets further than the weapons listed long range."
+  },
+  {
+    "question": "What check is used to determine if there are magical traps in the area?",
+    "answer": "An investigation check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "While there are several ways that a player might detect traps, in this case the DM specified that an Investigation check would be appropriate"
+  },
+  {
+    "question": "What ability check is used to determine knowledge of the nature of fiends?",
+    "answer": "Religion check or straight intelligence check",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The religion skill, or straight intelligence check relates to the plane where the creature resides."
+  },
+  {
+    "question": "If you make a saving throw against a scrying spell, what happens if you succeed?",
+    "answer": "If you were to succeed on your saving throw, they would fail to scry, and you'd have some sort of inkling that something weird is going on.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "If you suceed in a saving throw then the scrying spell has no effect."
+  }
+]

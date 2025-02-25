@@ -1,0 +1,163 @@
+[
+  {
+    "question": "What ability check is required for [the Tiefling performer's] attempt to balance one of the swords on [their] head?",
+    "answer": "The Dungeon Master calls for an Acrobatics check.",
+    "rules": [
+      "Ability Checks > Contests"
+    ],
+    "rules_explanation": "A character's acrobatics skill is used to balance, dodge, escape bonds, etc. Therefore, it would be used in this contest."
+  },
+  {
+    "question": "What kind of check does the character who has Frumpkin make when [the bird familiar] is at a safe enough distance to look down, to make out shapes?",
+    "answer": "A perception check is required for Frumpkin.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM is requesting the roll for Frumpkin, who is acting as a scout in this situation."
+  },
+  {
+    "question": "Does the roll by [Jester] affect the spell?",
+    "answer": "No, a natural 1 on a perception roll does not automatically affect the spell effect.",
+    "rules": [
+      "Spellcasting > Components > Verbal (V)"
+    ],
+    "rules_explanation": "While a verbal component is necessary to cast a spell, unless specifically stated the quality of that verbal component is not part of the spell, which is why even though [the paladin] rolls poorly, the spell proceeds normally."
+  },
+  {
+    "question": "As the [human wizard] is flying, does the DM require [them] to make a check for [them] to perceive?",
+    "answer": "Yes, the Dungeon Master requests a perception check for [the human wizard's] birdie.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This check covers the act of perception, so the player must roll and have that total be compared to a target to determine success or failure."
+  },
+  {
+    "question": "What kind of check is required for the [level 4 monk] attempting to see if there is anything carved into the branches, in the tree trunk?",
+    "answer": "An Investigation check is required.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Investigation skill is applied to checks that involve looking for clues."
+  },
+  {
+    "question": "When the group has been traveling for about four hours, and it starts getting colder, what check is required to see if anyone will be able to continue on the journey at a reasonable pace?",
+    "answer": "A Constitution saving throw is required.",
+    "rules": [
+      "Adventuring > Resting > Forced March"
+    ],
+    "rules_explanation": "Traveling for an extended period is fatiguing, and requires a roll of their Constitution to see how well they are holding up to the pace."
+  },
+  {
+    "question": "What happens to characters who fail a Constitution saving throw after traveling for more than 8 hours?",
+    "answer": "They take one level of exhaustion.",
+    "rules": [
+      "Adventuring > Resting > Exhaustion"
+    ],
+    "rules_explanation": "The players have been marching longer than 8 hours, and are now accumulating levels of exhaustion."
+  },
+  {
+    "question": "What are the effects of a single level of exhaustion?",
+    "answer": "Disadvantage on ability checks.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "One level of exhaustion has a defined game effect of disadvantage on ability checks."
+  },
+  {
+    "question": "What kind of check is required for the rogue, to dart off in a flanking maneuver?",
+    "answer": "A stealth check is required.",
+    "rules": [
+      "Actions in Combat > Hide"
+    ],
+    "rules_explanation": "The character is attempting to hide."
+  },
+  {
+    "question": "When the [level 4 monk] is hit by a ranged attack, what reaction can [they] use?",
+    "answer": "Deflect Missiles",
+    "rules": [
+      "Monk > Class Features > Deflect Missiles"
+    ],
+    "rules_explanation": "The monk's reaction can be used to attempt to reduce damage"
+  },
+  {
+    "question": "If a [level 4 monk] successfully uses the reaction to catch the arrow, can [they] spend a ki point to throw it back?",
+    "answer": "Yes",
+    "rules": [
+      "Monk > Class Features > Deflect Missiles"
+    ],
+    "rules_explanation": "A player can choose to spend 1 ki point to make a ranged attack with the missile. The monk makes a ranged attack, adding a Dexterity modifier and proficiency modifier, because it counts as a monk weapon"
+  },
+  {
+    "question": "If [a warlock] is Charmed, and the Crown of Madness spell requires the target use a melee attack as their action against another target, but [that warlock] is only next to [the caster] with a range weapon, what action does [the charmed warlock] take?",
+    "answer": "Since the charmed target must use its action before its movement, it looks up at the top of the roof, and leaps up, climbs, scampers up to the side, and gets right up into base to base with the other character, but it can't make an attack on this round.",
+    "rules": [
+      "Spellcasting > Components > Actions"
+    ],
+    "rules_explanation": "The charmed target will take actions that are non optimal to satisfy the rules, but isn't compelled to throw themself into immediate danger."
+  },
+  {
+    "question": "When the charmed monster from Crown of Madness is knocked off the roof by another monster, does the caster need to maintain concentration?",
+    "answer": "Yes, Crown of Madness requires concentration. If a spell requires concentration, that is specified under components.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "Because the spell requires concentration, they have to use their action to maintain that. If the spell is interupted by damage, they would need to make a saving throw to maintain concentration."
+  },
+  {
+    "question": "If a thrown weapon is being returned to a character's hand, and the character moves, can the thrown weapon continue to travel back to their hand, or does it fall?",
+    "answer": "If the thrown weapon has not arrived in the character's hand before the character moves, then the weapon will drop to the ground where the original character was, and the character can chose to spend movement to pick it back up.",
+    "rules": [
+      "Actions in Combat"
+    ],
+    "rules_explanation": "The characters had previously determined that they can not take their action to pick up an item and continue moving, and thus they should have the same restriction on actions involving movement."
+  },
+  {
+    "question": "If a creature is prone, does attacking that creature with a ranged attack from melee range remove disadvantage from attacking with a ranged weapon in melee range?",
+    "answer": "No. The attack still has disadvantage, and the prone condition of the target is not relevant.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks in Close Combat",
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "Attacking a prone target from within 5 feet grants advantage on melee attacks, but does not remove the disadvantage for making ranged attacks while in melee range"
+  },
+  {
+    "question": "When making a check to hang on to the road side, with a point of exhaustion, does the character have disadvantage?",
+    "answer": "Yes, characters with a point of exhaustion, you have disadvantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "A point of exhaustion gives disadvantage on ability checks."
+  },
+  {
+    "question": "If a melee attack has a triggered effect, such as a saving throw, is the saving throw's DC determined by whether it is a normal attack, or a critical hit?",
+    "answer": "The saving throw is DC 13. A critical hit does not affect the DC.",
+    "rules": [
+      "Combat > Damage and Healing > Critical Hits"
+    ],
+    "rules_explanation": "The rules of critical hits affect the damage, and the DC remains the same."
+  },
+  {
+    "question": "If a character says that they are going to do something, and it takes them out of combat range, what would be the outcome?",
+    "answer": "They will be able to move into another position before combat resumes.",
+    "rules": [
+      "Combat > Movement and Position"
+    ],
+    "rules_explanation": "The battle happens when the players have lined up, and this is not a reaction, and is still within the setup, so it is allowed."
+  },
+  {
+    "question": "If the DM wants to reward the player for killing the monster with the giant lollipop, with ears from the monsters. Should they?",
+    "answer": "Yes, they will be paid.",
+    "rules": [
+      "Actions in Combat"
+    ],
+    "rules_explanation": "The DM's agreement with the players comes before any rules about equipment and treasure are considered."
+  },
+  {
+    "question": "Does a magic user need to have line of sight on their duplicate to affect the powers?",
+    "answer": "If you need to be able to see a target for [the spell] attack something, then you need to be able to see a target for it to attack something.",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "While a spell can have many uses and effects, the target of the spell requires line of sight, as explained previously."
+  }
+]

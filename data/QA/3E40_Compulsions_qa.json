@@ -1,0 +1,314 @@
+[
+  {
+    "question": "Can a level 9 wizard use Sending spell to send messages across other dimensions?",
+    "answer": "Yes, but there's a five percent chance that it doesn't go through.",
+    "rules": [
+      "Spellcasting > Sending > Range"
+    ],
+    "rules_explanation": "The Sending Spell description specifies that you can send the message across any distance and even to other planes of existance but if the target is on a different plane there is a 5% chance that the message does not arrive."
+  },
+  {
+    "question": "If the level 10, Wildfire Druid casts Flame Blade as a bonus action, and a Wildfire spirit is present, can an additional damage d8 be rolled and added to the damage roll?",
+    "answer": "Yes, the character can roll a d8 and add the number rolled to one damage roll of the spell",
+    "rules": [
+      "Classes > Druid > Wildfire Druid > Wildfire Spirit > Enhanced Bond"
+    ],
+    "rules_explanation": "The wildfire spirit's Enhanced Bond feature states: \"Whenever you or the spirit deals fire damage or restores hit points, you can roll a d8, and add the number rolled to the damage or healing. \""
+  },
+  {
+    "question": "If a character is restrained, can they still take actions and movement?",
+    "answer": "No. A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed. A restrained creature's attack rolls have disadvantage, and attack rolls against the creature have advantage.",
+    "rules": [
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "The description for the restrained condition specifies that a restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed. It also states that the attack rolls for the conditions has disadvantage, and attack rolls against the creature have advantage."
+  },
+  {
+    "question": "If the a level 10 warlock is within 10 ft of an ally, and their subclass grants allies within 10ft advantage on attack and saving throws, does the disadvantage from the Bane spell on the ally cancel out the advantage to attack rolls and saving throws from being near the warlock?",
+    "answer": "No, the disadvantage from bane does not cancel the advantage from the subclass. The creature receives a d4 penalty on its attack roll or saving throw, and rolls an additional d20 to determine the attack or save. The warlock is at disadvantage against being attacked",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "the disadvantage from bane applies to the attack roll/saving throw directly by applying a -1d4 penalty to the roll. Advantage applies to the attack roll/saving throw by letting you roll a second d20, and using the highest of the two die, or the lowest of the two if the throw already has disadvantage."
+  },
+  {
+    "question": "Can a level 10 circle of wildfire druid use a reaction to intercept and shoot down a firey ball if they have a fly speed?",
+    "answer": "It is unclear whether the druid can intercept the flame ball because that would require additional information about the action being taken to intercept the firey ball. For now we can assume they can and answer the following: To use a reaction requires a trigger. An Oppurtunity attack can not be made, so the druid can not use their reaction to make an attack on it. Intercepting the fiery ball would not normally be a case, but there are no rules in place to prevent them for using it.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "The rules for reactions specify that a reaction is an instant response to a trigger. You can take a reaction only when a special ability, spell, or situation specifies that you can. The firely ball would have to provoke an opportunity attack to use the reation in this manner, which they may not do."
+  },
+  {
+    "question": "Can a level 10 barbarian, with the rage class feature, acquire the manacles and restraints mentioned by Xandis for the purpose of restricting their movements during sleep?",
+    "answer": "Yes, you can acquire manacles or restraints if the ship has some available.",
+    "rules": [],
+    "rules_explanation": "The game rules do not restrict the buying, selling, or trade of manacles. The availability of manacles is subject to the GMs discretion."
+  },
+  {
+    "question": "What happens when a level 10 bard casts the 3rd level Sending spell if the material cost (short piece of copper wire) is not available?",
+    "answer": "You can't cast the spell, you must have the material components in order to cast the spell.",
+    "rules": [
+      "Spellcasting > Components > Material"
+    ],
+    "rules_explanation": "A spell's components are the physical requirements you must meet in order to cast it. Each spell's description indicates whether it requires verbal (V), somatic (S), or material (M) components. If you can't provide one or more of a spell's components, you are unable to cast the spell."
+  },
+  {
+    "question": "When a character is petrified, what armor class do they have?",
+    "answer": "Attack rolls against the creature have advantage. The creature automatically fails Strength and Dexterity saving throws. The creature has resistance to all damage.",
+    "rules": [
+      "Appendix PH-A > Conditions > Petrified"
+    ],
+    "rules_explanation": "The rules for the petrified condition do not specify what AC a petrified creature has, but it gains resistance to all damage, and attack rolls against it have advantage. If a creature is petrified, attacks are more likely to hit but take longer to damage it, which gives a sense of what petrification is like."
+  },
+  {
+    "question": "If a character with the restrained condition is moved by another friendly character to another location, does that stop them from being restrained?",
+    "answer": "No, being moved by another character would not end the restrained condition. Only something that allows the character to move against their will would have a chance of releasing them from the condition.",
+    "rules": [
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed. Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage. The creature has disadvantage on Dexterity saving throws."
+  },
+  {
+    "question": "A level 10 paladin with the aura of courage is in 30 feet of a character casting a spell, what happens to the target?",
+    "answer": "If the spell causes the paladin to make a saving throw against being frightened, they have advantage due to their aura of courage",
+    "rules": [
+      "Classes > Paladin > Aura of Courage"
+    ],
+    "rules_explanation": "The aura of courage grants all friendly creatures in 10 ft to make saving throws with advantage against being frightened."
+  },
+  {
+    "question": "If a raging level 11 barbarian is subject to an effect that would kill them outright while they have 0 hit points, what happens?",
+    "answer": "The Relentless Rage feature has no effect if you are subject to an effect that would kill you outright.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Relentless Rage"
+    ],
+    "rules_explanation": "The relentless rage feature states: If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead."
+  },
+  {
+    "question": "Can a level 11 cleric who can cast a spell as a bonus action on their turn, also cast a spell as an action on the same turn?",
+    "answer": "No, a spellcaster cannot cast two spells in one turn unless one of the spells is a cantrip that has a casting time of 1 action",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "The rule for casting spells with a bonus actions states that you can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action."
+  },
+  {
+    "question": "If a target makes a saving throw against an enchantment spell, and fails, is the initial roll of the target known?",
+    "answer": "The target's initial roll isn't known. The ability to use Silvery Barbs is triggered by the target making a saving throw.",
+    "rules": [],
+    "rules_explanation": "There isn't a rule which specifies the attack result. This is a case where the GM makes a judgement about the game world, and the rules apply to that reality."
+  },
+  {
+    "question": "What are the effects of being restrained?",
+    "answer": "A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed. Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage. The creature has disadvantage on Dexterity saving throws.",
+    "rules": [
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "Referencing Appendix A of the Player's Handbook, which includes the definition of common game conditions, specifically the Restrained condition. "
+  },
+  {
+    "question": "What actions does a restrained creature have available?",
+    "answer": "The creature has all actions available, but the restrained condition does limit which will be effective",
+    "rules": [
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "The rules for the restrained conditions specifies what will be affected by the restrained conditions. If it doesn't say that the action is not available, then you are free to use them."
+  },
+  {
+    "question": "What does the restrained condition do?",
+    "answer": "A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed. Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage. The creature has disadvantage on Dexterity saving throws.",
+    "rules": [
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "Referencing Appendix A of the Player's Handbook, which includes the definition of common game conditions, specifically the Restrained condition. "
+  },
+  {
+    "question": "Can a level 14 Hunter Ranger use Sneak Attack as they level up in rogue because they took a level in it?",
+    "answer": "No. Sneak attack does not happen with spell attacks, only with weapon attacks.",
+    "rules": [],
+    "rules_explanation": "The rules for sneak attack says to add the sneak attack bonus to a weapon attack when advantage applies to the attack."
+  },
+  {
+    "question": "How long does a Flare spell last for?",
+    "answer": "There is no spell named Flare in the SRD.",
+    "rules": [],
+    "rules_explanation": "The SRD does not list a Flare spell."
+  },
+  {
+    "question": "What happens if you are restrained? What can you do?",
+    "answer": "A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed. Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage. The creature has disadvantage on Dexterity saving throws.",
+    "rules": [
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "Consulting the rules on the restrained condition."
+  },
+  {
+    "question": "How many hours do elves need to sleep?",
+    "answer": "Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is \"trance.\")",
+    "rules": [
+      "Races > Elf > Elf Traits > Trance"
+    ],
+    "rules_explanation": "Elves do not sleep, and instead trance."
+  },
+  {
+    "question": "Can you cast healing word while restrained?",
+    "answer": "Yes, you can cast healing word while restrained.",
+    "rules": [],
+    "rules_explanation": "The restrained condition does not prevent casting of spells."
+  },
+  {
+    "question": "does a four roll get to the attack roll?",
+    "answer": "No, you must roll a d4 and add or subtract from an attack roll after you roll the four",
+    "rules": [],
+    "rules_explanation": "The SRD does not include this rule. This appears to be a reference to a houserule or other game specific modification"
+  },
+  {
+    "question": "Can a creature be moved when they are restrained?",
+    "answer": "Yes, it can be moved but the grappled condition prevents the grappled target from moving. The restrained condition itself does not prevent them from being moved.",
+    "rules": [
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "The restrained condition does not specify any limitations on moving the restrained creature. The grappled condition specifies The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunder-wave spell."
+  },
+  {
+    "question": "What are the rules about being a good guy?",
+    "answer": "There are no rules against being a good guy",
+    "rules": [],
+    "rules_explanation": "There are no rules against being a good guy. Nothing prevents a player from having good traits."
+  },
+  {
+    "question": "Does a raging Barbarian get to roll a d4 for attack roll?",
+    "answer": "The Rage class feature for the Barbarian does not grant a die roll to the attack roll.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "No such rule exists, it would have come from an outside source"
+  },
+  {
+    "question": "Can Laudna from Critical Role silvery barbs an effect that is a dexterity saving throw?",
+    "answer": "No, Silvery Barbs can only be used when a creature makes an attack roll, an ability check, or a saving throw.",
+    "rules": [],
+    "rules_explanation": "Silvery barbs can only be used when one of these conditions are met."
+  },
+  {
+    "question": "Is a spectral entity's claw attack a magic weapon attack?",
+    "answer": "If a game feature specifies that an entity's weapon attacks are magical, then it is a magic weapon attack",
+    "rules": [],
+    "rules_explanation": "In the absence of a rule or specific stat block it is down to the discretion of the DM."
+  },
+  {
+    "question": "If a warlock with pact of the blade is hit by an arrow, can they use a reaction to teleport with an ancient item that has attunement requirements without attuning to it and teleport into the astral plane?",
+    "answer": "The SRD does not describe actions which allow the warlock to teleport without casting a spell which allows it. Without being attuned to it, the actions of the object are also unknown.",
+    "rules": [],
+    "rules_explanation": "There are no rules which state that a warlock has an innate teleportation, as such to teleport to a plane it must be cast by the Warlock."
+  },
+  {
+    "question": "Can the wizard use their action to move someone else out of the fire even though the spell requires the target to be willing and they are not?",
+    "answer": "The rules for using Telekinesis on a creature specifies that you can try to move a Huge or smaller creature. The target must make a Strength saving throw but is not required to be willing.",
+    "rules": [
+      "Spell Description > Telekinesis"
+    ],
+    "rules_explanation": "See spell description for telekinesis. A target's willingness or lack thereof is not a factor."
+  },
+  {
+    "question": "can creatures be targeted by sending if they have no memory.",
+    "answer": "Creatures with intelligence of at least 1 understand the message of Sending.",
+    "rules": [
+      "Spell Descriptions > Sending > Description"
+    ],
+    "rules_explanation": "Per the spell description of Sending in the SRD, a subject must have an intelligence score of at least 1 to understand the message."
+  },
+  {
+    "question": "Can frightened creatures turn and be still?",
+    "answer": "The creature can't willingly move closer to the source of its fear.",
+    "rules": [
+      "Appendix PH-A > Conditions > Frightened"
+    ],
+    "rules_explanation": "Referencing the Frightened condition in Appendix A of the Players Handbook. Being frightened only prevents you from moving closer to the source of your fear, but you are free to stand still or move further away as you wish."
+  },
+  {
+    "question": "Can a character with the magic initiate feat cast the chosen spells more than once per day?",
+    "answer": "You learn one 1st-level spell from that same class. Once you cast that spell, you must finish a long rest before you can cast it again.",
+    "rules": [
+      "Feats > Magic Initiate > Description"
+    ],
+    "rules_explanation": "As described in the Magic Initate feat, you can cast it once per day and must finish a long rest before you can cast it again."
+  },
+  {
+    "question": "What is the duration of a level 3 witch bolt spell?",
+    "answer": "The duration is concentration, up to 1 minute",
+    "rules": [
+      "Spell Descriptions > Witch Bolt > Duration"
+    ],
+    "rules_explanation": "Spell description of Witch Bolt, showing duration."
+  },
+  {
+    "question": "can a spell that has a range of self still affect another creature",
+    "answer": "Certain spells have a range of self, indicating that the origin point of the spell's effect must be you (see \"Areas of Effect\"). If a spell targets a creature of your choice, you can choose yourself, unless the creature must be hostile or specifically a creature other than you.",
+    "rules": [
+      "Spellcasting > Targets > Targeting Yourself"
+    ],
+    "rules_explanation": "You can be a target of a spell that is centered on you"
+  },
+  {
+    "question": "Is it possible to use a silvery barbed attack",
+    "answer": "There is no such action described in the SRD.",
+    "rules": [],
+    "rules_explanation": "Silvery Barbs can only be used when one of these conditions are met."
+  },
+  {
+    "question": "Does the Bane spell give a target disadvantage?",
+    "answer": "No, Bane imposes a -1d4 penalty on attack rolls and saving throws",
+    "rules": [
+      "Spell Descriptions > Bane"
+    ],
+    "rules_explanation": "The spell description of Bane says to subtract a d4 from the roll, not to impose disadvantage."
+  },
+  {
+    "question": "What happens to a sorcerer with no sorcery points but with a level in their back pocket during combat?",
+    "answer": "Having 0 sorcery points does not limit any abilities of the sorcerer as long as no sorcery points are required to use them.",
+    "rules": [],
+    "rules_explanation": "The rules of sorcery points only apply when using a metamagic or converting between points and spell slots."
+  },
+  {
+    "question": "What does the Restrained condition do?",
+    "answer": "A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed. Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage. The creature has disadvantage on Dexterity saving throws.",
+    "rules": [
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "Appendix A in the SRD lists the effects of conditions such as Restrained."
+  },
+  {
+    "question": "How long does an invisible creature stay invisible for?",
+    "answer": "The durations for the invisibility spell can be found in the spell description. Some creatures or items can grant the ability to cast the spell, and follow the spell description.",
+    "rules": [
+      "Spell Descriptions > Invisibility > Duration"
+    ],
+    "rules_explanation": "Referencing the SRD."
+  },
+  {
+    "question": "When making an attack, what Ability do you add to it?",
+    "answer": "The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.",
+    "rules": [
+      "Using Ability Scores > Attack Rolls > Modifiers to the Roll > Ability Modifier"
+    ],
+    "rules_explanation": "The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule."
+  },
+  {
+    "question": "Can you get an attack of opportunity against someone who is using telekinesis to drag a creature away?",
+    "answer": "You can make an opportunity attack when a hostile creature that you can see moves out of your reach",
+    "rules": [
+      "Combat > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "Moving a creature with telekinesis does not provoke an opportunity attack, only when a creature moves themselves"
+  },
+  {
+    "question": "does a creature that isn't proficient get to add their to hit bonus?",
+    "answer": "If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.",
+    "rules": [
+      "Equipment > Weapons > Weapon Proficiency"
+    ],
+    "rules_explanation": "If you lack the necessary proficiency, you don't get to add the proficiency bonus."
+  }
+]

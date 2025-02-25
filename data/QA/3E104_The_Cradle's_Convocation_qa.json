@@ -1,0 +1,104 @@
+[
+  {
+    "question": "Can Level 5 Paladin/Level 4 Paladin, Allura, point out safety measures around the city?",
+    "answer": "The city is warded against illusion and aggression, there are celestial guardians, and there are three dragons of Exandria protecting the city.",
+    "rules": [
+      "Campaign Information > Locations > Vasselheim > Defenses"
+    ],
+    "rules_explanation": "The provided text describes the explicit information given by Allura about the defenses of the city, which counts as an in-universe ruling."
+  },
+  {
+    "question": "The Half-Elf level 1 Paladin of the Everlight is attempting to persuade Grog, a half-giant, to let her examine his stone gauntlets. She rolls a 22 and has a charisma modifier of +10, resulting in a 32 total. Does she succeed in persuading him?",
+    "answer": "Yes, Grand Poobah de Doink of All of This and That, Grogory Strongjaw allows the party to get a closer look at the gauntlets.",
+    "rules": [
+      "Basic Rules > Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DC is set by the situation and the 32 is high enough to succeed"
+  },
+  {
+    "question": "If a player with Indomitable fails a wisdom saving throw, can they reroll it?",
+    "answer": "Yes, they can reroll the saving throw using the Indomitable feature, but must use the new roll.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Indomitable"
+    ],
+    "rules_explanation": "The Indomitable feature allows a reroll of a failed saving throw, with the condition that the new roll must be used."
+  },
+  {
+    "question": "What kind of check is necessary to use the Stealth skill?",
+    "answer": "A Dexterity check.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The rules specify that each skill is related to an ability, and that Stealth is related to Dexterity."
+  },
+  {
+    "question": "What kind of check is necessary to use the Persuasion skill?",
+    "answer": "A Charisma check.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The rules specify that each skill is related to an ability, and that Persuasion is related to Charisma."
+  },
+  {
+    "question": "The party consists of a changeling level 4 rogue, and a level 4 tempest cleric. The changeling rolls a 16 to stealth. The cleric is about to grab a holy branch but the GM asked them to make a dexterity saving throw.",
+    "answer": "No rules question, this is a description of game state.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question or application but simply a description of the current state of the game."
+  },
+  {
+    "question": "The level 4 tempest cleric asks if their blade, after touching a sacred tree is now a Relic of the Red Solstice. is that applicable here?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "The GM makes a ruling that this is the first 'Relic of the Red Solstice'"
+  },
+  {
+    "question": "If the level 4 fighter tries to put a holy branch, just obtained, into their bag of holding, what kind of check do they need to make?",
+    "answer": "A Dexterity saving throw.",
+    "rules": [],
+    "rules_explanation": "GM sets a Dexterity Saving Throw DC for this circumstance."
+  },
+  {
+    "question": "If the fighter fails the Dexterity saving throw, what happens?",
+    "answer": "The character takes 29 points of bludgeoning damage and is pinned to the ground.",
+    "rules": [],
+    "rules_explanation": "The GM specifies the effects."
+  },
+  {
+    "question": "What is the effect of the 'Divine Sense' ability of a Level 5 Paladin?",
+    "answer": "The direction of any celestial, fiend, or undead within 60 feet is revealed. The type of any being present is revealed.",
+    "rules": [
+      "Classes > Paladin > Class Features > Divine Sense"
+    ],
+    "rules_explanation": "The rules for Divine Sense describe its effect."
+  },
+  {
+    "question": "The level 5 cleric casts 'Zone of Truth'. What kind of saving throw does a creature have to make?",
+    "answer": "The creature must make a Charisma saving throw.",
+    "rules": [
+      "Spell Descriptions > Zone of Truth"
+    ],
+    "rules_explanation": "The spell description for Zone of Truth specifies that it requires a Charisma saving throw."
+  },
+  {
+    "question": "What are the specifications of the area for zone of truth?",
+    "answer": "A 15-foot-radius sphere centered on a point of your choice within range.",
+    "rules": [
+      "Spell Descriptions > Zone of Truth"
+    ],
+    "rules_explanation": "The spell description details the area of effect."
+  },
+  {
+    "question": "Does the level 5 warlock have to want to make the charisma saving throw or can they choose to fail it",
+    "answer": "You can choose to fail it.",
+    "rules": [],
+    "rules_explanation": "This is GM clarification, rather than a rule."
+  },
+  {
+    "question": "What does it mean to have advantage on a dice roll in D&D?",
+    "answer": "Roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This is the definition of advantage."
+  }
+]

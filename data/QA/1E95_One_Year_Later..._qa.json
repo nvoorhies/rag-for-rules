@@ -1,0 +1,105 @@
+[
+  {
+    "question": "Level 6 barbarian, race unknown, asks a rules question to Dungeon Master: I'm wandering down an evening byway in the Quadroads of Vasselheim, a number of cups in myself, and hiccup loudly and glance off to the side to find one gentleman who's been far deeper in his cups and is currently trying to steady himself against the stone wall in an alleyway. I say, “Hey, you! You look like a mighty warrior. Do you need another drink? Do you have like, a wife, kids, attachments? Anyone that would miss you?” The man responds “You think if I did I'd be drinking this hard?” Then I say \"I'm going to take that as a no. Cool, hey, look, I don't know if you're interested, but I have, in my possession, something really cool. And I take out the Deck. Do you know what this is? Make a persuasion check. With advantage, because he's really drunk.”",
+    "answer": "You must roll 2 d20s and take the higher result and add any bonuses to the result to attempt to persuade the drunk man.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To resolve the outcome of trying to persuade the drunk, the player must roll 2 d20 and add the higher result of the two dice rolls to the character's persuasion modifier because the DM determined the character had advantage"
+  },
+  {
+    "question": "Laura asks the Dungeon Master: Once a card has been pulled from the Deck of Many Things, is it gone from the Deck, or does it go back in?",
+    "answer": "Once the card is drawn, it fades from existence.",
+    "rules": [],
+    "rules_explanation": "This is an ad hoc ruling by the DM about the nature of the magic item that doesn't refer to general rules."
+  },
+  {
+    "question": "Level 7 cleric, race unknown, asks the Dungeon Master: Is plus 8 the correct bonus for my persuasion check considering my persuasion training?",
+    "answer": "The bonus is equal to proficiency bonus, which is determined by character level, plus the character's Charisma modifier, which is determined by the Charisma score.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The persuasion bonus must be calculated correctly. The Charisma modifier must be added to the proficiency bonus.",
+    "rule_explanation": "The persuasion bonus must be calculated correctly. The Charisma modifier must be added to the proficiency bonus."
+  },
+  {
+    "question": "The DM asks a level 7 cleric, race unknown, what the character's charisma is.",
+    "answer": "Knowing the character's race allows a bonus or penalty to be added to the base stats. However, the ability to be persuasive relies on the base score and not the racial adjustments.",
+    "rules": [
+      "Races > Racial Traits > Ability Score Increase",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Each race has abilities that provide a bonus to one or more ability scores. However, the skill check relies on the modifier which is calculated from the score. The question asked for the charisma score which when known can be used to determine the modifier."
+  },
+  {
+    "question": "While scuba diving, a PC asks the Dungeon Master: A level 9 druid asks the Dungeon Master if she can do a Nature check to look for shark's teeth.",
+    "answer": "The action is allowed with a Nature check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The DM allows the requested action and determines that a nature check is appropriate to that action."
+  },
+  {
+    "question": "A DM asks a level 13 rogue what the character's survival skill modifier is.",
+    "answer": "Given proficiency in Survival, the Survival modifier is determined by the Wisdom modifier plus proficiency bonus which is equal to +5 at level 13. Wisdom score must be known to determine skill modifier.",
+    "rules": [
+      "Using Ability Scores > Skills",
+      "Character Advancement > Proficiency Bonus"
+    ],
+    "rules_explanation": "If the rogue is proficient in survival, then the wisdom modifier plus proficiency bonus determines the survival check bonus. If the rogue is not proficient in survival, then the survival check bonus is equal to the wisdom modifier."
+  },
+  {
+    "question": "A PC with an oil flask wants to know: “Does everybody speak Common?”.",
+    "answer": "In this setting, a lot of people do because the bay is a bastion of trade, and because Common spoken. But, while everyone here, for the most part, speaks Marquesian, a majority speaks some level of Common.",
+    "rules": [],
+    "rules_explanation": "This is ad hoc setting color from the DM, not a codified rule."
+  },
+  {
+    "question": "The DM asks Keyleth, a level unknown druid, what the character's animal handling modifier is before rolling a d20 to attempt to charm a creature using animal handling.",
+    "answer": "To determine the animal handling check bonus you must add the Wisdom modifier and the proficiency bonus to determine success. Must have proficiency in Animal Handling.",
+    "rules": [
+      "Using Ability Scores > Skills",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The modifier comes from the Wisdom score and Proficiency bonus. The modifier and proficiency can then be used to determine the success of an ability check."
+  },
+  {
+    "question": "Players want to know, how long do the dogs summoned by the patch of two mastiffs last? Is the patch effect like a spell with duration requirements or something else?",
+    "answer": "I think they just are. It's not like a spell or anything, they are two dogs that live now. You can see them barking running in the distance.",
+    "rules": [],
+    "rules_explanation": "Ad hoc ruling by the DM. The mechanics of the effect are undefined by any base rules. Once the patch is used, mastiffs that are real non-magical, and permanent."
+  },
+  {
+    "question": "A Player in the game has an item, the Chime of Opening. The player asks, \"oh, I can open any fucking door?\"",
+    "answer": "As long as the Chime's rules are followed, including the limitations. You have the Chime; you can attempt to use it at any time.",
+    "rules": [],
+    "rules_explanation": "General role playing comment re enforce the rules. As long as the Chime rules are followed and no restrictions are violated, can be attempted."
+  },
+  {
+    "question": "Grog asks, “Is that your second Luck?”",
+    "answer": "That is an OOC question, and there is no rule that provides an answer beyond a PC's number of luck points. If the question is \"If a halfling uses the lucky trait to reroll a 1 on a skill check when they have advantage, do they reroll both dice or one?\", the answer is the halfling can reroll only one of the dice and chooses which one.",
+    "rules": [
+      "Races > Halfling > Lucky",
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The Halfling's Lucky Trait allows to reroll the d20. When the halfling has advantage or disadvantage on a roll, and rolls a 1, the halfling rerolls only one of the two dice and must use the new roll."
+  },
+  {
+    "question": "Player asks: may I hide Taryon's clothing?",
+    "answer": "It's up to the DM. (rolls a d20 for a Stealth check). The results of the roll must be greater than the target's passive perception to be able to hide the object.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The DM is allowing the action, but need to figure out whether the object (in this case, clothing) will be hidden from view. Need to perform a Dexterity (Stealth) check to see if successful."
+  },
+  {
+    "question": "Level 8 ranger, race unknown, asks The Dungeon Master, \"I'm so excited for the calamity that's about to be brought down upon my house.\"",
+    "answer": "There is no rule to address player emotions, but it can be used to guide the direction of gameplay.",
+    "rules": [],
+    "rules_explanation": "The DM is using the player's words to reinforce that the game has gone in an unplanned direction."
+  }
+]

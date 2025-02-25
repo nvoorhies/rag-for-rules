@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What check should be made to recall information about Tharizdun?",
+    "answer": "Make a Religion check.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM asked for a Religion check because the players were discussing Tharizdun and his nature as a god. Recalling facts about religion uses the Religion skill which relies on the Intelligence ability"
+  },
+  {
+    "question": "What kind of check should Nott make to attempt to snatch the jewel?",
+    "answer": "Make a Sleight of Hand check.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM asked for a Sleight of Hand check because the character was attempting to take something without being noticed. Sleight of Hand is a skill that relies on the Dexterity ability."
+  },
+  {
+    "question": "What kind of check should Beauregard make to notice Nott stealing the Jewel?",
+    "answer": "Make a Perception check.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM called for a Perception check because a character was trying to use her senses to notice something. The Perception skill relies on the Wisdom ability"
+  },
+  {
+    "question": "For Laura's character, a level x Barbarian of race y, to receive tattoos from Orly, should she add her constitution modifier to her saving throw?",
+    "answer": "No, do not add the Constitution modifier to the saving throw.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The character was making a constitution saving throw and the DM specifies not to add the new constitution modifier from the newly applied tattoos."
+  },
+  {
+    "question": "When Fjord attacks Beau for making a bad joke, what kind of roll should be made to determine if the attack hits?",
+    "answer": "Make an attack roll with advantage.",
+    "rules": [
+      "Combat > Making an Attack",
+      "Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "An attack roll is required to determine if an attack hits its target.  Since the attack was made on a friend unexpectedly, the DM granted advantage to the attack roll."
+  },
+  {
+    "question": "After Travis rolls a 21 on his attack roll against Laura when she is in melee range, what kind of damage dice should he roll to determine if he is successful?",
+    "answer": "Roll a d4 to determine the extra damage.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks",
+      "Paladin > Divine Smite"
+    ],
+    "rules_explanation": "Fjord is a Paladin. The context implies that he is using divine smite. He was told to use a d4 to determine the damage. The question establishes that Fjord rolled a 21 which is a successful hit."
+  },
+  {
+    "question": "When Allura teleports away to implore aid from the Council of Tal'Dorei, what legendary action, if any, can be taken by the DM?",
+    "answer": "A creature can take a legendary action only at the end of another creature's turn. In this case, Allura teleported away at the end of her turn and no legendary action can be taken in reaction.",
+    "rules": [
+      "Monsters > Legendary Creatures > Legendary Actions"
+    ],
+    "rules_explanation": "A legendary action can only occur at the end of another creature's turn. Because the DM had Allura teleport away, it is not possible for Allura to take a legendary action on her turn, or in response to Allura's turn ending."
+  },
+  {
+    "question": "For Laura's character, Jester, a level X bard, to see if they are being scryed on what does Travis have to say, then do?",
+    "answer": "Travis needs to cast See Invisibility.",
+    "rules": [
+      "Spellcasting",
+      "Bard > Class Features > Spellcasting"
+    ],
+    "rules_explanation": "The story context indicates that the character, Travis, is using a spell to see invisible things and is a bard or has access to see invisibilty through other magical means."
+  },
+  {
+    "question": "After casting See Invisibility as a lvl X character, what check should be made to see if scrying is happening?",
+    "answer": "Make a Perception check.",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "Skills > Wisdom"
+    ],
+    "rules_explanation": "In this context, the act of 'scanning' for invisible observers calls for a check using the Wisdom-based skill Perception."
+  },
+  {
+    "question": "If Liam's character Caleb takes damage and casts Fortune's Favor on himself, is that allowed?",
+    "answer": "No. You can't cast a spell if you are concentrating on another one.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "Casting a spell with a casting time that is longer than a bonus action requires concentration. It is a rules exception."
+  },
+  {
+    "question": "When Travi's character Fjord is struck in the shoulder by Beau a level X monk, what kind of damage dice should she roll?",
+    "answer": "Roll a d4.",
+    "rules": [
+      "Monk > Class Features > Martial Arts"
+    ],
+    "rules_explanation": "The question implies that Beau is attacking unarmed using martial arts. The martial arts rules state what the damage dice are."
+  },
+  {
+    "question": "If Marisha's character, Beau, a level X Monk, used a stunning strike on Travis's character, Fjord, would he still get sentinel and be able to attack Beau when she hit him?",
+    "answer": "Yes",
+    "rules": [
+      "Combat > Actions > Reactions"
+    ],
+    "rules_explanation": "A reaction is an instant response to a trigger of some kind. Beau's attack is the trigger for Fjord's reaction. The stunning condition would prevent Fjord's reaction."
+  },
+  {
+    "question": "If Travis's character Fjord, a level X paladin, is struck by Beau a level X Monk, and takes a natural one, so that it becomes a natural 21 to hit, does he get sentinel and have advantage to attack?",
+    "answer": "Yes, Beau's attack was the trigger for his reaction. However, rolling a natural one does not matter for determining hit. The to hit value of 21 does exceed his armor class, so the attack is successful. ",
+    "rules": [
+      "Combat > Actions > Reactions",
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "Rolling a one has a special condition for attack rolls: It means the attack misses regardless of modifiers. However, as the roll became a 21 with modifiers, this condition was not applied. Fjord is thus granted a reaction."
+  },
+  {
+    "question": "If an attack hits Jester does she add her new constitution modifier to the hit point increase",
+    "answer": "Yes, you add one hit point per previous level",
+    "rules": [
+      "Beyond 1st Level > Hit Points and Hit Dice",
+      "Constitution > Constitution Checks > Hit Points"
+    ],
+    "rules_explanation": "The new constitution modifier is calculated on all previous levels."
+  },
+  {
+    "question": "What are the requirements for multi classing?",
+    "answer": "To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table.",
+    "rules": [
+      "Beyond 1st Level > Multiclassing > Prerequisites",
+      "Races > Racial Traits",
+      "Fighter > Class Features > Ability Score Improvement"
+    ],
+    "rules_explanation": "There are specific prerequisites for each class."
+  },
+  {
+    "question": "What type of check is called for to see if the party can avoid the dangers of a swamp?",
+    "answer": "The GM might call for a group Wisdom (Survival) check",
+    "rules": [
+      "Ability Scores > Wisdom Checks",
+      "Ability Scores > Skills > Survival",
+      "Beyond 1st Level > Group Checks"
+    ],
+    "rules_explanation": "Survival is a Wisdom skill, so Survival checks are Wisdom checks. Avoiding terrain and hazards is part of Survival."
+  },
+  {
+    "question": "When there is a chance that we're being scryed on and Fjord casts See Invisibility, what modifiers must be taken into account?",
+    "answer": "Make a Perception check with all applicable bonuses or penalties.",
+    "rules": [
+      "Spellcasting",
+      "Skills > Wisdom",
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The act of 'scanning' for invisible observers calls for a check using the Wisdombased skill Perception. The character's statistics determine which bonuses or penalties apply"
+  },
+  {
+    "question": "Taliesin asks Jester if she had prepared scrying, she responds that she had preared Insect Plague, can she cast scrying instead?",
+    "answer": "No, she cannot.",
+    "rules": [
+      "Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "A spellcaster can only cast prepared spells."
+  },
+  {
+    "question": "If a paladin is being asked personal questions by another character, what can they say to discover the truth?",
+    "answer": "There are no Paladin specific rules to determine the truth.",
+    "rules": [
+      "Paladin"
+    ],
+    "rules_explanation": "The question implies that a paladin has a spell, abilty, or power to automatically determine the truth that is being told. There is no Paladin specific method to detect a lie."
+  },
+  {
+    "question": "Can all those who have gem tattoos benefit from the effects, or just those who have advantage, or just those who have 18s to get to 20s?",
+    "answer": "All who receive the gem tattoos can benefit, but the tattoos won't improve natural stats over 20.",
+    "rules": [
+      "Feats",
+      "Races > Racial Traits > Ability Score Increase",
+      "Beyond 1st Level > Ability Score Improvement",
+      "Monsters > Remorhaz > Special Traits > Heated Body"
+    ],
+    "rules_explanation": "There are no rules that prevent anyone from getting a tattoo. There are no rules that directly block stats from going above 20. You can't increase an ability score above 20 using this feature."
+  },
+  {
+    "question": "How long does it take to search for gems? Is it an action, minutes, or longer?",
+    "answer": "Searching for gems takes about an hour and a half to two hours.",
+    "rules": [
+      "Time"
+    ],
+    "rules_explanation": "The time is at the discretion of the DM."
+  },
+  {
+    "question": "If the three ladies decide to sleep in Jester's room, what is their option for accommodations?",
+    "answer": "They can all sleep there as long as they don't mind sharing a single bed.",
+    "rules": [
+      "Equipment > Expenses > Lifestyle Expenses"
+    ],
+    "rules_explanation": "The accommodations in the room are described as very nice but only contain a single bed, and the players can sleep where they want as long as they are comfortable."
+  },
+  {
+    "question": "If Fjord tries to cast a spell through Caleb's temporary teleportation circle, what actions and skills would he require?",
+    "answer": "Casting through a Teleportation Circle requires no special action. You must know the sigil sequence and spend an action to cast the spell, and provide the necessary components.",
+    "rules": [
+      "Spellcasting",
+      "Spell Descriptions > Teleportation Circle"
+    ],
+    "rules_explanation": "There are no specific additional requirements to cast a spell through the portal."
+  }
+]

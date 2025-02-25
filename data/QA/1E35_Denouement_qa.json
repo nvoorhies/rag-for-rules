@@ -1,0 +1,187 @@
+[
+  {
+    "question": "The party has just reached the cavern, and TRAVIS as Grog asks the dungeon master, MATT; \"Can I check for traps as I go?\"",
+    "answer": "The dungeon master, MATT, replies, \"Sure.\"",
+    "rules": [
+      "Dungeon Master's Guide > Creating a Combat Encounter > Environment"
+    ],
+    "rules_explanation": "The GM is the final arbiter for what players can attempt and what is possible in the game world. The rules suggest a Wisdom (Perception) skill check, but this is left to the GM's discretion."
+  },
+  {
+    "question": "When the Character Grog tries to move through the partially dissolved stone door, what skill check must he make?",
+    "answer": "The character Grog must make a Strength check.",
+    "rules": [
+      "Dungeon Master's Guide > Creating a Combat Encounter > Environment"
+    ],
+    "rules_explanation": "The dungeon master, Matt, calls for a Strength check when the character Grog tries to squeeze through the door."
+  },
+  {
+    "question": "What dice do I roll when I drink a Potion of Common Healing, and what adjustment do I make to the value rolled?",
+    "answer": "Roll 2d4 and add 2.",
+    "rules": [
+      "Items > Potions > Potion of Healing"
+    ],
+    "rules_explanation": "A common potion of healing restores 2d4 + 2 hit points."
+  },
+  {
+    "question": "What does the player need to roll to heal themself with a Cure Wounds spell?",
+    "answer": "You need to roll 2d8 + your spellcasting modifier.",
+    "rules": [
+      "Spellcasting > Casting a Spell",
+      "Cleric > Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "To heal with Cure Wounds, you must expend a spell slot. You regain 1d8 hit points for a first level spell slot, and an additional 1d8 for each level above first."
+  },
+  {
+    "question": "What dice do I roll when I drink a greater healing potion, and what adjustment do I make to the value rolled?",
+    "answer": "Roll 4d4 and add four.",
+    "rules": [
+      "Items > Potions > Potion of Healing"
+    ],
+    "rules_explanation": "A greater potion of healing restores 4d4 + 4 hit points."
+  },
+  {
+    "question": "What skill check does the character bard make to see if they remember any relevant history?",
+    "answer": "The character bard makes a religion check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To determine if the player succeeds, MATT asks for a religion check."
+  },
+  {
+    "question": "What saving throw does the character make when something grabs their wrist?",
+    "answer": "The character makes a Wisdom saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The dungeon master, Matt, requests a Wisdom saving throw for the character."
+  },
+  {
+    "question": "What dice do I roll when cleric is doing a Mass Cure Wounds, and what adjustment do I make to the value rolled?",
+    "answer": "Roll 3d8 and add five.",
+    "rules": [
+      "Spell Descriptions > Cure Wounds"
+    ],
+    "rules_explanation": "Mass cure wounds heals 3d8 plus your spellcasting modifier, or Wisdom modifier as a cleric."
+  },
+  {
+    "question": "What type of check is it to hit somebody in the face?",
+    "answer": "Roll a strength check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength Checks"
+    ],
+    "rules_explanation": "When the character Grog slaps Lady Briarwood, the dungeon master asks Travis to roll a strength check."
+  },
+  {
+    "question": "What saving throw is required by Faerie Fire?",
+    "answer": "A Dexterity saving throw is required.",
+    "rules": [
+      "Spell Descriptions > Faerie Fire"
+    ],
+    "rules_explanation": "Faerie Fire states that \"Each creature in the area must make a Dexterity saving throw\"."
+  },
+  {
+    "question": "What type of saving throw is called for by Mass Cure Wounds?",
+    "answer": "Mass Cure Wounds does not call for a saving throw.",
+    "rules": [
+      "Spell Descriptions > Mass Cure Wounds"
+    ],
+    "rules_explanation": "Mass Cure Wounds' description doesn't call for any saving throws."
+  },
+  {
+    "question": "If an ally is in melee range of an opponent the rouge is attacking does that give advantage on their attack?",
+    "answer": "No, it grants sneak attack damage.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "Having an ally within 5 feet of an opponent allows for sneak attack damage, but does not grant advantage"
+  },
+  {
+    "question": "If someone has been viciously mocked, what affect does that have on the monster?",
+    "answer": "The monster has disadvantage on its next attack roll and takes psychic damage.",
+    "rules": [
+      "Spell Descriptions > Vicious Mockery"
+    ],
+    "rules_explanation": "The spell Vicious Mockery causes the target creature to have disadvantage on its next attack roll. The player must succeed a roll to ensure the damage."
+  },
+  {
+    "question": "How many actions can I make a round?",
+    "answer": "You can make one action a round.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "A single action is permitted by default. The game makes this rule explicit under the section \"Your Turn\"."
+  },
+  {
+    "question": "How many reactions can I make a round?",
+    "answer": "You can make one reaction a round.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "The game makes this rule explicit under the section \"Reactions\"."
+  },
+  {
+    "question": "What's the range on Protection from Evil and Good?",
+    "answer": "The range is Touch.",
+    "rules": [
+      "Spell Descriptions > Protection from Evil and Good"
+    ],
+    "rules_explanation": "The spell description explicitly states the range is Touch."
+  },
+  {
+    "question": "If a character is protected from fiends by a spell can a shadow demon still affect them?",
+    "answer": "Based on the description provided that does give them protection from shadow demons.",
+    "rules": [
+      "Spell Descriptions > Protection from Evil and Good"
+    ],
+    "rules_explanation": "The cleric is applying the Protection from Evil and Good spell with the selection being fiends and the DM agreed with that selection, a demon attack would be blocked by the protection."
+  },
+  {
+    "question": "If a holy arrow hits a smoke demon, does it do holy damage",
+    "answer": "Yes, it does 1d4 radiant damage.",
+    "rules": [
+      "Combat > Making an Attack > Damage Rolls"
+    ],
+    "rules_explanation": "Since it is a holy arrow it does radiant damage."
+  },
+  {
+    "question": "Can I recall any information about something I'm fighting if demons are my favored enemy?",
+    "answer": "Make an intelligence check with advantage.",
+    "rules": [
+      "Classes > Ranger > Favored Enemy"
+    ],
+    "rules_explanation": "Rangers have advantage on checks to recall information about their favored enemy."
+  },
+  {
+    "question": "When the GM asks players to roll initiative, are the positions aware of each other?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Surprise"
+    ],
+    "rules_explanation": "The game states the creatures are very aware of each other's location."
+  },
+  {
+    "question": "Can you move after using the disengage action?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Actions in Combat > Disengage"
+    ],
+    "rules_explanation": "Taking the Disengage action allows you to move without provoking opportunity attacks for the rest of your turn."
+  },
+  {
+    "question": "Is Faerie Fire concentration?",
+    "answer": "No, it is not concentration.",
+    "rules": [
+      "Spell Descriptions > Faerie Fire"
+    ],
+    "rules_explanation": "The duration of Faerie Fire does not require concentration."
+  },
+  {
+    "question": "Can you hold a standard action?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "You can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn."
+  }
+]

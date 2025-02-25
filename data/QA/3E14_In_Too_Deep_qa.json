@@ -1,0 +1,508 @@
+[
+  {
+    "question": "How do I roll a d4?",
+    "answer": "Roll a four sided dice and report the result.",
+    "rules": [
+      "Combat > Actions in Combat > Attack",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question specifically mentions 'roll a d4' which refers to dice rolling mechanics for actions in combat from the SRD and indirectly requests information on how to perform an ability check."
+  },
+  {
+    "question": "If my initiative is the same as my opponents who goes first, and what attribute determines this order?",
+    "answer": "In the case of a tie, the tied characters roll off against the relevant stat, in this case DEX.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative",
+      "Races > Racial Traits > Ability Score Increase",
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The SRD rules for initative state how it should be calculated, the question asks what happens if a roll results in the same value, requiring a comparison of ability scores. The rules for racial traits then determine how to get ability scores."
+  },
+  {
+    "question": "When does a rage end?",
+    "answer": "Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "The question is asking when the rage effect expires, so we need to look at the specific rules of the Rage feature."
+  },
+  {
+    "question": "If I dont make a reckless attack, do they still get advantage on their attacks against me?",
+    "answer": "Just gives him advantage every time he attacks you, too.",
+    "rules": [
+      "Classes > Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "The game play text includes \"Just gives him advantage every time he attacks you, too.\" so while there is no specific rules reference, the answer refers to the Reckless Attack rules."
+  },
+  {
+    "question": "Can I use my chaos burst ability with my fists?",
+    "answer": "The ability is with your fists, which technically are not a melee weapon.\nUnfortunately, a lot of these abilities are contingent on a melee weapon, which the fists don't count.",
+    "rules": [
+      "Classes > Barbarian > Primal Path (Specific to Subclass Used)"
+    ],
+    "rules_explanation": "The question is specific to how to use a subclass specific barbarian ability, and refers to weather it constitutes a melee weapon. This requires both the rules for the barbarian, and the specific subclass in question to resolve the rules."
+  },
+  {
+    "question": "As a robot do I need to make sure I'm within 30 feet of Ashton?",
+    "answer": "You do have to finagle a little bit, but you manage to get near the frontline. And, thankfully, you're short enough, comparatively to some of the other patrons, that, without issue, you can keep an eyeline and stay within 30 feet.",
+    "rules": [
+      "Classes > Bard > Bardic Inspiration",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Ashton is the character that can benefit from the rules, and FCG is a character that can perform the action. Both the character level, and the relevant features need to be cross referenced to confirm that the question is applicable."
+  },
+  {
+    "question": "does a natural 20 do anything?",
+    "answer": "It just does two points of damage as opposed to one for you.",
+    "rules": [
+      "Combat > Making an Attack > Rolling 1 or 20",
+      "Classes > Monk > Martial Arts",
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "The answer to this requires understanding the critical success rules, class abilities for the barbarian, and the martial arts damage for a monk."
+  },
+  {
+    "question": "Can you absorb some of this blow?",
+    "answer": "Yes, absorb damage. This goes to four plus seven. 11 points of bludgeoning damage.\nYou would, yeah. So you would take.",
+    "rules": [
+      "Classes > Artificer > Battle Smith > Battle Ready",
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "This question is about damage absorbtion and damage resistances, while \"Battle Ready\" is specific to Artificers the concept for resistance will apply as well, and there is also the general rule of damage reduction."
+  },
+  {
+    "question": "Can a nat 20 beat the three-quarters cover rule?",
+    "answer": "28 to hit.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Combat > Cover"
+    ],
+    "rules_explanation": "There is nothing in the rules regarding Natural 20's overriding the rules for cover, and three quarters cover gives a fixed +5 modifier, which combined with the character roll is 28."
+  },
+  {
+    "question": "Does this still count as a spell usage?",
+    "answer": "It still counts as a spell. It's like casting a spell when you use the feature.",
+    "rules": [
+      "Races > Racial Traits > Spellcasting",
+      "Classes > Bard > Spellcasting",
+      "Spells List > List of Bard Spells"
+    ],
+    "rules_explanation": "Spell usage rules about innate racial traits and bard features."
+  },
+  {
+    "question": "If I'm a warlock do I still have an action?",
+    "answer": "As long as it's not a spell. If it's a cantrip, you can.",
+    "rules": [
+      "Classes > Warlock > Pact Magic > Spellcasting",
+      "Spells List > Warlock Spells"
+    ],
+    "rules_explanation": "This is a warlock class rule and the SRD information about spells needs to be applied."
+  },
+  {
+    "question": "Do I take two more points of fire damage?",
+    "answer": "Three more points of fire damage.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls"
+    ],
+    "rules_explanation": "The answer relies on determining an amount of fire damage, which calls for the general rules for damage."
+  },
+  {
+    "question": "What's my Unsettling Presence range?",
+    "answer": "If she gets within 15 feet of me, Unsettling Presence.",
+    "rules": [
+      "Class Features > Warlock > Eldritch Invocations"
+    ],
+    "rules_explanation": "The range of a character specific feature is called in the class definition."
+  },
+  {
+    "question": "How high can I Misty Step?",
+    "answer": "I haven't told you. Okay. All right. Is that what you wanted? We'll see where this goes.",
+    "rules": [
+      "Classes > Warlock > Eldritch Invocations"
+    ],
+    "rules_explanation": "Misty Step is a set of abilities and the limit is determined by specific invocations, all invocations are described in the class features."
+  },
+  {
+    "question": "Does it start the initiative now, or would we have gotten an attack as we ran up as well?",
+    "answer": "You guys actually got-- You guys still have an action, so you can do that now, and then we'll come back because that should have technically been before him.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn",
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "Movement and making an attack are described in the combat section for the order of combat."
+  },
+  {
+    "question": "Can I, a druid cast a spell, and Wild Shape at the same time?",
+    "answer": "Okay, I do, actually, that would be this down here. So 14 points bludgeoning damage reduced to seven.",
+    "rules": [
+      "Classes > Druid > Wild Shape"
+    ],
+    "rules_explanation": "Wild shape determines if it is possible to cast a spell in that form, and the damage inflicted. This rules can then apply to several different sub sections like spells and spell slots, and damage rolls."
+  },
+  {
+    "question": "How close can Sam get to Ashton without being seen to do temporary hit points",
+    "answer": "You are not. You are hidden within the crowd. Everyone's eyes are on the scuffle.",
+    "rules": [
+      "Combat > Cover",
+      "Classes > Bard > Ardent Armor (Subclass Specific)"
+    ],
+    "rules_explanation": "This relies on the rules for stealth to be hidden and stay in range of someone. Stealth also covers not being seen, and there is a skill check."
+  },
+  {
+    "question": "If they are hostile, do they get advantage on it now?",
+    "answer": "No, I do not think you can. However, if they're attacked or harmed, then it goes hostile again.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "This uses the general rule of what happens when targeting a specific area of an hostile creature. This can be further modified depending on the character class."
+  },
+  {
+    "question": "Can I put him in the room?",
+    "answer": "If you get enough visual sight, you can, if you move over.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "This is based on spell range and line of sight, from the spell casting section of the SRD."
+  },
+  {
+    "question": "If I leave the area when she dashes, will she get an attack of opportunity",
+    "answer": "Yeah, that definitely hits. It's higher than that.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "The statement relies on the player reading to apply an Attack of opportunity."
+  },
+  {
+    "question": "Should I try and send a message to them? Just to see where they are?",
+    "answer": "Now just to double check.\nThere's no response.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "The success of sending message relies on the range of the spell, so the distance between the sender and the target in relation to spell range must be checked. It's implicitly an invalid target because of the range."
+  },
+  {
+    "question": "If I have to grab them to try and leave, who goes first?",
+    "answer": "You are in the room.\nI'll try to defuse. I will cast-- I will say: Now, now. Now ladies and gentlemen, we don't want to fight here, let's just calm this down. I'll cast Calm Emotions on all of them.",
+    "rules": [
+      "Combat > Conditions > Charmed",
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "The question is about when and in what order to make checks when grabbing something, but instead of answering the rules for the initial assumption the player changed plans. The DM indicates that the area has people present."
+  },
+  {
+    "question": "If you have a 21 on persuasion, what does that get?",
+    "answer": "Deception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "There is nothing special to do on a roll over the required amount, so there is no rule beyond the typical modifier rule that would apply."
+  },
+  {
+    "question": "Does hex give disadvantage to stealth checks?",
+    "answer": "Hex just does additional damage when she damages.Hex does, wait, it is about checks. On ability checks of your choice.",
+    "rules": [
+      "Spell Lists > Warlock Spells > Hex"
+    ],
+    "rules_explanation": "The function and effect of Hex is the topic of the question, and therefore the effects of the spell needs to be consulted."
+  },
+  {
+    "question": "Can you try to grapple them after they disappear using disengage?",
+    "answer": "That is correct.",
+    "rules": [
+      "Combat > Actions in Combat > Disengage",
+      "Spellcasting > Duration"
+    ],
+    "rules_explanation": "This confirms that disengage action means there will be no attacks of oppertunity."
+  },
+  {
+    "question": "Can you use misty step before doing any of that?",
+    "answer": "It would have been, 15, 20, 25, 30.",
+    "rules": [
+      "Spellcasting > Range",
+      "Spells List > List of Sorcerer Spells > Misty Step"
+    ],
+    "rules_explanation": "This is a question about the spell range Misty Step and requires knowledge of the Misty Step rules."
+  },
+  {
+    "question": "I'm only going to be there so",
+    "answer": "Okay, so the two that are right there in the room with you put their claws to the side and start looking over down the long hall where Lady Emoth's hanging from the ceiling and getting ready to possibly charge back in.",
+    "rules": [
+      "Spellcasting > Targets",
+      "Combat > Movement and Position"
+    ],
+    "rules_explanation": "The answer determines relative location and targets to make decisions and requires the spell range rules. The DM also indicates an action can occur."
+  },
+  {
+    "question": "I do not get more dice as I level up?",
+    "answer": "One does not. That's right.",
+    "rules": [
+      "Class Features > Bard > Bardic Inspiration",
+      "Combat > Actions in Combat > Help"
+    ],
+    "rules_explanation": "That's a rules clarification by cross referencing specific levels and their associated bonus' for a class abilities. There are also general actions, including help, that the character could use instead."
+  },
+  {
+    "question": "Can you see a guy through all that?",
+    "answer": "What are you doing?",
+    "rules": [
+      "Combat > Cover",
+      "Spellcasting > Areas of Effect"
+    ],
+    "rules_explanation": "This checks for conditions that would impose limitations of senses on others and area of effect is required to answer this."
+  },
+  {
+    "question": "What are we supposed to do?",
+    "answer": "Yeah, that definitely hits again. That's another seven points of damage.\nAll righty.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Just rolling for something and following up, in order to decide what to do."
+  },
+  {
+    "question": "You can do more by the time",
+    "answer": "And is-- seven points of damage. As the second one does connect, it's like still hitting a wall, like a heavy rock. And, yeah. That finishes your go?",
+    "rules": [
+      "Races > Dwarf > Dwarf Traits",
+      "Combat > Making an Attack > Rolling 1 or 20"
+    ],
+    "rules_explanation": "Damage is described under combat, so it needs to be referred to here. Then, the race description also needs to be reviewed since that is also under consideration and part of the decision about what to do."
+  },
+  {
+    "question": "Does she take the eight points of damage?",
+    "answer": "You would, yeah. So you would take--.\nAfter that strike, is going to... That is going to be an 11 to hit.",
+    "rules": [
+      "Combat > Making an Attack > Rolling 1 or 20"
+    ],
+    "rules_explanation": "Damage is described under combat, so it needs to be referred to here."
+  },
+  {
+    "question": "If she gets within 15 feet of me, what happens",
+    "answer": "If she gets within 15 feet of me, Unsettling Presence.",
+    "rules": [
+      "Class Features > Warlock > Pact Magic > Eldritch Invocations"
+    ],
+    "rules_explanation": "This requires looking at the conditions, and the features for the specific Warlock abilities under the subclass."
+  },
+  {
+    "question": "Do we have rooms available?",
+    "answer": "Yeah, Lord Eshteross said that we had rooms here to stay the night.",
+    "rules": [
+      "Adventuring > Between Adventures > Lifestyle Expenses > Food, Drink, and Lodging > Inn Stay"
+    ],
+    "rules_explanation": "This is a call for information, but it relies on access to a resource, lodging, and is described by the lifestyle and expenses entry."
+  },
+  {
+    "question": "Can't we just go like this way, yeah. What can they can find it can be in the water",
+    "answer": "Just to the back door. You're seeing this, too, after the requests you just gave he's quickly pulled off to the side.",
+    "rules": [
+      "Adventuring > The Environment > Vision and Light"
+    ],
+    "rules_explanation": "Can See this and relates and this is all about about being being able see"
+  },
+  {
+    "question": "Are there any bonuses because they can't see my face through the blood?",
+    "answer": "I'll give you advantage, because they're definitely invested in whatever falsehoods are being spread throughout here, yeah.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM describes the conditions as applying advantage, therefore it invokes the advantage rules."
+  },
+  {
+    "question": "Can I see anything that's going on over there?",
+    "answer": "No, all you do is hear sounds from within. You just see your friends focusing on this creature that's still latched to the ceiling. It's humanoid, but moving unnaturally.",
+    "rules": [
+      "Combat > The Environment > Vision and Light",
+      "Monsters > Size",
+      "Monsters > Type"
+    ],
+    "rules_explanation": "The answer requires understanding the rules of conditions around sight and is influenced by the types of monsters and the terrain."
+  },
+  {
+    "question": "If they are hostile, do they get advantage on it now?",
+    "answer": "No, I do not think you can. However, if they're attacked or harmed, then it goes hostile again.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "The question is about how creatures are targeted and is only valid with the area of the spell in relation to the targets."
+  },
+  {
+    "question": "What were you about to do?",
+    "answer": "You walk with Eshteross towards the entryway where all the sign-in and weapon check-in was established. While that's happening, Orym, you rolled on perception earlier.",
+    "rules": [
+      "Combat > The Order of Combat"
+    ],
+    "rules_explanation": "The DM indicates an initiative is relevant and is returning to that as it is now time for the next thing in the order of combat."
+  },
+  {
+    "question": "You know it's like damage",
+    "answer": "Okay. If they're still alive? We could help them.\nDoes save, however.",
+    "rules": [
+      "Player’s Handbook > Combat > Damage and Healing"
+    ],
+    "rules_explanation": "Do some rolling dice and determine the outcome. As long as one to show her to get hit on"
+  },
+  {
+    "question": "You can",
+    "answer": "Yeah, you just fall out of the space as the hands go wide and grab nothing. It's now your go, what are you doing?",
+    "rules": [
+      "Combat > The Order of Combat"
+    ],
+    "rules_explanation": "Take some actions."
+  },
+  {
+    "question": "Did I mention something",
+    "answer": "With a natural one, it does not. It's (straining) and it just gives up. It's just awaiting the eventual end.",
+    "rules": [
+      "Combat > Making an Attack > Rolling 1 or 20"
+    ],
+    "rules_explanation": "The attack attempt."
+  },
+  {
+    "question": "She's looking so. You're both looking pretty good, actually.",
+    "answer": "So, after you're going for you, too.",
+    "rules": [
+      "Player’s Handbook > Combat > Making An Attack > Rolling 1 or 20"
+    ],
+    "rules_explanation": "You can still make a critical and you have to make a roll for"
+  },
+  {
+    "question": "Oh yeah, the are",
+    "answer": "Okay, so, you can see, is sitting there, finishes wiping off the lip and uncorks this bottle of a dark brown liquor and pours a glass in front of him, pours it in front of you, sets it down, corks it again.",
+    "rules": [
+      "Player’s Handbook > Spellcasting > Components"
+    ],
+    "rules_explanation": "What do you think that would be a good that thing"
+  },
+  {
+    "question": "What are you doing here, at one of the ",
+    "answer": "Don't make it a thing.",
+    "rules": [
+      "Player’s Handbook > Combat > Making an Attack"
+    ],
+    "rules_explanation": "This is an engagement."
+  },
+  {
+    "question": "Was this a really--",
+    "answer": "Then we're we",
+    "rules": [
+      "Player’s Handbook > Combat > Making an Attack"
+    ],
+    "rules_explanation": "After you guys stop just talking about to take the next step"
+  },
+  {
+    "question": "Is it a wisdom save for her?",
+    "answer": "That is 14.",
+    "rules": [
+      "Spells List > Spells by Class > Bard > Dissonant Whispers",
+      "Spellcasting > Spell save DC"
+    ],
+    "rules_explanation": "The DM identifies the spell saves, and looks to calculate what that equals so we need spells and spell casting ability."
+  },
+  {
+    "question": "Does it do any",
+    "answer": "No, I do not think you can. However, if they're attacked or harmed, then it goes hostile again.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "You can use it but then I can hurt, it doesn't matter to me I would just do it."
+  },
+  {
+    "question": "Oh, is he?",
+    "answer": "He will be .",
+    "rules": [
+      "Playing the Game > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "It is going to be the hard way to get it."
+  },
+  {
+    "question": "Is that so I'm still I will be",
+    "answer": "Okay, so 28 to hit. The 28 is not a bad",
+    "rules": [
+      "Player’s Handbook > The The Game > Ability Check"
+    ],
+    "rules_explanation": "28 is the number to beat."
+  },
+  {
+    "question": "To roll a d6.",
+    "answer": "Let's go.",
+    "rules": [
+      "Player’s Handbook > Combat > Making an Attack > Rolling 1 or 20"
+    ],
+    "rules_explanation": "A dice that it will be good or bad"
+  },
+  {
+    "question": "Yeah, it is. So",
+    "answer": "No.",
+    "rules": [
+      "Player’s Handbook > Combat > Making an Attack"
+    ],
+    "rules_explanation": "That if they hit with him that is all this time it will"
+  },
+  {
+    "question": "Is that what it",
+    "answer": "It's good to know.",
+    "rules": [
+      "Player’s Handbook > Combat > Making an Attack"
+    ],
+    "rules_explanation": "That is so cool so is that so cool."
+  },
+  {
+    "question": "As many",
+    "answer": "Oh no.",
+    "rules": [
+      "Player’s Handbook > Combat > Making an Attack"
+    ],
+    "rules_explanation": "You can have done if it can do so."
+  },
+  {
+    "question": "I am here. Oh god",
+    "answer": "You look to those. (Wretche)",
+    "rules": [
+      "Player’s Handbook > Condition"
+    ],
+    "rules_explanation": "The and and look through the people."
+  },
+  {
+    "question": "Can't hear, what",
+    "answer": "Make an insight check.",
+    "rules": [
+      "The Game > Using Ability Scores > Skills > Insight",
+      "The Game > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "DM calls for a check for an player skill check."
+  },
+  {
+    "question": "Should I try and send a message",
+    "answer": "Now just to",
+    "rules": [
+      "Spells List > Sending"
+    ],
+    "rules_explanation": "You what to know if I said hi."
+  },
+  {
+    "question": "He's dead, yeah?",
+    "answer": "No, as well. Okay, all right. You both",
+    "rules": [
+      "Conditions > Stable"
+    ],
+    "rules_explanation": "Those guys are so I can go to save them I will I did, what is that it, if that is it will take over. "
+  },
+  {
+    "question": "Which, what's is now the room.",
+    "answer": "He's there .",
+    "rules": [
+      "Playing the Game > Movement and Time"
+    ],
+    "rules_explanation": "Oh no , so I say right what I."
+  },
+  {
+    "question": "What were you able to do?",
+    "answer": "Right okay. For all this out what are you, you are ",
+    "rules": [
+      "Playing the Game > Multicasting"
+    ],
+    "rules_explanation": "All is happen so I'm doing and know"
+  }
+]

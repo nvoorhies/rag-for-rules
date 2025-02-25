@@ -1,0 +1,71 @@
+[
+  {
+    "question": "What type of saving throw is required to resist Calm Emotions?",
+    "answer": "A Wisdom saving throw is required to resist Calm Emotions.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Targets > Saving Throws",
+      "Part II > Turn 7 "
+    ],
+    "rules_explanation": "The game master indicated that a Calm Emotion spell was cast."
+  },
+  {
+    "question": "Does exhaustion only apply to ability checks or does it also apply to attack rolls?",
+    "answer": "Exhaustion level 1 only applies disadvantage to ability checks, not attack rolls.",
+    "rules": [
+      "Part I > Two points exhaustion"
+    ],
+    "rules_explanation": "The game master asked what effect applying an action with disadvantage should have on attack rolls. The text of the rule was consulted and states it only applies to ability checks, not attack rolls."
+  },
+  {
+    "question": "Can a huge creature be moved with Telekinesis?",
+    "answer": "The Telekinesis spell can indeed try and move a huge creature.",
+    "rules": [
+      "Spell Descriptions > Telekinesis",
+      "Part I",
+      ""
+    ],
+    "rules_explanation": "The gamemaster indicated that a huge creature could be moved"
+  },
+  {
+    "question": "Can Calm Emotions affect a giant?",
+    "answer": "The Calm Emotions spell affects humanoids, not giants.",
+    "rules": [
+      "Spell Descriptions > Calm Emotions"
+    ],
+    "rules_explanation": "Consulted the calm emotions spell to determine who it can affect"
+  },
+  {
+    "question": "Can a character guide themself with the Guidance spell?",
+    "answer": "A character can be the target of their own Guidance spell.",
+    "rules": [
+      "Spell Descriptions > Guidance"
+    ],
+    "rules_explanation": "The text of the spell 'Guidance' indicates it affects a willing creature which includes oneself."
+  },
+  {
+    "question": "To ride a beast, does it have to be of a certain size?",
+    "answer": "To ride a beast, it has to be of a certain size to carry your weight and travel faster than you would on foot.",
+    "rules": [
+      "Part II",
+      "No rule directly stated but implied by conversational context"
+    ],
+    "rules_explanation": "The gamemaster clarifies that the intention is that the riding beast has to be large enough to carry someone, and the conversation implies that the rider moves at least as fast as by foot."
+  },
+  {
+    "question": "Does the Death Ward spell have a cost?",
+    "answer": "There are no material components listed for Death Ward but it could be a house rule in the game that it costs Diamond dust.",
+    "rules": [
+      "Spell Descriptions > Death Ward",
+      "Part I"
+    ],
+    "rules_explanation": "Consulted the spell and did not find the use of material components"
+  },
+  {
+    "question": "Is the spell 'Cómmune' a 5th-level spell or a 6th-level spell?",
+    "answer": "The Commune spell is a 6th-level spell.",
+    "rules": [
+      "Spell Descriptions > Commune"
+    ],
+    "rules_explanation": "The rules description for the Commune spell was consulted to determine its level."
+  }
+]

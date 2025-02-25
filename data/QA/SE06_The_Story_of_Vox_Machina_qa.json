@@ -1,0 +1,114 @@
+[
+  {
+    "question": "If a character has a low Strength or Constitution score due to being young or old, does this affect the number of hit points they get from hit dice?",
+    "answer": "A character's age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom.",
+    "rules": [
+      "Races Racial Traits > Age"
+    ],
+    "rules_explanation": "This rule indicates that the age of a character can explain a particularly low Strength or Constitution score. However, there is no explicit information on whether this affects the number of hit points they get from hit dice."
+  },
+  {
+    "question": "What size is a dwarf character?",
+    "answer": "Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Their size is Medium.",
+    "rules": [
+      "Dwarf Dwarf Traits > Size"
+    ],
+    "rules_explanation": "The Dwarf Traits section specifies the height, weight, and size of dwarf characters. Specifically, dwarves are of Medium size."
+  },
+  {
+    "question": "If a 5th level Barbarian, not wearing heavy armor, makes the first attack on their turn and chooses to attack recklessly do they get advantage on melee weapon attack rolls using Strength during this turn and do attack rolls against them have advantage until their next turn.",
+    "answer": "When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.",
+    "rules": [
+      "Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "The Reckless Attack feature states the conditions and effects of attacking recklessly."
+  },
+  {
+    "question": "What type of armor, weapons, and tools is a bard proficient with?",
+    "answer": "Bards are proficient with light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords and three musical instruments of their choice.",
+    "rules": [
+      "Bard > Proficiencies"
+    ],
+    "rules_explanation": "The Bard > Proficiencies section specifies the proficiencies for the Bard class."
+  },
+  {
+    "question": "What is the spell save DC for cleric spells?",
+    "answer": "The Spell save DC for cleric spells is 8 + your proficiency bonus + your Wisdom modifier",
+    "rules": [
+      "Cleric > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The Spellcasting Ability rule under Spellcasting for Cleric describes how to calculate the save DC."
+  },
+  {
+    "question": "As a 2nd level druid, how many uses of Wild Shape do I have, and when do I regain expended uses?",
+    "answer": "At 2nd level, you can use your Wild Shape feature twice. You regain expended uses when you finish a short or long rest.",
+    "rules": [
+      "Druid > Wild Shape"
+    ],
+    "rules_explanation": "This rule specifies the number of uses and how those uses are regained."
+  },
+  {
+    "question": "At 1st level, how many skills does the fighter choose and from what list?",
+    "answer": "A fighter chooses two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival",
+    "rules": [
+      "Fighter > Proficiencies > Skills"
+    ],
+    "rules_explanation": "The fighter class description lists the skills a fighter chooses at 1st level."
+  },
+  {
+    "question": "What is the AC if a level 1 Monk is wearing no armor and not wielding a shield?",
+    "answer": "While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.",
+    "rules": [
+      "Monk > Unarmored Defense"
+    ],
+    "rules_explanation": "The Monk > Unarmored Defense rule provides the formula for calculating AC when not wearing armor or wielding a shield."
+  },
+  {
+    "question": "As a paladin, what fighting style options can I choose from?",
+    "answer": "The Fighting Style options for a paladin are Defense, Dueling, Great Weapon Fighting, and Protection.",
+    "rules": [
+      "Paladin > Fighting Style"
+    ],
+    "rules_explanation": "The Paladin > Fighting Style section lists the fighting style options for the paladin class."
+  },
+  {
+    "question": "If a 2nd level ranger knows the 1st-level spell 'cure wounds' and has a 1st-level and a 2nd-level spell slot available, can the ranger cast 'cure wounds' using either slot?",
+    "answer": "To cast one of these spells, you must expend a slot of the spell's level or higher. For example, if you know the 1st-level spell animal friendship and have a 1st-level and a 2nd-level spell slot available, you can cast animal friendship using either slot.",
+    "rules": [
+      "Ranger > Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "The Ranger > Spellcasting > Spell Slots rule states that you must expend a slot of the spell's level or higher to cast a spell."
+  },
+  {
+    "question": "What does expertise do for the rogue?",
+    "answer": "Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies",
+    "rules": [
+      "Rogue > Expertise"
+    ],
+    "rules_explanation": "The Rogue > Expertise rule defines the effect of expertise on skill checks."
+  },
+  {
+    "question": "How is the spell save DC for a sorcerer determined?",
+    "answer": "Spell save DC = 8 + your proficiency bonus + your Charisma modifier",
+    "rules": [
+      "Sorcerer > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The Sorcerer > Spellcasting > Spellcasting Ability rule describes how to determine the spell save DC."
+  },
+  {
+    "question": "What is the duration of the Armor of Shadows eldritch invocation?",
+    "answer": "You can cast mage armor on yourself at will, without expending a spell slot or material components.",
+    "rules": [
+      "Warlock > Eldritch Invocations > Armor of Shadows"
+    ],
+    "rules_explanation": "armor of shadows does not have a limited duration"
+  },
+  {
+    "question": "As a 1st level wizard, how many spells do I start with in my spellbook?",
+    "answer": "At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice.",
+    "rules": [
+      "Wizard > Spellcasting > Spellbook"
+    ],
+    "rules_explanation": "The Wizard > Spellcasting > Spellbook rule specifies the number of spells in the initial spellbook."
+  }
+]

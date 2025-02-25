@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What kind of a check is required for a Level 4 fighter/Level 0 Mark Hulmes to see if the female figure has any weapons?",
+    "answer": "A Perception check is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested that the level 4 Fighter make a perception check. When a character attempts an action (other than an attack) that has a chance of failure, the DM calls for an ability check. In this case, the player is trying to perceive something about a situation."
+  },
+  {
+    "question": "What kind of check is required for a Level 4 fighter/Level 0 Mark Hulmes insight into what are this person's intentions?",
+    "answer": "An insight check is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested that the level 4 Fighter make an insight check. When a character attempts an action (other than an attack) that has a chance of failure, the DM calls for an ability check. In this case, the player is trying to gain insight about someone."
+  },
+  {
+    "question": "For the level 4 fighter/level 0 Mark Hulmes and 6th-level monk character Beau to keep track of what is ahead while traveling in the swamp, what kind of check is required?",
+    "answer": "A survival check is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested that both the level 4 Fighter/level 0 Mark Hulmes and 6th-level monk character Beau make a survival check. When a character attempts an action (other than an attack) that has a chance of failure, the DM calls for an ability check. In this case, the players are trying to keep track of their surroundings while traveling."
+  },
+  {
+    "question": "For the Level 4 fighter/Level 0 Mark Hulmes to check for anything while walking alongside the lake, what kind of check is required?",
+    "answer": "A perception check is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested that the level 4 Fighter/level 0 Mark Hulmes make a perception check. When a character attempts an action (other than an attack) that has a chance of failure, the DM calls for an ability check. In this case, the player is trying to perceive something about their surroundings."
+  },
+  {
+    "question": "If the 6th-level monk character Beau wants to stealthily sneak up to the troll to get a better look, what kind of check is required?",
+    "answer": "A stealth check is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested that the 6th-level monk character Beau make a stealth check. When a character attempts an action (other than an attack) that has a chance of failure, the DM calls for an ability check. In this case, the player is trying to sneak past the troll."
+  },
+  {
+    "question": "If the 6th-level monk character Beau wants to toss a handful of ball bearings behind the troll without the troll noticing, what kind of check is required?",
+    "answer": "A sleight of hand check is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested that the 6th-level monk character Beau make a sleight of hand check. When a character attempts an action (other than an attack) that has a chance of failure, the DM calls for an ability check. In this case, the player is trying to secretly toss the ball bearings."
+  },
+  {
+    "question": "If the 6th-level monk character Beau wants to stealth back to the group, what kind of check is required?",
+    "answer": "A stealth check is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested that the 6th-level monk character Beau make a stealth check. When a character attempts an action (other than an attack) that has a chance of failure, the DM calls for an ability check. In this case, the player is trying to sneak back to the group."
+  },
+  {
+    "question": "If other of the player characters attempt to travel stealthily forward to create a flanking situation, what kind of check is required?",
+    "answer": "A stealth check is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested that the player characters make a stealth check. When a character attempts an action (other than an attack) that has a chance of failure, the DM calls for an ability check. In this case, the players are trying to flank the troll."
+  },
+  {
+    "question": "When the 6th-level cleric character Jester uses invoke duplicity to create an illusory duplicate, does that character need to make a deception check?",
+    "answer": "No, a deception check is not required.",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The spell rules do not call for a Deception check."
+  },
+  {
+    "question": "What kind of check is required for characters to see if they notice any sign of the troll after the party uses an illusory duplicate to distract it?",
+    "answer": "A perception check is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested that the characters make a perception check. When a character attempts an action (other than an attack) that has a chance of failure, the DM calls for an ability check. In this case, the player is trying to perceive something about their surroundings."
+  },
+  {
+    "question": "When trying to find the next dagger in the tree, what kind of check is required?",
+    "answer": "A perception check is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested that the player characters make a perception check. When a character attempts an action (other than an attack) that has a chance of failure, the DM calls for an ability check. In this case, the players are trying to perceive something about their surroundings."
+  },
+  {
+    "question": "If the 6th-level monk character Beau tries to reach out to grab the guide as he's about to step into the burst of pollen, what kind of check is required?",
+    "answer": "An athletics check is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested that the 6th-level monk character Beau make an athletics check. When a character attempts an action (other than an attack) that has a chance of failure, the DM calls for an ability check. In this case, the player is trying to grab the guide."
+  },
+  {
+    "question": "What type of check is required for the 5th-level wizard character Caleb to determine if an item is magical?",
+    "answer": "No check is required if the *identify* spell is used.",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The identify spell automatically reveals if an item is magical."
+  },
+  {
+    "question": "What type of check is required to determine what kind of wounds are on the halfling woman who is stapled to a tree?",
+    "answer": "A medicine check is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested that the player characters make a medicine check. When a character attempts an action (other than an attack) that has a chance of failure, the DM calls for an ability check. In this case, the player is trying to perceive something about an injured person."
+  },
+  {
+    "question": "If a character reaches down to touch the dodecahedron, what kind of a test do they have to make?",
+    "answer": "No check is required.",
+    "rules": [
+      "Items > Activating an Item"
+    ],
+    "rules_explanation": "Touching an item is an interaction."
+  },
+  {
+    "question": "If a barbed devil is grappling a character at the start of the barbed devil's turn, how much piercing damage does the creature take?",
+    "answer": "The creature takes 5 piercing damage.",
+    "rules": [
+      "Monsters > Special Traits > Barbed Hide"
+    ],
+    "rules_explanation": "The barbed devil's barbed hide trait states that a creature that it is grappling at the start of each of its turns takes 5 (1d10) piercing damage."
+  }
+]

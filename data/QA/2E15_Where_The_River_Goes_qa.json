@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Can the level 4 Jester, a Cleric, use her action to move the boat?",
+    "answer": "Yes, you can move the boat, make a strength check please.",
+    "rules": [
+      "Combat > Actions > Other Activity on Your Turn",
+      "Using Ability Scores > Ability Checks > How to make an Ability Check"
+    ],
+    "rules_explanation": "In general moving the boat is an action that requires a Strength check"
+  },
+  {
+    "question": "If level 4 Yasha, a Barbarian, tries to maneuver in the river with the boat, what kind of skill check should level 1 Caleb, a Wizard, have Matt roll for the Dancing Lights he has conjured?",
+    "answer": "Make a Strength check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > How to make an Ability Check"
+    ],
+    "rules_explanation": "There is no discussion of the lights beyond using them as light source. The use of an oar to steer a boat requires strength"
+  },
+  {
+    "question": "Level 3 Nott, a Rogue, will disarm the trap. Does she add her proficiency bonus and Dexterity modifier to the roll?",
+    "answer": "Okay, go ahead and make a thieves' tools check, which is your proficiency bonus plus dexterity modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Equipment > Tools > Thieves Tools"
+    ],
+    "rules_explanation": "A character with proficiency in Thieves' Tools makes a Dexterity based ability check and adds their proficiency bonus."
+  },
+  {
+    "question": "Level 4 Beau, a Monk, wants to check for recognition of any of the symbols painted on the dome. She can't determine her training in Arcana. However, she can use her mystical erudition to spend a ki point. Does that give her advantage on the roll?",
+    "answer": "If you spend a ki point, yes you do.",
+    "rules": [],
+    "rules_explanation": "The usage of the Ki point grants advantage."
+  },
+  {
+    "question": "If a level 4 character is not trained in Arcana, what is required to make an arcana check to identify symbols and lore?",
+    "answer": "Well, as you look up. First off, as Yasha holds the torch up so you can see the symbols...you are welcome to do so.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > How to make an Ability Check"
+    ],
+    "rules_explanation": "A check is allowed, but no proficiency bonus would apply."
+  },
+  {
+    "question": "If level 4 Nott, a Rogue, makes an attack with disadvantage, but has the Crossbow Expert feat, does she have disadvantage on that shot?",
+    "answer": "Oh that's right, because you got a feat for it. So you would not have disadvantage on that.",
+    "rules": [],
+    "rules_explanation": "The feat negates the disadvantage."
+  },
+  {
+    "question": "Level 4 Yasha, a Barbarian, used her action to create the Light cantrip. Ashley asks: Okay, I don't know if I can still do this as a bonus action. Can I try to slowly move us a little forward?",
+    "answer": "Well, that's an action to do that, technically, so you couldn't. You used your action to do the Light cantrip, unfortunately.",
+    "rules": [
+      "Combat > Your Turn > Actions"
+    ],
+    "rules_explanation": "Taking an action prevents a character from also taking an action that turn."
+  }
+]

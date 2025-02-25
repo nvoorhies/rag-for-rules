@@ -1,0 +1,68 @@
+[
+  {
+    "question": "The Level 4, Charisma 17 (+3) Jester cast Disguise Self. What roll is required?",
+    "answer": "A persuasion check is required.",
+    "rules": [
+      "Spells > Disguise Self"
+    ],
+    "rules_explanation": "Jester roleplays that she says they want to see the ruby of the sea.  The DM has to then decide if the guards believe them, and thus has Jester make a persuasion check."
+  },
+  {
+    "question": "The Level 4, Charisma 17 (+3) Jester cast Disguise Self. What roll is required?",
+    "answer": "A deception check is required.",
+    "rules": [
+      "Spells > Disguise Self"
+    ],
+    "rules_explanation": "Jester roleplays that she says they are a theater critic. The DM has to then decide if the guards believe them, and thus has Jester make a deception check."
+  },
+  {
+    "question": "The Level 5, Dexterity 18 (+4) Fjord asks if he can use Misty Step to appear right next to Caleb in the water and scare him. Is this rules legal?",
+    "answer": "Yes, Misty Step is a Conjuration spell, with a Casting Time of 1 bonus action, and a range of 30 feet, and can allow him to appear next to Caleb if Caleb is within 30 feet of Fjord.",
+    "rules": [
+      "Spells > Misty Step"
+    ],
+    "rules_explanation": "The DM assesses if the rules allow Fjord's desired action by looking up the properties of Misty Step."
+  },
+  {
+    "question": "Nott the Brave, who has Dexterity 11 (+0), is trying to grab a sand crab and rolls an 11 dexterity check. Does Nott manage to capture the crab, which is rolling an 11 dexterity check as well?",
+    "answer": "Nott manages to just capture it.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Contests"
+    ],
+    "rules_explanation": "This is a contest between Nott and the crab's dexterity checks. In the case of a tie, the situation remains the same as it was before the contest, so Nott manages to just capture it."
+  },
+  {
+    "question": "A level 4 character attempts to train Nugget to blink back to them. What check is required?",
+    "answer": "An Animal Handling check is required.",
+    "rules": [],
+    "rules_explanation": "Teaching an animal a trick requires an animal handling check"
+  },
+  {
+    "question": "A level 5 character wants to train Professor Thaddeus to come when they hold out their arm. What check is required?",
+    "answer": "An Animal Handling check is required.",
+    "rules": [],
+    "rules_explanation": "Teaching an animal a trick requires an animal handling check"
+  },
+  {
+    "question": "A level 4 character asks if she can borrow a cloak, because she can technically spend higher spell slots to cast a lower level spell.",
+    "answer": "Yes, this is a legal rules interpretation.",
+    "rules": [],
+    "rules_explanation": "The NPC tells her 'You can technically spend higher spell slots to cast a lower level spell.'"
+  },
+  {
+    "question": "An NPC asks the Level 4 Jester for money to board the animals and take care of the cart. If Jester gives her five gold, is this correct in-game?",
+    "answer": "The DM cannot tell if this amount is correct without other information.",
+    "rules": [
+      "Equipment > Services"
+    ],
+    "rules_explanation": "The DM does not have enough information to adjudicate. 'He doesn't say. How much do you give him?'"
+  },
+  {
+    "question": "Caleb has a base walking speed of 30 feet, so what would his speed be if Heavily Encumbered.",
+    "answer": "His speed would be 10 feet.",
+    "rules": [
+      "Using Ability Scores > Lifting and Carrying > Variant: Encumbrance"
+    ],
+    "rules_explanation": "If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead heavily encumbered, which means your speed drops by 20 feet."
+  }
+]

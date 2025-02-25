@@ -1,0 +1,188 @@
+[
+  {
+    "question": "Can a Level 1 Jester, who is a Cleric/Bard, use a roll of 11 + her modifier of 1 for a total of 12 on a History check to recall if she has heard any ghost stories?",
+    "answer": "The DM has determined that a check of 12 is not sufficient to recall a history fact.",
+    "rules": [
+      "Ability Checks > Skills"
+    ],
+    "rules_explanation": "The character is proficient in the History skill.  The description of Ability Checks > Skills states that the GM sets the DC for each task.  The GM has determined that this Jester's roll of 12 did not meet that DC."
+  },
+  {
+    "question": "If Water Walk is cast on someone, can they choose to swim, 1st-level Caleb is asked?",
+    "answer": "The answer is not contained in the SRD, therefore cannot be unambiguously answered.",
+    "rules": [],
+    "rules_explanation": "There is no section of the SRD which covers this situation"
+  },
+  {
+    "question": "For Divine Intervention, How does it work for a Level 12 Cleric/Bard? What does Jester, a level 12 Cleric/Bard, roll? What number is she trying to roll under?",
+    "answer": "To use Divine Intervention, roll percentile dice. The target number to succeed is equal to or less than the cleric's level, which is 12.",
+    "rules": [
+      "Cleric > Divine Intervention"
+    ],
+    "rules_explanation": "The question references level 12 which is the cleric level and it applies to divine intervention. The roll is percentile and requires a roll result equal or lower than the appropriate level for the question to succeed."
+  },
+  {
+    "question": "If the water moves around an object due to a spell effect, such as Whirlpool, does that inflict bludgeoning damage on the object, as asked by Level 10 Caduceus?",
+    "answer": "This question cannot be answered. The answer depends on the effect in question. The Whirlpool spell does 3d8 bludgeoning damage to creatures that fail a strength save when it is initially cast.",
+    "rules": [
+      "Spells > Level Descriptions"
+    ],
+    "rules_explanation": "Level of the character is not important for the description of the operation of the damage mechanics of this spell. Whirlpool specifically calls for a strength save, and the spell does not apply bludgeoning damage to an object without reference to the Strength save of a creature."
+  },
+  {
+    "question": "Does a Whirlpool spell require a strength saving throw from a creature it targets, or a strength check to escape, as asked by Level 10 Caduceus?",
+    "answer": "The target must succeed on a Strength saving throw, or be unable to move away from the whirlpool.",
+    "rules": [
+      "Spells > Level Descriptions"
+    ],
+    "rules_explanation": "The description of the whirlpool spell indicates that the target needs to make a Strength saving throw."
+  },
+  {
+    "question": "If an object takes bludgeoning damage from a Whirlpool spell, is there a check to avoid it?",
+    "answer": "No, the spell description contains no saving throw for objects.",
+    "rules": [
+      "Spellcasting > Areas of Effect",
+      "Spells > Level Descriptions"
+    ],
+    "rules_explanation": "The rule is that the SRD description is complete and therefore must describe such a saving throw, and if it does not, no such check is required."
+  },
+  {
+    "question": "For the ship's initiative roll, what modifiers are added to the ship's dexterity modifier?",
+    "answer": "Add the ship's crew quality bonus.",
+    "rules": [
+      "Appendices > Ships And Sea Travel"
+    ],
+    "rules_explanation": "The SRD text references the ship's dexterity and then indicates that additional modifiers are to be added but does not specify how the character should determine if other modifiers apply or what they might be."
+  },
+  {
+    "question": "If a ship has a dexterity modifier of negative three, and a crew quality bonus of five, what is the total modifier?",
+    "answer": "The total modifier is two.",
+    "rules": [],
+    "rules_explanation": "-3 + 5 = 2"
+  },
+  {
+    "question": "If a party uses the Fire at Will tactic on a ship, does it grant advantage on the next attack roll?",
+    "answer": "Yes.",
+    "rules": [
+      "Appendices > Ships And Sea Travel > Crew Actions"
+    ],
+    "rules_explanation": "The description of the Fire at Will crew action explicitly states that it grants advantage on the next attack roll."
+  },
+  {
+    "question": "If a ship is within cannon range of a target, but the target is 10 feet under the surface of the water, does the cannon fire have disadvantage on the attack roll?",
+    "answer": "Yes, the attack has disadvantage due to the target being underwater.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "It is assumed that being underwater makes the target not seen, this imposing disadvantage on the attack roll."
+  },
+  {
+    "question": "If an attack has both advantage from Guiding Bolt and disadvantage from being underwater, what is the result on the attack roll?",
+    "answer": "Advantage and disadvantage cancel each other out, resulting in a straight roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules explicitly state what happens when a roll has both advantage and disadvantage."
+  },
+  {
+    "question": "If a hostile creature disappears beneath the surface of the water so that they can not be seen, can a party member cast a Guiding Bolt spell on the creature, and grant advantage to the next attack roll against it?",
+    "answer": "Yes.",
+    "rules": [
+      "Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "There is nothing to stop the spell from being cast at an unseen target, provided that the target is in range and the caster has line of effect. This grants advantage on the next attack."
+  },
+  {
+    "question": "If a whirlpool spell is cast on a creature, and it moves 80 feet out of the 75-foot range of the whirlpool spell, is the creature no longer in range of it, as asked by Level 10 Caduceus?",
+    "answer": "Yes.",
+    "rules": [
+      "Spells > Range"
+    ],
+    "rules_explanation": "If a target leaves the range of a spell, that spell no longer affects them. A whirlpool is 50 feet square so the diameter is 75 feet. If a creature moves 80 feet away from it, they are no longer in range."
+  },
+  {
+    "question": "Can a character use Redirect Flow to make the boat move faster, as asked by Level 10 Caduceus?",
+    "answer": "It depends on whether the conditions for using Redirect Flow are met.",
+    "rules": [
+      "Spells > Level Descriptions > Control Water"
+    ],
+    "rules_explanation": "Control Water has a subset ability called Redirect Flow which allows the caster to cause the water to move to speed the boat up."
+  },
+  {
+    "question": "Can a character who has fired a cannon as an action for a turn also cast a spell, as asked by Veth?",
+    "answer": "No.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "Each character has one action per turn and firing a cannon and casting a spell both use an action."
+  },
+  {
+    "question": "Does a saving throw to escape a Whirlpool occur if the affected creature starts its turn in the whirlpool or only if the spell is initially cast on them, according to Level 10 Caduceus?",
+    "answer": "A creature that starts its turn in the whirlpool's area must make a Strength saving throw.",
+    "rules": [
+      "Spells > Level Descriptions > Control Water"
+    ],
+    "rules_explanation": "The spell description says that 'When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength saving throw.' and does not distinguish the save for initial entry versus starting a turn there. Because this is a spell with concentration, it affects those who are caught within it."
+  },
+  {
+    "question": "What does Guiding Bolt do, as asked by Ashley?",
+    "answer": "The next attack roll made against the target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.",
+    "rules": [
+      "Spells > Level Descriptions > Guiding Bolt"
+    ],
+    "rules_explanation": "According to the spell description, if the attack hits, the next attack has advantage."
+  },
+  {
+    "question": "Is a dragon turtle an animal that is targeted by a Command spell, as questioned by Level 10 Caduceus?",
+    "answer": "No. The Command spell affects creatures but not monsters, dragons, or turtles. If the target can not understand you, the spell has no effect.",
+    "rules": [
+      "Spells > Level Descriptions > Command"
+    ],
+    "rules_explanation": "The conditions for the Command spell are specific, it has to be a creature, must be able to understand the character, and can not be directly harmful to the creature. Since a dragon turtle is a turtle and a dragon, which are both monsters it is not a valid target for the Command spell."
+  },
+  {
+    "question": "How close does a character have to be to use the spell Banishment, as questioned by Jester?",
+    "answer": "The range of the Banishment spell is 60 feet.",
+    "rules": [
+      "Spell > Level Descriptions > Banishment"
+    ],
+    "rules_explanation": "The spell description of Banishment provides the range."
+  },
+  {
+    "question": "If a character attempts to cast two concentration spells, one after the other, and the second casting fails, does concentration hold from the previous spell, as asked by Laura?",
+    "answer": "No, concentration drops.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The act of casting another spell is enough to break concentration."
+  },
+  {
+    "question": "Does a character have to damage a polymorphed creature to change it back, as questioned by Caduceus?",
+    "answer": "No. The polymorph effect ends early if the target drops to 0 hit points or dies. The caster can end the spell with an action.",
+    "rules": [
+      "Spellcasting > Duration > Concentration",
+      "Spells > Level Descriptions > Polymorph"
+    ],
+    "rules_explanation": "The spell lists several conditions under which the spell ends, not just by damage."
+  },
+  {
+    "question": "What is the speed of ship with the wind?",
+    "answer": "It is not defined by a fixed value.",
+    "rules": [],
+    "rules_explanation": "There is no set speed for a ship with wind in the SRD."
+  },
+  {
+    "question": "In general, it's, like, ship combat goes back and forth between things, but because we have casters on board, what do you guys want to do?",
+    "answer": "There is no rule.",
+    "rules": [],
+    "rules_explanation": "There is no such rule in the SRD for ship combat and spell casting."
+  },
+  {
+    "question": "What level caster do you need to be to cast Locate Creature?",
+    "answer": "The level is not mentioned in the spell description.",
+    "rules": [
+      "Spell > Level Descriptions > Locate Creature"
+    ],
+    "rules_explanation": "The spell description for Locate Creature does not mention caster level"
+  }
+]

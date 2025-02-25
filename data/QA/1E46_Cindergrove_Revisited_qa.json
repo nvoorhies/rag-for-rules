@@ -1,0 +1,169 @@
+[
+  {
+    "question": "The level 5 ranger with hunter's mark the big one, and there is a blue-skinned dragonborn with the party who is a wizard and necromancer named Gern Blanston with several undead friends and pets, is this a legal move?",
+    "answer": "The description of the *hunter's mark* spell does not specify that the target must be within line of sight, or that they must be on the same plane of existence. So yes, this is a legal move.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Targets > A Clear Path to the Target",
+      "Spell Descriptions > Hunter's Mark"
+    ],
+    "rules_explanation:": "Provided that the dragonborn met all the other requirements and there was not total cover the casting would be legal. "
+  },
+  {
+    "question": "The blue-skinned dragonborn wizard and necromancer Gern Blanston, can he cast a spell to influence the fire genie, where the cone is between Gern and fatty but the target is on the other side of fatty?",
+    "answer": "It is not possible to answer this question as there are no range of effect properties of the Cone of Cold spell have been given.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range"
+    ],
+    "rules_explanation:": "Because the size of the cone and the distance is not known the legality is not determined. For the effect to work the target must be within the cone of effect but not on the originating side."
+  },
+  {
+    "question": "A level 5 ranger with hunter's mark the big one again. Is that person close by?",
+    "answer": "It is not possible to answer this question as there is not a map or other distance indicator included in the context to answer where the creature is in relation to other creatures.",
+    "rules": [],
+    "rules_explanation:": "Distance is a function of positioning on the map, it can not be implied based on the character level or anything else. You have to know the placement of the units."
+  },
+  {
+    "question": "The blue-skinned dragonborn wizard and necromancer Gern Blanston who is now on top of Otiluke's Resilient Sphere, is there any rule against attacking the creature with the sphere before the spell expires?",
+    "answer": "Because the properties of sphere, you can only throw spells or ranged objects at the item but they have not effect and no effects that permit attacks inside the ball are given.",
+    "rules": [],
+    "rules_explanation:": "If there are actions against the ball it should be written in the object description. It seems like the sphere is inviolable. This means that a creature can not make attacks against the content while its inside."
+  },
+  {
+    "question": "The level 5 ranger has already used Lightning Arrow but had previously Hunter's Marked that creature. Is that possible?",
+    "answer": "It is possible to have cast both spells in series. However, both spells require concentration and you can not be concentrating on two spells at once.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation:": "Both spells could have been used, however, because both require concentration after casting Lightning Arrow the ranger would no longer be concentrating on Hunter's Mark."
+  },
+  {
+    "question": "Can the group of the dragonborn wizard and necromancer named Gern Blanston attack and damage and hit and affect the orb, and then effect the creature? What effect would they have?",
+    "answer": "According to the spell, you can not throw spells or range objects, at the orb but they have no effect. No effects that permit attacks inside the ball are given. Therefore, the sphere is completely unaffected by any attacks.",
+    "rules": [],
+    "rules_explanation:": "The sphere is inviolable. This means that a creature can not make attacks against the content while its inside."
+  },
+  {
+    "question": "Since the efreeti's turn is ending, can the level 5 gnome bard Scanlan drop concentration of Otiluke's Resilient Sphere since it does not seem to be doing anything?",
+    "answer": "Yes, Scanlan can drop concentration on the sphere as concentration can be dropped at any time without using an action.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation:": "As long as the bard is conscious and still has the ability to use actions the turn order has no impact on when concentration can be dropped."
+  },
+  {
+    "question": "A fire elemental, burning in the same space and turn, does that cause half fire damage for the level 6 fighter?",
+    "answer": "That is outside the scope of the information given but based on the type of check the dragonborn might need to make, the fire elemental's presence should have no impact.",
+    "rules": [],
+    "rules_explanation:": "This questions seeks more info about a different skill or roll, it can't be answered since the skill is not mentioned."
+  },
+  {
+    "question": "A blue dragonborn has lightning resistance. Would that help in the area?",
+    "answer": "Yes, any dragonborn with lightning resistance would take half damage from sources of lightning damage.",
+    "rules": [
+      "Races > Dragonborn > Draconic Ancestry > Damage Resistance"
+    ],
+    "rules_explanation:": "The @DM confirms this by saying if that it was lightning he would be fine. He does not say he is. No, if you are hit with lightning damage, having lightning resistance halves the lightning damage you take"
+  },
+  {
+    "question": "Can the rogue Laura use a Stealth check to hide?",
+    "answer": "Yes, taking a Hide action requires a Stealth check.",
+    "rules": [
+      "Combat > Actions in Combat > Hide",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation:": "The Rogue is at initiative 13, and they have yet to take any actions, the conditions have been met so they roll a stealth check."
+  },
+  {
+    "question": "Can the blue-skinned dragonborn Gern ask them if he can cast a spell?",
+    "answer": "Yes, there is nothing preventing Gern from asking the other player characters a question.",
+    "rules": [],
+    "rules_explanation:": "This is not a rules question"
+  },
+  {
+    "question": "If he did cast Cone of Cold on them all, what would the DC be?",
+    "answer": "The spell save DC is 16.",
+    "rules": [],
+    "rules_explanation:": "The DC for this Dragonborn NPC has already been declared"
+  },
+  {
+    "question": "Is Vex stealthed?",
+    "answer": "You can roll a stealth check. A hide action is a hide action.",
+    "rules": [
+      "Combat > Actions in Combat > Hide",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation:": "The DM calls for a Stealth check"
+  },
+  {
+    "question": "Does the skirmisher stealth allow a bonus action dexterity stealth check to hide again?",
+    "answer": "It is not possible to determine if the ranger has skirmisher stealth without more information about that skill.",
+    "rules": [],
+    "rules_explanation:": "There is not enough information about the ability to grant a judgement on its rules or operation"
+  },
+  {
+    "question": "If one did this, how much damage are the dragonborn scale and chest absorbing and the damage to dragonborn Gern Blanston?",
+    "answer": "If the attack was lightning it would be fine. But no because dragonborn blue doesn't have natural fire resistance.",
+    "rules": [
+      "Races > Dragonborn > Draconic Ancestry > Damage Resistance"
+    ],
+    "rules_explanation:": "Gern's player states that he is fine with lightning, but that fire is doing damage, implying that he does not have fire resistance, so would not be able to naturally absorb it."
+  },
+  {
+    "question": "Since, because of the current situation, he is now prone from the fall, how is prone affecting the next combat turn for gern?",
+    "answer": "Standing up takes more effort; doing so costs an amount of movement equal to half your speed.",
+    "rules": [
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation:": "With a speed of 30 feet that is 15 feet of movement spent to stand up."
+  },
+  {
+    "question": "If lightning is ineffective vs Keyleth in her current form and there are now new baddie fire elementals, what damage could they do to Keyleth and does it work?",
+    "answer": "The creature would be described as an elemental. The effects of the transform Wild Shape was used on an edge and what forms it has on a map are necessary",
+    "rules": [],
+    "rules_explanation:": "Additional data is required about the fire elemental."
+  },
+  {
+    "question": "Given the use of lava control in this, they are still elementals, go ahead and make a persuasion check. No, intimidate, this would be intimidate.",
+    "answer": "The DM calls for an Intimidation check",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation:": "Explicit call by the DM for an ability check of a specific type"
+  },
+  {
+    "question": "Percy, at the top of the round, you take nine points of fire damage, down to four, because you are also engulfed in flame, as is Scanlan for having passed over the space there.",
+    "answer": "Because of resistance to fire damage, you would take half the original amount which would be 4, that's a saving throw check to make sure it holds.",
+    "rules": [
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation:": "With resistance to fire damage the 9 points of fire damage is halved (rounded down to 4)"
+  },
+  {
+    "question": "At that point, as you're all just walking along, your new blue dragonborn friend just reaches down and snatches something from the dirt, pockets it and keeps walking, do I need to make a perception check to see this?",
+    "answer": "Vex, make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation:": "The DM called for a perception check in this specific instance."
+  },
+  {
+    "question": "There was that other team, can I see my other tribemates that are on this other team?",
+    "answer": "Make a perception check",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation:": "DM calls for a Perception check"
+  },
+  {
+    "question": "You're at the portal so am I a part of the people who could be included in the ritual too?",
+    "answer": "Yeah. Oh yeah.",
+    "rules": [],
+    "rules_explanation:": "The DM has authorized this action"
+  },
+  {
+    "question": "To find an orb, should the DM have a proficiency with an arcana check?",
+    "answer": "For people who are proficient with it.",
+    "rules": [],
+    "rules_explanation:": "To be able to perform an arcana check, you need to have proficiency."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Have we ever had a supreme healing potion with 20d4?",
+    "answer": "No, the SRD indicates there is healing potion called a Supreme Healing Potion, and the effects heal for a fixed amount that is not 20d4 hit points. You roll 8d4 for a superior potion, but that is the maximum listed.",
+    "rules": [
+      "Equipment > Adventuring Gear > Potions of Healing"
+    ],
+    "rules_explanation": "The rules for potions were checked in the equipment section of the SRD and there is no potion that has a '20d4' description or name. Therefore, it has never been used in the game."
+  },
+  {
+    "question": "Does Keyleth's level 14 feature say that we have to give the pegasus to somebody specific, or does it say that, if you're at the opening of the Critmas presents, and you really like the pink pegasus, you can have it?",
+    "answer": "Level 14 druid features are a class features that are selected when the player's character gains that level; a present and a personal gift is not an application of these rules.",
+    "rules": [
+      "Druid > Class Features > Druid Circle > Druid Circle Feature"
+    ],
+    "rules_explanation": "Druid abilities at various levels must be earned through experience points. A gift does not apply the rules."
+  }
+]

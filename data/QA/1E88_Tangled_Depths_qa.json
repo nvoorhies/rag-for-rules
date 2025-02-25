@@ -1,0 +1,405 @@
+[
+  {
+    "question": "Does Alter Self give a level 11 Keyleth [Druid] a swim speed of their normal walking speed?",
+    "answer": "Yes, the Alter Self spell gives the target a swim speed equal to their walking speed and the ability to breathe underwater.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Alter Self"
+    ],
+    "rules_explanation": "The description of the Alter Self spells states that the target gains a swimming speed equal to their walking speed."
+  },
+  {
+    "question": "Does a longbow have disadvantage on ranged attacks underwater?",
+    "answer": "Yes, most ranged attacks have disadvantage underwater.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks"
+    ],
+    "rules_explanation": "The ranged attack rules state that most ranged attacks have disadvantage underwater."
+  },
+  {
+    "question": "What is the first range increment of a longbow?",
+    "answer": "The first range increment for a longbow is 150 feet.",
+    "rules": [
+      "Equipment > Weapons"
+    ],
+    "rules_explanation": "The equipment section describes the properties for a longbow, the first range increment is 150 feet and the second range increment is 600 feet."
+  },
+  {
+    "question": "Do melee attacks have disadvantage underwater?",
+    "answer": "Yes, melee attacks are at disadvantage underwater.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks"
+    ],
+    "rules_explanation": "The melee attack rules state that most melee attacks are at disadvantage underwater."
+  },
+  {
+    "question": "If a level 16 druid casts Animal Shapes, does equipment meld into the new form?",
+    "answer": "Yes, when you cast Animal Shapes, the target's gear melds into the new form.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Animal Shapes"
+    ],
+    "rules_explanation": "The rules state that the target's gear melds into the new form, the target can't activate, wield or benefit from it."
+  },
+  {
+    "question": "If an attack is made in the water, what happens to my Boots of Feral Leaping?",
+    "answer": "The Boots of Feral Leaping are not useful in water.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The description of Boot of Feral Leaping are not useful underwater"
+  },
+  {
+    "question": "Does Water Breathing allow you to talk underwater?",
+    "answer": "No, Water Breathing does not allow you to talk underwater.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Water Breathing"
+    ],
+    "rules_explanation": "The decription of the Water Breathing spell does not grant the ability to speak underwater, only to breathe underwater."
+  },
+  {
+    "question": "When taking the Animal Shapes, are you able to benefit from your equipment?",
+    "answer": "No, when taking the Animal Shapes, the target can't activate, wield, or otherwise benefit from any of its equipment.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Animal Shapes"
+    ],
+    "rules_explanation": "The rules state the target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment."
+  },
+  {
+    "question": "How do I determine the number of hit points a killer whale has?",
+    "answer": "A killer whale has 90 hit points.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A killer whale is a beast with a specific stat block."
+  },
+  {
+    "question": "Is the spell Pass Without A Trace a concentration spell?",
+    "answer": "Yes, the Pass Without a Trace spell requires concentration.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The duration entry of the Pass Without A Trace spells states that the caster has to concentrate to maintain the spells effects."
+  },
+  {
+    "question": "What is the visibility in the Water Elemental Plane?",
+    "answer": "The typical visibility is murky in the water elemental plane.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The world of the Water Elemental Plane has murky visibility."
+  },
+  {
+    "question": "Can a level 16 druid provide assistance casting the Locate Object spell?",
+    "answer": "No, the Locate Object spell does not allow for assistance.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Locate Object"
+    ],
+    "rules_explanation": "Locate object is self cast range."
+  },
+  {
+    "question": "Can Doty be teleported?",
+    "answer": "Yes, Doty can be teleported.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Doty is a construct."
+  },
+  {
+    "question": "As of level 16, how many second level spell slots does a druid have?",
+    "answer": "A level 16 druid has 3 second level spell slots",
+    "rules": [
+      "Classes > Druid > The Druid"
+    ],
+    "rules_explanation": "The Druid table shows that a level 16 druid has three 2nd-level spell slots."
+  },
+  {
+    "question": "As of level 16, how many third level spell slots does a druid have?",
+    "answer": "A level 16 druid has 3 third level spell slots",
+    "rules": [
+      "Classes > Druid > The Druid"
+    ],
+    "rules_explanation": "The Druid table shows that a level 16 druid has three 3rd-level spell slots."
+  },
+  {
+    "question": "Does the bardic inspiration d4 still apply when Grog [Barbarian] is swallowed by the Kraken?",
+    "answer": "Yes, the bless spell is a bonus to any attack rolls or saving throws that the players are going to make. The location of the player does not effect this rule.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Bless spell bestows an attack bonus or saving throw on a character."
+  },
+  {
+    "question": "Can a level 16 druid assist with a Locate Object spell?",
+    "answer": "No, the spell description for Locate Object does not include a method for another party member to contribute to the casting.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Locate Object",
+      "Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "The spell is an action and requires concentration so it cannot receive assistance from other players. "
+  },
+  {
+    "question": "Does the armor worn by a character affect the speed of altered form with a spell?",
+    "answer": "No. Spells such as Alter Self that change a character's form list what statistics are affected, and armor is not mentioned.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The armour of a character is not changed unless stated."
+  },
+  {
+    "question": "If damage reduces someone to 0 hit points, is it possible to apply a power so that the person has hit points but is unable to do anything?",
+    "answer": "No. Abilities that allow a character to continue fighting when reduced to 0 hit points (such as Relentless Rage) do not function unless the character still has at least one hit point.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points"
+    ],
+    "rules_explanation": "Unless the damage is enough to kill the creature outright, it falls unconscious. This unconsciousness ends if you regain any hit points."
+  },
+  {
+    "question": "Is there a level 1 spell from the wizard spell list that lasts 24 hours?",
+    "answer": "No, there are no 1st-level wizard spells with a duration of 24 hours.",
+    "rules": [
+      "Spellcasting > Wizard Spells",
+      "Spellcasting > Spell Descriptions"
+    ],
+    "rules_explanation": "The wizard's spell list shows which spells are available and what their parameters are."
+  },
+  {
+    "question": "Is Trinket immune to lightning damage as a bear?",
+    "answer": "No, your animal form does not provide you with your normal form's immunities.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Animal Shapes"
+    ],
+    "rules_explanation": "As a beast, Trinket, only retains his beast stats from his normal form."
+  },
+  {
+    "question": "What is a 5th-level spell that a storm giant has that could prevent them from being near a person?",
+    "answer": "The Storm Giant does not have a 5th-level spell that allows it to prevent people from being near to it. It has innate spellcasting and can cast, commune and control weather at will.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The special traits of the storm giant does not include 5th level spells."
+  },
+  {
+    "question": "If a warlock character casts hex on a creature in melee range, takes damage from that creature and uses the misty step spell to move, does it effect the Hex concentration?",
+    "answer": "No, moving as such would not cause a break in concentration.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Concentration"
+    ],
+    "rules_explanation": "Normal activity, such as moving and attacking, doesn't interfere with concentration"
+  },
+  {
+    "question": "Can a Hexblade multiclassed warlock concentrate on Hex and cast spells with bonus actions?",
+    "answer": "Yes, the Hexblade ability does not use concentration.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The description of Hexblade spells does not require concentration."
+  },
+  {
+    "question": "What is the name of the spell that can turn a character in a whale.",
+    "answer": "Animal Shapes is a spell that can turn characters into beasts. ",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Animal Shapes"
+    ],
+    "rules_explanation": "Druids can cast Animal Shapes that allows willing beast to take on different animal forms."
+  },
+  {
+    "question": "With a high roll on Stealth, should an NPC with Darkvision and high passive Perception find our party",
+    "answer": "A Stealth roll is compared to the passive Perception of any creatures that may be able to see you, a high roll indicates that the character was not found.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Passive Checks"
+    ],
+    "rules_explanation": "When a character makes a Stealth check, the result is compared to the passive Perception of any creatures who could potentially detect them."
+  },
+  {
+    "question": "When the druid casts the Locate Object spell, is it looking for similar objects?",
+    "answer": "A level 14 character using the Locate Object spell finds the direction to a specific object or a general type of object.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Locate Object"
+    ],
+    "rules_explanation": "The Locate object spell allows someone to describe or name an object and then can sense the direction of that object."
+  },
+  {
+    "question": "Does multi-classing affect a character's proficiency bonus for particular skills and actions?",
+    "answer": "No, your proficiency bonus is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class.",
+    "rules": [
+      "Multiclassing > Proficiency Bonus",
+      "Multiclassing > Class Features > Extra Attack"
+    ],
+    "rules_explanation": "The multiclassing section of the rules specifies that your proficiency bonus is based on character level not class level."
+  },
+  {
+    "question": "What happens if you cast a spell with the incorrect materiaI component?",
+    "answer": "If you can't provide one or more of a spell's components, you are unable to cast the spell.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components"
+    ],
+    "rules_explanation": "The Components section states that “if you can't provide one or more of a spell's components, you are unable to cast the spell”."
+  },
+  {
+    "question": "If a character does not make the saving roll for a charm or frighten effect, will that creature know where to run?",
+    "answer": "If a creature is frightened by the the fear spell, that creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The effect is defined by each spell description."
+  },
+  {
+    "question": "Does the metamagic Careful Spell allow Vax [Paladin] to succeed on a saving throw for the Call Lightning spell, if cast by Keyleth [Druid]",
+    "answer": "No, Careful Spell is a metamagic option for Sorcerers only.",
+    "rules": [
+      "Classes > Sorcerer > Font of Magic > Metamagic > Careful Spell"
+    ],
+    "rules_explanation": "The metamagic option Careful Spell can only be applied to sorcerer spells cast by the sorcerer."
+  },
+  {
+    "question": "Does the Deathwalker's Ward attuned to lightning give you resistance, immunity, or an additional type of damage to lightning?",
+    "answer": "The Deathwalker's Ward attunes to lightning and you have resistance. Lightning does not do any further damage.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The properties of an item is stated when the item is given."
+  },
+  {
+    "question": "How far can you shoot an arrow from a longbow",
+    "answer": "The range of a longbow is 150/600 ft.",
+    "rules": [
+      "Equipment > Weapons"
+    ],
+    "rules_explanation": "The range of weapons are listed in the chart in the equipment section of the srd5.1."
+  },
+  {
+    "question": "What is the DC for a Grapple check and Strength(Athletics) check?",
+    "answer": "There is no specific DC for grapple checks or Strength(Athletics) checks. They are checks that are compared to the opposing player.",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack > Grappling"
+    ],
+    "rules_explanation": "The grapple check is a Strength(Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use)."
+  },
+  {
+    "question": "Can a Wild Shaped druid, use their features of their normal class in their animal form?",
+    "answer": "You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Wild Shape"
+    ],
+    "rules_explanation": "This section provides details on what is available when you are taking a wild shaped form."
+  },
+  {
+    "question": "Can you cast a spell with verbal components if water is going through your throat and vocal chords",
+    "answer": "Unfortunately, because there's still water passing through your throat and vocal cords if you can't get a full breath of air, you can't cast the spell",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components > Verbal (V)"
+    ],
+    "rules_explanation": "If you have water passing through your throat and vocal chords you cannot use a verbal component to cast a spell"
+  },
+  {
+    "question": "How many second level spell slots does a druid has at level 17?",
+    "answer": "At 17th level, a druid has three 2nd-level spell slots.",
+    "rules": [
+      "Classes > Druid > The Druid"
+    ],
+    "rules_explanation": "The Druid table shows that at level 17, a druid has three 2nd level spell slots."
+  },
+  {
+    "question": "If I want to use Luck, is it used before or after the check?",
+    "answer": "You can use it after you roll the first result.",
+    "rules": [
+      "Races > Halfling > Lucky"
+    ],
+    "rules_explanation": "When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+  },
+  {
+    "question": "How long is one round in combat?",
+    "answer": "One round represents about 6 seconds in the game world.",
+    "rules": [
+      "Combat > The Order of Combat"
+    ],
+    "rules_explanation": "A round represents about 6 seconds in the game world."
+  },
+  {
+    "question": "What does the Divine Sense ability tell you?",
+    "answer": "Divine Sense tells you the type (celestial, fiend, or undead) of any being, whose presence you sense, but not its identity, as well as the presence of any place or object that has been consecrated or desecrated.",
+    "rules": [
+      "Classes > Paladin > Class Features > Divine Sense"
+    ],
+    "rules_explanation": "Using Divine Sense, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity."
+  },
+  {
+    "question": "When the dragonborn breathes their breath weapon does it use a save?",
+    "answer": "Yes, when you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry.",
+    "rules": [
+      "Races > Dragonborn > Draconic Ancestry > Breath Weapon"
+    ],
+    "rules_explanation": "When you use your breath weapon, each creature in the area of the exhalation must make a saving throw"
+  },
+  {
+    "question": "When calculating how far an elemental from a conjuration can be summoned away from its element, how far is that?",
+    "answer": "The conjured elemental appears in an unoccupied space within 10 feet of it.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Conjure Elemental"
+    ],
+    "rules_explanation": "An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 10 feet of it."
+  },
+  {
+    "question": "Is the Speak with Animals spell a concentration spell?",
+    "answer": "Yes, it's concentration up to ten minutes.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The range stat depends on the spell."
+  },
+  {
+    "question": "What's the damage for a large creature taking falling damage",
+    "answer": "At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6.",
+    "rules": [
+      "The Environment > Falling"
+    ],
+    "rules_explanation": "Damage for falling."
+  },
+  {
+    "question": "If the group were to find an extra stone, what can it be sold for?",
+    "answer": "As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market.",
+    "rules": [
+      "Equipment > Selling Treasure > Arms, Armor, and Other Equipment"
+    ],
+    "rules_explanation": "Items sold usually can obtain half the cost when sold to a seller."
+  },
+  {
+    "question": "When a monster is going through an area, does it take the damage once or every time?",
+    "answer": "Damage for an area effect is dealt with at the start or end of the turn.",
+    "rules": [
+      "Spellcasting > Spell Descriptions"
+    ],
+    "rules_explanation": "Each spell lists specific details of how the effect works, with the damage occurring at either the start or end of their turn."
+  },
+  {
+    "question": "With the Spire, can I cast spells underwater?",
+    "answer": "Unfortunately, because there's still water passing through your throat and vocal cords. If you get a full breath of air, you can get one spell off.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Water passes through throat and vocal cords."
+  },
+  {
+    "question": "Does my natural form still maintain the bonus hit points from the Heroes' Feast?",
+    "answer": "Yes, any of your natural form, maintains the bonus hit points from your Heroes' Feast. Your animal form does not.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Your animal form does not maintain the bonus hit points from the heroes feast only the natural form."
+  },
+  {
+    "question": "When you take lightning damage what saves are at disadvantage?",
+    "answer": "If you are grappled in the water you have disadvantage on Dexterity saving throws",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "If you are grappled then you take a disadvantage on dexterity saving throws."
+  },
+  {
+    "question": "How much does a gem worth at least a thousand gold pieces cost for a 7th-level Plane Shift spell?",
+    "answer": "The gem is worth at least 1,000 gp. A 7th level spell requires at least 1,000gp worth to be expended.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Plane Shift"
+    ],
+    "rules_explanation": "The Plane Shift spell has a material component of a forked, metal rod worth at least 250 gp and the description contains it."
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "question": "If a level 4 Monk, with unarmored defense, is attacked with a finesse weapon, can they use their Dexterity modifier for their armor class?",
+    "answer": "Yes. Anyone can use a finesse weapon; that means you can use Strength or Dexterity for the attack.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks",
+      "Equipment > Weapons > Weapon Properties > Finesse"
+    ],
+    "rules_explanation": "Finesse property allows the character to use Dex instead of STR for melee attacks. The unarmored defense features provides an armor class based on DEX and WIS, so both rules features apply as described."
+  },
+  {
+    "question": "If Beau, a level 4 Monk, is proficient in history, can they roll a history check?",
+    "answer": "Yes, if any player is proficient in History, they can make a check",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A skill proficiency allows a character to add their proficiency bonus to any ability check they make with the specified skill.  If a GM calls for an ability check, and a PC has proficiency in that skill, then they are able to roll the check with their proficiency bonus."
+  },
+  {
+    "question": "Can a level 4 cleric use dunamancy magic on another character?",
+    "answer": "The question is not answerable from the given context.  The schools of magic a PC is able to use, requires DM context about a non-SRD rule.",
+    "rules": [],
+    "rules_explanation": "The SRD outlines the core mechanics of the game but leaves setting-specific details like 'dunamancy' to the discretion of the DM.  Whether or not dunamancy is available, and what classes are able to use it, is beyond the scope of the document"
+  },
+  {
+    "question": "If Caleb is a level 4 wizard, and wants to return Frumpkin to his feline form, what materials does he mark off?",
+    "answer": "The question is not answerable from the given context.  The requirements for a specific spell or ritual must be derived from the SRD data for that spell",
+    "rules": [],
+    "rules_explanation": "Information about the details of a given spell are found in the spell's description. Without knowing the spell, the requirements are unknown."
+  },
+  {
+    "question": "If a level 4 cleric was affected by the Dunamancy spell to make them more convincing, what rules would that apply?",
+    "answer": "The question is not answerable from the given context.  Dunamancy is not a recognized effect or spell in the SRD and any mechanical effects must be derived from an external source.",
+    "rules": [],
+    "rules_explanation": "The rules of Dunamancy are outside of the SRD."
+  },
+  {
+    "question": "If Laura (PC) used a 5th-level spell early in the morning, what is the rules implications of this?",
+    "answer": "This question is not answerable from the given context.  The class of the PC and details of 5th-level spells prepared would be needed to answer the question",
+    "rules": [],
+    "rules_explanation": "The implications of using a 5th level spell early in the morning depend on the specific character class and resources, as different characters have different limits on spell usage and spell slots. Additional information about the character is required to fully answer the rules question."
+  },
+  {
+    "question": "If Laura (PC) is ready to perform a scry ritual on Yasha, a non-player character, which rules would apply?",
+    "answer": "This question cannot be fully answered with the context given. Rules about scrying require the specific scrying spells and their interactions with other characters abilities",
+    "rules": [],
+    "rules_explanation": "The specifics about the ritual, its components, and any potential impact on the target are derived from the individual spell. This information cannot be derived from the context provided."
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "question": "When the Level 4 Druid casts Enhance Ability on Level 1 Rogue, what bonus does the rogue get on charisma checks?",
+    "answer": "The Rogue has advantage on charisma checks while the Level 4 Druid maintains concentration.",
+    "rules": [
+      "Spellcasting > Concentration",
+      "Spell Descriptions > Enhance Ability"
+    ],
+    "rules_explanation": "The Enhance Ability spell grants advantage on ability checks using the selected ability. Advantage requires the roll of a second D20 and selection of the higher result."
+  },
+  {
+    "question": "The group is trying to negotiate with the shopkeeper. The Ranger wants to roll persuasion, what modifier and dice should they roll with? ",
+    "answer": "The Ranger should roll 1d20 + their Charisma Modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Ranger must choose the Charisma (Persuasion) roll to attempt to change the mind of the shopkeeper."
+  },
+  {
+    "question": "The Level 4 Druid wants to insight check a creature, what dice do they roll? ",
+    "answer": "The Druid rolls 1d20 + their Wisdom modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Insight checks are based on Wisdom."
+  },
+  {
+    "question": "The Level 3 Fighter is making a deception check, what dice do they roll?",
+    "answer": "The Fighter rolls 1d20 + their Charisma modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Deception checks are based on Charisma."
+  },
+  {
+    "question": "The Level 4 Druid wants to insight check a creature, and got an 18, what does this mean?",
+    "answer": "That is for the Dungeon Master to determine.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM compares the result of the check to the relevant DC to determine if the check is a success."
+  },
+  {
+    "question": "The Level 1 Rogue wants to insight check a creature, and got a 13, does this mean the Rogue knows if they're telling the truth?",
+    "answer": "That is for the Dungeon Master to determine.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM compares the result of the check to the relevant DC to determine if the check is a success."
+  },
+  {
+    "question": "The Level 4 Fighter wants to insight check a creature, and got a 1, what does this mean?",
+    "answer": "That is for the Dungeon Master to determine.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM compares the result of the check to the relevant DC to determine if the check is a success."
+  },
+  {
+    "question": "What does having 9 strength mean?",
+    "answer": "Having a strength of 9 means that the creature has a -1 to their strength modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "Using the table provides the correct modifier."
+  },
+  {
+    "question": "The Level 3 Barbarian has advantage on initiative rolls, what dice do they roll?",
+    "answer": "The barbarian rolls 2d20 and takes the higher result.",
+    "rules": [
+      "Combat > Surprise > Initiative",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage grants a second roll."
+  },
+  {
+    "question": "The Level 3 fighter would like to know what the DC for prestidigitation is",
+    "answer": "There is no saving throw associated with the prestidigitation spell.",
+    "rules": [
+      "Spell Descriptions > Prestidigitation"
+    ],
+    "rules_explanation": "There is no saving throw information in the spell description."
+  },
+  {
+    "question": "The Level 4 Druid wants to do something perfunctory, how do they do that?",
+    "answer": "That is for the Dungeon Master to determine.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM compares the result of the check to the relevant DC to determine if the check is a success."
+  },
+  {
+    "question": "Is the bag of holding Wyvern skinned bag magical?",
+    "answer": "Yes, the bag of holding is a magical item.",
+    "rules": [
+      "Magic Items > Bag of Holding"
+    ],
+    "rules_explanation": "Bag of Holding is a magical wonderous item"
+  },
+  {
+    "question": "The wyvern skinned Level 5 dragonborn sorcerer with 20 charisma casts prestidigitation to clean their clothes, what happens?",
+    "answer": "The robes are cleaned.",
+    "rules": [
+      "Spell Descriptions > Prestidigitation"
+    ],
+    "rules_explanation": "The effect is minor and within the capabilities of the spell."
+  },
+  {
+    "question": "Level 3 rogue would like to insight the emperor, what is rolled?",
+    "answer": "1d20 + Wisdom modifier + proficiency bonus if proficient.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "Insight checks are Wisdom-based and require a proficiency bonus if proficient."
+  },
+  {
+    "question": "Can the level 1 cleric use a longsword?",
+    "answer": "No, clerics only have proficiency with simple weapons.",
+    "rules": [
+      "Classes > Cleric > Proficiencies"
+    ],
+    "rules_explanation": "The Cleric class only has proficiency with simple weapons"
+  },
+  {
+    "question": "The level 12 fighter is trying to discern if the Arbiter is lying, what dice do they roll and what ability modifier do they use?",
+    "answer": "1d20 + wisdom modifier + proficiency bonus if proficient.",
+    "rules": [
+      "Using Ability Scores > Skills > Insight"
+    ],
+    "rules_explanation": "Insight checks are Wisdom-based and require a proficiency bonus if proficient."
+  },
+  {
+    "question": "A character fails a dexterity saving throw, if they are wearing a ring of evasion, how does that affect the saving throw roll?",
+    "answer": "The wearer may use their reaction to expend a charge from the ring, and succeed on the saving throw.",
+    "rules": [
+      "Magic Items > Ring of Evasion"
+    ],
+    "rules_explanation": "This magical property allows the user to succeed instead of fail"
+  },
+  {
+    "question": "What is the discounted price of three potions of superior healing which normally cost 1500 gold each with a ten percent discount?",
+    "answer": "3,600 gold.",
+    "rules": [],
+    "rules_explanation": "1500 - 10% = 1350.  1350 - bulk discount = 1200. 1200 * 3 = 3600"
+  },
+  {
+    "question": "The shopkeeper is persuaded to give a discount of 400 gold pieces each on the six greater healing potions that cost 500 gold each normally, what die is rolled?",
+    "answer": "No dice are rolled.",
+    "rules": [],
+    "rules_explanation": "The description states there is an agreed price for the potions, but the price needs to be calculated"
+  },
+  {
+    "question": "A character rolls a 14 on a persuasion check, does this do anything?",
+    "answer": "This is for the DM to decide",
+    "rules": [],
+    "rules_explanation": "This outcome is for the DM to determine"
+  },
+  {
+    "question": "The player says they are scared to talk, what is the result of that?",
+    "answer": "There is no rules result for being scared to talk.",
+    "rules": [],
+    "rules_explanation": "This is simply a roleplaying element."
+  },
+  {
+    "question": "If it normally costs 750 gold pieces, what's the cost of it now?",
+    "answer": "It is up to the DM.",
+    "rules": [],
+    "rules_explanation": "A character is trying to haggle down a price. The new price is dependent on a successful skill check."
+  },
+  {
+    "question": "What does it mean to have a 21 on a persuasion roll?",
+    "answer": "It is up to the DM to decide",
+    "rules": [],
+    "rules_explanation": "A character is trying to haggle down a price. The new price is dependent on a successful skill check."
+  },
+  {
+    "question": "What modifier is applied when making a saving throw?",
+    "answer": "The appropriate ability modifier is added.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The modifier is determined by the ability associated with the saving throw."
+  },
+  {
+    "question": "If the cleric wants to make their armor quieter, what skill is used to check this?",
+    "answer": "There is no appropriate skill check for making armor quieter, but Gilmore did offer to commission armor like this to be made.",
+    "rules": [],
+    "rules_explanation": "This is a matter of roleplaying, not a rules question."
+  },
+  {
+    "question": "What ability is used to calculate the attack roll and damage roll for the unarmed strike of a level 3 barbarian?",
+    "answer": "Strength",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "Unless the weapon or class features states otherwise, Strength is used for melee attacks"
+  },
+  {
+    "question": "A giant is hit with a melee weapon, what action is required to slow down the rolling sphere?",
+    "answer": "An action is required.",
+    "rules": [
+      "Traps > Sample Traps > Rolling Sphere"
+    ],
+    "rules_explanation": "This is because the rules mention that a character within 5 feet of the sphere can attempt to slow it down with a DC 20 Strength check and as an action."
+  },
+  {
+    "question": "If the players are on a boat, what happens when Allura magically leaves?",
+    "answer": "She is just gone, and no one can stop her.",
+    "rules": [],
+    "rules_explanation": "Allura is not on the boat so no rules can be applied to that situation."
+  },
+  {
+    "question": "What is a pamphlet?",
+    "answer": "It's like a tiny scroll.",
+    "rules": [],
+    "rules_explanation": "This is a definition, not a rules question."
+  },
+  {
+    "question": "Is water required as part of a Bag of Holding?",
+    "answer": "No.",
+    "rules": [
+      "Magic Items > Bag of Holding"
+    ],
+    "rules_explanation": "The description of the bag mentions nothing about water."
+  },
+  {
+    "question": "When the 5 level Dragonborn sorcerer cast the suggestion spell what is the DC save?",
+    "answer": "This is dependent on the ability modifiers of a player, rather than a NPC",
+    "rules": [
+      "Spellcasting > Spells Known and Prepared"
+    ],
+    "rules_explanation": "Spell save DC for spell casters is a class feature."
+  },
+  {
+    "question": "What is a good way to get rid of the horn of Orcus?",
+    "answer": "Allura offered to perform memory alteration.",
+    "rules": [],
+    "rules_explanation": "In world event/story decision."
+  },
+  {
+    "question": "If the party fails to pay back the credit, what happens?",
+    "answer": "They will be hunted",
+    "rules": [],
+    "rules_explanation": "Negotiated plot event."
+  }
+]

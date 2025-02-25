@@ -1,0 +1,178 @@
+[
+  {
+    "question": "What modifier is added to a Strength check?",
+    "answer": "The creature's Strength modifier is added to the roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The SRD states that to make an ability check, the player rolls a d20 and adds the relevant ability modifier."
+  },
+  {
+    "question": "Does a character get an attack of opportunity when a Halfling moves out of their reach?",
+    "answer": "Yes, a creature can take an opportunity attack when a medium or larger creature moves out of their reach.",
+    "rules": [
+      "Combat > Movement and Position > Moving Around Other Creatures",
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "Because the character is a halfling, they are smaller than the guard. Because the guard is a medium size, the character moving does trigger an opportunity attack."
+  },
+  {
+    "question": "Is it an advantage if an attacker is raging?",
+    "answer": "No, however there are circumstances when raging grants advantage, such as on Strength checks and Strength saving throws.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "The rules for rage do not mention advantage on attacks.  The Barbarian's rage ability grants the Barbarian advantage on Strength checks and saving throws."
+  },
+  {
+    "question": "Can a Barbarian use their reaction to push a target away after a critical hit?",
+    "answer": "No, the ability to push after an attack requires the attack to trigger the push effect.",
+    "rules": [],
+    "rules_explanation": "There is no rule to allow this to happen. It is not clear if Deni$e has a Feat or other source of ability or effect that is being used to allow her to do this, nor if the critical changes whether or not the ability can be used or not."
+  },
+  {
+    "question": "Are checks made with disadvantage when poisoned?",
+    "answer": "Yes, The poisoned condition imposes disadvantage on attack rolls and ability checks.",
+    "rules": [
+      "Appendix PH-A: Conditions > Poisoned",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The poisoned condition imposes disadvantage on attack rolls and ability checks."
+  },
+  {
+    "question": "Can a character with the Lucky ability choose to use a roll other than the initial two rolls when they have advantage?",
+    "answer": "No, when you have advantage or disadvantage and something in the game lets you reroll the d20, you can reroll only one of the dice. You choose which one.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules state that the character can only reroll 1 of the dice."
+  },
+  {
+    "question": "Can a Wizard use their Enlarge Person spell to carry Deni$e?",
+    "answer": "The character is asking about the specifics of the campaign, which cannot be determined from the SRD.",
+    "rules": [],
+    "rules_explanation": "This is a question of the character's specific abilities in this particular homebrew setting."
+  },
+  {
+    "question": "What are the rules for determining whether a character is resistant to radiant damage?",
+    "answer": "You can make a general statement that some monster have resistance to radiant damage, and that can be gained as a feat",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "Damage Resistances lists radiant as a damage type that creatures can be resistant to. Without details of feats or class features, there is no way to tell how she is."
+  },
+  {
+    "question": "If a check is not for an ability, what adjustment should be applied?",
+    "answer": "You can make a general statement that the proficiency bonus is not multiplied for attack rolls or saving throws",
+    "rules": [
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "A feature that allows you to multiply your proficiency bonus when making an ability check that wouldn't normally benefit from your proficiency bonus, you still don't add the bonus to the check."
+  },
+  {
+    "question": "Are there rules for what the death of Kiro means for the Guardian of Faith?",
+    "answer": "There are no general rules for what happens to the Guardian of Faith spell when the caster dies, and that the effect could be ended at any time. ",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The effects of this spell are dependent on the GM and cannot be directly answered with information in the SRD."
+  },
+  {
+    "question": "Does a spell effect require sight of a target?",
+    "answer": "Yes, to target something, you must have a clear path to it, so it can't be behind total cover.",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "There are no rules that allow sight to be circumvented when targeting a spell."
+  },
+  {
+    "question": "Can Mother take a beakfull of blood then bring it to me?",
+    "answer": "This question requires the kind of setting specific rules judgment that is not included in the SRD.",
+    "rules": [],
+    "rules_explanation": "Whether or not a raven can transport a vial of blood in its beak is not a part of the system reference document, and is entirely up to the DM to decide."
+  },
+  {
+    "question": "During battle, does damage interrupt concentration on a spell?",
+    "answer": "Yes, whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The SRD states that when a character takes damage while concentrating on a spell, the character must make a Constitution saving throw to maintain concentration."
+  },
+  {
+    "question": "Are there effects for drinking a foul beer?",
+    "answer": "There are no rules for determining if this will affect the soldiers.",
+    "rules": [],
+    "rules_explanation": "The rules for how the beer affects them is entirely up to the DM and is not covered in the SRD."
+  },
+  {
+    "question": "If Deni$e gets an attack of opportunity, can I add my +d4?",
+    "answer": "No, you're just out of range.",
+    "rules": [],
+    "rules_explanation": "Whether or not Ashton's ability will affect Deni$e's attack of opportunity depends entirely on their positioning. This information cannot be calculated or confirmed."
+  },
+  {
+    "question": "Does he get advantage on shit?",
+    "answer": "You have not specified who 'he' is to know whether they have an advantage to attack.",
+    "rules": [],
+    "rules_explanation": "Requires more information on who the speaker is referring to in order to determine if the statement can be correctly answered."
+  },
+  {
+    "question": "Does the Judicator take the negative four for the Bane on that save?",
+    "answer": "Yes, whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.",
+    "rules": [
+      "Spell Descriptions > Bane"
+    ],
+    "rules_explanation": "The text of the spell specifies how to apply the penalty to the target."
+  },
+  {
+    "question": "What actions can be taken by those who are in golden chains?",
+    "answer": "While restrained, the creature's speed becomes 0, and it can't benefit from any bonus to its speed.  Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage. The creature has disadvantage on Dexterity saving throws.",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "The SRD defines the Restrained condition and the limitations it places on those suffering from the condition."
+  },
+  {
+    "question": "Do they have to make dexterity saving throws to avoid it?",
+    "answer": "This requires the kind of situationally dependent judgment that is not included in the SRD.",
+    "rules": [],
+    "rules_explanation": "Whether or not to call for a saving throw is entirely up to the DM and how they believe the fiction warrants the need for such."
+  },
+  {
+    "question": "If I am struck, do I take half damage?",
+    "answer": "The amount of damage you take depends on the source of the damage and any resistances or vulnerabilities you may have.",
+    "rules": [],
+    "rules_explanation": "It depends on if they have resistance or are vulnerable to the type of damage they are taking.  The GM would need to state that, in the context of the setting."
+  },
+  {
+    "question": "If that was casting a spell, was casting Invisibility, I'm going to Counterspell it. Was it casting a spell?",
+    "answer": "Counterspell cannot be used if the effect was not cast by casting a spell.",
+    "rules": [
+      "Spell Descriptions > Counterspell"
+    ],
+    "rules_explanation": "The text of counterspell allows the spell to be used as a reaction when you see a creature casting a spell."
+  },
+  {
+    "question": "When you summon something, can you just summon it in the air to fall on someone's head?",
+    "answer": "When you summon a creature, you summon it in an unoccupied space that you can see within range.",
+    "rules": [
+      "Spell Descriptions > Summon Greater Demon"
+    ],
+    "rules_explanation": "A spell description may specify that the subject must appear in an unoccupied space. A target may still be damaged by falling."
+  },
+  {
+    "question": "What happens to the sun creature he summons and is it gone?",
+    "answer": "There are no rules in the SRD that indicates what happened to the sun creature.",
+    "rules": [],
+    "rules_explanation": "This depends on the game's specific rules and the DM's preferences. The SRD does not have any information about this."
+  },
+  {
+    "question": "Can she use it in melee?",
+    "answer": "Whether a weapon can be used in melee depends on the properties of the weapon. Certain weapons are melee weapons, and others have the thrown property.",
+    "rules": [
+      "Equipment > Weapons"
+    ],
+    "rules_explanation": "The weapon must have the proper properties to be used in melee."
+  }
+]

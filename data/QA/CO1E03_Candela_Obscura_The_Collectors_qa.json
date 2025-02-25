@@ -1,0 +1,45 @@
+[
+  {
+    "question": "Can the Level 4, Class paladin use a drive to get 4 dice for her Sway roll.",
+    "answer": "Yes, the Level 4, Class paladin can use drive to increase their roll to 4 dice.",
+    "rules": [
+      "Section 5 of \"Candela Obscura\" Quickstart Guide Video> Actions, Drives, and Resistances"
+    ],
+    "rules_explanation": "This rules state whenever a player makes a roll, they may spend points from the Drive to add additional dice to the roll."
+  },
+  {
+    "question": "If the Level 4, Class paladin takes the gilded die on her Sway roll, does the paladin have to take a drive back in Cunning?",
+    "answer": "Yes, if the Level 4, Class paladin takes the gilded die on her Sway roll, she has to take a drive back in Cunning.",
+    "rules": [
+      "Section 5 of \"Candela Obscura\" Quickstart Guide Video> Actions, Drives, and Resistances > Gilded actions"
+    ],
+    "rules_explanation": "This rules state that anytime you make a roll using that action, you'll replace one of the standard dice with a gilded die instead. If you choose to take the gilded die's result, you refresh one point in the drive that encompasses that action."
+  },
+  {
+    "question": "If the Periphery member rolls Hide to pick the lock, and has Born in the Shadows, when attempting to avoid security or detection, do they gild an extra Hide die?",
+    "answer": "Yes. Because the Periphery member has Born in the Shadows, when attempting to avoid security or detection, they gild an extra Hide die.",
+    "rules": [
+      "ASHLEY: I have burglary equipment. \n...I also have Born in the Shadows. So \"when attempting to avoid security or detection, you gild an extra Hide die.\"",
+      "Section 5 of \"Candela Obscura\" Quickstart Guide Video>Character Sheet >Abilities"
+    ],
+    "rules_explanation": "The transcript states that the character gains an extra die gilded on Hide rolls if they have the \"Born in the Shadows\" Ability"
+  },
+  {
+    "question": "Can Laura's character, the Level 4, Class Occultist, use her I Saw It Coming train die on her Move test?",
+    "answer": "No. Laura's character, the Level 4, Class Occultist cannot use her I Saw It Coming train die in this situation.",
+    "rules": [
+      "ANJALI: You've got I Saw It Coming.",
+      "Section 5 of \"Candela Obscura\" Quickstart Guide Video>Character Sheet >Abilities"
+    ],
+    "rules_explanation": "The transcript states that the Laura's character, the Level 4, Class Occultist has I Saw It Coming, a train die. In this case, the train die is available, but the player has no Drives left to spend"
+  },
+  {
+    "question": "If a Level 4, Class Occultist casts Control, what is required to try and hold the flame to the paper without igniting it.",
+    "answer": "A Control test is required to try and hold the flame to the paper without igniting it.",
+    "rules": [
+      "LAURA: I'm going to try to do that.",
+      "MATT: Okay. You don't want to, make a Control test for me to try and hold the flame to the paper without igniting it."
+    ],
+    "rules_explanation": "The GM calls for a Control Test in this case as the relevant skill required"
+  }
+]

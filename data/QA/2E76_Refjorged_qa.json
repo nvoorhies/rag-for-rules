@@ -1,0 +1,26 @@
+[
+  {
+    "question": "The level 5 class asks, 'Chain mail in the book, says you need a strength of 13 to wear it, is that true for this chain mail?'",
+    "answer": "Yes, a Strength score of 13 or higher is required to wear chain mail without penalty.",
+    "rules": [
+      "Equipment > Armor > Armor Proficiency"
+    ],
+    "rules_explanation": "The rules specify that wearing armor without proficiency imposes disadvantage on ability checks, saving throws, and attack rolls that involve Strength or Dexterity, and that heavy armor reduces speed unless the wearer has the listed Strength score or higher. The level 5 player wishes to ascertain if the character's strength score is high enough to wear the chain mail."
+  },
+  {
+    "question": "The level 12 class asks, 'Because I put on this, and it's AC 14, and I took off my studded armor, which is AC 12, but my armor class didn't go up'.",
+    "answer": "Wearing higher AC armor may not result in a net increase in AC if the character's dexterity adjustment is reduced by wearing the armor.",
+    "rules": [
+      "Equipment > Armor > Armor Class"
+    ],
+    "rules_explanation": "This is because the different types of armor allow the character to add different levels of dexterity modifiers to their base AC. Heavy armor does not allow the character to add any, medium armor allows a maximum adjustment of +2, and light armor has no maximum."
+  },
+  {
+    "question": "The level 12 class asks,  'Chain mail in the book, says you need a strength of 13 to wear it, is that true for this chain mail?'",
+    "answer": "Yes, a Strength score of 13 or higher is required to wear chain mail without penalty.",
+    "rules": [
+      "Equipment > Armor > Armor Proficiency"
+    ],
+    "rules_explanation": "The rules specify that wearing armor without proficiency imposes disadvantage on ability checks, saving throws, and attack rolls that involve Strength or Dexterity, and that heavy armor reduces speed unless the wearer has the listed Strength score or higher. The level 5 player wishes to ascertain if the character's strength score is high enough to wear the chain mail."
+  }
+]

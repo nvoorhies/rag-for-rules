@@ -1,0 +1,154 @@
+[
+  {
+    "question": "If the bard casts Seeming on the party, and the caster makes one of the party look like a cow, would the player appear like a cow if it bumped into another member of the party?",
+    "answer": "If the bard were to cast the Seeming spell, it would make you look one way but not feel that way.",
+    "rules": [
+      "Spellcasting > Illusion > Seeming"
+    ],
+    "rules_explanation": "The Seeming spell would make you look one way, in this case like a cow, but not actually feel like one."
+  },
+  {
+    "question": "How far apart are the bars to this cell?",
+    "answer": "The bars are four inches apart.",
+    "rules": [],
+    "rules_explanation": "This information does not require a rules judgement. This is world building and stage setting."
+  },
+  {
+    "question": "The level 12, class 4 fighter casts Friends. What rules govern the use of that spell?",
+    "answer": "The Friends spell only lasts for a minute.",
+    "rules": [
+      "Spellcasting > Illusion > Friends"
+    ],
+    "rules_explanation": "The text of the Friends spells says, “The spell lasts for up to 1 minute.”"
+  },
+  {
+    "question": "Can the level 12, class 4 fighter use Luck to pick a lock?",
+    "answer": "Yes, the player can use luck.",
+    "rules": [],
+    "rules_explanation": "The Luck ability does not prevent the player from using any skills or other checks, it only affects the outcome of the check."
+  },
+  {
+    "question": "Does the dungeon master require a lock pick check because the party member snapped off a thing in the lock.",
+    "answer": "Yes, go ahead and make a check lock pick. This will be more difficult than normal because someone snapped off a thing in there.",
+    "rules": [],
+    "rules_explanation": "This is a rules adjucation. There isn't a set of rules in the SRD that cover broken locks and attempts to pick them."
+  },
+  {
+    "question": "Can the level 12, class 4 fighter disguise as a castle guard?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "This isn't a rules questions, it's a role-playing choice."
+  },
+  {
+    "question": "The enhanced charisma spell has warn off and the level 7 class 5 druid wants to use enhance charisma on the level 12 class 4 fighter. What is the effect?",
+    "answer": "You have advantage on all charisma-based ability checks.",
+    "rules": [
+      "Spellcasting > Transmutation > Enhance Ability"
+    ],
+    "rules_explanation": "The enhance ability spell with charisma selected as the enhanced ability causes the affected character to have advantage on all charisma-based ability checks"
+  },
+  {
+    "question": "If I put the holy oil on things, it lasts for a few hours, right? It lasts for half a day or something?",
+    "answer": "It lasts for about an hour after application.",
+    "rules": [],
+    "rules_explanation": "There is no rule for how long holy oil lasts. This is a judgement call by the DM"
+  },
+  {
+    "question": "The level 4 level 5 rogue says I'm going to use Luck. What does that mean?",
+    "answer": "The Luck ability does not prevent the player from using any skills or other checks, it only affects the outcome of the check.",
+    "rules": [],
+    "rules_explanation": "This isn't a rules questions, it's a restatement of character intent"
+  },
+  {
+    "question": "Because the rogue is surprise, is the first attack doubled because it's automatically a crit.",
+    "answer": "The first one is doubled because it's automatically a crit.",
+    "rules": [
+      "Combat > Surprise"
+    ],
+    "rules_explanation": "In general an automatic crit does not happen in a surprise round. There may be a feature of the class which grants the auto crit but this is not universal."
+  },
+  {
+    "question": "The character is at the doorway. Am I able to use evasion for that?",
+    "answer": "You can, technically.",
+    "rules": [
+      "Classes > Rogue > Uncanny Dodge"
+    ],
+    "rules_explanation": "As a 5th level rogue, the character has the Uncanny Dodge ability. The question is whether that can be applied in this situation. A DM call is required to decide if the character can dodge enough to be considered evading the effect."
+  },
+  {
+    "question": "With uncanny dodge, if I succeed, I take no damage?",
+    "answer": "Correct.",
+    "rules": [
+      "Classes > Rogue > Uncanny Dodge"
+    ],
+    "rules_explanation": "The Uncanny Dodge states: To do so, you must halve the attack’s damage against you."
+  },
+  {
+    "question": "Grog is going to do a wisdom saving throw with advantage because of the Heroes' Feast. Which rules apply?",
+    "answer": "A wisdom saving throw with advantage because of your Heroes' Feast.",
+    "rules": [
+      "Spellcasting > Abjuration > Heroes' Feast"
+    ],
+    "rules_explanation": "The heroes' feast spell states “..creatures have advantage on Wisdom saving throws and death saving throws for the duration.”"
+  },
+  {
+    "question": "What does dominated mean?",
+    "answer": "Essentially, you have to follow his orders. He's not directly, specifically controlling you right now, but he told you, “Attack him,” so you have to use all the things at your disposal to now attack him.",
+    "rules": [],
+    "rules_explanation": "This is a definition of a word."
+  },
+  {
+    "question": "When you're dominated, does that mean charmed?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "Dominated is a word describing control. Charmed is a specific game term"
+  },
+  {
+    "question": "The player argues they have flanking bonus advantage. Is this true",
+    "answer": "They have advantage against you because they moved into flanking position.",
+    "rules": [],
+    "rules_explanation": "There is no flanking rule in the 5e SRD, only optional rules in the DMG."
+  },
+  {
+    "question": "With a 1st-level Healing Word for right now, how much healing does Vax get",
+    "answer": "Three.",
+    "rules": [
+      "Spellcasting > Evocation > Healing Word"
+    ],
+    "rules_explanation": "A level 1 cast of the spell healing word results in 1d4 + spellcasting modifier healing."
+  },
+  {
+    "question": "If you're unconscious and a creature hits you, you automatically fail a death saving throw and if it's a critical hit, which if you're unconscious a hit is an automatic critical, it's technically two death saving throws?",
+    "answer": "Correct",
+    "rules": [
+      "Combat > Knocking a Creature Out > Death Saving Throws",
+      "Appendix PH-A: Conditions > Unconcious"
+    ],
+    "rules_explanation": "Two rules apply here. 1. Any attack that hits an unconcious creature is a critical hit. 2. If you take any damage while you have 0 hit points, you suffer a death saving throw failure. If the damage is from a critical hit, you suffer two failures instead."
+  },
+  {
+    "question": "If he just hit zero hit points, so whatever I bring will bring him over, correct?",
+    "answer": "Yeah, and your death saves go away. It's per turn. Per time you go down.",
+    "rules": [
+      "Combat > Knocking a Creature Out > Death Saving Throws"
+    ],
+    "rules_explanation": "Any healing will bring the PC out of the unconcious state and remove all death saving throws."
+  },
+  {
+    "question": "Is that including sprint?",
+    "answer": "Well, the dash action, yeah.",
+    "rules": [
+      "Combat > Actions in Combat > Dash"
+    ],
+    "rules_explanation": "This questions is about the dash action which is described under Actions in Combat > Dash."
+  },
+  {
+    "question": "It's a little more complicated than that, actually.",
+    "answer": "He could use it, he just wouldn't be able to add his proficiency bonus to the attack rolls.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Classes > Proficiencies"
+    ],
+    "rules_explanation": "Because the character is not proficient with the weapon, they would not add the proficiency bonus to the attack roll. See Combat > Making an Attack > Attack Rolls and Classes > Proficiencies."
+  }
+]

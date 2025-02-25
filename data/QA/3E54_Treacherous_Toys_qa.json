@@ -1,0 +1,130 @@
+[
+  {
+    "question": "The level 6 [Imogen], class Sorcerer is attempting to send a message to [Chetney] but takes five points of psychic damage and the spell fails, what is the roll for?",
+    "answer": "The Dungeon Master is not referring to a roll, but rather a game mechanic which prevents the character from successfully casting message.",
+    "rules": [],
+    "rules_explanation": "The DM states that the message was \"sent right back with a screeching white pain\" due to an implied force or effect that disrupts telepathic communication. No roll is specified, but it is an implied consequence from a game rule."
+  },
+  {
+    "question": "The Aeormaton [FRIDA], a level 6 Ranger with Wisdom of 13 has Mr Pock O'Pea in sight, what check is needed for the Mr Pock O'Pea?",
+    "answer": "The DM is requesting a Wisdom (Perception) check from a level 6 Ranger with Wisdom of 13 to spot Mr. Pock O'Pea.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM directly asks for a perception check to find someone, which defaults to Wisdom (Perception). A Wisdom (Perception) check is used when you try to spot, hear, or otherwise detect the presence of something."
+  },
+  {
+    "question": "The Wood Elf level 6 Ranger [Deanna], wants to know what the vibe is right now for the Aeormaton [FRIDA], a level 6 Ranger, can she?",
+    "answer": "The DM is requesting [Deanna], a level 6 Ranger with stats for insight, deception, and persuasion to decide which check she wants to make, but not to say the choice, then roll.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM is allowing a choice of which stat to use, based on the question being asked. Given the question and options a deception or persuasion check would both be allowable under the rules, based on player intent and description."
+  },
+  {
+    "question": "If all of that doesn't work, what is the current level 6 Sorcerer, [Imogen]'s next action to hold on to this moment and see past it with [FRIDA]?",
+    "answer": "Since FRIDA is present, the DM is requesting that a level 6 Sorcerer, with stats for casting spells, and what ability check they want to use.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Targets",
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM is allowing the spell caster to perform an action, so any action the player attempts is allowable in the rules. A Liminal check would be allowable under the rules to further explore what is transpiring."
+  },
+  {
+    "question": "The gnome, level 6 ranger [Deanna] is making a dwarvish beard and Matt says to roll for it. What roll should Deanna make?",
+    "answer": "Make a d20 and add your dexterity or intelligence modifier.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM is asking the player to perform either a Dexterity check, representing manual skill, or an Intelligence check representing the thought and planning of the action being undertaken, depending on what the player wants to emphasize."
+  },
+  {
+    "question": "Level 6 Sorcerer [Imogen] is trying to determine what the surface thoughts are of [Oltgar], what check does she have to make?",
+    "answer": "The level 6 Sorcerer must use Detect Thoughts to get insight to what [Oltgar] is thinking.",
+    "rules": [],
+    "rules_explanation": "The mechanics of this action are based on the details of the Detect Thoughts spell, and it does not directly specify a check that needs to be made, but rather a saving throw from the target of the spell."
+  },
+  {
+    "question": "Level 6 Sorcerer [Imogen] rolled a 20 using Detect Thoughts and now is trying to understand the deeper meanings.",
+    "answer": "The level 6 Sorcerer needs to cast it again on a failed Wisdom Saving throw or be shut out.",
+    "rules": [],
+    "rules_explanation": "The mechanics of this action are based on the details of the Detect Thoughts spell, the target can resist her from probing deeper by succeeding on a Wisdom saving throw."
+  },
+  {
+    "question": "The gnome level 6 ranger [Deanna] is using Speak with Small Beasts to try to get the firebugs to calm down. What kind of check is requested?",
+    "answer": "The DM requires a Wisdom (Persuasion) check to get the swarm to move to the table.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM directly asks for a persuasion check to influence the swarm to gather at the table, which defaults to Charisma (Persuasion). In this case, the spell Speak with Small Beasts allows Deanna to attempt influence over beasts with that spell, so using it she makes a Wisdom (Persuasion) check instead."
+  },
+  {
+    "question": "Since the current group is trying to keep the swarm from getting killed, does that count as a single entity?",
+    "answer": "If Fearne were to cast Air Bubble, it would be considered a singular entity.",
+    "rules": [],
+    "rules_explanation": "The DM explains that the entire swarm would count as a single target creature for the purpose of spell effects."
+  },
+  {
+    "question": "What does a level 6 sorcerer, [Imogen] roll when performing Telekinesis to bind a swarm to be restrained?",
+    "answer": "The DM requires an ability check, d20 + your charisma modifier.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Saving Throws"
+    ],
+    "rules_explanation": "Telekinesis requires a saving throw or ability check to complete."
+  },
+  {
+    "question": "Level 4 druid [Fearne] is attempting to use Air Bubble to capture all the firebugs. Does that give the firebugs a saving throw or something?",
+    "answer": "Because it is a challenge to attempt the spell, it'll have disadvantage, need to roll a d20 and add her wisdom modifier to it.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Saving Throws"
+    ],
+    "rules_explanation": "When you try to make a hard cast you have to make a saving throw or ability check."
+  },
+  {
+    "question": "What does a level 6 ranger, [Deanna] roll for insight on the anxiety of a power dynamic?",
+    "answer": "Using Speak With Small Beasts the DM says that if you want to, you can insight check and you can take a deception or perception-- deception or persuasion check. Your choice, don't say which one.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM is allowing a choice of which stat to use, based on the question being asked. Given the question and options a deception or persuasion check would both be allowable under the rules, based on player intent and description."
+  },
+  {
+    "question": "I am going to step back away from the group, and out of his line of sight, can I run my chisel across my palm (slices) and have ice shards, do a little Crimson Rite and have it run up the blade? Will that drop my invisibility?",
+    "answer": "The Dungeon Master is determining the edge cases of whether a non-harmful action will break invisibility.",
+    "rules": [],
+    "rules_explanation": "The DM has given a ruling based on the fact that 'it is technically not a spell, but it is a magical rite' as opposed to a direct attack, or spell."
+  },
+  {
+    "question": "The level 6 Ranger, [FRIDA] has been given Bless, and is going to try and kick the cane out from the Villian. What kind of check is required?",
+    "answer": "What is about to happen is unsafe, so I'd recommend a rapid entry, need to make an Athletics check, where he has disadvantage.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requires a Strength (Athletics) check to perform the action, because a show of force or athletic skill is needed."
+  },
+  {
+    "question": "The level 6 Ranger, [FRIDA] has kicked the cane out and is going to try and lift him back up. [Fearne] has an option of assisting, what kind of check would be made?",
+    "answer": "He is drawing the attention as he gets lifted back up, make a sleight of hand check, where there is Advantage.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Since he is making a fast action, his dexterity is what will help him achieve his desired outcome, and with Fearne distracting as well, has made it where there is Advantage on the role."
+  },
+  {
+    "question": "Can [Chetney] time a group of people walking along the street and I'm going to try and walk along next to him and I'm going to run the chisel along the lower back of his calf and cast Brand of Castigation on his leg?",
+    "answer": "Walking into the road and coming up from underneath. You won't have to roll to attack, but make a stealth check to try and dodge into the crowd.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM required a Dextery (Stealth) check to move silently and go unnoticed."
+  },
+  {
+    "question": "With a persuation check of 20, I think he wants 500 gold apiece! Should it not be so much for a toy store?",
+    "answer": "Well, understand, this is a discussion, an ongoing.",
+    "rules": [],
+    "rules_explanation": "It's a skill-based, and a high persuation to give the information needed for the DM to proceed. There are no formal rules to use with the high skill check, just sets the next stage to the encounter."
+  },
+  {
+    "question": "So,"
+  }
+]

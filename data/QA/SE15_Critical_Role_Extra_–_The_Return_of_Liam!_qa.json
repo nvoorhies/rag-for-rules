@@ -1,0 +1,179 @@
+[
+  {
+    "question": "What kind of check is required for the dwarf rogue to climb up to the pipe?",
+    "answer": "An acrobatics check is required to climb up to the pipe.",
+    "rules": [
+      "Combat > Movement and Position > Climbing, Swimming, and Crawling",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "When climbing a surface that is not easy to walk into, the DM can call for an ability check.  The DM specified an Acrobatics check, so this is the ability that must be rolled."
+  },
+  {
+    "question": "A perception check is being called to check for the brick in the wall, but it is also being used to check for traps? Is that correct?",
+    "answer": "Checking the brick in the wall can be considered checking for traps as well.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules state 'The GM might also call for an ability check when you try to accomplish tasks like the following:' then goes on to say 'check for traps.'  Perception is the primary skill used to spot traps and other things."
+  },
+  {
+    "question": "As a sorcerer, how many cantrips do I get?",
+    "answer": "A 1st level sorcerer knows four cantrips.",
+    "rules": [
+      "Spellcasting > Cantrips"
+    ],
+    "rules_explanation": "All of these spells, including cantrips, must be of a level for which you have spell slots. Also, all day long all night."
+  },
+  {
+    "question": "Does the door keep moving all the way down the hallway?",
+    "answer": "The rules do not specify whether a magical door will continue to open automatically. This is DM judgement.",
+    "rules": [],
+    "rules_explanation": "There are no specific rules about the behavior of magical doors once opened.  Whether the partially opened secret door continues to open without further action is a DM judgement."
+  },
+  {
+    "question": "How much weight pressure would it need to keep the tile down?",
+    "answer": "Determining the amount of weight required to keep a pressure plate down is an investigation check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules state 'When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check.' so is appropriate to this question."
+  },
+  {
+    "question": "As a sorcerer am I on the shoulders at this point already? Since the holes are in the ceiling above Tarvis can I use Ray of Frost?",
+    "answer": "A ray of frost on the holes, so that if anything decides to drop out of them, it meets a little stopper. I may be unable to do so if I am being held, as I am short.",
+    "rules": [
+      "Spellcasting > Components > Somatic (S)"
+    ],
+    "rules_explanation": "If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures."
+  },
+  {
+    "question": "Is there a dexterity save to avoid the acid?",
+    "answer": "When acid sprays from the holes, a dexterity saving throw is required to avoid the effect.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "The specific attack or rules text calling for a save should define the DC and effect."
+  },
+  {
+    "question": "As an assassin, if I attack a foe before they've gone at the top of the fight can I attack with advantage?",
+    "answer": "It's at the very beginning of the fight if you get the jump on them.",
+    "rules": [
+      "Combat > Surprise"
+    ],
+    "rules_explanation": "The rules on surprise state 'If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends.' which indicates they have not taken their turn."
+  },
+  {
+    "question": "As a sorcerer what is my DC Ranged spell attack?",
+    "answer": "The DC of a sorcerer's ranged spell attack equals 8 + your proficiency bonus + your Charisma modifier.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "Spells that require an attack roll use this rule to determine the attack bonus and saving throw DC."
+  },
+  {
+    "question": "What's the difference between perception and investigation?",
+    "answer": "Perception is seeing and spotting things, hearing things. Investigation is looking at stuff left behind and going how does that connect to that?",
+    "rules": [
+      "Using Ability Scores > Skills > Intelligence > Investigation",
+      "Using Ability Scores > Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "The rules say 'When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check.' and 'Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something.'"
+  },
+  {
+    "question": "If I (the wielder) cast magic hand, do I need to check to for traps or can I do the hand directly?",
+    "answer": "The rules do not prevent using mage hand to check for traps. Success is determined by rolling the die.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "There is nothing that disallows this action in the spell or in general rules. The effects or limitations are determined by what the spell states can be done."
+  },
+  {
+    "question": "How far does my darkvision reach?",
+    "answer": "A wood elf with darkvision can see in dim light within 60 feet as if it were bright light, and in darkness as if it were dim light.",
+    "rules": [
+      "Races > Elf > Elf Traits > Darkvision"
+    ],
+    "rules_explanation": "The Darkvision trait is not defined by class but by race.  Elves have darkvision out to a range of 60 feet."
+  },
+  {
+    "question": "Can the assassin use sneak attack right now?",
+    "answer": "You get sneak attack damage if one of your friends is on it.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The rogue's sneak attack deals extra damage when the target is within 5 feet of an ally of the rogue that isn't incapacitated and the rogue doesn't have disadvantage on the attack roll."
+  },
+  {
+    "question": "Disengaging means what?",
+    "answer": "You can jump back and it can't get a free swipe at you.",
+    "rules": [
+      "Combat > Actions in Combat > Disengage",
+      "Combat > Reactions > Opportunity Attacks"
+    ],
+    "rules_explanation": "Disengaging cancels free opportunity attacks."
+  },
+  {
+    "question": "If you cast the fire ball (spell) does it take time? can I dodge?",
+    "answer": "I (devan the sorcerer) don't have enough of the action available, so I cannot react in this turn. (can't dodge)",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "A character has one action, and a bonus action for something extra in a turn. Can not add more by default."
+  },
+  {
+    "question": "Is that what I do?  Delweth can only Poison Spray right now. So do I need to do anything.  You don't need to do anything.",
+    "answer": "With the poison spray cantrip, no further action is required, it just happens.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A cantrip is used and the DC from the attacker is compared against a roll from the defender to determine success or failure."
+  },
+  {
+    "question": "Am I able to stealth here, because of all the paper is there anything there?",
+    "answer": "An attempt to be stealthy is performed by making a roll for stealth and will effect that. The details can be provided after the action is decided to be taken.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Dexterity > Stealth"
+    ],
+    "rules_explanation": "The rules state 'Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.'"
+  },
+  {
+    "question": "How far does my darkvision reach?",
+    "answer": "Darkvision has a range of 60 ft.",
+    "rules": [
+      "Races > Elf > Elf Traits > Darkvision"
+    ],
+    "rules_explanation": "Many creatures in fantasy gaming worlds, especially those that dwell underground, have darkvision. Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light"
+  },
+  {
+    "question": "If we split up should we check out the room to the right and left?",
+    "answer": "In a situation with multiple possible choices a DM can approve dividing the group to tackle all of them but there may be consequences for doing so.",
+    "rules": [],
+    "rules_explanation": "This was at the GMs discretion. No rules apply."
+  },
+  {
+    "question": "Is it the 24 now?",
+    "answer": "If there's an action that's already going on, I can't get any advantage, right?",
+    "rules": [],
+    "rules_explanation": "It wasn't a clear rules question."
+  },
+  {
+    "question": "Are there any cantrips that I can do to prevent it from coming down?",
+    "answer": "It's the type of skill. and its just a strength check.",
+    "rules": [],
+    "rules_explanation": "Again a lot of out of game things."
+  },
+  {
+    "question": "But if I had a way for her (Dren) to see in the dark would she take an action first or could I stealth, could i do this in any other way? can I at all?",
+    "answer": "You cannot.",
+    "rules": [],
+    "rules_explanation": "GM ruling with no rules apply."
+  },
+  {
+    "question": "Oh. man, it's one of those instances where I'm going to homebrew it, because I don't know what the rule is.  Do I roll against it?",
+    "answer": "Yes, sure you do.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Contests"
+    ],
+    "rules_explanation": "A contest is determined by both sides rolling and adding modifiers. The participant with the higher check total wins the contest."
+  }
+]

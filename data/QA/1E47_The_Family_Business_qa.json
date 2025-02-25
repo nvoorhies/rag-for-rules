@@ -1,0 +1,144 @@
+[
+  {
+    "question": "Can the 35 members of the group be targeted by the Mordenkainen's Magnificent Mansion spell?",
+    "answer": "Yes, any creature you designate when you cast the spell to enter can be targeted.",
+    "rules": [
+      "Spellcasting > Spell Lists > Mordenkainen's Magnificent Mansion"
+    ],
+    "rules_explanation": "The Mordenkainen's Magnificent Mansion spell states \"You conjure an extradimensional dwelling... You choose where its one entrance is located. The entrance shimmers faintly and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open.\""
+  },
+  {
+    "question": "When the level 1 Vex'ahlia (half-elf ranger) exits the mansion, can the level 1 Keyleth (half-elf druid) get a plate of food from the servants as proof that it's real?",
+    "answer": "No, as soon as level 1 Keyleth (half-elf druid) pops out of the door, it all turns to smoke and dissipates.",
+    "rules": [
+      "Spellcasting > Spell Lists > Mordenkainen's Magnificent Mansion"
+    ],
+    "rules_explanation": "The Mordenkainen's Magnificent Mansion spell states \"Physical interaction with the image reveals it to be an illusion, because things can pass through it.\" This would apply to food as well. Since the mansion and everything in it is an illusion it cannot leave the premises without reverting to smoke and dissipating."
+  },
+  {
+    "question": "How many times can level 9 Scanlan cast Mordenkainen's Magnificent Mansion per day?",
+    "answer": "Once a day.",
+    "rules": [
+      "Spellcasting > Spell Lists > Mordenkainen's Magnificent Mansion"
+    ],
+    "rules_explanation": "The Mordenkainen's Magnificent Mansion spell does not specify any limit to the number of castings, except that it requires a spell slot of 7th level to cast. The level 9 Scanlan (Gnome Bard) has exactly one 7th level slot, so can cast this spell once per long rest."
+  },
+  {
+    "question": "If something goes really south in a fight, and level 9 Scanlan needs time to cast a spell to take a break, how long does the casting take?",
+    "answer": "It takes a minute to cast.",
+    "rules": [
+      "Spellcasting > Spell Lists > Mordenkainen's Magnificent Mansion"
+    ],
+    "rules_explanation": "The Mordenkainen's Magnificent Mansion spell requires 1 minute to cast."
+  },
+  {
+    "question": "If a creature (a large bear) has a bonus to attack of plus eight, what does the bonus become with advantage on the attack?",
+    "answer": "Advantage just means you roll an additional dice and take the highest, so it remains at plus eight.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage on a roll just allows the player to roll a second dice and take the highest roll. It does not modify the bonus to the roll. The monster manual describes the 'Pack Tactics' special trait as 'The [monster] has advantage on an attack roll against a creature if at least one of the [monster]'s allies is within 5 feet of the creature and the ally isn't incapacitated.'"
+  },
+  {
+    "question": "If level 17 Grog (Goliath Barbarian) is targeted by the shove from the bear (Trinket) , what kind of saving throw is needed to avoid being shoved prone?",
+    "answer": "A strength saving throw.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Shoving a Creature"
+    ],
+    "rules_explanation": "Shoving a creature uses the attack action in melee to make a special melee attack.  Instead of making an attack roll, you make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you."
+  },
+  {
+    "question": "Can level 1 Vex (Half-elf Ranger) use her broom in the extra-dimensional space created by Mordenkainen's Magnificent Mansion?",
+    "answer": "You do not have the rules for this specific situation so you must make a judgement call.",
+    "rules": [],
+    "rules_explanation": "There are no explicit rules for the interaction of specific magic items with the Mordenkainen's Magnificent Mansion spell."
+  },
+  {
+    "question": "What ability check does level 9 Scanlan have to make to examine the magic broom?",
+    "answer": "Make an arcana check.",
+    "rules": [],
+    "rules_explanation": "The rules do not specify which kind of check is needed to inspect a magic item, or a broom, so the DM must make a judgement call on the appropriate skill. Arcana is a reasonable choice."
+  },
+  {
+    "question": "What check can level 1 Vex'ahlia make to find out what the word is and what language the phrase on the broom is in?",
+    "answer": "Investigation check.",
+    "rules": [],
+    "rules_explanation": "The rules do not specify which kind of check is needed to find the secret word, or to determine its language. Investigation is a reasonable choice."
+  },
+  {
+    "question": "If the level 1 Vex'ahlia has advantage on anything having to do with dragons, does that extend to arcana checks or intelligence checks?",
+    "answer": "No, that's all you know, is the name Raishan was used when the Conclave attacked Emon.",
+    "rules": [],
+    "rules_explanation": "There is no general advantage for anything having to do with dragons. This seems to be an effect of an earlier event, about which no rules information is given, so there's nothing to look up."
+  },
+  {
+    "question": "Is there any blood when the level 3 Grog (goliath barbarian) punches a spectral cow?",
+    "answer": "No blood.",
+    "rules": [],
+    "rules_explanation": "There are no rules on the composition of spectral cows."
+  },
+  {
+    "question": "What skills can a Mist take on as it changes from mist back to its physical form?",
+    "answer": "This check happens at the same time as you come out of mist form, so you cannot do that ahead of time.",
+    "rules": [],
+    "rules_explanation": "Coming out of mist form does not involve specific game rules, and requires a judgement call from the DM."
+  },
+  {
+    "question": "If you have a Broom of Flying, is it possible to shoot arrows while mounted on the broom?",
+    "answer": "You do not have the rules for this specific situation so you must make a judgement call.",
+    "rules": [],
+    "rules_explanation": "There are no explicit rules for what activities can be performed while riding a Broom of Flying."
+  },
+  {
+    "question": "If the level 1 Vex (half-elf ranger) almost slips off the broom in the process of drawing the arrow from the quiver, and catches herself and just barely manages to pull back and fire, should the Dungeon Master have the player roll a check?",
+    "answer": "Yes, roll a dexterity check.",
+    "rules": [],
+    "rules_explanation": "The DM has broad authority over which checks are rolled in the game."
+  },
+  {
+    "question": "If the Level 1 Vex (half-elf ranger) with her 13 dex is attempting to attack while on the broom and is not in a good state to do so and has disadvantage on her roll. What dice does she roll?",
+    "answer": "Attack with disadvantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The roll is made with disadvantage, because of some effect that is not mentioned in the core rulebook."
+  },
+  {
+    "question": "In Wind Walk, what do the farmers think when someone is screaming at them while in wind form?",
+    "answer": "Can't talk to each other, no, not in mist form.",
+    "rules": [
+      "Spellcasting > Spell Lists > Wind Walk"
+    ],
+    "rules_explanation": "Mist form is an adjective not a defined rules term. The Dungeon Master rules that the forms cannot talk to each other."
+  },
+  {
+    "question": "The level 1 Vex (half-elf ranger) wants to revert back to physical form so she can stealth. Does she need to cast the Pass Without Trace spell first and, can that spell be used in conjunction with the Hide in Plain Sight ability?",
+    "answer": "Okay. Are you going down to the burnt farmland or one of the healthy farms? You can revert back to their physical form.",
+    "rules": [],
+    "rules_explanation": "No rules are provided, and the Dungeon Master is describing the situation as it unfolds."
+  },
+  {
+    "question": "When camouflaging by using the Hide in Plain Sight ability, if the level 1 Vex'ahlia (half-elf ranger) also has the Pass Without Trace spell active, would it add +10 or +20 to her stealth check?",
+    "answer": "You have Pass Without a Trace, which adds plus ten, Hide in Plain Sight adds plus ten. That's what I camouflaged us fucking for.",
+    "rules": [],
+    "rules_explanation": "Two bonuses are being added; there is no reason to check the core rules to answer."
+  },
+  {
+    "question": "Is it possible to have an item created by Scanlan's Magnificent Mansion carry over after the spell is dismissed?",
+    "answer": "You haven't tried it before.",
+    "rules": [],
+    "rules_explanation": "The spell description doesn't give any information on whether items in the mansion persist, or if anyone has previously tried to see if items do."
+  },
+  {
+    "question": "What does Percy need to roll to find out if Horace really does like surprises?",
+    "answer": "Make an insight check.",
+    "rules": [],
+    "rules_explanation": "It is not possible to answer the question using only the SRD. The DM has determined that this is an appropriate check."
+  },
+  {
+    "question": "If we are all Mists and go into the city and check it out, can we stealth?",
+    "answer": "Yeah, it would be being conscious of the cloud patterns in the sky, moving with the wind in a way where you become less noticeable as something strange. So it's possible.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master is describing the situation as it unfolds. There is no particular rule being called upon."
+  }
+]

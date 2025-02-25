@@ -1,0 +1,35 @@
+[
+  {
+    "question": "The Level 4 Humanoid is attempting to use telekinesis to pull a ring off of the thumb of a creature. What kind of check should be made?",
+    "answer": "A Charisma check should be made.",
+    "rules": [
+      "Spellcasting > Components > Material (M)",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The transcript asks for a check that is \"the basis of your arcane power and your innate capability\" which indicates a check using the character's Charisma ability. No spell is mentioned so I can't refer to the spell description for additional guidance as to the check type."
+  },
+  {
+    "question": "A Level 6 Unknown Class must conceal a dagger at a social event. They will be searched upon entry. What kind of check should be made to see if they can succeed in concealing the dagger?",
+    "answer": "A check must be made to hide the dagger, no specific check is mentioned.",
+    "rules": [
+      "Adventuring > Social Interaction"
+    ],
+    "rules_explanation": "The SRD states \"What do you do?\" as an entry point into any part of the document and does not define a specific roll to be made in this instance."
+  },
+  {
+    "question": "FCG casts Detect Magic at a social gathering, what kind of result is likely?",
+    "answer": "The result will be that there is an \"arrangement of glowing sources across so many of the guests\" that almost blinds the caster.",
+    "rules": [
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "Spells do what they say they do according to the description."
+  },
+  {
+    "question": "A Level 5 Unknown Class, with Detect Evil and Good active, looks at Laudna. Is anything revealed?",
+    "answer": "Yes, Laudna will give off \"this dark, necromantic aura, and reads to you as undead.\"",
+    "rules": [
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "Spells do what they say they do according to the description."
+  }
+]

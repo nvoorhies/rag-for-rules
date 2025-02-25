@@ -1,0 +1,125 @@
+[
+  {
+    "question": "Keyleth(Level, Druid, Race)'s player states that Grog(Level, Barbarian, Race) said they took the Flying Carpet and asks what he meant.",
+    "answer": "The last resting place of the flying carpet was within Tiberius Stormwind(Level, Sorcerer, Race)'s Bag of Holding.",
+    "rules": [
+      "Part I > ORION: I held it for a time, but I only have my Wheel of Mending in mine, as far as I know. Hold on, let me check.",
+      "Part I > MATT: As you reach into your Bag of Holding–",
+      "Part I > ORION: I'm thinking really hard.",
+      "Part I > MATT: Through the luck of the draw, it seems to be that the last resting place of the flying carpet was within your Bag of Holding."
+    ],
+    "rules_explanation": "The DM adjudicates the location of items in the various Bag of Holdings. Luck of the draw in this case means it was the last location they put it."
+  },
+  {
+    "question": "MARISHA(Level, Race, Class) is asked to make an ability check to find a store and asks if it should be a passive or active check.",
+    "answer": "That would be an active perception check as you're seeking it.",
+    "rules": [
+      "Part I > MARISHA: Passive or active?"
+    ],
+    "rules_explanation": "The DM determines that the kind of check is an active one based on the description of the search."
+  },
+  {
+    "question": "Tiberius Stormwind(Level, Sorcerer, Race) asks if the lore behind the Rakshasa would be a Arcana check or a History check.",
+    "answer": "This would be more of an arcana check.",
+    "rules": [
+      "Part I > ORION: Would this be an arcana or this be a history check?"
+    ],
+    "rules_explanation": "The DM determines what kind of ability check is appropriate for the description of the rules check."
+  },
+  {
+    "question": "Thorbir(Level, Class, Race) wants to make a check to determine if he knows how to procure potions in the city.",
+    "answer": "The fact that they weren't offered on this means either they don't have any currently at their disposal, or they felt that this contract probably wouldn't require it with the construct of this group being set out. Other than that, they are a little hard to come by. A lot of them are controlled by the main temples and are pretty much given straight to the Bastions. There aren't a lot of individuals that are in need of them within the city, and those that travel out are either members of the Slayer's Take or members of the Bastion forces. So they are little hard to come by.",
+    "rules": [],
+    "rules_explanation": "The DM does not have Thorbir make a roll and just gives information that is available to anyone."
+  },
+  {
+    "question": "Liam(Level, Class, Race) asks if his Cloak of Elvenkind effects his sleight of hand check.",
+    "answer": "Not sleight of hand, no.",
+    "rules": [],
+    "rules_explanation": "DM specifies that the check does not effect Sleight of Hand."
+  },
+  {
+    "question": "Thorbir(Level, Class, Race) wants to know if he knows the information the Bastion gave the group.",
+    "answer": " Lord Tyrell's body was found, but apparently during the murder. We have one beggar that apparently caught sight of this the murderer. As best as we can tell, it was some sort of lycanthrope. The beggar was babbling, but it seemed there was some sort of wolf-like creature. It was seen bipedal walking a man, but tore this man right through the throat, most of his chest. But when spotted, didn't run, just vanished. Disappeared. No longer in his sight. No tracks left behind. Just didn't know if it was an angry poltergeist, ghost. But the last place he was staying is at a recent establishment, only been here a couple of years. Referred to as the Velvet Cabaret.",
+    "rules": [],
+    "rules_explanation": "The DM makes a rules judgement of the situation and just gives the information directly to Thorbir without a roll."
+  },
+  {
+    "question": "Thorbir(Level, Class, Race) wants to make a check to determine if he knows who Tyrell is.",
+    "answer": "You want to roll a history check?",
+    "rules": [
+      "Part I > MATT: You want to roll a history check?"
+    ],
+    "rules_explanation": "Matt requests a History check."
+  },
+  {
+    "question": "The owner of the Velvet Cabaret asks for a check to determine if the advisor is lying about his role.",
+    "answer": "Make a deception roll.",
+    "rules": [
+      "Part I > MATT: Make a persuasion roll. No, deception roll. Deception roll."
+    ],
+    "rules_explanation": "The DM makes a rules judgement to determine which kind of roll should be made."
+  },
+  {
+    "question": "Corolin shorthalt(Level, Class, Race) asks if she can do a skill check to sense if the owner is lying about what happened, but Scanlan shorthalt(Level, Class, Race) preceeds her.",
+    "answer": "It's hard to read. It seems like he's very thorough and offended by this circumstance. You glean that there is a nervousness, and there are droplets of sweat across his brow. And his brusqueness does show a bit of fear in his eyes.",
+    "rules": [],
+    "rules_explanation": "The Dm just gives a description instead of making the rolls."
+  },
+  {
+    "question": "Tiberius Stormwind(Level, Sorcerer, Race) casts mage hand and wonders what roll is needed to be made to intimidate the owner of the velvet cabaret.",
+    "answer": "Make an intimidation check.",
+    "rules": [],
+    "rules_explanation": "The DM determines the intimidation roll is required."
+  },
+  {
+    "question": "Kashaw Vesh(Level, Class, Race) wants to do a perception check on the cabaret owner. The DM notes it should be Insight.",
+    "answer": "Looking at you tense. He's fumbling lie after lie right now. It's just, you could easily tell.",
+    "rules": [],
+    "rules_explanation": "DM has Kashaw make the roll but then gives information rather than having him roll an insight check as the check is for information on the person, the ability check is insight rather than perception"
+  },
+  {
+    "question": "The door is slammed and Keyleth/Corolin shorthalt(Level, Class, Race) wants to turn the lights out. She asks if the establishment used candles or indirect lighting.",
+    "answer": "Yeah, indirect lighting. You don't quite know where the source is coming from.",
+    "rules": [],
+    "rules_explanation": "DM describes the lighting of the room."
+  },
+  {
+    "question": "The players wonder if the guards are going to attack them and a persuasion check to quell the situation is discussed.",
+    "answer": " The guards look over confused and, “We heard there was a–”\nTiberius(ORION): Everything's fine. These are friends. Get on with your business. Get back on patrol. Make sure nothing happens or I'll have your heads.",
+    "rules": [
+      "Part II > MATT: The guards look over confused and, “We heard there was a–”"
+    ],
+    "rules_explanation": "The game was paused before the roll was made, so there was not a number to provide."
+  },
+  {
+    "question": "They are attempting to find traps.",
+    "answer": "Okay, to about there? Make a perception check.",
+    "rules": [
+      "Part II > MATT: Okay, to about there? Make a perception check."
+    ],
+    "rules_explanation": "The roll is to find a trap."
+  },
+  {
+    "question": "After a roll, the player asks about if the doors are trapped as well. The DM says what kind of roll it was.",
+    "answer": "I would say with a natural 20, yes. The doors both also seem to be functional doors, not designed with any sort of trap attached.",
+    "rules": [],
+    "rules_explanation": "On a 20, the DM just has the players figure it out."
+  },
+  {
+    "question": "The gadfly says he will cast silence, and the DM asks for the level of the spell.",
+    "answer": "Yes. I believe so.",
+    "rules": [
+      "Part II > ORION: Ah. I'm going to dispel Polymorph, and I'm going to cast Silence in front of him. I'm going to silence him.\nMATT: Okay. All right, so you're using him as the source?\nORION: Yes.\nMATT: Okay. So as you un-Polymorph, he looks over his shoulder and sees you take this form, you go ahead and cast Silence, which has an opposition. What level spell is that? 2nd-level?"
+    ],
+    "rules_explanation": "The DM requests information to check the spell is being used correctly."
+  },
+  {
+    "question": "The Bellows' Respite in is a tavern.",
+    "answer": "You are currently in the Bellows' Respite Tavern.",
+    "rules": [
+      "Part I > MATT: You are currently in the Bellows' Respite Tavern."
+    ],
+    "rules_explanation": "The DM makes a judgement of the space they are in."
+  }
+]

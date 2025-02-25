@@ -1,0 +1,430 @@
+[
+  {
+    "question": "Can the level 4 *[PC Name - Race: , Class:]* see other passage on any other side of the tower from our current position? ",
+    "answer": "To determine if the level 4 *[PC Name - Race: , Class:]* can see another passage on any other side of the tower from their current position, they must make a Perception check.",
+    "rules": [
+      "Ability Checks > Skills > Perception"
+    ],
+    "rules_explanation": "The DM requested a Perception check to determine what, if anything, the character could see."
+  },
+  {
+    "question": "Level 4 *[PC Name - Race: , Class:]*, already at the edge of the tower, is going to glance down and is starting to get vertigo.  Does the tower, in any places, have the spiral lip broken?",
+    "answer": "Yes. When the level 4 *[PC Name - Race: , Class:]* glances down, the spiral lip of the tower is broken in some places.",
+    "rules": [],
+    "rules_explanation": "This is a straight forward description of the environment by the DM."
+  },
+  {
+    "question": "A level 4 *[PC Name - Race: , Class:]*, already at the edge of the tower, is going to glance down.  When you look over the lip, does your sense of direction begin to drift a bit?",
+    "answer": "Yes. When the level 4 *[PC Name - Race: , Class:]* walks to the edge and glances down, your sense of direction begins to drift a bit.",
+    "rules": [],
+    "rules_explanation": "This is a straight forward description of the environment by the DM."
+  },
+  {
+    "question": "Can the level 4 *[PC Name - Race: , Class:]*, look down and spot anything in the down direction?",
+    "answer": "To determine if the level 4 *[PC Name - Race: , Class:]* can spot anything in the down direction, they must make a Perception check.",
+    "rules": [
+      "Ability Checks > Skills > Perception"
+    ],
+    "rules_explanation": "The DM requested a Perception check to determine what, if anything, the character could see."
+  },
+  {
+    "question": "Level 4 *[PC Name - Race: , Class:]*, already on the platform, and is looking for a way to jump to a nearby, floating rocks.  Can I see anything jump-able from the lip of the tower?",
+    "answer": "To determine if the level 4 *[PC Name - Race: , Class:]* can see anything jump-able from the lip, they must make a Perception check.",
+    "rules": [
+      "Ability Checks > Skills > Perception"
+    ],
+    "rules_explanation": "The DM requested a Perception check to determine what, if anything, the character could see."
+  },
+  {
+    "question": "If I gave a little jump, is gravity the same?",
+    "answer": "The gravity is the same, but the further away from the tower you go, the gravity is more angled away from the tower.",
+    "rules": [],
+    "rules_explanation": "This is a judgment of the fictional physics and environment by the DM."
+  },
+  {
+    "question": "The character is trying to leap up and grab onto the gear. What kind of check should I make?",
+    "answer": "You make a Strength (Athletics) check to jump and grab onto the gear.",
+    "rules": [
+      "Ability Checks > Skills > Athletics"
+    ],
+    "rules_explanation": "Athletics covers difficult situations while climbing."
+  },
+  {
+    "question": "The character is casting the Step of the Wind ki ability, which doubles their jump distance for the turn, to swing around to the other side of the gear. Is there a gap around the gear before the mechanical hell pit?",
+    "answer": "Yes, there is a 10-foot distance before the lip that you can use to push off.",
+    "rules": [],
+    "rules_explanation": "This is a clarification of the environment by the DM."
+  },
+  {
+    "question": "Fly is being cast on two party members. Is the spell working?",
+    "answer": "No, the spell is not working.",
+    "rules": [],
+    "rules_explanation": "The DM stated the spell was not working and not further rules were requested"
+  },
+  {
+    "question": "Can the Level 4 *[PC Name - Race: , Class:]* use the dispelling stone, and throw it as hard as I can into its glowing blue face?",
+    "answer": "Yes, the Level 4 *[PC Name - Race: , Class:]* can throw the stone.",
+    "rules": [],
+    "rules_explanation": "The DM allowed the action"
+  },
+  {
+    "question": "What are the rules for the ring of evasion on a dex save?",
+    "answer": "You can expend a charge to succeed on the saving throw instead of rolling.",
+    "rules": [],
+    "rules_explanation": "This is a description of the properties of a magical item. No SRD rules apply"
+  },
+  {
+    "question": "Level 4 *[PC Name - Race: , Class:]* and a party member are scrambling up into the gears. Make an athletics check with advantage, because Level 4 *[PC Name - Race: , Class:]* is helping me.?",
+    "answer": "To climb the gears, the party member makes a Strength (Athletics) check with advantage because the Level 4 *[PC Name - Race: , Class:]* is helping.",
+    "rules": [
+      "Ability Checks > Working Together"
+    ],
+    "rules_explanation": "Because the climb is difficult, a skill check is required. Because one character is helping the other, the active character has advantage."
+  },
+  {
+    "question": "The Level 4 *[PC Name - Race: , Class:]* is flying up in the air, holding her action. So, does it still dispell then?",
+    "answer": "Yes, the spell does not work and you are still polymorphed.",
+    "rules": [],
+    "rules_explanation": "The DM ruled the spell does not work, but the character is still transformed."
+  },
+  {
+    "question": "Constitution saving throws are required because of the colors changing on the rune. What happens on a save?",
+    "answer": "Each character takes 27 points of poison damage on a failed save. There is no effect if the save is successful.",
+    "rules": [],
+    "rules_explanation": "The DM described the outcome of the saving throw."
+  },
+  {
+    "question": "Does being polymorphed prevent a fly spell from working?",
+    "answer": "Yes, the spell does not work.",
+    "rules": [],
+    "rules_explanation": "The DM said the spell did not work."
+  },
+  {
+    "question": "Polymorph, yeah. Doesn't work. does certainly doesn't have time to attune to it?",
+    "answer": "No, it does not have time to attune to it.",
+    "rules": [],
+    "rules_explanation": "The DM determined there was not enough time to attune to an item"
+  },
+  {
+    "question": "The character has polymorphed into an owl.  What happens when I attempt to speak the spell to change him again?",
+    "answer": "There is no effect.",
+    "rules": [],
+    "rules_explanation": "The DM stated there was no effect"
+  },
+  {
+    "question": "Tossing Nott over the edge. What check is required?",
+    "answer": "A Strength check is required to determine how far Nott is thrown.",
+    "rules": [
+      "Ability Checks > Strength Checks"
+    ],
+    "rules_explanation": "A test of physical power is required"
+  },
+  {
+    "question": "Now Caduceus saves the day. How long does that Command spell last?",
+    "answer": "The spell does not last long.",
+    "rules": [
+      "Spellcasting > Duration"
+    ],
+    "rules_explanation": "The duration of a spell can vary"
+  },
+  {
+    "question": "The character tries to toss Nott as far. Get ready to catch him. Does the player guide me? Guide me.",
+    "answer": "To what extend does the DM influence the dice roller.",
+    "rules": [],
+    "rules_explanation": "The DM has latitude in determining the outcome of dice rolls"
+  },
+  {
+    "question": "The spell is not long-range, right?  But the rest of you are. Is this still in initiative order at this point?",
+    "answer": "Correct.",
+    "rules": [
+      "Combat > The Order of Combat"
+    ],
+    "rules_explanation": "The DM confirmed that they were still tracking turns in initiative order."
+  },
+  {
+    "question": "Would I not be an owl anymore then?",
+    "answer": "You are still polymorphed.",
+    "rules": [],
+    "rules_explanation": "The DM confirmed the character was still polymorphed"
+  },
+  {
+    "question": "So, does that mean it's also not going to detect the amulet either? What's the blange on Bless?",
+    "answer": "If it's not in the view of the creature, that's good to know.",
+    "rules": [],
+    "rules_explanation": "This is a discussion between players to understand the spell range and effectiveness"
+  },
+  {
+    "question": "What is the order, of turns?",
+    "answer": "Jester, the Golem, then Beauregard and Nott, and then it's Caleb.",
+    "rules": [
+      "Combat > The Order of Combat"
+    ],
+    "rules_explanation": "The DM is clarifying turn order in the combat."
+  },
+  {
+    "question": "Can you do this as the same, okay, so can I do a cantrip, and just test the radius?",
+    "answer": "He will close the distance before you.",
+    "rules": [],
+    "rules_explanation": "The DM judged the tactical situation as to prevent this action."
+  },
+  {
+    "question": "Is Sacred Flame a dexterity saving throw? What's the blange on that?",
+    "answer": "The range on that is 60 feet. You're not close enough, unfortunately.",
+    "rules": [],
+    "rules_explanation": "The DM stated the spell range and whether it could be cast."
+  },
+  {
+    "question": "Can you summon the sword, though? Is that magic?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "The DM confirmed the action did not work because of the zone's anti-magic properties."
+  },
+  {
+    "question": "Is there anything on the collar that looks like a hinge, a clasp, a-- trying to look for a mechanism to it.",
+    "answer": "You can make an investigation check to see if there's some sort of mechanism to it.",
+    "rules": [
+      "Ability Checks > Skills > Investigation"
+    ],
+    "rules_explanation": "An investigation check is appropriate to look for details."
+  },
+  {
+    "question": "What did the Command spell wisdom save target get?",
+    "answer": "Does have advantage. Wisdom save. ",
+    "rules": [],
+    "rules_explanation": "The DM stated the conditions of the save."
+  },
+  {
+    "question": "Did the door come back as soon as the...?",
+    "answer": "The door emerged.",
+    "rules": [],
+    "rules_explanation": "DM reports the door reappeared after the golem was defeated"
+  },
+  {
+    "question": "How long does that Command spell last?",
+    "answer": "Not long.",
+    "rules": [
+      "Spellcasting > Duration"
+    ],
+    "rules_explanation": "The DM states the duration of the spell"
+  },
+  {
+    "question": "We don't have a lot of time. Wait, guide me-- wait, you didn't guide me.",
+    "answer": "You shot put Nott about 10 feet, and you begin to fall, gravity gets weird for a second. Your body gyrates, and you begin to drift at an outward angle, but you're going low.",
+    "rules": [],
+    "rules_explanation": "This describes the state of things after the attempted ability check and the DMs judgement"
+  },
+  {
+    "question": "The level 4 *[PC Name - Race: , Class:]* can cast Feather Fall, What's happening, falling slow speed?",
+    "answer": "Right now, I'd say it's probably at a fall speed out this way.",
+    "rules": [],
+    "rules_explanation": "The DM reported the state of things at the moment before Feather Fall would be used"
+  },
+  {
+    "question": "Beau-- Nott, technically, you were just thrown and grabbed, you still haven't taken an action yet on your turn. Sam? I mean, I cast Feather Fall-- that's a reaction. Is there a key. Do you have it? Do you think if...",
+    "answer": "Feather Fall is a reaction.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "Feather Fall is classified as a reaction per the spell description."
+  },
+  {
+    "question": "Okay, well let me go inspect this thing for a while. How's it look?",
+    "answer": "Make an investigation check.",
+    "rules": [
+      "Ability Checks > Skills > Investigation"
+    ],
+    "rules_explanation": "The DM requests an investigation check to gather information"
+  },
+  {
+    "question": "And we're still in initiative order at this point?",
+    "answer": "Correct.",
+    "rules": [
+      "Combat > The Order of Combat"
+    ],
+    "rules_explanation": "The DM confirmed that combat was still in progress."
+  },
+  {
+    "question": "I'm going to cast Bless on the three of us because I got nothing better to do. Does it work?",
+    "answer": "The blange is 30 feet.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "Bless has a range of 30ft"
+  },
+  {
+    "question": "Jester, you're good. This is going to suck-- In order to make the doorway work for itself, it had to shut down its anti-magic cone. . I'm going to fly up and over the area of doom.",
+    "answer": "Okay, you have 60 feet of movement.",
+    "rules": [
+      "Movement and Position > Speed"
+    ],
+    "rules_explanation": "The owl form has a speed of 60"
+  },
+  {
+    "question": "All right, yeah, so I'm going to hold my action. The maelstrom gloves have worn off, the effect is separate, whatever is on there currently.",
+    "answer": "The maelstrom gloves themselves, the effect is faded, but there is still crackling purple energy from when you took the power into your gloves that has not been expended yet.",
+    "rules": [],
+    "rules_explanation": "This describes the effect of the gloves based on the story."
+  },
+  {
+    "question": "So if it's like, you said it gets dispelled, what's-its-name?",
+    "answer": "Okay, your spell, as you shout, finds deaf ears, because it is shut down and cannot listen to your Command word.",
+    "rules": [],
+    "rules_explanation": "The DM rules the conditions of the effect are not met"
+  },
+  {
+    "question": "Does it have advantage, because he's shut down, or--?",
+    "answer": "Technically he doesn't start until the next round.",
+    "rules": [
+      "Combat > The Order of Combat"
+    ],
+    "rules_explanation": "This describes what occurs on a stunned/paralyzed creatures turn."
+  },
+  {
+    "question": "Roll 4d10 or me, please. That's a save.",
+    "answer": "He does succeed on a save.",
+    "rules": [],
+    "rules_explanation": "The DM reports the success of a dice roll"
+  },
+  {
+    "question": "Wait, do I get advantage on stealth, because I got my cloak?",
+    "answer": "You would, yes.",
+    "rules": [
+      "Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The player asked whether their cloak granted advantage on the roll and the DM confirmed."
+  },
+  {
+    "question": "There's four sconces facing the inside of the pillars. Is that--?",
+    "answer": "It's low light, but it's there.",
+    "rules": [],
+    "rules_explanation": "The DM described the lighting conditions in the area."
+  },
+  {
+    "question": "All right, the area that is bad news, does it have-- does it have--",
+    "answer": "You saw the floor itself was discolored. It's a different, slightly different type of stone than the rest of the floor.",
+    "rules": [],
+    "rules_explanation": "The DM described the area and what the character could see."
+  },
+  {
+    "question": "I should have remembered that I was an eagle.",
+    "answer": "She did squeeze through in eagle form.",
+    "rules": [],
+    "rules_explanation": "The DM is validating the character's claim about their form."
+  },
+  {
+    "question": "Which way does it have to move to?",
+    "answer": "It's moving this way.",
+    "rules": [],
+    "rules_explanation": "The DM describes the golem's movement."
+  },
+  {
+    "question": "Okay, I'm going to try, shit, that didn't work-- and he's far, far, far away from me right now.",
+    "answer": "You are quite a ways away from it, probably well over 100 feet, if not close to 100 feet or more.",
+    "rules": [],
+    "rules_explanation": "The DM describes the relative distance of the golem."
+  },
+  {
+    "question": "The Maelstrom Gloves: Unless a minute, has it been a minute?",
+    "answer": "It's been a minute.",
+    "rules": [],
+    "rules_explanation": "The DM is tracking time"
+  },
+  {
+    "question": "It's not farther away than that?",
+    "answer": "No, because it plummeted the one round length the last round.",
+    "rules": [],
+    "rules_explanation": "The DM describes the relative distance of the golem."
+  },
+  {
+    "question": "No, because I'm not, I can't, it's not within range.",
+    "answer": "Okay, it's 4d4 plus four, 8d8 plus eight.",
+    "rules": [],
+    "rules_explanation": "The DM states the dice pools for the rolls"
+  },
+  {
+    "question": "Can't I roll an investigation, man?",
+    "answer": "You're not close enough. This is just a quick glance.",
+    "rules": [],
+    "rules_explanation": "The DM rules an action cannot occur because of distance and the desired nature of the check."
+  },
+  {
+    "question": "So you could still get it with Caduceus'.",
+    "answer": "So we'll say it's about there, I'll go ahead and leave this here, up, to help just keep this going here. There we go.",
+    "rules": [],
+    "rules_explanation": "The DM determines the relative position of characters in the space"
+  },
+  {
+    "question": "Will I fit through as an eagle?",
+    "answer": "Could be a tight squeeze, but you can if you want to.",
+    "rules": [],
+    "rules_explanation": "The DM determines whether it is physically possible to do an action."
+  },
+  {
+    "question": "How long does that spell last?",
+    "answer": "It has been a few minutes, like basically, when you guys send it shutting off again, it got pulled really far away from the gravity, and it's been slowly working against that gravity to find its way back to the portal, since it was in the outside of the tower.",
+    "rules": [],
+    "rules_explanation": "The DM is giving story information and tracking time in the fictional world."
+  },
+  {
+    "question": "Will I fit through as an eagle?",
+    "answer": "Could be a tight squeeze, but you can if you want to. So you guys all enter--",
+    "rules": [],
+    "rules_explanation": "The DM determines whether it is physically possible to do an action."
+  },
+  {
+    "question": "Are you still mute? I mean, can you speak at all?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "The DM stated the character could not speak. More detail was requested and provided"
+  },
+  {
+    "question": "Can I cast See Invisibility with the Star Razor?",
+    "answer": "Sure. Your vision spreads out in front of you, and as you glance in, as well, there's that little bit of firelight around. You can see now these faint runes around the door that represent the enchantments that connect all these different doorways from place to place.",
+    "rules": [],
+    "rules_explanation": "The DM allowed the casting of the spell, and then described what the character would see"
+  },
+  {
+    "question": "Make a stealth check. do I get advantage on stealth, because I got my cloak?",
+    "answer": "You would, yes.",
+    "rules": [
+      "Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM confirmed the character had advantage"
+  },
+  {
+    "question": "Seeing invisibility doesn't mean you see everything arcane.",
+    "answer": "Whatever the runes were around the doorway were there, you don't see anything like that, unfortunately.",
+    "rules": [],
+    "rules_explanation": "The DM clarified the capabilities of the See Invisibility spell"
+  },
+  {
+    "question": "Detect Magic?",
+    "answer": "Yeah, the two ballista to the left and right of you, super magical, and you sense a couple of small magical sources somewhere in the pile.",
+    "rules": [],
+    "rules_explanation": "The DM cast Detect Magic and described what they could sense"
+  },
+  {
+    "question": "All right, without putting a full battlefield down for this scenario here, the rules are a little weird about this. I would say, let me check one thing real fast.",
+    "answer": "I would say yes, the spell does not work, when you land on the other side and put them down, you were a little ways away, that's why you had to move up to cast your spell. Your spell does not work, but you are still polymorphed.",
+    "rules": [],
+    "rules_explanation": "The DM ruled the spell did not work."
+  },
+  {
+    "question": "Does magic work now, maybe?",
+    "answer": "Below, you can see where the rune is, it's blue, it shifts to green.",
+    "rules": [],
+    "rules_explanation": "The DM ruled on events that had occurred."
+  },
+  {
+    "question": "Where is the collar around Caleb's neck? Polymorph, yeah. Doesn't work.",
+    "answer": "No, what spell were you casting? Polymorph, yeah. Doesn't work.",
+    "rules": [],
+    "rules_explanation": "The DM declared an action did not work because of the antimagic field"
+  },
+  {
+    "question": "You had to move up to cast your spell. Your spell does not work, but you are still polymorphed.",
+    "answer": "Okay, got it.",
+    "rules": [],
+    "rules_explanation": "The DM confirms the state of the character being both polymorphed and unable to cast spells."
+  }
+]

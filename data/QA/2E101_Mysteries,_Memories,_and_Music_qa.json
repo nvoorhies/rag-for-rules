@@ -1,0 +1,201 @@
+[
+  {
+    "question": "A character wants to cast detect magic. What does it detect?",
+    "answer": "The spell detects magic within range, allowing you to see a faint aura around any visible creature or object in the area that bears magic. The spell reveals its school of magic, if any.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "The Detect Magic spell description in the SRD lists the spells range, duration, and the specifics of what it detects."
+  },
+  {
+    "question": "A character is casting Divine Intervention. What dice are rolled to determine if the intervention occurs?",
+    "answer": "To determine if divine intervention occurs, roll percentile dice.",
+    "rules": [
+      "Cleric > Class Features > Divine Intervention"
+    ],
+    "rules_explanation": "The Divine Intervention rules state that percentile dice are rolled to see if it occurs."
+  },
+  {
+    "question": "The 4th level monk, is climbing a tree. What is the movement rate?",
+    "answer": "The Monk has a movement rate of 50 feet.",
+    "rules": [
+      "Monk > The Monk > Unarmored Movement"
+    ],
+    "rules_explanation": "The monks unarmored movement increases at certain levels, and at 4th level, has a 50 foot movement"
+  },
+  {
+    "question": "A character with the See Invisibility spell active has silvery gossamer adhering to and bringing forth prominently anything that is invisible. Is anything revealed?",
+    "answer": "The See Invisibility spell reveals anything that is invisible.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > See Invisibility"
+    ],
+    "rules_explanation": "The See Invisibility spell reveals anything that is invisible."
+  },
+  {
+    "question": "Character is trying to use Thieves' Tools to check a wooden chest for traps. What dice roll is required?",
+    "answer": "To check for traps, a character must make a check using Thieves' Tools.",
+    "rules": [
+      "Tools > Thieves' Tools"
+    ],
+    "rules_explanation": "The rules for thieves' tools indicate that they are used to disarm traps."
+  },
+  {
+    "question": "Can a character who is not proficient with Tinker's tools add their proficiency bonus on a check using them?",
+    "answer": "A character may not add their proficiency bonus to a check made with tools unless they are proficient with those tools",
+    "rules": [
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "According to the rules about proficiency, a character must have proficiency to add the proficiency bonus to any check."
+  },
+  {
+    "question": "A character is casting the Mending spell. What components are required?",
+    "answer": "No components are required.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Mending"
+    ],
+    "rules_explanation": "The Mending spell has only verbal and somatic components, and no material components are required"
+  },
+  {
+    "question": "A character is performing a Sleight of Hand check to attempt to steal an item from someone. What is being rolled?",
+    "answer": "When trying to steal an item, you must make a Dexterity (Sleight of Hand) check.",
+    "rules": [
+      "Skills > Dexterity > Sleight of Hand"
+    ],
+    "rules_explanation": "The Sleight of Hand skill description explicitly mentions palming and lifting objects from others as an application of the skill."
+  },
+  {
+    "question": "Character is determining what kind of wood a chest is made of, what dice roll is required?",
+    "answer": "To determine what kind of wood something is, you must make a Nature check.",
+    "rules": [
+      "Skills > Intelligence > Nature"
+    ],
+    "rules_explanation": "The Nature skill is used to recall information about terrain, plants, and animals"
+  },
+  {
+    "question": "Is a character who is drawing caricature portraits giving it to people using a drawing from babynames.com receiving inspiration for said portrait?",
+    "answer": "Inspiration is given at the discretion of the DM. But if you are using a drawing from babynames.com that might or might not give you inspiration, you have to ask to DM.",
+    "rules": [
+      "Using Ability Scores > Inspiration > Gaining Inspiration"
+    ],
+    "rules_explanation": "The gaining inspiration rules state that it is given at the discretion of the DM."
+  },
+  {
+    "question": "Can a character cast Enhance Ability, giving advantage to charisma checks for another player's musical performance?",
+    "answer": "Yes, the Enhance Ability spell allows a caster to grant advantage to another's Charisma checks",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Enhance Ability"
+    ],
+    "rules_explanation": "The Enhance Ability spell grants advantage on ability checks."
+  },
+  {
+    "question": "A character is attempting to discern something about the flavors and spices available in a new location. What ability check should be rolled?",
+    "answer": "A perception check is required",
+    "rules": [
+      "Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "Perception checks are used to be aware of surroundings, this falls under the purview of perception."
+  },
+  {
+    "question": "What is the effect of casting Eyes of the Grave",
+    "answer": "The Eyes of the Grave spell does not exist in the SRD",
+    "rules": [],
+    "rules_explanation": "The spell cannot be found in the SRD"
+  },
+  {
+    "question": "How many feet does one move per round of travel in difficult terrain?",
+    "answer": "In difficult terrain, you move at half speed.",
+    "rules": [
+      "Adventuring > Movement > Difficult Terrain"
+    ],
+    "rules_explanation": "The rules state that you move at half speed in difficult terrain."
+  },
+  {
+    "question": "A character wants to leave a mark to signal other party members. How long does that action take?",
+    "answer": "This information is not available in the SRD",
+    "rules": [],
+    "rules_explanation": "The time required for this activity is not defined in the SRD."
+  },
+  {
+    "question": "If a character casts Commune is given an answer from a being and asks if it is the Traveler giving him the answer but suspects it is a denizen giving the answer, is it the Traveler or a denizen?",
+    "answer": "The source of the voice is up to the DM's discretion.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Commune"
+    ],
+    "rules_explanation": "The GM chooses the wording of the answers from the deity."
+  },
+  {
+    "question": "What bonuses, if any, does a character get when attempting to throw something that is known to be very talented in throwing, that can't be found any other way?",
+    "answer": "A character can use the Help action to grant an ally advantage on an ability check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The help action allows a first character to give a second character advantage on a ability check to help them do a certain action.  It is within the DM's ability to allow the same bonuses to apply for a second character that has certain skills and abilities. There are no other rules for this kind of help."
+  },
+  {
+    "question": "To bend space to someone's will, what proficiency do you use?",
+    "answer": "This is not covered in the rules. The DM may adjudicate if the effect can be used to bend space to someone's will.",
+    "rules": [],
+    "rules_explanation": "There are no set rules for what is required to 'bend space to someone's will'. This is outside the scope of the rules provided."
+  },
+  {
+    "question": "If a character is walking, and has something watching them, does the fact that they were talking about that to that character lessen that feeling that they were being watched?",
+    "answer": "This is not covered in the rules. If you take this action, ask to DM",
+    "rules": [],
+    "rules_explanation": "There is no rule given that addresses the effects of talking to a character about being watched in how they are perceived."
+  },
+  {
+    "question": "A character casts See Invisibility and finds no invisible presence. If the same character, at the same time, is using Divine Sense, can they detect the same presence with either spell?",
+    "answer": "The Divine Sense spell reveals the presence of certain types of creatures, but does not reveal their location. The See Invisibility spell reveals the presence of invisible creatures.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Divine Sense",
+      "Spellcasting > Spell Descriptions > See Invisibility"
+    ],
+    "rules_explanation": "The spells reveal different kinds of presences"
+  },
+  {
+    "question": "If a character is a known practitioner of magic, as well as known, specifically to their family, to give presents to people of the opposite sex, but wants to secretly give them a cursed item, what would give them advantage on keeping it a secret?",
+    "answer": "It would involve acting in good faith, which calls for a Charisma (Persuasion) check",
+    "rules": [
+      "Skills > Charisma > Persuasion"
+    ],
+    "rules_explanation": "The text on Persuasion states that it is used when acting in good faith. There is not a specific class or other rule that mentions these effects and interactions"
+  },
+  {
+    "question": "A character is being carried over terrain difficult to traverse. How does the speed of the one carrying effect their own speed, how does it effect the movement of the one being carried?",
+    "answer": "There are no rules for one creature carrying another creature through difficult terrain. The DM must adjudicate this situation.",
+    "rules": [],
+    "rules_explanation": "There are no specific rules covering this situation in the SRD, so the DM must adjudicate"
+  },
+  {
+    "question": "What are the rules for using the Mending spell to repair a broken timepiece?",
+    "answer": "The Mending spell repairs a single break or tear in an object you touch, such as two halves of a broken key. The spell can't restore magic to an object. ",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Mending"
+    ],
+    "rules_explanation": "the SRD spell Mending's description limits what it can do."
+  },
+  {
+    "question": "Does a character being healed with the Prayer of Healing have their bad taste in socks effected?",
+    "answer": "The spell does not affect taste, but cures diseases.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Prayer of Healing"
+    ],
+    "rules_explanation": "The text of the Prayer of Healing spell does not affect taste."
+  },
+  {
+    "question": "Can you provide the text for Sleight of Hand skill",
+    "answer": "Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The GM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.",
+    "rules": [
+      "Skills > Dexterity > Sleight of Hand"
+    ],
+    "rules_explanation": "The text of sleight of hand"
+  },
+  {
+    "question": "When the Enhance Ability spell has been cast on a character to improve their Charisma checks, does that require a saving throw for the targeted character?",
+    "answer": "No saving throw is required.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Enhance Ability"
+    ],
+    "rules_explanation": "There is nothing in the spell description to indicate that a saving throw is required."
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "question": "Can Bardic Inspiration stack with Bless?",
+    "answer": "Yes.",
+    "rules": [
+      "Basic Rules > Combat > Making an Attack > Bonus",
+      "Player's Handbook > Classes > Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "The conversation indicates that Bardic Inspiration is being used to increase an attack roll along with the Bless spell.  Multiple bonuses can apply to a single roll, so the DM confirms that these spells can stack."
+  },
+  {
+    "question": "Aura of Protection grants a bonus to saving throws equal to the Paladin's charisma modifier. Is the bonus from the Paladin's Aura of Protection to saving throws equal to the paladin's Charisma score of 11, or the paladin's charisma modifier of +3?",
+    "answer": "The bonus to saving throws is equal to the paladin's Charisma modifier of +3.",
+    "rules": [
+      "Player's Handbook > Classes > Paladin > Aura of Protection"
+    ],
+    "rules_explanation": "The Aura of Protection feature states the bonus to saving throws is equal to the paladin's Charisma modifier, not the Charisma score."
+  },
+  {
+    "question": "Does the Bless spell apply to all rolls, or only saving throws and attack rolls?",
+    "answer": "Bless only applies to attack rolls and saving throws.",
+    "rules": [
+      "Player's Handbook > Spells > Bless"
+    ],
+    "rules_explanation": "The rules of the bless spell state that it only applies to attack rolls and saving throws."
+  },
+  {
+    "question": "Does the Paladin's Divine Smite happen on every attack?",
+    "answer": "Divine Smite happens whenever you hit with a melee weapon attack.",
+    "rules": [
+      "Player's Handbook > Classes > Paladin > Divine Smite"
+    ],
+    "rules_explanation": "The Divine Smite feature specifies it is applied whenever you hit with a melee weapon attack."
+  },
+  {
+    "question": "If a character has Haste and misses an attack, can the Hasted action be used to attempt to hit the same target again?",
+    "answer": "Yes, if the Hasted action is used to attack, the target can be the same as the initial attack.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spells > Haste",
+      "Player's Handbook > Combat > Actions in Combat > Attack"
+    ],
+    "rules_explanation": "When the haste spell is cast, it allows the use of an additional action to be used to attack. It was also specifically clarified that it can be used on the same spider, meaning there are no rules preventing the action being used that way."
+  },
+  {
+    "question": "If a dexterity saving throw is made, does the Bless spell apply to the saving throw?",
+    "answer": "Yes, bless applies to saving throws.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spells > Bless"
+    ],
+    "rules_explanation": "The Bless spell allows a character to add 1d4 to a saving throw."
+  },
+  {
+    "question": "Does a Hasted creature have advantage on Dexterity saving throws?",
+    "answer": "Yes, hasted creatures have advantage on Dexterity saving throws.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spells > Haste"
+    ],
+    "rules_explanation": "The haste spell has a specific property of granting advantage on dexterity saving throws."
+  },
+  {
+    "question": "Can a monk use a ki point to double jump distance and then teleport to a location further than their jump distance would allow?",
+    "answer": "No, spending a ki point to double jump distance only increases the maximum range of the jump, and it does not allow for teleportation.",
+    "rules": [
+      "Player's Handbook > Classes > Monk > Step of the Wind",
+      "Player's Handbook > Combat > Movement and Position > Jumping"
+    ],
+    "rules_explanation": "The monk ability Step of the Wind allows the monk to double jump distance by spending a ki point. There is no rule or reference to the ability allowing teleportation."
+  },
+  {
+    "question": "If a monk runs into a tree and is about to make a dexterity saving throw, does the bless spell apply to the saving throw?",
+    "answer": "Yes, the bless spell applies to saving throws.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spells > Bless"
+    ],
+    "rules_explanation": "The bless spell adds 1d4 to the saving throws."
+  },
+  {
+    "question": "What action is Step of the Wind?",
+    "answer": "Step of the Wind is a bonus action.",
+    "rules": [
+      "Player's Handbook > Classes > Monk > Step of the Wind"
+    ],
+    "rules_explanation": "Step of the Wind is specifically described as a bonus action."
+  },
+  {
+    "question": "If a creature is under the effect of the Mass Suggestion spell, can they make a saving throw to negate the effect?",
+    "answer": "There is not a way to save against Mass Suggestion after the initial saving throw, but specific conditions can negate the effect. If a creature is hit by an ally, they can roll a wisdom saving throw against the suggestion.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spells > Mass Suggestion"
+    ],
+    "rules_explanation": "The text of the spell Mass Suggestion does not indicate a secondary saving throw, but a companion that causes damage to the affected ally will automatically end the spell."
+  },
+  {
+    "question": "When a melee attack is made against a character who is at 0 hit points, is it an automatic critical hit?",
+    "answer": "Yes, any attack that hits a creature that is incapacitated (such as being at 0 hit points) is a critical hit if the attacker is within 5 feet of the creature.",
+    "rules": [
+      "Player's Handbook > Combat > Making an Attack > Critical Hits"
+    ],
+    "rules_explanation": "When a creature is incapacitated and an attacker is within 5 feet of the creature, any attack is a critical hit."
+  },
+  {
+    "question": "If a critical hit is made against a character that is at 0 hit points, how many failed death saving throws does that cause?",
+    "answer": "A critical hit against a character that is at 0 hit points counts as two failed death saving throws.",
+    "rules": [
+      "Player's Handbook > Combat > Making Death Saving Throws"
+    ],
+    "rules_explanation": "When an attack hits a creature, that is at 0 hit points, and is a critical hit, the target suffers two death saving throws."
+  },
+  {
+    "question": "Can a character use their inspiration point to reroll a d20 on a check and not have disadvantage count?",
+    "answer": "Yes, you can use inspiration and reroll the roll as if you did not have disadvantage.",
+    "rules": [
+      "Player's Handbook > Using Ability Scores > Advantage and Disadvantage",
+      "Player's Handbook > Inspiration"
+    ],
+    "rules_explanation": "Normally, you cannot have both advantage and disadvantage, and they cancel each other out, but if you have the inspiration, it provides advantage, and you can take one of the dice rolls. In this instance, the character choose to roll with advantage with the inspiration to avoid the effects of disadvantage."
+  },
+  {
+    "question": "If a creature is under the effect of the Geas spell, can that affect what occurs during their turn?",
+    "answer": "Yes, a geas forces a creature to do or not do something, and every time a creature acts against the geas, they take 5d10 damage.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spells > Geas"
+    ],
+    "rules_explanation": "The geas has a range of 60 feet and forces a creature to do something or not do something. Every time the creature acts against the geas, they take 5d10 damage."
+  },
+  {
+    "question": "While under the effects of a Mass Suggestion spell, if an outside force causes the caster of suggestion to change a creatures mind about what they are supposed to do, does that end the spell?",
+    "answer": "No, this action alone does not end the effect of mass suggestion.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spells > Mass Suggestion"
+    ],
+    "rules_explanation": "There are no specific rules that state how a change of heart can affect the power of the spell Mass Suggestion. But some other magical effects and attacks would allow a player to make a new saving throw and or potentially damage the creature and remove the spell. A simple change of heart however will not end the effect, unless the caster ends it."
+  },
+  {
+    "question": "If a character attempts to make an intimidation check against an enemy to turn around, what kind of roll do they make?",
+    "answer": "For an intimidation check you roll a d20 and add your charisma modifier.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To make an ability check you need to roll a d20 and add your relevant ability modifier. The intimidation skill uses the charisma modifier."
+  },
+  {
+    "question": "If a person leaves the game does the Goddess still retain the wisdom saving throw, or does it then just become an opposed role?",
+    "answer": "As a player choice, it should be a roll, and not opposed.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Since it was not an existing roll, but one requested at the time that is in response to the character, it is not an opposed role, but instead it should just become a saving throw."
+  },
+  {
+    "question": "Is the telepathic link of Rary's Telepathic Bond an action, or a free action?",
+    "answer": "The Telepathic link of Rary's Telepathic Bond is not specified as an action or free action, therefore it is assumed to require no action.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spells > Rary's Telepathic Bond"
+    ],
+    "rules_explanation": "The text of the spell does not indicate that there is an action required to maintain telepathy, therefore it assumed to be a passive connection after the initial casting. There is also no specified rule for determining when something is a free action."
+  },
+  {
+    "question": "If a character attempts to influence something or attempt something that goes against the natural disposition, do they roll perception?",
+    "answer": "In this case, they roll persuasion.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Charisma",
+      "Basic Rules > Using Ability Scores > Skills > Persuasion"
+    ],
+    "rules_explanation": "In this instance the character is trying to get the gods to be on her side and go against their natural instincts, so persuasion check is required to see if she can get the gods to align with her goal."
+  },
+  {
+    "question": "When a paladin moves over to pick up an object after an attack, does that draw an opportunity attack?",
+    "answer": "Yes, unless they take the disengage action.",
+    "rules": [
+      "Basic Rules > Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "If you move to an adjacent tile to an enemy, you will be hit with an opportunity attack unless you disengage."
+  },
+  {
+    "question": "If a PC declares intent to grapple as part of the attack action, and an enemy teleports away, does the object they are about to grab make an opportunity attack?",
+    "answer": "No, an object cannot make an opportunity attack",
+    "rules": [
+      "Basic Rules > Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "Only creatures can make opportunity attacks, not objects."
+  },
+  {
+    "question": "If a Wisdom saving throw is made, what dice should be rolled?",
+    "answer": "A Wisdom saving throw is made using a d20.",
+    "rules": [
+      "Basic Rules > Combat > Saving Throws"
+    ],
+    "rules_explanation": "For saving throws, you roll a d20."
+  },
+  {
+    "question": "In this instance of the ability to make an intimidation check, will the modifier be 3 (plus 1d4 because of bless) or the other +8?",
+    "answer": "The roll would be a 3+ plus 1d4 from the bless bonus.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Ability Checks",
+      "Player's Handbook > Spellcasting > Spells > Bless"
+    ],
+    "rules_explanation": "You roll d20 + your intimidation bonus (which is set by your charisma), and you add an additional d4 because you have bless."
+  },
+  {
+    "question": "What is the action to try to break the effect of mass suggestion once in the radius of affect?",
+    "answer": "No action is required, but at the end of each of its turns, a Wisdom saving throw can be made.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spells > Mass Suggestion"
+    ],
+    "rules_explanation": "Since mass suggestion requires a save, no action is required."
+  },
+  {
+    "question": "When using Matron of the Ravens power to attack, what is added to the roll to hit the target?",
+    "answer": "Add 1d4 to the attack roll because of bless.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spells > Bless"
+    ],
+    "rules_explanation": "Bless adds 1d4 to attack rolls."
+  },
+  {
+    "question": "Does being immune to disease also make one immune to poison damage.",
+    "answer": "No, being immune to disease does not make one immune to poison damage.",
+    "rules": [
+      "Player's Handbook > Appendix A: Conditions > Poisoned"
+    ],
+    "rules_explanation": "The poisoned condition and poison damage are separate game effects and are not inherently linked."
+  },
+  {
+    "question": "When a ranged spell is made, can half cover be ignored?",
+    "answer": "Yes, the +1, +2 or +3 weapon ability can ignore half cover.",
+    "rules": [
+      "Magic Item Listing > Weapon, +1, +2, or +3"
+    ],
+    "rules_explanation": "The rule states that there is an ability of the weapon that ignores half cover. If the weapon does not have this specific property, the spell cannot ignore half cover."
+  },
+  {
+    "question": "How long does the mass suggestion spell last?",
+    "answer": "The Mass Suggestion spell lasts 24 hours at the 6th-level, but the duration can increase with a higher level spell slot.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spells > Mass Suggestion"
+    ],
+    "rules_explanation": "The rules for mass suggestion are a base of 24 hours, but this can increase with the level of the spell slot used to cast it."
+  },
+  {
+    "question": "If the Mass Cure Wounds spell is used can only 23 be used, or the amount that they were at?",
+    "answer": "The maximum is only what was missing.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spells > Cure Wounds"
+    ],
+    "rules_explanation": "You cannot heal above the maximum amount."
+  },
+  {
+    "question": "Is there a rule on what happens when you attack someone while they're down and it's in melee?",
+    "answer": "Yes, the attack has advantage, or it hits automatically and crits.",
+    "rules": [
+      "Player's Handbook > Combat > Making an Attack > Unconscious"
+    ],
+    "rules_explanation": "When you make a melee attack against a creature that is unconscious, any attack hits. If the attacker is within 5 feet of the creature, the attack is a critical hit"
+  },
+  {
+    "question": "If an intimidation check is made, can I use strength or do I have to use Charisma?",
+    "answer": "You can use whatever the game master allows.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Skills > Skills with Different Abilities"
+    ],
+    "rules_explanation": "If it can be argued that something fits what a game master might see fit, then it is okay and reasonable to allow it."
+  }
+]

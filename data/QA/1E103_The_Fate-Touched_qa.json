@@ -1,0 +1,358 @@
+[
+  {
+    "question": "Can the level 11, class unknown gnome get advantage on a Wisdom saving throw against a magical effect?",
+    "answer": "Yes, due to the Gnome Cunning racial trait.",
+    "rules": [
+      "Races Racial Traits > Subraces",
+      "Gnome Gnome Traits > Gnome Cunning"
+    ],
+    "rules_explanation": "The Gnome Cunning trait applies to all Intelligence, Wisdom, and Charisma saving throws against magic and the Gnome's race is known."
+  },
+  {
+    "question": "The level 12 rogue needs to find a hidden object. What type of ability check should she make?",
+    "answer": "Make an Intelligence (Investigation) check.",
+    "rules": [
+      "Using Ability Scores > Intelligence > Intelligence Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "Finding a hidden object is explicitly given as an example of when to use a check with the investigation skill. Also, the Investigation skill is explicitly connected to Intelligence checks."
+  },
+  {
+    "question": "Does the heavily obscured area created by fog cloud impose disadvantage on the level 5 paladin's Wisdom (Perception) check?",
+    "answer": "Yes, the level 5 paladin has disadvantage on Wisdom (Perception) checks that rely on sight in a heavily obscured area.",
+    "rules": [
+      "The Environment > Vision and Light",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules states that a heavily obscured area blocks vision and that heavily obscured area imposes disadvantage on Wisdom (Perception) checks that rely on sight"
+  },
+  {
+    "question": "What happens when a level 12 rogue makes a Nature check and rolls a natural 20?",
+    "answer": "The level 12 rogue makes the Nature check as normal.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A natural 20 is not explicitly advantageous on ability checks."
+  },
+  {
+    "question": "The level 12 rogue is proficient in two skills. At what levels does a character gain expertise?",
+    "answer": "The character with rogue levels gains expertise at 3rd and 10th level in the rogue class.",
+    "rules": [
+      "Rogue > Class Features > Expertise"
+    ],
+    "rules_explanation": "The rogue class description specifies when the Expertise feature is gained."
+  },
+  {
+    "question": "Is it possible for a level 5 paladin, level 12 rogue, level 1 nudist to have Unarmored Defense",
+    "answer": "No, a level 5 paladin, level 12 rogue, level 1 nudist is not eligible to have Unarmored Defense.",
+    "rules": [
+      "Barbarian > Class Features > Unarmored Defense"
+    ],
+    "rules_explanation": "Unarmored Defense is a barbarian class feature and that character is not a barbarian."
+  },
+  {
+    "question": "If the level 12 rogue adds +3 from Jack of All Trades to a religion check, is this correct?",
+    "answer": "No, the level 12 rogue would add +2 (half of proficiency bonus rounded down) from Jack of All Trades to the religion check.",
+    "rules": [
+      "Bard > Class Features > Jack of All Trades"
+    ],
+    "rules_explanation": "The Jack of All Trades feature add half of a character's proficiency bonus to an ability check."
+  },
+  {
+    "question": "How long does a barbarian have to rest to remove one point of exhaustion?",
+    "answer": "A barbarian removes one level of exhaustion after finishing a long rest, but only if the character has also ingested some food and drink.",
+    "rules": [
+      "Adventuring > Resting > Long Rest",
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "A long rest is required and the character has to ingest food and drink."
+  },
+  {
+    "question": "Can a level 12 rogue gnome use wrist pocket on Pike?",
+    "answer": "No. Wrist Pocket can only be used on objects that weight less than 5 pounds",
+    "rules": [
+      "No matching rules. See reasoning."
+    ],
+    "rules_explanation": "The question is about if an ability can be used on something. There are no rules about specific spells or abilities in this SRD. The player is making a judgement on weight."
+  },
+  {
+    "question": "What kind of check is needed to figure out how many diamonds are in 25000 gold pieces worth of diamonds",
+    "answer": "Make an intelligence check",
+    "rules": [
+      "No matching rules. See reasoning."
+    ],
+    "rules_explanation": "There is no rule for this, this is the Dungeon Master requesting an ability check."
+  },
+  {
+    "question": "If the level 12 rogue tries to cast an object into a pocket dimension that she doesn't know much about, is there a chance that nobody else can ever get into it?",
+    "answer": "There is no guarantee anyone else can ever get into it. See reasoning.",
+    "rules": [
+      "No matching rules. See reasoning."
+    ],
+    "rules_explanation": "There is no rule for this, this is a question regarding a fictional world."
+  },
+  {
+    "question": "Does a natural 20 on a nature check result in the character automatically being familiar with the forest?",
+    "answer": "A natural 20 does not mean the character is automatically familiar with the forest.  A natural 20 on an ability check means the GM can be more generous with what the character knows or is able to accomplish.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The result of ability checks is decided by the DM not set in the rules. There is no special rule for a Natural 20 on an ability check that gives it special properties outside of normal success."
+  },
+  {
+    "question": "Is it possible to specify a location when using Plane Shift?",
+    "answer": "Plane Shift is general, but Plane Shift does require that an area is picked.",
+    "rules": [
+      "No matching rules. See reasoning."
+    ],
+    "rules_explanation": "There are no rules about specific spells or abilities in this SRD. This is a judgement call on spell interpretation."
+  },
+  {
+    "question": "Can a 6th level Life Domain cleric use Channel Divinity to remove blindness?",
+    "answer": "The 6th level Life Domain cleric cannot use Channel Divinity to remove blindness.  The 6th level Life Domain cleric can use Channel Divinity: Preserve Life to heal the badly injured.",
+    "rules": [
+      "Cleric > Class Features > Channel Divinity",
+      "Cleric > Divine Domains > Life Domain > Channel Divinity: Preserve Life"
+    ],
+    "rules_explanation": "Channel Divinity: Preserve Life does not have any effect to remove the blindness condition"
+  },
+  {
+    "question": "Can a level 5 bard bardic inspiration be used on a saving throw?",
+    "answer": "Yes, the Bardic Inspiration can be added to one saving throw",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "The Bardic Inspiration die can be added to one ability check, attack roll, or saving throw."
+  },
+  {
+    "question": "Does Gnome Cunning grant advantage on a planar effect saving throw",
+    "answer": "No, as a gnome, Gnome Cunning would not grant you advantage for this effect because it is not a spell or a magical effect.",
+    "rules": [
+      "Races Racial Traits > Subraces",
+      "Gnome Gnome Traits > Gnome Cunning"
+    ],
+    "rules_explanation": "The Gnome Cunning trait only applies to Intelligence, Wisdom, and Charisma saving throws against magic."
+  },
+  {
+    "question": "Can the level 5 cleric use Greater Restoration to remove memory loss?",
+    "answer": "No, a 5th-level cleric cannot use Greater Restoration to remove memory loss because memory loss is not a condition that Greater Restoration can remove.",
+    "rules": [
+      "Cleric Spells > Greater Restoration"
+    ],
+    "rules_explanation": "The Greater Restoration spell only allows for the following effects to be ended: One effect that charmed or petrified the target, One curse, including the target's attunement to a cursed magic item, Any reduction to one of the target's ability scores, One effect reducing the target's hit point maximum. Memory loss is none of these"
+  },
+  {
+    "question": "When does a barbarian get a second attack?",
+    "answer": "A barbarian gains the Extra Attack feature at 5th level.",
+    "rules": [
+      "Barbarian > Class Features > Extra Attack"
+    ],
+    "rules_explanation": "Extra Attack is described as a class feature of the Barbarian."
+  },
+  {
+    "question": "Can a level 12 paladin rogue make a deception check with disadvantage to disguise himself as Peter Frostbucket?",
+    "answer": "Yes, a level 12 paladin rogue can make a deception check with disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules allow for ability checks with disadvantage."
+  },
+  {
+    "question": "Can the level 12 rogue use Major Image to create an Iron Man.",
+    "answer": "Yes, the level 12 rogue can use Major Image to create an image of an Iron Man.",
+    "rules": [
+      "Wizard Spells > Major Image"
+    ],
+    "rules_explanation": "Major Image can be used to create an image of an object or creature as long as it's no larger than a 20-foot cube."
+  },
+  {
+    "question": "If the level 12 rogue gets a 20 on a deception check can it make the guards automatically believe him",
+    "answer": "The guard is not automatically convinced, the GM compares the total of the roll plus modifiers to the DC set for the task. The outcome of ability checks is under the purview of the GM.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM still decides whether or not the DC is passed after modifiers and bonuses are applied to the roll."
+  },
+  {
+    "question": "The party wants to go from Vasselheim to Sarenrae as fast as possible which transportation method should the party take",
+    "answer": "According to the GM if the party puts their hands together and teleports, the party will rapidly appear right on the outskirts of the outer wall of Vasselheim.",
+    "rules": [
+      "No matching rules. See reasoning."
+    ],
+    "rules_explanation": "There are no rules about specific spells or abilities in this SRD. This is a judgement call from the DM about spell interpretation. There are no listed mechanics for hand holding."
+  },
+  {
+    "question": "Can a party that is attuned to multiple deities be accepted into a single-deity plane?",
+    "answer": "This is up to the GM. See reasoning.",
+    "rules": [
+      "No matching rules. See reasoning."
+    ],
+    "rules_explanation": "The success of the party relies on the GM's interpretation of the lore."
+  },
+  {
+    "question": "After getting memory back from Greater Restoration does he automatically remembers everything?",
+    "answer": "The spell, Greater Restoration, only restores memory loss caused by a charmed or petrified condition",
+    "rules": [
+      "Cleric Spells > Greater Restoration"
+    ],
+    "rules_explanation": "The Greater Restoration spell only allows for the following effects to be ended: One effect that charmed or petrified the target, One curse, including the target's attunement to a cursed magic item, Any reduction to one of the target's ability scores, One effect reducing the target's hit point maximum."
+  },
+  {
+    "question": "Does Bardic Inspiration work with Saving Throws.",
+    "answer": "Yes. The die from Bardic Inspiration can be added to ability checks, attack rolls, or saving throws.",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "The Bardic Inspiration die can be added to ability checks, attack rolls, or saving throws."
+  },
+  {
+    "question": "If a player had the Fey Ancestry racial trait would that grant immunity to losing memories from plane shifting?",
+    "answer": "No, the Fey Ancestry trait only provides advantage on saving throws against being charmed and immunity to being put to sleep by magic.",
+    "rules": [
+      "Elf > Elf Traits > Fey Ancestry",
+      "Half-Elf > Half-Elf Traits > Fey Ancestry"
+    ],
+    "rules_explanation": "The Fey Ancestry trait only provides advantage on saving throws against being charmed and immunity to being put to sleep by magic. Plane shifting memory loss is not the charmed condition."
+  },
+  {
+    "question": "If a Wizard cast the Polymorph spell, does the caster maintain original skills from the originating form?",
+    "answer": "When polymorphed, the creature retains all of your skill and saving throw proficiencies, in addition to gaining those of the creature you polymorph into. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours.",
+    "rules": [
+      "Wizard Spells > Polymorph"
+    ],
+    "rules_explanation": "The Polymorph entry states The target retains all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours."
+  },
+  {
+    "question": "What is the base amount of travel hours for a party that takes a long rest.",
+    "answer": "When traveling, the Travel Pace table assumes that characters travel for 8 hours in day",
+    "rules": [
+      "Adventuring > Movement > Travel Pace"
+    ],
+    "rules_explanation": "The GM can use different scales of time depending on the situation, but generally, the characters travel for 8 hours."
+  },
+  {
+    "question": "Is a character that has been dead for any period of time entitled to an eternal rest",
+    "answer": "The Mask recedes into the darkness and says, Your body is ash, and your soul is steeped in the divine energies that uphold the paths between life and death. You've earned your eternal rest.",
+    "rules": [
+      "No matching rules. See reasoning."
+    ],
+    "rules_explanation": "This is flavor text and does not reflect any actual rules in the SRD"
+  },
+  {
+    "question": "Does the creator get to decide where an elemental and beast they summon appears",
+    "answer": "For Conjure Animals the fey spirits that take the form of beasts appear in unoccupied spaces that you can see within range. For Conjure Elemental the elemental appears in an unoccupied space within 10 feet of the area of air, earth, fire, or water that fills a 10-foot cube within range.",
+    "rules": [
+      "Wizard Spells > Conjure Animals",
+      "Wizard Spells > Conjure Elemental"
+    ],
+    "rules_explanation": "The two spells have distinct conditions for where the summoned creatures appear"
+  },
+  {
+    "question": "Can you cast spells while in beast form.",
+    "answer": "Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.",
+    "rules": [
+      "Druid > Class Features > Beast Spells"
+    ],
+    "rules_explanation": "This is a high level Druid Class Feature"
+  },
+  {
+    "question": "How many languages do half elves know?",
+    "answer": "Half-Elves know common, elvish and one extra language of their choice",
+    "rules": [
+      "Half-Elf > Half-Elf Traits > Languages"
+    ],
+    "rules_explanation": "The racial trait Languages states You can speak, read, and write Common, Elvish, and one extra language of your choice."
+  },
+  {
+    "question": "Are you immune to charm if you have the Fey Ancestry racial trait.",
+    "answer": "You have advantage on saving throws against being charmed, and magic can't put you to sleep if you have the Fey Ancestry racial trait.",
+    "rules": [
+      "Elf > Elf Traits > Fey Ancestry",
+      "Half-Elf > Half-Elf Traits > Fey Ancestry"
+    ],
+    "rules_explanation": "The racial trait, Fey Ancestry, does not give you immunity to the charmed condition, it grants advantage on saving throws against being charmed"
+  },
+  {
+    "question": "If you are frenzied and don't rest what happens?",
+    "answer": "If you don't rest, you don't get rid of that point of exhaustion. Gaining one level of exhaustion can impose disadvantage on ability checks, reduce speed, and impose disadvantage on attack rolls and saving throws.",
+    "rules": [
+      "Barbarian > Path of the Berserker > Frenzy",
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "The barbarian has a frenzy which can result in exhaustion. This can only be removed by taking long rests."
+  },
+  {
+    "question": "When you Channel Divinity: Turn Undead does it affect the players or is it the player's decision to be affected.",
+    "answer": "If the undead fails its saving throw, it is turned for 1 minute or until it takes any damage.",
+    "rules": [
+      "Cleric > Class Features > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "Undead that meet the requirements of Channel Divinity: Turn Undead must roll against the effect or be turned."
+  },
+  {
+    "question": "Which saving throws does a Gnome get advantage on?",
+    "answer": "A gnome has advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.",
+    "rules": [
+      "Races Racial Traits > Gnome > Gnome Traits > Gnome Cunning"
+    ],
+    "rules_explanation": "Gnome Cunning says You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+  },
+  {
+    "question": "Can you use greater restoration to get rid of a madness?",
+    "answer": "A *greater restoration* spell or more powerful magic is required to rid a character of indefinite madness",
+    "rules": [
+      "Diseases > Madness > Curing Madness"
+    ],
+    "rules_explanation": "This explicitly states the cure to indefinite madness"
+  },
+  {
+    "question": "What happens when you plane shift into a plane of existence?",
+    "answer": "If you cast Plane Shift on yourself, your body and possessions are transported along the silver cord, allowing you to re-enter your body as you enter the new plane.",
+    "rules": [
+      "The Planes of Existence > Planar Travel > Spells"
+    ],
+    "rules_explanation": "This is specific to the Astral Projection spell but is the only part mentioning the effect when leaving the plane."
+  },
+  {
+    "question": "What happens to the party's equipment if they use plane shift?",
+    "answer": "When you use Plane Shift You can bring along objects as long as their weight doesn't exceed what you can carry",
+    "rules": [
+      "Wizard Spells > Plane Shift"
+    ],
+    "rules_explanation": "This explicitly describes the effect on a character's equipment while plane shifting."
+  },
+  {
+    "question": "The party ends up showing up on the wrong side of the portal when using Plane Shift. How does it resolve?",
+    "answer": "You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, and half your levels (rounded down) in the paladin and ranger classes. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.",
+    "rules": [
+      "Multiclassing > Class Features > Spellcasting"
+    ],
+    "rules_explanation": "This question requires a player to determine their spells, abilities and traits due to mulitclassing"
+  },
+  {
+    "question": "A first level cleric has a passive wisdom of 19. Is that Possible?",
+    "answer": "Passive Wisdom (Perception) is 10 + all modifiers that normally apply to the check. A 1st level character with a passive wisdom of 19 has a wisdom score of 18 and proficiency in perception",
+    "rules": [
+      "Using Ability Scores > Passive Checks"
+    ],
+    "rules_explanation": "Passive Perception Score = 10 + Wisdom Modifier + Proficiency Bonus if Proficient in Perception. This math is needed to determine if that state is possible."
+  },
+  {
+    "question": "What happens if a level 6 bard receives two instances of disadvantage?",
+    "answer": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Only one instance of either advantage or disadvantage can be applied"
+  },
+  {
+    "question": "If someone teleports but appears in a place already occupied by a object what happens to them?",
+    "answer": "If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you.",
+    "rules": [
+      "Wizard Spells > Plane Shift",
+      "Wizard Spells > Dimension Door"
+    ],
+    "rules_explanation": "The spell Plane Shift covers this situation."
+  }
+]

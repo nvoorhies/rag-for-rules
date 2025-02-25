@@ -1,0 +1,425 @@
+[
+  {
+    "question": "Can the 1st-level humanoids use urine of a dog for a jellyfish bite?",
+    "answer": "That is not specified in the reference document.",
+    "rules": [],
+    "rules_explanation": "The SRD doesn't specify this information so I can't answer."
+  },
+  {
+    "question": "When casting Spiritual Weapon to conjure a piano, does the performance check to play it use the spellcaster's spellcasting ability?",
+    "answer": "That is not specified in the spell description. The description reads 'Make a performance check.'",
+    "rules": [
+      "Section MM-B > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The spellcasting ability section provides details about the DC or modifiers to use for spellcasting, but does not state what ability applies for a performance check."
+  },
+  {
+    "question": "When Yasha, a character with several hours remaining in her reading, spends the remaining 17 hours reading, what point of exhaustion is gained?",
+    "answer": "The character would gain one level of exhaustion.",
+    "rules": [
+      "Section Beyond 1st Level > Exhaustion"
+    ],
+    "rules_explanation": "The transcript shows that a certain amount of hours is given by the DM to complete an activity. Spending the full 17 hours will result in a point of exhaustion."
+  },
+  {
+    "question": "What does it mean when someone has advantage on a charisma check?",
+    "answer": "When you have advantage on an ability check you roll a second d20 when you make the roll. Use the higher of the two rolls.",
+    "rules": [
+      "Section Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This rule specifically describes how advantage affects ability checks."
+  },
+  {
+    "question": "Does a natural 20 on a skill roll such as a performance check automatically succeed?",
+    "answer": "The document states 'For skills, natural 20s aren't really a thing'. Natural 20s on saving throws and attack rolls always succeed.",
+    "rules": [
+      "Section Using Ability Scores > Attack Rolls",
+      "Section Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The rules around natural 20s are described in the attack roll section - and do not apply to skill checks."
+  },
+  {
+    "question": "Does it cost extra movement to crawl one foot through difficult terrain?",
+    "answer": "Yes. The document states that for every foot of movement while crawling costs 1 extra foot. Every foot of movement in difficult terrain costs 1 extra foot.",
+    "rules": [
+      "Section Movement > Special Types of Movement > Climbing, Swimming, and Crawling",
+      "Section Movement > Movement and Position > Difficult Terrain"
+    ],
+    "rules_explanation": "The rules for crawling and difficult terrain explicitly increase the cost of movement."
+  },
+  {
+    "question": "Can an Aasimar Paladin use a class feature such as Lay on Hands while sunning their butthole?",
+    "answer": "That is not specified in the SRD document. However, Lay on Hands does require the use of an action.",
+    "rules": [
+      "Section 7 - Paladin > Class Features > Lay on Hands"
+    ],
+    "rules_explanation": "The SRD does not specify any limitations or restrictions on the specific activity undertaken by a character using their class features. It only specifies the action required for the feature to be invoked."
+  },
+  {
+    "question": "If you gain the Extra Attack class feature from more than one class, do the features add together, allowing for more than two attacks with the Attack action?",
+    "answer": "No. The document states 'If you gain the Extra Attack class feature from more than one class, the features don't add together. You can't make more than two attacks with this feature unless it says you do (as the fighter's version of Extra Attack does).'",
+    "rules": [
+      "Section Multiclassing > Class Features > Extra Attack"
+    ],
+    "rules_explanation": "The specific condition for this multi-class interaction is explicitly described in the document."
+  },
+  {
+    "question": "Does a Seeming spell that imitates clothing affect the AC of the target?",
+    "answer": "That is not explicitly specified in the description of the Seeming spell, though it is noted that it does disguises physical appearance as well as clothing, armor, weapons, and equipment.",
+    "rules": [
+      "Section Part Ii > Actions in Combat"
+    ],
+    "rules_explanation": "The limitations of the Seeing spell are explicitly described in its description."
+  },
+  {
+    "question": "A level 1 human Fighter with the Dueling fighting style uses the help action to assist another player. Does the advantage apply to damage rolls?",
+    "answer": "No. When you take the Help action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with, or on the first attack roll it makes against a creature if you are distracting the target.",
+    "rules": [
+      "Section Actions in Combat > Help",
+      "Section Fighter > Class Features > Fighting Style > Dueling"
+    ],
+    "rules_explanation": "The rules on the Help action don't include any additional benefit to damage rolls. Dueling only provides a bonus to damage rolls with a one-handed melee weapon."
+  },
+  {
+    "question": "If a half-orc fighter uses the relentless endurance feature to drop to 1 hit point instead of zero hit points, and the attack that would have reduced them to zero was a critical hit, how many death saving throw failures are applied?",
+    "answer": "The character does not need to make a death saving throw. Relentless Endurance prevents the hit point drop. The effects of the critical hit do not persist.",
+    "rules": [
+      "Section Races Racial Traits > Half-Orc > Relentless Endurance",
+      "Section Combat > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "The Relentless Endurance trait specifically replaces the zeroing of hit points with a drop to 1, thus circumventing any need to follow the rules for saving throws. The damage taken is inconsequential once that drop occurs."
+  },
+  {
+    "question": "Can a 15th level character be charmed by a spell with no effect on the duration because they take a 27 on their save roll, when the spell has a DC of 17?",
+    "answer": "No, because the document state they must have been in the save in order to be affected.",
+    "rules": [
+      "Section Combat > Saving Throws"
+    ],
+    "rules_explanation": "The result of the saving throw must be a failure, and the NPC in question passed."
+  },
+  {
+    "question": "If an aboleth attempts to probe the telepathy of an insight ful individual, would probing telepathy succeed?",
+    "answer": "Yes, if the Aboleth can see the individual.",
+    "rules": [
+      "Section Monsters > Aberrations > Aboleth > Probing Telepathy"
+    ],
+    "rules_explanation": "The text of Probing Telepathy indicates that the ability to communicate telepathically with the aboleth is the trigger for the Probing Telepathy trait to function, along with seeing the individual. The character does not need to fail any kind of check. "
+  },
+  {
+    "question": "If a character performs an action that is not described in the SRD document, does the DM decide whether that action is possible and what kind of roll is needed to determine success or failure?",
+    "answer": "Yes. According to the document 'When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.'",
+    "rules": [
+      "Section Combat > Actions in Combat"
+    ],
+    "rules_explanation": "This rule specifically assigns to the DM the decision making role in circumstances where the rules do not explicitly detail the mechanics of the world."
+  },
+  {
+    "question": "A paladin and a fighter are both hit by a basilisk's petrifying gaze. Does the paladin's Aura of Protection apply to saving throws against that effect?",
+    "answer": "Yes, the paladin and the fighter would each gain a bonus to the saving throw equal to the paladin's charisma modifier.",
+    "rules": [
+      "Section Monsters > Auran > Aura of Protection"
+    ],
+    "rules_explanation": "The Aura of Protection is applied to any saving throw by friendly creatures within the given radius. There are no caveats described for specific conditions or magical effects, so the rule can be assumed to apply to a basilisk gaze."
+  },
+  {
+    "question": "How is damage calculated for creatures in the area of an earthquake spell?",
+    "answer": "The damage is calculated using the rule for structures. The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends.",
+    "rules": [
+      "Section Spell Descriptions > Earthquake"
+    ],
+    "rules_explanation": "The Earthquake spell description lists the damage for structures, and has no specific damage rule for creatures."
+  },
+  {
+    "question": "In a world where it is nighttime all the time, does light radius of a wight change?",
+    "answer": "No, there is nothing in the document that implies that light in world affects the rules of vision.",
+    "rules": [],
+    "rules_explanation": "The rules specify that the radius of light and dim light applies, not that it changes based on the world."
+  },
+  {
+    "question": "If a PC in the party casts a spell using an item but doesn't have the required spellcasting ability (as a rogue using the Use Magic Device feat) and it causes a saving throw, what is the DC?",
+    "answer": "If you don't have a spellcasting ability, the spellcasting ability modifier is +0 for the item, and your proficiency bonus does apply.",
+    "rules": [
+      "Section Magic Items > Activating an Item > Spells"
+    ],
+    "rules_explanation": "This rule applies to spellcasting from magic items, it states how the spellcasting modifier is determined if you do not have a spellcasting ability"
+  },
+  {
+    "question": "Does the Lucky feat allow you to reroll a 2 on 2d6 necrotic damage rolled for the bite attack of a Vampire Spawn who's an NPC that you have just critically hit?",
+    "answer": "The player's feat does not allow you to reroll a 2, or any other damage die. Rather, the Lucky feat lets you reroll a 1 on the d20 for an attack roll, ability check, or saving throw.",
+    "rules": [
+      "Section Races Racial Traits > Halfling > Lucky",
+      "Section Gameplay Basics > Using Ability Scores > Attack Rolls"
+    ],
+    "rules_explanation": "The Lucky feat only applies to the d20 roll, and does not in any way affect damage. The conditions governing critical hits and melee attacks are not relevant to this case."
+  },
+  {
+    "question": "If a character is on the ground and has the grappled condition, can they crawl? If so, how far can they move?",
+    "answer": "A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed. To move while prone, you must crawl. Every foot of movement while crawling costs 1 extra foot.",
+    "rules": [
+      "Section Combat > Movement and Position > Being Prone",
+      "Section Conditions > Grappled",
+      "Section Combat > Movement and Position > Difficult Terrain"
+    ],
+    "rules_explanation": "The grappled condition sets speed to zero so a creature would be unable to stand without some other condition changing their speed. The crawling definition tells you how much movement it costs per foot to crawl (2 feet), and the difficult terrain section indicates that such terrain costs an additional foot of movement, bringing the total spent to 3 feet of movement for every 1 foot crawled through difficult terrain."
+  },
+  {
+    "question": "Can a PC character use the power of Pelor from the SRD ruleset to cast a spell on a character's butthole?",
+    "answer": "There are no rules for powers of Pelor in the SRD. There is a reference to what cleric's do during Pelor, but it does not specify anything in regards to the butthole. The character can cast a spell on themselves, if the spell states they are able to be a target.",
+    "rules": [
+      "Section Spellcasting > Targets"
+    ],
+    "rules_explanation": "The SRD document does not mention 'butt' or 'butthole' and therefore, the legality and mechanics of such a spell cannot be determined."
+  },
+  {
+    "question": "As a player, can you make a character be proficient in smith's tools and carpentry tools at the same time?",
+    "answer": "Yes, you can gain proficiency in each type of artisan's tools separately.",
+    "rules": [
+      "Equipment > Tools > Artisan's Tools"
+    ],
+    "rules_explanation": "A character could use their background, race or class to achieve this."
+  },
+  {
+    "question": "Can a warlock use a musical instrument as a spellcasting focus?",
+    "answer": "No. This is not specified in the spellcasting focus section of the spellcasting information.",
+    "rules": [
+      "Section Multiclassing > Spellcasting > Spells Known and Prepared"
+    ],
+    "rules_explanation": "The SRD details that druids and bards are the classes for which a musical instrument may be used as a spellcasting focus, there is no mention of warlocks having the same capacity. "
+  },
+  {
+    "question": "How many people can be on a dormant volcano?",
+    "answer": "There are no specific rules related to the maximum number of people on a volcano.",
+    "rules": [],
+    "rules_explanation": "This is not specified in the SRD."
+  },
+  {
+    "question": "Can you cast a spell without material components if they don't list an actual cost?",
+    "answer": "Yes, a character can use a component pouch or a spellcasting focus in place of the components specified for a spell, except for those components that have a specific cost.",
+    "rules": [
+      "Section Spellcasting > Casting a Spell > Components > Material (M)"
+    ],
+    "rules_explanation": "Material components without a specified cost can be bypassed using a spellcasting focus or a component pouch."
+  },
+  {
+    "question": "Can you take both an action and a bonus action on your turn?",
+    "answer": "Yes, you can take one action and one bonus action on your turn.",
+    "rules": [
+      "Section Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "This is explicitly allowed by the rules."
+  },
+  {
+    "question": "Can the Lucky feat prevent exhaustion and if so, how?",
+    "answer": "The Lucky feat does not prevent exhaustion. The Lucky feat allows you to reroll an attack roll, saving throw, or ability check, it is not possible to re-roll exhaustion. ",
+    "rules": [
+      "Section Beyond 1st Level > Exhaustion",
+      "Section Races > Halfling Racial Traits > Lucky"
+    ],
+    "rules_explanation": "The lucky feat only affects the d20 roll from an attack roll, saving throw, or ability check. And the exhaustion rule shows how the levels happen and its effects."
+  },
+  {
+    "question": "Does the disguise self spell affect how other spells react to the person disguised? Does it affect a Paladin's divine sense?",
+    "answer": "The document does not specify what happens when that spell is cast, but it does specify a number of limitations about it. For example, the changes wrought by this spell fail to hold up to physical inspection. ",
+    "rules": [
+      "Section Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "The details about the disguise self spell are explicitly described in the spell description. I cannot infer beyond the explicit details."
+  },
+  {
+    "question": "When a wild shaped Druid is using weapons, can they can be used with shillelagh?",
+    "answer": "That is not specified in the SRD document. Shillelagh makes the weapon magical, and it's unlikely the beast form has the proficiency to use it.",
+    "rules": [
+      "Section Spell Descriptions > Shillelagh",
+      "Section Druid > Class Features > Wild Shape"
+    ],
+    "rules_explanation": "The document specifies that 'For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already' but it does not specify its use in Wild Shape, where the creature's shape may not allow them to use human-shaped weapons."
+  },
+  {
+    "question": "In a Dungeons & Dragons game, is it possible to have a squadron of perineum sunning?",
+    "answer": "That is not specified in the reference document.",
+    "rules": [],
+    "rules_explanation": "The SRD doesn't specify this information so I can't answer."
+  },
+  {
+    "question": "What does the lucky feat allow?",
+    "answer": "When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.",
+    "rules": [
+      "Section Races > Halfling Racial Traits > Lucky"
+    ],
+    "rules_explanation": "That document describes how this racial trait works."
+  },
+  {
+    "question": "If a weapon or piece of ammunition is silvered, does that mean it's magical?",
+    "answer": "No, the silvered weapon quality is separate from whether it is also magical.",
+    "rules": [
+      "Section Equipment > Weapons > Silvered Weapons"
+    ],
+    "rules_explanation": "Silvering is described as an added procedure; magic weapons are also described independently."
+  },
+  {
+    "question": "What is the effect of the Dragonborn's breath weapon on the creature itself?",
+    "answer": "The breath weapon does not affect the dragonborn using it.",
+    "rules": [
+      "Section Races > Dragonborn > Racial Traits > Breath Weapon"
+    ],
+    "rules_explanation": "This portion of the rules has no mention of the breath weapon affecting the dragonborn itself. Only mentions affecting 'each creature in the area of the exhalation'."
+  },
+  {
+    "question": "Does a level 18 Wizard with the Spell Mastery Class Feature have to pick wizard spells from their spell book?",
+    "answer": "Yes. The document states 'Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook.'",
+    "rules": [
+      "Section Wizard > Class Features > Spell Mastery"
+    ],
+    "rules_explanation": "The spell mastery explicitly states that these have to be spells in your spellbook."
+  },
+  {
+    "question": "If someone casts enlarge/reduce on a character, and the character is already wearing armor, is it still possible to tell that they are under the effects of the spell without any checks?",
+    "answer": "The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion.",
+    "rules": [
+      "Hallucinatory Terrain"
+    ],
+    "rules_explanation": "The terrain doesn't change when enlarging or reducing and a check is usually made when the difference isn't obvious. Since the tactile sensation will remain unchanged, the spell should be obvious."
+  },
+  {
+    "question": "What are the conditions for a long rest?",
+    "answer": "A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours.",
+    "rules": [
+      "Section Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "These conditions are explicitly described in the SRD document section that defines long rests."
+  },
+  {
+    "question": "Is a peryton a challenge rating 5?",
+    "answer": "That is not specified in the reference document.",
+    "rules": [],
+    "rules_explanation": "I cannot answer this question because the SRD doesn't contain the statistics for the Peryton."
+  },
+  {
+    "question": "What happens when you try to cast a spell with a casting time longer than a single action or reaction?",
+    "answer": "When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so. If your concentration is broken, the spell fails, but you don't expend a spell slot. If you want to try casting the spell again, you must start over.",
+    "rules": [
+      "Section Spellcasting > Casting a Spell > Casting Time > Longer Casting Times"
+    ],
+    "rules_explanation": "This information is directly quoted from the SRD."
+  },
+  {
+    "question": "What actions can a spellcaster perform whilst concentrating on a spell?",
+    "answer": "Normal activity, such as moving and attacking, doesn't interfere with concentration.",
+    "rules": [
+      "Section Spellcasting > Casting a Spell > Duration > Concentration"
+    ],
+    "rules_explanation": "This rule indicates that you can perform normal actions whilst concentrating - the limitation is what breaks your concentration, such as casting another spell that requires concentration."
+  },
+  {
+    "question": "If an attacker has both advantage and disadvantage on an attack roll, how many d20s does the player roll?",
+    "answer": "You roll one d20. The document says 'If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20.'",
+    "rules": [
+      "Section Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The document directly covers this case."
+  },
+  {
+    "question": "If Jester is invisible and attacks a non-blinded opponent that cannot see her, what is the state of her attack roll?",
+    "answer": "The attack roll would have advantage. The SRD states 'When a creature can't see you, you have advantage on attack rolls against it.'",
+    "rules": [
+      "Section Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The attacker's blindness doesn't impose any conditions on the defender, this is a general rule for blindness in combat and so the attacker still gets advantage."
+  },
+  {
+    "question": "What kind of action would you use to apply poison to a weapon?",
+    "answer": "Applying the poison takes an action.",
+    "rules": [
+      "Section Equipment > Poisons > Sample Poisons > Poison, Basic"
+    ],
+    "rules_explanation": "As per item description."
+  },
+  {
+    "question": "If you used a 2nd level spell to cast Spiritual Weapon to conjure a pinkish piano, what would the hit points of the piano be?",
+    "answer": "The SRD does not provide information to answer this question. It describes spiritual weapon as a creation, but only provides its weapon attack. ",
+    "rules": [],
+    "rules_explanation": "There is no mention in the rules about hit points for objects/creations made with spells, it would be up to the DM to determine if it had hit points or other properties. This can't be answered with the given information."
+  },
+  {
+    "question": "Can a character that is proficient in Athletics add their proficiency bonus to a Constitution check?",
+    "answer": "That is not specified in the rules. The document indicates that Athletics is a Strength skill and the bonus only applies to those checks.",
+    "rules": [
+      "Section Using Ability Scores > Skills",
+      "Section Using Ability Scores > Strength Checks"
+    ],
+    "rules_explanation": "While there is a variant rule to allow for skills with different abilities, it is specified as a request to the GM rather than a hard rule. Otherwise the rules as specified list Athletics as only applicable to Strength."
+  },
+  {
+    "question": "What is the attack modifier of a bite from a wereboar in boar form?",
+    "answer": "The provided statblock for the Wereboar makes no mention of what stats to use for the bite attack in Boar form.",
+    "rules": [
+      "Section Monsters > Lycanthropes > Wereboar > Actions > Bite",
+      "Section Monsters > Lycanthropes > Wereboar > Shapechanger"
+    ],
+    "rules_explanation": "The stats for boar form do not include an attack as part of its action; stats for the hybrid only provide a bonus to melee weapon attacks, not unarmed strikes. The shapechanger ability states that 'its statistics, other than its AC, are the same in each form.' and it therefore has no access to the stats for the bite."
+  },
+  {
+    "question": "Does the lucky jade die count if it is out of the box?",
+    "answer": "This document does not specify that a specific die has to be used.",
+    "rules": [],
+    "rules_explanation": "The SRD does not describe or restrict what dice can be used to play the game."
+  },
+  {
+    "question": "Can you be over the normal range on a thrown attack?",
+    "answer": "No. 'You can't attack a target beyond the weapon's long range.'",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Range"
+    ],
+    "rules_explanation": "This rules entry specifically states the limitations of range on ranged attacks"
+  },
+  {
+    "question": "Are skill checks done with dice from a box?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "There is nothing in the SRD specifying rules regarding where dice come from."
+  },
+  {
+    "question": "Can non-evil deities have the Life Domain?",
+    "answer": "Yes. According to the reference document, 'Almost any non-evil deity can claim influence over this domain.'",
+    "rules": [
+      "Section Class Features > Cleric > Divine Domain > Life Domain"
+    ],
+    "rules_explanation": "The specific language in the domain definition states that almost any non-evil deity can be associated with it."
+  },
+  {
+    "question": "What bonus does a defender or protector fighting style grant?",
+    "answer": "There is no Defender or Protector fighting style. There is Defense and Protection.",
+    "rules": [
+      "Section Fighter > Class Features > Fighting Style"
+    ],
+    "rules_explanation": "I did not find a Defender or Protector fighting style. However I found entries for Defence and Protection."
+  },
+  {
+    "question": "Does a Svirfneblin's Stone Camouflage affect its AC?",
+    "answer": "No, it has no effect on AC. The document says it gives advantage on Dexterity (Stealth) checks made to hide in rocky terrain.",
+    "rules": [
+      "Section Races Racial Traits > Gnome > Deep Gnome (Svirfneblin) > Stone Camouflage"
+    ],
+    "rules_explanation": "The Stone Camouflage rule only explicitly impacts Stealth checks."
+  },
+  {
+    "question": "What is the skill check you can make to find traps?",
+    "answer": "There is no specific skill to find traps. A character actively looking for a trap can attempt a Wisdom (Perception) check against the trap's DC.",
+    "rules": [
+      "Section Adventuring > Traps > Traps in Play > Detecting and Disabling a Trap"
+    ],
+    "rules_explanation": "According to the document the Wisdom (Perception) check is for detecting the trap."
+  },
+  {
+    "question": "Are there any rules for being half way through spell research?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "There is no mention of mechanics around interrupted spell research."
+  },
+  {
+    "question": "Does Nott's Lucky racial trait allow her to use the aid action in combat?",
+    "answer": "That is not specified in the rules.",
+    "rules": [],
+    "rules_explanation": "Lucky only functions on d20 tests, and the Aid action itself does not require any dice rolling."
+  }
+]

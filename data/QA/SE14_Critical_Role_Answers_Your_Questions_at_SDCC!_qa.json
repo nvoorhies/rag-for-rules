@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Can a gnome play as something smaller?",
+    "answer": "There is no smaller race listed in the SRD. This should be discussed with the DM to make a ruling on the specific class and situation. ",
+    "rules": [
+      "Races > Size"
+    ],
+    "rules_explanation": "The size section describes the size categories of each race. A race smaller than Tiny does not exist within the SRD."
+  }
+]

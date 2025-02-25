@@ -1,0 +1,18 @@
+[
+  {
+    "question": "The level, race, and class of Vax makes an insight check against a creature. What does the DM tell them?",
+    "answer": "The DM tells the insight checking player that the checked creature seemed unsure and scared, and feeling cut off from topside.",
+    "rules": [
+      "Ability Scores > Skills > Insight"
+    ],
+    "rules_explanation": "The insight check's result is determined by the Dungeon Master and the nature of the creature."
+  },
+  {
+    "question": "The level, race, and class of Percy was given Craven Edge in episode 36. What would have happened if the player had not used Identify, or attuned to the card to learn its information?",
+    "answer": "The player would only know of the swords initial properties not the rest of the cards information.",
+    "rules": [
+      "Magic Items > Identifying a Magic Item"
+    ],
+    "rules_explanation": "If the properties are not discovered through identify or by attuning to the item, they remain unknown."
+  }
+]

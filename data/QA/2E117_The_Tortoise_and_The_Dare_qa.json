@@ -1,0 +1,201 @@
+[
+  {
+    "question": "Can the level 5 level character make an insight check?",
+    "answer": "The NPC is making an insight check, so the level 5 character is not relevant to that activity.",
+    "rules": [
+      "Chapter 7 > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An ability check is a roll of 1d20 plus the relevant ability modifier and proficiency bonus. The specific level of one character is not relevant to the outcome of another character's dice roll."
+  },
+  {
+    "question": "As the level 6 level character cast Detect Undead, what happens?",
+    "answer": "The rules for the *detect undead* spell are not defined in the SRD.",
+    "rules": [],
+    "rules_explanation": "The Detect Undead spell is not contained within the SRD so a general answer cannot be found without access to further material."
+  },
+  {
+    "question": "Can the level 5 level character see any tattoos on the Tomb Takers, given the nine rolled for a Perception Check?",
+    "answer": "The character does not see any tattoos on any of them because the roll was below what was required for this information.",
+    "rules": [
+      "Chapter 7 > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "In order to see the tattoos the roll had to be above a value not yet described. Therefore with the dice roll, the character was not able to see anything"
+  },
+  {
+    "question": "What type of magic are Threshold crests?",
+    "answer": "The room has a very strong teleportation aspect to the sigils and glyphs, and the gem itself, a very strong aura of conjuration.",
+    "rules": [],
+    "rules_explanation": "The SRD does not detail \"Threshold Crests\", so all information pertaining to this must be drawn from the text."
+  },
+  {
+    "question": "What is the result of the level 10 character rolling a percentile to attempt a Divine Intervention?",
+    "answer": "A die roll is required to attempt a Divine Intervention. On a success, the deity intervenes; otherwise, they do not. The degree of success or failure on the die roll is not relevant.",
+    "rules": [],
+    "rules_explanation": "The transcript does not supply the percentage needed to be rolled. Without it we know a die roll is required, but cannot assess the degree of success."
+  },
+  {
+    "question": "What type of check to assess the size of Aeor?\"",
+    "answer": "According to the SRD, that would call for an arcana check.",
+    "rules": [
+      "Chapter 7 > Using Ability Scores > Intelligence > Intelligence Checks > Arcana"
+    ],
+    "rules_explanation": "An arcana check is relevant because the characters are using knowledge of architecture and ruins, and the characters believe they are ruins of Zemnia."
+  },
+  {
+    "question": "What does the level 3 rogue do while \"Naruto running\" down the hallway?",
+    "answer": "There is no rule for \"Naruto running\" so the result must be arbitrated by the GM",
+    "rules": [],
+    "rules_explanation": "The Naruto running is not contained in the SRD so the resolution is up to the DM."
+  },
+  {
+    "question": "Is she right to use her Pearl of Power?",
+    "answer": "There is no mention of what \"popping my last third\" is, or what it will do. Therefore it cannot be answered based on the SRD.",
+    "rules": [],
+    "rules_explanation": "This statement cannot be verified based on the SRD, requiring outside knowledge."
+  },
+  {
+    "question": "The level 6 character states their intention to cast Antilife shell. Is that possible?",
+    "answer": "Assuming the level 6 character has the appropriate spells known and spell slots for antilife shell, then they may cast it as an action.",
+    "rules": [
+      "Chapter 10 > Casting a Spell > Casting Time",
+      "Chapter 4 > Cleric > The Cleric > Table > Level > Level > Spell Slots per Spell Level"
+    ],
+    "rules_explanation": "We must assume the character has access to the spell (knows it, and is a spell caster) since it has not been explicitly disallowed. It is a spell, therefore we check the casting rules for spells to make sure the actions required can be performed."
+  },
+  {
+    "question": "What school of magic is Antilife Shell?",
+    "answer": "The SRD does not contain any information about the antilife shell spell.",
+    "rules": [],
+    "rules_explanation": "The SRD does not contain information about that specific spell so its properties cannot be described."
+  },
+  {
+    "question": "Can the Halfling on the ceiling pull out a hammer and chisel and begin working to remove the gem?",
+    "answer": "There is no mention on how long that task will take, if the halfling is proficient, or if there are any requirements to performing such tasks.",
+    "rules": [],
+    "rules_explanation": "Not enough detail exists in the question to decide if this is possible given the current state."
+  },
+  {
+    "question": "What is the rule when talking through people?",
+    "answer": "There is no such rule, so the DM must arbitrate the result.",
+    "rules": [],
+    "rules_explanation": "There are no rules in the SRD regarding 'talking through' people, this must be arbitrated."
+  },
+  {
+    "question": "Is it possible to make Vess awake with life in her veins if she's snapped awake with life in her veins but is in a bag of holding?\"",
+    "answer": "Not enough information to determine. The rules for gentle repose indicate the body is protected from decay, and Speak with Dead can be used to communicate with the body if it's mostly intact but gives no indication of whether someone can be resurrected or not.",
+    "rules": [],
+    "rules_explanation": "Requires knowledge of spells that are not mentioned in the SRD to answer."
+  },
+  {
+    "question": "If the DM rules they need to make an Arcana check to identify the teleporting stone, can Liam cast a spell before that?",
+    "answer": "You can combine movement and actions on your turn. You decide whether to move first or take your action first.",
+    "rules": [
+      "Chapter 9 > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "The rules allow movement and an action, meaning a character is allowed to move, and then perform a spell or skill."
+  },
+  {
+    "question": "How does Detect Magic function?",
+    "answer": "The magic-- there is a lot of magic in this chamber, elements of it dormant, elements of it prepped, and a lot of it funneling to this particular gem.",
+    "rules": [
+      "Chapter 10 > Spellcasting"
+    ],
+    "rules_explanation": "The Detect magic spell is not contained in the SRD.  Therefore, all that can be said about it is what the rules are for casting a spell. For example: Casting Time: 1 action or more, Range, Components, and Duration. The result of a successful cast must be drawn from the description."
+  },
+  {
+    "question": "If they have the ability to make people tell the truth, are the results verifiable?",
+    "answer": "The effects and requirements of that specific ability are not contained within the SRD so it is impossible to answer based on the given data",
+    "rules": [],
+    "rules_explanation": "This refers to another ability which is not contained in the document."
+  },
+  {
+    "question": "The weather begins to grow harsher, what die is rolled for the event?",
+    "answer": "The weather begins to grow harsher, Roll a d8 for me.",
+    "rules": [],
+    "rules_explanation": "This must be drawn from the text."
+  },
+  {
+    "question": "A character is described as having no spells left, but then casts message using a pearl. Is that allowed?",
+    "answer": "No spells may be cast during that turn after casting it as a bonus action.",
+    "rules": [
+      "Chapter 10 > Casting a Spell > Bonus Action"
+    ],
+    "rules_explanation": "The rules dictate that a spell with a bonus action casting time prevents the casting of another non-cantrip spell in the same turn. In the same way, a non-cantrip spell prevents casting a spell as a bonus action."
+  },
+  {
+    "question": "Can an attack roll by a melee weapon provoke an Antilife Shell?",
+    "answer": "Unless there's a ranged attack that an oil creature can make. It's basically no living thing can get inside.",
+    "rules": [
+      "Chapter 10 > Spell Descriptions",
+      "Chapter 9 > Combat > Actions in Combat > Reactions"
+    ],
+    "rules_explanation": "This requires an understanding of the spells to which the SRD does not have descriptions"
+  },
+  {
+    "question": "After a wisdom saving throw failure, are the characters all part of one mind?",
+    "answer": "That isn't defined in the SRD, so the DM must arbitrate the result.",
+    "rules": [],
+    "rules_explanation": "Requires world-specific detail."
+  },
+  {
+    "question": "Can there be two simultaneous Spirit Guardians?",
+    "answer": "Yes. Two characters may concentrate on separate instances of the Spirit Guardians spell. The affected areas will each be based on the initial caster's location.",
+    "rules": [
+      "Chapter 10 > Casting A Spell > Concentration"
+    ],
+    "rules_explanation": "Multiple characters are allowed to have separate concentration spells active, assuming the durations and other rules of the spell allow it."
+  },
+  {
+    "question": "How many enemies can Fjord hit with his spell?",
+    "answer": "The number of enemies one can hit at once depends on the spell in question.",
+    "rules": [
+      "Chapter 10 > Casting a Spell > Targets"
+    ],
+    "rules_explanation": "How many enemies are hit depends on the type of spell used."
+  },
+  {
+    "question": "Are the adventurers allowed to be surprised by the enemy?",
+    "answer": "Yes.  The GM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the GM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.",
+    "rules": [
+      "Chapter 9 > The Order of Combat > Surprise"
+    ],
+    "rules_explanation": "This is specifically defined in the rules and is used to determine the beginning state of combat."
+  },
+  {
+    "question": "If everyone is stunned, what is the course of events?",
+    "answer": "A stunned creature is incapacitated, can't move, and can speak only falteringly. Attack rolls against the creature have advantage, and the creature automatically fails Strength and Dexterity saving throws. At the end of each of its turns, the target can make another Wisdom saving throw. On a successful save, the spell ends on the target.",
+    "rules": [
+      "Appendix A > Condition > Stunned",
+      "Chapter 9 > The Order of Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "The rule for stunned specifies what a creature is unable to do."
+  },
+  {
+    "question": "Are we correct that there is some sort of touch?",
+    "answer": "The game provides no mechanism to know what happened, so the GM must arbitrate the result.",
+    "rules": [],
+    "rules_explanation": "The question is asking if it's a certain type of touch, but that type of touch and its properties is undefined, and therefore is up to the DM to arbitrate."
+  },
+  {
+    "question": "Does Star Razor continue its attack?",
+    "answer": "No. Since all spells that were concentrated on were canceled, there is no need for a saving throw.",
+    "rules": [
+      "Chapter 10 > Casting a Spell > Concentration"
+    ],
+    "rules_explanation": "This action has to happen at the end of the turn, because it has to be there for the whole duration of the period. Therefore we can assume it's gone at the time of the following turn."
+  },
+  {
+    "question": "What is a threshold crest?",
+    "answer": "The document only says that threshold crests are smaller elements and are a sort of magic and is largely based in older, pre-Calamity magic.",
+    "rules": [],
+    "rules_explanation": "The SRD does not contain any information on these so information about it is limited to the text. But, it implies that the threshold crest is conjuration, which could lead to spells that may identify a gem as such."
+  },
+  {
+    "question": "If they can fly, should they attempt it with their movement?",
+    "answer": "To fly, they would need to Polymorph into a creature that has wings.",
+    "rules": [
+      "Chapter 9 > Movement and Position > Flying Movement"
+    ],
+    "rules_explanation": "Without wings, a creature cannot fly. The polymorph spell allows one to take on the form of a creature that possesses the capacity to fly. A creature may have multiple speeds, such as walking and swimming. Without a specific mode of transportation, they cannot use the speed for it."
+  }
+]

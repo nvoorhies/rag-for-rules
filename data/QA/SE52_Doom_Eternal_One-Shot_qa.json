@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Can the level 8 Mancubus, Heavy Cannons action be used to attack the locking mechanism's power cable at the top of the door, and what is the range of the attack?",
+    "answer": "The weapon can attack the cable. The heavy cannons have a range of 30 to 60 feet.",
+    "rules": [
+      "Combat > Making an Attack > Range"
+    ],
+    "rules_explanation": "Determine the range of the Heavy Cannons action and compare it to the distance to the target."
+  },
+  {
+    "question": "The Game Master stated that the Mancubus, level 8 Heavy Cannons attack rolls hit on rolls of 18 and 19 with an adjustment of +5. Can the level 8 Mancubus, Heavy Cannons action do 12 damage?",
+    "answer": "Yes, the weapon can do 12 damage.",
+    "rules": [
+      "Combat > Making an Attack > Damage and Effects"
+    ],
+    "rules_explanation": "Determine if the rolls hit and how much damage is done."
+  },
+  {
+    "question": "The Pain Elemental casts Soul Shield, which has the description 3d8 + 8 temporary hit points. How many temporary hit points does she get if she rolls a 15?",
+    "answer": "She gets 23 temporary hit points total, by adding her 15 roll to the 8 from the power.",
+    "rules": [],
+    "rules_explanation": "The question involves calculating the result of a dice roll. There is no explicit rule that addresses this but it is a simple calculation."
+  },
+  {
+    "question": "The Mancubus, level 8 is spewing a torrent of flame at an enemy. What saving throw does that enemy need to make, and what happens on a successful or failed save, using Flamethrower ability.",
+    "answer": "The target must succeed on a dexterity saving throw. The effects of Flamethrower are not described, so the result on a success or failure cannot be provided.",
+    "rules": [],
+    "rules_explanation": "This question requires looking up a demon ability that has not been described in the document. As a result, the question cannot be answered directly."
+  },
+  {
+    "question": "If a level 5 Marauder uses a bonus action to Dash, and has a base speed of 40 feet, how far can it move?",
+    "answer": "80 feet.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions",
+      "Combat > Movement and Position > Breaking Up Your Move",
+      "Combat > Movement and Position > Speed"
+    ],
+    "rules_explanation": "A bonus action can be used to dash and increase the speed of a monster"
+  },
+  {
+    "question": "Does the Bard Mini have advantage on this check since it is helping?",
+    "answer": "No, the Bard Mini does not have advantage on the Strength check.",
+    "rules": [],
+    "rules_explanation": "I'm not sure if advantage is conferred because it is not mentioned in the SRD in the help action section but in the dice rolling it is stated to give it advantage."
+  },
+  {
+    "question": "How much piercing damage does it do to the battle mech when he is hit by a artillery shell for a score of 15 with 3d6 damage?",
+    "answer": "11 piercing damage.",
+    "rules": [
+      "Combat > Making an Attack > Damage and Effects"
+    ],
+    "rules_explanation": "Determine the result of the damage roll."
+  },
+  {
+    "question": "An ARC marine commander, in his turn, uses an ability called coordinated attack and orders the battle mech, which has disadvantage on attacks, to go ahead and make a ranged plasma shot. What does he roll with disadvantage?",
+    "answer": "11.",
+    "rules": [],
+    "rules_explanation": "The question has provided the value of the roll and requires no SRD rules to answer."
+  },
+  {
+    "question": "Are the two workers within range of the level 13 Marauder's movement?",
+    "answer": "Yes, they are.",
+    "rules": [],
+    "rules_explanation": "Simple affirmative answer provided based on game-specific factors"
+  },
+  {
+    "question": "Can the level 13 Marauder attack twice with the axe, or use the gun as an action, and what range does he have with his axe?",
+    "answer": "The Marauder can either attack twice with the axe, or use the gun. The axe has a 15 foot range when thrown.",
+    "rules": [],
+    "rules_explanation": "This relies on a game judgement, and cannot be answered from the rules provided"
+  },
+  {
+    "question": "What is the range on the Soul Shield Projectile, or the range that the level 13 Pain elemental, Phyllis, moves?",
+    "answer": "The range is 60 for the first increment, and 120 for the second. She moves about 25 feet as she flies through the air in that direction.",
+    "rules": [],
+    "rules_explanation": "Phyllis moves 25 feet, her shield has a range of 60/120."
+  },
+  {
+    "question": "What would the battle mech roll as an attack on level 13 Marauder, with disadvantage and blinded?",
+    "answer": "9.",
+    "rules": [],
+    "rules_explanation": "Question simply confirms the result of a dice roll which is provided."
+  },
+  {
+    "question": "Level 8 Mancubus wants to determine if Ickybod, level 8 is in trouble, and is going to use Mancubus on his mouth to ask. Is this a valid game element?",
+    "answer": "This element is up to GM discretion. It is not a question that can be answered from the SRD.",
+    "rules": [],
+    "rules_explanation": "GM makes a meta-game judgement"
+  },
+  {
+    "question": "What kind of check should Level 8 Ickybod use to find medical kits?",
+    "answer": "Investigation check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An investigation check is appropriate for finding things"
+  },
+  {
+    "question": "Level 13 Marauder, Kreel, has found 3 blue syringes in a crate, what is the best way for him to use them?",
+    "answer": "It is up to the player on what they want to do with the syringe because no information about its properties were given, the GM can decide what is useful.",
+    "rules": [],
+    "rules_explanation": "No information on the properties of blue syringes is in the SRD, and thus it is up to the GM."
+  },
+  {
+    "question": "Level 13 Marauder, Kreel, with a proficiency bonus of +5, is opening a door. What ability check and proficiency should he use?",
+    "answer": "Make a strength check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "It seems appropriate to use a strength check"
+  },
+  {
+    "question": "The text says \"It finishes the battle mech's turn.\" Why is the battle mech no longer able to attack?",
+    "answer": "An effect has ended the mech's turn.",
+    "rules": [],
+    "rules_explanation": "The question is seeking the general logic of turn taking"
+  },
+  {
+    "question": "It says those with feet are touching down on the broken earth beneath your feet. How would this ability apply to Phyllis, a Pain Elemental?",
+    "answer": "Phyllis does not have feet.",
+    "rules": [],
+    "rules_explanation": "Question about a fact that is already provided"
+  },
+  {
+    "question": "The text refers to initiative, how do we roll for it?",
+    "answer": "Make a Dexterity check.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "As described in the rules for initative"
+  },
+  {
+    "question": "It says it is the commander's turn. Are we supposed to keep track of the turns?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "The game uses turns and rounds as described in this section"
+  },
+  {
+    "question": "A level 8 Mancubus was attacked by a battle mech, takes 16 points of bludgeoning damage, and I need you to make a strength saving throw. What is the save DC?",
+    "answer": "Not specified",
+    "rules": [],
+    "rules_explanation": "The DC is not specified in the available text."
+  },
+  {
+    "question": "Someone opened the door and set off a smoke bomb. What's in there?",
+    "answer": "Massive brass rings that wind along these heavy pillars. There's three on each side. A large 15-foot panel wall that is covered in various levers. There are three large levers on it of different colorations, and there is one person in there, looks to be a civilian holding a really large rifle.",
+    "rules": [],
+    "rules_explanation": "The question relates to the area revealed but is not a rules question."
+  }
+]

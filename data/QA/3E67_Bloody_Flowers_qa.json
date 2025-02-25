@@ -1,0 +1,265 @@
+[
+  {
+    "question": "The player says \"You guys can Rollies for who gets to play with the Ashari dice tonight.\". What game rule is she talking about?",
+    "answer": "The player is using a common term to mean to make a random roll (usually a d20) to determine who gets to use the dice.",
+    "rules": [
+      "General Guidance > Dice Rolling"
+    ],
+    "rules_explanation": "While not a direct rules reference, it refers to the common method of rolling dice for random selection within the game"
+  },
+  {
+    "question": "The level 6, race goblinoid character, Travis, made a perception check but rolled an 11. The character has no abilities or skills that would adjust that roll. What does Matthew, the DM, describe as happening in that situation?",
+    "answer": "Aside from the slightly trailing bits of fog and mist that roll through the blanched treescape that surrounds you in places and the ever curling dead valley that stretches on, nothing immediately catches your attention to worry you.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "General Guidance > The DM Determines Success"
+    ],
+    "rules_explanation": "The DM determines success by comparing the roll with any relevant bonuses to a target DC based on the action being attempted."
+  },
+  {
+    "question": "MARISHA controls Pâté, a familiar with darkvision out to 60ft. She attempts a perception check using him. The dice rolls 4. She has a +1 due to her character's abilities and +0 from Pâté's wisdom. The DM explains that he also has magical darkness, which doesn't impede his vision. What is Pâté's total perception check? In this situation, how does the familiar's dark vision affect the perception check?",
+    "answer": "The familiar's perception check is 11, because that is his passive perception score. His vision is not otherwise impeded. \n",
+    "rules": [
+      "Spellcasting > Components > Material (M)",
+      "Using Ability Scores > Passive Checks"
+    ],
+    "rules_explanation": "I've assumed that they used Pâté's passive perception because the roll total was low, and noted that Pâté is the one with darkvision not the character. \n"
+  },
+  {
+    "question": "FCG, a level 9 automaton with cleric levels, casts Spirit Guardians. What is the DC for the Wisdom saving throw creatures must make?",
+    "answer": "The DC for the Wisdom saving throw is 15. Spell save DC = 8 + proficiency bonus (+4 at level 9) + Wisdom modifier (+3).",
+    "rules": [
+      "Classes > Cleric > Spellcasting > Spellcasting Ability",
+      "Appendix MM-A > Experience Points by Challenge Rating"
+    ],
+    "rules_explanation": "The DC is calculated using the standard formula for spell save DC based on the character's proficiency bonus and wisdom modifier. Since the character is level 9, their proficiency bonus is +4."
+  },
+  {
+    "question": "LAURA, a level 6 warlock, casts Catapult on a rock.  The target fails its Dexterity saving throw. How much damage does the rock do?",
+    "answer": "The rock deals 4d8 bludgeoning damage",
+    "rules": [
+      "Spell Descriptions > Catapult"
+    ],
+    "rules_explanation": "The Catapult spell states that the target takes 3d8 bludgeoning damage. The spell is 1st level, so the level of the caster doesn't affect this. The spell deals damage on a failed save."
+  },
+  {
+    "question": "LAURA, a level 6 warlock, casts Catapult on a rock, and then decides to use the Twinned Spell metamagic ability to cast Catapult on a second target. How many sorcery points does this cost?",
+    "answer": "It is not possible to use the Twinned Spell metamagic with the spell Catapult because it is capable of targeting more than one creature at the spell's current level. ",
+    "rules": [
+      "Classes > Sorcerer > Metamagic > Twinned Spell",
+      "Spell Descriptions > Catapult"
+    ],
+    "rules_explanation": "Twinned Spell can only be used on a spell that is 'capable of targeting only one creature'. Catapult allows you to target one object. Because of this, it is not possible to use Twinned Spell to cast it on a second object, and doing so costs no sorcery points"
+  },
+  {
+    "question": "LAURA's character is stunned and then the fighter LIAM takes the Bait and Switch action with her. After the Bait and Switch, the DM stated \"Three to your AC.\"  What rules cause this AC adjustment and what is its source?",
+    "answer": "The rules for the Bait and Switch action do not appear in the SRD. The AC bonus is not explained by the rules available.",
+    "rules": [],
+    "rules_explanation": "Without knowing the rules for the homebrew 'Bait and Switch' action, there is no way to determine the AC bonus."
+  },
+  {
+    "question": "TALIESIN rages as a level 8 barbarian, and is wearing no armor. What benefits does he have from raging?",
+    "answer": "While raging, and not wearing heavy armor, the character has advantage on Strength checks and Strength saving throws, deals +2 damage on melee weapon attacks using Strength, and has resistance to bludgeoning, piercing, and slashing damage.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "These are the core effects of Rage while not wearing heavy armor. The rage damage is specified as +2 in the level 8 table."
+  },
+  {
+    "question": "TALIESIN rages as a level 8 barbarian, and takes a full run and hit this thing and I'm going to run, jump up, and literally let the momentum do a full flip right into the fucker's head. I'm going to do this reckless, fuck it. What does Reckless Attack do?",
+    "answer": "When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.",
+    "rules": [
+      "Classes > Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "These are the core effects of Reckless Attack. I am not able to use it unless I attack that turn. "
+  },
+  {
+    "question": "TALIESIN rages as a level 8 barbarian and makes an attack roll of 29 to hit. What happens if the monster has a reaction that can add 5 to its AC. Does he hit?",
+    "answer": "Yes, the attack hits because the result of 29 meets or exceeds the new Armor Class. ",
+    "rules": [
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "For an attack to hit, the attack roll (including modifiers) must equal or exceed the target's Armor Class (including any adjustments to AC caused by reactions)."
+  },
+  {
+    "question": "TALIESIN is level 8 and the DM says, 'Anybody's within 10 feet of me gets a d4 to the save.' What ability is he using?",
+    "answer": "No ability that grants a bonus to saving throws of other creatures is described in the SRD.",
+    "rules": [],
+    "rules_explanation": "Without additional information, it's not possible to determine the source of this ability."
+  },
+  {
+    "question": "TRAVIS, a level 10 character is using their \"Grim Psychometry\" ability on the current location. What does this do?",
+    "answer": "No ability called 'Grim Psychometry' is listed in the SRD.",
+    "rules": [],
+    "rules_explanation": "Without additional information, it's not possible to determine the source of this ability."
+  },
+  {
+    "question": "A level 13 character uses their reaction to cast Silvery Barbs. What does this do?",
+    "answer": "Silvery Barbs is not listed in the SRD. Without additional information, it's not possible to determine what the spell does.",
+    "rules": [],
+    "rules_explanation": "Silvery Barbs is not a rules element in the SRD."
+  },
+  {
+    "question": "LAURA, a level 8 character with proficiency in both survival and the changebringer god's area terrain, is trying to help FCG navigate the gray valley. She has a +2 modifier for Wisdom, and the spell Guidance is cast on her. What must Matt do to apply the mechanics of that situation?",
+    "answer": "The Survival check is made with advantage, and the character adds their proficiency bonus (doubled because of the relevant area terrain) plus the guidance roll and her Wisdom modifier (+2).",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Classes > Bard > Expertise"
+    ],
+    "rules_explanation": "The character can add her wisdom modifier as well as doubled the expertise. Then adds a roll from guidance to make that check"
+  },
+  {
+    "question": "ASHLEY, the character, said, \"I Pass Without a Trace.\" MATT said, \"Pass Without a Trace. So everyone add plus 10 to this.\" What must be done?",
+    "answer": "If the spell Pass Without Trace is cast, then everyone within 30 feet adds +10 to their Dexterity (Stealth) checks.",
+    "rules": [
+      "Spells > Pass Without Trace"
+    ],
+    "rules_explanation": "The spell's effect is a +10 bonus to Dexterity (Stealth) checks"
+  },
+  {
+    "question": "TALIESIN's character is within 10 feet of someone making a Constitution saving throw and states, \"So you get a d4 to your save, and you get a d4 to the save.\" What ability is being used?",
+    "answer": "No ability in the SRD grants a d4 to a saving throw of another creature within 10 feet.",
+    "rules": [],
+    "rules_explanation": "The specified ability does not appear in the SRD."
+  },
+  {
+    "question": "LAURA's character, Imogen, is stunned. The character LIAM states that they use the Bait and Switch action to nudge her back, standing in front of her crumpled form, and she will add something to her AC in a moment, adding three to her AC. What effect causes this?",
+    "answer": "There is no mechanical effect described in the SRD that matches that description. It is not possible to determine the source of this AC bonus.",
+    "rules": [],
+    "rules_explanation": "Without additional information about the \"Bait and Switch\" ability it is impossible to determine where the AC bonus is coming from."
+  },
+  {
+    "question": "A winged monster has failed its saving throw against the Spirit Guardians spell. What happens?",
+    "answer": "If a creature enters the area of the Spirit Guardians spell for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes radiant damage (if you are good or neutral) or necrotic damage (if you are evil).",
+    "rules": [
+      "Spell Descriptions > Spirit Guardians"
+    ],
+    "rules_explanation": "The creature must make a Wisdom saving throw or be subject to the damage effect."
+  },
+  {
+    "question": "LAURA, is adjacent to a monster who is making an attack. Orym uses the Bait and Switch maneuver. What happens?",
+    "answer": "There is no general action called \"Bait and Switch\" described in the SRD.",
+    "rules": [],
+    "rules_explanation": "Without specifying the class, or knowing the feat in use, there is no ability called Bait and Switch"
+  },
+  {
+    "question": "The character, ASHLEY, cast Burning Hands and asks if the target needs to save. What does the spell Burning Hands state?",
+    "answer": "The spell states the target must make a dexterity save.",
+    "rules": [
+      "Spell Descriptions > Burning Hands"
+    ],
+    "rules_explanation": "The spell description indicates a Dexterity saving throw is required"
+  },
+  {
+    "question": "Two winged entities are 15 feet up in the air. What does it cost a character to move, standing on the ground, to be in melee range of them? ",
+    "answer": "It requires use of abilities or other effects to reach a target in the air, if no flying speed or other abilities are available, the target cannot be reached.",
+    "rules": [
+      "Combat > Movement and Position"
+    ],
+    "rules_explanation": "Flying targets that are not within melee range cannot be attacked without ranged weapons, ranged spells, or the ability to get into the air."
+  },
+  {
+    "question": "A character is grappling another. What happens to their speed?",
+    "answer": "A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.",
+    "rules": [
+      "Appendix PH-A > Conditions > Grappled"
+    ],
+    "rules_explanation": "The grappled condition reduces the grappled creature's speed to 0."
+  },
+  {
+    "question": "In a room filled with monsters, where some believe in gods and some don't, FEARNE casts Burning Hands and asks, \"Saving throw or it's just dexterity?\" What does the spell Burning Hands state?",
+    "answer": "The spell description states the targets must make a dexterity saving throw. ",
+    "rules": [
+      "Spell Descriptions > Burning Hands"
+    ],
+    "rules_explanation": "The spell description indicates a Dexterity saving throw is required. No attack roll is required."
+  },
+  {
+    "question": "MARISHA, is about to bolt off a cliff, and then says, \"I'm going to do my Transformation of Dread, and for a second, I'm going to get on all fours, almost like my hound.\" What does this ability from that class and level do? Assume it happens for a second. ",
+    "answer": "Without specifying the class or knowing the features of that class, the effect of this transformation is unknown. But it does say, 'Transformation of Dread' so may imply fear or the other emotions.",
+    "rules": [],
+    "rules_explanation": "Without additional information about the class, the effect of this ability is unknown."
+  },
+  {
+    "question": "LIAM's character jumps off a cliff, and then states that he wants to cast Gust. After that he wants to use Seedling. How does that work?",
+    "answer": "If Seedling is a spell, and has a casting time of 1 action, it cannot be cast. A spell that has a casting time of 1 action cannot be cast at the same time as one with a reaction, according to the provided text.",
+    "rules": [
+      "Spellcasting > Casting Time > Reactions"
+    ],
+    "rules_explanation": "When a spell has a casting time of reaction you can't cast any other spells besides it in that round."
+  },
+  {
+    "question": "The characters LAURA and MARISHA have successfully stealthed into the enemy encampment in the Greylands. What can they then do?",
+    "answer": "They have the opportunity to look out and plan. They have successfully stealthed their way into the outskirts of this, so you have the opportunity to look out and plan.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Stealth"
+    ],
+    "rules_explanation": "Because they successfully stealthed into the region, they have the opportunity to plan their next move before being detected by the enemies."
+  },
+  {
+    "question": "Does MATT need to show the players a map if they succeed on stealthing into a location?",
+    "answer": "The rules do not mandate showing the players a map in that situation. ",
+    "rules": [],
+    "rules_explanation": "The rules do not describe when a DM should provide a map. "
+  },
+  {
+    "question": "The party is discussing breaking open some cages they come across. What is the result of doing so?",
+    "answer": "That is something for the players to decide. Without other information, such as how much time has passed or if the enemies are nearby, it is unknown if they are capable of doing so.",
+    "rules": [],
+    "rules_explanation": "Without more context it is impossible to determine the effectiveness or danger of attempting to break the cages."
+  },
+  {
+    "question": "A creature is hit with a weapon that deals both slashing and radiant damage from the same strike, does the creature take damage from both?",
+    "answer": "Yes, unless the target has resistance or immunity to one or both damage types.",
+    "rules": [
+      "Combat > Damage and Healing"
+    ],
+    "rules_explanation": "When you take damage you take the damage rolled unless you have resistance or immunities."
+  },
+  {
+    "question": "MATT says, \"You are now unstunned.\" How long does being stunned last?",
+    "answer": "The duration of the stunned condition is specified in the effect that caused it.",
+    "rules": [
+      "Appendix PH-A > Conditions > Stunned"
+    ],
+    "rules_explanation": "The duration of a condition such as \"stunned\" is dictated by the effect that applied the condition."
+  },
+  {
+    "question": "While holding one thing, can a character hold until something is within 40 feet and then react?",
+    "answer": "Yes, you can use the Ready action, which lets you act using your reaction before the start of your next turn.",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "You can use the Ready action to set a trigger for an action"
+  },
+  {
+    "question": "A character casts message on another, but is further than 30 feet away. Can they hear them?",
+    "answer": "It depends. The range of the spell is 120 feet but requires it be cast with specific parameters.",
+    "rules": [
+      "Spell Descriptions > Message"
+    ],
+    "rules_explanation": "The spell range is 120 feet but is can be blocked by barriers."
+  },
+  {
+    "question": "FEARNE is casting Burning Hands using a 3rd level spell slot. How many dice are rolled for damage?",
+    "answer": "If the spell is cast using a 3rd-level spell slot, then 5d6 damage is rolled.",
+    "rules": [
+      "Spell Descriptions > Burning Hands"
+    ],
+    "rules_explanation": "The Burning Hands spell is a 1st-level spell and the description states that for each level above 1st, the damage increases by 1d6."
+  },
+  {
+    "question": "Does the character have to rest after casting pass without a trace?",
+    "answer": "The spell description does not state that rest is required",
+    "rules": [
+      "Spell Descriptions > Pass Without Trace"
+    ],
+    "rules_explanation": "You do not need to rest to use the effects from this spell unless concentration is broken."
+  },
+  {
+    "question": "While flying, I'm going to extend my wolf claws out through my Chetney hands, wearing my wolf mask. What does this do?\"",
+    "answer": "There are no rules about extending wolf claws through Chetney hands",
+    "rules": [],
+    "rules_explanation": "What the player is doing is purely description, no action is required, and the rules provide no information on the description."
+  }
+]

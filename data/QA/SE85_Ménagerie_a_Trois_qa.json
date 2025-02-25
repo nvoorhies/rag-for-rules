@@ -1,0 +1,78 @@
+[
+  {
+    "question": "Level 6 mushroom-like race, class unknown is trying to break bindings with a DC 11 agility saving throw but has an ability allowing to add their shibari expert skill to it, and 2 other allies helping with the roll by distracting, allowing to add a D6 to the roll. What would be the final roll to break free of these bindings?",
+    "answer": "The creature makes an Agility saving throw with a DC of 11, and adds a d6 to the roll.",
+    "rules": [
+      "Ability Checks > Saving Throws",
+      "Races > Racial Traits > Ability Score Increase",
+      "Actions in Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The creature attempts to break free using an Agility Saving Throw as specified by the DM, with the DC required to exceed 11. A race's ability modifier can be added to the roll and abilities may give bonuses to ability checks. A reaction can allow a creature to intercede."
+  },
+  {
+    "question": "A level 6 race and class unknown is trying to cast a spell. Does she use Instinct or Finesse for a spell cast roll?",
+    "answer": "The creature uses Finesse for the spell cast roll.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "Each spellcasting class uses a specific ability as the spellcasting ability. Spell cast rolls are made using the appropriate ability."
+  },
+  {
+    "question": "Does a level 6 race and class unknown spellcaster add Hope or Stealth expertise to a spell cast roll?",
+    "answer": "Neither Hope nor Stealth experience can be added to the spell cast roll.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "A character can only add abilities appropriate to the situation to a roll, and Stealth doesn't apply to spellcasting and there are no rules about adding Hope to it either."
+  },
+  {
+    "question": "Can a level 6 race and class unknown character spend a hope to help another character during an agility roll?",
+    "answer": "Yes, spending a Hope allows adding a d6 to the roll.",
+    "rules": [
+      "Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Spending a Hope gives advantage in a roll, which grants an additional d6 to the die value rolled."
+  },
+  {
+    "question": "How many options can a level 6 race and class unknown character choose during a short rest?",
+    "answer": "A character can choose two options during short rest.",
+    "rules": [],
+    "rules_explanation": "Based on table notes, a character is limited to taking only 2 options during a short rest."
+  },
+  {
+    "question": "During a short rest, how do you clear stress?",
+    "answer": "During a short rest, a character can clear stress as specified in the effects of short rest actions.",
+    "rules": [],
+    "rules_explanation": "The conditions for a short rest action need to be met to clear stress during that time."
+  },
+  {
+    "question": "While using the Tend Wounds ability, do you roll 1d4 or 1d6?",
+    "answer": "While using the Tend Wounds ability, you roll 1d4.",
+    "rules": [],
+    "rules_explanation": "There is no rule Tend Wound power. It is specified that a character must roll 1d4 to heal their wounds during short rest downtime action."
+  },
+  {
+    "question": "Can you clear stress by spending a hope during a short rest?",
+    "answer": "No, clearing stress requires downtime actions during a rest or a critical roll.",
+    "rules": [],
+    "rules_explanation": "Stress is reduced by critical rolls, certain abilities, or short rests only."
+  },
+  {
+    "question": "As a level 6 race and class unknown character, how do I use a phantom retreat?",
+    "answer": "You mark the current space with a glyph and retreat to a marked space by taking a bonus action and spending a hope.",
+    "rules": [],
+    "rules_explanation": "Rules for Phantom Retreat."
+  },
+  {
+    "question": "What happens if a player maxes out his stress?",
+    "answer": "When a character maxes out stress, they are considered vulnerable, and any stress damage taken results in hit point damage.",
+    "rules": [],
+    "rules_explanation": "These are the listed penalties for maxing out stress."
+  },
+  {
+    "question": "What does the Distracting Beauty ability do?",
+    "answer": "When a creature makes an attack roll within close range of the creature with Distracting Beauty, they have disadvantage on their attack.",
+    "rules": [],
+    "rules_explanation": "This is the definition of the Distracting Beauty ability."
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "question": "A level 4 adventurer, abilities not specified, with student access wants access to the library at the university. What premises does this access provide?",
+    "answer": "The paperwork offers access to the premises, to the level that a student would.",
+    "rules": [
+      "Adventuring > Social Interaction > Social Interaction Options"
+    ],
+    "rules_explanation": "The question specifies a character has the benefit of 'student access' allowing access to certain premises on the same basis as a student. The SRD indicates social interaction rules are used to adjudicate options."
+  },
+  {
+    "question": "Two level 4 adventurers approach a closed door to Zhudanna's home and the door is slightly jammed. What kind of check is required to realize that the door is jammed? ",
+    "answer": "A perception check is required.",
+    "rules": [
+      "Adventuring > Exploration > General"
+    ],
+    "rules_explanation": "The question calls for how to resolve gaining the information about the state of a door, and the general rules call for a general check to explore"
+  },
+  {
+    "question": "The level 4 adventurers are taking a room for the night. How many gold are required for two rooms?",
+    "answer": "The cost will be about one gold for the two rooms for the night.",
+    "rules": [
+      "Equipment > Expenses > Food, Drink, and Lodging > Inn Stay"
+    ],
+    "rules_explanation": "The SRD specifies that Inn Stays come at a cost and that is the correct rule to use to determine the information sought. Specific costs are left to the GMs determination, however."
+  },
+  {
+    "question": "One party member, a level 4, race and class not specified, with History skill makes a check and rolls a 7. What information is revealed knowing the name of a location in Marquet, the best that can be recalled in their travels?",
+    "answer": "City of Yios is, it combats with Ank'Harel as the center of academic study, and is often touted as the pinnacle of academia in Marquet. It tends to be more aloof against the rest of the political interactions across the continent and beyond, and if you aren't taking a direct route in with an escort, the path to get there is challenging.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The rule that is used is the use of a skill, but the specific information about the area is up to the GMs determination based on the skill check performed."
+  },
+  {
+    "question": "A level 4 PC, with the Fey touched feat is in a clothing shop. What rolls are required to convince her the shop keep to give her a discount.",
+    "answer": "A persuasion check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The player has to perform a check against some measure of the NPCs resistance. To bargain for a deal, the PHB guidelines is to use persuasion, which is a charisma check."
+  },
+  {
+    "question": "The character FCG (race and class unspecified) casts Identify. What is revealed when Identify is cast on the dark green potion?",
+    "answer": "It is indeed a healing potion.",
+    "rules": [
+      "Spellcasting > How to Cast a Spell"
+    ],
+    "rules_explanation": "The Identify spell is used to reveal hidden information on a thing or person, as revealed in the casting, with a spell."
+  },
+  {
+    "question": "Character Imogen (race and class unspecified) casts Telekinesis. What is the range and list of required components?",
+    "answer": "The range is 60 feet and the spell requires verbal, somatic components.",
+    "rules": [
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "The Telekinesis spell details the ranges and components required"
+  },
+  {
+    "question": "A PC states that they will cast prestidigitation and clean up around the shop. Which of their senses are changed.",
+    "answer": "No senses are changed. The cleaning produces a minor effect, with no sense altered.",
+    "rules": [
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "The Prestidigitation spell entry is clear about what the effects of casting it entail"
+  },
+  {
+    "question": "Imogen (race and class unspecified) casts Detect Thoughts and dives deeper and deeper into the PC FCG's brain. What occurs and what mechanical effects are achieved, with a successful save?",
+    "answer": "If he succeeds, the spell ends.",
+    "rules": [
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "The Detect Thoughts spells details the effects of the target succeeding a save."
+  },
+  {
+    "question": "After Imogen (race and class unspecified) casts Detect Thoughts and has a conversation with a character what mechanical effects are achieved, based on the circumstances?",
+    "answer": "Two points are applied and a roll of two saves is needed to determine what happens.",
+    "rules": [
+      "Madness"
+    ],
+    "rules_explanation": "The character experiences a trauma which adds points of madness to the character."
+  },
+  {
+    "question": "If an NPC is able to cast Suggestion and wants to use the ability to have a large effect, what are the length limitations.",
+    "answer": "You suggest a course of activity (limited to a sentence or two).",
+    "rules": [
+      "Spell Descriptions > Suggestion"
+    ],
+    "rules_explanation": "I've pulled the specific sentence directly from the Suggestion Spell in the Spell Description section."
+  },
+  {
+    "question": "A character who is flying and has their speed dropped to zero. Does it affect their ability to hover, and what happens?",
+    "answer": "They fall.",
+    "rules": [
+      "Combat > Movement and Position > Flying Movement"
+    ],
+    "rules_explanation": "The rule indicates that the person will fall, with specific resolution based on specific mechanics of the specific characters, and therefore left out of the ruling."
+  },
+  {
+    "question": "If a character was polymorphed into a large beast has something like spider climb, can you describe the mechanics and abilities of that effect?",
+    "answer": "The polymorphed person can move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed",
+    "rules": [
+      "Appendix MM-A: Miscellaneous Creatures > Spider",
+      "Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "The Polymorph rule states that everything is overwritten by the statistic of the new form unless stated, and spider climb is such a specific skill."
+  }
+]

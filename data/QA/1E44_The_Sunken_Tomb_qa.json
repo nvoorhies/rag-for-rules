@@ -1,0 +1,143 @@
+[
+  {
+    "question": "What check is required for the level 4 character trying to recall something about the Loch?",
+    "answer": "The level 4 character must make a history check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules for Ability checks state that when the character wants to recall knowledge they would use an Intelligence check, but that this may be modified if the situation fits a specific skill like history, for example."
+  },
+  {
+    "question": "What kind of check must the level 4 character make to persuade the book merchant?",
+    "answer": "The level 4 character must make a persuasion check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Persuasion skill is used when trying to influence another person with tact or good nature."
+  },
+  {
+    "question": "When the level 4 character attacks Scanlan, what kind of roll is made to determine if the attack hits?",
+    "answer": "An attack roll is made, with disadvantage.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The attacker must make an attack roll to determine if it hits a target. Because the attack is a half measure, the DM imposes disadvantage."
+  },
+  {
+    "question": "To attempt to see Z, the party member using stealth pivots to hide behind another party member, what check is made for the monster to notice the stealthing character?",
+    "answer": "The party member makes a stealth roll, and the monster makes a perception check.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The stealthed party member rolls stealth and that is compared to the passive perception of the other monster, so it is a perception check."
+  },
+  {
+    "question": "What check is made for the party member trying to determine what is happening in the situation of the stealthing character?",
+    "answer": "An insight check is made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules mention that insight is used when trying to determine someone's intention or sense what is happening in a situation."
+  },
+  {
+    "question": "For the level 4 character with hunter skills, is the forest technically favored terrain by the lake?",
+    "answer": "Yes, the level 4 character is in the forest, which is their favored terrain.",
+    "rules": [
+      "Ranger > Favored Enemy and Natural Explorer"
+    ],
+    "rules_explanation": "The game transcript said that the level 4 character had hunter skills. Rangers use Natural explorer to designate a favored terrain."
+  },
+  {
+    "question": "When the party are at the edge of the ice loch and look around, what kind of check is made?",
+    "answer": "A perception check is made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules mention that perception is used when trying to spot or detect the presence of something."
+  },
+  {
+    "question": "When the party rest and one monster stays awake and looks around the edge, what kind of check does the DM ask for?",
+    "answer": "The DM asks for a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Perception is used to notice something."
+  },
+  {
+    "question": "When making arrows, what ability check is made?",
+    "answer": "A straight dexterity check is made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Dexterity is used in various crafts."
+  },
+  {
+    "question": "When one party member is waist deep in mud and can't get out, what kind of check is made?",
+    "answer": "A strength check is made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The party member is being pulled down by the mud and another member attempts to pull them out, requiring a Strength check for that. It's a contest."
+  },
+  {
+    "question": "When the twins try to help and are not doing a good job, what do the make?",
+    "answer": "They make a strength check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Strength is needed when the characters tries to shift the rocks to unblock the area."
+  },
+  {
+    "question": "After the break, what check must the level 4 character make using Primeval Awareness to sense if there's any undead entities around",
+    "answer": "No check is necessary, the level 4 character automatically senses undead within the vicinity of up to 6 miles.",
+    "rules": [
+      "Ranger > Primeval Awareness"
+    ],
+    "rules_explanation": "Primeval Awareness just tells the hunter if a type of creature is around, there is no check involved. See SRD: Ranger: Class Features > Primeval Awareness"
+  },
+  {
+    "question": "When the party member goes down the spiral staircase to the left, what kind of check is made?",
+    "answer": "A perception check with disadvantage is made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A perception check is for noticing something, and disadvantage is imposed because of low light."
+  },
+  {
+    "question": "When trying to disarm a trap, what skill check and ability is made?",
+    "answer": "An intellect check is made using thieves' tools.",
+    "rules": [
+      "Skills > Thieves' Tools",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Because the character has not encountered the trap before, the DM states that it is an intelligence check with thieves' tools, and not Dexterity."
+  },
+  {
+    "question": "When blades are springing forward quickly, what saving throw is made?",
+    "answer": "A dexterity saving throw is made.",
+    "rules": [
+      "Saving Throws"
+    ],
+    "rules_explanation": "Dexterity saving throws are often used when avoiding danger and traps."
+  },
+  {
+    "question": "When the party member inspects the stone protrusion within the trap, what check is made to determine if it is a creature or man-made?",
+    "answer": "An investigation check is made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Investigation"
+    ],
+    "rules_explanation": "The investigation skill is used when making deductions based on clues and inspecting for things that might be off."
+  },
+  {
+    "question": "How is the success of using Bigby's Hand to move rocks determined?",
+    "answer": "Two of the monsters make strength checks, and the character making the hand makes a d20 and adds its wisdom modifier plus eight.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The creatures must make a strength check and if the character makes a d20 roll and adds the appropriate modifier."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Can I give the level 10 cleric guidance to improve their history check? Is it too late now that the player has rolled the dice for the check?",
+    "answer": "No, you have to do it before the roll.",
+    "rules": [
+      "Spells > Casting a Spell > Range",
+      "Using Ability Scores > Ability Checks",
+      "Spells > Spell List > Guidance"
+    ],
+    "rules_explanation": "The guidance spell must be applied to the player character before the player makes a history check, as it modifies the dice roll for an ability check. Jester attempts to add guidance after it is too late and the roll has been committed."
+  },
+  {
+    "question": "Can Jester, a level 10 cleric, use her action to cast Command on the level 10 goblin rogue?",
+    "answer": "Yes, but the target gets a saving throw.",
+    "rules": [
+      "Spells > Spellcasting",
+      "Spells > Spell List > Command",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Creatures are allowed saving throws to resist spells like Command. In this case, a wisdom saving throw."
+  }
+]

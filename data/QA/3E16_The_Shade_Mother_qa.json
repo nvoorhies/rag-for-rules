@@ -1,0 +1,253 @@
+[
+  {
+    "question": "What kind of check is required to see the opaque pods set beneath this slug mass and the spindly, monstrous, haunted tree-like body of Lady Emoth, with her matted, black mane tangled and tumbling from her bony, horned skull, and black eyes peering soulless and predatory?",
+    "answer": "A Wisdom (Perception) check is required.",
+    "rules": [
+      "Combat > Actions in Combat > Search",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM asked for a perception check, which is based on the Wisdom ability. Since the character was looking for something, it is an Investigation or Perception check. The specific context of using sight to locate the monster defines this as a Perception check."
+  },
+  {
+    "question": "When the level 5 Fighter/ level 4 Warlock/ level 3 Bard steps back to inform the group, does he make a Dexterity (Stealth) check?",
+    "answer": "Yes, he makes a Dexterity (Stealth) check, with advantage.",
+    "rules": [
+      "Combat > Actions in Combat > Hide",
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The level 5 Fighter/ level 4 Warlock/ level 3 Bard is trying to retreat stealthily. When you try to hide, you make a Dexterity (Stealth) check. The PC is also invisible from another ability and wearing boots that mask the sounds, this grants him advantage on the roll."
+  },
+  {
+    "question": "As a level 5 Fighter/ level 4 Warlock/ level 3 Bard throws a stone thing, does he have to be touching the target or can he throw it?",
+    "answer": "It must hit the target with enough significant impact to cause the incantation down within to situate itself.",
+    "rules": [],
+    "rules_explanation": "The NPC describes the action required to use the item."
+  },
+  {
+    "question": "If a level 5 Fighter/ level 4 Warlock/ level 3 Bard uses a bead, does that break invisibility?",
+    "answer": "It depends on whether that action is an attack, if the bead requires an attack, or a touch.",
+    "rules": [
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "Whether an action breaks invisibility depends on the specific spell or item being used, and whether that action is 'attacking' the target."
+  },
+  {
+    "question": "When can a 1st level spell be cast?",
+    "answer": "A 1st-level spell can be cast using a 1st level or higher spell slot.",
+    "rules": [
+      "Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "This is a general rule about spell slots and casting a spell at a higher level. The Spell Slots table shows the number of spell slots available and is a general guide. This question and answer relates to the rules for when it is possible to cast a spell based on spell level."
+  },
+  {
+    "question": "If the light is low and a character doesn't have darkvision, does the character roll a perception check with disadvantage?",
+    "answer": "Yes, the character rolls a perception check with disadvantage.",
+    "rules": [
+      "The Environment > Vision and Light",
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Being in a lightly obscured area (dim light) causes disadvantage on Wisdom (Perception) checks that rely on sight. A vision based check is disadvantaged in low light conditions if the character does not have darkvision."
+  },
+  {
+    "question": "Can a level 1 Sorcerer hold a rage?",
+    "answer": "No, a rage can't be held, it requires a bonus action and the benefits apply immediately.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "You can enter a rage as a bonus action on your turn. While raging, you gain certain benefits"
+  },
+  {
+    "question": "When a level 6 sorcerer rage, does he have to hit something?",
+    "answer": "Yes, something has to either hit the raging character or the character has to hit something else.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "Rage ends early if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then."
+  },
+  {
+    "question": "Is an 8th level wizard blocked from the Shade Mother because Fearne pointed out where the Shade Mother was?",
+    "answer": "There has to be a clear path to the target, so being pointed out does not mean the 8th level wizard has a clear path. It depends on the circumstances.",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "To target something, you must have a clear path to it, so it can't be behind total cover."
+  },
+  {
+    "question": "Can the level 6 Barbarian rage and attack? If so, how many attacks can it make?",
+    "answer": "The level 6 Barbarian can attack 1 time but may have the ability to use a bonus action to attack again, if the correct condition have been satisfied. To attack with a bonus action, the Barbarian must be on the Path of the Berserker, and using a melee weapon, then it can attack again.",
+    "rules": [
+      "Barbarian > Rage",
+      "Combat > Actions in Combat > Attack"
+    ],
+    "rules_explanation": "A character is able to attack once on their turn as an action. Some classes allow for additional attacks if certain conditions are met. For a Berserker, you must enter a Frenzy when you rage then, for the duration of your rage, you can make a single melee weapon attack as a bonus action on each of your turns after this one."
+  },
+  {
+    "question": "Does catapulting the sphere from a telekinetic shove move it 5 feet?",
+    "answer": "Yes. Telekinetic Shove has a 5 foot range.",
+    "rules": [],
+    "rules_explanation": "Telekinetic Shove can only move 5 feet"
+  },
+  {
+    "question": "Will damage still be applied from a spell even if legendary resistance is used to make a saving throw a success?",
+    "answer": "No. By using Legendary Resistance to succeed, there is no failed saving throw so half damage does not apply.",
+    "rules": [
+      "Spellcasting > Saving Throws",
+      "Monsters > Legendary Creatures > Legendary Resistance"
+    ],
+    "rules_explanation": "The target takes 28 points of fire damage on a failed save, or half as much damage on a successful one. This effect is skipped with the legendary resistance skill."
+  },
+  {
+    "question": "If Orym has advantage against poison, does that advantage apply to poison damage?",
+    "answer": "No. Advantage against poison does not equal resistance against poison damage. It applies to a saving throw against being poisoned.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Monsters > Special Traits > Vulnerabilities, Resistances, and Immunities"
+    ],
+    "rules_explanation": "Advantage on poison only applies to saving throws against being poisoned, not to poison damage. Resistance is a damage type."
+  },
+  {
+    "question": "If a character fails a saving throw for constitution, what is the hellish rebuke reaction?",
+    "answer": "It's a dexterity saving throw.",
+    "rules": [],
+    "rules_explanation": "The spell itself has a dexterity saving throw and cannot be affected by any condition of the character that prompts its casting."
+  },
+  {
+    "question": "If a character already has resistance to poison, what is the modifier for the shart spell?",
+    "answer": "The character takes half damage.",
+    "rules": [
+      "Monsters > Special Traits > Vulnerabilities, Resistances, and Immunities"
+    ],
+    "rules_explanation": "Creatures with resistance to a damage type take half damage from it."
+  },
+  {
+    "question": "If a poison effect will move you outside of your own will, do you make an attack roll with disadvantage?",
+    "answer": "No, unless the poisoned condition also causes disadvantage on attack rolls",
+    "rules": [
+      "Appendix PH-A: Conditions > Poisoned"
+    ],
+    "rules_explanation": "The poisoned condition doesn't cause disadvantage on attacks, but poison can control you and there might be a circumstance which results in the action, such as a spell, so you perform has disadvantage."
+  },
+  {
+    "question": "How many objects can be affected at once by the Dispel Magic spell?",
+    "answer": "If the object can be dispelled, it's only one object at a time.",
+    "rules": [
+      "Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends."
+  },
+  {
+    "question": "If the Time Morass causes the Husk to speed up or slow down, how does that work?",
+    "answer": "The Husk makes a constitution saving throw and then has no reaction until its next turn, and very little movement.",
+    "rules": [],
+    "rules_explanation": "I'll say that that's more of the design of a mini that's there. There isn't a large wheel that's on the side. There is a wheel on the front of it near where the controls are, that guides its direction."
+  },
+  {
+    "question": "If Ashton is raging, do you get advantage on Athletics and Strength checks?",
+    "answer": "Ashton has advantage on Strength checks and Strength saving throws.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "While raging, you gain the following benefits if you aren't wearing heavy armor:\n\nYou have advantage on Strength checks and Strength saving throws."
+  },
+  {
+    "question": "If a level 6 Barbarian does an attack roll with a three, does the character still move 40 feet?",
+    "answer": "If the 6th level Barbarian makes a Strength check with the roll of a 3, he still has 40 feet of movement if he is not taking an attack.",
+    "rules": [],
+    "rules_explanation": "A bad check does not affect movement speed"
+  },
+  {
+    "question": "If the 6th level Barbarian moves over to the table with the guy, and rages, does it end when the next turn starts?",
+    "answer": "Unless something hits you in the interim.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then."
+  },
+  {
+    "question": "If the Shade Mother makes a constitution saving throw from an attack, can't she succeed on a roll of 13?",
+    "answer": "Yes.",
+    "rules": [
+      "Saving Throws",
+      "Monsters"
+    ],
+    "rules_explanation": "Success equals or exceeds the DC."
+  },
+  {
+    "question": "Does the 8th level Wizard have to attack from 60 feet away?",
+    "answer": "No, it depends on the spell being cast.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "A typical spell requires you to pick one or more targets to be affected by the spell's magic. A spell's description tells you whether the spell targets creatures, objects, or a point of origin for an area of effect (described below).\n\nMost spells have ranges expressed in feet. Some spells can target only a creature (including you) that you touch. Other spells, such as the shield spell, affect only you. These spells have a range of self."
+  },
+  {
+    "question": "If the Stonky Ring can carry up to 1,000 pounds, how far does that let the wearer move?",
+    "answer": "The item description lists: 30 feet in any direction.",
+    "rules": [],
+    "rules_explanation": "Stonky Ring description lists the conditions for the item use."
+  },
+  {
+    "question": "When a creature has a 25 feet walking speed, what is the speed after a dash?",
+    "answer": "The speed is 25 more feet",
+    "rules": [
+      "Combat > Movement and Position > Speed"
+    ],
+    "rules_explanation": "When you take the Dash action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers."
+  },
+  {
+    "question": "Is the Shade Mother a free action?",
+    "answer": "The stinger is being used by a Legendary Action.",
+    "rules": [
+      "Monsters > Actions",
+      "Monsters > Legendary Creatures > Legendary Actions"
+    ],
+    "rules_explanation": "That was a legendary action. That does give you an attack of opportunity if you want it."
+  },
+  {
+    "question": "With Dispel Magic, does it only work on one object at a time?",
+    "answer": "Yes. If the object can be dispelled, yes, it's only one object at a time.",
+    "rules": [
+      "Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "This spell works only on the object itself. Each object can have several magical effects at once."
+  },
+  {
+    "question": "What type of check is a constitution check for a poison effect, and is there disadvantage?",
+    "answer": "No disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This game text states it is just a roll. If there were to be circumstance which resulted in disadvantage to the ability check then that would have to be stated in that ability."
+  },
+  {
+    "question": "In order to push the Amber Ball does one roll a Strength check or Athletics check?",
+    "answer": "That depends. An athletics check is when someone is doing a full physical action and a Strength check is when someone is performing a single application of strength.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills"
+    ],
+    "rules_explanation": "For this in particular, I would say this is a strength check, because you are just doing one single impact with your hammer. In this example they consider the use of an hammer to dislodge a ball a single application of strength."
+  },
+  {
+    "question": "If an explosion with the Husk results in a dexterity saving throw for the players, is there an advantage?",
+    "answer": "No, there is no advantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Unless it is stated, the characters roll as normal."
+  },
+  {
+    "question": "What if a gem makes me feel good, is that mind control?",
+    "answer": "You are correct, there's a slight influence there, but not full control or charm",
+    "rules": [],
+    "rules_explanation": "The NPC describes the effect on you with what is in the stone."
+  },
+  {
+    "question": "When can a Sorcerer save against poison?",
+    "answer": "At the end of your turn",
+    "rules": [],
+    "rules_explanation": "A general game rule that doesn't vary."
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "question": "Can Keyleth, the level 13 druid, use a nature check to see if this is a mystical realm or if they've done something naturey to make it?",
+    "answer": "Yes, the dungeon master allows Keyleth, the level 13 druid, to make a nature check.",
+    "rules": [
+      "Ability Checks > Skills > Intelligence",
+      "Ability Checks > Skills > Wisdom",
+      "Adventuring > Time > Movement > Special Types of Movement",
+      "Spellcasting > What Is a Spell? > Spell Level"
+    ],
+    "rules_explanation": "This rules question asks if the player can make a skill check. All characters are able to make skill checks, the main thing is to determine which ability score and skill is most appropriate to make the check. In this case, to determine \"if this is a mystical realm\" and the area is a wooded location, the nature skill is the most appropriate skill to use."
+  },
+  {
+    "question": "Does Vex'ahlia, the level 13 ranger, get advantage on her perception check because we're in a forest?",
+    "answer": "Technically, yes, the dungeon master confirms that Vex'ahlia, the level 13 ranger, has advantage on her perception check.",
+    "rules": [
+      "Ability Checks > Advantage and Disadvantage",
+      "Adventuring > The Environment > Vision and Light"
+    ],
+    "rules_explanation": "Advantage is granted on perception checks because the DM deems the current circumstances as advantageous"
+  },
+  {
+    "question": "Can Pike, the level 13 cleric, check the box for traps?",
+    "answer": "Yes, Pike, the level 13 cleric, can make an investigation check",
+    "rules": [
+      "Ability Checks > Skills > Intelligence",
+      "Ability Checks > Skills > Wisdom",
+      "Adventuring > Traps > Detecting and Disabling a Trap"
+    ],
+    "rules_explanation": "The rules text for traps say that, A trap’s description specifies the checks and DCs needed to detect it, disable it, or both. You are actively looking for a trap and can make an Investigation check"
+  },
+  {
+    "question": "Using Divine Sense, can Vax, the level 13 paladin, tell if there's anything undead in the box?",
+    "answer": "Vax, the level 13 paladin, can use Divine Sense and does not get a fiendish or undead aura from the box.",
+    "rules": [
+      "Paladin > Class Features > Divine Sense"
+    ],
+    "rules_explanation": "This question is explicitly invoking the use of the divine sense ability, so it is a simple matter of checking the divine sense SRD entry to confirm the player can use the ability in the way described."
+  },
+  {
+    "question": "Can Pike, the level 13 cleric, make a religion check to find out if it is respectful to bring another god into a place of worship?",
+    "answer": "The DM responds that Pike, the level 13 cleric, does not know, because she has not spent enough time studying religions to know.",
+    "rules": [
+      "Ability Checks > Skills > Intelligence",
+      "Ability Checks > Skills > Wisdom"
+    ],
+    "rules_explanation": "This question asks if the player can make a skill check. It is implied the player may need to be proficient in religion to understand the correct path of behavior"
+  },
+  {
+    "question": "Can Marisha, the level 13 druid, do a quick nature check to see if this is a mystical realm or if they've done something naturey to make it?",
+    "answer": "Yes, the dungeon master allows Keyleth, the level 13 druid, to make a nature check.",
+    "rules": [
+      "Ability Checks > Skills > Intelligence",
+      "Ability Checks > Skills > Wisdom",
+      "Adventuring > Time > Movement > Special Types of Movement",
+      "Spellcasting > What Is a Spell? > Spell Level"
+    ],
+    "rules_explanation": "This rules question asks if the player can make a skill check. All characters are able to make skill checks, the main thing is to determine which ability score and skill is most appropriate to make the check. In this case, to determine \"if this is a mystical realm\" and the area is a wooded location, the nature skill is the most appropriate skill to use."
+  },
+  {
+    "question": "If Percival, the level 13 artificer, wanders into the room with a frown, can Pike insight check him with disadvantage, because it was through a wall?",
+    "answer": "Ashley, playing Pike, can do an insight check with disadvantage, because it was through a wall.  Pike gets an 18, but It's too hard to pick up without the nuances. From through a wall, I mean, the fact that you could pick up any of the words is one thing, but most of insight is based around facial expressions, physical activity. You have no idea.",
+    "rules": [
+      "Ability Checks > Skills > Wisdom"
+    ],
+    "rules_explanation": "The SRD does not give specific guidance about what circumstance result in disadvantage for making a skill check. The Dungeon Master can choose whether or not the attempt is possible in the situation, and if it is, the DM can impose a penalty."
+  },
+  {
+    "question": "If Grog, the level 13 barbarian, rolls an intelligence check to detect notes of alcohol, what happens?",
+    "answer": "Grog, the level 13 barbarian, can roll an intelligence check to detect notes of alcohol. He detects notes of alcohol. Very strong alcohol.",
+    "rules": [
+      "Ability Checks > Skills > Intelligence"
+    ],
+    "rules_explanation": "This rules question asks if the player can make a skill check. All characters are able to make skill checks, the main thing is to determine which ability score and skill is most appropriate to make the check."
+  },
+  {
+    "question": "If Percival, the level 13 artificer, wanders into the room with a frown, can Pike insight check him with disadvantage, because it was through a wall?",
+    "answer": "Ashley, playing Pike, can do an insight check with disadvantage, because it was through a wall. It's too hard to pick up without the nuances. From through a wall, I mean, the fact that you could pick up any of the words is one thing, but most of insight is based around facial expressions, physical activity. You have no idea.",
+    "rules": [
+      "Ability Checks > Skills > Wisdom"
+    ],
+    "rules_explanation": "The SRD does not give specific guidance about what circumstance result in disadvantage for making a skill check. The Dungeon Master can choose whether or not the attempt is possible in the situation, and if it is, the DM can impose a penalty."
+  },
+  {
+    "question": "Can Pike, the level 13 cleric, check the box for traps?",
+    "answer": "Yes, Pike, the level 13 cleric, can make an investigation check",
+    "rules": [
+      "Ability Checks > Skills > Intelligence",
+      "Ability Checks > Skills > Wisdom",
+      "Adventuring > Traps > Detecting and Disabling a Trap"
+    ],
+    "rules_explanation": "The rules text for traps say that, A trap’s description specifies the checks and DCs needed to detect it, disable it, or both. You are actively looking for a trap and can make an Investigation check"
+  },
+  {
+    "question": "can Taliesin, playing Percival, roll a perception check on Grog's hands?",
+    "answer": "The DM asks what Percival's passive perception is. The DM checks if the character is proficient with the check because the character is not actively looking for signs of something",
+    "rules": [
+      "Ability Checks > Passive Checks"
+    ],
+    "rules_explanation": "In general, you don’t call for a roll from a player unless the possibility of failure matters. As such, If a player is not actively trying to observe something, passive perception is used, and the player doesn't make a roll"
+  },
+  {
+    "question": "Can Ashley, playing Pike, check the box for traps?",
+    "answer": "Ashley, playing Pike, can check the box for traps using an investigation check.",
+    "rules": [
+      "Ability Checks > Skills > Intelligence",
+      "Ability Checks > Skills > Wisdom",
+      "Adventuring > Traps > Detecting and Disabling a Trap"
+    ],
+    "rules_explanation": "The rules text for traps say that, A trap’s description specifies the checks and DCs needed to detect it, disable it, or both. You are actively looking for a trap and can make an Investigation check"
+  },
+  {
+    "question": "Pike asks what are we planting here, so if it's something bad it's not our fault, side note, is that okay?",
+    "answer": "There is not a roll. There is not a rules-based answer for the player's statement.",
+    "rules": [],
+    "rules_explanation": "There's no specific roll attached to this statement, it's just flavor and roleplay."
+  },
+  {
+    "question": "Can I do a quick nature check to see if this is a mystical realm or if they've done something naturey to make it?",
+    "answer": "I can do a quick nature check to see if this is a mystical realm or if they've done something naturey to make it. I got an 18.",
+    "rules": [
+      "Ability Checks > Skills > Intelligence",
+      "Ability Checks > Skills > Wisdom",
+      "Adventuring > Time > Movement > Special Types of Movement",
+      "Spellcasting > What Is a Spell? > Spell Level"
+    ],
+    "rules_explanation": "This rules question asks if the player can make a skill check. All characters are able to make skill checks, the main thing is to determine which ability score and skill is most appropriate to make the check. In this case, to determine \"if this is a mystical realm\" and the area is a wooded location, the nature skill is the most appropriate skill to use."
+  },
+  {
+    "question": "Can Kima, an NPC, Kima have those boots back, please?  They look a little iffy with your armor.",
+    "answer": "The NPC Kima is kind of a ball of intensity. The boots are returned.",
+    "rules": [],
+    "rules_explanation": "No roll or explicit rule is applied here, this is just character interaction."
+  },
+  {
+    "question": "Can Ashley, playing Pike, check for traps on the box of ashes?",
+    "answer": "Ashley, playing Pike, can check for traps. She got an eight. It's hard to tell, looks pretty safe.",
+    "rules": [
+      "Ability Checks > Skills > Intelligence",
+      "Ability Checks > Skills > Wisdom",
+      "Adventuring > Traps > Detecting and Disabling a Trap"
+    ],
+    "rules_explanation": "The rules text for traps say that, A trap’s description specifies the checks and DCs needed to detect it, disable it, or both. You are actively looking for a trap and can make an Investigation check"
+  },
+  {
+    "question": "Can Vax, the level 13 paladin, look at it for locks or traps but not opening it.",
+    "answer": "Vax, the level 13 paladin, can look for traps and gets a 22, It is not trapped. Well, go ahead and make a roll to see if it's locked. That is a 30. It is locked, there are four individual locks in each side--",
+    "rules": [
+      "Ability Checks > Skills > Intelligence",
+      "Ability Checks > Skills > Wisdom",
+      "Adventuring > Traps > Detecting and Disabling a Trap"
+    ],
+    "rules_explanation": "The rules text for traps say that, A trap’s description specifies the checks and DCs needed to detect it, disable it, or both. You are actively looking for a trap and can make an Investigation check"
+  },
+  {
+    "question": "As we are walking through the path, Taliesin says I want to see if I can find two small stones. I wanna find two pretty reasonable fire-starting stones. An investigation check, 'cause you're…",
+    "answer": "Percival, the level 13 artificer, makes an investigation check and find one.",
+    "rules": [
+      "Ability Checks > Skills > Intelligence",
+      "Adventuring > Traps > Detecting and Disabling a Trap"
+    ],
+    "rules_explanation": "The rules text for traps say that, A trap’s description specifies the checks and DCs needed to detect it, disable it, or both. You are actively looking for a trap and can make an Investigation check"
+  }
+]

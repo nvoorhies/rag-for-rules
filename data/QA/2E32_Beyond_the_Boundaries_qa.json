@@ -1,0 +1,70 @@
+[
+  {
+    "question": "What kind of check is required to be able to hold one's pee?",
+    "answer": "A constitution check is required to determine how long a person can hold their pee.",
+    "rules": [
+      "Part I > - > Roll a constitution check"
+    ],
+    "rules_explanation": "The player character states that he needs to pee and the game master orders him to make a roll with the rule given in the phrase, and the check type is explicitly named."
+  },
+  {
+    "question": "What kind of check should the level X Druid make to know what a gnoll is?",
+    "answer": "A nature check should be made to know what a gnoll is.",
+    "rules": [
+      "Part I > - > Make a nature check."
+    ],
+    "rules_explanation": "The DM requests the player to make a nature check to determine if they have the appropriate knowledge."
+  },
+  {
+    "question": "With what type of check can level X cleric with Y Wisdom know if an NPC is guilty of something?",
+    "answer": "Level X cleric with Y Wisdom can make an insight check to know if an NPC is guilty of something.",
+    "rules": [
+      "Part II > - > I would love to have an insight check, insight check from Caduceus."
+    ],
+    "rules_explanation": "The DM is asking for an insight check from the player to determine if they know what is going on."
+  },
+  {
+    "question": "What ability check is appropriate to see if the level X Fighter can catch the pouch? ",
+    "answer": "A Dexterity check is appropriate to see if someone can catch an object.",
+    "rules": [
+      "Part II > - > I would like to make a dexterity check to see if I catch it?"
+    ],
+    "rules_explanation": "The player is attempting to catch a tossed object, a leather pouch, and asks if a Dexterity check is appropriate to determine success."
+  },
+  {
+    "question": "What skill check is appropriate for the level X character to erase the tracks at the scene?",
+    "answer": "A survival check is appropriate to erase tracks at the scene.",
+    "rules": [
+      "Part I > - > I'm going to start going around and trying to mess up our tracks, maybe leave a few deeper footprints walking the other way?\nMATT: Make a survival check."
+    ],
+    "rules_explanation": "Matt asks Sam to make a survival check for his actions erasing the tracks at the scene"
+  },
+  {
+    "question": "What is Matt using as the source when I am confused as to a character’s disposition and knowledge, such as Bryce’s in Alfield or Gustav’s outstanding debt? ",
+    "answer": "Matt had to go to the Wiki to find out how much money Gustav still owed, as the party had altered what Matt was expecting.",
+    "rules": [],
+    "rules_explanation": "There is no rule referenced, the Dungeon master relies on his own notes and, in this case, Wikipedia from the player's previous reference"
+  },
+  {
+    "question": "Level X Caduceus wants to know what an NPCs intentions are. What kind of roll should he make?",
+    "answer": "Caduceus, level X, should make an insight check to know what an NPC's intentions are.",
+    "rules": [
+      "Part I > - > TALIESIN: I would love to have an insight check, insight check from Caduceus."
+    ],
+    "rules_explanation": "The player is wanting to make an insight check to determine the intention of the non player character."
+  },
+  {
+    "question": "If a player character wants to speed up the warrent process, what is the only thing that can speed it up?",
+    "answer": "Coin is the only thing that can speed up that process",
+    "rules": [],
+    "rules_explanation": "There is no rule referenced, the player infers this by the comment \"coin\"."
+  },
+  {
+    "question": "The level X character attempts to hurl a rock at a suspicious pile of rocks. What kind of roll is this?",
+    "answer": "A strength check is required to hurl a rock",
+    "rules": [
+      "Part I > - > I'm going to throw a little rock as hard as I can towards it.\nMATT: Make a strength check."
+    ],
+    "rules_explanation": "The DM orders Laura to make a strength check for her attempt to throw the little rock."
+  }
+]

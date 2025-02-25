@@ -1,0 +1,196 @@
+[
+  {
+    "question": "Can the level 8 [class] Kord use my Inspiring Leader feat?",
+    "answer": "If you would like to take a moment to give everyone hugs as part of your Inspiring Leader, sure.",
+    "rules": [
+      "Class Features > Feats"
+    ],
+    "rules_explanation": "The rules do not specify how a character can roleplay using the Inspiring Leader feat, and the Dungeon Master has discretion on how to handle this."
+  },
+  {
+    "question": "Level 16 [class] cast Dispel Magic. Does it have an effect on the face?",
+    "answer": "It does not seem to have an effect.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Targets"
+    ],
+    "rules_explanation": "If the Dispel Magic spell were able to remove the magical face, the Dungeon Master would have stated that it was removed. As he does not, it can be inferred that it does not work on the face."
+  },
+  {
+    "question": "If I don't use perception, does my mountain character have advantage on an investigation check to find an entrance on a mountain?",
+    "answer": "You do, actually, yes. Favored terrain.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Ranger > Favored Terrain"
+    ],
+    "rules_explanation": "The ranger class features allows the player to automatically gain this advantage in the described situation. The player is not attempting a Perception skill check and is attempting a investigation check instead."
+  },
+  {
+    "question": "Level 16 [class] wants to dispel magic. What to roll?",
+    "answer": "Roll a d20. Add your wisdom modifier, please.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Saving Throws"
+    ],
+    "rules_explanation": "The rules state to add the Wisdom modifier and not the ability itself"
+  },
+  {
+    "question": "Level 16 [class] has spell Pass Without a Trace on. Add ten?",
+    "answer": "Yes.",
+    "rules": [
+      "Spell Descriptions > Pass Without a Trace"
+    ],
+    "rules_explanation": "The Pass Without a Trace spell adds 10 to all Dexterity (Stealth) checks."
+  },
+  {
+    "question": "Can the Level 16 [class] use the boots of elvenkind to add bonus on stealth check?",
+    "answer": "Yeah, elvenkind.",
+    "rules": [
+      "Magic Items > Boots of Elvenkind"
+    ],
+    "rules_explanation": "The Boots of Elvenkind give advantage on Dexterity (Stealth) checks"
+  },
+  {
+    "question": "Level 17 [class] and does a Nature check of the ground, add modifier?",
+    "answer": "15.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "Player was reminded of his nature score to add it"
+  },
+  {
+    "question": "Level 17 [class] casts Mass Cure Wounds, how much does heal",
+    "answer": "3d8 plus spellcasting ability modifier.",
+    "rules": [
+      "Cleric > Spellcasting",
+      "Spell Descriptions > Mass Cure Wounds"
+    ],
+    "rules_explanation": "The amount of healing from the Mass Cure Wounds spell is determined by 3d8 + the caster's spellcasting ability modifier."
+  },
+  {
+    "question": "does Doty have low-light vision, I think",
+    "answer": "Doty has Darkvision.",
+    "rules": [
+      "Monsters"
+    ],
+    "rules_explanation": "The game master simply states whether Doty has Darkvision instead of low-light vision, which is not an option."
+  },
+  {
+    "question": "If the Dragonborn is in the cloud and wants to revert back to its normal from, does that take a minute or eight hours?",
+    "answer": "Can't really talk. You're a cloud. So if you wanted to, you could spend a minute to concentrate and revert back, and you can do that-- you have an eight-hour period where you can just turn back and forth.",
+    "rules": [
+      "Spell Descriptions > Wind Walk"
+    ],
+    "rules_explanation": "It takes a minute to concentrate in order to transform back to normal but has 8 hours to make the decision"
+  },
+  {
+    "question": "Does Wind Walk work on the robot?",
+    "answer": "Willing creatures. Technically he's considered a creature for the targeting reason of spells and effects, so yeah.",
+    "rules": [
+      "Spell Descriptions > Wind Walk"
+    ],
+    "rules_explanation": "The spell Wind Walk states that it affects willing creatures and the robot, Doty, is considered a willing creature so it is affected by the spell."
+  },
+  {
+    "question": "We're going to do Lawrence of Arabia, is it mountain or favored terrain?",
+    "answer": "It is a mountain. You get to have an advantage. That's what rangers do, man!",
+    "rules": [
+      "Ranger > Natural Explorer"
+    ],
+    "rules_explanation": "Rangers have advantage on ability checks for their favored terrain"
+  },
+  {
+    "question": "Is it possible to make a hole in cave-in and use smoke to go inside?",
+    "answer": "That may be quite possible, actually.",
+    "rules": [],
+    "rules_explanation": "The game master states that the action may be possible, which means it is up to his discretion. No rules are mentioned."
+  },
+  {
+    "question": "Can this level 4 [class] get out an arrow, is there an Unseen Servant or something?",
+    "answer": "You're an expert marksman, you know. Within 100 feet? Yeah, how about this? Why don't you shoot an arrow right now, outside the cave, same strength, and see how far it goes?",
+    "rules": [],
+    "rules_explanation": "No rules were mentioned here, but the game master is simply inquiring how she would go about trying to retrieve the arrow using mundane means."
+  },
+  {
+    "question": "What's the range on my bow?",
+    "answer": "150 is your first increment, and then 600 is your second increment.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Range"
+    ],
+    "rules_explanation": "The rules for long bows, which are in the players guide, was stated to her"
+  },
+  {
+    "question": "Did the level 4 [class] use a luck point already today or can he have his rolls?",
+    "answer": "It's not per game, it's per day, so if we go to bed, it resets.",
+    "rules": [
+      "Races > Halfling > Lucky"
+    ],
+    "rules_explanation": "Races can regain use of Lucky for a reroll"
+  },
+  {
+    "question": "After casting the 7th-level Teleport spell to the Smoulder Crown, does the target take 4d6 force damage, and the spell fails to teleport you if the location was already occupied by an object or creature.",
+    "answer": "Sure. You poke into the darkness, and it is pitch-black on the inside. As you poke past the illusion, it's about two inches or so of this rocky, heavy orange-red stone, and as you peer in you can see a cavern about ten feet wide or so and about 12 to ten feet tall. Natural along the walls, you can see the ground itself is smoothed over, and it's straight. It's a straight tunnel. It's not a rocky natural formation, it's like it was pushed and carved into the rock, like something heavy or something very focused drove through. You glance over to the side, and you catch what appears to be a face in the wall, about that big around. It's featureless, you just see two eye sockets, a mouth, and a nose. You see a flash of green light.",
+    "rules": [
+      "Spell Descriptions > Teleport"
+    ],
+    "rules_explanation": "The Dungeon Master is describing what the target character saw, which is at his discretion. No rules mentioned."
+  },
+  {
+    "question": "Does the Glyph of Warding alert you once it's gone off?",
+    "answer": "You don't recall. You didn't know your glyph went off until you found the destroyed body of the prisoner that you had released in Westruun long ago.",
+    "rules": [
+      "Spell Descriptions > Glyph of Warding"
+    ],
+    "rules_explanation": "It is indicated in previous play and in this answer that the Glyph of Warding does not provide an alert when it goes off."
+  },
+  {
+    "question": "Has the mountain character had a chance to long rest, to recharge uses of the weapon?",
+    "answer": "Yeah, the night before.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "Long rests, taken to recharge used abilities, were mentioned"
+  },
+  {
+    "question": "If a character with advantage from wearing the Amulet of the Drunkard, beer, ale, mead, or wine can use it to regain 2d4 plus two hit points?",
+    "answer": "Any relatively alcoholic drink labeled on the thing, he can drink a pint of.",
+    "rules": [
+      "Magic Items > Amulet of the Drunkard"
+    ],
+    "rules_explanation": "The Dungeon Master restated that one of the properties of that Amulet was a pint"
+  },
+  {
+    "question": "Wind Walk is a 7th-level spell or is it 6th?",
+    "answer": "Wind Walk is a 6th-level spell. Not a 7th.",
+    "rules": [
+      "Spell Descriptions > Wind Walk"
+    ],
+    "rules_explanation": "A correction is made based on the stated rules for the spell."
+  },
+  {
+    "question": "What is the Level 4 [class] attire?",
+    "answer": "Okay, I'll trust you on that.",
+    "rules": [],
+    "rules_explanation": "This is not a rules call, simply trusting what the player says"
+  },
+  {
+    "question": "Was that a fart?",
+    "answer": "It's one of the various beasts of burden that you're walking past in the streets of Ank'harel.",
+    "rules": [],
+    "rules_explanation": "The rules do not cover sounds of a burdon animal"
+  },
+  {
+    "question": "Can the mountain class also stealth as cloud?",
+    "answer": "As a cloud, you get there really fast. So as you make it up there, you cannot-- I will say, for the purposes of this…",
+    "rules": [
+      "Spell Descriptions > Wind Walk"
+    ],
+    "rules_explanation": "A class cannot cast spells"
+  },
+  {
+    "question": "I have some bad dice, what can I use instead?",
+    "answer": "Make a deception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A deception skill is an ability check to lie or cheat"
+  }
+]

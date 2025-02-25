@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Can a Level 13 Druid cast Hold Person or Friends?",
+    "answer": "There is no mention of what spells a Level 13 Druid can cast.",
+    "rules": [
+      "Classes > Druid > Spellcasting",
+      "Spellcasting > Spellcasting > Spells Known and Prepared"
+    ],
+    "rules_explanation": "The question asks whether the druid can cast particular spells, which depends on whether they are on the druid's class spell list. Then, whether they know the spell in question and have it prepared."
+  },
+  {
+    "question": "Do Druids work like clerics where we learn spells at the top of the day?",
+    "answer": "Yes, a druid prepares a list of spells each day from which they can then select spells to cast using available spell slots, same as clerics.",
+    "rules": [
+      "Classes > Druid > Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "The rules for preparing and casting spells for the Druid class specify that they prepare the list of spells that are available for you to cast, choosing from the druid spell list. This is similar to Clerics."
+  },
+  {
+    "question": "Can you cross multiclass characters so that the Classs is Lycan and the Class is a Monk?",
+    "answer": "Yes, it is possible to multiclass characters so that the class is a monk. There is no mention of a lycan class.",
+    "rules": [
+      "Classes > Multiclassing > Prerequisites"
+    ],
+    "rules_explanation": "The multiclassing rules specify that characters can gain levels in multiple classes if they meet the ability score requirements. There is no statement that some classes cannot be combined. There is no mention of a Lycan class."
+  },
+  {
+    "question": "Does a Level 13 Warlock or Level 13 Cleric have to pick 7th level spells now before the battle royale?",
+    "answer": "The Level 13 Warlock or Level 13 Cleric only has to choose which of their already prepared spells can be used as a 7th level spell.",
+    "rules": [
+      "Classes > Warlock > Pact Magic > Spell Slots",
+      "Classes > Cleric > Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "The Level 13 Warlock or Level 13 Cleric knows their spells and can choose between the ones they already know/have prepared."
+  },
+  {
+    "question": "Does a Level 13 Druid with Polymorph have to keep all of her mental stats when polymorphing using beast shape?",
+    "answer": "Yes, when using Wild Shape, the Level 13 Druid's game statistics are replaced by the statistics of the beast, but they retain their alignment, personality, and Intelligence, Wisdom, and Charisma scores.",
+    "rules": [
+      "Classes > Druid > Wild Shape"
+    ],
+    "rules_explanation": "The rules for druid wild shape state that the character retains their Intelligence, Wisdom, and Charisma scores."
+  },
+  {
+    "question": "If a Level 13 character in animal form has a beast form Polymorphed into, is that creature now considered a creature, which can be under control, such as if Geas is cast?",
+    "answer": "Yes, any entity is a creature, whether it be a monster or a person.",
+    "rules": [],
+    "rules_explanation": "This answer is based on the basic definition of a 'creature', and no more specific reference is available."
+  },
+  {
+    "question": "If I cast Eldritch Blast am I still at disadvantage because of the target being adjacent?",
+    "answer": "Yes, because it is a ranged attack roll, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "The rule for ranged attacks in close combat states that you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated."
+  },
+  {
+    "question": "Can you barter with an NPC while you are in the game, or can you only barter with the DM for what is happening at the time of the turn?",
+    "answer": "You can barter with an NPC. You can't barter with the DM.",
+    "rules": [],
+    "rules_explanation": "This answer is based on the interaction and interpretation of game rules."
+  },
+  {
+    "question": "If an effect required ranged attacks, am I at disadvantage even though the reckless barbarian feature is in use on the other player?",
+    "answer": "Yes, because the reckless barbarian feature is in use on the other player, you could attack him without disadvantage, because the reckless attack feature gives you advantage, which cancels the ranged attacks in close combat disadvantage.",
+    "rules": [
+      "Classes > Barbarian > Reckless Attack",
+      "Combat > Making an Attack > Advantage and Disadvantage",
+      "Combat > Making an Attack > Ranged Attacks > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "The reckless attack feature gives advantage, and having both advantage and disadvantage on a roll cancels them out."
+  },
+  {
+    "question": "Does a Level 13 Warlock's level in Warlock or their proficiency bonus effect the spell save DC of items they use?",
+    "answer": "No, The spell save DC is based on the item and not affected by the user's level or proficiency bonus.",
+    "rules": [
+      "Magic Items > Activating an Item > Spells"
+    ],
+    "rules_explanation": "The spell casting rules for items state that the spell uses spell save DC from the item."
+  }
+]

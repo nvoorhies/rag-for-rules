@@ -1,0 +1,298 @@
+[
+  {
+    "question": "A 15th-level blood hunter character makes a perception check to see if the eyes of an NPC are flashing red. What rules apply to this roll?",
+    "answer": "Section: Using Ability Scores > Ability Checks\nTo make an ability check, roll a d20 and add the relevant ability modifier, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success.\nIf the check is a skill you are proficient in, add your proficiency bonus as well.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question asks what rule applies to a perception check.  A perception check is a type of ability check, and this section specifies the rules."
+  },
+  {
+    "question": "A 15th-level rogue character asks if they can make a message to the ship captain, what rules apply to this activity?",
+    "answer": "This activity is not covered by any specific rule. The Dungeon Master can assess the situation and provide a resolution.",
+    "rules": [],
+    "rules_explanation": "Sending a message to the captain of the ship is not a standard action covered by a specific rule in the SRD, so it falls to the Dungeon Master to adjudicate the situation and provide a resolution."
+  },
+  {
+    "question": "The DM calls for a perception check, and a 5th-level fighter rolls a 15. What happens?",
+    "answer": "Section: Using Ability Scores > Ability Checks\nCompare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The results of an ability check roll are determined by comparing the dice roll plus applicable modifiers against a Difficulty Class (DC).  Depending on the check, the DC may need to be overcome to succeed."
+  },
+  {
+    "question": "A 7th level ranger asks about how far a log on the ground yanks into the air when they do the Zeph'aeratam. Is there a rule about that?",
+    "answer": "There is no rule in the SRD about how high a log can yank into the air when a 7th-level ranger does the Zeph'aeratam. The DM is the final arbiter of all actions in the game, unless specifically covered in the rules.",
+    "rules": [],
+    "rules_explanation": "The rules don't cover an effect that yanks a log in the air with magic.  This situation depends on the nature of the homebrew ability and is not covered by the SRD."
+  },
+  {
+    "question": "A 4th level character asks if they can make a history check at advantage because it's an area that I'm kind of familiar with or no? What rule applies?",
+    "answer": "Section: Using Ability Scores > Ability Checks > Advantage and Disadvantage\nSometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check.  When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "While there is not a specific rule, the rule for Advantage and Disadvantage, along with the initial question, is what allows the DM to make a rules judgment. The GM can also decide circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result."
+  },
+  {
+    "question": "A character cooks some rabbit for another character and asks the DM to check the results. How do you determine how they go?",
+    "answer": "This activity is not covered by any specific rule. The Dungeon Master can assess the situation and provide a resolution.",
+    "rules": [],
+    "rules_explanation": "Cooking rabbit is not covered by a specific rule in the SRD, so it falls to the Dungeon Master to adjudicate the situation and provide a resolution. The GM is the final arbiter of all actions in the game, unless specifically covered in the rules."
+  },
+  {
+    "question": "A 5th level character makes a sleight of hand check while in front of a dealer that is watching. What rule applies?",
+    "answer": "Section: Using Ability Scores > Ability Checks\nTo make an ability check, roll a d20 and add the relevant ability modifier, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A sleight of hand check is a type of ability check, and this section specifies the rules.  In this case, the specific skill used is sleight of hand.  Advantage and disadvantage may apply, but this section is the base rule."
+  },
+  {
+    "question": "What rule applies for using a skill check to create food?",
+    "answer": "This activity is not covered by any specific rule. The Dungeon Master can assess the situation and provide a resolution.",
+    "rules": [],
+    "rules_explanation": "Creating specific foods using a skill check is not a standard action covered by a specific rule in the SRD, so it falls to the Dungeon Master to adjudicate the situation and provide a resolution."
+  },
+  {
+    "question": "Does a 1st-level lightfoot halfling get to reroll a one on a perception check?",
+    "answer": "Section: Races > Halfling > Halfling Traits > Lucky\nWhen you roll a 1 on the d20 for an ability check, you can reroll the die and must use the new roll.",
+    "rules": [
+      "Races > Halfling > Halfling Traits > Lucky"
+    ],
+    "rules_explanation": "A lightfoot halfling's lucky racial trait applies when they roll a one on an ability check. When that happens, the character can reroll the die and must use the new roll."
+  },
+  {
+    "question": "A character spends 25 gold worth of coins to perform a 4th level spell divination, what rule applies?",
+    "answer": "Section: Spellcasting > Components > Material (M)\nCasting some spells requires particular objects, specified in parentheses in the component entry... but if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.",
+    "rules": [
+      "Spellcasting > Components > Material (M)"
+    ],
+    "rules_explanation": "This section covers the requirements for material components in a spell. If a cost is indicated for a component, a character must have that specific component before he or she can cast the spell."
+  },
+  {
+    "question": "An 11th level paladin and a 6th level bard are within 10 feet of each other and making saving throws. What rule applies?",
+    "answer": "Section: Classes > Paladin > Class Features > Aura of Protection.\nStarting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1).",
+    "rules": [
+      "Classes > Paladin > Class Features > Aura of Protection"
+    ],
+    "rules_explanation": "This rule details that friendly creatures within 10ft of a Paladin get the bonus. Only one aura of protection bonus can be applied even if there is a paladin with a higher level."
+  },
+  {
+    "question": "A cleric tries to turn undead and gets a natural 20. What rule applies?",
+    "answer": "Section: Classes > Cleric > Class Features > Channel Divinity > Channel Divinity: Turn Undead\nAs an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw.",
+    "rules": [
+      "Classes > Cleric > Class Features > Channel Divinity > Channel Divinity: Turn Undead"
+    ],
+    "rules_explanation": "The result of the saving throw is what determines if undead can be turned or not, not the dice roll."
+  },
+  {
+    "question": "A 9th level paladin wins a game at a lounge, and another character says they have no money to pay, but the character is being a general annoyance. What rule applies?",
+    "answer": "There is no rule to cover this situation. It is up to the Dungeon Master to adjudicate the situation and provide a resolution.",
+    "rules": [],
+    "rules_explanation": "There is no rule to cover if the player is being a pain or not for not paying. The situation would need to be resolved by the GM."
+  },
+  {
+    "question": "A 5th-level ranger is hit by a close range attack and is asked to roll damage. Does disadvantage apply?",
+    "answer": "There is no general disadvantage on melee attacks at close range, so there is no disadvantage applying to this roll",
+    "rules": [],
+    "rules_explanation": "There is no general rule for applying disadvantage on melee attacks made at close range."
+  },
+  {
+    "question": "A 1st-level ranger casts *divination*. Is that a valid spell?",
+    "answer": "A 1st level Ranger does not have *divination* in their spell list.",
+    "rules": [],
+    "rules_explanation": "Based on the provided list, a 1st level ranger doesn't have access to the stated spell."
+  },
+  {
+    "question": "What is the range of a medium creature's reach?",
+    "answer": "The monster has a melee attack with reach 5ft.",
+    "rules": [],
+    "rules_explanation": "There is no size modifier to reach"
+  },
+  {
+    "question": "What is a skyship?",
+    "answer": "There is no rule in the SRD about a skyship.",
+    "rules": [],
+    "rules_explanation": "A skyship is not covered by a specific rule in the SRD, so it falls to the Dungeon Master to adjudicate the situation and provide a resolution."
+  },
+  {
+    "question": "A skyship lands at a skyport. Where does the ladder attach?",
+    "answer": "There is no rule in the SRD about a skyport.",
+    "rules": [],
+    "rules_explanation": "A skyship and its operation are not covered by a specific rule in the SRD, so it falls to the Dungeon Master to adjudicate the situation and provide a resolution."
+  },
+  {
+    "question": "What modifier to I use for a Sleight of Hand Check?",
+    "answer": "Dexterity",
+    "rules": [],
+    "rules_explanation": "This is based upon the fact that 'Sleight of Hand' is listed as a skill under the Dexterity ability score."
+  },
+  {
+    "question": "As you feel the coins evaporate in your grasp, does this affect the outcome of the dice rolling?",
+    "answer": "No, since the roll was performed previous to the coins evaporating. This was to determine the actions of the changebringer.",
+    "rules": [],
+    "rules_explanation": "There is no description of the coin event affecting previous events, and if the DM wanted it to affect the roll, they would have announced so."
+  },
+  {
+    "question": "A trained warrior tries to find something for which the area is heavily obscured. What rule applies?",
+    "answer": "Section: The Environment > Vision and Light\nIn a heavily obscured area, such as darkness, opaque fog, or dense foliage—blocks vision entirely. A creature effectively suffers from the blinded condition when trying to see something in that area.",
+    "rules": [
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "Since there was a question as to the outcome of a vision check, this section specifies the penalties for vision checks in heavily obscured areas."
+  },
+  {
+    "question": "A character casts the Telekinesis spell on themself. Is it a valid spell target?",
+    "answer": "No, *Telekinesis* is not on the spell list, the 5th Level transmutation that is similar on the wizard's list is for affecting other creatures or objects that aren't being worn or carried. The valid spell *levitate* has a target of Self, so this spell would be inappropriate.",
+    "rules": [],
+    "rules_explanation": "The SRD has limitations on who can be the subject for spells. The target of this spell does not meet the listed requirement."
+  },
+  {
+    "question": "If the players enter the tower and play card games, and if they need to saunter off to use the restroom, should we give them time, as the players, to be able to do that?",
+    "answer": "This activity is not covered by any specific rule. The Dungeon Master can assess the situation and provide a resolution.",
+    "rules": [],
+    "rules_explanation": "This is an out-of-game roleplay element for which there is no game mechanic to be governed by a rule."
+  },
+  {
+    "question": "If you try to stack the deck, as they say in the gambling world and can see through Pate's eyes and I could send you messages, does that work?",
+    "answer": "The question indicates the use of Pate, and there are no rules about Pate.",
+    "rules": [],
+    "rules_explanation": "Pate is a specific character which may be bound by specific homebrew rules not found in the SRD."
+  },
+  {
+    "question": "Can Detect Thoughts pick up multiple thoughts at once or only one?",
+    "answer": "Section: Spell Descriptions > Detect Thoughts\nYou initially learn the surface thoughts of the creature—what is most on its mind in that moment.",
+    "rules": [
+      "Spell Descriptions > Detect Thoughts"
+    ],
+    "rules_explanation": "The *detect thoughts* spell only allows you to read the surface thoughts of the creature you are focused on. The spell doesn't describe reading multiple creatures at once. Therefore, you only pick up the thoughts of one creature at a time."
+  },
+  {
+    "question": "If someone is using the tower as a brothel in the lounge, does that cost extra?",
+    "answer": "There is no rule to cover if the player is using the tower as a brothel. The situation would need to be resolved by the GM.",
+    "rules": [],
+    "rules_explanation": "This is more for role-play purposes, which cannot be covered by set rules."
+  },
+  {
+    "question": "What happens when you have a high-level spell?",
+    "answer": "High level spells require a caster to be of a high enough level to use that spell.",
+    "rules": [],
+    "rules_explanation": "As the spells become higher leveled, you must be a higher level to attain them."
+  },
+  {
+    "question": "Can I say I hate not knowing if she got rid of the tracker. How does that work?",
+    "answer": "To determine how that works, the Dungeon Master would need to adjudicate how that would impact game play.",
+    "rules": [],
+    "rules_explanation": "There are no rules or references about a tracker, the character, or about actions in relation to them."
+  },
+  {
+    "question": "There was an incident of a lot of smoke at the tavern. Do you need to make a saving roll?",
+    "answer": "There are no rules to cover the situation of a large amount of smoke in a tavern.",
+    "rules": [],
+    "rules_explanation": "Without knowledge about the type of gas, smoke, or other situation, a rule cannot be identified. The effects of an attack are detailed by the trigger."
+  },
+  {
+    "question": "How do I know when my invisibility fades?",
+    "answer": "Look to the specific spell to identify the duration. If there is a 'concentration' section, any damage could break the duration of the spell. Any rules regarding actions performed would also end it.",
+    "rules": [],
+    "rules_explanation": "The way duration works in the game is that a specific duration or condition is mentioned in the description of the spell. If the spell has concentration, then it is more volatile than a spell without it. As it is not known which spell is cast, it is left to the DM to decide which rule to follow."
+  },
+  {
+    "question": "A character is casting Telekinesis to shift a dice. What roll is that?",
+    "answer": "There is no rule on a telekinesis shift on a dice. However, it is described what dice to roll for that kind of activity.\nSection: Using Ability Scores > Ability Checks\nTo make an ability check, roll a d20 and add the relevant ability modifier. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A roll to shift the dice is considered to be a dexterity roll as that's most relevant to the activity."
+  },
+  {
+    "question": "What happens if someone is on the window sill when you do that?",
+    "answer": "That depends on the spell and the DM's discretion. If you are using Telekinesis, it would affect a creature that is worn or carried by another creature.",
+    "rules": [],
+    "rules_explanation": "This was based upon interpretation of what the rules did cover and it is expected that the DM would be responsible to apply a ruling."
+  },
+  {
+    "question": "Does doubles on any of the dice mean you got a six and a six between the different dice? What rule covers it?",
+    "answer": "The rules do cover a specific number on dice and the DM would describe this as a part of their environment building.",
+    "rules": [],
+    "rules_explanation": "This would be a rule specified for this homebrew event, based on the rules described in what it doesn't cover."
+  },
+  {
+    "question": "If you are knocked out of the game because of 200 gold, is there a way to get back in?",
+    "answer": "If the person has more gold, then they can return to the table, or they can find help as the player to be able to afford the game.",
+    "rules": [],
+    "rules_explanation": "The rules do not have any mechanic on entering the game."
+  },
+  {
+    "question": "How long does a town, person, or entity have to be around in a city to be known by those living there. What rules apply?",
+    "answer": "There are no rules specified in the SRD to cover this. The Dungeon Master would use information to make a decision.",
+    "rules": [],
+    "rules_explanation": "There are no rules about a new person or group entering the city or area. Therefore, it is up to the DM to determine who recognizes a character or group."
+  },
+  {
+    "question": "Can someone play around with stuff that is in the town. What rule applies?",
+    "answer": "There are no rules specified in the SRD to cover this. The Dungeon Master would use information to make a decision.",
+    "rules": [],
+    "rules_explanation": "The SRD doesn't have any rules that specify if playing around with items is available. The DM would have to assess the situation and follow through. "
+  },
+  {
+    "question": "Is there a cost associated with having a guide?",
+    "answer": "There's no specific cost to having a guide but is associated with the general lifestyle expenses of the character.\nThere is a set pay scale for Hirelings.\nSkilled hirelings: 2 gp per day",
+    "rules": [],
+    "rules_explanation": "There are no specific rules for having a guide, but a guide would fall under the same category as a skilled hireling."
+  },
+  {
+    "question": "What determines the size of a room?",
+    "answer": "That depends on how the room is created. If you roll for it, follow chart, otherwise a homebrew scenario relies on DM discretion.",
+    "rules": [],
+    "rules_explanation": "There is no single rule to determine how large a room should be. It can depend on a multitude of factors."
+  },
+  {
+    "question": "If you got a D20 but wanted a D6, what would the number?",
+    "answer": "There is no dice conversion chart to convert a D20 into another form factor of dice roll.",
+    "rules": [],
+    "rules_explanation": "You are required to use the dice the directions tell you to use in order to play. No dice conversions exist."
+  },
+  {
+    "question": "What does it mean that my hair is crispy?",
+    "answer": "This state is not covered by any specific rule. The Dungeon Master can assess the situation and provide a resolution.",
+    "rules": [],
+    "rules_explanation": "Hair crisping is not covered in rules. The DM would need to provide a resolution."
+  },
+  {
+    "question": "If they offer, let them help you carry it. What does that mean?",
+    "answer": "That does not appear in any part of the rule book, and is up to the DM to decide the outcome.",
+    "rules": [],
+    "rules_explanation": "Those words are not part of the rules, so they cannot provide a rules context for that action."
+  },
+  {
+    "question": "If you're trying to sneak around and get around town, is there a check or a skill for that? What rule applies?",
+    "answer": "Section: Using Ability Scores > Dexterity > Dexterity Checks > Stealth\nMake a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.",
+    "rules": [
+      "Using Ability Scores > Dexterity > Dexterity Checks > Stealth"
+    ],
+    "rules_explanation": "This section covers what Stealth checks are used for.  Sneaking is one application of the Stealth skill."
+  },
+  {
+    "question": "If the party takes the ladder back up on the ship, does that mean they teleport? What are the rules that cover it?",
+    "answer": "The act of getting on to a ship using a ladder does not constitute teleportation. Normal travel rules apply.",
+    "rules": [],
+    "rules_explanation": "There is no teleporting implied in the action, therefore no rule applies."
+  },
+  {
+    "question": "What happens to the damage rolls during a long rest?",
+    "answer": "This does not appear in the list of rules and can't be answered.",
+    "rules": [],
+    "rules_explanation": "This phrase is not in the game rules, therefore no rule can be cited."
+  },
+  {
+    "question": "Can I have more than 3 magic items if I'm not attuned to them? What rules cover this?",
+    "answer": "Section: Magic Items > Attunement\nA creature can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; the creature must end its attunement to an item first.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "The game limits the attunement process to 3 magic items at any given time, so you can have more than 3 magic items, just as long as they do not require attunement."
+  }
+]

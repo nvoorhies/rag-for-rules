@@ -1,0 +1,497 @@
+[
+  {
+    "question": "A Level 8 character with skill perception wants to make a check. What modifiers apply?",
+    "answer": "The character's Wisdom modifier and proficiency bonus should be added to the roll",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "A perception check is a wisdom based skill check. Proficiency bonus is added to all skill checks"
+  },
+  {
+    "question": "A level 8 character wants to know if what Fearne says is the truth. What check should they make?",
+    "answer": "They should make a Wisdom (Insight) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Wisdom"
+    ],
+    "rules_explanation": "A Wisdom (Insight) check is used to determine the true intentions of a creature."
+  },
+  {
+    "question": "A level 8 character has a 4th level sending spell, how far can the message travel?",
+    "answer": "The message can travel to any location on the same plane of existence as the caster.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "The spell description for Sending doesn't list a range and instead says 'Unlimited'. The spell description clarifies this means the spell can travel across any distance and even to other planes of existence. Therefore the message can travel to any location on the same plane."
+  },
+  {
+    "question": "Can Guidance be used on a perception check?",
+    "answer": "It can do it on skill checks, but not for watching something.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Spells > Guidance"
+    ],
+    "rules_explanation": "General use of skills are okay but Guidance can't be used on passive actions."
+  },
+  {
+    "question": "The DM asks a level 8 character to roll for the first day's travel. Is there anything that can give them advantage?",
+    "answer": "No. There is nothing to give them advantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The problem context does not give reason to grant the character advantage."
+  },
+  {
+    "question": "If a level 8 artificer casts 'enhance ability' with a wisdom modifier on another character, is that spell concentration?",
+    "answer": "Yes, enhance ability is a concentration spell.",
+    "rules": [
+      "Spells > Enhance Ability",
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "Looking at the spell description it notes that Enhance Ability requires concentration."
+  },
+  {
+    "question": "When making a DC 15 saving throw, does a character need to roll a 14?",
+    "answer": "No, they need to roll a 15 or higher.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "For any check if the total equals or exceeds the DC it is a success."
+  },
+  {
+    "question": "If a 5th-level character is standing in fire, how often do they get a chance to put themselves out?",
+    "answer": "They get a chance to put themselves out at the end of their turn.",
+    "rules": [
+      "Spells > Burning Hands",
+      "Damage and Healing > Damage Rolls > Damage Types > Fire"
+    ],
+    "rules_explanation": "Many fire spells have a rider effect which ignites objects or causes burning damage. Often, the damage occurs at the start of the creature's turn and the check to extinguish occurs at the end of its turn."
+  },
+  {
+    "question": "At 2nd Level, in addition to the normal skill checks, can you make an Animal Handling Check to charm a monster",
+    "answer": "No. The Animal Handling skill is for calming down animals, keeping mounts from getting spooked, or intuiting an animal's intentions.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Wisdom"
+    ],
+    "rules_explanation": "Animal handling applies only to animals, not monsters."
+  },
+  {
+    "question": "A fighter has rolled a 1 on the d20. What is the result?",
+    "answer": "The attack misses regardless of any modifiers or the target's AC.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "Rolling a 1 on an attack roll is an automatic miss."
+  },
+  {
+    "question": "If a level 8 character doesn't like the d20 roll in a saving throw, can it reroll the dice?",
+    "answer": "Not by default; they need a feature that allows a reroll.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "A saving throw is a d20 roll with modifiers, but the result stands unless a specific ability allows for a reroll."
+  },
+  {
+    "question": "Is there a size difference between goblins and halflings?",
+    "answer": "No, both races are Small.",
+    "rules": [
+      "Races Racial Traits > Size"
+    ],
+    "rules_explanation": "Goblins and Halflings are Small races."
+  },
+  {
+    "question": "A 10th level wizard is trying to cast sending, but there is also a check to be able to find the person in the other place. Is advantage applicable in that type of situation?",
+    "answer": "The rules for Sending don't mention a check to find the person, so advantage is not applicable.",
+    "rules": [
+      "Spells > Sending"
+    ],
+    "rules_explanation": "The spell description determines the rules for casting it."
+  },
+  {
+    "question": "Does Enhance Ability use all your arcane energy?",
+    "answer": "No, Enhance Ability only uses the spell slot.",
+    "rules": [
+      "Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "Spending a spell slot to cast a spell does not exhaust all of your arcane energy."
+  },
+  {
+    "question": "Can a Wizard use the Guidance spell?",
+    "answer": "No, Guidance is not on the Wizard's spell list.",
+    "rules": [
+      "Spellcasting > Spells Known and Prepared"
+    ],
+    "rules_explanation": "Wizards can only use spells from their spell list."
+  },
+  {
+    "question": "A wizard is casting Dream, can it make some one's soul be stuck?",
+    "answer": "No, that is not within the rules for Dream.",
+    "rules": [
+      "Spells > Dream"
+    ],
+    "rules_explanation": "Dream only shapes a creature's dream, it doesn't trap a soul."
+  },
+  {
+    "question": "Does Enhance Ability require concentration?",
+    "answer": "Yes, Enhance Ability requires Concentration.",
+    "rules": [
+      "Spells > Enhance Ability"
+    ],
+    "rules_explanation": "The Enhance Ability spell description says it requires concentration."
+  },
+  {
+    "question": "How is the term 'spellcraft modifier' used?",
+    "answer": "The term 'spellcraft modifier' is not a defined game term.",
+    "rules": [],
+    "rules_explanation": "The term 'spellcraft modifier' is not part of the SRD."
+  },
+  {
+    "question": "Can you give guidance to an enhance ability roll in character generation.",
+    "answer": "No, because you are sleeping with Enhance Ability.",
+    "rules": [],
+    "rules_explanation": "This answer references the reason stated in the transcript and cannot be determined by rules."
+  },
+  {
+    "question": "Can you target a creature by the Sending spell if it doesn't know you",
+    "answer": "No, the sending spell requires you to be familiar with the target.",
+    "rules": [
+      "Spells > Sending"
+    ],
+    "rules_explanation": "The sending spell description mentions that you have to be familiar with a creature."
+  },
+  {
+    "question": "If a spell has a range of self, can the caster include other targets if they are in range?",
+    "answer": "No, some self spells can include other targets, and other self spells, only affect the caster.",
+    "rules": [
+      "Spells > Range"
+    ],
+    "rules_explanation": "Many Self ranged spells provide that they can include another willing target."
+  },
+  {
+    "question": "Does blindness effect perception checks?",
+    "answer": "It depends on the check. A blinded creature automatically fails any ability check that requires sight.",
+    "rules": [
+      "Appendix PH-A: Conditions > Blinded"
+    ],
+    "rules_explanation": "The blinded condition causes you to automatically fail any ability check that requires sight."
+  },
+  {
+    "question": "Can you do Guidance on perception",
+    "answer": "You can do it on skill checks, but this is him on the stern on his own.",
+    "rules": [
+      "Spells > Guidance"
+    ],
+    "rules_explanation": "The Guidance spell can affect skill checks but the target must be willing and able to receive the aid."
+  },
+  {
+    "question": "what is the DC for the Dexterity saving throw by Lightning bolt",
+    "answer": "The DC for the save is not specified.",
+    "rules": [
+      "Spells > Lightning Bolt"
+    ],
+    "rules_explanation": "The spell description for Lightning Bolt does not define the DC for the saving throw."
+  },
+  {
+    "question": "is Enhance Ability a concentration spell",
+    "answer": "Yes, Enhance Ability requires Concentration.",
+    "rules": [
+      "Spellcasting > Duration > Concentration",
+      "Spells > Enhance Ability"
+    ],
+    "rules_explanation": "The duration component to enhance ability mentions that it needs concentration."
+  },
+  {
+    "question": "Can you use Guidance on this type of roll?",
+    "answer": "No, because you are sleeping with--",
+    "rules": [],
+    "rules_explanation": "The specific context in the transcript is what's used."
+  },
+  {
+    "question": "Can creatures such as Druids, transform into a flying creatured with an ability with Shapechange",
+    "answer": "Yes, you can transform into a creature with a flying speed, but the creature can't be a construct or an undead, and you must have seen the sort of creature at least once",
+    "rules": [
+      "Spells > Polymorph",
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "Transformation only lasts for the duration or until a character dies."
+  },
+  {
+    "question": "If we're looking for powerful people, will powerful religious people actually help us?",
+    "answer": "That's a roleplaying decision, which the DM can assist with.",
+    "rules": [],
+    "rules_explanation": "This is a roleplaying decision, and can't be answered by the rules."
+  },
+  {
+    "question": "Can you change your alignment?",
+    "answer": "Not in any explicit rule.",
+    "rules": [
+      "Alignment"
+    ],
+    "rules_explanation": "There is no game rule for intentionally or automatically changing alignment."
+  },
+  {
+    "question": "Can a player give up their inspiration to another player on a turn that isn't theirs?",
+    "answer": "Yes, players can give up their inspiration to another player at any time.",
+    "rules": [
+      "Using Ability Scores > Inspiration > Using Inspiration"
+    ],
+    "rules_explanation": "Inspiration can be given up anytime, not specific only to your turn."
+  },
+  {
+    "question": "For someone with darkvision and they are being looked for, what effect does it have?",
+    "answer": "Not enough info is given, but to be specific, here are the effects of: Bright light, Dim light, and Darkness.",
+    "rules": [
+      "The Environment > Vision and Light > Vision and Light"
+    ],
+    "rules_explanation": "Not enough information is given to answer correctly."
+  },
+  {
+    "question": "Is Enhance Ability not concentration?",
+    "answer": "Enhance Ability is concentration.",
+    "rules": [
+      "Spellcasting > Duration > Concentration",
+      "Spells > Enhance Ability"
+    ],
+    "rules_explanation": "Duration states concentration."
+  },
+  {
+    "question": "What does it mean to have the ability score of 19?",
+    "answer": "It gives a +4 bonus.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "Having 18-19 on the Ability Score table gives you the given modifier."
+  },
+  {
+    "question": "What is a group deception check?",
+    "answer": "In a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together > Group Checks"
+    ],
+    "rules_explanation": "Group Checks require everyone in the group to make an ability check."
+  },
+  {
+    "question": "If you are trying to convince another person, what ability should you use?",
+    "answer": "You should make a Charisma (Persuasion) check.",
+    "rules": [
+      "Using Ability Scores > Charisma > Charisma Checks"
+    ],
+    "rules_explanation": "The charisma skill for checks includes persuasion."
+  },
+  {
+    "question": "If you succeed on a Wisdom saving throw from a Frightful Presence, how long are you immune for?",
+    "answer": "If a creature's saving throw is successful or the effect ends for it, the creature is immune to the Frightful Presence for the next 24 hours.",
+    "rules": [
+      "Monsters > Actions > Frightful Presence"
+    ],
+    "rules_explanation": "After effect is succesful, effect last for 24 hours."
+  },
+  {
+    "question": "A character was trying to open a door, can an ally help if they are not proficient?",
+    "answer": "No, a character can only provide help if the task is one that he or she could attempt alone.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The rule for working together states that they need to be able to attempt it alone to assist."
+  },
+  {
+    "question": "Can you beeline it if you beline it?",
+    "answer": "The rules do not specify if you beeline it if you beeline it.",
+    "rules": [],
+    "rules_explanation": "I'm sorry, I don't have information on how to beeline it"
+  },
+  {
+    "question": "Are you required to roleplay?",
+    "answer": "The use of roleplay is outside the scope of the document.",
+    "rules": [],
+    "rules_explanation": "The SRD is focused on the rules, not the style of game."
+  },
+  {
+    "question": "How does lightning damage happen in the game",
+    "answer": "Effects that deal lightning damage include the Lightning Bolt spell, a blue dragon's breath, and a blue dragon's melee attacks.",
+    "rules": [
+      "Damage and Healing > Damage Rolls > Damage Types > Lightning"
+    ],
+    "rules_explanation": "The rule specifies this in the section on Lightning in damage types."
+  },
+  {
+    "question": "Can you gain skill checks to avoid the effects?",
+    "answer": "The given effect only grants a saving throw.",
+    "rules": [],
+    "rules_explanation": "Rules to not grant skill checks."
+  },
+  {
+    "question": "Does the spell dream allow physical influence on the area?",
+    "answer": "No. Dream does not allow physical influence on the area",
+    "rules": [
+      "Spells > Dream"
+    ],
+    "rules_explanation": "Dream states that it shapes a creature's dreams. If a spell cannot affect the physical world, it cannot allow you to affect the physical world."
+  },
+  {
+    "question": "What is something that has not happened before?",
+    "answer": "That cannot be determined based on the rules.",
+    "rules": [],
+    "rules_explanation": "This is not a question that is contained within the rules."
+  },
+  {
+    "question": "Can a paladin double their strength because another character likes the idea of that?",
+    "answer": "No, they can not.",
+    "rules": [],
+    "rules_explanation": "This is not within the rules of the class."
+  },
+  {
+    "question": "What are the valid people we can talk to?",
+    "answer": "This cannot be determined from the rules.",
+    "rules": [],
+    "rules_explanation": "That is based on what is contained within the campaign"
+  },
+  {
+    "question": "If you don't know where you are, what sort of check would you do?",
+    "answer": "You would need to do an Intelligence check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "You would use an Intelligence check to determine where you are."
+  },
+  {
+    "question": "If the players are in a group and being sneaky, should they all roll, or just one? Does a group proficiency or skill check exist?",
+    "answer": "To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together > Group Checks"
+    ],
+    "rules_explanation": "Every player involved has to roll, not just one of them."
+  },
+  {
+    "question": "Is there a way to contact people that you do not know",
+    "answer": "No, you need to be familiar with them",
+    "rules": [
+      "Spells > Sending"
+    ],
+    "rules_explanation": "Sending only allows people that you are familiar with."
+  },
+  {
+    "question": "The spell Sending says, 'a short message of twenty-five words or less to a creature with which you are familiar'. If you are wanting to send this message to your mother, but you only saw her during childhood, are you familiar enough to cast the spell?",
+    "answer": "This is a GM ruling based on the interpretation of the word 'familiar'.",
+    "rules": [
+      "Spells > Sending"
+    ],
+    "rules_explanation": "Familiar is not explicitly defined in the rules."
+  },
+  {
+    "question": "If I have a plus 5 perception and roll a 9, is that a good thing?",
+    "answer": "The result depends on what you're trying to do. What are the circumstances of the check?",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The description does not indicate whether the player has advantage or disadvantage, or the target DC."
+  },
+  {
+    "question": "If we are low and we get greater healing, are we able to get past our maximum HP?",
+    "answer": "No. A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost.",
+    "rules": [
+      "Damage and Healing > Healing"
+    ],
+    "rules_explanation": "The Healing section states that hit points are capped by the hit point maximum."
+  },
+  {
+    "question": "Can I call the cleric and tell her that",
+    "answer": "Spell range and familiar status must be determined.",
+    "rules": [
+      "Spells > Find Familiar"
+    ],
+    "rules_explanation": "Range must be know if it possible and how long with this ability."
+  },
+  {
+    "question": "What happens if you put a bag of holding in another bag of holding?",
+    "answer": "If a bag of holding is placed inside an extradimensional space created by a handy haversack, portable hole, or similar item, it instantly destroys both items and opens a gate to the Astral Plane",
+    "rules": [
+      "Equipment > Wondrous Items > Bag of Holding"
+    ],
+    "rules_explanation": "If the bag of holding were placed in another bag of holding, then the portable hole is automatically created, as stated."
+  },
+  {
+    "question": "If a large beast does a charge attack and tramples someone, what saving throw does the enemy have to make?",
+    "answer": "If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.",
+    "rules": [
+      "Monsters > Actions > Charge"
+    ],
+    "rules_explanation": "The giant elk needs to go at least 20 feet straight, then get hit with a DC 13 Strength save to not be knocked prone."
+  },
+  {
+    "question": "What if I used guidance on a strength check",
+    "answer": "You can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.",
+    "rules": [
+      "Spells > Guidance"
+    ],
+    "rules_explanation": "What you are able to do with Guidance."
+  },
+  {
+    "question": "Is that a secret knock?",
+    "answer": "Secret knock is just insistence.",
+    "rules": [],
+    "rules_explanation": "Secret knock is just insistence is not a defined game term."
+  },
+  {
+    "question": "When the DM says, '4 successes before two failures,' what does that mean?",
+    "answer": "It describes the criteria for resolving a skill challenge.",
+    "rules": [],
+    "rules_explanation": "Not described in the SRD."
+  },
+  {
+    "question": "Are you able to take something in as a delivery method?",
+    "answer": "This is within the parameters of what is allowed.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling, so it's within the terms of the SRD."
+  },
+  {
+    "question": "When an attack is made, do you have to be making an attack roll?",
+    "answer": "Yes if you're making an attack roll, you're making an attack.",
+    "rules": [
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "The rules state that if you're making an attack roll, you're making an attack."
+  },
+  {
+    "question": "When people are talking about something familiar, do they have to be with someone?",
+    "answer": "They do not, this a roleplay based decision.",
+    "rules": [],
+    "rules_explanation": "This is a player decision, not a game one."
+  },
+  {
+    "question": "When you're talking to someone, can you talk to people you do not know?",
+    "answer": "The rules do not specify whether you can talk to people you don't know.",
+    "rules": [],
+    "rules_explanation": "This is not a question that is contained within the rules."
+  },
+  {
+    "question": "What would be required for steering a ship, you know?",
+    "answer": "The rules do not describe the requirements for steering a ship.",
+    "rules": [],
+    "rules_explanation": "The rules do not have information on that."
+  },
+  {
+    "question": "For the Enhance Ability spell, is there a specific part that's for persuading?",
+    "answer": "Yes. For the Enhance Ability spell, you can target the 'Eagle's Splendor' which gives the target advantage on Charisma checks.",
+    "rules": [
+      "Spells > Enhance Ability"
+    ],
+    "rules_explanation": "Enhance Ability has an option for Eagle's Splendor which enhances Charisma, which has an option for a Persuasion skill."
+  },
+  {
+    "question": "Can you get a new familiar if your last one died?",
+    "answer": "Yes, you can get a new familiar.",
+    "rules": [
+      "Spells > Find Familiar"
+    ],
+    "rules_explanation": "When a familiar dies, the owner can recast this to get the familiar back again."
+  },
+  {
+    "question": "I want to see if I feel if anybody's watching us. What do I do?",
+    "answer": "Make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Wisdom"
+    ],
+    "rules_explanation": "Peception would allow you to sense if someone was watching you"
+  }
+]

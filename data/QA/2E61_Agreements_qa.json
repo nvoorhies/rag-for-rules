@@ -1,0 +1,100 @@
+[
+  {
+    "question": "Does the level 4 cleric/druid remember anything about the King that Crawls with a roll of 16 on a religion check?",
+    "answer": "The level 4 cleric/druid remembers enough about the King that Crawls with a roll of 16 on a religion check.",
+    "rules": [
+      "Ability Checks > Contests",
+      "Skills > Skills with Different Abilities"
+    ],
+    "rules_explanation": "Since it was determined that two character's religion checks were enough to know something, the characters making those rolls were able to learn about Torog. No details about specific DC value are needed. "
+  },
+  {
+    "question": "Does the level 4 storm barbarian/ranger remember anything about the King that Crawls with a roll of 23 on a religion check?",
+    "answer": "The level 4 storm barbarian/ranger remembers enough about the King that Crawls with a roll of 23 on a religion check.",
+    "rules": [
+      "Ability Checks > Contests",
+      "Skills > Skills with Different Abilities"
+    ],
+    "rules_explanation": "Since it was determined that two character's religion checks were enough to know something, the characters making those rolls were able to learn about Torog. No details about specific DC value are needed."
+  },
+  {
+    "question": "When the level 5 cleric/druid whistles loudly to attract the animals, does the character make the performance check with a negative 2 adjustment and a roll of 11?",
+    "answer": "The level 5 cleric/druid makes the performance check with a negative 2 adjustment and a roll of 11",
+    "rules": [
+      "Ability Checks > Contests",
+      "Skills > Skills with Different Abilities"
+    ],
+    "rules_explanation": "The rules state that to make the performance check to whistle for the animals, a performance check is made with whatever adjustments appear. No specific rule is needed from SRD."
+  },
+  {
+    "question": "Does the level 4 storm barbarian/ranger make an animal handling check with a roll of 23 to find the animals?",
+    "answer": "The level 4 storm barbarian/ranger makes an animal handling check with a roll of 23 to find the animals.",
+    "rules": [
+      "Ability Checks > Contests",
+      "Skills > Skills with Different Abilities"
+    ],
+    "rules_explanation": "The rules state that to find the missing animals, the character makes an Animal Handling check. No specific rule is needed from SRD."
+  },
+  {
+    "question": "After the level 4 storm barbarian/ranger coughs up water, does the DM call for a wisdom saving throw with a save DC 21?",
+    "answer": "The DM calls for a wisdom saving throw with a save DC 21 after the level 4 storm barbarian/ranger coughs up water.",
+    "rules": [
+      "Saving Throws > Making a Saving Throw",
+      "Ability Scores > Wisdom"
+    ],
+    "rules_explanation": "This is an example of when the GM calls for a Saving Throw. The target number and type of Save are the only rules-relevant information here."
+  },
+  {
+    "question": "Did the level 4 storm barbarian/ranger, who took the Alarm spell's caster as an ally, set off the alarm spell?",
+    "answer": "The level 4 storm barbarian/ranger did not set off the alarm spell as an ally of the spell's caster",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "The question references if the level 4 storm barbarian/ranger is an ally to the spell caster, if so then they can pass through unharmed per spell rules."
+  },
+  {
+    "question": "As the level 4 storm barbarian/ranger exits, and pushes the door, and is heard, does the DM call for a stealth check?",
+    "answer": "The DM calls for a stealth check after the level 4 storm barbarian/ranger opens the door noisily.",
+    "rules": [
+      "Ability Checks > Contests",
+      "Skills > Skills with Different Abilities"
+    ],
+    "rules_explanation": "To determine how stealthily the character opens the door, the DM calls for a Stealth check. No additional information needed."
+  },
+  {
+    "question": "The level 4 storm barbarian/ranger uses Mask of Many Faces to make their reflection look like Caduceus. Do they see their face?",
+    "answer": "The level 4 storm barbarian/ranger sees their face using Mask of Many Faces because they are the same person.",
+    "rules": [
+      "Spellcasting > Targets > Targeting Yourself",
+      "Ability Scores > Charisma"
+    ],
+    "rules_explanation": "This is a logical consequences of a spell and targeting. No specific rule beyond spell descriptions are needed."
+  },
+  {
+    "question": "Can the DM call for an evening's rest for the party?",
+    "answer": "The DM can dictate the availability of an evening's rest",
+    "rules": [
+      "Adventuring > Resting"
+    ],
+    "rules_explanation": "The DM determines if a short or long rest are possible for the party to partake in."
+  },
+  {
+    "question": "When the character Nott tries to be stealthy are they able to be?",
+    "answer": "The DM determines if the character is able to be stealthy based on rolls.",
+    "rules": [
+      "Ability Checks > Contests",
+      "Skills > Skills with Different Abilities"
+    ],
+    "rules_explanation": "This is an example of when the GM calls for a Stealth check. No additional information needed."
+  },
+  {
+    "question": "Does the spell Speak with Dead function quickly and take effect even while raining?",
+    "answer": "Speak with Dead functions even with rain; incense may need to be covered.",
+    "rules": [
+      "Spellcasting > Components > Verbal (V)",
+      "Spellcasting > Components > Somatic (S)",
+      "Spellcasting > Components > Material (M)"
+    ],
+    "rules_explanation": "The question regards if the environment, in this case rain, affects the spell casting ability to use material components, or the overall functionality of the spell.The incense use in this scenario only needs protection, not a complete halt of casting. "
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "question": "Can either the level 14 Druid or Nott the Brave, level 5 rogue/level 1 artificer, guide the group?",
+    "answer": "The rules for group checks state that those skilled at a particular task help cover those who aren't. The group succeeds if at least half the group succeeds. If a nature check with advantage is taken, that is added to the roll.",
+    "rules": [
+      "Ability Scores > Ability Checks > Working Together",
+      "Ability Scores > Ability Checks > Group Checks",
+      "Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Working Together provides advantage on the check. Nott and the Druid are both proficient in nature, but to be able to effectively guide the group they both need to succeed on the roll. In a Group Check a roll is made by each participant, not with advantage."
+  },
+  {
+    "question": "Does the party's current march setup affect their ability to be stealthy, and does the level 3 cleric/level 3 paladin's tail brushing the ground remove the need to roll a stealth check?",
+    "answer": "Yes, the party's current march setup affects their ability to be stealthy. A stealth check is needed to see how well the character is doing. ",
+    "rules": [
+      "Ability Scores > Ability Checks > Hiding",
+      "Adventuring > Movement > Travel Pace"
+    ],
+    "rules_explanation": "The rules state that moving stealthily slows travel speed and it is appropriate for the DM to call for a stealth check."
+  },
+  {
+    "question": "Does the level 5 rogue/level 1 artificer get advantage on their crossbow attack roll against the creature while hidden?",
+    "answer": "Yes, the level 5 rogue/level 1 artificer gets a sneak attack because they were hidden.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "If a creature cannot see you, you have advantage on attack rolls against it."
+  },
+  {
+    "question": "Does the level 3 monk/level 3 fighter get a sentinel attack? ",
+    "answer": "14 does not hit. You swing with your staff and as you hit its armor, as much as the insectoid carapace on the  bottom looks like it's a little fleshy, it's harder than you thought and it just bounces off with no impact.",
+    "rules": [
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "If the melee attack does not hit the target, no further conditions are applied."
+  },
+  {
+    "question": "Does the level 5 rogue/level 1 artificer get a sneak attack with their second crossbow bolt?",
+    "answer": "Yes, because the bug is restrained.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "If a creature is restrained, attack rolls against it have advantage."
+  },
+  {
+    "question": "If a wild shaped druid uses trample, what strength saving throw DC does it have?",
+    "answer": "The DC is 18.",
+    "rules": [
+      "Spellcasting > Concentration",
+      "Classes > Druid > Wild Shape"
+    ],
+    "rules_explanation": "The character abilities are what determine saving throw DCs and other characteristics."
+  },
+  {
+    "question": "Since Fjord's whip is attached to the restrained creature, is it's speed zero?",
+    "answer": "The rules do not specify that restrained creatures have a speed of zero, but they can still make contested strength checks. I'm considering it restrained but I'm not considering its speed reduced to zero, I'm considering it a contested strength roll.",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained",
+      "Combat > Making an Attack > Grappling",
+      "Ability Scores > Ability Checks > Contests"
+    ],
+    "rules_explanation": "The rules for being restrained say that your speed becomes zero, which in this case would remove the ability to Burrow into the ground. But the creature is still grappled and in a contested Strength check."
+  },
+  {
+    "question": "As the level 3 monk/level 3 fighter is pulling Fjord out of the hole, should it be strength or athletics check for the player's character?",
+    "answer": "Make a strength check.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The player is attempting to resist the force of the monster that is pulling the character into the hole. Strength is the base ability for that."
+  },
+  {
+    "question": "With Nott the Brave, the level 5 rogue/level 1 artificer's current position, should it be a straight or disadvantaged stealth check?",
+    "answer": "No, it is not disadvantaged. From the death of where it died, all the snow in the region has now melted, so there'd be nowhere to hide.",
+    "rules": [
+      "Ability Scores > Ability Checks > Hiding",
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The general rules of stealth states that there needs to be something to break line of sight or provide cover."
+  },
+  {
+    "question": "As the Battle continues, and with the mention of it being long, can I cast double Mass Cure Wounds?",
+    "answer": "There are no rules preventing you from casting it again. No, I mean I guess we--.",
+    "rules": [
+      "Spellcasting > Spells Slots"
+    ],
+    "rules_explanation": "A character can cast as many spells as they have spell slots available to cast. The question regards the rules around double casting specific spells."
+  },
+  {
+    "question": "For the stealth check, do you still get to add the plus 10 or do you still fail?",
+    "answer": "It's still a natural one? But it's an 11 and a natural one.",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "In this case, the question is clarifying if the effect (pass without a trace) still has an impact, even with a natural 1. The response indicates a modifier still applies and a roll can still succeed."
+  },
+  {
+    "question": "If I have the Inescapable Lash whip, can as an action, I can cause them to become restrained?",
+    "answer": "The character invokes the whip, and it pulls you a little bit forward and the claw a little bit slightly (whooshes) towards it. As the whip begins to extend and wrap around it, you see its body begin to be rope-tied along its midsection and it's pulling against it. Magically hogtying this creature.",
+    "rules": [
+      "Magic Items",
+      "Appendix PH-A: Conditions > Restrained",
+      "Combat > Making an Attack > Grappling"
+    ],
+    "rules_explanation": "This is an action to use an effect granted by an item that is being wielded. The restrained condition is applied as the effect of a magic weapon that is being wielded."
+  },
+  {
+    "question": "Is it a 10-foot fall, so I do take a point of damage?",
+    "answer": "So you do lose a death save.",
+    "rules": [
+      "Combat > Damage and Healing > Falling"
+    ],
+    "rules_explanation": "The response ignores that falling damage should be dealt, since it is only a 10-foot drop, but indicates that a point of damage has been dealt to Beau the level 5 monk which causes a lost death save."
+  },
+  {
+    "question": "Do I want to try and do that?",
+    "answer": "While this conversation is going on, the cat claw sort of disdainfully picks up the insect and drops it in the hole and just goes (thumping).",
+    "rules": [
+      "Spellcasting > Targets",
+      "Spellcasting > Range",
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "The response is indicating the cat claw can in fact move and interact with objects as well."
+  },
+  {
+    "question": "As the level 3 cleric/level 3 paladin reaches up and shouts out a magical word of encouragement and healing towards the creature's mouth, bonus actions just suck in this, don't they?",
+    "answer": "Healing Word is a bonus action, so you have your action. You can cast a cantrip.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action",
+      "Spellcasting > Spells > Cleric Spells > Healing Word"
+    ],
+    "rules_explanation": "You are unable to cast two bonus action spells in the same turn, the bonus action slot has already been used. A cantrip is a spell, you can cast a cantrip using your action for the turn."
+  },
+  {
+    "question": "If there's not a lot I can do to help here. You look like you just, you just got kind of, yeah, I don't want you to drop too low, too fast, so I'm going to do a Healing Word at-- let me pick a level. It won't be a ton, but it'll help at 3rd-level. The level 3 cleric/level 3 paladin has cast Healing Word at 3rd level, I can still move if I want. I have to be able to see, I have to see somebody to cast Spare the Dying, right?",
+    "answer": "Correct.",
+    "rules": [
+      "Spellcasting > Spells > Spare the Dying",
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "You have to have line of sight of an ally to cast the Spare the Dying ability."
+  },
+  {
+    "question": "If you roll a one, do you still get to add the plus 10 or do you still fail?",
+    "answer": "Yes, add your stealth, too. You add everything to the roll. (Total: 11)",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The total score of the roll is calculated by adding the modifier. A roll of 1 is not a natural 1, it is just an ability check."
+  },
+  {
+    "question": "Yes, I still have the whip attached to its foot, right? As an action, I can-- cause them to become restrained?",
+    "answer": "That's your action.",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained",
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "This is an action to use an effect granted by an item that is being wielded."
+  }
+]

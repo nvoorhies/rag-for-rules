@@ -1,0 +1,43 @@
+[
+  {
+    "question": "The Madam (a PC's friend), rolls two dice, one regular, one gilded for a Sway roll. What rule determines the outcome of the roll?",
+    "answer": "Succeed or fail depending on the number rolled on the highest die.  Success on a non-gilded die.",
+    "rules": [
+      "Beyond 1st Level > The Three Main Rolls > Ability Checks",
+      "Beyond 1st Level > The Three Main Rolls > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The \"highest\" die determines the degree of success or failure of the action. The type of die does not change this."
+  },
+  {
+    "question": "Aabria says the Madam (a PC's friend) needs to make a Hide roll. Ashly asks, \"How many dice in this roll? One?\"\nIs that a request for rules information?",
+    "answer": "No",
+    "rules": [],
+    "rules_explanation": "The exchange does not refer to a specific rule or its application."
+  },
+  {
+    "question": "The GM makes a statement of game information. The professor asks if he has to roll at disadvantage since his move skill is 0. Is that a request for rules information?",
+    "answer": "Yes. Is a check rolled at disadvantage when there is a zero in the skill?",
+    "rules": [
+      "Beyond 1st Level > The Three Main Rolls > Ability Checks > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "Player is seeking information on how the rules are affected by having a 0 skill in a skill being used in an ability check."
+  },
+  {
+    "question": "Cosmo has a failure on a Rollies roll. What should he roll? Can we determine what Cosmo should roll from just the SRD document?",
+    "answer": "1d6",
+    "rules": [
+      "SRD does not contain any rules for a \"Rollies\" roll",
+      "The GM defined the roll to be a single d6 dice to be rolled"
+    ],
+    "rules_explanation": "The rules of the game must be defined by the game master, including skills, names, or rule changes. Since there is no SRD reference to a \"rollies\" roll, the definition must be stated to be a d6 to be rolled per the GM."
+  },
+  {
+    "question": "Cosmo, who had the *speak their language* ability, says: I will lend a drive from Sense as I speak into your mind and try to. Hold on to yourself, Elsie. Hold on, child. Hold on.\nAabria, the GM asks: So there's one. Okay, I'm going to burn three drive. \nWhat does this mean?  Can you apply drives to this roll, and what is a resistance roll, and what skill is being used?",
+    "answer": "It's impossible to tell with just the information in the SRD because it is using game specific extensions to the rules. The SRD do not contain any rules for Drive or Resistance rolls, but since the roll appears to be a Sense roll, a drive can be burnt for advantage on the roll.",
+    "rules": [
+      "Beyond 1st Level > The Three Main Rolls > Advantage and Disadvantage",
+      "SRD does not contain any rules for drives or resistance rolls."
+    ],
+    "rules_explanation": "The SRD does not specify if burning a drive grants advantage or extra dice.  The SRD can only clarify about advantage rules for the ability check and that it is impossible to tell what benefits a drive does."
+  }
+]

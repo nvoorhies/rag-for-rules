@@ -1,0 +1,20 @@
+[
+  {
+    "question": "Can the effects of the Bless spell affect skill checks?",
+    "answer": "No, the Bless spell does not affect skill checks.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Bless",
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The description of the bless spell states that it affects attack rolls and saving throws only, and does not affect skill checks."
+  },
+  {
+    "question": "A player states \"I'm lying, Matthew.\" when describing what is being said to a non player character. Is a Deception check still rolled against lying to the DM? ",
+    "answer": "Yes, make a deception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Running the Game > Improvising > Determine What Happens"
+    ],
+    "rules_explanation": "The GM calls for an ability check when a character attempts an action that has a chance of failure. In this case, the DM needs to see if the non player character believes the statement so the rules for resolving the check still apply."
+  }
+]

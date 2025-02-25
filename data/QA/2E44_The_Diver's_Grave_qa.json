@@ -1,0 +1,112 @@
+[
+  {
+    "question": "If the dungeon master is going to roll for if I want to hear Spice Girls or Golden Girls, can I do that? What kind of check would that be?",
+    "answer": "The rules do not specify that rolls are made for determining pop music preferences, but a Dungeon Master is free to create a check using any ability and skill combination, and a roll using a number from 1 to 20.",
+    "rules": [
+      "Introduction > How to Play > The DM Decides",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master determines when an ability check is required.  If no particular rule applies, it is up to the DM to decide the ability score and skill to apply to the roll."
+  },
+  {
+    "question": "If a character is in an area of no light, but extinguished all their lights, what are the rules for perception checks?",
+    "answer": "The character would make a Wisdom (Perception) check with disadvantage, and the area would be considered heavily obscured.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Ability Checks > Passive Checks",
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "In a heavily obscured area such as darkness, creatures have disadvantage on perception checks that rely on sight, including passive perception and sight checks."
+  },
+  {
+    "question": "If the fighter 14/level 15 Strength-based paladin 5/level, 4'5\" Goliath, with plate armor with no additional features makes a weapon attack and has advantage from Guiding Bolt, are there any adjustments to the attack or the attack roll?",
+    "answer": "Yes, as the Goliath is under 5 feet tall they are small and have disadvantage on attack rolls with Heavy weapons, however the advantage cancels this out, leaving a straight d20 roll. Also, melee weapon attacks and weapon attacks have disadvantage underwater.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "The Environment > Underwater Combat"
+    ],
+    "rules_explanation": "Small characters have disadvantage on attack rolls with Heavy Weapons. Ranged weapon attacks automatically miss if they're beyond the normal range. The attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that's thrown like a javelin."
+  },
+  {
+    "question": "What happens if I'm subject to Hexblade's Curse as a warlock 14/level, pact of the blade warlock in melee?  How much damage is added?",
+    "answer": "The Hexblade's Curse adds damage based on the warlock's proficiency bonus to damage rolls against the cursed target.  At 14th level the proficiency bonus is +5 so there is +5 damage.",
+    "rules": [
+      "Classes > Warlock > Hexblade > Hexblade's Curse"
+    ],
+    "rules_explanation": "The Hexblade's Curse adds the warlock's proficiency bonus to damage rolls against the cursed target."
+  },
+  {
+    "question": "If a person has sentinel and an enemy runs by them, do both get an opportunity attack and does it stop their movement?",
+    "answer": "No. Two sentinel attacks do not bounce attacks. If they both have sentinel, they can't bounce attacks.",
+    "rules": [],
+    "rules_explanation": "Based on previous experience, the Dungeon Master said that two sentinel attacks do not bounce attacks. If they both have sentinel, they can't bounce attacks. Because the combination becomes super broken."
+  },
+  {
+    "question": "What does the slow spell do?",
+    "answer": "The slow spell reduces their AC by two, disadvantage on dex saves, and he can only do an action or a bonus, not both.",
+    "rules": [],
+    "rules_explanation": "This answer is accurate to the transcript"
+  },
+  {
+    "question": "If a character has bane and an attack roll results in 19 before the bane is applied, what does that do?",
+    "answer": "With Bane, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw. Depending on the die roll, it can reduce the roll below the required threshold to hit.",
+    "rules": [
+      "Spells > Bane"
+    ],
+    "rules_explanation": "Bane adds an adjustment to the attack roll. If it reduces it below the required threshold, it changes a hit into a miss."
+  },
+  {
+    "question": "Can a cleric do two first level spells in a round, if one's bonus action, one is an action?",
+    "answer": "No. One has to be cantrip and the other can be any level.",
+    "rules": [
+      "Classes > Cleric"
+    ],
+    "rules_explanation": "The cleric can either cast a spell with an action and a cantrip as a bonus action, or the other way around. Two leveled spells may not be cast in the same turn even if one is a bonus action and the other is an action."
+  },
+  {
+    "question": "If a character has a melee weapon and is under water, do they have disadvantage?",
+    "answer": "Yes, melee weapon attacks have disadvantage under water.",
+    "rules": [
+      "The Environment > Underwater Combat"
+    ],
+    "rules_explanation": "Melee weapon attacks have disadvantage under water."
+  },
+  {
+    "question": "Is a crossbow subject to underwater disadvantage?",
+    "answer": "Technically, no.  Ranged weapon attacks automatically miss if they're beyond the normal range. The attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that's thrown like a javelin.",
+    "rules": [
+      "The Environment > Underwater Combat"
+    ],
+    "rules_explanation": "Ranged weapon attacks automatically miss if they're beyond the normal range. The attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that's thrown like a javelin."
+  },
+  {
+    "question": "If a creature is subject to Tasha's Hideous Laughter, do they let go of the thing they are holding?",
+    "answer": "Yes, they are incapacitated, it says. So do they let go? It says they fall prone, which they can't do underwater, but they are incapacitated, it says. So do they let go?",
+    "rules": [],
+    "rules_explanation": "This answer is accurate to the transcript"
+  },
+  {
+    "question": "If a character makes an attack and reckless attack grants them 20+4 to hit, do they have disadvantage?",
+    "answer": "No, if you make an attack reckless, so it was just a straight roll",
+    "rules": [],
+    "rules_explanation": "This answer is accurate to the transcript"
+  },
+  {
+    "question": "Does this dispel magic sense something magic in the kelp; hit my detect magic sense at all?",
+    "answer": "No. The rules do not prevent you from casting spells, but state the effect.",
+    "rules": [],
+    "rules_explanation": "This answer is accurate to the transcript"
+  },
+  {
+    "question": "If I use a bonus action to dash and then try to grab something, can I do that?",
+    "answer": "You can't quite get up to him, unfortunately. Because it's 15 feet underwater. Your speed of 30 is reduced to 15, and it took 15 feet to get far out. You could, as a bonus action, dash to move up to him, but you can't pull him back because you don't have an action to try and grab.",
+    "rules": [],
+    "rules_explanation": "This answer is accurate to the transcript"
+  },
+  {
+    "question": "If we're in a group, are globules of light around?",
+    "answer": "If we are in a group, they are. They were around the group.",
+    "rules": [],
+    "rules_explanation": "This answer is accurate to the transcript"
+  }
+]

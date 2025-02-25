@@ -1,0 +1,265 @@
+[
+  {
+    "question": "What is the DC of the Constitution saving throw to avoid being stunned by the stunning strike of the level 5 class X monk?",
+    "answer": "The DC is 10 plus the monk's proficiency bonus and Wisdom modifier.",
+    "rules": [
+      "Monk > Ki > Stunning Strike",
+      "Using Ability Scores > Ability Checks > Skills > Proficiency Bonus"
+    ],
+    "rules_explanation": "Stunning strike calls for a Constitution saving throw with a DC determined by the Monk's Ki save DC. That save DC is 8 + proficiency bonus + wisdom modifier. The creature's level and class don't enter into it."
+  },
+  {
+    "question": "To determine aim on a target with Mage Hand, what does class X roll and add?",
+    "answer": "Roll a d20 attack roll adding your perception bonus.",
+    "rules": [
+      "Spellcasting",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM says 'make a d20 attack roll adding your perception bonus' with the intention of determining a character's aim."
+  },
+  {
+    "question": "If the Unseen Servant is 60 feet away from the level 5 class Y wizard, can he use his action to move it?",
+    "answer": "No, because the Unseen Servant has a maximum range of 60 feet from the wizard, thus can not be animated if the wizard is at that distance from the bucket.",
+    "rules": [
+      "Spellcasting > What is a Spell > Range > Distant Spell",
+      "Spellcasting",
+      "Classes > Wizards"
+    ],
+    "rules_explanation": "Because the spell's range is only 60 feet and the wizard is 60 feet away, the target is on the limit of his spell range, and thus can not move using his action."
+  },
+  {
+    "question": "If a level 5 class Y wizard has been asked to determine what will happen in 10 turns but is Blinded, what does class X do and what penalties does she have?",
+    "answer": "Blinded characters automatically fail any check which requires sight, but can still speak.",
+    "rules": [
+      "Appendix PH-A > Conditions > Blinded",
+      "Spellcasting > What is a Spell >Components > Verbal (V)"
+    ],
+    "rules_explanation": "A blinded creature automatically fails sight-based checks. Nothing prevents the character from speaking."
+  },
+  {
+    "question": "Can the class Z warlock use his action for his 2 2nd-level spell slots on casting Healing Word as he casts a different cantrip?",
+    "answer": "No, because bonus action spells may not be used in the same turn as casting other spells, except for cantrips with casting times of 1 action.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Bonus Action"
+    ],
+    "rules_explanation": "The rule for bonus action spells is that they may not be used in the same turn as casting other spells. Since the Warlock has used a bonus action, they may not cast any other non-cantrip spells on this turn."
+  },
+  {
+    "question": "Given that a character succeeds on a DC 15 Wisdom save roll, what is the effect?",
+    "answer": "The creature avoids the condition or other effect as described by the ability that forced the saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "As the rule mentions, a successful save negates any negative effects the saving throw could impart."
+  },
+  {
+    "question": "Class X casts Hold Person on 3 guards and successfully paralyses them. What must a creature do and what is the DC to break another person out of this paralysis using a bonus action?",
+    "answer": "A bonus action cannot release a target from the paralyzed condition. No standard rules or actions from the SRD exist to allow this action.",
+    "rules": [
+      "Action in Combat > Actions > Bonus Action",
+      "Appendix PH-A: Conditions > Paralysed"
+    ],
+    "rules_explanation": "Actions must be specified by class feature or spell to be used as bonus actions."
+  },
+  {
+    "question": "What roll does Class X make for his attack with the hand crossbow at plus 7 to hit if he has disadvantage?",
+    "answer": "Roll 2 d20, take the lower result, and add +7.",
+    "rules": [
+      "Actions in Combat > Making an Attack > Attack Rolls > Modifiers to the Roll",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The player has disadvantage on the roll due to an unseen attacker but still gets to add their attack roll adjustment to the dice roll."
+  },
+  {
+    "question": "Does Yasha take 10 piercing damage when a creature travels through her space and is in proximity, or is this reduced due to the raging effect?",
+    "answer": "The piercing damage is halved to 5 because the raging barbarian has resistance to bludgeoning, piercing, and slashing damage.",
+    "rules": [
+      "Class Features > Barbarian > Rage"
+    ],
+    "rules_explanation": "The raging barbarian has resistance to bludgeoning, piercing, and slashing damage. Resistance halves the amount of damage received."
+  },
+  {
+    "question": "What modifier applies to a thrown weapon attack, Strength or Dexterity? The character in question has 18 strength and 9 dex.",
+    "answer": "The Strength modifier is used for the attack and damage rolls unless the thrown weapon has the finesse property.",
+    "rules": [
+      "Actions in Combat > Making an Attack > Ranged Attacks",
+      "Equipment > Weapons > Weapon Properties > Finesse",
+      "Equipment > Weapons > Weapon Properties > Thrown"
+    ],
+    "rules_explanation": "By default, strength is used unless the weapon has the finesse property, at which point either strength or dexterity can be used. Since dexterity is lower than strength, strength is used as that is the best available option."
+  },
+  {
+    "question": "Beau has 2 points of slashing damage because she is in range, but does that proximity effect from the Whirlwind also damage someone who can not see the damage source?",
+    "answer": "The damage affects all creatures in proximity, regardless of whether the damage source can be seen or not.",
+    "rules": [
+      "Actions in Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "Creatures still take damage even if they are unseen, the proximity is based on radial range rather than line of sight to the originating body."
+  },
+  {
+    "question": "If the lenses are made of a crystalline structure, can they still be blinded?",
+    "answer": "Maybe, as it's up to the DM to decide if the material can be obscured, is durable enough to resist damage, and if the armor plates will close to protect it from damage.",
+    "rules": [
+      "Combat > Cover > Total Cover",
+      "Other Activity on Your Turn > Interacting with Objects Around You",
+      "Equipment > Weapons > Weapon Properties > Ammunition"
+    ],
+    "rules_explanation": "While there are no rules in the SRD about the properties of crystalline lenses, there are rules about blindness, ammunition, and cover; the application of these rules together would lead to the conclusion above."
+  },
+  {
+    "question": "If I have a melee weapon and I want to attack, can I tank melee range without a plan?",
+    "answer": "It's up to the player.",
+    "rules": [],
+    "rules_explanation": "This is a question about tactics and is not covered by rules."
+  },
+  {
+    "question": "With Jester's character being out of the game, is she out of any more spells?",
+    "answer": "Whether she has used any more spell slots or not should be on her character sheet.",
+    "rules": [
+      "Classes"
+    ],
+    "rules_explanation": "This is an out of game question regarding the resources available to a particular player's character."
+  },
+  {
+    "question": "As a barbarian, does it depend on if the first hits or only if the first?",
+    "answer": "The Divine Fury damage can only be applied to the first successful attack.",
+    "rules": [
+      "Class Features > Barbarian > Divine Fury"
+    ],
+    "rules_explanation": "As the rules mentions, divine fury only triggers on the first successful attack."
+  },
+  {
+    "question": "Can that work with the Booming Blade action?",
+    "answer": "No, Booming Blade is a cantrip that only gives you one attack as part of the action.",
+    "rules": [
+      "Actions in Combat > Attack"
+    ],
+    "rules_explanation": "The DM clarifies that Booming Blade is a cantrip and therefore is not compatible with multiple attacks in a single action, so you only get one attack when it is used."
+  },
+  {
+    "question": "Will that bucket tip over in the bag of holding?",
+    "answer": "There is nothing in the rules to prevent this, therefore it is up to the DM to determine.",
+    "rules": [
+      "Equipment > Wondrous Item > Bag of Holding"
+    ],
+    "rules_explanation": "While the interior of the bag of holding is described, there is no definition of its physical properties. As such, the DM must determine if the bucket is going to tip over."
+  },
+  {
+    "question": "Did the party get a long rest or not?",
+    "answer": "You regain all expended spell slots when you finish a long rest.",
+    "rules": [
+      "Spellcasting > Spell Slots",
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps and regains expended spell slots"
+  },
+  {
+    "question": "If advantage or disadvantage is given, what saving throw and damage does Ashley roll and have?",
+    "answer": "2d6 + 3 damage, plus an extra d6, as well as advantage on the roll.",
+    "rules": [
+      "Class Features > Barbarian > Divine Fury",
+      "Actions in Combat > Making an Attack > Critical Hits",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The *Divine Fury* barbarian ability does 2d6, but with a two handed sword, that's reduced to 1d6. Adding to that is the rage damage of 2, plus the character gets advantage on the roll from being helped. A critical hit also has double the damage dice."
+  },
+  {
+    "question": "At level 5, can Jester pre-cast Duplicity?",
+    "answer": "It depends on the casting time of Duplicity, but probably not.",
+    "rules": [
+      "Spellcasting > Casting Time"
+    ],
+    "rules_explanation": "Spells are not able to be pre-cast, but can be active if the casting time is less than a minute. The length of Jester's spells dictates if she's able to cast them before battle or not."
+  },
+  {
+    "question": "At what point do we stop adding new dice for critical hits, and what is the right amount of damage from the sword hit?",
+    "answer": "9 from the attack roll, plus 10 from the damage roll, for a total of 19 points of damage.",
+    "rules": [
+      "Actions in Combat > Damage and Healing > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "A critical hit allows you to roll all of the attack's damage dice twice and add them together."
+  },
+  {
+    "question": "Nott doesn't have a melee weapon so can't get attack of opportunity but, can she use her hand crossbow for that?",
+    "answer": "A hand crossbow can not be used for an opportunity attack.",
+    "rules": [
+      "Actions in Combat > Making an Attack > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "A ranged attack can not be used for an opportunity attack. Therefore, a hand crossbow cannot be used for this situation."
+  },
+  {
+    "question": "Can a D&D character walk 30ft and hit the ground with the staff, and are they in melee?",
+    "answer": "Yes, and the area that you're able to hit is technically melee.",
+    "rules": [
+      "Actions in Combat > Movement and Position > Difficult Terrain",
+      "Actions in Combat > Actions > Use an Object",
+      "Actions in Combat > Making an Attack > Melee Attacks"
+    ],
+    "rules_explanation": "As per the rules, a character may use their available speed to traverse 30ft, and then use their action to touch the location, although the location has to be in melee."
+  },
+  {
+    "question": "If the magic mouth that caleb casts expires, how long do they have to wait before they can try the spell again?",
+    "answer": "There is no restriction on re-casting the magic mouth spell after a previous casting expires.",
+    "rules": [],
+    "rules_explanation": "The *magic mouth* spell does not state that it cannot be cast again. It can be cast an unlimited amount of times."
+  },
+  {
+    "question": "When a creature tries to flee the magic that is taking place, are they getting an attack or not?",
+    "answer": "They can't move or take an action.",
+    "rules": [
+      "Appendix PH-A: Conditions > Paralyzed",
+      "Actions in Combat > Your Turn",
+      "Actions in Combat > Reactions"
+    ],
+    "rules_explanation": "A paralyzed creature cannot take any actions to flee. It is the attack."
+  },
+  {
+    "question": "If one is to fall prone and is grappled by an opponent, what can I do?",
+    "answer": "The target remains grappled and has disadvantage on attack rolls and the creature's attack rolls have advantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Grappled",
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "Prone creatures have attacks rolls against them have advantage if the attacker is within 5ft, so as long as the attacker meets the required positioning they would have advantage."
+  },
+  {
+    "question": "When a blinded person runs and there are known traps in the terrain, what actions happen?",
+    "answer": "Creatures have disadvantage on Wisdom (Perception) checks that rely on sight and do not have advantage on the saving throw from failing the checks on known traps.",
+    "rules": [
+      "The Environment > Vision and Light > Blinded"
+    ],
+    "rules_explanation": "The environment has no impact on the type of roll that the player can make. However, there is disadvantage given. This all assumes that the trap is one that can be spotted."
+  },
+  {
+    "question": "What happens on round 1 when Yasha has raged and does damage to an enemy?",
+    "answer": "On the first attack that hits, deal an additional 1d6 radiant damage.",
+    "rules": [
+      "Classes > Barbarian > Path of the Zealot > Divine Fury"
+    ],
+    "rules_explanation": "If the barbarian rages and has the *Divine Fury* feature, on the first successful melee attack, the target takes an additional 1d6 radiant damage."
+  },
+  {
+    "question": "What do I roll for a melee attack?",
+    "answer": "Roll a d20 and add your Strength modifier and proficiency bonus, if applicable.",
+    "rules": [
+      "Actions in Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "This section explains what statistics are required for a melee attack roll."
+  },
+  {
+    "question": "How many spells can level X hold and cast at third level?",
+    "answer": "You can use these slots, but only to cast your lower-level spells. ",
+    "rules": [
+      "Multiclassing > Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "The rules say that you must use lower level slots."
+  },
+  {
+    "question": "Nott makes a sleight of hand check of 22, is she in position to succeed?",
+    "answer": "It is up to the DM.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Whether a particular ability check is successful or not it is purely up to the DM."
+  }
+]

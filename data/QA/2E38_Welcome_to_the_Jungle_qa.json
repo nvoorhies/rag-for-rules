@@ -1,0 +1,154 @@
+[
+  {
+    "question": "Can a level 4 cleric cast Pass Without a Trace so that a group of characters within 30ft gets +10 to stealth checks?",
+    "answer": "Yes.",
+    "rules": [
+      "Part I > Casting a Spell > Range",
+      "Part I > Spell Descriptions > Pass Without Trace",
+      "Part I > Skills > Dexterity"
+    ],
+    "rules_explanation": "The Pass Without Trace spell has a range of self (which can be within 30ft if the characters are in range of the caster).  This means it affects the caster and the caster can choose creatures within range to also be affected.  The Dexterity skill is used for Stealth checks."
+  },
+  {
+    "question": "Does a cleric with medicine proficiency know anything that will help get rid of bugs and stuff, that would keep bugs away from me?.",
+    "answer": "Make a Nature check, not Medicine.",
+    "rules": [
+      "Part I > Using Ability Scores > Skills",
+      "Part I > Using Ability Scores > Intelligence Checks"
+    ],
+    "rules_explanation": "Medicine checks are about diagnosing and healing sickness. Knowing what plants might repel bugs would be a Nature check, drawing on knowledge about the environment."
+  },
+  {
+    "question": "Does the spell Identify allow the level 5 transmutation wizard to identify multiple magic items at the same time?",
+    "answer": "No, the spell can only target one object or creature.",
+    "rules": [
+      "Part I > Spell Descriptions > Identify"
+    ],
+    "rules_explanation": "The Identify spell's description clearly states it affects a single object or creature."
+  },
+  {
+    "question": "Does the spell Leomund's Tiny Hut keep insects out of the bubble?",
+    "answer": "The spell creates a dome of force which prevents passage through it.",
+    "rules": [
+      "Part I > Spell Descriptions > Leomund's Tiny Hut"
+    ],
+    "rules_explanation": "The description of Leomund's Tiny Hut indicates that the dome of force blocks passage."
+  },
+  {
+    "question": "Does the spell Pass Without a Trace last for an hour?",
+    "answer": "Yes.",
+    "rules": [
+      "Part I > Spell Descriptions > Pass Without Trace"
+    ],
+    "rules_explanation": "The duration of the spell Pass Without a Trace is 'Concentration, up to 1 hour'"
+  },
+  {
+    "question": "Does the ability Reckless Attack grant advantage and disadvantage for Stealth checks?",
+    "answer": "Reckless Attack only applies to Strength-based melee weapon attack rolls and imposes disadvantage on attacks against the user, it has no effect on stealth checks.",
+    "rules": [
+      "Part I > Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "The description of the Reckless Attack ability only mentions attack rolls using Strength and makes no mention of stealth."
+  },
+  {
+    "question": "Does the ability Eyes of the Grave detect undead through full cover?",
+    "answer": "Divination magic such as Eyes of the Grave would be partially blocked by full cover.",
+    "rules": [
+      "Part I > Spell Descriptions > Eyes of the Grave"
+    ],
+    "rules_explanation": "Divination range states that if it was full cover, I would possibly not see it as well"
+  },
+  {
+    "question": "Is the Rapier a +1 rapier?",
+    "answer": "Yes.",
+    "rules": [
+      "Part II"
+    ],
+    "rules_explanation": "The text states that the rapier is a plus one rapier."
+  },
+  {
+    "question": "The NPC Captain Avantika wears scale mail. Does that give her advantage on stealth checks?",
+    "answer": "Scale mail imposes disadvantage on stealth checks.",
+    "rules": [
+      "Part II > Equipment > Armor > Scale Mail",
+      "Part II > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The description of scale mail says that it imposes disadvantage on Dexterity (Stealth) checks."
+  },
+  {
+    "question": "If casting Identify is there a check involved?",
+    "answer": "No, but the components must be present, and the casting time followed",
+    "rules": [
+      "Part I > Spell Descriptions > Identify",
+      "Part I > Casting A Spell > Components",
+      "Part I > Casting A Spell > Casting Time"
+    ],
+    "rules_explanation": "The Identify spell's description specifies the components and casting time. There is no mention of an ability check."
+  },
+  {
+    "question": "If the level 14 Circle of the Land Druid is going to take a walk around this thing, and cast another Detect Undead, and have the little Light spell up, to see if there's any writing on anything, any carvings what investigation check should they make?",
+    "answer": "An Investigation check.",
+    "rules": [
+      "Part I > Using Ability Scores > Investigation"
+    ],
+    "rules_explanation": "The PHB states 'When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check.'"
+  },
+  {
+    "question": "As the level 14 Circle of the Land Druid is walking around the stonework and turning to Jester to mention they didn't see much they are attacked by something in the shadows. What is Caduceus' armor class?",
+    "answer": "17.",
+    "rules": [
+      "Part I"
+    ],
+    "rules_explanation": "The text says that \"Caduceus, what's your armor class?\" and then someone answers \"17.\""
+  },
+  {
+    "question": "If the dragon has a stunned, is there advantage on that?",
+    "answer": "A stunned creature is incapacitated and advantage is rolled",
+    "rules": [
+      "Part I > Appendix PH-A: Conditions > Stunned",
+      "Part I > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Stunned means to have incapacitated. A stunned character fails all saving throws and attack rolls against that charachter have advantage"
+  },
+  {
+    "question": "Can a level 11 barbarian raging has advantage and use GWM?",
+    "answer": "Yes, and the damage is the same as the initial attack",
+    "rules": [
+      "Part II > Barbarian > Class Features > Rage",
+      "Part II > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage, and GWM is allowed"
+  },
+  {
+    "question": "Does Nott get advantage on their stealth check because of their coat?",
+    "answer": "Unspecified, but possible",
+    "rules": [
+      "Part II"
+    ],
+    "rules_explanation": "If it's a cloak of elvenkind, then yes, but it wasn't specified. If this is the Cloak of Protection, then you gain +1 to AC and Saving throws."
+  },
+  {
+    "question": "If the transmutation wizard exits a bubble spell it is dispelled? ",
+    "answer": "yes.",
+    "rules": [
+      "Part I > Spell Descriptions > Leomund's Tiny Hut"
+    ],
+    "rules_explanation": "the spell's description says: 'The atmosphere inside the space is comfortable and dry, regardless of the weather outside.\n\nUntil the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.' It does not state about being dismissible, thus, yes the bubble disappears"
+  },
+  {
+    "question": "If the character is concentrating on Pass Without a Trace and then casts Hold Person, what happens?",
+    "answer": "If the character is concentrating on Pass Without a Trace and casts Hold Person, they can only concentrate on one. Pass Without a Trace ends",
+    "rules": [
+      "Part I > Casting a Spell > Concentration"
+    ],
+    "rules_explanation": "Spells that require you to concentrate can not be active at the same time"
+  },
+  {
+    "question": "If the character is using the dagger and is on the other side when popping in and out, can you hear what's on the other side when you're popping in and out?",
+    "answer": "Unclear",
+    "rules": [
+      "Part II"
+    ],
+    "rules_explanation": "Not specified."
+  }
+]

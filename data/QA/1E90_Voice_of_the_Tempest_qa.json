@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Can a creature that can change shape transform into a door?",
+    "answer": "The shapechange spell allows a character to polymorph into a different creature. It does not allow the character to polymorph into an object.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Shapechange",
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "The Shapechange spell states that you assume the form of a different *creature*. A door is an object, not a creature, therefore you cannot use the spell to change shape into a door.  Creature and object are defined separately, objects are inanimate items.  Thus, only being able to turn into a *creature* restricts polymorph to those sorts of things."
+  },
+  {
+    "question": "When determining the outcome of an insight check, does the insight skill modifier or stat get added to the roll?",
+    "answer": "Add the ability modifier + proficiency bonus if proficient with the skill to the roll, compared to a target number. If not proficient, only add the ability modifier.",
+    "rules": [
+      "Using Ability Scores > Skills",
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "The rules state that you add your proficiency bonus to an ability check if you are proficient in the relevant skill.  The rules also specify that for each ability check, you also add the relevant ability modifier."
+  },
+  {
+    "question": "A character with the Imposter ability has access to a disguise kit, and if not what number should be used for it: Dexterity?",
+    "answer": "Having the 'Imposter' ability does not grant access to a disguise kit, it is a separate ability. Since the character is a rogue, toolkit use a Dexterity bonus plus the proficiency modifier for a disguise kit. If not proficient with this kit, you use just the Dexterity bonus.",
+    "rules": [
+      "Rogue > Class Features > Expertise",
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "The SRD makes no mention of an 'Imposter' ability. Using skills requires both the skill to exist and a level of expertise to take them. To craft a disguise, you must use a toolkit which is associated with Dexterity. Also, proficency bonus cannot be stacked - it only gets added once."
+  },
+  {
+    "question": "When finding someone who can sell supplies, what is the ability and skill that should be rolled to search the town?",
+    "answer": "Use an Investigation check with the appropriate ability modifier",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Intelligence"
+    ],
+    "rules_explanation": "The question involves investigating a town, to find someone who can supply crafting materials. The listed activity corresponds to the Investigation skill, under Intelligence ability score."
+  },
+  {
+    "question": "When attempting to craft porcelain, are you are allowed to use your proficiency bonus to it if your materials are not porcelain?",
+    "answer": "No, you do not get your proficiency bonus to it because this is an adjacent skill set and you are not proficient.",
+    "rules": [
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "If you are not proficient in a specific skill, you do not get your proficiency bonus to it."
+  },
+  {
+    "question": "Does the Disguise Kit skill use Dexterity as an ability modifier for the roll?",
+    "answer": "Yes, when using a Disguise Kit the ability modifier for the check is dexterity.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Equipment > Tools > Disguise Kit"
+    ],
+    "rules_explanation": "The toolkit used to determine a the success of making a disguise is dexteriry."
+  },
+  {
+    "question": "Is it appropriate to have the players roll a wisdom saving throw in order to know if they should have had the book?",
+    "answer": "No. A Wisdom saving throw would not be appropriate in this situation. There is not a spell with these effects.",
+    "rules": [],
+    "rules_explanation": "There is nothing in the rules that dictates the type of roll to use to determine if a character knows they should have the book. However, the GM may decide what happens, and it isn't appropriate to have them roll a wisdom saving throw."
+  },
+  {
+    "question": "When determining if a character understands what another character or speaker meant to do, what is the appropriate ability and skill that should be rolled?",
+    "answer": "The rules do not define the use of an insight roll in determining a character's meaning or intent to do somthing.",
+    "rules": [],
+    "rules_explanation": "There is no rules as to the appropriate ability and skill that should be rolled to determine a character's intent."
+  },
+  {
+    "question": "If a magical item can only be used by a cleric, must the character declare the name of the diety or perform a ritual? Can they change later?",
+    "answer": "To use the magical item, the character would only need to be a cleric. They do not need to declare the name of the diety or perform a ritual unless specified in the description of the item.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "To use a magical item, they must be attuned to it if the item requires it. To attune, the character must meet any attunement criteria. If the prerequisite is a class, a creature must be a member of that class to attune to the item. If the prerequisite is to be a spellcaster, a creature qualifies if it can cast at least one spell using its traits or features, not using a magic item or the like."
+  }
+]

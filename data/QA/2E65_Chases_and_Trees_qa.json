@@ -1,0 +1,282 @@
+[
+  {
+    "question": "What is the range of Detect Undead, which is being used by a cleric level 7, given the option Eyes of the Grave?",
+    "answer": "The range of Detect Undead when using the Eyes of the Grave invocation is not defined in the provided text. The invocation Eyes of the Grave, itself, is not defined in the provided text.",
+    "rules": [],
+    "rules_explanation": "The question asks for the range of Detect Undead using the Eyes of the Grave feature, but that feature is not available to a Cleric or defined anywhere in the SRD provided."
+  },
+  {
+    "question": "If Jester, a cleric level 5, is driving a moorbounder and she is paralyzed, what happens?",
+    "answer": "The moorbounder keeps running if Jester is paralyzed.",
+    "rules": [
+      "Actions in Combat > Actions > Forgo an Action",
+      "Appendix PH-A: Conditions > Conditions > Paralyzed",
+      "Actions in Combat > Movement and Position > Movement"
+    ],
+    "rules_explanation": "Because Jester is paralyzed, she is incapacitated and can take no actions. Because she can take no actions, she can't direct the moorbounder, so it keeps moving."
+  },
+  {
+    "question": "When attacking with Eldritch Blast from level warlock, Fjord, who is blessed, makes an attack and rolls a natural 1. Does Bless add to that roll?",
+    "answer": "The attack roll with an Eldritch Blast can roll a d4 because of Bless.",
+    "rules": [
+      "Spellcasting > Components > Verbal (V)",
+      "Spell Descriptions > Bless",
+      "Appendix PH-A: Conditions > Conditions > Frightened"
+    ],
+    "rules_explanation": "Bless adds a d4 to attack rolls so the roll can make the roll higher to hit."
+  },
+  {
+    "question": "If the character Ashley is playing, Yasha, a barbarian level 5, is raging and is the target of a snatch attack, does she need to make a concentration check?",
+    "answer": "The character Ashley does not need to make a concentration check, because barbarians can't cast spells while raging and cannot be required to concentrate.",
+    "rules": [
+      "Classes > Barbarian > Rage",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The rules state that if you are able to cast spells, you can't cast them or concentrate on them while raging and cannot be required to concentrate, thus a Barbarian raging does not make a concentration check."
+  },
+  {
+    "question": "If the character Laura is playing, Jester, a cleric level 5, has cast bless but is then impacted and takes bludgeoning damage, does she need to make a concentration check?",
+    "answer": "The character Laura, as Jester, would need to make a concentration check after taking the bludgeoning damage to maintain the *bless* spell.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The spellcasting rules on concentration specify that whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration"
+  },
+  {
+    "question": "Nott, a rogue is trying to pull a heart out of a Gloomstalker and rolls a natural 20 on her strength check. Is this a critical success?",
+    "answer": "Natural 20s do not apply to skill checks so is not a critical success but does indicate an automatic success in whatever task they were performing.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Contests"
+    ],
+    "rules_explanation": "The rules provided do not state that a natural 20 is an automatic success in skill checks. Instead, a Dexterity (Stealth) check to hide is contested by the Wisdom (Perception) check of any creature actively searching in order to win the skill check."
+  },
+  {
+    "question": "If Fjord, a warlock level 5, casts Charm Monster on the gloomstalkers but they have advantage, what roll would they need to resist the effect?",
+    "answer": "The gloomstalkers need to roll a 17 or greater to resist the effect, where the difficulty class for Charm Monster is 17",
+    "rules": [
+      "Spellcasting > Spellcasting Ability",
+      "Conditions > Charmed",
+      "Saving Throws > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Charm Monster requires a wisdom saving throw where the spell save DC = 8 + proficiency bonus + spellcasting ability modifier, which is 8 + 3(proficiency) + 4(charisma) = 15. The problem states that the creature has advantage so it would roll twice and take the higher of the two rolls."
+  },
+  {
+    "question": "If a paralyzed medium creature is attacked in melee by a creature within 5 feet, is the attack a critical hit?",
+    "answer": "Yes, a melee attack against a paralyzed creature within 5 feet is a critical hit.",
+    "rules": [
+      "Appendix PH-A: Conditions > Conditions > Paralyzed"
+    ],
+    "rules_explanation": "The paralyzed condition indicates that attack rolls against the creature have advantage and any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature."
+  },
+  {
+    "question": "Can a paralyzed creature still roll initiative?",
+    "answer": "Yes, a paralyzed creature still rolls initiative.",
+    "rules": [
+      "The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The paralyzed condition does not prevent a creature from rolling initiative, but the frightened condition does, so a character can't take actions until the fright ends."
+  },
+  {
+    "question": "If the gloomstalkers are quick, and spiraling through the sky, can Caleb, a wizard level 5, cast a Sacred Flame cantrip at that creature? The text also mentions a 22.0 roll for the attack.",
+    "answer": "The wizard's ability to target the creatures with Sacred Flame depends on their Dexterity saving throws. If the creatures' Dexterity score + applicable modifiers is less than 17, they are damaged. If their Dexterity score + applicable modifiers is 17 or more, they are not damaged.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability",
+      "Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The text describes Sacred Flame as requiring the target to make a Dexterity saving throw, but does not mention an attack roll."
+  },
+  {
+    "question": "If Caleb, a wizard level 5, fails to make his saving throw, and his character is flung from a moorbounder, can he use his Ring of Evasion?",
+    "answer": "To determine if the ring can be used, you need to know the DC of the Dexterity saving throw against the effect of the blast. If the roll is 12 or higher, the Fjord could use the ring to succeed the saving throw. If the roll is below 12, he cannot use the ring.",
+    "rules": [
+      "Magic Items > Ring of Evasion"
+    ],
+    "rules_explanation": "Ring of Evasion's description says that 'if you fail a saving throw, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead'. "
+  },
+  {
+    "question": "What happens if the character Taliesin is playing, Caduceus, a cleric level 5 casts detect undead, Eyes of the Grave, on something far away?",
+    "answer": "The effects of Eyes of the Grave, or the range of Detect Undead is not listed so I cannot provide an answer. If the target is outside that range, nothing happens.",
+    "rules": [],
+    "rules_explanation": "Given no range for either Detect Undead or Eyes of the Grave the answer depends on their known range. If the target is beyond the known range, the spell has no effect."
+  },
+  {
+    "question": "When Fjord, a warlock level 5, casts Charm Monster on the gloomstalkers, does it matter if they have advantage against the effect?",
+    "answer": "Yes, having advantage on the wisdom saving throws would mean the gloomstalkers roll twice and use the better roll.",
+    "rules": [
+      "Saving Throws > Advantage and Disadvantage",
+      "Spellcasting > Spell save DC"
+    ],
+    "rules_explanation": "With advantage on the saving throw, the creature rolls twice and uses the higher result. Therefore the gloomstalkers have a better chance of saving against the effect."
+  },
+  {
+    "question": "Can Yasha, a barbarian level 5, use bless more than one time in the battle?",
+    "answer": "The effect of Bless lasts for the duration, so one spell can affect them for that duration, but a character could be under the effect of Bless again if the first use ended and the bless spell was recast, so the player would need to know the remaining duration of the spell.",
+    "rules": [
+      "Spell Descriptions > Bless > Duration"
+    ],
+    "rules_explanation": "Bless lasts for the full duration when concentrating and can apply to multiple rolls for the duration of the spell. However, the effect of the Bless spell is limited by its duration and requires concentration so would need to be recast after concentration is lost."
+  },
+  {
+    "question": "Can Marisha, playing the character Beauregard, a monk level 5, still be paralyzed by a shrieking noise?",
+    "answer": "Yes, being a monk level 5 does not grant immunity to being paralyzed by a shrieking noise.",
+    "rules": [],
+    "rules_explanation": "A shrieking sound can cause characters to be frightened, who have disadvantage on ability checks and attack rolls while the source of their fear is within line of sight, and they can't willingly move closer to the source of their fear. The paralyzed condition makes it so the creature is incapacitated, can't move or speak, and is unaware of their surroundings. Monks do not get immunity to these conditions at level 5. "
+  },
+  {
+    "question": "Does having disadvantage and advantage on an attack roll cancel each other out to a straight roll?",
+    "answer": "Yes, if circumstances cause a roll to have both advantage and disadvantage, the character rolls one d20",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20"
+  },
+  {
+    "question": "Is it possible to critical hit a paralyzed character in melee combat?",
+    "answer": "Yes, since the condition 'Paralyzed' states that any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.",
+    "rules": [
+      "Appendix PH-A: Conditions > Paralyzed"
+    ],
+    "rules_explanation": "The 'Paralyzed' condition in the rules states that 'any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature'"
+  },
+  {
+    "question": "What does adding 1d4 to attacks do, as stated by Laura, the player for Jester, after Fjord makes an eldritch blast attack?",
+    "answer": "The 1d4 is a result of the Bless spell, which gives each attack roll an additional 1d4.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The Bless spell states that whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw."
+  },
+  {
+    "question": "What happens when there is no longer a driver for a mount?",
+    "answer": "The moorbounder keeps running.",
+    "rules": [],
+    "rules_explanation": "The rules do not specify what happens to a mount in the event that the rider is paralyzed, stunned or otherwise incapacitated, however the phrase \"The moorbounder keeps running\" suggests that the game master has decided that the mount will continue to move in its current direction."
+  },
+  {
+    "question": "Can You send a silent message to someone that does not speak the same language and be sure they would understand. ",
+    "answer": "No, the effect requires that the target is able to understand your language for the modified memories to take root.",
+    "rules": [
+      "Spell Descriptions > Modify Memory >",
+      "Saving Throws > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "You must speak to the target to describe how its memories are affected, and it must be able to understand your language for the modified memories to take root.  However, the target may be more susceptible to the effect is you have a personal object of theirs."
+  },
+  {
+    "question": "Does Bless count towards initiative?",
+    "answer": "No, Bless does not count towards initiative.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "Bless adds a d4 to attack rolls and saving throws but is never mentioned as adding anything to initiative rolls."
+  },
+  {
+    "question": "Taliesin, who plays Caduceus asks: Can I cancel a crit with my stuff? Does it technically, can I cancel a crit?",
+    "answer": "Yes, Caduceus can use some ability or feature to cancel the critical hit, if its description allows it.",
+    "rules": [],
+    "rules_explanation": "The DM confirms that Caduceus could have a feature that would negate a crit. Without knowing what \"stuff\" Caduceus is referring to, it is impossible to give a definitive yes."
+  },
+  {
+    "question": "If Nott, a rogue level 5, is hidden, does she get advantage from Fortune's Favor?",
+    "answer": "It cannot be determined from the description of Fortune's Favor whether the player would get the benefits. If the Rogue is hidden at the time of making the attack roll, they will have advantage on the attack roll, as the target can't see them.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Spell Descriptions > Bane >",
+      "Spellcasting > Spell save DC"
+    ],
+    "rules_explanation": "The conditions for how Sneak Attack extra damage is applied is that the attacker has advantage on the attack roll, or when the target is within 5 feet of an ally of the attacker that isn't incapacitated and the attacker doesn't have disadvantage on the attack roll. In either scenario, the attack gains extra damage dice. This damage increase is unrelated to the player applying Fortune's Favor."
+  },
+  {
+    "question": "If a player fails a saving throw after the effect has already happened does that character receive no damage?",
+    "answer": "As a general case, yes, the character already took the damage from the original failed save, and is likely attempting a saving throw to end a condition.",
+    "rules": [
+      "Using Ability Scores > Saving Throws",
+      "Appendix PH-A: Conditions > Conditions > Frightened"
+    ],
+    "rules_explanation": "While the text does not specify a general case when one would take a saving throw after an effect has already happened, there is a precedent for such a case. The frightened condition states 'A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.' which is usually the case when making another saving throw after the initial one has failed."
+  },
+  {
+    "question": "What saving throw do you make against sacred flame?",
+    "answer": "Dexterity, 17.",
+    "rules": [],
+    "rules_explanation": "This answer is based solely on the surrounding transcript. "
+  },
+  {
+    "question": "Does bless count towards our initiative?",
+    "answer": "Bless does not count towards initiative.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "Bless adds a d4 to attack rolls and saving throws, but nothing more."
+  },
+  {
+    "question": "What is the spell save DC?",
+    "answer": "The spell save DC is 15.",
+    "rules": [],
+    "rules_explanation": "This answer is ambiguous because the character calling out the spell save DC is speaking without clarifying the spell or caster so the true value cannot be inferred"
+  },
+  {
+    "question": "Beau, a monk, has 'succeeded in her pass' but the others are making stealth checks. Does Pass Without Trace count?",
+    "answer": "Yes, Pass Without Trace applies to the stealth checks.",
+    "rules": [
+      "Spell Descriptions > Pass without Trace"
+    ],
+    "rules_explanation": "The spell Pass Without Trace adds +10 to Dexterity (Stealth) checks made to hide and prevents the party from being tracked by non magical means."
+  },
+  {
+    "question": "If you are already paralyzed, can you be re-paralyzed?",
+    "answer": "Yes, it means you are paralyzed until the end of your next round again.",
+    "rules": [],
+    "rules_explanation": "Based entirely on surrounding conversation"
+  },
+  {
+    "question": "Can two of the party members who have already been paralyzed for a round still roll a d4 for bless?",
+    "answer": "It depends. The *Bless* spell requires concentration for up to 1 minute and can be broken by taking damage. If the *Bless* spell has been broken, then the characters can not receive its bonus",
+    "rules": [
+      "Spellcasting > Duration > Concentration",
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The blessed characters are eligible to use the effect of the Bless spell which reads 'Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.' However, this is dependent on Laura continuing concentration on Bless, which is broken if she takes too much damage."
+  },
+  {
+    "question": "does bless count to our initiative?",
+    "answer": "Bless does not count to initiative.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "Bless specifically adds a d4 to attack rolls and saving throws but mentions no effect on initiative. "
+  },
+  {
+    "question": "Do we need to make a concentration check because I took bludgeoning where I landed on the ground?",
+    "answer": "You would need to make a concentration check to maintain Bless after taking bludgeoning damage where I landed on the ground.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The rules for concentration state that you must make a Constitution saving throw to maintain your concentration whenever you take damage while you are concentrating on a spell."
+  },
+  {
+    "question": "If a cleric level 5, is not able to use her action, can I cancel a crit?",
+    "answer": "It is unknown if you can cancel the crit. Whether the Cleric is able to cancel the crit depends on what ability they are using and if that ability requires an action to activate, as well as the ability's range.",
+    "rules": [],
+    "rules_explanation": "The nature of the action used to cancel the crit and range are both unknown."
+  },
+  {
+    "question": "What kind of roll is Sacred Flame?",
+    "answer": "Sacred Flame requires the target to make a Dexterity saving throw.",
+    "rules": [
+      "SRD Not Found"
+    ],
+    "rules_explanation": "The exact rules for Sacred Flame are not provided, but it is stated that the target must make a Dexterity saving throw."
+  },
+  {
+    "question": "What is the range on Guiding Bolt?",
+    "answer": "The range of Guiding Bolt is 120 feet.",
+    "rules": [],
+    "rules_explanation": "Range is a standard component of a spell description."
+  },
+  {
+    "question": "What is my spell DC?",
+    "answer": "The character's spell save DC is 15.",
+    "rules": [],
+    "rules_explanation": "The spell save DC is stated in the game text and is therefore a known part of the game state."
+  }
+]

@@ -1,0 +1,411 @@
+[
+  {
+    "question": "Can a level 4 cleric use Turn Undead on a giant?",
+    "answer": "A cleric's Turn Undead feature only affects undead creatures, there is no rules for the use of Turn Undead on a Giant. Therefore the ability does not affect a giant, only undead.",
+    "rules": [
+      "Section > Class Features > Cleric > Channel Divinity > Turn Undead"
+    ],
+    "rules_explanation": "The Turn Undead feature specifically states that it only affects undead. No exception exists that would allow the ability to affect other creature types."
+  },
+  {
+    "question": "When a large flying creature teleports, does a medium PC get an opportunity attack?",
+    "answer": "An opportunity attack requires a target to leave your reach. Teleportation does not trigger an attack of opportunity.",
+    "rules": [
+      "Section > Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "Teleportation specifically is called out as not triggering an opportunity attack."
+  },
+  {
+    "question": "If the temporary hit points from a level 5 warlock's Armor of Agathys at 5th level are depleted by a melee attack, what damage does the attacker take?",
+    "answer": "The Armor of Agathys spell states that when the temporary hit points are lost, the attacker takes cold damage equal to the level the spell was cast at, which in this case is 5th level. Thus 25 points of cold damage are applied to the attacker.",
+    "rules": [
+      "Section > Spell Descriptions > Armor of Agathys"
+    ],
+    "rules_explanation": "The Armor of Agathys spell description clearly calls out cold damage to a melee attacker. This happens when the temporary hit points are lost. The amount of damage is tied to the level of the spell slot when it was cast."
+  },
+  {
+    "question": "When a level 9 barbarian makes the first attack while raging, how much extra damage does Divine Fury deal?",
+    "answer": "Divine Fury damage is equal to 1d6 + half your level (rounded up). A level 9 barbarian would add 1d6+5 damage.",
+    "rules": [
+      "Section > Class Features > Barbarian > Path of the Zealot > Divine Fury"
+    ],
+    "rules_explanation": "The Path of the Zealot feature Divine Fury grants extra damage equal to 1d6+half barbarian level."
+  },
+  {
+    "question": "When a level 9 barbarian makes the first attack while raging, how much rage bonus damage is added to the first attack?",
+    "answer": "The rage damage for a level 9 barbarian is +3.",
+    "rules": [
+      "Section > Class Features > Barbarian > Rage"
+    ],
+    "rules_explanation": "The Rage description includes a table that shows the Rage Damage bonus for each barbarian level"
+  },
+  {
+    "question": "Can a 5th level warlock see a jellyfish after they Dimension Door?",
+    "answer": "A 5th level warlock can cast Dimension Door.  Dimension Door states that the destination must be 'within range'. The spell range is 500 feet. Since they remain within range, a character with vision can see where they teleport to.",
+    "rules": [
+      "Section > Spell Descriptions > Dimension Door"
+    ],
+    "rules_explanation": "The spell description for Dimension Door states the spell range.  If something remains within range, and the other character has 'vision', they should be able to see the target.  Dimension Door does not specify any change to visibility as a function of casting the spell."
+  },
+  {
+    "question": "Does a paladin's Holy Weapon spell shed light?",
+    "answer": "Yes, when cast on a weapon Holy Weapon causes the weapon to shed bright light in a 30-foot radius and dim light for an additional 30 feet.",
+    "rules": [
+      "Section > Spell Descriptions > Holy Weapon"
+    ],
+    "rules_explanation": "The Holy Weapon's spell description says that the weapon sheds bright and dim light."
+  },
+  {
+    "question": "Does a 1st-level Trickery Domain cleric have to be able to understand the language a creature speaks in order to Command it?",
+    "answer": "No.  As long as the target can hear the cleric, the Command spell can be used. The spell only requires that a 'one-word command' is spoken.",
+    "rules": [
+      "Section > Spell Descriptions > Command"
+    ],
+    "rules_explanation": "The spell only requires that a 'one-word command' is spoken to a target that can hear. No common language needs to be understood for the spell to function."
+  },
+  {
+    "question": "If a shapechanged turtle is frightened, can the character move away from it?",
+    "answer": "Yes, A frightened creature can't willingly move closer to the source of its fear, however, a creature can still move away from the source.",
+    "rules": [
+      "Section > Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The definition of the frightened condition says the frightened creature can't willingly move closer to the source of its fear"
+  },
+  {
+    "question": "Can a level 9 barbarian use reckless attack and then leap upwards while attacking?",
+    "answer": "Yes, a character can take the attack action and make melee attacks, choosing to make a reckless attack at the first attack. They may jump while making these attacks as part of their movement.",
+    "rules": [
+      "Section > Combat > Actions in Combat > Attack",
+      "Section > Class Features > Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "A character can take their movement before or after taking an action. Reckless attack can be called as part of the first melee attack. Thus the barbarian can jump and apply reckless attack to the first melee attack."
+  },
+  {
+    "question": "Does a level 9 barbarian get to add Divine Fury damage dice to the first strike attack roll after leaping into the air and use the reckless attack feature?",
+    "answer": "No, the Divine Fury feature only allows a barbarian to add damage on the first melee attack each turn, not to apply it to the attack roll.",
+    "rules": [
+      "Section > Class Features > Barbarian > Path of the Zealot > Divine Fury"
+    ],
+    "rules_explanation": "The Divine Fury description clearly grants bonus damage on the first melee attack, not changes to the attack roll."
+  },
+  {
+    "question": "What does the Mage Armor spell do to a creature's AC if it is encased in ice?",
+    "answer": "The Mage Armor spell makes the target's base AC 13+DEX modifier, but states that this will only work if they are not wearing armor. If the frost/ice encasing the target counts as armor, Mage Armor will not apply.",
+    "rules": [
+      "Section > Spell Descriptions > Mage Armor"
+    ],
+    "rules_explanation": "The Mage Armor spell makes the target's base AC 13+DEX modifier, but states that this will only work if they are not wearing armor."
+  },
+  {
+    "question": "If a creature is a giant snapping turtle under the effect of the Polymorph spell, does a creature frightened of the giant snapping turtle have advantage on the frightened saving throw.",
+    "answer": "No, but the GM may give them advantage on the save if the initial cause of fear is mitigated by the target becoming a giant snapping turtle.",
+    "rules": [
+      "Section > Spell Descriptions > Polymorph",
+      "Section > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "As long as the source of the frightened condition is still present, the creature is still frightened."
+  },
+  {
+    "question": "Can a level 5 Trickery Domain cleric step to the side while remaining within range of an enemy?",
+    "answer": "Yes, they can move as long as they remain in range.",
+    "rules": [
+      "None"
+    ],
+    "rules_explanation": "There are no rules that prohibit moving within an enemy's range if it is not out of their range."
+  },
+  {
+    "question": "Can a player close an already active dimension door?",
+    "answer": "No, the spell has already been cast and the effect is in progress. There is no rule allowing a player to close a dimension door once it has been created by another creature, they may however use a dispel magic to end the effect.",
+    "rules": [
+      "Section > Spell Descriptions > Dispel Magic",
+      "None"
+    ],
+    "rules_explanation": "Dimension Door creates an instantaneous effect, so there is no way to close it once it's in effect. There is no such spell or ability to simply close an active portal except for dispel magic."
+  },
+  {
+    "question": "Does a creature with Armor of Agathys, which deals cold damage to melee attackers, do double damage when it hits a creature that is vulnerable to cold damage?",
+    "answer": "No, the Armor of Agathys spell does not create an attack. Thus, there is no damage to double.",
+    "rules": [
+      "Section > Combat > Damage and Healing > Damage Vulnerability and Resistance",
+      "Section > Spell Descriptions > Armor of Agathys"
+    ],
+    "rules_explanation": "Armor of Agathys deals cold damage to an attacker based on them hitting the caster. It is not the caster that is attacking. Thus, the damage is not doubled."
+  },
+  {
+    "question": "Does a creature under the effect of the frightened condition have disadvantage on attack rolls against a creature they are unable to move closer to because they are restrained?",
+    "answer": "Yes, a frightened creature has disadvantage on attack rolls and ability checks while the source of its fear is within line of sight. Being restrained does not remove the attack roll disadvantage.",
+    "rules": [
+      "Section > Conditions > Frightened",
+      "Section > Conditions > Restrained"
+    ],
+    "rules_explanation": "The definition of the frightened and restrained conditions both apply. Thus, the target can't move closer, and has disadvantage on attack rolls."
+  },
+  {
+    "question": "Can a creature that is invisible be targeted with the bless spell?",
+    "answer": "Yes, they can be targeted with the spell. As long as they can hear the caster and are within the spell range, they can be a target.",
+    "rules": [
+      "Section > Spell Descriptions > Bless",
+      "Section > Combat > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The spell description dictates what the target needs to be. As long as those conditions are met, the spell is cast. Unseen Attackers and Targets speaks to how unseen targets change the nature of attack rolls, but bless does not use an attack roll. Further, it is not necessary for a target to be seen to be 'targeted'."
+  },
+  {
+    "question": "If a shapechanged creature has already used its reaction to make an attack of opportunity can it use its reaction for a Bard's Cutting Words feature.",
+    "answer": "No, you can only take one reaction between each of your turns.",
+    "rules": [
+      "Section > Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "You can only take one reaction between each of your turns."
+  },
+  {
+    "question": "What is the result of casting Sacred Flame on a portal or rift?",
+    "answer": "A GM determines what, if anything, the spell does to the rift.",
+    "rules": [
+      "Section > Spell Descriptions > Sacred Flame",
+      "None"
+    ],
+    "rules_explanation": "A spell does what it says it does. No rules suggest Sacred Flame affects rifts."
+  },
+  {
+    "question": "What is the DC to save against a 5th-level warlock's Melf's Acid Arrow, when the target had the benefit of that character's Bane spell active, and has disadvantage on the saving throw?",
+    "answer": "Melf's Acid Arrow does not require a saving throw, so neither the Bane spell or disadvantage affect the spell.",
+    "rules": [
+      "Section > Spell Descriptions > Melf's Acid Arrow",
+      "Section > Spell Descriptions > Bane"
+    ],
+    "rules_explanation": "The Melf's Acid Arrow spell does not require the target to make a saving throw."
+  },
+  {
+    "question": "What happens if a 5th level character has a negative wisdom modifier and rolls a 13 on a check to dispel a portal?",
+    "answer": "The spell states that an ability check must be made, but is unclear which. An implicit Intelligence, Wisdom, or Charisma check is meant when a saving throw or attack roll isn't involved. The appropriate modifier must be used.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Roll a d20, add any relevant modifiers. If the total equals or exceeds the DC, the ability check is a success."
+  },
+  {
+    "question": "Can you target an invisible creature with inflict wounds?",
+    "answer": "A creature must be targetable for the spell to work, which requires a clear path to the target, so it can't be behind total cover.",
+    "rules": [
+      "Section > Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "You must have a clear path to the target to target it with a spell."
+  },
+  {
+    "question": "If a Paladin casts Armor of Agathys and is dealt damage from an attacking creature, is the attacker's doubled damage also returned back to them at double?",
+    "answer": "No. The damage returned by Armor of Agathys is not doubled for a critical hit. It is a separate effect.",
+    "rules": [
+      "Section > Combat > Making an Attack > Critical Hits",
+      "Section > Spell Descriptions > Armor of Agathys"
+    ],
+    "rules_explanation": "Critical hits do not cause damage from secondary effects to be doubled. Only the initial attack damage dice are doubled."
+  },
+  {
+    "question": "If a paladin casts Armor of Agathys and is dealt a critical hit from an attacking creature that is Channeled Divinity to receive double damage, does the creature take double damage from Armor of Agathys and the paladin take half damage for uncanny dodge?",
+    "answer": "Yes, If a paladin casts Armor of Agathys and is dealt a critical hit from an attacking creature that is Channeled Divinity, the creature takes double damage from Armor of Agathys. The paladin would take half damage with uncanny dodge.",
+    "rules": [
+      "Armor of Agathys",
+      "Critical Hits",
+      "Reactions & Opportunity Attacks"
+    ],
+    "rules_explanation": "Armor of Agathys deals cold damage to melee attackers if they hit, so the creature would take double damage because of Path of the Grave vulnerability. Since it wasn't the players turn, the target does not get the reaction to cast uncanny dodge to take half damage."
+  },
+  {
+    "question": "What kind of action is it to say, “I'm just saying, if anybody's got an idea to close this thing, I am all ears.”",
+    "answer": "Talking is generally a free action.",
+    "rules": [
+      "Section > Combat > Your Turn > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "The rule states you can communicate through brief utterances and gestures as you take your turn."
+  },
+  {
+    "question": "If a level 9 character is hit and made frightened, for whom they have advatange on saving throws, and rage, for whom they have resistance to damage, which order do the saving throws happen?",
+    "answer": "Because the effects do not say the target creature is incapacitated, or otherwise limited, the target chooses the order.",
+    "rules": [
+      "None"
+    ],
+    "rules_explanation": "It is not specified in the frightened or damage resistance conditions that these prevent one from utilizing any other effects or conditions unless they are incapacitated or have the restrained condition."
+  },
+  {
+    "question": "How does Bless interact with a frightened condition?",
+    "answer": "Bless gives an additional 1d4 to saving throws and attack rolls. A frightened creature has disadvantage on attack rolls and ability checks while the source of its fear is within line of sight. It can't willingly move closer to the source of its fear.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened",
+      "Section > Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The Frightened condition and Bless combine to give disadvantage and an additional 1d4. A frightened creature can't willingly move closer to the source of its fear."
+  },
+  {
+    "question": "How is area of effect from the burning hands spell calculated?",
+    "answer": "Burning Hands is cast with a 15-foot cone originating from the caster.",
+    "rules": [
+      "Section > Spell Descriptions > Burning Hands",
+      "Section > Spellcasting > Areas of Effect > Cone"
+    ],
+    "rules_explanation": "The spell description lists the area of effect. Burning Hands follows the rules of a cone. "
+  },
+  {
+    "question": "How long does polymorph last?",
+    "answer": "The Polymorph spell duration is Concentration, up to 1 hour. The transformation lasts for the duration, or until the target drops to 0 hit points or dies.",
+    "rules": [
+      "Polymorph spell"
+    ],
+    "rules_explanation": "The Polymorph spell lasts for its duration unless an event breaks it early."
+  },
+  {
+    "question": "Does casting Polymorph break concentration on other spells?",
+    "answer": "Yes, you can't concentrate on two spells at once.",
+    "rules": [
+      "Section > Spellcasting > Concentration"
+    ],
+    "rules_explanation": "You lose concentration on a spell if you cast another spell that requires concentration."
+  },
+  {
+    "question": "Does a frightened creature have disadvantage on saving throws?",
+    "answer": "A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.",
+    "rules": [
+      "Section > Conditions > Frightened"
+    ],
+    "rules_explanation": "The frightened condition only applies to attack rolls and ability checks, not saving throws."
+  },
+  {
+    "question": "If a creature is a turtle due to Polymorph, can a creature run past its melee range without opportunity of attack?",
+    "answer": "A creature that is under the effect of Polymorph maintains the abilities of the Polymorphed creature. If the Polymorphed creature does not have an opportunity attack, it cannot use it. Additionally, the shapechanged creature must be able to see in order to perform an opportunity attack.",
+    "rules": [
+      "Section > Spell Descriptions > Polymorph",
+      "Section > Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "The Polymorph spell transforms a creature into a beast. The new form's statistics replace those of the target, except for alignment and personality. The Opportunity Attack description says you must be able to see the target to make an opportunity attack."
+  },
+  {
+    "question": "If a rogue is hidden from a creature can they have advantage on the attack roll even if another party member is within five feet of the target?",
+    "answer": "Yes, a rogue has advantage as long as they are unseen even if there is an ally nearby. An ally nearby helps with sneak attacks, not advantage.",
+    "rules": [
+      "Section > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The rogue sneak attack ability needs a nearby ally, or advantage, to make a sneak attack"
+  },
+  {
+    "question": "With the Path of the Grave ability, can a paladin use its channel divinity to cast Path of the Grave?",
+    "answer": "The grave domain is not an ability of the paladin class, so the cleric cannot invoke the grave domain to double damage.",
+    "rules": [
+      "None"
+    ],
+    "rules_explanation": "This statement is an uncodified ruling"
+  },
+  {
+    "question": "After a Barbarian attacks with Reckless Attack, when does the enemy have advantage on attack rolls against them?",
+    "answer": "After a level 2 barbarian makes their first attack on their turn, they can decide to use Reckless Attack. Doing so gives them advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against them have advantage until their next turn.",
+    "rules": [
+      "Reckless Attack"
+    ],
+    "rules_explanation": "Reckless Attack gives advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn."
+  },
+  {
+    "question": "If a creature with the Armor of Agathys is hit by an attacker that has vulnerability to cold damage, what damage does the attacker receive?",
+    "answer": "No. The Armor of Agathys spell does not create an attack. The cold damage is a separate effect, and is not doubled.",
+    "rules": [
+      "Section > Combat > Making an Attack > Critical Hits",
+      "Section > Spell Descriptions > Armor of Agathys"
+    ],
+    "rules_explanation": "Critical hits do not cause damage from secondary effects to be doubled. Only the initial attack damage dice are doubled."
+  },
+  {
+    "question": "Can a person attempt to Dispel Magic on a rift?",
+    "answer": "Yes, as a GM you can decide the rift is of magical origin and can be the target of a Dispel Magic. The dispel magic spell would be applied normally with a check on the d20 plus the spellcasting modifier needing to meet the DC for the rift or the attempt fails.",
+    "rules": [
+      "Section > Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "The Dispel Magic spell is used to end a magical effect with a check against a set difficulty."
+  },
+  {
+    "question": "When does the level 1 Monk's ability, Martial Arts, applies the damage bonus?",
+    "answer": "The Martial Arts feature allows the Monk to make an unarmed strike as a bonus action when you use the Attack action with an unarmed strike or a monk weapon on your turn.",
+    "rules": [
+      "Section > Classes > Monk > 1st Level > Martial Arts"
+    ],
+    "rules_explanation": "This bonus action is only triggered if the Attack Action has been taken."
+  },
+  {
+    "question": "What happens if a shape changed creature is hit while they have used a channel divinity to do double damage?",
+    "answer": "If the shapechanged creature maintains concentration, the double damage occurs the next time they hit.",
+    "rules": [
+      "Section > Class Features > Cleric > Channel Divinity"
+    ],
+    "rules_explanation": "The Channel Divinity will stay active as long as the shape changed character concentrates on it."
+  },
+  {
+    "question": "Can a goblin climb onto a pillar to get closer to something in the ceiling?",
+    "answer": "Make an athletics check.",
+    "rules": [
+      "Climbing, Swimming, and Crawling"
+    ],
+    "rules_explanation": "The GM makes a judgement that the climb is appropriate for an athletics check"
+  },
+  {
+    "question": "Can a player make a suggestion of which way to go for a character?",
+    "answer": "This is up to the GM, however the player can make an argument that they are giving suggestions to the giant.",
+    "rules": [
+      "None"
+    ],
+    "rules_explanation": "There are no rules about what the GM can use for guidance in play."
+  },
+  {
+    "question": "Can you Telekinesis a creature through the portal by way of the jellyfish after discovering one in the bone pit?",
+    "answer": "If you try to Telekinesis the creature, it's unclear what would happen. This falls under a GM ruling.",
+    "rules": [
+      "Section > Spell Descriptions > Telekinesis"
+    ],
+    "rules_explanation": "The telekinesis spell does not state what happens in situations with portals."
+  },
+  {
+    "question": "What happens to the Bane spell effect if the target polymorphs?",
+    "answer": "The effect ends if the target is transformed into a new form.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Duration > Transformation"
+    ],
+    "rules_explanation": "The effect ends if the target is transformed into a new form."
+  },
+  {
+    "question": "Is a creature that has been polymorphed still frightened of something if they were frightened before the Polymorph?",
+    "answer": "It is technically a special effect of Polymorph ability and you would have advantage on your saves.",
+    "rules": [
+      "Player's Handbook > Spell Descriptions > Polymorph",
+      "Chapter 9: Combat > Cover and Obstacles"
+    ],
+    "rules_explanation": "The polymorph spell states that all effects are gone with the new creature, and the creature is now a turtle."
+  },
+  {
+    "question": "After taking actions, a barbarian uses their movement. Can an opportunity attack be used?",
+    "answer": "If the target moved out of the 5ft of the reach, it will trigger an opportunity attack.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "Opportunity attacks can be made if you move out of reach of an opponent."
+  },
+  {
+    "question": "If a player is hit by a melee attack while under the effects of Armor of Agathys that uses the Grave Touch Channel Divinity, how much cold damage is done to the attacker?",
+    "answer": "The Channel Divinity: Path of the Grave ability that the Cleric has used would not affect Armor of Agathys.",
+    "rules": [
+      "Talent Tree > Channel Divinity",
+      "Spells > Armor of Agathys"
+    ],
+    "rules_explanation": "Path of the Grave states that 'The first time you or an ally hits it with an attack, it is subject to the vulnerability.' Armor of Agathys causes cold damage to a melee attacker if they hit you, but it is not an attack."
+  },
+  {
+    "question": "Does the dimension door spell have to be somewhere you've already been?",
+    "answer": "The dimension door spell has no effect on it. Does the Dimension Door spell state that the location has to be somewhere you've already been, and only that you teleport yourself from your current location to any other spot within range.",
+    "rules": [
+      "Dimension Door"
+    ],
+    "rules_explanation": "The Dimension Door spells have no other restraints asides from being within range, you can't cast it to any spot that you know."
+  },
+  {
+    "question": "Can a paralyzed creature move away?",
+    "answer": "No, a paralyzed creature is incapacitated and can't move or speak.",
+    "rules": [
+      "Appendix PH-A: Conditions > Paralyzed"
+    ],
+    "rules_explanation": "A paralyzed creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings."
+  }
+]

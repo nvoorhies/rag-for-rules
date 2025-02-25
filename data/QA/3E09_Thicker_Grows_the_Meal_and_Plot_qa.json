@@ -1,0 +1,141 @@
+[
+  {
+    "question": "The Level 1, Race Unknown Fearne makes a deception check and rolls an 11. Is that sufficient to deceive the wardens?",
+    "answer": "The deception check yields a total of 11. The transcript does not indicate the DC that the NPC’s will require.",
+    "rules": [
+      "Ability Checks > Ability Checks > Making an Ability Check"
+    ],
+    "rules_explanation": "The deception roll yields the number rolled from the d20 plus any modifiers that are added to the roll. The success or failure of that roll depends on the DC of the check."
+  },
+  {
+    "question": "Can the Level 1, Race Unknown Fearne, who needs to free her hands, make a strength check after being grabbed by both wrists to attempt to cast a spell?",
+    "answer": "The level 1, Race Unknown Fearne can make a strength check. ",
+    "rules": [
+      "Ability Checks > Ability Checks > Making an Ability Check"
+    ],
+    "rules_explanation": "The level 1, Race Unknown Fearne has her wrists grabbed. The rule for grabbing is that the character must succeed on a check to be released. If they can make the check is can potentially resolve the grab. The level 1, Race Unknown Fearne has an action that they want to make that requires hands, so the check to remove the grab is appropriate."
+  },
+  {
+    "question": "Can the barbarians hammer hit the door with a roll of 17?",
+    "answer": "The transcript indicates that an attack roll of 17 hits the door.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "Whether the 17 attack roll is sufficient depends on the AC of the door, which the DM determines. Since the transcript says “definitely hits the door” with a roll of 17, the 17 exceeds or meets the door's AC."
+  },
+  {
+    "question": "Is Travis's 12 roll on the lock sufficient to unlock it?",
+    "answer": "The player knows, with sleight of hand and thieves’ tools, knows this is not sufficient to pick the lock.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "Based on the DM’s description, the 12 on the roll plus any modifiers are less than the DC for picking the lock."
+  },
+  {
+    "question": "Can the Barbarian hit the door lock, which has been damaged, with a 17?",
+    "answer": "The player states that the roll on the lock isn't enough to unlock the door, based on the DM description of the lock and mechanism.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "17 plus any modifiers is less than the DC to pick the lock on the door"
+  },
+  {
+    "question": "A character's combined strength check is 22; is this enough to break the door?",
+    "answer": "Yes, this is sufficient to break the door",
+    "rules": [
+      "Ability Checks > Ability Checks > Contests"
+    ],
+    "rules_explanation": "The DM indicated by the statement “Great, yeah” that a strength check of 22 meets or exceeds whatever the required value was."
+  },
+  {
+    "question": "When the Level 1, Race Unknown Fearne makes deception check with disadvantage, what is the dice being rolled?",
+    "answer": "When the Level 1, Race Unknown Fearne makes a deception check with disadvantage, they roll 2 d20's and choose the lowest result.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Disadvantage requires rolling a second d20 and using the lower of the two rolls."
+  },
+  {
+    "question": "Ashton wants to use a strength check to saw through a metal door. He rolled a 19, and the DM said the door was loosened for him. Is the door broken?",
+    "answer": "No, a 19 is not enough to break the door; it is indicated to be loosened with the phrase from the DM \"She loosened it for you, but\" after he states that the strength check is a 19. This is due to an unstated DC.",
+    "rules": [
+      "Ability Checks > Ability Checks > Making an Ability Check"
+    ],
+    "rules_explanation": "A roll of 19 indicates the raw dice roll result. There may be modifiers added to this roll, or it may still fall short of the required value for success."
+  },
+  {
+    "question": "What is the DC of Level 1, Race Unknown Fearne's charm person spell?",
+    "answer": "The DC of Level 1, Race Unknown Fearne's charm person spell is 15.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The character states \"15\" when asked for the DC of the charm person spell."
+  },
+  {
+    "question": "Given that the bountyhunter is a mercenary, what check should be used to know what they are?",
+    "answer": "The history check reveals this information.",
+    "rules": [
+      "Ability Checks > Using Each Ability > Intelligence"
+    ],
+    "rules_explanation": "The history skill covers knowledge of historical events and people."
+  },
+  {
+    "question": "What is a half-orc/half-elf called?",
+    "answer": "A half-orc/half-elf is called an Uniya.",
+    "rules": [],
+    "rules_explanation": "This is a world specific term, but it is not based on any rules."
+  },
+  {
+    "question": "What is the cost to travel in the Core Spire cable car?",
+    "answer": "The cost to travel in the Core Spire cable car is one silver piece.",
+    "rules": [],
+    "rules_explanation": "The DM states “you will be taking a cable car back. So do mark off one silver each.”"
+  },
+  {
+    "question": "What does the level 2 stealth check with advantage roll from Travis result in?",
+    "answer": "The Level 2 sleight of hand check with advantage results in a result of 17.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "For a check with advantage, the higher of the two rolls is selected. As Travis rolls a 1 and a 16, the 16 is selected and combined with modifiers to result in a check total of 17. "
+  },
+  {
+    "question": "What type of check is used to pick a lock?",
+    "answer": "A sleight of hand check with proficiency is used to pick a lock.",
+    "rules": [
+      "Skills > Dexterity"
+    ],
+    "rules_explanation": "Sleight of Hand. Whenever you attempt an act of legerdemain or manual trickery...you make a Dexterity (Sleight of Hand) check. Thieves tools are usually part of this check, but a stat is needed for it."
+  },
+  {
+    "question": "What checks are used to attempt a team strength challenge?",
+    "answer": "A combined strength check is made.",
+    "rules": [
+      "Ability Checks > Ability Checks > Working Together",
+      "Ability Checks > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "The DM indicates that a combined check will be made. They are working together to acheive the same goal, to open the door."
+  },
+  {
+    "question": "Invisible Chetney is doing a stealth check with advantage. What dice are rolled?",
+    "answer": "Two d20's are rolled and the higher of the two results is selected for use in the total.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage requires rolling a second d20 and using the higher of the two rolls."
+  },
+  {
+    "question": "What are the effects of Pass Without Trace on a stealth check?",
+    "answer": "Pass Without A Trace adds 10 to the stealth check",
+    "rules": [],
+    "rules_explanation": "Pass Without A Trace spell adds 10 to Dexterity (Stealth) checks"
+  },
+  {
+    "question": "Pretty is an ogre. Can he be charmed by persons? I'm assuming medium but is he immune?",
+    "answer": "Ogres are not immune to being charmed, but Charm Person only works on humanoids.",
+    "rules": [
+      "Spell Descriptions > Charm Person"
+    ],
+    "rules_explanation": "Charm Person: You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it."
+  }
+]

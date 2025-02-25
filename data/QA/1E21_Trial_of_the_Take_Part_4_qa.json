@@ -1,0 +1,250 @@
+[
+  {
+    "question": "Can I continue slowly on my turn, if I'd like?",
+    "answer": "Yes, you can continue slowly on your turn, if you'd like. The rules permit you to decide how to use your movement during your turn.",
+    "rules": [
+      "Combat > Your Turn > Move"
+    ],
+    "rules_explanation": "This clarifies that the PC can choose how to use their movement, including moving slowly. The specific rule is that you can move a distance up to your speed on your turn."
+  },
+  {
+    "question": "The level 8 Dragonborn Sorcerer, using two sorcery points, would like to use Quicken Spell to cast Fireball and then use a bonus action and 1 sorcery point to empower the spell, rerolling 4 of the dice for that damage. Is this permissible?",
+    "answer": "Yes, this is permissible according to the rules as long as the Dragonborn Sorcerer has enough available Sorcery Points to use the two Metamagic options used.",
+    "rules": [
+      "Classes > Sorcerer > Metamagic > Quicken Spell",
+      "Classes > Sorcerer > Metamagic > Empowered Spell"
+    ],
+    "rules_explanation": "A Dragonborn Sorcerer can use sorcery points to Quicken Spell, changing the casting time to 1 bonus action, and also use Empowered Spell, using a bonus action to reroll a number of damage dice up to their charisma modifier, as both Metamagic options are available to them. You can use only one Metamagic option on a spell when you cast it, unless otherwise noted."
+  },
+  {
+    "question": "The Otyugh has a Cloak of Displacement. Does the attacker have disadvantage?",
+    "answer": "Yes, if the Otyugh has the Cloak of Displacement then creatures would have disadvantage on attack rolls against it.",
+    "rules": [
+      "Magic Items > Cloak of Displacement"
+    ],
+    "rules_explanation": "The Cloak of Displacement magical item description states that creatures have disadvantage on attack rolls against the wearer."
+  },
+  {
+    "question": "Can the attacker use an action to disengage from melee combat with both rat swarms.",
+    "answer": "Yes, the attacker can use an action to disengage. Doing so would mean that the creature's movement would not provoke an opportunity attack from any creature.",
+    "rules": [
+      "Combat > Actions in Combat > Disengage",
+      "Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "The rules for opportunity attacks state that you can avoid provoking an opportunity attack by taking the disengage action. It doesn't matter how many creatures the player is in melee range with, Disengage will cause none of them to be able to use an opportunity attack against them when they move."
+  },
+  {
+    "question": "Does Heighten Spell give a saving throw disadvantage?",
+    "answer": "No, the Heighten Spell metamagic option is not present in the SRD.",
+    "rules": [],
+    "rules_explanation": "There is no Heighten Spell metamagic option in the SRD."
+  },
+  {
+    "question": "Does Stoneskin halve damage when used on magical weapons?",
+    "answer": "No, the Stoneskin spell only provides resistance to nonmagical bludgeoning, piercing, and slashing damage.",
+    "rules": [],
+    "rules_explanation": "The Stoneskin spell grants resistance to nonmagical bludgeoning, piercing, and slashing damage."
+  },
+  {
+    "question": "If Keyleth used Blight on the tentacle of the Otyugh, is that side useless?",
+    "answer": "No, the SRD does not list any residual effect to taking damage from Blight.",
+    "rules": [],
+    "rules_explanation": "The spell description only covers the initial necrotic damage. There is no lasting effect listed, so the tentacle would not be rendered useless."
+  },
+  {
+    "question": "Is the casting time for Geas one minute?",
+    "answer": "Yes, the casting time for Geas is one minute.",
+    "rules": [],
+    "rules_explanation": "The spell description states the casting time is one minute."
+  },
+  {
+    "question": "If a ranged attack is made when a character is in melee range, is the roll made at disadvantage?",
+    "answer": "Yes, when you make a ranged attack while you are within 5 feet of any hostile creature, you have disadvantage on the attack roll.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "The rules state that you have disadvantage on a ranged attack if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated."
+  },
+  {
+    "question": "Can a Dwarf, using Stonecunning, make perception check with advantage.",
+    "answer": "No, Stonecunning only applies to Intelligence (History) checks related to the origin of stonework. It does not apply to perception checks.",
+    "rules": [
+      "Races > Dwarf > Dwarf Traits > Stonecunning"
+    ],
+    "rules_explanation": "The Stonecunning trait only gives proficiency and double proficiency bonus to History checks related to the origin of stonework. It does not grant advantage on perception checks."
+  },
+  {
+    "question": "The PC asks about using Uncanny Dodge, but they are moving back and the DM already said that they can use their reaction. Can they?",
+    "answer": "Yes, the PC can use Uncanny Dodge, so long as they are not incapacitated. The use of the reaction in that way will mean they cannot use it for something else.",
+    "rules": [],
+    "rules_explanation": "Uncanny Dodge does not require a trigger other than that the PC is hit by an attack. Because they have a reaction and are about to be hit, Uncanny Dodge is applicable here."
+  },
+  {
+    "question": "Does the cantrip True Strike grant disadvantage on attacks?",
+    "answer": "No, the True Strike cantrip does not grant disadvantage on attacks. The cantrip grants you advantage on your next attack roll against the target before the end of your next turn.",
+    "rules": [],
+    "rules_explanation": "The True Strike spell description states that you gain advantage on your next attack roll against the target before the end of your next turn."
+  },
+  {
+    "question": "Does someone who is charmed make death saving throws?",
+    "answer": "Yes, there is nothing in the Charmed condition that would prevent a PC from making death saving throws.",
+    "rules": [
+      "Appendix PH-A: Conditions > Charmed",
+      "Combat > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "Although Charmed makes them unable to attack the charmer and affects social interaction, it does not prevent death saving throws."
+  },
+  {
+    "question": "If casting Obelisk of Stone, does the saving throw apply if the target is not pinned?",
+    "answer": "No, the SRD does not include a spell or effect called Obelisk of Stone. This can be adjudicated by the GM",
+    "rules": [],
+    "rules_explanation": "There is no listing for Obelisk of Stone in the SRD document."
+  },
+  {
+    "question": "When a spell requires a saving throw to maintain concentration while falling, which modifier is added?",
+    "answer": "When a spell requires a saving throw to maintain concentration while falling, the modifier added is the relevant ability modifier for the saving throw as determined by the effect imposing the save",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The Concentration section in the SRD says to make a Constitution saving throw whenever you take damage while concentrating. The rules on Saving Throws say to add the appropriate ability modifier."
+  },
+  {
+    "question": "When using a maneuver from Battle Master, does the saving throw use Strength?",
+    "answer": "No, it uses Wisdom with DC 8 + your proficiency bonus + your Strength modifier.",
+    "rules": [],
+    "rules_explanation": "The Battle Master feature does not use Strength for saving throws. It uses Wisdom with DC 8 + your proficiency bonus + your Strength modifier."
+  },
+  {
+    "question": "Can the Bless spell target unconscious creatures?",
+    "answer": "Yes, if the creature is conscious. It applies to saving throws *or* attack rolls, not both. Also, there is no range specified for the Bless spell in the question.",
+    "rules": [],
+    "rules_explanation": "The Bless spell requires the target be a creature within range of the character. It does not specify that the creature needs to be conscious or willing.  Bless also only states that it is either for saving throws OR an attack roll."
+  },
+  {
+    "question": "After casting True Strike, can another concentration spell be cast?",
+    "answer": "No, the PC cannot maintain two concentration spells at the same time. When you cast a second spell requiring concentration, you lose concentration on the first spell.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The rules state you lose concentration on a spell if you cast another spell that requires concentration."
+  },
+  {
+    "question": "Does Stoneskin only work against non-magical attacks?",
+    "answer": "Yes, Stoneskin only works against non-magical attacks.",
+    "rules": [],
+    "rules_explanation": "As per the spell description, Stoneskin only provides resistance to nonmagical bludgeoning, piercing, and slashing damage."
+  },
+  {
+    "question": "If the Shield Guardian is slowed, can it use the amulet?",
+    "answer": "Yes. Since slowed only affects a creature's speed, it can still use actions.",
+    "rules": [],
+    "rules_explanation": "Slowed only halves a creature's speed, imposes a penalty to AC and Dexterity saving throws, and restricts a creature to one action or bonus action. It does not prevent actions from being taken, just reactions."
+  },
+  {
+    "question": "Can a character with Cloak of Elvenkind affect others with its stealth?",
+    "answer": "No, the Cloak of Elvenkind only provides stealth benefits to the wearer.",
+    "rules": [
+      "Magic Items > Cloak of Elvenkind"
+    ],
+    "rules_explanation": "The description of the cloak states, \"While you wear this cloak with its hood up ... you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you.\""
+  },
+  {
+    "question": "Does Bless apply to saving throws against fear?",
+    "answer": "Yes, Bless applies to any saving throw.",
+    "rules": [],
+    "rules_explanation": "The spell description indicates that the target can add a d4 to 'an attack roll or a saving throw'."
+  },
+  {
+    "question": "If you can attack three times in a round, can you use a maneuver on each attack?",
+    "answer": "Not according to the SRD. A maneuver is applied during the action.",
+    "rules": [],
+    "rules_explanation": "When you make an attack, you decide at the time if you are going to do it or not. Since you take the action first, you can only use one on the action."
+  },
+  {
+    "question": "Can you quicken a spell and then attack?",
+    "answer": "Yes, you can Quicken Spell and then take the Attack action, but only if you haven't used your bonus action for anything else. You can only take one bonus action per turn.",
+    "rules": [
+      "Classes > Sorcerer > Metamagic > Quicken Spell",
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The Quicken Spell metamagic option changes the casting time of a spell to a bonus action. The rules state that you can only take one bonus action per turn. It follows you could then use your Action to attack."
+  },
+  {
+    "question": "If a friendly ally is right next to the character, and has not yet taken a turn in combat, does that count for sneak attack damage? Can they have cover from each other?",
+    "answer": "Yes the enemy is within 5 feet of an ally of the rogue who is not incapacitated, the requirement for sneak attack damage is met. However, that character would not have any of the benefits that a cover provides.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The description states the need for an ally within 5 feet of the target, and that requirement is met. There is no condition for determining cover described in the stateblock for creatures. "
+  },
+  {
+    "question": "Can the Bless spell affect a character that is not conscious?",
+    "answer": "The spell does not specify the target be conscious, so the character may be the target regardless of their consciousness",
+    "rules": [],
+    "rules_explanation": "There is no reference that a creature needs to be concsious for the Bless spell to affect it."
+  },
+  {
+    "question": "Does the two round duration of a concentration spell start over when a new concentration spell is cast?",
+    "answer": "No. Stoneskin has a duration of one hour, and it does not end unless the caster casts another concentration spell. There is nothing in the rules about a two round duration to allow the caster to 'stack' concentration spells in this manner.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The concentration rules say that you can't concentrate on two spells at once, and the previous spell ends as soon as you cast a new one."
+  },
+  {
+    "question": "Are his daggers magical, so that Stoneskin doesn't affect them?",
+    "answer": "If his daggers are magical, then they would not be subject to the Stoneskin spell.",
+    "rules": [],
+    "rules_explanation": "The effects of Stoneskin apply to nonmagical sources of slashing damage, such as a nonmagical weapon. If his daggers are magical, then that slashing damage would not be halved."
+  },
+  {
+    "question": "With Channel Divinity: Turn Undead, what is the radius?",
+    "answer": "The radius for Turn Undead is 30 feet.",
+    "rules": [
+      "Classes > Cleric > Channel Divinity > Turn Undead"
+    ],
+    "rules_explanation": "The rules state that each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw."
+  },
+  {
+    "question": "Can the Bless spell effect you if you cast it on yourself?",
+    "answer": "Yes, if you cast Bless on yourself, it can affect your saving throws.",
+    "rules": [],
+    "rules_explanation": "The Bless spell has no such restriction; it can target 'up to three creatures of your choice within range'."
+  },
+  {
+    "question": "Does the caster need to see the people that they are casting fly on?",
+    "answer": "Yes, Fly must be cast upon a willing creature that you can see within range.",
+    "rules": [],
+    "rules_explanation": "The Fly spell has a range of Touch and must target a willing creature that you can see within range."
+  },
+  {
+    "question": "Does Uncanny Dodge allow you to roll backward?",
+    "answer": "No. Uncanny Dodge allows you to use your reaction to halve the damage you take from an attack.",
+    "rules": [],
+    "rules_explanation": "You can use your reaction to halve the attack's damage against you"
+  },
+  {
+    "question": "If the attack succeeds on the goading attack, then can you have the enemy come after you.",
+    "answer": "No, the target needs to make a wisdom saving throw and on a fail, it has to come after the attacker.",
+    "rules": [],
+    "rules_explanation": "After you hit a creature with a superiority die, that creature has to make a saving throw, and if they fail, then they are forced to come after the attacker. It only matters that the attack hits."
+  },
+  {
+    "question": "If you can Banishment target the ghosts that is actually possessing them?",
+    "answer": "There is no way of targeting the spirit within them. You would have to target them physically.",
+    "rules": [],
+    "rules_explanation": "The SRD specifies you can target the spirit within, just the individual."
+  },
+  {
+    "question": "When the obelisk of stone is used and it sends this spilling cluster of whatever was at the bottom of this, do you need to keep your footing?",
+    "answer": "The SRD does not include a spell or effect called Obelisk of Stone. This can be adjudicated by the GM",
+    "rules": [],
+    "rules_explanation": "There is no listing for Obelisk of Stone in the SRD document."
+  },
+  {
+    "question": "Since a player lost connection from their dice roll, can they re-roll it.",
+    "answer": "The SRD does not contain anything about re-rolling dice due to personal issues. The roll does not stand, as it did not happen.",
+    "rules": [],
+    "rules_explanation": "No rules were applied to the situation. I have used my judgement."
+  }
+]

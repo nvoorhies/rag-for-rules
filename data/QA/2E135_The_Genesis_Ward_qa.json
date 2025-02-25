@@ -1,0 +1,125 @@
+[
+  {
+    "question": "For the *Heroes' Feast* spell, does the level 1 level 4 Life cleric heal back up to those extra temporary hit points granted during the casting of the spell?",
+    "answer": "The level 1 level 4 Life cleric heals up to their full, maximum hit points, but does not regain the temporary hit points.",
+    "rules": [
+      "Spellcasting > Spell Slots",
+      "Class Features"
+    ],
+    "rules_explanation": "The rules do not allow healing beyond a character's maximum hit points; temporary hitpoints are also not the same as healing and should be tracked separately."
+  },
+  {
+    "question": "A 4th level Monk is attempting to find out something. With no assistance on the check, can Matt, as DM, permit another attempt?",
+    "answer": "The DM may permit a second backup check since there were no additional attempts or assistance.",
+    "rules": [],
+    "rules_explanation": "There is no rule in the SRD which directly answers this question. It is up to the DM's discretion how they want to manage play, this would be determined using \"the Dm to guide you\""
+  },
+  {
+    "question": "The level 4 cleric has the *Find the Path* spell. An object from the location you wish to find. Can the threshold crest object be from anywhere?",
+    "answer": "The object used as a material component must be from the specific location to be found using the *Find the Path* spell.",
+    "rules": [
+      "Spellcasting > Components"
+    ],
+    "rules_explanation": "The description of *Find the Path* states that \"you must have a clear and direct visual image of the destination that you seek, from first-hand experience or the use of magic.\" Thus the object used needs to be specifically from the end point of the *Find the Path* spell."
+  },
+  {
+    "question": "If a character wants to follow another character's lead and use the same handholds and footholds on a difficult surface, does the character still need to roll acrobatics or athletics?",
+    "answer": "If a character is following another's lead and using the exact same footholds and handholds, they still need to make an Acrobatics or Athletics check to avoid falling.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Successfully traversing a difficult surface depends on the character's skill, therefore even following another's lead, the character still has to make an ability check. There is no rule in the SRD which indicates this check can be avoided. You can take the help action which would confer advantage on the check, however."
+  },
+  {
+    "question": "A Thief with level has a question: When a door is not trapped and does not appear to be locked, can a level 5 rogue take ten on an athletics check to open it?",
+    "answer": "A Thief with proficiency in athletics may elect to take 10 on the athletics check, using the passive check rules and achieving a result of ten plus the bonus. The thief cannot choose to take 10 as an action, as this is not a passive check situation.",
+    "rules": [
+      "Using Ability Scores > Passive Checks"
+    ],
+    "rules_explanation": "The door being fairly weighty does not make this a passive check situation because the characters actively attempt to open the door. Passive check rules do not apply as an action, or part of an action, is being taken to achieve a result."
+  },
+  {
+    "question": "Can a cleric, druid, and monk that work in conjunction climb up a shattered surface without issue?",
+    "answer": "Yes, those characters can work in conjunction to get to the top without issue.",
+    "rules": [
+      "Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "The rules specify when two or more characters team up to attempt a task. The character who's leading the effort can make an ability check with advantage, reflecting the help provided by the other characters."
+  },
+  {
+    "question": "Can a level 9 character with expertise and proficiency in perception roll two die and take the highest value? Or should the total skill check be with both the proficiency and expertise bonuses?",
+    "answer": "The character should add both the proficiency and expertise bonuses to their check; they should not roll twice.",
+    "rules": [
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "This section covers proficiency bonuses and clearly states that your proficiency bonus can't be added to a single die roll or other number more than once. However, your proficiency bonus might be multiplied or divided (doubled or halved, for example) before you apply it."
+  },
+  {
+    "question": "Can a level 9 Cleric use the *mend* spell on a frayed rope with an iffy rope?",
+    "answer": "It is up to the DM to determine if the damage to the rope qualifies to be repaired using the *mend* spell. The *mend* spell description states This spell repairs a single break or tear in an object you touch",
+    "rules": [
+      "Spell Descriptions > Mend"
+    ],
+    "rules_explanation": "There is no explicit rule in the SRD that allows this action. It is up to the GM's interpretation if the damage counts as a break or tear"
+  },
+  {
+    "question": "When a character is in a free fall from a height of more than 20 feet, can they turn into a sparrow?",
+    "answer": "Yes, a character may choose to turn into a sparrow.",
+    "rules": [],
+    "rules_explanation": "There is no rule in the SRD which restricts the ability to use wild shape while falling"
+  },
+  {
+    "question": "A level 6 oath of devotion Paladin wears ornate plate armor. Can a 7th level wizard use Mary Poppins on Yasha?",
+    "answer": "If a creature or object can be targeted by a bonus action then Mary Poppins may be performed.",
+    "rules": [],
+    "rules_explanation": "I'm so sorry, this seems to be a player reference. It is up to the DM to determine if the game event may occur"
+  },
+  {
+    "question": "An intelligent construct has been repaired and identifies as a Key. Is there a ruleset available to understand the importance of the Key?",
+    "answer": "The item may be utilized to bypass locks and seals within certain chambers, however, the details are at the DM's descretion.",
+    "rules": [],
+    "rules_explanation": "The information is only limited in what the item may have been used for, the DM has final descretion of the actual value of the object"
+  },
+  {
+    "question": "Is it mechanically possible to be horny for a construct?",
+    "answer": "There is no mention of this in the rule set.",
+    "rules": [],
+    "rules_explanation": "There are no rules prohibiting this type of interaction."
+  },
+  {
+    "question": "If a ranged attack is made against a creature, can one creature use a reaction to target with the ranged attack another creature that is adjacent to them?",
+    "answer": "It is possible to use a reaction to become the target of a ranged attack.",
+    "rules": [
+      "Magic Items > Arrow-Catching Shield"
+    ],
+    "rules_explanation": "The Arrow-Catching Shield grants the ability, as a reaction, to become the target of a ranged weapon attack instead of another adjacent creature. Other similar magic item abilities may exist."
+  },
+  {
+    "question": "What is the range for a character to be at the target in order to receive the effects from it?",
+    "answer": "The range is listed as self, where by the spell extends from you.",
+    "rules": [
+      "Spellcasting > Range > Self"
+    ],
+    "rules_explanation": "The target of a spell must be within the spell's range. For a spell with a range of Self, the caster is the target."
+  },
+  {
+    "question": "Can a level 5 Paladin with Heavy armor still make attacks in a fight?",
+    "answer": "Yes, a paladin with heavy armor can still make attacks in a fight.",
+    "rules": [
+      "Paladin > Proficiencies"
+    ],
+    "rules_explanation": "Proficiency with heavy armor is a class feature of the paladin, so a paladin does not suffer any penalties to wearing heavy armor."
+  },
+  {
+    "question": "If a magical effect has a trigger and the trigger occurs, does the effect automatically occur?",
+    "answer": "Yes, if a trigger occurs, the effect activates.",
+    "rules": [],
+    "rules_explanation": "There is no rules listed for such a trigger, it can be used based on \"the Dm to guide you.\""
+  },
+  {
+    "question": "A level 9 warlock with pact magic is now within a mile range of their target, and also has amber. After spending several minutes, will they be able to cast the spell?",
+    "answer": "Yes, it appears possible. I see no rules to prevent the ability to cast the spell",
+    "rules": [],
+    "rules_explanation": "It is up to the DM to determine what the Warlock is trying to achieve and the value of the item in relation to what the user hopes to do."
+  }
+]

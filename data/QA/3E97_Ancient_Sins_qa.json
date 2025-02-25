@@ -1,0 +1,195 @@
+[
+  {
+    "question": "What dice are rolled for initiative rolls?",
+    "answer": "A d20 is rolled for initiative. The specific rules on initiative can be found under \"Combat > The Order of Combat > Initiative\" in the SRD.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The SRD states that at the beginning of every combat, participants roll a d20 for initiative to determine the turn order."
+  },
+  {
+    "question": "If a roll of 1 is made on a d20 for an attack roll, is the attack a critical failure?",
+    "answer": "If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target's AC. See \"Combat > Making an Attack > Attack Rolls > Rolling 1 or 20\" in the SRD.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "The SRD specifies that a roll of 1 on the d20 for an attack roll always results in a miss, overriding any modifiers or the target's Armor Class."
+  },
+  {
+    "question": "If a character has a Ring of Fire Resistance, do they apply that damage adjustment before or after taking acid damage from an attack?",
+    "answer": "The order for applying resistance and vulnerability after other modifiers is described under \"Combat > Damage and Healing > Damage Resistance and Vulnerability\".",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The description of how resistance and vulnerability should be applied."
+  },
+  {
+    "question": "What saving throw is called for by a \"Speed is Halved\" effect of the sort produced by an effect with \"a Con Saving Throw\"?",
+    "answer": "If a feature says \"they must succeed on a con saving throw, or speed is halved and they can't use reactions till their next turn\" then they must make a Constitution saving throw. This saving throw uses the \"Saving Throws\" section of the SRD.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The text of this effect specifically calls out making a constitution saving throw."
+  },
+  {
+    "question": "Does the Halfling trait Lucky mean all rolls of 1 can be re-rolled or just attack rolls, ability checks, and saving throws?.",
+    "answer": "The Halfling trait Lucky says \"When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.\", which makes this restriction clear. See \"Races > Halfling > Halfling Traits > Lucky\" in the SRD.",
+    "rules": [
+      "Races > Halfling > Halfling Traits > Lucky"
+    ],
+    "rules_explanation": "The text of the Lucky rules specifies what rolls the rule applies to."
+  },
+  {
+    "question": "If a player has an ability that lets them reroll attack rolls of one and they roll a one, do they have to use the new value? ",
+    "answer": "The rules state that you \"must use the new roll\". This text appears under  \"Races > Halfling > Halfling Traits > Lucky\", but the requirement to use the new roll is not unique to this trait. ",
+    "rules": [
+      "Races > Halfling > Halfling Traits > Lucky"
+    ],
+    "rules_explanation": "The SRD text states the new roll must be used, indicating there is no decision to be made after re-rolling."
+  },
+  {
+    "question": "Does a creature goad another creature to attack them if they make it have disadvantage on attack rolls against other creatures except for them?",
+    "answer": "Creatures can be goaded into attacking each other if an ability causes them to have disadvantage on anyone except for them, using the SRD rules for \"Combat > Making an Attack > Attack Rolls > Unseen Attackers and Targets\".",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "Rules governing disadvantage on attack rolls."
+  },
+  {
+    "question": "If a Strength saving throw is required after 33 points of bludgeoning damage from a hit, which stats and dice are required to calculate the DC?",
+    "answer": "The text for the \"Using Ability Scores > Saving Throws\" section states, \"The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a spell is determined by the caster's spellcasting ability and proficiency bonus.\" The math for this calculation is given in the same section.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "This section defines that DC is calculated as `Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier`"
+  },
+  {
+    "question": "If the PC is inside the mouth of a monster when another character casts a lightning bolt at the monster, does the PC take lightning damage?",
+    "answer": "Whether or not the PC inside the monster's mouth takes damage from lightning bolts cast on the outside of the monster is something left to the GM. These sorts of details are not explicitly governed by any specific SRD rule, as most spells create a continuous path for conduction, but the decision to allow for some conduction to occur (or not) would be within the rights of the GM to decide. See \"Spellcasting > Range > A Clear Path to the Target\".",
+    "rules": [
+      "Spellcasting > Range > A Clear Path to the Target"
+    ],
+    "rules_explanation": "From the text it can be inferred that the GM has to make a ruling based on the specifics of the circumstances."
+  },
+  {
+    "question": "When the Wild Magic table is used in a spell, is that spell considered to be a 3rd-level spell for the purposes of advantage?",
+    "answer": "The trigger to roll on the Wild Magic table occurs only when a 3rd-level or higher spell is cast; it is not dependent on the results of that roll. This is defined by the \"Sorcerer > Sorcerous Origin > Wild Magic > Wild Magic Surge\" rules in the SRD. The triggered effect is not the spell itself, but an additional effect created by the Wild Magic Surge mechanic",
+    "rules": [
+      "Sorcerer > Sorcerous Origin > Wild Magic > Wild Magic Surge"
+    ],
+    "rules_explanation": "The \"Wild Magic Surge\" text explicitly states that the effects of wild magic do not turn the triggered spell itself into a wild magic one."
+  },
+  {
+    "question": "What is a cocked dice and should it be re-rolled?.",
+    "answer": "If you can't tell what number it should have been, then it's cocked. You may use an alternative decision rule, such as \"Can you place a dice on it and it stays? Like a d6?\"",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Rules governing how the GM might decide if a reroll is required."
+  },
+  {
+    "question": "Can a character be both swallowed and grappled?.",
+    "answer": "In this specific instance a character is in the mouth holding it off so it is in the process of chewing him. He's not restrained, he's just grappled to him.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "Text governing grappling."
+  },
+  {
+    "question": "After casting Lightning Bolt and causing damage with it, can a character finish their turn?.",
+    "answer": "Yes. Casting and attacking does not stop a character from using movement or a bonus action, assuming they have those available. This appears in \"Combat > Your Turn\" of the SRD.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "The text says \"On your turn, you can move a distance up to your speed and take one action.\", the order does not matter."
+  },
+  {
+    "question": "Can Dorian finish his turn after Imogen steps in, and would that be okay?.",
+    "answer": "There is nothing explicitly stopping it from doing so. Some additional actions (like the fighter's action surge) are possible in the base rules. There do not appear to be rules preventing the GM allowing someone to complete their turn after someone else steps in.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "While there are rules governing the timing of reactions, there are none preventing the GM from altering the turn order, especially if there is an agreement among the players."
+  },
+  {
+    "question": "Does Bardic Inspiration work on attack rolls?.",
+    "answer": "Bardic Inspiration allows the bard to give a dice to another play that can add the number rolled to one ability check, attack roll, or saving throw it makes",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "The bard can inspire another character who can add the roll to one of the rolls on the list."
+  },
+  {
+    "question": "Does a creature who is being chewed in a mouth, and grappled, count as being swallowed?.",
+    "answer": "No. He's just in the mouth holding it off. He's not restrained, he's just grappled to him. Most creatures, it would be if it takes enough damage, then it'll vomit something up, but not in this particular instance.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "The SRD specifies that the swallowed condition only applies when something is swallowed."
+  },
+  {
+    "question": "Can you use the Control Flames spell to help with another fire?.",
+    "answer": "Yes, the Control Flames spell can be used to help put a fire out.",
+    "rules": [
+      " "
+    ],
+    "rules_explanation": "The SRD does not limit the applications of this effect other than the explicit rules."
+  },
+  {
+    "question": "If one character is assisting another on a strength check, does that character get advantage?.",
+    "answer": "The rules state, \"When a number of individuals are trying to accomplish something as a group, the GM might ask for a group ability check. In such a situation, the characters who are skilled at a particular task help cover those who aren't.\"",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "This does not grant advantage, only assistance."
+  },
+  {
+    "question": "What does it mean if a character has temporary hit points? Does that increase their max health?.",
+    "answer": "No. Temporary hit points are a buffer against damage, a pool of hit points that protect you from injury",
+    "rules": [
+      "Combat > Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "The SRD describes that they don't raise the PC's max health."
+  },
+  {
+    "question": "If the PCs are making a stealth check, does it help if Essek makes their own stealth check?.",
+    "answer": "To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "The SRD has the full description of what group checks are and how they're performed."
+  },
+  {
+    "question": "If something has half cover, how much of a bonus is that to their AC?.",
+    "answer": "A target with half cover has a +2 bonus to AC and Dexterity saving throws, according to the Combat > Cover section.",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "It's stated explicitly in the text what half cover provides."
+  },
+  {
+    "question": "Are the effects of being 120 feet away equal to disadvantage?.",
+    "answer": "Make a ranged spell attack against the target. On a hit, the target takes 4d6 lightning damage and 4d6",
+    "rules": [
+      " "
+    ],
+    "rules_explanation": "This was left blank. 120 feet as distance is not explained."
+  },
+  {
+    "question": "If the character can get 10 health back from a 4th level heal but only five can hear it, what happens?.",
+    "answer": "Only five creatures that are in range that can hear you benefit. See Bards > Class Features > Motivational Speech > Level 4",
+    "rules": [
+      "Bards > Class Features > Motivational Speech > Level 4"
+    ],
+    "rules_explanation": "The rules for this feature state the limited of 5 targets."
+  },
+  {
+    "question": "What happens if a short rest causes a player to lose temporary hit points and advantage on wisdom saving throws?.",
+    "answer": "Finishing a short or long rest may remove temporary hit points and advantage on saving throws, but that is up to the player to remember and not the GM.",
+    "rules": [
+      "Combat > Damage and Healing > Temporary Hit Points",
+      " "
+    ],
+    "rules_explanation": "There is no clear rule for this specific effect in the SRD."
+  }
+]

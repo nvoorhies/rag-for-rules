@@ -1,0 +1,87 @@
+[
+  {
+    "question": "What check is needed to determine how many individuals are on the platform with the Bright Queen?",
+    "answer": "A perception check is needed to determine how many individuals are on the platform with the Bright Queen.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested a perception check to assess information in the environment."
+  },
+  {
+    "question": "What is the result of an investigation check to determine if a building is abandoned?",
+    "answer": "The Dungeon Master will use the results of the Intelligence (Investigation) check to determine if any of the buildings appear to be abandoned.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM requested an investigation check to assess information in the environment."
+  },
+  {
+    "question": "What is the name of the action used to check for traps?",
+    "answer": "A 1st-level level character with proficiency in thieves tools uses a Dexterity check to check for traps.  The Dungeon Master will then compare this result to the trap's DC to determine success.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Equipment > Thieves' Tools"
+    ],
+    "rules_explanation": "A skill check with thieves tools to attempt to find a trap"
+  },
+  {
+    "question": "What kind of ability check is required to try and climb the ceiling?",
+    "answer": "An Athletics check is required to climb up on the ceiling. ",
+    "rules": [
+      "Using Ability Scores > Strength > Strength Checks"
+    ],
+    "rules_explanation": "The DM determined the appropriate skill check to determine if the character can do the thing being attempted."
+  },
+  {
+    "question": "Does casting a spell break Invisibility?",
+    "answer": "Yes, casting any spell breaks the effect of Invisibility.",
+    "rules": [
+      "Spellcasting > Duration > Concentration",
+      "Spells > Invisibility"
+    ],
+    "rules_explanation": "Rules state casting any spell requiring concentration breaks invisibility, no exception for attack spells"
+  },
+  {
+    "question": "To determine an invisible character is falling, is it required to make an acrobatics check or a dexterity saving throw?",
+    "answer": "A dexterity saving throw is used to see if a character successfully grabs something to stop from falling.",
+    "rules": [
+      "Using Ability Scores > Saving Throws",
+      "The Environment > Falling"
+    ],
+    "rules_explanation": "The DM determined a dexterity saving throw was the appropriate check to determine if the character avoids taking damage from a fall."
+  },
+  {
+    "question": "Does wild shape let you keep your intellectual scores or polymorph?",
+    "answer": "Wild shape let's you keep your intellectual scores, Polymorph does not.",
+    "rules": [
+      "Druid > Class Features > Wild Shape",
+      "Spells > Polymorph"
+    ],
+    "rules_explanation": "Different class features are described as having different effects on ability scores."
+  },
+  {
+    "question": "When a character falls is it necessary to make an acrobatics check or dexterity saving throw?",
+    "answer": "A dexterity saving throw is used to determine if a character lands on their feet after a fall.",
+    "rules": [
+      "The Environment > Falling",
+      "Using Ability Scores > Saving Throws > Dexterity"
+    ],
+    "rules_explanation": "The DM determined a dexterity saving throw was the appropriate check to determine if the character could land on their feet."
+  },
+  {
+    "question": "When using the 'locate object' spell, what does it mean when the spell finds purchase on nothing?",
+    "answer": "When using the 'locate object' spell, if the spell finds purchase on nothing the object you are looking for isn't within 1,000 feet.",
+    "rules": [
+      "Spells > Locate Object > Range"
+    ],
+    "rules_explanation": "The spell does not detect the object, meaning it is not within the spell's range."
+  },
+  {
+    "question": "How many watches are needed for everybody to get a full rest if each shift is three hours and there are seven people?",
+    "answer": "For everyone to get eight hours of sleep, there must be three shifts that are distributed over a ten hour period.",
+    "rules": [
+      "The Environment > Resting"
+    ],
+    "rules_explanation": "Long rests are gained over eight hours, with the specified conditions. More time may be required in order to distribute individual watch turns."
+  }
+]

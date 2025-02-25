@@ -1,0 +1,75 @@
+[
+  {
+    "question": "If a character with advantage for other reasons– I have a cloak of elvenkind which gives me advantage– does the advantage and disadvantage cancel out into one?",
+    "answer": "They do. Your foot being wounded, though, is a disadvantage right now. So that then goes back down to disadvantage.",
+    "rules": [
+      "Combat > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Having both advantage and disadvantage on a roll cancels them out to a normal roll. Because the character also had a wound causing disadvantage after canceling the advantage from the cloak of elvenkind, he had a roll with disadvantage."
+  },
+  {
+    "question": "Do I have the necessary tools to synthesize a potion out of the basilisk blood?",
+    "answer": "You can certainly try. It's a very ramshackle set-up. You do not have an alchemical set, but you can certainly attempt to, using a small fire, a couple of your general smelting tools you use for your metal work. You could attempt to distill it down, but that would be a combination of a tinkering roll on your point, followed up by somebody else's medicine roll to attempt to properly prepare it.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM is explaining that based on the character's current equipment, attempting to create the potion is possible, but will require two ability checks - tinkering and medicine."
+  },
+  {
+    "question": "Can I keep an ear out for anything approaching?",
+    "answer": "Very much so.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This is a ruling by the game master that the character can use their perception to keep watch."
+  },
+  {
+    "question": "Does she seem to be telling the truth?",
+    "answer": "Make an insight check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Wisdom"
+    ],
+    "rules_explanation": "This is a ruling by the game master that the character can use their insight to make an ability check to discern the truthfulness of the NPC."
+  },
+  {
+    "question": "What do I add that to?",
+    "answer": "It should be under your tracking ability under your ranger abilities there. In your spells, under you ranger abilities. I'll see if I find it before you.",
+    "rules": [
+      "Classes > Ranger > Ranger Skills"
+    ],
+    "rules_explanation": "The game master is directing the player where to find information about their tracking modifier on their character sheet, and eventually concludes that it is a survival check"
+  },
+  {
+    "question": "Well, I only have one up at a time.",
+    "answer": "Yeah, okay, good. You said stones, so.",
+    "rules": [
+      "Magic Items > Ioun Stone"
+    ],
+    "rules_explanation": "The game master confirms that only one ioun stone can be active at a time, correcting the player's assumption that they could all be active."
+  },
+  {
+    "question": "Okay, how much weight can you push through Telekinesis?",
+    "answer": "A thousand.",
+    "rules": [
+      "Spellcasting > Telekinesis"
+    ],
+    "rules_explanation": "The game master is confirming the weight limit that the character can move with the Telekinesis spell."
+  },
+  {
+    "question": "Do I get sneak attack on her?",
+    "answer": "You unfortunately do not get sneak attack on this. It knows where you are. You do not get the round before it– nobody else is adjacent to it because everyone else had to jump off the platform.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack",
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "GM explains that sneak attack will not trigger because the target is aware of the rogue and no other ally is adjacent."
+  },
+  {
+    "question": "Do I get advantage on this?",
+    "answer": "For this check, you do, I believe.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The game master rules that the character gets advantage because they have the target grappled."
+  }
+]

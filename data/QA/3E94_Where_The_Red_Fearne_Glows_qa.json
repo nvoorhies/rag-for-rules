@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Does the passive perception score halve while sleeping",
+    "answer": "Yes, passive perception is halved while sleeping",
+    "rules": [
+      "Part I > General Gameplay Transcript Excerpt > Passive Perception"
+    ],
+    "rules_explanation": "Passive Perception is a derived value based on Wisdom, so anything affecting awareness affects passive perception. A sleeping character is not very alert, thus their awareness is reduced and their passive perception is halved."
+  },
+  {
+    "question": "If a character has 'until the end of the turn', does that effect end immediately after that character's turn, or does it persist until the end of the next character's turn?",
+    "answer": "The effect ends at the end of the character's turn whose turn it is.",
+    "rules": [
+      "Part I > General Gameplay Transcript Excerpt > End of Turn Effects"
+    ],
+    "rules_explanation": "Rules say the effect only lasts until the end of 'the turn'. That is, the turn it began on. If it was meant to last until the beginning or end of the next turn, then the rule would be written to be active until the beginning or end of the next turn."
+  },
+  {
+    "question": "When a wild shaped druid runs out of wild shapes, can she then spend a short rest to regain an extra use of wild shape",
+    "answer": "Yes, a Druid can expend hit dice during a short rest to regain hit points and regain an expended Wild Shape.",
+    "rules": [
+      "Part I > General Gameplay Transcript Excerpt > Short Rests"
+    ],
+    "rules_explanation": "A short rest can be used to regain hit points by expending hit dice and to regain uses of certain features. Since Wild Shape recharges on a short or long rest, it can be regained during a short rest."
+  },
+  {
+    "question": "What are the effects of having four levels of exhaustion",
+    "answer": "A character with four levels of exhaustion has their hit point maximum halved and has disadvantage on ability checks.",
+    "rules": [
+      "Part I > General Gameplay Transcript Excerpt > Exhaustion"
+    ],
+    "rules_explanation": "A character suffers the effects of all exhaustion levels up to the level they are experiencing, which at four levels includes disadvantage on ability checks and halving hit point maximum."
+  },
+  {
+    "question": "Does it require a saving throw to de-activate the spark of Rau'shan, and what is the DC for that saving throw?",
+    "answer": "De-activating the Spark of Rau'shan has a DC of 18, which is a dexterity saving throw that is required for all creatures within 20 feet",
+    "rules": [
+      "Part I > General Gameplay Transcript Excerpt > Spark of Rau'shan"
+    ],
+    "rules_explanation": "The DC for the saving throw is 18, it is a Dexterity saving throw, and it has a 20 foot range"
+  }
+]

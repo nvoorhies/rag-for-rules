@@ -1,0 +1,76 @@
+[
+  {
+    "question": "What kind of check needs to be rolled to examine the nature of how long the blood has been there?",
+    "answer": "The DM asked for an investigation check to ascertain the nature of how long it has been there.",
+    "rules": [
+      "Ability Checks > Skills > Investigation"
+    ],
+    "rules_explanation": "An investigation check is used when looking for clues and making deductions based on those clues. The DM asked for an Investigation check to be performed in this instance."
+  },
+  {
+    "question": "What check must be rolled in order to persuade the NPC?",
+    "answer": "A persuasion check must be rolled to attempt to persuade the NPC.",
+    "rules": [
+      "Ability Checks > Skills > Persuasion"
+    ],
+    "rules_explanation": "The DM asked for a persuasion check to be performed in this instance."
+  },
+  {
+    "question": "The level 3 Goliath Barbarian with a +6 Strength modifier attempts to go into a rage as a bonus action. What are the benefits of this?",
+    "answer": "The barbarian gains the following benefits for 1 minute, but cannot cast spells or concentrate on them while raging if not wearing heavy armor:\n*   advantage on Strength checks and Strength saving throws\n*   a +2 bonus to the damage roll when making a melee weapon attack using Strength\n*   resistance to bludgeoning, piercing, and slashing damage",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "The text of the rage class ability states that in battle, a barbarian fights with primal ferocity and can enter a rage as a bonus action. It lists the benefits that the barbarian receives while raging.",
+    "level": 3,
+    "class": "barbarian",
+    "ability_modifiers": {
+      "Strength": 6
+    }
+  },
+  {
+    "question": "What is the result of rolling a natural 20 for a level 8 Champion Fighter with no other adjustments, and is using a greataxe to strike a wraith?",
+    "answer": "The wraith is hit and a critical hit is scored. Roll the weapon's damage dice two additional times to determine damage.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Combat > Making an Attack > Critical Hits",
+      "Fighter > Martial Archetypes > Champion > Improved Critical",
+      "Weapons"
+    ],
+    "rules_explanation": "A natural 20 on an attack roll always hits. The improved critical feature of the Champion fighter makes it such that their weapon attacks score a critical hit on a roll of 19 or 20, so the attack is a critical hit. The rules for making an attack state to roll the damage dice one additional time for a critical hit.  However, the barbarian has the Brutal Critical class feature, which states, \"Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.\" Thus, with a normal critical hit and the brutal critical class feature, the damage dice are rolled 2 additional times, and the damage is added together. If you score a critical hit with a melee weapon attack, you roll the weapon's damage dice twice and add them together and then add your relevant ability modifier."
+  },
+  {
+    "question": "The level 1 ranger Vex casts Hunter's Mark on the wraith as a bonus action - what does that do?",
+    "answer": "Vex designates the wraith as their quarry. Until the spell ends, they deal an extra 1d6 damage to the target whenever they hit it with a weapon attack, and they have advantage on any Wisdom (Perception) or Wisdom (Survival) check they make to find it. \nIf the target drops to 0 hit points before this spell ends, they can use a bonus action on a subsequent turn of theirs to mark a new creature.",
+    "rules": [
+      "Ranger Spells > Hunter's Mark"
+    ],
+    "rules_explanation": "The text of the hunter's mark spell describes the effects of the spell when cast."
+  },
+  {
+    "question": "The Level 1 Druid Dupont wants to try to backflip over Grog and stab the wraith with a dagger. What skill check is appropriate?",
+    "answer": "An acrobatics check is appropriate",
+    "rules": [
+      "Ability Checks > Skills > Dexterity"
+    ],
+    "rules_explanation": "The acrobatic skill is relevant when trying to remain steady on your feet, and doing a backflip over Grog the barbarian"
+  },
+  {
+    "question": "If Dupont a level one rogue strikes the wraith from surprise with two daggers that hit, what is rolled for damage and sneak attack?",
+    "answer": "The damage for each dagger plus 1d6 sneak attack damage is rolled. If you have advantage on the attack roll and the attack uses a finesse or a ranged weapon, you can deal an extra 1d6 damage to one creature you hit with an attack.",
+    "rules": [
+      "Rogue > Sneak Attack",
+      "Weapons"
+    ],
+    "rules_explanation": "The Level one rogue has the sneak attack ability. The rules for sneak attack state when you know how to strike subtly and exploit a foe's distraction: Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll, and the attack must use a finesse or a ranged weapon."
+  },
+  {
+    "question": "Kaulder an 800 year old immortal witch hunter casts Mystic Blast as an action and rolls a critical hit. How is damage determined?",
+    "answer": "Roll the damage dice twice and add them together along with any bonus",
+    "rules": [
+      "Combat > Making an Attack > Critical Hits",
+      "Weapons"
+    ],
+    "rules_explanation": "The rules for critical hits state that you roll the damage dice twice and then add them together, so damage would be determined by doubling the base dice roll plus any modifiers."
+  }
+]

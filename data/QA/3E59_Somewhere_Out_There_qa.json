@@ -1,0 +1,45 @@
+[
+  {
+    "question": "When Orym, level X fighter, makes a perception check, does the mountain-goating help help adjust the DC?",
+    "answer": "Yes, adjusting the DC is used when the characters climb the side of the cliff.",
+    "rules": [
+      "Combat > Actions in Combat > Help",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Having setup essentially a climbing belay with his actions, it is possible that the DM would lower the DC of future climbing checks. The specific value would be determined by the DM."
+  },
+  {
+    "question": "Laudna, level Y warlock, has the 'Spider Climb' spell; can she use it to help them climb the cliff side?",
+    "answer": "No, it is Athletics, not Acrobatics, and 'Earth Walk' helps the roll for Athletics with advantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Races > Dwarf > Dwarf Traits > Earth Walk"
+    ],
+    "rules_explanation": "The DM dictates what skills are used for a given activity. In this case, the task is climbing, for which the rule of thumb is to use Athletics. Duergar Dwarves' Earth Walk ability specifically grants advantage on Athletics checks, when moving through stone or earth. "
+  },
+  {
+    "question": "Does Mona gain benefit from the Pass Without a Trace spell?",
+    "answer": "Yes, Mona gets 10 passive perception because she's in range and hasn't been far away. When she goes up to the front, her stuff all combines and she has 32.",
+    "rules": [
+      "Spellcasting > Components > Spells",
+      "Using Ability Scores > Passive Checks"
+    ],
+    "rules_explanation": "Pass Without a Trace adds +10 to stealth checks of anyone within the aura as defined in the spell."
+  },
+  {
+    "question": "When an NPC shoots a Lightning Bolt, and the target succeeds on their saving throw and takes half damage, how many damage dice are rolled?",
+    "answer": "The NPC rolls 10d6 for Lightning Bolt.",
+    "rules": [
+      "Spellcasting > Casting a Spell at a Higher Level"
+    ],
+    "rules_explanation": "The base spell Lightning Bolt says to roll 8d6 lightning damage. Since the NPC cast the spell at 5th level, which is two levels higher than the base spell, you add 1d6 for each level higher"
+  },
+  {
+    "question": "With Pâté scouting, what is Liam's passive perception?",
+    "answer": "Passive perception is no longer a factor when Pâté returns and reports a camp. Liam now has 31 passive perception again.",
+    "rules": [
+      "Using Ability Scores > Passive Checks"
+    ],
+    "rules_explanation": "At the table, there is some question as to whether the group retains the benefit of Pass Without Trace during this scouting mission."
+  }
+]

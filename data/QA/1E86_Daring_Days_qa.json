@@ -1,0 +1,196 @@
+[
+  {
+    "question": "The Level 11 Goliath Barbarian with the Gloves of Missile Snaring asks 'Missile snaring!' Can the Gloves of Missile Snaring be used in that situation, based on their current stats and equipment?",
+    "answer": "Yes. They can use their reaction to reduce the damage from the missile attack by 1d10 + their dexterity modifier. If the damage is reduced to zero, they can catch the missile.",
+    "rules": [
+      "Class Features > Barbarian > Rage",
+      "Using Ability Scores > Ability Scores and Modifiers",
+      "Combat > Actions > Reactions",
+      "Equipment > Wondrous Items > Gloves of Missile Snaring"
+    ],
+    "rules_explanation": "The level 11 Goliath Barbarian is high enough to have a reaction and is targeted by a missile. Since they have the appropriate equipment for it, they would be able to use Gloves of Missile Snaring"
+  },
+  {
+    "question": "The Level 9 Wood Elf Ranger with the Longbow and 10 Dexterity asks, \" I want to keep an eye out on the bar because I still don't trust our environment.\" Can the level 9 Wood Elf Ranger use their race skills to help them look out at the environment?",
+    "answer": "The character makes a Wisdom (Perception) check to notice details in the bar.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Races > Elf > Elf Traits > Keen Senses"
+    ],
+    "rules_explanation": "The game master can ask any race to use a wisdom (perception) check to percieve anything in their environment and the wood elf race provides a racial trait known as keen senses which grants them a proficency bonus in the skill of perception."
+  },
+  {
+    "question": "The Level 11 Human Fighter asks: With just your hands? The Game Master responds OK, both you guys roll attack. Is the GM correct in calling for an attack role?",
+    "answer": "Yes, the GM is correct in calling for an attack roll. Even though they are using hands, they are attacking a character, and must make an attack roll.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The Human Fighter is attempting to use their bare hands as melee weapons and therefore must roll an attack roll."
+  },
+  {
+    "question": "The Level 11 Goliath Barbarian asks 'It's four, right?' The Game Master responds It's just a backhand. I would say it's one damage plus your strength modifier. Is the Game Master correct about this backhand damage roll?",
+    "answer": "The Game Master is correct. A backhand attack is an Improvised Weapon. An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). The rules also specify that when attacking with a weapon, you add your ability modifier to the damage roll.",
+    "rules": [
+      "Combat > Making an Attack > Improvised Weapons",
+      "Combat > Damage and Healing > Damage Rolls"
+    ],
+    "rules_explanation": "The Level 11 Goliath Barbarian is using an improvised weapon to attack and is therefore the correct damage should be 1d4 + Strength Modifier"
+  },
+  {
+    "question": "The Level 11 Goliath Barbarian has a strength modifier is 8 so the GMsays yeah, so it'd be nine. What type of damage would it be?",
+    "answer": "The damage type would be bludgeoning.",
+    "rules": [
+      "Combat > Making an Attack > Improvised Weapons"
+    ],
+    "rules_explanation": "The rules specify an improvised weapon deals a damage type appropriate to the object being used. As it is a bludgeoning attack a back hand would deal bludgeoning damage"
+  },
+  {
+    "question": "The Level 2 Sorcerer is going to use their bonus action to cast sanctuary on themselves. Is that correct?",
+    "answer": "The Level 2 Sorcerer cannot cast Sanctuary as a bonus action. The Sanctuary spell has a casting time of 1 action.",
+    "rules": [
+      "Spellcasting > Casting Time",
+      "Spell Descriptions > Sanctuary"
+    ],
+    "rules_explanation": "The spell description for Sanctuary specifies that the spell has a casting time of 1 action. Casting times cannot be changed except by the use of certain Metamagic options which a level 2 Sorcerer would not have access to."
+  },
+  {
+    "question": "The mechanical construct is going to attack the level 11 Goliath Barbarian after the Goliath attacks its master. Does the the construct get to react? The Game Master says yep.",
+    "answer": "The mechanical construct does get to react. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's.",
+    "rules": [
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "A reaction can be taken on another creatures turn when a trigger presents itself. In this situation, the mechanical construct could use a reaction to attack."
+  },
+  {
+    "question": "Level 11 Goliath Barbarian rolls a 17 and the level 5 High Elf wizard rolls a 12, and the Game Master says you get the sense that maybe not all the information is there. Is the GM correct in making those rolls and the Game Master says It's not a lie, but it's definitely– it speaks of a half truth. What kind of check did they make?",
+    "answer": "They would have made insight checks to discern the honesty of Taryon Darrington.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The characters are attempting to discern if the character Taryon Darrington is hiding some of the facts of his story. Therefore it would be a wisdom (insight) check. "
+  },
+  {
+    "question": "Does Keyleth's Sanctuary work on Fireball?",
+    "answer": "Sanctuary protects the warded creature from any attack or spell that targets it. The area of effect of Fireball does not target a creature with the Sanctuary spell so the spell will effect that creature normally.",
+    "rules": [
+      "Spell Descriptions > Sanctuary",
+      "Spell Descriptions > Fireball"
+    ],
+    "rules_explanation": "Area of effect spells aren't targetting the creature but instead a given area of effect within a range. If this range included an area that a creature was in, then the creature would take the effect of the spell, with no protection of sanctuary."
+  },
+  {
+    "question": "What is an AOE? The Game Master responds and now I am not sure if sanctuary protects against it. Tary says Make a wisdom saving throw. Does it protect against any effects even though its an AOE?",
+    "answer": "Any attack or spell that targets the warded creature with an attack is effected by Sanctuary. As long as it is an AOE it is not an effect against Sanctuary.",
+    "rules": [
+      "Spell Descriptions > Sanctuary"
+    ],
+    "rules_explanation": "Sanctuary states that a creature is protected against any kind of attack or spell that would target them specifically."
+  },
+  {
+    "question": "The Level 11 Goliath Barbarian asks the the Sorcerer what to do to redeem his dice and continue rolling high. Should he roll his new dice to redeem it for that shit?",
+    "answer": "Rolling different dice has no mechanical effect on the game.",
+    "rules": [],
+    "rules_explanation": "There are no rules about dice having to be redeemed."
+  },
+  {
+    "question": "The mechanical construct has been hit with 86 points of damage. How tall is the Goliath Barbarian? What happens?",
+    "answer": "The transcript doesn't give the height of the Goliath Barbarian. The Game Master states that that at his enlarged height, the Level 11 Goliath Barbarian is still probably a good foot and a half, two feet larger than the construct. The effect of the damage depends on the construct's hit points and immunities. If the construct is reduced to zero hit points, it is incapacitated.",
+    "rules": [],
+    "rules_explanation": "The Game Master makes clear that the mechanical construct is shorter than the enlarged Goliath Barbarian. The mechanical construct also did not have stated damage modifiers to take into account."
+  },
+  {
+    "question": "Can The 10th-level College of Lore Bard's Cutting Words ability be used to influence the damage rolls of prismatic spray on the party?",
+    "answer": "Yes, the 10th-level College of Lore Bard can use the Cutting Words ability to subtract from a damage roll, and can use their reaction to do so.",
+    "rules": [
+      "Class Features > Bard > Bard College > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "The Cutting Words ability states that when a creature that you can see within 60 feet of you makes a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage."
+  },
+  {
+    "question": "Does Grog automatically hits Doty?",
+    "answer": "To hit a target, you roll, and the result (the number on the die plus all applicable modifiers) must equal or exceed the target's Armor Class.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "An attack can only be called an automatic hit, unless a specific rule states so."
+  },
+  {
+    "question": "The Level 11 Goliath Barbarian has exalted knuckles and is asking about using Enlarge is it a four die damage roll?",
+    "answer": "The damage of the enlarge portion of the spell depends on the weapon used. If using an improvised weapon, the damage will be 1d4 for the improvised weapon + strength Modifier + 1d4 from the spell.",
+    "rules": [
+      "Spell Descriptions > Enlarge/Reduce",
+      "Combat > Making an Attack > Improvised Weapons"
+    ],
+    "rules_explanation": "The Goliath Barbarian has access to the spell enlarge but using improvised weapons is not calculated in that spells damage calculation."
+  },
+  {
+    "question": "The 1st-level ranger says that they will be getting a bonus from using hunters mark so she can track him. Is this correct?",
+    "answer": "The 1st level ranger is correct. She will have advantage on any Wisdom (Perception) or Wisdom (Survival) check she makes to find him.",
+    "rules": [
+      "Spell Descriptions > Hunter's Mark"
+    ],
+    "rules_explanation": "The rules state that after using Hunters Mark you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find the target of the mark."
+  },
+  {
+    "question": "If a player has a character that cast the Transport via Plants spell and comes out the other side, do they get to go back?",
+    "answer": "A spell, such as transport via plants, creates a tunnel through the heart of one or more plants and that the effect lasts until the start of your next turn.",
+    "rules": [
+      "Spell Descriptions > Transport via Plants"
+    ],
+    "rules_explanation": "Unless the plant allows you to travel immediately back, you will have to wait until at least the next round."
+  },
+  {
+    "question": "After using Transport via Plants, do you have to take the exhaustion affects? Do you have to do a saving throw?",
+    "answer": "The Transport via Plants spell has no effect on the exhaustion state, nor does it state you have to do a saving throw.",
+    "rules": [
+      "Spell Descriptions > Transport via Plants"
+    ],
+    "rules_explanation": "After using Transport via Plants, it is never implied that you would have to make a saving throw as a result."
+  },
+  {
+    "question": "If you are traveling on a tree that has Transport via Plants, is the time of day the same on both sides?",
+    "answer": "The spell Transport via Plants makes no specifications for changes to time, it simply travels a distance by creating a tunnel. If the destination of a journey is a different timezone then the time of day may be different.",
+    "rules": [
+      "Spell Descriptions > Transport via Plants"
+    ],
+    "rules_explanation": "There are no rules for it in the document for SRD."
+  },
+  {
+    "question": "When an 18 Strength Level 1 Paladin is getting dragged to the side and a character massages where they were hit what is the effect?",
+    "answer": "A massage does not have a specific effect in the rules.",
+    "rules": [],
+    "rules_explanation": "There are no rules for massages in the SRD."
+  },
+  {
+    "question": "Given an ally's success on a DC 18 insight check is it possible that that the other characters are making an insight check with disadvantage due to the enchanter?",
+    "answer": "There is no generic rule that granting advantage to one creature on an ability check imposes disadvantage to others attempting the same check.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "There is no specific rule that gives disadvantage on skill checks for some while granting advantage to others. The ruling of the Game Master would be more in line with the rules."
+  },
+  {
+    "question": "The character with a Bag of Holding is being asked if the item is real. The DM says Go ahead and make an investigation check. What would you add to the investigation check if they have proficiency?",
+    "answer": "The DM can ask them to make an investigation check with a bonus that uses the item to help. If the check fails, the character does not get the information they were seeking.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM is asking for an Investigation Check to understand the item being asked about. If they have the appropriate skills, it will increase the odds of determining the quality of the material in question."
+  },
+  {
+    "question": "The character states Minus the Prismatic Spray, that's 6,000 gold taken off, minus the wear and tear on my armor and equipment, that's another 5,000 taken off. Is this a real thing in the game rules?",
+    "answer": "The game rules discuss selling treasure and equipment for half their original value, but there are no rules regarding the amount of funds a hireling is required to pay based on the specifics of how the adventure went.",
+    "rules": [
+      "Equipment > Selling Treasure",
+      "Spell Descriptions > Prismatic Spray"
+    ],
+    "rules_explanation": "There is a rule about equipment, but not about specific costs being added."
+  },
+  {
+    "question": "The character states the calculation of taxes as 20% federal taxes, 9.5% local and city taxes. Is this a game rule for D&D?",
+    "answer": "There are no taxes mentioned in the rules.",
+    "rules": [],
+    "rules_explanation": "The rules do not specify any taxation. "
+  }
+]

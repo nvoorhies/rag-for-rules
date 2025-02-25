@@ -1,0 +1,138 @@
+[
+  {
+    "question": "Can a level 14 character with the ability Sorcerous Origin and a staff of power use the retributive strike power if they failed the saving throw?",
+    "answer": "The save on your Staff of Power, its retributive strike absolutely would've triggered, just probably destroying everybody in the room. ",
+    "rules": [
+      "Items > Staff of Power"
+    ],
+    "rules_explanation": "The Staff of Power can trigger a retributive strike."
+  },
+  {
+    "question": "Can a level 14 level, class, race, and abilities can use her reaction to use her Arcane Ward to give another player 33 points of damage reduction?",
+    "answer": "yes, you can throw your Arcade Ward over Quay.",
+    "rules": [
+      "Combat > Actions > Reactions"
+    ],
+    "rules_explanation": "The rules define reactions, and the character's abilities grant them a specific reaction to use"
+  },
+  {
+    "question": "Does a level X Paladin with a Holy Avenger get advantage on wisdom saves against magical effects for allies within 10 ft.?",
+    "answer": "You get a plus five from me and you get to roll with advantage against magical effects.",
+    "rules": [
+      "Classes > Paladin > Aura of Protection"
+    ],
+    "rules_explanation": "The plus to saves is derived from the Paladin's charisma modifier, while the advantage comes from the Holy Avenger."
+  },
+  {
+    "question": "If a magical effect, not a spell, calls for a dexterity save, can a level 14 character with a Holy Avenger within 10 ft use the Holy Avenger to get advantage on the roll?",
+    "answer": "No.",
+    "rules": [
+      "Classes > Paladin > Aura of Protection"
+    ],
+    "rules_explanation": "Holy avenger grants the advantage on saves against magical spells, this is a magical effect, so the advantage does not apply."
+  },
+  {
+    "question": "Can a character use Silvery Barbs to impose disadvantage on a dexterity saving throw for fire damage?",
+    "answer": "Yes.",
+    "rules": [
+      "Spell Descriptions > Silvery Barbs"
+    ],
+    "rules_explanation": "Silvery Barbs can be used to impose disadvantage on a saving throw."
+  },
+  {
+    "question": "When a player's character goes down, does that count as two death saves if you fail the strength save?",
+    "answer": "It will just be a single death save.",
+    "rules": [
+      "Combat > Death Saving Throws"
+    ],
+    "rules_explanation": "The rules on death saving throws indicate a roll is made at the start of the character's turn."
+  },
+  {
+    "question": "Can a player dead set their healing word for a later action?",
+    "answer": "Unfortunately, no.",
+    "rules": [
+      "Combat > Actions > Ready"
+    ],
+    "rules_explanation": "Characters can ready a spell, including healing word, but it must have a casting time of 1 action."
+  },
+  {
+    "question": "Does the banner can use Inspiring Leader ability to give themselves and the party temporary hitpoints.?",
+    "answer": "Has it been a long rest? Have you refreshed your ability from?",
+    "rules": [
+      "Feats > Inspiring Leader"
+    ],
+    "rules_explanation": "The Inspiring Leader feat is a specific ability that can only be used after a long rest, it has no special connection to the banner"
+  },
+  {
+    "question": "Does Nydas have advantage on all dexterity saving throws because Zerxus' peaceful presence floods into him?",
+    "answer": "because of that roll this with advantage.",
+    "rules": [
+      "Skills > Using Skills > Working Together"
+    ],
+    "rules_explanation": "Because of the roll (a persuasion check) with a result of 34, the GM is granting advantage on the saving throw."
+  },
+  {
+    "question": "Does a magic item that was destroyed in this manner remain usable?",
+    "answer": "when those things go, they don't just do damage to you, they are permanently gone, they are destroyed and disenchanted.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "When a magic item takes damage from a magical effect, it can be destroyed."
+  },
+  {
+    "question": "Does the Holy Avenger give advantage on death saves?",
+    "answer": "No. It doesn't because the Holy Avenger's what grants advantage and it just went kaput.",
+    "rules": [
+      "Items > Holy Avenger"
+    ],
+    "rules_explanation": "The advantage is a specific property of the Holy Avenger."
+  },
+  {
+    "question": "What happens if a caster attempts to counterspell and fails?",
+    "answer": "A reaction Silvery Barbs him.",
+    "rules": [
+      "Spellcasting > Casting A Spell > Reactions"
+    ],
+    "rules_explanation": "Another character can use their reaction to cast silvery barbs if the original character fails to counterspell"
+  },
+  {
+    "question": "When an area of effect is cast where one of the creatures has a mirror image, is it possible to select one of the mirror images to be the target of the spell?",
+    "answer": "Bypasses the Mirror Image.",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path To The Target"
+    ],
+    "rules_explanation": "Mirror image cannot protect a character from an area of effect"
+  },
+  {
+    "question": "If the 1st level spell is silvery barbs active and upcast and a character rolls well over the needed to save does Silvery barbs do anything to lower the roll?",
+    "answer": "You have to roll with disadvantage to hit",
+    "rules": [
+      "Spell Descriptions > Silvery Barbs"
+    ],
+    "rules_explanation": "silvery barbs gives disadvantage on the roll."
+  },
+  {
+    "question": "Can a character do more than one reaction in a round?",
+    "answer": "Nope, you have no reaction.",
+    "rules": [
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "A character can only take one reaction between their turns. "
+  },
+  {
+    "question": "If a player asks a question and then a character answers, can he use the answer to help fuel his arcana check?",
+    "answer": "Yeah, and you can have a +5, yeah. Emmanating from me is just like the...",
+    "rules": [
+      "Skills > Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The character with the skill can gain advantage on the roll through the help action."
+  },
+  {
+    "question": "What is the distance that a player can see to when they have used the Dimension Door spell.",
+    "answer": "And I know how far Counterspell works.",
+    "rules": [
+      "Spell Descriptions > Counterspell"
+    ],
+    "rules_explanation": "If the question asked was for the Range of the Counterspell, it is specified in the spell details."
+  }
+]

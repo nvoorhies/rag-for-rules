@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What type of creature is the character asking about?",
+    "answer": "Construct.",
+    "rules": [
+      "Glossary > Creature Types > Construct"
+    ],
+    "rules_explanation": "When asked what the creature type is, the Dungeon Master looks up construct in the glossary and provides the creature type."
+  },
+  {
+    "question": "If a lvl 8 Ranger (Hunter) with Wisdom score 15, what is the Dexterity saving throw DC for Tidal Wave spell he's trying to cast?",
+    "answer": "That spell isn't on that ranger's spell list.",
+    "rules": [
+      "Spellcasting > Spells Known and Prepared",
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "Ranger spells are on the ranger list, and that is a spell not known by the ranger class in the document"
+  },
+  {
+    "question": "If a lvl 8 Ranger (Hunter) is knocked prone but has Freedom of Movement active, does he still get to roll to roll through the coals to avoid it or some shit?",
+    "answer": "A creature is knocked prone whether or not they have Freedom of Movement.",
+    "rules": [
+      "Appendix PH-A > Conditions > Prone",
+      "Spell Descriptions > Freedom of Movement"
+    ],
+    "rules_explanation": "You are knocked prone regardless.  There is no mention of Prone conferring disadvantage on saving throws in the conditions appendix, or that Freedom of Movement prevents being knocked prone."
+  },
+  {
+    "question": "If the construct's attack is at 21, what is the adjusted attack with a Cutting Word that reduces the creature's roll by 3?",
+    "answer": "The roll is reduced to 18.",
+    "rules": [],
+    "rules_explanation": "Just subtracting 3"
+  },
+  {
+    "question": "Can a lvl 8 Ranger (Hunter) with base movement 30ft use their bonus action to Hide behind a pillar after moving?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions",
+      "Skills > Dexterity > Stealth"
+    ],
+    "rules_explanation": "The rules state you can take a hide action and you've established a Stealth skill and have a bonus action available"
+  },
+  {
+    "question": "If the attacker is within 5ft has a natural 20 on an attack roll with disadvantage, does prone cancel out the disadvantage?",
+    "answer": "No.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A prone condition grants advantage to melee attacks within 5 feet, but a ranged weapon attack while within 5 feet is made at disadvantage - therefore if both apply, they cancel out and the roll is made normally."
+  },
+  {
+    "question": "Can a lvl 8 Ranger (Hunter) who just downed a prone creature with a melee attack use their bonus action to move Hunter's Mark?",
+    "answer": "Yes.",
+    "rules": [
+      "Spell Descriptions > Hunter's Mark"
+    ],
+    "rules_explanation": "The Hunter's Mark spell description allows a bonus action to change the marked target to another creature when the initial creature drops to zero hit points."
+  },
+  {
+    "question": "When a lvl 8 Barbarian (Path of the Totem Warrior) hits the target with a trip attack, what is the DC for the target's saving throw?",
+    "answer": "The rules for trip attack are not detailed in the document.",
+    "rules": [],
+    "rules_explanation": "There are no official rules for a trip attack"
+  },
+  {
+    "question": "On a save, does a planetar shape changed by lvl 8 Druid (Circle of the Land) still has War Caster ability, and if so, how do you calculate its benefit?",
+    "answer": "No.",
+    "rules": [
+      "Spellcasting > What Is a Spell?",
+      "Spell Descriptions > Shapechange"
+    ],
+    "rules_explanation": "You do not retain class levels after using the Shapechange spell, and since War Caster is a feat from the spellcasting class, it would no longer apply to you in your new shape."
+  },
+  {
+    "question": "How long does Hunter's Mark last, and since that battle lapsed, am I then not allowed to slide it to this guy?",
+    "answer": "The duration is one hour, so you are not allowed to use it on the new target.",
+    "rules": [
+      "Spell Descriptions > Hunter's Mark"
+    ],
+    "rules_explanation": "The spell lasts an hour, and so it is not available to cast at the new target since that time has lapsed"
+  },
+  {
+    "question": "Can a lvl 8 Ranger (Hunter) with base movement 30ft use their bonus action to disengage and move away from one of the constructs?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Actions in Combat > Disengage"
+    ],
+    "rules_explanation": "The ranger can disengage and then use her action to move away."
+  },
+  {
+    "question": "What happens when a character goes into molten metal?",
+    "answer": "The rules do not specify, so the GM determines the outcome.",
+    "rules": [],
+    "rules_explanation": "Molten metal is not covered in the document"
+  },
+  {
+    "question": "What is Bigby's Hand's strength?",
+    "answer": "The roll to make the check with Bigby's Hand is d20 + 8",
+    "rules": [],
+    "rules_explanation": "The spell in the description is described in a way that allows its mechanics to be answered here"
+  },
+  {
+    "question": "If a lvl 8 Ranger (Hunter) attacks from the side of a planetar that is next to a target, does that count as flanking?",
+    "answer": "The rules for flanking are not specified in the document.",
+    "rules": [],
+    "rules_explanation": "There are no specific rules for flanking in the document"
+  },
+  {
+    "question": "Can a lvl 8 Ranger (Hunter) hold an action to attack something that may or may not come within its sight?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "The rules state that you can ready an action"
+  },
+  {
+    "question": "After Keyleth uses a 9th-level Shapechange can she take another action, or will she only be able to use the one action?",
+    "answer": "You cannot take any actions until your next turn.",
+    "rules": [
+      "Spell Descriptions > Shapechange"
+    ],
+    "rules_explanation": "You get up to the top of and then end you turn"
+  },
+  {
+    "question": "I'm noticing that this thing's only taking magic damage. The hammer it dropped is underneath the planetar right now, right?",
+    "answer": "You can take a moment to look at it next round, if you want to.",
+    "rules": [
+      "Combat > Your Turn > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "The player has one free interaction with an object in their turn but if that is not done, it requires an action"
+  },
+  {
+    "question": "Can a lvl 8 Ranger (Hunter) holding his turn take a shot if Keyleth moves and exposes new target in 1st part of round?",
+    "answer": "The rules do not specify. You can perform a quick thing. ",
+    "rules": [
+      "Combat > Your Turn > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "The readied action should be related to the event being watched for."
+  },
+  {
+    "question": "How quickly can prime trammels be made?",
+    "answer": "Each trammel is a 15 minute process",
+    "rules": [],
+    "rules_explanation": "The rules don't provide an official time and the Dungeon Master provides an answer"
+  },
+  {
+    "question": "If you’re blind, do you need to do a constitution save?",
+    "answer": "No. ",
+    "rules": [],
+    "rules_explanation": "The rules mention a check on being blinded, but it's not a Constitution Save - therefore the monster will make the attack at disadvantage."
+  },
+  {
+    "question": "What would happen if we put that machine out?",
+    "answer": "You are not close enough, and you don't have a far enough view. It's blocking the bulk of it.",
+    "rules": [],
+    "rules_explanation": "A lot of it is obscured from the smoke that is spilling out of it and you are too far and the light is too dark in here, from that distance."
+  },
+  {
+    "question": "If we can take 60 seconds, I back up into a corner and start casting Conjure Elemental and conjure another water elemental to be on our side, from the staff. ",
+    "answer": "It's been about ten minutes",
+    "rules": [
+      "Combat > Actions in Combat > Cast a Spell"
+    ],
+    "rules_explanation": "The duration of Conjure Elemental states the casting time is 1 minute. If it has been 10 minutes since the last action, it has had time to be completed."
+  },
+  {
+    "question": "How many condition effect can I have on him? Can I stack them up?",
+    "answer": "You can have as many as you put on him. If they are not concentration, you can stack as many as you want.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "You are unable to concentrate on multiple spells."
+  },
+  {
+    "question": "Since that last battle lapsed, am I then not allowed to slide it to this guy?",
+    "answer": "No, it's gone now. It has been more time the process of smelting and then re-smelting and figuring out and adjusting everything, it has taken over an hour, sorry.",
+    "rules": [
+      "Spell Descriptions > Hunter's Mark"
+    ],
+    "rules_explanation": "You can't apply Hunter's Mark if you have not attacked your target within one hour."
+  },
+  {
+    "question": "If he's going to do this, I was holding my attack. I'm taking my attack now right before this happens.",
+    "answer": "You are taking your attack now right before this happens.",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "The rules for readying an action state if the trigger occurs then the action can be taken immediately after the trigger has been fulfilled."
+  },
+  {
+    "question": "Is it possible to add the die roll on an inspiration dice, or cutting words to reduce a number on a saving throw?",
+    "answer": "There is no cutting words on a saving throw. Add it to their roll if I so am inclined. And I can do it every time? Every attack, yeah.",
+    "rules": [
+      "Spell Descriptions > Cutting Words",
+      "Spellcasting > Bardic Inspiration"
+    ],
+    "rules_explanation": "Cutting Words can reduce an attack or a saving throw or a roll, as long as they are still under the effects. Inspiration is an ability check. ."
+  },
+  {
+    "question": "If they had disadvantage on those, can I uncanny dodge?",
+    "answer": "Just uncanny dodge, so maybe I can cancel out his doubling. Yeah. Uncanny dodge halves the attack, so it'll be right where it's supposed to be.",
+    "rules": [],
+    "rules_explanation": "The person already used it. So that uncanny dodge, that'll be it. And if uncanny dodge is a reaction to an attack. Then it'll be an attack roll. So they can just get it once."
+  },
+  {
+    "question": "What is 53 divided by two?",
+    "answer": "It's 19 points of fire damage to you.",
+    "rules": [],
+    "rules_explanation": "The description of the construct's ability does half damage when the save succeeds. 38/2 = 19."
+  }
+]

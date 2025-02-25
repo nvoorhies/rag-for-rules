@@ -1,0 +1,16 @@
+[
+  {
+    "question": "Can the Level 12 Percival von, race human, class gunslinger, with friends, hex, and minor illusion feats use Friends to gently suggest that Grog Strongjaw the level X Barbarian Goliath enchant Vex'ahlia the Level X Ranger Half-Elf to hand everything over?",
+    "answer": "Friends can be used to make a suggestion.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components > Verbal (V)"
+    ],
+    "rules_explanation": "The Friends feat grants verbal components to a character, so the character can attempt to make the attempt to suggest something as a friend."
+  },
+  {
+    "question": "If the DM decides that the sheet of paper allows them, are a group of adventurers allowed to choose the sheet instead of having a fumble chart?",
+    "answer": "That is up to the DM's call.",
+    "rules": [],
+    "rules_explanation": "The text states in the In older editions, in some variations, if you were to roll a natural one, it wasn't just an auto miss, it was--\nYou had to roll on a chart to see what horrible thing happened to you for rolling so poorly. \nWhich is really fun. For my games, I consider the natural one more of a narrative failure. I like to explain the visual aspect of why you failed so much, and in some cases it's more of a shame than an actual-- more of a mechanical horrible blunder."
+  }
+]

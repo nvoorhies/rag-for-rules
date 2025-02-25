@@ -1,0 +1,333 @@
+[
+  {
+    "question": "What ability check is required to navigate through the Rifenmist Peninsula? What is the difficulty?",
+    "answer": "A survival check is required. There is no specified difficulty.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon master called for an ability check. The question relates to the kind of check required, and the difficulty of the check which is equal to the DC."
+  },
+  {
+    "question": "What kind of saving throw should a warlock make to resist something affecting them via a pendant?",
+    "answer": "A charisma saving throw.",
+    "rules": [
+      "Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The Dungeon master called for a saving throw. The question relates to the kind of check required."
+  },
+  {
+    "question": "What is an appropriate ability check to see what a squad knows about a topic from a given faction of people?",
+    "answer": "A history check.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon master called for an ability check. The question relates to the kind of check required."
+  },
+  {
+    "question": "The [fire genasi monk] wants to see something using The Gift. Should [they] roll insight or perception? Should [they] roll with disadvantage?",
+    "answer": "The monk should roll with disadvantage. Whether they should roll insight or perception is not something defined in the SRD and left up to the GM to decide",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "Adventuring > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The dungeon master called for an ability check and specified they should roll with disadvantage. The specific type of check is up to the GM to choose, as both skills apply"
+  },
+  {
+    "question": "What ability check should a character make to free climb down a 12 foot cliff?",
+    "answer": "Either an acrobatics or athletics check.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM asks the player to roll a check related to an action, and offers a choice of skill. The question asked which check is required."
+  },
+  {
+    "question": "What kind of check should be used to determine if a bag of food is snatched by a dog?",
+    "answer": "A dexterity check.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM calls for a dexterity check from a player and they want to know what kind of check that is."
+  },
+  {
+    "question": "When making an ability check, what happens when a player uses inspiration?",
+    "answer": "The player can pick the better roll.",
+    "rules": [
+      "Adventuring > Inspiration"
+    ],
+    "rules_explanation": "The mechanics for inspiration are asked about, which state that the player rolls the die twice and picks the result."
+  },
+  {
+    "question": "When using the druidcraft cantrip to create something, who gets to decide what it is? What can be created?",
+    "answer": "The player has to make a choice of harmless sensory effect. The cantrip does not have any restrictions on what can be created. ",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "Player is making a choice of what to do with a cantrip. Druidcraft creates a harmless sensory effect but has no restrictions on how this can be applied."
+  },
+  {
+    "question": "What ability check is appropriate to handle an animal? Does a player gain advantage on this check when grabbing an animal by the collar?",
+    "answer": "An animal handling check is appropriate. The player gains advantage on this check when grabbing an animal by the collar.",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "Adventuring > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The type of ability check to perform is asked about. Advantage on the animal handling check is granted by the GM."
+  },
+  {
+    "question": "What happens when you use a bag of holding that is also inside of a portable hole?",
+    "answer": "Both items are instantly destroyed and open a gate to the Astral Plane, affecting any creatures within 10 feet.",
+    "rules": [
+      "Equipment > Wondrous Items > Bag of Holding"
+    ],
+    "rules_explanation": "As stated in the bag of holding description."
+  },
+  {
+    "question": "If the dwarf uses the Gilmore dice and gets a natural 1, can [they] use inspiration to reroll and keep the 2nd roll regardless?",
+    "answer": "The dwarf can reroll and keep the second roll regardless.",
+    "rules": [
+      "Adventuring > Inspiration",
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The ruling for this is in Adventuring > Inspiration. It only says the player is given another chance to reroll a die. It says nothing about which die to keep, and it's implied you're free to choose either."
+  },
+  {
+    "question": "When using The Gift, should [the fire genasi monk] make a wisdom saving throw, or a wisdom check?",
+    "answer": "A wisdom saving throw.",
+    "rules": [
+      "Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The Dungeon Master calls for a specific type of check, and they're asking what kind it is (check vs. saving throw)."
+  },
+  {
+    "question": "When [the dwarf] is making a charisma saving throw and [the observer] is speaking with [them], are the other players able to hear this conversation?",
+    "answer": "No.",
+    "rules": [
+      "Spellcasting > Targets",
+      "Ability Scores > Charisma"
+    ],
+    "rules_explanation": "This is implied from the rules, but more left up to DM discretion and story telling. If it's not specified that others nearby can hear, then the other players are not aware of it."
+  },
+  {
+    "question": "For chase rules: on a player's turn, do they get 1 action and their movement speed?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "Asked to confirm information about how combat rules are being used."
+  },
+  {
+    "question": "For chase rules: on a player's turn, is there a bonus action or reactions available?",
+    "answer": "No.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn",
+      "Combat > Actions > Reactions"
+    ],
+    "rules_explanation": "Asked to confirm information about how combat rules are being used."
+  },
+  {
+    "question": "When a player throws an axe does that break invisibility?",
+    "answer": "Yes.",
+    "rules": [
+      "Spellcasting > Concentration",
+      "Combat > Actions"
+    ],
+    "rules_explanation": "Performing a hostile action such as attacking breaks invisibility."
+  },
+  {
+    "question": "During the chase, if the dire wolf takes one action to transform, can [they] move for that turn?",
+    "answer": "The dire wolf can move that turn.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn",
+      "Spellcasting"
+    ],
+    "rules_explanation": "The player turned into a dire wolf and took the action of transforming. Movement speed after an action."
+  },
+  {
+    "question": "In a chase, if a character is hit with a dart that will cause unconsciousness is the character is allowed to cast a spell to prevent that?",
+    "answer": "The character makes a constitution saving throw to attempt to avoid being rendered unconscious.",
+    "rules": [
+      "Combat > Reactions",
+      "Conditions > Unconscious"
+    ],
+    "rules_explanation": "The character must first make a saving throw before determining the effects of the action."
+  },
+  {
+    "question": "Does Invisibility break when I do a thing?",
+    "answer": "Yes.",
+    "rules": [
+      "Spellcasting > Concentration",
+      "Combat > Actions"
+    ],
+    "rules_explanation": "Performing a hostile action such as attacking breaks invisibility."
+  },
+  {
+    "question": "Does it take a full action to search around, or can I do it without an action?",
+    "answer": "The looking is the action.",
+    "rules": [
+      "Combat > Actions > Search",
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To actively search, it is the Search action. If passively searching it is an ability check only and not an action."
+  },
+  {
+    "question": "If a spell effect missed originally can it hit because [they] are point blank?",
+    "answer": "No. ",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "If an attack roll does not hit originally, it still misses even if that character is within 5 feet of the target (it can never be point blank). Close proximity to a target does not guarantee the hit. You have to make an appropriate roll equal to or greater than the target's armor class."
+  },
+  {
+    "question": "When [a fire genasi] is the target of an attack, what can [they] do with Deflect Missiles? Can they use Deflect Missile's?",
+    "answer": "No, [the fire genasi] cannot use Deflect Missiles, since it requires the use of a reaction and reactions are not available for chase rules.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn",
+      "Combat > Actions > Reactions"
+    ],
+    "rules_explanation": "It was said at the beginning that reactions do not apply for these chase sequences. Therefore, a fire genasi cannot perform the action from the feat that allows it to block a ranged attack, as it costs a reaction."
+  },
+  {
+    "question": "If the magic item user is wearing the Hat of Disguise, does it take an action to transform or is that built into the action",
+    "answer": "It takes an action to transform.",
+    "rules": [
+      "Equipment > Wondrous Items > Hat of Disguise"
+    ],
+    "rules_explanation": "This is covered in the description of the item itself."
+  },
+  {
+    "question": "What is Ruidus? What is the pronunciation?",
+    "answer": "Ruidus is the second moon. The correct pronunciation is fine.",
+    "rules": [
+      "Multiple Planes of Existence",
+      "The DM says so"
+    ],
+    "rules_explanation": "Not a rules question. Name of a game element the dungeon master created, not defined in SRD"
+  },
+  {
+    "question": "Does it cost an action to double movement?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Actions > Dash"
+    ],
+    "rules_explanation": "As covered in Combat > Actions > Dash"
+  },
+  {
+    "question": "Given that a character is falling unconscious, what type of saving throw does a warlock need to make to hold onto their concentration?",
+    "answer": "A Constitution saving throw.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "A constitution saving throw is always required in order to maintain spell concentration when damage is taken."
+  },
+  {
+    "question": "If a warlock was trying to make a dex save to maintain concentration on a spell, does it get affected by advantage and disadvantage during chase rules?",
+    "answer": "During a chase, a warlock is allowed to attempt a constitution saving throw. They do not apply with disadvantage during chase rules.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "This checks whether rules to maintain spell concentration are affected in certain environments. A player only has access to 1 action and movement."
+  },
+  {
+    "question": "When a DM says it needs to be a roll for it, does that imply there's a DC?",
+    "answer": "Yes.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question relates to how ability checks work; difficulty checks against a DC must be rolled for."
+  },
+  {
+    "question": "What do you mean it wasn't a multi attack that hit them before?",
+    "answer": "There's no multi attack here.",
+    "rules": [
+      "Combat > Actions > Attack"
+    ],
+    "rules_explanation": "What attack did it make? Response: there is only one attack."
+  },
+  {
+    "question": "What happens when the object of a polymorph spell becomes known?",
+    "answer": "The person can try to examine the object to try and determine if it is a polymorphed thing using a Intelligence (Investigation) check against [the caster's] spell save DC.",
+    "rules": [
+      "Spellcasting",
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question relates to the mechanical details of the polymorph spell"
+  },
+  {
+    "question": "While playing, what is the interaction between wildshape and an ability check?",
+    "answer": "Nothing. You get to add modifiers to the die.",
+    "rules": [
+      "Druid > Wildshape"
+    ],
+    "rules_explanation": "When wildshaping you replace your abilities with that of the beast, what does that entail for ability checks. The effect of ability checks is to add modifiers."
+  },
+  {
+    "question": "If a wisdom save occurs, how do I read it?",
+    "answer": "What did you roll?",
+    "rules": [
+      "Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "I'm not sure I should be including questions that are about how to read their own dice. But this does clearly imply a missing rule"
+  },
+  {
+    "question": "How far can someone move using only one action and no bonus actions?",
+    "answer": "Up to their movement speed.",
+    "rules": [
+      "Combat > Actions > Your Turn"
+    ],
+    "rules_explanation": "How much movement can you move at most? The answer is defined as a distance up to their speed."
+  },
+  {
+    "question": "During combat, does it take a bonus action or reaction to make an axe do something?",
+    "answer": "Neither",
+    "rules": [
+      "Combat > Actions > Your Turn"
+    ],
+    "rules_explanation": "Asked whether there's any way for a melee weapon to deal more damage using bonus or reaction. It implies they think there's something about weapons that would cause this, which is not the case"
+  },
+  {
+    "question": "If they cast fire with something what determines their save DC?",
+    "answer": "The save DC is specified in the description of the fire-causing ability",
+    "rules": [
+      "Spellcasting > Saving Throws",
+      "Chapter 9: Combat"
+    ],
+    "rules_explanation": "Asked how the DC is determined for saving throws."
+  },
+  {
+    "question": "What are all of the things that make it to where [The Gift] doesn't work?",
+    "answer": "Cannot seem to still your heart and your mind enough to look inward.",
+    "rules": [
+      "Ability Scores > Wisdom",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "What causes a character to be unable to use an ability or skill. [They] cannot calm their heart"
+  },
+  {
+    "question": "How does a player go about hiding?",
+    "answer": "Make a Dexterity (Stealth) check. Compare it to Wisdom (Perception) scores of the searching players.",
+    "rules": [
+      "Ability Scores > Dexterity > Hiding"
+    ],
+    "rules_explanation": "The player is asking how the mechanics of Hiding works."
+  },
+  {
+    "question": "Is there a way to learn what all this symboligy means?",
+    "answer": "To learn the thing or figure out something about it",
+    "rules": [
+      "Ability Scores > Intelligence > Investigation"
+    ],
+    "rules_explanation": "Player is asking about how they might obtain some knowledge. They were given advice on what to do. The answer relates to the check that they'll do."
+  },
+  {
+    "question": "Can [they] see his head as a dire wolf?",
+    "answer": "What can [they] see from his perspective?",
+    "rules": [
+      "Druid > Wild Shape",
+      "Player's Handbook > Druid",
+      "Player's Handbook > Classes > Wildshape",
+      "Bestiary > Creatures > Giant Eagle",
+      "Bestiary > Creatures > Swarm of Rats"
+    ],
+    "rules_explanation": "Player asking about interactions with the beast's vision."
+  }
+]

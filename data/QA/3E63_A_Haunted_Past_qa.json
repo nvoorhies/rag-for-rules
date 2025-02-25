@@ -1,0 +1,151 @@
+[
+  {
+    "question": "Does the two-story work ability increase level 1 Class Level, Race, plus Skills/Abilities Deni$e's movement by 3 feet when climbing?",
+    "answer": "No, Two-story work increases movement by three feet only when making a running jump and does not affect climbing",
+    "rules": [
+      "Part I >  > Movement and Position",
+      "Part I >  > Action, Bonus Action, and Reaction > The action",
+      "Part I >  > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The game rules define that climbing expends extra movement. This question relates to whether the Two-Story work ability affects that rule, which it does not "
+  },
+  {
+    "question": "As per bonus actions, does Level 1 Class Level, Race, plus Skills/Abilities Deni$e get another opportunity to Rage this turn?",
+    "answer": "No, a creature only gets one bonus action per turn.",
+    "rules": [
+      "Part I >  > Action, Bonus Action, and Reaction > Bonus Actions"
+    ],
+    "rules_explanation": "The game rules state a creature can take one bonus action per turn, and Deni$e used her bonus action to Dash last turn"
+  },
+  {
+    "question": "Can level 15 class/race (Prism) use little spell book to swap out types of damage as long as there is a spell prepared of the same level including cantrips?",
+    "answer": "Yes the spellbook allows swapping of damage types as long as there's a spell prepared of the same level, but the DM will make the final decision.  ",
+    "rules": [
+      "Part I >  > Spellcasting",
+      "Part I >  > Spells > What is a Spell? Spell Level"
+    ],
+    "rules_explanation": "The spell book's capability to change damage types could be considered to extend to cantrips due to being spells of level 0"
+  },
+  {
+    "question": "How are points spent as a bonus action used, and can a level 12 sorcerer cast another spell as part of the bonus action?",
+    "answer": "The points can be used as a bonus action to regain spell slots using the Quicken Spell, Metamagic feat. Otherwise, unless a spell is cast as a bonus action, no, you likely cannot cast another spell.",
+    "rules": [
+      "Part I >  > Font of Magic > Flexible Casting",
+      "Part I >  > Action, Bonus Action, and Reaction > Bonus Actions"
+    ],
+    "rules_explanation": "Without the Quicken Spell, Metamagic feat as a sorcerer, or unless you have a spell that takes a bonus action, you cannot use a bonus action to cast a second spell on your turn"
+  },
+  {
+    "question": "When level 15 class/race (Ashton) is moving away from creature within 5 feet with Gravity Well, does the target lose 10 feet of movement?",
+    "answer": "Yes, he is in Gravity Well range at this point, so the target loses 10 feet of movement.",
+    "rules": [],
+    "rules_explanation": "The Gravity Well feature reduces movement of creatures moving away from the rage ability"
+  },
+  {
+    "question": "If Level 15 Class Level, Race, plus Skills/Abilities Deni$e holds action to attack, can they do that at this point after the creature has stepped next to them on its turn?",
+    "answer": "Yes. If you held your action to attack, you can do that now.",
+    "rules": [
+      "Part I >  > Action in Combat > Ready"
+    ],
+    "rules_explanation": "The ready action enables one to perform a readied action after a trigger has been met. As long as Deni$e held the action to attack, they can do so now"
+  },
+  {
+    "question": "If Level 15 Class Level, Race, plus Skills/Abilities Deni$e uses action to move and does not take damage or attack can their rage from last turn end?",
+    "answer": "Unless you were attacking something or taking damage, you lose your rage.",
+    "rules": [
+      "Part I >  > Barbarian > Rage"
+    ],
+    "rules_explanation": "The rules for the Rage ability state what conditions are needed for it to end, which have not been met."
+  },
+  {
+    "question": "Is it possible for a level 9 class/race laudna to attach darkness to a glowing orb from a monster?",
+    "answer": "Oh, yeah.  So, yeah, the orb is currently-- Now, what you saw, the black glowing, becomes this 10-foot radius, globe of black, lightless space.",
+    "rules": [
+      "Part I >  > Spells > Darkness"
+    ],
+    "rules_explanation": "The spell description for Darkness specifies that it can be attached to an object."
+  },
+  {
+    "question": "When Level 15 Class Level, Race, plus Skills/Abilities Orym is pinned by the entity's attack can he use Bait and Switch to get in front of another creature instead of himself?",
+    "answer": "No.  It would be an action to try and pull yourself off of this.",
+    "rules": [],
+    "rules_explanation": "Matt states that pulling off the spear holding him to the wall would require an action, which he is unable to do with Bait and Switch. "
+  },
+  {
+    "question": "If a spell book is unable to see a creature due to shadow, can it be moved as a bonus action",
+    "answer": "Yes, spellbook can be moved 30 feet as a bonus action.",
+    "rules": [],
+    "rules_explanation": "Prism states the book can be moved 30ft as a bonus action."
+  },
+  {
+    "question": "Can points be spent to fill somebody else's spell slot as a 7th level class/race?",
+    "answer": "No. Only your own.",
+    "rules": [
+      "Part I >  > Sorcerer > Flexible Casting"
+    ],
+    "rules_explanation": "The flexible casting rules state that a sorcerer may only regain spell slots for themselves, not others."
+  },
+  {
+    "question": "What happens to a spell being cast when the caster moves out of range for an attack of opportunity.",
+    "answer": "Orbital Decay, will lose 10 feet of movement because I'm in Gravity Well right now.",
+    "rules": [],
+    "rules_explanation": "Although this question is related to a class/race specific ability, the DM notes it can take effect."
+  },
+  {
+    "question": "At the end of their turn, when the caster makes a wisdom saving throw, does the Rage still take effect?",
+    "answer": "Yeah, and I've still got my rage going. That's okay.",
+    "rules": [
+      "Part I >  > Barbarian > Rage",
+      "Part I >  > Saving Throw"
+    ],
+    "rules_explanation": "Taliesin states they still have rage active."
+  },
+  {
+    "question": "Can you move a creature with a hit as part of an attack.",
+    "answer": "Technically speaking, I can move it five feet with that hit, too, I believe.",
+    "rules": [
+      "Part I >  > Feats"
+    ],
+    "rules_explanation": "Taliesin states they can move the creature 5 feet as part of a hit. "
+  },
+  {
+    "question": "To attempt to climb up the side of a wall as part of movement, which attribute check do you need to make?",
+    "answer": "Make another athletics check to try and climb up the side here.",
+    "rules": [
+      "Part I >  > Using Ability Scores > Strength > Athletics"
+    ],
+    "rules_explanation": "The DM asked for an Athletics check to climb a wall."
+  },
+  {
+    "question": "At level 11 and after becoming unrestrained, can Orym still use Bait and Switch to move the person he just saved from the wall?",
+    "answer": "It would be an action to try and pull yourself off of this. ",
+    "rules": [
+      "Part I >  > Action, Bonus Action, and Reaction > Action"
+    ],
+    "rules_explanation": "As per Orym's question, the DM rules the situation in this case would require taking another action."
+  },
+  {
+    "question": "Can Level 13 Wizard Prism cast Invisibility on the elf without dropping their Greater Invisibility?",
+    "answer": "No, I can't do that. Fuck!",
+    "rules": [
+      "Part II > Spells"
+    ],
+    "rules_explanation": "The party asks whether casting another Invisibility spell would drop the original one, with the wizard confirming it would. "
+  },
+  {
+    "question": "Ashton is affected by the frightened condition and is trying to get a better position to attack, does the Frightened Condition still prevent him from moving to a space where he can directly attack the target, or would he need to move away?",
+    "answer": "The Frightening Gaze leaves you frightened of it and unable to move towards it.",
+    "rules": [
+      "Part II >  > Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The description of the Frightened condition states that the condition prevents moving closer to the source of fear. "
+  },
+  {
+    "question": "If casting counter spell as a 5th level spell, what do you have to roll against?",
+    "answer": "You have to roll higher than the-- It's 10 plus the spell's level, so it's 14.",
+    "rules": [
+      "Part I >  > Spells > Counterspell"
+    ],
+    "rules_explanation": "The counterspell spell dictates it’s level, and the +4 to add."
+  }
+]

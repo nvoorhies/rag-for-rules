@@ -1,0 +1,461 @@
+[
+  {
+    "question": "A character's level 4 race with Pass Without Trace and standing in tall grass with other characters uses Hide in Plain Sight. What type of check do they roll?",
+    "answer": "The character makes a Dexterity (Stealth) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "An ability check tests a character's innate talent and training in an effort to overcome a challenge. The Hide action requires a Dexterity (Stealth) check."
+  },
+  {
+    "question": "Does a character with 19 dexterity and 1st level cast Pass Without Trace add 10 to its Stealth roll as well as it's dexterity modifier?",
+    "answer": "Yes, the character adds both its Dexterity modifier (+4) and the bonus from Pass Without Trace (+10) to the roll.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers",
+      "Spell Descriptions > Pass Without Trace"
+    ],
+    "rules_explanation": "The Stealth roll is a Dexterity Check so the Dexterity Modifier is added. The Pass Without Trace spell adds an additional 10 to the roll"
+  },
+  {
+    "question": "A Circle of the Moon 8th-level druid polymorphed into a bird, the target of a ranged weapon attack and is knocked from the roof. Can they transform back into their humanoid form as they fall, what check is needed to maintain concentration?",
+    "answer": "The druid can attempt a Constitution saving throw to maintain concentration.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "Taking damage while concentrating on a spell requires the spellcaster to make a Constitution saving throw to maintain concentration."
+  },
+  {
+    "question": "A level 10 barbarian uses a bonus action to rage and then makes two attacks with their action. Then he is attacked by the target, and that target has an action surge. How many attacks does the target get?",
+    "answer": "The target gets four attacks.",
+    "rules": [
+      "Combat > Actions > Action Surge"
+    ],
+    "rules_explanation": "The action surge rule grants one additional action."
+  },
+  {
+    "question": "A level 10 barbarian is next to a target, and wants to bull rush them back towards a pit. What is the check for this action?",
+    "answer": "The barbarian makes a Strength (Athletics) check contested by the target's Athletics or Acrobatics check (target's choice).",
+    "rules": [
+      "Combat > Actions > Making an Attack > Shoving a Creature"
+    ],
+    "rules_explanation": "Shoving a creature uses the Attack action to make a Strength (Athletics) check contested by the target's Athletics or Acrobatics check."
+  },
+  {
+    "question": "Can you hide as a bonus action after holding your action to attack?",
+    "answer": "No, it is not generally possible to use a bonus action on your turn when you have used your action to hold your action.",
+    "rules": [
+      "Combat > Actions > Your Turn > Bonus Actions",
+      "Combat > Actions > Ready"
+    ],
+    "rules_explanation": "A bonus action can be taken on your turn, and if you use your action to Ready, you are not taking the Attack action to get a bonus action attack after it."
+  },
+  {
+    "question": "Can a paladin cast Sanctuary as a reaction?",
+    "answer": "No, Sanctuary has a casting time of 1 bonus action, so it cannot be cast as a reaction",
+    "rules": [
+      "Combat > Actions > Reactions",
+      "Spell Descriptions > Sanctuary"
+    ],
+    "rules_explanation": "Sanctuary has a casting time of one bonus action."
+  },
+  {
+    "question": "A raging level 10 barbarian with advantage on strength checks attempts to grapple a creature, and rolls a natural 1. What is the athletics check to maintain the grapple if the raging barbarian's stat is 18?",
+    "answer": "The athletics check is 18",
+    "rules": [
+      "Barbarian > Class Features > Indomitable Might"
+    ],
+    "rules_explanation": "The barbarian is level 10, so uses indomitable might, which lets them use their strength score in place of a strength check if the roll was less than their strength score."
+  },
+  {
+    "question": "A level 4 ranger casts hail of thorns at level 3. If the main target is hit with a ranged weapon attack, do other creatures within 5 feet of that target take damage, and what check do they need to make?",
+    "answer": "Yes, other creatures within 5 feet of the target must make a Dexterity saving throw. The spell does not specify which creatures take damage, so it applies to all creatures in the area.",
+    "rules": [
+      "Spell Descriptions > Hail of Thorns"
+    ],
+    "rules_explanation": "The Hail of Thorns spells states 'The next time you hit a creature with a ranged weapon attack before this spell ends, that creature takes extra piercing damage from the thorns. In addition, after the attack, each creature within 5 feet of the target must make a Dexterity saving throw.' The description of the spell does not limit the creatures other than the initial target by any quality, such as 'hostile'."
+  },
+  {
+    "question": "A character uses Seeming to disguise themself as a bad of orcs. What check is required to determine how convincing they are?",
+    "answer": "A Performance check is required to see how convincingly a character portrays themselves as orcs",
+    "rules": [
+      "Spell Descriptions > Seeming"
+    ],
+    "rules_explanation": "The seeming spell makes a performance check in showing and guiding them."
+  },
+  {
+    "question": "When the druid Keyleth is polymorphed into a raven and is targeted by a claw attack, does she use the saving throws of the raven or of herself?",
+    "answer": "The druid uses the saving throws that the polymorphed creature is proficient with",
+    "rules": [
+      "Spellcasting > Wildshape > Transforming"
+    ],
+    "rules_explanation": "As the form of a raven the Keyleth's old statistics, except Alignment and Intelligence, Wisdom and Charisma scores. Therefore she has the saving throw statistics of the raven. She also adds her bonus on Concentration saves."
+  },
+  {
+    "question": "A wizard of level X takes a short rest to use Arcane Recovery. What restriction is there on the levels of spell slots that can be recovered.",
+    "answer": "The spell slots can have a combined level that is equal to or less than half the wizard's level (rounded up), and none of the slots can be 6th level or higher.",
+    "rules": [
+      "Wizard > Class Features > Arcane Recovery"
+    ],
+    "rules_explanation": "This details the limits on spell slots recovered by Arcane Recovery"
+  },
+  {
+    "question": "A giant eagle is hit by a Wing Shot Sharpshooter shot from a level X Percy. Does the shot have advantage or disadvantage?",
+    "answer": "The attack has disadvantage because Percy had to quickly adapt to the eagle plummeting.",
+    "rules": [
+      "Combat > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The GM determined that disadvantage applies to the attack because the target went from flying smoothly to plummeting."
+  },
+  {
+    "question": "What is the result when a target is knocked prone from a shove shot that also has the sharpshooter feat and does not have advantage or disadvantage?",
+    "answer": "If the attack hits, it pushes the target, but does not automatically knock the target prone.",
+    "rules": [
+      "Weapon > Properties > Heavy",
+      "Combat > Actions > Making an Attack > Shoving a Creature"
+    ],
+    "rules_explanation": "Shoving a creature lets you push it or knock it prone, but not both, so it is the character's choice."
+  },
+  {
+    "question": "A character has Bull Strength, how does that impact them in a bullrush check?",
+    "answer": "The advantage from Bull Strength will apply to the Strength (Athletics) check to try and shove the opponent",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Contests"
+    ],
+    "rules_explanation": "An athletics check is a strength check, and the bull strength ability gives advantage on Strength checks."
+  },
+  {
+    "question": "A character has a Bardic Inspiration die. What actions can the Bardic inspiration die impact?",
+    "answer": "The creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes.",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "This describes what the Bardic Inspiration die can be used to affect."
+  },
+  {
+    "question": "Is there an explicit bonus for taking out unarmed attacks in the rules?",
+    "answer": "No. An unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier, and you are proficient with unarmed strikes.",
+    "rules": [
+      "Combat > Actions > Making an Attack > Melee Attacks"
+    ],
+    "rules_explanation": "The description of melee attacks and unarmed strikes does not include such a bonus."
+  },
+  {
+    "question": "If an ability gives a status effect based on a saving throw, and a player asks to make a perception check, which roll do you use?",
+    "answer": "The ability requires the creature to make the specified saving throw, not a Perception check.",
+    "rules": [
+      "Using Ability Scores > Saving Throws",
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "The ability's description states that the target makes a saving throw, not a Perception check."
+  },
+  {
+    "question": "What are the bonuses for the aid spell at different spell levels?",
+    "answer": "For every spell slot above 2nd level, the aid spell increases the target's hit point maximum by 5",
+    "rules": [
+      "Spell Descriptions > Aid"
+    ],
+    "rules_explanation": "The extra hit points from the aid spell is increased for each spell level above 2nd."
+  },
+  {
+    "question": "How long does the Aid spell last?",
+    "answer": "The Aid spell lasts for 8 hours.",
+    "rules": [
+      "Spell Descriptions > Aid"
+    ],
+    "rules_explanation": "This is given explicitly in the duration entry for the Aid spell."
+  },
+  {
+    "question": "Does War God's Blessing require concentration?",
+    "answer": "No, War God's Blessing does not require concentration.",
+    "rules": [],
+    "rules_explanation": "No entry in the effect description describes it."
+  },
+  {
+    "question": "How does a surprise attack interact with hiding?",
+    "answer": "If you are hidden during a surprise round, you have advantage on attack rolls against the surprised target.",
+    "rules": [
+      "Combat > Surprise",
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "Being hidden applies the unseen attackers and targets rule. The target of the attack will be surprised and unable to see you, therefore you have advantage."
+  },
+  {
+    "question": "How long does inspiration last?",
+    "answer": "You either have inspiration or you don't—you can't stockpile multiple \"inspirations\" for later use.",
+    "rules": [
+      "Using Ability Scores > Inspiration"
+    ],
+    "rules_explanation": "This describes what the Bardic Inspiration die can be used to affect."
+  },
+  {
+    "question": "Can the Aid spell be cast multiple times on the same person?",
+    "answer": "The Aid spell can be cast multiple times on the same person.",
+    "rules": [
+      "Spellcasting > Combining Magical Effects"
+    ],
+    "rules_explanation": "There are no rules forbidding casting the same spell on a target; however, the HP bonuses of the spell would not stack and the most potent effect would apply."
+  },
+  {
+    "question": "Can a character gift inspiration to another?",
+    "answer": "Yes. If you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.",
+    "rules": [
+      "Using Ability Scores > Inspiration"
+    ],
+    "rules_explanation": "This describes what the Bardic Inspiration die can be used to affect."
+  },
+  {
+    "question": "How does an object move while grappled?",
+    "answer": "There are no specific rules about moving grappled objects, so the GM must determine how an object can move while grappled.",
+    "rules": [],
+    "rules_explanation": "There are no rules for this."
+  },
+  {
+    "question": "Does the Shillelagh cantrip require concentration?",
+    "answer": "No, Shillelagh does not require concentration",
+    "rules": [
+      "Spell Descriptions > Shillelagh"
+    ],
+    "rules_explanation": "No entry in the effect description describes it."
+  },
+  {
+    "question": "Does casting seeming require concentration?",
+    "answer": "No, the Seeming spell does not require concentration.",
+    "rules": [
+      "Spell Descriptions > Seeming"
+    ],
+    "rules_explanation": "This is given explicitly in the duration entry for the Seeming spell."
+  },
+  {
+    "question": "After the Seeming spell is cast, how does a creature revert to their normal form?",
+    "answer": "A target receives the new illusory appearance for the full duration.",
+    "rules": [
+      "Spell Descriptions > Seeming"
+    ],
+    "rules_explanation": "The spell lasts for the duration, unless you use your action to dismiss it sooner, or the targets make a Charisma save to resist the effects. "
+  },
+  {
+    "question": "If a held, concentration action is broken, can a bonus action be performed?",
+    "answer": "Yes. The Ready action uses your action on your turn, but breaking concentration can happen outside of your turn, so it doesn't impact your bonus action.",
+    "rules": [
+      "Combat > Actions > Ready",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "Breaking concentration is separate from readying an action."
+  },
+  {
+    "question": "Can you change a cantrip once you learn it?",
+    "answer": "No, characters don't have the ability to change cantrips once they have learned them",
+    "rules": [
+      "Bard > Spellcasting > Cantrips"
+    ],
+    "rules_explanation": "Cantrips are fixed in the caster's mind and can not be swapped for other spells."
+  },
+  {
+    "question": "A level X wizard is going to make several acrobatics checks. Can they use a broom to move between the rooftops?",
+    "answer": "This is not acrobatics, this is more of a jump. Acrobatics is for maintaining balance, but traveling the city is more of a jump check. However, the wizard can choose to use the broom to travel between rooftops",
+    "rules": [
+      "Using Ability Scores > Skills > Dexterity > Acrobatics"
+    ],
+    "rules_explanation": "It's the GMs decision on which ability check applies, but this not the use case for acrobatics. The GM has the option of providing an acrobatics check or using the broom."
+  },
+  {
+    "question": "Does reckless attack have advantage on all melee weapon attack rolls or only strength based melee weapon attacks",
+    "answer": "Reckless Attack grants advantage on melee weapon attack rolls using Strength.",
+    "rules": [
+      "Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "Reckless Attack specifically states that you gain advantage on melee weapon attack rolls using Strength"
+  },
+  {
+    "question": "If you have advantage on a roll, do you get inspiration back?",
+    "answer": "There is no explicit way of getting inspiration back for a roll, so no inspiration would be given back in this case.",
+    "rules": [
+      "Using Ability Scores > Inspiration"
+    ],
+    "rules_explanation": "The rules do not specify a way to get inspiration back from rolls where you have advantage."
+  },
+  {
+    "question": "What is the area of effect and the saving throw for Intimidating Presence?",
+    "answer": "The area of effect is within 30 feet, and the saving throw is a Wisdom saving throw. with the DC equal to 8 + your proficiency bonus + your Charisma modifier",
+    "rules": [
+      "Barbarian > Path of the Berserker > Intimidating Presence"
+    ],
+    "rules_explanation": "This information is given directly in the ability description"
+  },
+  {
+    "question": "Can Keyleth the druid harvest the body of someone who was killed, and does this count as a kill for grit point purposes?",
+    "answer": "Whether the downed person is part of the Ashari clan is an Intelligence (Investigation) check. The player gets a grit point back.",
+    "rules": [
+      "Using Ability Scores > Skills > Intelligence > Investigation",
+      "Fighter > Martial Archetypes > Gunslinger"
+    ],
+    "rules_explanation": "Harvesting and if the person was of the Ashari would be determined by the investigation check, but yes, Keyleth can get a Grit point back."
+  },
+  {
+    "question": "What happens if you are wearing Armor of Vulnerability and have resistance to bludgeoning, piercing, or slashing and are attacked by one of those types of damage?",
+    "answer": "The armor's curse will give you vulnerability to two of those damage types, but you will still have resistance to one, so reduce the damage by half, and then double the remaining damage.",
+    "rules": [
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The armor gives resistance to one, and vulnerability to two of bludgeoning, piercing, or slashing. First resistance is applied halving the damage, and then vulnerability doubles the remaining amount."
+  },
+  {
+    "question": "What happens to a held action if circumstances mean it cannot be taken?",
+    "answer": "The action is wasted.",
+    "rules": [
+      "Combat > Actions > Ready"
+    ],
+    "rules_explanation": "When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger."
+  },
+  {
+    "question": "Level X character is using the Myth Carver to attack with disadvantage due to blindness, but advantage because the target is paralyzed, which roll modifier to attack is used?",
+    "answer": "The attack is made with neither advantage nor disadvantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20"
+  },
+  {
+    "question": "A level X character has just been enlarged by the enlarge/reduce spell, how much larger can they be made?",
+    "answer": "The target's size doubles in all dimensions, and this growth increases its size by one category",
+    "rules": [
+      "Spell Descriptions > Enlarge/Reduce"
+    ],
+    "rules_explanation": "The description of enlarge reduces specifically states that the size doubles in all directions."
+  },
+  {
+    "question": "When a level X barbarian is in a frenzied rage, what are their attack options with their action and bonus action?",
+    "answer": "They can make a melee weapon attack as a bonus action on each of your turns after this one",
+    "rules": [
+      "Barbarian > Path of the Berserker > Frenzy"
+    ],
+    "rules_explanation": "This is detailed in the frenzy ability for the path of the berserker."
+  },
+  {
+    "question": "Does the War God's Blessing stack with rage damage?",
+    "answer": "Yes, War God's Blessing damage adds to the rage damage.",
+    "rules": [],
+    "rules_explanation": "There are no specific rules governing the interaction, and neither ability specifies that one excludes the other."
+  },
+  {
+    "question": "A level X wizard has been asked if they want to take two shots at a creature at a disadvantage because they are in the air. What does this mean?",
+    "answer": "The character is required to roll the d20 twice for their attack rolls. The lower of the two dice must be used for each of the attack rolls.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This is how the rules for disadvantage are described."
+  },
+  {
+    "question": "A level X wizard is on a flying broomstick, and two eagles approach. What are their combat options?",
+    "answer": "The character can make two ranged weapon attacks with disadvantage.",
+    "rules": [],
+    "rules_explanation": "You can make your regular attacks, but at a disadvantage because you are in the air"
+  },
+  {
+    "question": "What does it mean for an attack to have three-quarters cover?",
+    "answer": "From your perspective, they're gonna have three-quarters cover means the target has a +5 bonus to AC and Dexterity saving throws.",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "This is what the three-quarters cover description states."
+  },
+  {
+    "question": "When you multi-class what saving throws do you gain proficiency in?",
+    "answer": "When you gain your first level in a class other than your initial class, you gain only some of the new class's starting proficiencies, as shown in the Multiclassing Proficiencies table.",
+    "rules": [
+      "Multiclassing > Proficiencies"
+    ],
+    "rules_explanation": "You do not get all of a new class's starting proficiencies, but a select few."
+  },
+  {
+    "question": "If a hill dwarf with level X takes the Dwarven Toughness feat at what rate is their max HP increased?",
+    "answer": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.",
+    "rules": [
+      "Races > Dwarf > Hill Dwarf > Dwarven Toughness"
+    ],
+    "rules_explanation": "That is what the dwarven toughness skill does."
+  },
+  {
+    "question": "What is the result when a high elf turns into a human and what skills do they retain?",
+    "answer": "The new form will have all the statistics of a human, but none of those of an elf",
+    "rules": [
+      "Races > Human > Human Traits"
+    ],
+    "rules_explanation": "Taking a new form would replace your stats with those of the new form, but nothing would give you racial traits from the human."
+  },
+  {
+    "question": "Can you harvest special parts from a killed beast that will be used for crafting if they are not the target of a harvest?",
+    "answer": "There is no rule that governs this situation. The GM would have to make a ruling.",
+    "rules": [],
+    "rules_explanation": "The rules do not explicitly address this situation. "
+  },
+  {
+    "question": "Does being a level X rogue automatically make you skilled at stealth?",
+    "answer": "No. A rogue is not automatically skilled at stealth, but stealth can be one of their chosen skills.",
+    "rules": [
+      "Rogue > Class Features > Skills"
+    ],
+    "rules_explanation": "A rogue gets to choose from skills at the creation, and stealth is one option they can take."
+  },
+  {
+    "question": "How do you determine the number of hit points that a 1st level Wizard has?",
+    "answer": "At 1st level, a wizard has hit points equal to 6 + their Constitution modifier.",
+    "rules": [
+      "Wizard > Class Features > Hit Points > Hit Points at 1st Level"
+    ],
+    "rules_explanation": "The wizard class entry defines this."
+  },
+  {
+    "question": "How many skills can a level X bard have?",
+    "answer": "A bard can choose any three skills to start with, but is not limited on the number of skills that they can learn throughout their time in the game.",
+    "rules": [
+      "Bard > Class Features > Proficiencies > Skills"
+    ],
+    "rules_explanation": "This explains how skills are selected"
+  },
+  {
+    "question": "If two characters have the exact same roll, what is the rule for deciding between them?",
+    "answer": "If a tie occurs, the GM decides the order among tied GM-controlled creatures, and the players decide the order among their tied characters. The GM can decide the order if the tie is between a monster and a player character. Optionally, the GM can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "This is the order of initiative rule."
+  },
+  {
+    "question": "Can a melee attack have 3-quarters cover?",
+    "answer": "The target of a melee attack cannot have cover.",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover"
+  },
+  {
+    "question": "When does a Seeming spell disappear from the target?",
+    "answer": "The Seeming spell lasts for 8 hours.",
+    "rules": [
+      "Spell Descriptions > Seeming"
+    ],
+    "rules_explanation": "This is given explicitly in the duration entry for the Seeming spell."
+  },
+  {
+    "question": "If you roll a natural 20 on a Saving Throw, does it guarantee success?",
+    "answer": "No, there is no special rule or effect on a natural 20 on a saving throw.",
+    "rules": [],
+    "rules_explanation": "The rules only address natural 1 or 20 results on attack rolls, not saving throws."
+  },
+  {
+    "question": "How is the DC determined for someone trying to grab onto a ledge before plummeting to their death?",
+    "answer": "The DM determines the check necessary to grab a ledge before plummeting.",
+    "rules": [],
+    "rules_explanation": "There is no prescribed check, so the DM would have to make a ruling based on what ability is most relevant. In most cases dexterity is the most applicable ability"
+  },
+  {
+    "question": "A level X character has advantage on a strength based check to do something, and then fails it. Can they re-roll using their lucky feat and which number do they use?",
+    "answer": "When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The lucky trait states that you can reroll a one, so it is up to the player if they wish to use the lucky trait instead of the advantage given."
+  }
+]

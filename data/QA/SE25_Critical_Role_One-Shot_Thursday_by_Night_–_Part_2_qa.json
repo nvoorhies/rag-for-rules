@@ -1,0 +1,148 @@
+[
+  {
+    "question": "If the (level 3, conjuration/transmutation) spell requires components to cast, does the user need the material or not?",
+    "answer": "The caster of a spell from a magic item does not require components, unless the item's description says otherwise. ",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components"
+    ],
+    "rules_explanation": "Most magic items are specified to be cast without components. The rule from 'Components' in Casting a Spell is that if a cost is indicated for a component, a character must have that specific component."
+  },
+  {
+    "question": "If a (level 3, conjuration/transmutation) spell effect would require a concentration check, do I need to roll a concentration check?",
+    "answer": "Yes, the user of the item must concentrate if the spell requires concentration.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Spells"
+    ],
+    "rules_explanation": "Base rule on spellcasting from an item is that you treat the spell as if you cast it and you must follow all the base rules of casting spells such as using concentration if required."
+  },
+  {
+    "question": "When a creature is restrained, does its speed equal zero and it can't benefit from any bonus to its speed?",
+    "answer": "Yes, that is correct.",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "The definition of the restrained condition is given."
+  },
+  {
+    "question": "Can the (level 4, Abjuration) ability be used more than once between short or long rests?",
+    "answer": "No, The rules state the the ability can't be used again until you finish a short or long rest.",
+    "rules": [
+      "Class Features > Channel Divinity"
+    ],
+    "rules_explanation": "Channel divinity rules specify that you can use it again until you finish a short or long rest to use your channel divinity again."
+  },
+  {
+    "question": "If the (level 1, Necromancy) spell is being cast from an item instead of by a spellcaster, is a material component needed?",
+    "answer": "No, the material components are not needed as long as the spell is cast from the item.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components"
+    ],
+    "rules_explanation": "Base rule on spellcasting from an item is that you treat the spell as if you cast it and you must follow all the base rules of casting spells *except for the need for components unless specified in the item description*."
+  },
+  {
+    "question": "If the player expends all their available successes on a Dexterity (Brawl) check to grab a rat, can they get a blood die back?",
+    "answer": "No. There's no rule that states that you get a blood die back for expending all your successes on a roll.",
+    "rules": [],
+    "rules_explanation": "There are no appropriate SRD rules to use, and the claim is wrong."
+  },
+  {
+    "question": "If  (level 1, Abjuration) says that it uses your spellcasting ability, then if you were casting it from an item it uses your spellcasting ability, correct?",
+    "answer": "Yes, but you will use proficiency modifier of zero, and the appropriate ability modifier.",
+    "rules": [
+      "Magic Items > Activating an Item > Spells"
+    ],
+    "rules_explanation": "If the magic item requires you to use your own spellcasting ability when you cast a spell from the item and you don't have a spellcasting ability, your spellcasting ability modifier is +0 for the item, and your proficiency bonus does apply."
+  },
+  {
+    "question": "Does taking the dash action prevent opportunity attacks from being made against you?",
+    "answer": "No. Taking the Disengage action is what prevents opportunity attacks.",
+    "rules": [
+      "Combat > Actions in Combat > Disengage"
+    ],
+    "rules_explanation": "If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn. Taking the Dash action has no affect on opportunity attacks"
+  },
+  {
+    "question": "If a (level 3 barbarian) breaks their own finger, what ability checks can you add their stanima to.?",
+    "answer": "There is no reference to stamina checks or a stamina ability in the SRD",
+    "rules": [],
+    "rules_explanation": "There is no such rule."
+  },
+  {
+    "question": "How many dice do you roll for a presence awe check?",
+    "answer": "The number of dice is determined by your Charisma modifier and your persuasion modifier.",
+    "rules": [],
+    "rules_explanation": "The rules are not explicitly stated."
+  },
+  {
+    "question": "With (level 3) 'Presence Awe' how many failures on a blood die is problematic?",
+    "answer": "Two failures on a blood die is a problem.",
+    "rules": [],
+    "rules_explanation": "Rules not explicitly found in the SRD."
+  },
+  {
+    "question": "if the player is using Presence Awe, what dice is needed for the roll?",
+    "answer": "You need charisma plus persuasion to determine how much charm will be applied to the creature.",
+    "rules": [],
+    "rules_explanation": "rules of persuasion not found in the SRD"
+  },
+  {
+    "question": "If (character) is using Celerity Two, what does that let him do?",
+    "answer": "With Celerity Two, you can climb vertical surfaces.",
+    "rules": [],
+    "rules_explanation": "Information not found in SRD."
+  },
+  {
+    "question": "What kind of roll is needed when a vampire tries to fly?",
+    "answer": "A Dexterity (Athletics) check is required.",
+    "rules": [
+      "Combat > Movement and Position > Special Types of Movement > Jumping"
+    ],
+    "rules_explanation": "Athletics is a skill associated with Strength."
+  },
+  {
+    "question": "What kind of roll is required to break open a sturdy door?",
+    "answer": "A Strength (Brawl) check is required.",
+    "rules": [],
+    "rules_explanation": "Information not found in SRD."
+  },
+  {
+    "question": "If the target is at 'one hunger', do they need to do a hunger roll?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "Information not found in SRD."
+  },
+  {
+    "question": "What roll is required to sneak down a tunnel?",
+    "answer": "The roll required is a Dexterity (Stealth) check.",
+    "rules": [
+      "Using Ability Scores > Dexterity > Dexterity Checks > Stealth"
+    ],
+    "rules_explanation": "A Dexterity (Stealth) check is used when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard."
+  },
+  {
+    "question": "What check is used to read hobo code?",
+    "answer": "An Intelligence (Academics) check is required.",
+    "rules": [],
+    "rules_explanation": "Information not found in SRD."
+  },
+  {
+    "question": "does using your heightened senses just burn a hunger?",
+    "answer": "Yes, it just burns a hunger.",
+    "rules": [],
+    "rules_explanation": "This is a homebrew rule and not found in the SRD."
+  },
+  {
+    "question": "What is the DC to free yourself from Manacles?",
+    "answer": "The DC to escape Manacles is 20.",
+    "rules": [
+      "Equipment > Adventuring Gear > Manacles"
+    ],
+    "rules_explanation": "Equipment > Adventuring Gear > Manacles states: Escaping the manacles requires a successful DC 20 Dexterity check."
+  },
+  {
+    "question": "Is it possible not to kill people when you drink from them?",
+    "answer": "This depends on the rules of the game world and is not covered by the srd.",
+    "rules": [],
+    "rules_explanation": "This is a setting-specific or storytelling element, and it goes beyond the scope of basic mechanics."
+  }
+]

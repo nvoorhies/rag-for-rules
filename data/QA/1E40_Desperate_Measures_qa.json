@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the level of the Mass Cure Wounds that can be cast?",
+    "answer": "A 5th-level Mass Cure Wounds spell can be cast.",
+    "rules": [
+      "Classes > Cleric > Spellcasting > Spell Slots",
+      "Spells > Mass Cure Wounds"
+    ],
+    "rules_explanation": "The question is asking about the game rules for what level a spell slot has to be to use it in the game. This would depend on what the character class levels are or if there is some other feature that changes the spell level."
+  },
+  {
+    "question": "How does heavily obscured terrain affect creatures?",
+    "answer": "Heavily obscured terrain blocks vision entirely, and creatures suffer from the blinded condition.",
+    "rules": [
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "The DM is establishing the environment of the area where the characters are and is asked to determine what effect the environment has on the game rules."
+  },
+  {
+    "question": "Does the Sharpshooter feat remove disadvantage at long range?",
+    "answer": "No, the sharpshooter feat would not remove disadvantage on an attack at long range.",
+    "rules": [
+      "Player's Handbook"
+    ],
+    "rules_explanation": "The question requires information beyond the System Reference Document."
+  },
+  {
+    "question": "Can I make a surprise attack because I'm hidden and I'm going first?",
+    "answer": "No, it is not a automatic crit because I'm hidden and I'm going first; the creature knows you guys are there. It's not surprised. A surprise generally means that it has absolutely no idea that you are there or there's any sort of threat from you.",
+    "rules": [
+      "Combat > Surprise"
+    ],
+    "rules_explanation": "The dungeon master is explaining that the hidden condition is not the same as the suprised condition."
+  },
+  {
+    "question": "Does having the 'Hex' spell cast on a creature impose disadvantage on saving throws?",
+    "answer": "No, casting 'Hex' imposes disadvantage on ability checks of the type you chose.",
+    "rules": [
+      "Player's Handbook"
+    ],
+    "rules_explanation": "The dungeon master is confirming that the disadvantage for the Hex spell only applies to Ability checks and not saving throws."
+  },
+  {
+    "question": "Does 'Deadeye' and 'Sharpshooter' stack when used on a single attack?",
+    "answer": "No, you cannot overlap the shots. No, only one shot effect on an attack at a time, sorry.",
+    "rules": [
+      "Player's Handbook"
+    ],
+    "rules_explanation": "The dungeon master is saying that buffs of the same type don't stack on the same attack roll."
+  },
+  {
+    "question": "What does the second-level healing potion do?",
+    "answer": "A second-level potion, greater healing is 4d4 plus four.",
+    "rules": [
+      "Equipment > Potion of Greater Healing"
+    ],
+    "rules_explanation": "The player is requesting information on the game effect of a common potion and is provided by the DM."
+  },
+  {
+    "question": "If Vex has 'Frightened' do I have disadvantage on the stealth check?",
+    "answer": "You have disadvantage on the stealth check, by the way. Oh! It's disadvantage, but I had advantage. So it's just a straight roll.",
+    "rules": [
+      "Appendix A: Conditions > Frightened",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The Dungeon master first correctly applied the disadvange and then noticed that the charater should have advantage on the roll cancelling the effect, leading to a straight roll."
+  },
+  {
+    "question": "Can I cast 'Hold Person' on a creature that you can't see through the door?",
+    "answer": "No, It has to be a humanoid you can see within range. So you couldn't even Hold Person through the door.",
+    "rules": [
+      "Spells > Hold Person"
+    ],
+    "rules_explanation": "The dungeon master determines that there is no line of sight and the spell requires that you can see the target. The conditions of a spell determine if it can be cast in the situation"
+  },
+  {
+    "question": "Do I need to roll Sleight of Hand to cast 'Hunter's Mark'?",
+    "answer": "Make a sleight of hand check and make a perception check.",
+    "rules": [
+      "Player's Handbook"
+    ],
+    "rules_explanation": "Hunter's mark has no inherent rules requiring a sleight of hand roll, or that someone should roll perception but the DM may rule that hiding the casting of a spell will require these skills"
+  },
+  {
+    "question": "What is the skull?",
+    "answer": "That skull is not human, that skull is Githyanki. The gem within that skull appears to be a soul gem and contains the soul of, from what I can gather, a Githyanki individual.",
+    "rules": [
+      "Player's Handbook"
+    ],
+    "rules_explanation": "This is lore information from the DM, and is not available in the SRD"
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "question": "If the a level one race is behind the stone wall that provides three-quarters cover, with an AC of 14, what is the Armor Class used to determine if it is hit by an attack?",
+    "answer": "The character's AC against the attack is 19.",
+    "rules": [
+      "Combat > Cover",
+      "Races > Race Traits > Ability Score Increase"
+    ],
+    "rules_explanation": "The armor class of the target is calculated using the standard AC and then adding plus five to the AC because it is behind three quarters cover"
+  },
+  {
+    "question": "Does a legendary action burn a reaction.",
+    "answer": "Legendary actions are different from reactions.",
+    "rules": [
+      "Combat > Actions > Reactions",
+      "Monsters > Legendary Creatures > Legendary Actions"
+    ],
+    "rules_explanation": "The SRD lists reaction as specific and different game mechanic than Legendary actions."
+  },
+  {
+    "question": "If one is holding an action to attack when an enemy wakes up from the 'Sleep' spell, are they required to specify that they are holding their action? ",
+    "answer": "Yes, if you're going to hold your action, please specify that.",
+    "rules": [
+      "Combat > Actions > Ready"
+    ],
+    "rules_explanation": "The 'Ready' action has to be specified, there is no implied holding of an action."
+  },
+  {
+    "question": "If she is using her bonus action can she also use her action?",
+    "answer": "No, you already used your bonus action, therefore you can't use your action",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The character had already used her bonus action in the turn, therefore she cannot use her action until the next turn."
+  },
+  {
+    "question": "Does the giant get a reaction to attack Beau after it comes out of being under the effects of the 'Sleep' spell.",
+    "answer": "Technically he hasn't had a-- oh, no, he did, because it's a whole round back, nevermind.",
+    "rules": [
+      "Combat > Actions > Reactions"
+    ],
+    "rules_explanation": "The rules dictate you can only take one reaction between turns."
+  },
+  {
+    "question": "If a unconscious player is healed is he still prone?.",
+    "answer": "Yes, he's just unconscious.",
+    "rules": [
+      "Appendix PH-A > Conditions > Unconscious",
+      "Combat > Damage and Healing > Dropping to 0 Hit Points > Falling Unconscious"
+    ],
+    "rules_explanation": "The rules dictate that a fallen character is still prone."
+  },
+  {
+    "question": "If Jester has used her bonus action on her turn to move her Spiritual Weapon 20ft, can she then use her action to use Toll the Dead.",
+    "answer": "Yes, you can.",
+    "rules": [
+      "Combat > Your Turn > Actions",
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The bonus action was moving the spiritual weapon, and the action can be used to Toll the Dead."
+  },
+  {
+    "question": "For a level 5 Barbarian, does a 'Reckless' attack mean he is going to get advantage on you now?",
+    "answer": "Yeah.",
+    "rules": [
+      "Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "The Reckless Attack ability in the Barbarian class gives advantage to any attack roll against the barbarian until the barbarian's next turn."
+  },
+  {
+    "question": "Given Talisen's character has an amulet of the planes that stabilizes him when dying, does it count as a hit dice when he uses it or no?",
+    "answer": "Well, healing potion isn't hit dice. Hit dice is only when you're taking a short rest.",
+    "rules": [
+      "Combat > Resting > Short Rest",
+      "Talisen's amulate (homebrew rules)"
+    ],
+    "rules_explanation": "The definition of hit dice is clarified by the gamemaster."
+  },
+  {
+    "question": "If Yasha, a level 5 Barbarian, is failing death saving throws, does she add anything to them.",
+    "answer": "Nope.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "The death saving throws require rolling a d20 and no other bonuses or maluses."
+  },
+  {
+    "question": "When playing as a level 4 cleric who knows cure wounds, does the player roll 2d4 and adds 2 hp for the spell.",
+    "answer": "Ten points of healing for you.",
+    "rules": [
+      "Cleric > Class Features > Spellcasting > Spells Known of 1st Level and Higher",
+      "Cleric > Spell Descriptions > Cure Wounds",
+      "Cleric > Divine Domain > Life Domain > Disciple of Life"
+    ],
+    "rules_explanation": "The Cure Wounds spell says to roll 1d8 and add the spellcasting modifier, but the cleric is of the life domain so it does not stack the same. Instead, it receives 2+the spell level, which is two, so seven points of healing."
+  },
+  {
+    "question": "At 17th level, is it Yasha gets a 1d12 hit die because she's a barbarian, or because she did reckless, and is now a liability.",
+    "answer": "It'll be your constitution modifier, so a plus two to that for 13 hit points. So add 11 and it should give you 13.",
+    "rules": [
+      "Barbarian > Class Features > Hit Points"
+    ],
+    "rules_explanation": "The Barbarian class's HP is determined by rolling a d12, and adding the Constitution Modifier."
+  },
+  {
+    "question": "Does Talisen's character, a level 5 blood hunter, add his constitution modifiers to health regenarated using the amulet, ready for this?",
+    "answer": "Well, healing potion isn't hit dice. Hit dice is only when you're taking a short rest.",
+    "rules": [
+      "Combat > Resting > Short Rest"
+    ],
+    "rules_explanation": "The gamemaster defines that the amulet does not count as a hit dice."
+  }
+]

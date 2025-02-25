@@ -1,0 +1,37 @@
+[
+  {
+    "question": "The level, class, and race of a character named Percy is attempting to craft a spring and wants to know what roll to make.  Which ability modifier, proficiency bonus, and dice roll to use?",
+    "answer": "The character uses the dexterity modifier, proficiency bonus, and dice roll.",
+    "rules": [
+      "Part I > Tinker",
+      "Part I > Three Hours Scouring",
+      "Core Rules > Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Percival is attempting to complete construction of the spring by hand.  The game master specified the skill check by name and which modifiers to use.  This is equivalent to using thieves tools and therefore Dexterity applies to the check. He is adding the proficiency bonus and then rolling a 20 sided dice."
+  },
+  {
+    "question": "The rules state a rogue has proficiency with longswords, but can Level, Class, and Race of character named Vax use sneak attack with one?",
+    "answer": "Vax cannot use sneak attack with the longsword, the SRD specifies that sneak attack requires finesse or ranged weapons.",
+    "rules": [
+      "Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The Sneak Attack rule specifies that the attack must use a finesse or ranged weapon."
+  },
+  {
+    "question": "If a class has proficiency in longswords and another states sneak attack can only be used with finesse weapons, is a longsword considered a finesse weapon?",
+    "answer": "No, in this case, longsword is not considered a finesse weapon.",
+    "rules": [
+      "Rogue > Sneak Attack",
+      "Equipment > Weapons > Weapon Properties > Finesse"
+    ],
+    "rules_explanation": "The finesse property is defined as part of the weapon description. If it does not have the property then it cannot be used for sneak attacks."
+  },
+  {
+    "question": "What do ability checks affect?",
+    "answer": "Ability checks affect any skill checks or ability checks, but not attacks or saves.",
+    "rules": [
+      "Part I > Taliesin: 23? > MATT: Yeah. > TALIESIN: So yeah, that's right, 23. > MATT: 23. As the evening comes into about ten or 11 o'clock at night, after hours of aching work, sweat beads dripping down the foreheads of the three of you, forcing the furnace to work overtime. The room's heat and darkness eventually almost puts you to a point of exhaustion and passing out. However, you do manage to complete the springs. They seem to be functional, the structure of your trap is set. We shall see on the morrow if it is as functional as you hope it is. You do take a point of exhaustion through the work that will consist throughout the next day. > TALIESIN: Okay. What does a point of exhaustion do? > MATT: Disadvantage on ability checks. So, essentially, any skill checks or ability checks you make– not attacks or saves, but ability checks you make for the next 24 hours will be at disadvantage."
+    ],
+    "rules_explanation": "The GM is explaining the effects of a level of exhaustion."
+  }
+]

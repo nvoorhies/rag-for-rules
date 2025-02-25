@@ -1,0 +1,227 @@
+[
+  {
+    "question": "If a character is beyond the 30 foot limit of the hand crossbow of a Level 3 Rogue without advantage, do they get sneak attack?",
+    "answer": "A level 3 Rogue shooting without advantage will be unable to apply sneak attack due to the disadvantage on their attack cancelling their advantage.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Adventuring > Vision and Light"
+    ],
+    "rules_explanation": "The attacker would normally have advantage on attack due to the fact that they are hidden. However, they also have disadvantage on the attack because they are firing beyond the 30 foot range of the weapon. Advantage and disadvantage cancel each other out. Since they don't have advantage, they do not get sneak attack."
+  },
+  {
+    "question": "Can a Level 3 Monk hold their action and still move?",
+    "answer": "A Level 3 Monk may move and then hold their action, but they cannot move while holding their action.",
+    "rules": [
+      "Combat > Your Turn > Action",
+      "Combat > Ready"
+    ],
+    "rules_explanation": "The Dodge action does not restrict movement; however, the ready action allows you to prepare an action with the restriction that 'you can take your reaction right after the trigger finishes or ignore the trigger'. Thus, you may move and then 'Ready' an action but may not move at the time of the trigger in such a scenario."
+  },
+  {
+    "question": "Can a Level 3 Rogue disengage as a bonus action, grab a character, and move?",
+    "answer": "Yes, a Level 3 Rogue can disengage as a bonus action, grab another character as an action, and then use their remaining movement.",
+    "rules": [
+      "Classes > Rogue > Cunning Action",
+      "Combat > Movement and Position > Actions in Combat > Grappling"
+    ],
+    "rules_explanation": "The rogue can use a bonus action granted by Cunning Action to Disengage. They can then use their action to initiate a grapple. They may then use any remaining movement. The rules don't prevent any of these actions occurring in sequence."
+  },
+  {
+    "question": "If you've used a healer's kit as a bonus action, can you do it again as an action?",
+    "answer": "No. Healer's kit use requires an Action.",
+    "rules": [
+      "Equipment > Adventuring Gear"
+    ],
+    "rules_explanation": "A healer's kit is an item that can be used to stablilize a dying character. It's description states that it takes an Action to use a healer's kit."
+  },
+  {
+    "question": "Can the spell *Dancing Lights* be moved with the same action as another attack or is it a separate action?",
+    "answer": "Moving *Dancing Lights* requires a bonus action, not an action.",
+    "rules": [
+      "Spellcasting > Cantrips > Dancing Lights",
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The spell description for *Dancing Lights* states that 'As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range.'"
+  },
+  {
+    "question": "If a Level 3 Character takes piercing damage, can they use Deflect Missiles to reduce the damge?",
+    "answer": "No, the Deflect Missiles feature can only be used when hit by a ranged weapon attack.",
+    "rules": [
+      "Classes > Monk > Deflect Missiles",
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "The deflect missiles feature indicates that it must be triggered by a ranged weapon attack"
+  },
+  {
+    "question": "Does *Thunderwave* require a saving throw?",
+    "answer": "Yes. *Thunderwave* requires a constitution saving throw.",
+    "rules": [
+      "Spell Descriptions > Thunderwave"
+    ],
+    "rules_explanation": "The spell description for *Thunderwave* states that each creature in the area must make a constitution saving throw."
+  },
+  {
+    "question": "Does the Aid Spell come back on a Short Rest?",
+    "answer": "No, the Aid spell does not return on a short rest.",
+    "rules": [
+      "Spellcasting",
+      "Resting > Short Rest",
+      "Classes > Bard"
+    ],
+    "rules_explanation": "The SRD indicates that only spell slots for Warlocks return on a short rest. The Aid spell is a second level spell, and there is no rule in the description of the Bard class that allows for a specific number of class spells to return on a Short Rest. Therefore, the Aid spell is not a warlock spell and does not return on a short rest. "
+  },
+  {
+    "question": "Does using *Guidance* last until the next round?",
+    "answer": "No, the spell *Guidance* has a concentration duration of 'up to 1 minute'. It is not clear from the question when the caster casts the spell or the target makes an ability check. Therefore, it cannot be assumed that the six second of the spell carries on into the next round.",
+    "rules": [
+      "Spellcasting > Duration",
+      "Spell Descriptions > Guidance"
+    ],
+    "rules_explanation": "The duration entry for the Guidance cantrip is 'Concentration, up to 1 minute'. Therefore, the effects of the spell last until the concentration is ended, or up to a minute, which may be a round or more."
+  },
+  {
+    "question": "If a Level 3 Warlock casts *Hex*, can they maintain it after taking a short rest?",
+    "answer": "It depends. *Hex* lasts for one hour with concentration; if concentration is maintained throughout the short rest then it persists after the short rest.",
+    "rules": [
+      "Spellcasting > Duration",
+      "Spell Descriptions > Hex"
+    ],
+    "rules_explanation": "The *Hex* spell lasts one hour, with concentration. Thus the duration of the short rest must be less than one hour for the spell to persist."
+  },
+  {
+    "question": "If a Warlock is using Armor of Agathys and is damaged does the other character automatically take damange?",
+    "answer": "No, in order for a character to take damage the attacker has to strike with a melee attack.",
+    "rules": [
+      "Spell Descriptions > Armor of Agathys"
+    ],
+    "rules_explanation": "The spell description of Armor of Agathys states that 'Also, if a creature hits you with a melee attack while you have these hit points, the creature takes cold damage.'"
+  },
+  {
+    "question": "Does the bard's Blood Maledict bonus action apply to attack of opportunities.",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Actions > Opportunity Attacks",
+      "Classes > Bard > College of Lore"
+    ],
+    "rules_explanation": "An opportunity attack is a melee attack, and so there is no reason why Blood Maledict cannot be applied to it if it is used when the attack is declared."
+  },
+  {
+    "question": "What is the effect of the Command spell?",
+    "answer": "The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it.",
+    "rules": [
+      "Spell Descriptions > Command"
+    ],
+    "rules_explanation": "The spell description for command specifies the function of the spell, which is to force a creature to follow a simple one-word command on their next turn."
+  },
+  {
+    "question": "If a friendly creature is in melee range with a gnoll, does that mean the level 3 Rogue can use their sneak attack?",
+    "answer": "Yes, if the rogue doesn't have disadvantage on the attack roll.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The requirements for sneak attack indicate that it can be triggered if a creature is within 5 feet of the target and the attacker doesn't have disadvantage on the attack roll."
+  },
+  {
+    "question": "How is Nott able to make melee attacks and use disengage as a bonus action?",
+    "answer": "She can't. The disengage action requires a full action.",
+    "rules": [
+      "Combat > Actions in Combat",
+      "Classes > Rogue > Cunning Action"
+    ],
+    "rules_explanation": "The only way to disengage as a bonus action is to use a Cunning Action. The Cunning Action is only available to a Rogue, and it grants a bonus action on each of its turns in combat to take the Dash, Disengage, or Hide action."
+  },
+  {
+    "question": "If a character uses a bonus action to do one thing, does it mean they can't do something else that requires a bonus action?",
+    "answer": "Yes, you can only take one bonus action per turn.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The rules indicate that 'You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.'"
+  },
+  {
+    "question": "Can the Sacred Flame spell be cast from a hiding spot?",
+    "answer": "Yes, but doing so might reveal the caster's location.",
+    "rules": [
+      "Spellcasting > A Clear Path to the Target",
+      "Combat > Unseen Attackers and Targets",
+      "Spell Descriptions > Sacred Flame"
+    ],
+    "rules_explanation": "Although there is no minimum range, Sacred Flame does require you to be able to see a target. If you are hidden, making yourself visible to the target may reveal yourself. Moreover, casting the spell would likely violate staying 'quiet'."
+  },
+  {
+    "question": "Is Armor of Agathys concentration?",
+    "answer": "No, Armor of Agathys does not require concentration.",
+    "rules": [
+      "Spell Descriptions > Armor of Agathys"
+    ],
+    "rules_explanation": "The Armor of Agathys spell description contains no mention of the need for the caster to concentrate."
+  },
+  {
+    "question": "Which check is made for a shove attack?",
+    "answer": "For a shove attack, the attacker makes a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack > Shoving a Creature"
+    ],
+    "rules_explanation": "The rules state that 'Instead of making an attack roll, you make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use)'."
+  },
+  {
+    "question": "Does Patient Defense affect rolls with that are not attacks, such as to keep from falling",
+    "answer": "No, the Dodge action, which patient defense grants, states that it provides advantage on Dexterity saving throws, not all Dexterity rolls.",
+    "rules": [
+      "Combat > Actions in Combat > Dodge",
+      "Classes > Monk > Patient Defense"
+    ],
+    "rules_explanation": "The rules for the Dodge action state that it imposes disadvantage on the attacker and grants you advantage on Dexterity saving throws, not all Dexterity ability checks"
+  },
+  {
+    "question": "What's the damage for Toll the Dead?",
+    "answer": "If the target is missing any of its hit points, it takes 1d12 necrotic damage. If the target isn't missing any hit points, it takes 1d8 necrotic damage instead. This spell's damage increases by 1d12 (or 1d8) when you reach 5th level (2d12 or 2d8), 11th level (3d12 or 3d8), and 17th level (4d12 or 4d8).",
+    "rules": [
+      "Spell Descriptions > Toll the Dead"
+    ],
+    "rules_explanation": "The spell description of Toll the Dead contains a clear description of how much damage the spell inflicts at different levels."
+  },
+  {
+    "question": "Does Bardic Inspiration affect initiative?",
+    "answer": "No, initiative is a Dexterity check, not a saving throw or attack roll.",
+    "rules": [
+      "Combat > Initiative",
+      "Classes > Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "The description for Bardic Inspiration specifies that it can be used on an attack roll, saving throw, or ability check, but it doesn't affect initiative."
+  },
+  {
+    "question": "When casting Thunderwave, does the spell save DC derive from Intelligence or Charisma?",
+    "answer": "Spell Save DC = 8 + your proficiency bonus + your spellcasting ability modifier. As a Bard, the character would use Charisma.",
+    "rules": [
+      "Spellcasting > Spell Save DC",
+      "Classes > Bard > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The spell description for determining spell save DC contains the following formula: Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier. Bards use Charisma as their spellcasting ability."
+  },
+  {
+    "question": "What action does a Charisma 2 Charismatic do while paralyzed?",
+    "answer": "A paralyzed character can take no actions.",
+    "rules": [
+      "Appendix PH-A: Conditions > Paralyzed"
+    ],
+    "rules_explanation": "The definition of the paralyzed condition in the Player's Handbook states: A paralyzed creature is incapacitated (see the condition) and can't move or speak."
+  },
+  {
+    "question": "If you are 30 feet away from someone with Dancing Lights, is it dim or bright light?",
+    "answer": "The closest one is actually ten feet behind us, like a choo-choo train back behind the group so that it's dim light 20 to 30 feet ahead of us. It's never bright light after 10 feet ahead.",
+    "rules": [
+      "Spell Descriptions > Dancing Lights",
+      "Adventuring > Vision and Light"
+    ],
+    "rules_explanation": "The spell description for dancing lights indicates that the light provided by the cantrip is bright light in a 10-foot radius and dim light for an additional 10 feet. Thus, it can be assumed that the light only extends for 20 feet. Anything beyond 20 feet, there is no light."
+  },
+  {
+    "question": "Can Shaka-ste make attacks of opportunities?",
+    "answer": "Cannot be determined, as the class, level, and abilities of Shakaste are not defined.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "The basic rules for an opportunity attack are that it must be a hostile creature that you can see, that moves out of your reach. There is nothing indicating whether or not Shakaste is wielding a weapon or has class based abilities."
+  }
+]

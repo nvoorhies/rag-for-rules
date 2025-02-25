@@ -1,0 +1,87 @@
+[
+  {
+    "question": "The party's Doctor and a character in a wheelchair are discussing if the Doctor knows what Nighthawk is. The GM asks for a focus roll for the doctor.",
+    "answer": "The Doctor must roll a d20 and add her Focus modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Actions In Combat > Attack",
+      "Part I:  the letters"
+    ],
+    "rules_explanation": "The doctor is attempting a focus based ability check, which requires rolling a d20, adding the focus ability modifier to the roll, and comparing the result to a target value, or Difficulty Class (DC)."
+  },
+  {
+    "question": "One character asks if, upon achieving a gilded roll, they can add the gilded die and get their action point back. Does the party get their action point back after bolstering the roll?",
+    "answer": "Yes, that is correct.",
+    "rules": [
+      "Part I:  ASHLY: I did make a shitty roll, so I'm going to add one of yours."
+    ],
+    "rules_explanation": "The question references the rules for gaining back action points after a successful check has been bolstered with a gilded die."
+  },
+  {
+    "question": "As Oscar is strangling Toren, the GM asks Oscar player to roll Strike or Control, and the players decides on strike. What is this roll called? The player adds a drive to this roll.",
+    "answer": "Oscar rolls a Strike Pool check for 5 dice. The player receives mixed success and takes a brain mark.",
+    "rules": [
+      "Part I:  SAM: I'll put in a drive.",
+      "Part I:  SAM: It gives me an extra two dice when I do some chain shit. So I got a five."
+    ],
+    "rules_explanation": "The gameplay transcript describes the character making a strike dice pool check, and the result of that check."
+  },
+  {
+    "question": "Madam Glask is attempting to use prestige in order to control the water. The GM asks \"Are you trying to interrogate him or get a sense of it via a connection with the occult?\", and Madam Glask states she wants to ask him a question. How does this roll begin?",
+    "answer": "She must roll a Sense pool check first to begin.",
+    "rules": [
+      "Part II:  AABRIA: I need you, to begin, you're going to roll Sense."
+    ],
+    "rules_explanation": "The GM indicates that Madam Glask must make a sense pool roll in order to proceed with her plan."
+  },
+  {
+    "question": "The party member was attempting to use their Occult Researcher to gain insight into the events in front of them. What do they have to mark in order to perform this check?",
+    "answer": "They have to mark Brain in order to perform this check.",
+    "rules": [
+      "Part II:  ASHLY: May I use Occult Researcher to take a brain and ask Aabria for an important occult detail--",
+      "Part II: AABRIA: Yes, please do. You take a brain mark as you strain to understand, and I think this lands inside of less of anything you researched, but in your time in Candela, you've gone on missions with Oscar and Cosmo, you've seen things."
+    ],
+    "rules_explanation": "As described in the conversation Elsie wants to use Occult Researcher, in order to see if she can discover more about what is occurring, but it will cost a Brain point."
+  },
+  {
+    "question": "The Lightkeeper states that the party should respect people's intelligence enough to not try to bullshit them into misinterpreting what is obvious and true. What roll does the group need to make?",
+    "answer": "The group needs to make a Sway roll.",
+    "rules": [
+      "Part I: AABRIA: Give me, just in the quietness of that, in the lack of spinning up a story or an excuse, a raw moment and respecting a person's intelligence enough to not try to bullshit them into misinterpreting what is obvious and true, a Sway roll."
+    ],
+    "rules_explanation": "The transcript contains a direct request for a Sway roll from the GM for the characters to engage in a given activity."
+  },
+  {
+    "question": "The party makes a Sway roll, and Aabria states that this is a high stakes roll. If a drive is added now, what happens?",
+    "answer": "They will add on another die. If they take the gilded result, they get their drive back.",
+    "rules": [
+      "Part I: AABRIA: that this is a high stakes roll.",
+      "Part I: NOSHIR: So, if it's a Sense roll and I have nothing in it, but I add a drive--",
+      "Part I: AABRIA: Yes, and if you take the gilded result, you get a drive back; if you've used a drive in the roll."
+    ],
+    "rules_explanation": "The gameplay transcipt implies that the rules for drives and gilded dice apply to this roll, therefore these rules can be inferred."
+  },
+  {
+    "question": "One of the party members is using their sense skill and is burning two drives. The dice roll lands on a six and the GM asks if they are just trying to get a general sense of what these are. If this is the case, do they take an action token?",
+    "answer": "No. They take a bleed action token.",
+    "rules": [
+      "Part I: LIAM: I'll use Sense because it is quicker.",
+      "Part I: AABRIA: Yeah!",
+      "Part I: LIAM: I will burn two--",
+      "Part I: AABRIA: Okay. With a six... You're just trying to get a general sense of what these are, yeah?",
+      "Part II: AABRIA: You'll be in range. LIAM: I'm burning a drive. AABRIA: Oh. ASHLY: Okay, all right, that's fine. LIAM: Okay. AABRIA: Four of the five of you are in range."
+    ],
+    "rules_explanation": "The gameplay transcript specifies that if a six is rolled when using a sense, the member will instead take a bleed action token."
+  },
+  {
+    "question": "In this conversation, a player states the definition of Stitch, Refresh, and Training. Explain what these definitions do for your game.",
+    "answer": "Stitch clears all marks. Refresh gives back all of your drives and resistances. Training gives you one extra die for a little extra juice.",
+    "rules": [
+      "Part II: SAM: Stitch clears all your marks?",
+      "Part II: ASHLY: Mm-hmm.",
+      "Part II: SAM: Can you get back resistances with any of these? AABRIA: Yes, with your refresh.",
+      "Part II: LIAM: Gives you one die for a little extra juice. (laughter)"
+    ],
+    "rules_explanation": "This question references the players discussing stitch, refresh, and training and they recall the definitions themselves."
+  }
+]

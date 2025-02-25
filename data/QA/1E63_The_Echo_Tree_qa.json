@@ -1,0 +1,351 @@
+[
+  {
+    "question": "The party is attempting to stealthily move away from a hut. The level 5 ranger casts *Pass Without Trace* before the group attempts to sneak. Which ability check do the players roll?",
+    "answer": "The players roll Dexterity (Stealth) checks, adding 10 due to the effects of the *Pass Without Trace* spell.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components",
+      "Skills > Dexterity > Stealth",
+      "Spells List > Pass Without Trace"
+    ],
+    "rules_explanation": "The players need to make a stealth check which the SRD describes as a Dexterity(Stealth) check. Because *Pass Without Trace* is in effect, they get a +10 bonus."
+  },
+  {
+    "question": "A level 7 fighter attempts to discern information about something at a distance, and the DM calls for a perception check with advantage. Which ability check does the fighter roll?",
+    "answer": "The level 7 fighter makes a Wisdom (Perception) check with advantage.",
+    "rules": [
+      "Skills > Wisdom > Perception",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The player was prompted to make a Perception check, and according to the SRD, it is a Wisdom (Perception) check. The player also has advantage on the roll."
+  },
+  {
+    "question": "A level 7 fighter is directed to attempt an athletics check. Which ability modifier is added to the d20 roll?",
+    "answer": "The level 7 fighter adds their Strength modifier to the d20 roll.",
+    "rules": [
+      "Skills > Strength > Athletics"
+    ],
+    "rules_explanation": "The player was prompted to make an Athletics check, and according to the SRD, it is a Strength (Athletics) check."
+  },
+  {
+    "question": "A level 5 druid wildshapes into an ape. While in that form, what skills does the druid have?",
+    "answer": "While in ape form, the level 5 druid keeps their alignment, personality, and Intelligence, Wisdom, and Charisma scores. They also retain all of their skill and saving throw proficiencies, in addition to gaining those of the ape. If the ape has the same proficiency as the level 5 druid and the bonus in its stat block is higher than the level 5 druid's, use the creature's bonus instead of the level 5 druid's.",
+    "rules": [
+      "Druid > Class Features > Wild Shape",
+      "Skills"
+    ],
+    "rules_explanation": "The rules for Wild Shape state what statistics are replaced with the beast's statistics, and that the player retains all of their skill proficiencies in addition to the beast's, using the beast's bonus if it is higher."
+  },
+  {
+    "question": "The party comes across trolls, and the level 1 ranger wants to know how large they are. What size category are trolls?",
+    "answer": "Trolls are a Medium sized creature.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The SRD has no information on a standard 'troll' monster, but the given game text indicated the creature in the bog was a troll so it can be safely assumed that they are talking about this standard MM troll."
+  },
+  {
+    "question": "A level 5 druid casts *Polymorph* on a willing creature turning it into an ape. When does concentration begin on that spell, and what happens if the druid's concentration is broken during the casting?",
+    "answer": "If the level 5 druid casts *Polymorph*, concentration on the spell begins during casting. If the level 5 druid's concentration is broken during the casting time, the spell fails, and the spell slot is not expended.",
+    "rules": [
+      "Spellcasting > Casting Time",
+      "Spellcasting > Casting a Spell > Concentration",
+      "Spells List > Polymorph"
+    ],
+    "rules_explanation": "The rules for Casting a Spell say when a spell requires concentration that fact appears in its Duration entry. Duration for Polymorph says it is concentration up to 1 hour, the act of concentration begins during casting and continues for the duration so when it was disrupted there is no effect."
+  },
+  {
+    "question": "A level 5 wildshaped druid travels 25 ft in one action through tar-like muck. Is this possible?",
+    "answer": "It is possible, because every foot of movement in difficult terrain costs 1 extra foot, and the level 5 druid has a speed greater than or equal to 50 ft.",
+    "rules": [
+      "Adventuring > Movement > Difficult Terrain"
+    ],
+    "rules_explanation": "The question says the area has difficult terrain, and the rules for movement on difficult terrain states it costs 1 extra foot of movement for every foot, so they must travel 25ft*2 or 50ft. It says they have an ape travel form and apes have at least 50 ft of movement."
+  },
+  {
+    "question": "The DM prompts for Athletics checks from a level 5 fighter and a level 5 barbarian who drink a potion of climbing and are moving through trees. What does drinking a potion of climbing do?",
+    "answer": "The level 5 fighter and the level 5 barbarian gain an innate ability to point out which branches are the strongest, easiest to grab a hold and just keep the momentum going in the semblance of a parkour-like leap-and-grab-type circumstance.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The potion of climbing is an improvisation, so the DM grants them the ability to point out which branches are the strongest, easiest to grab a hold and just keep the momentum going in the semblance of a parkour-like leap-and-grab-type circumstance."
+  },
+  {
+    "question": "The level 5 fighter is in a tree and fails three athletics checks in a row to move through the trees. Do they fall?",
+    "answer": "The level 5 fighter does not automatically fall. The outcome of the athletics checks determine the result of their movement through the trees.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The ability to move through the trees is an improvisation of the DM's part. While in the branches of a tree, they do not fall automatically, rather, the success or failure of the athletic checks determine the outcome of their movement through the trees."
+  },
+  {
+    "question": "A polymorphed into an ape level 5 barbarian is traversing the treetops and makes an athletics check. The level 5 barbarian is frenzied raging. Does it have advantage or disadvantage on the roll?",
+    "answer": "The polymorphed into an ape level 5 barbarian has advantage on the roll.",
+    "rules": [
+      "Barbarian > Class Features > Rage",
+      ""
+    ],
+    "rules_explanation": "The monster's rage grants advantage on Strength checks and the DM also grants advantage because it's an ape. Because advantage can only stack one time, and rage does not grant disadvantage, the level 5 barbarian retains advantage on the Athletics check."
+  },
+  {
+    "question": "A level 5 fighter has advantage on an athletics check. The level 5 wizard on the team casts Bardic Inspiration on the fighter. How many d20s and bardic inspiration dice can be rolled on the athletics check roll?",
+    "answer": "The fighter rolls two d20s, taking the higher value, and one Bardic Inspiration die, adding its result to the total.",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A character with advantage rolls an additional d20 and takes the higher result. An inspiration die is then added to the total. Advantage does not create a negative effect, so the bardic inspiration die is added to the total."
+  },
+  {
+    "question": "A polymorphed level 5 barbarian and a level 7 fighter are moving through the treetops towards a specific location. The DM asks them to make three successive athletics checks. Do they roll athletics or acrobatics checks?",
+    "answer": "They roll three successive Strength (Athletics) checks.",
+    "rules": [
+      "Skills > Strength > Athletics"
+    ],
+    "rules_explanation": "For the purposes of climbing and grabbing, I would say this is more of an athletics check. Since this is more upper-body strength and– not parkouring, not parkouring through the treetops."
+  },
+  {
+    "question": "A 2nd level bard cast song of rest. Can it be used during a long rest? A short rest?",
+    "answer": "A Song of Rest can be used during a short rest, but is ineffective during a long rest.",
+    "rules": [
+      "Bard > Class Features > Song of Rest"
+    ],
+    "rules_explanation": "Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest."
+  },
+  {
+    "question": "A level 5 druid with an Wisdom score of 16 is casting the spell Beast Shape. What DC or checks are required to maintain the spell?",
+    "answer": "The rules only say to make a concentration check when you take damage. There is no DC required to maintain the spell unless the caster takes damage.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The concentration rules in the SRD say there is no check required to maintain concentration, save whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher."
+  },
+  {
+    "question": "The level 5 party wants to have a Heroes' Feast. What material components are required?",
+    "answer": "There are no components provided for the Heroes' Feast spell in the SRD.",
+    "rules": [
+      "Spells List > Heroes' Feast"
+    ],
+    "rules_explanation": "I am unable to determine what material components are required as the information was not provided in the spell's description."
+  },
+  {
+    "question": "The level 5 ranger cast the Protection from Poison spell on himself. How long does it last?",
+    "answer": "The Protection from Poison spell lasts for 1 hour.",
+    "rules": [
+      "Spells List > Protection from Poison"
+    ],
+    "rules_explanation": "The Protection from Poison spell has a listed duration of 1 hour."
+  },
+  {
+    "question": "A level 5 bard want's to counterspell an enemy creature with a wizard cantrip. Is this legal?",
+    "answer": "Yes, the level 5 bard can use counterspell on a cantrip.",
+    "rules": [
+      "Spells List > Counterspell"
+    ],
+    "rules_explanation": "The description for counterspell does not place restrictions on which spells it can affect based on level."
+  },
+  {
+    "question": "A level 5 bard cast counterspell with a roll of 18 plus 6. Did this succeed?",
+    "answer": "Yes, since the DC required was a 24.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability",
+      "Spells List > Counterspell"
+    ],
+    "rules_explanation": "The bard rolled high enough to beat the DC requirement."
+  },
+  {
+    "question": "A level 5 ranger gets hit by a fire attack, what legendary actions may it have as a reaction?",
+    "answer": "A level 5 ranger does not have any legendary actions.",
+    "rules": [
+      "Ranger > Class Features > Legendary Actions"
+    ],
+    "rules_explanation": "Only legendary creatures have legendary actions. Rangers do not have any. That means the creature has been adjusted and would require the customized information."
+  },
+  {
+    "question": "A creature is 30 feet in the air, and at a level 5 ranger's turn is affected by an area of reversed gravity. How many feet per round does the affected creature descend at?",
+    "answer": "Without additional abilities, the creature falls 500 feet per round.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Since the creature is reversed gravity and no anchor to the ground, they fall (upwards) at 500 feet per round."
+  },
+  {
+    "question": "The target is a creature that has 0 hit points and the range is 30 ft. Can a level 5 character heal them?",
+    "answer": "The ability to heal a creature with 0 hit points depends on the specifications of the healing action or ability. If the ability requires an action, it must be a melee attack and not a ranged attack.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks"
+    ],
+    "rules_explanation": "The ability to heal a creature with 0 hit points depends on the specifications of the healing action or ability. To determine if the healing action must be a melee attack and not a ranged attack. If it requires an action, it must be a melee attack. This means the creature is adjacent to the healer."
+  },
+  {
+    "question": "It was previously stated that all characters are knee deep in muck. What is the distance you could jump with 18 strength?",
+    "answer": "A character with 18 Strength can long jump 18 feet if they move at least 10 feet on foot immediately before the jump, or 9 feet with a standing long jump.",
+    "rules": [
+      "Adventuring > Movement > Jumping"
+    ],
+    "rules_explanation": "The SRD specifies that when you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance."
+  },
+  {
+    "question": "A stone giant was damaged and has lost all hitpoints. What happens?",
+    "answer": "The stone giant dies.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "If the Stone Giant were a player character, they would have to begin making death saving throws at the beginning of each of their turns, and any of their actions are limited. But Stone Giants are NPC monsters and, as such, usually die once they reach 0 hit points."
+  },
+  {
+    "question": "A level 5 ranger asks the DM if vegemite can be purchased. How should the DM decide?",
+    "answer": "The DM must make a judgement if the item can be purchased.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The presence of Vegemite is not a common item for trade or travel, and would require the DM to exercise their ability to create new content."
+  },
+  {
+    "question": "A cloud giant has the option to change shape. Can the giant change shape into a dragon or other form? Is the form limited to their challenge rating?",
+    "answer": "The could giant's change shape is not dependent on a given alignment, and is limited by their challenge rating.",
+    "rules": [
+      "Monsters > Special Traits > Change Shape"
+    ],
+    "rules_explanation": "The cloud giant can change shape into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies."
+  },
+  {
+    "question": "What are the limitations and effects of a potion of climbing?",
+    "answer": "The Potion of Climbing gives the imbiber a climbing speed equal to their walking speed for 1 hour, and you gain advantage on Strength (Athletics) checks you make to climb.",
+    "rules": [
+      "Equipment > Adventuring Gear > Potion of Climbing"
+    ],
+    "rules_explanation": "That information comes directly from the SRD document."
+  },
+  {
+    "question": "How long does the effect of a short rest take?",
+    "answer": "A short rest is a period of downtime, at least 1 hour long.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The document clearly states that a short rest takes at least one hour."
+  },
+  {
+    "question": "How can you use the 'action' to interact with objects around you?",
+    "answer": "You can interact with one object or feature of the environment for free, during either your move or your action. If you want to interact with a second object, you need to use your action.",
+    "rules": [
+      "Combat > Your Turn > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "You can also interact with one object or feature of the environment for free, during either your move or your action. If you want to interact with a second object, you need to use your action."
+  },
+  {
+    "question": "An individual has advantage on a perception check and rolls a 20 and a 8. What is the total for this check, assuming a skill modifier of plus 5?",
+    "answer": "Assuming the bonus is the product of the proficiency bonus and an ability modifier, the total is 25.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "With advantage, the higher die roll, 20, is used and the skill modifier of 5 is added for a total of 25."
+  },
+  {
+    "question": "A level 9 character is trying to remember something they were told earlier by another character, but can't remember the details. What kind of skill check should be used?",
+    "answer": "History check.",
+    "rules": [
+      "Skills > Intelligence > History"
+    ],
+    "rules_explanation": "Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations."
+  },
+  {
+    "question": "A creature has resistance to a certain type of damage. Does this effect apply to the poison damage done by the spell inflict wounds?",
+    "answer": "It depends on the specific language of the effect granting the resistance. If the effect grants resistance to poison damage, then the creature would have resistance to the poison damage done by the spell inflict wounds. If the effect grants resistance to poison condition, then it does not grant resistance to the poison damage done by the inflict wounds spell.",
+    "rules": [
+      "Damage and Healing > Damage Resistance and Vulnerability",
+      "Appendix PH-A: Conditions > Poisoned"
+    ],
+    "rules_explanation": "Damage resistance applies to damage only, while the poisoned condition is a condition."
+  },
+  {
+    "question": "A level 5 character is going to open a door and is very angry. Can you tell me how to roll with angry dice?",
+    "answer": "This mechanic is not found in the SRD.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This mechanic is not in the SRD document and is considered custom content."
+  },
+  {
+    "question": "What happens if you open a bag of holding inside a portable hole?",
+    "answer": "Placing a *portable hole* inside an extradimensional space created by a *bag of holding* instantly destroys both items and opens a gate to the Astral Plane. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.",
+    "rules": [
+      "Equipment > Adventuring Gear > Bag of Holding",
+      "Equipment > Adventuring Gear > Portable Hole"
+    ],
+    "rules_explanation": "The SRD directly addresses the result of opening a portable hole inside a bag of holding."
+  },
+  {
+    "question": "Can the Grease spell affect airborne creatures?",
+    "answer": "The *Grease* spell affects the ground in a 10-foot square centered on a point within range. The ground in the area turns into difficult terrain, and any creature standing in the area when the grease appears must succeed on a Dexterity saving throw or fall prone. Since the spell affects the ground it can't affect airborne creatures.",
+    "rules": [
+      "Spells List > Grease"
+    ],
+    "rules_explanation": "The grease is concentrated in the area on the ground. Therefore, flying creatures would be unaffected."
+  },
+  {
+    "question": "A creature is being thrown at is asked to make a Dexterity saving throw. What determines the DC?",
+    "answer": "What determines the DC depends on what is throwing the creature and using a rule that requires a saving throw.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The general case is it depends. There is not enough information in the rules provided to specify a more definitive answer."
+  },
+  {
+    "question": "The character casts charm person on a creature with the ability to see invisible objects but has no perceptible effect. What is the reason for this?",
+    "answer": "The creature may be immune to being charmed.",
+    "rules": [
+      "Spells List > Charm Person",
+      "Appendix MM-A: Conditions > Charmed"
+    ],
+    "rules_explanation": "The first sentence of the 'charm person' spell states, 'Creatures that can't be charmed are immune to this effect.'"
+  },
+  {
+    "question": "What does it mean to be below the treeline?",
+    "answer": "Being below the treeline does not have specific meaning within the rules. It is a descriptive element of the setting.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Treeline is not defined, so that is a description of the game world."
+  },
+  {
+    "question": "What happens if you make the saving throw for an attack? ",
+    "answer": "The effects on the target are described within the ability used. Typically, a successful save means that a creature suffers no harm, or reduced harm, from an effect.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect."
+  },
+  {
+    "question": "If the character touches something that is slick, what check does he have to roll?",
+    "answer": "The check depends on the action attempted. Possible examples include Athletics for balance, or Sleight of Hand for gripping the item.",
+    "rules": [
+      "Skills > Dexterity > Acrobatics",
+      "Skills > Dexterity > Sleight of Hand"
+    ],
+    "rules_explanation": "Touching something slick is not explicitly defined, and it would depend on what the character is trying to accomplish. Acrobatics involves maintaining balance, and Sleight of Hand involves manipulating objects."
+  },
+  {
+    "question": "Can a character be healed by a monster power?",
+    "answer": "This is determined by the specifications of the power being used. Many healing spells and abilities do not work on undead or constructs.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "It is possible to be healed by a monster ability. However, undead and constructs are not affected by this spell."
+  },
+  {
+    "question": "What are the results of rolling a 20 for a check?",
+    "answer": "The result of rolling a 20 for a check is not explicitly defined. You either have a success on the check, or a critical hit if the check is an attack roll. A check may automatically succeed if you roll a 20 on the die.",
+    "rules": [
+      "Combat > Attack Rolls"
+    ],
+    "rules_explanation": "If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target's AC. This is called a critical hit."
+  },
+  {
+    "question": "Does the command spell end the invisibility spell for a wizard?",
+    "answer": "This is determined by the specific actions taken under the command spell. Since the action would come from the player, it would break invisibility. However, if the spell only command certain conditions, such as moving, the spell would not automatically break invisibility.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is subject to the specifics of the invisibility spell and that the DM can add or override effects."
+  }
+]

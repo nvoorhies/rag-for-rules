@@ -1,0 +1,89 @@
+[
+  {
+    "question": "The level 4 wild magic sorcerer wants to know if they can use a sorcery point to double the range of the Catapult spell.",
+    "answer": "Yes, the level 4 wild magic sorcerer can use a sorcery point to double the distance of the spell.",
+    "rules": [
+      "Spellcasting > Sorcerer > Metamagic"
+    ],
+    "rules_explanation": "The rules for Metamagic state that the sorcerer can use sorcery points to modify their spells.  This doubling of distance would be a specific example of this effect."
+  },
+  {
+    "question": "Does a creature that is the target of the level 5 necromancer’s Unsettling Presence ability have to be able to see the caster for the effect to work?",
+    "answer": "The target must be within 15 feet of the Necromancer for the unsettling presence ability to function.",
+    "rules": [
+      "Player’s Handbook > Classes > Necromancer > Unsettling Presence"
+    ],
+    "rules_explanation": "This is a rules of area targeting and range for an ability"
+  },
+  {
+    "question": "Does the rogue have advantage on their stealth check because another character was helping them by carefully blocking the wizard?",
+    "answer": "Yes, because the fighter is actively helping the rogue they have advantage on the stealth check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The rules on working together state that \"the character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters.\""
+  },
+  {
+    "question": "If the level 3 wild magic sorcerer is targeted by a weapon attack, what can they do to avoid getting hit?",
+    "answer": "The level 3 wild magic sorcerer can use their action to take the dodge action.",
+    "rules": [
+      "Combat > Actions in Combat > Dodge"
+    ],
+    "rules_explanation": "The dodge action makes it more difficult for attacks to hit the character."
+  },
+  {
+    "question": "A creature has been targeted by Calm Emotions and fails the charisma saving throw, and then the rogue is trying to deceive the target. What check does the rogue need to roll, and what happens if the Calm Emotions effect is broken?",
+    "answer": "The rogue makes a deception check, and if the target is attacked or harmed by a spell, the Calm Emotions effect will end.",
+    "rules": [
+      "Spellcasting > Spell Descriptions",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The mechanics for a deception check follow the using ability scores rules in the document. The mechanics for how an attack or spell breaking the indifferent condition are described in the spell description for Calm Emotions."
+  },
+  {
+    "question": "The level 1 bard wants to know what skill checks can be rolled, having just performed Prestidigitation and filled a tankard with trash.",
+    "answer": "A check to attempt to craft would be either a Dexterity check or an Intelligence check. The intelligence check is whether she can put what she finds together effectively, the dexterity check is her skill in crafting the item.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules about ability checks explain that the DM determines which ability check to use in any given situation."
+  },
+  {
+    "question": "As they make their way to the Smolder Spire, the players want to know what the cost of the trip is.",
+    "answer": "The cost of the trip is one silver.",
+    "rules": [
+      "Equipment > Expenses"
+    ],
+    "rules_explanation": "Equipment and Expenses > This section provides a standard cost for travel to an area"
+  },
+  {
+    "question": "The level 3 ranger uses Enhance Ability to give another character advantage on Dexterity checks, but for how long?",
+    "answer": "The duration of Enhance Ability is one hour.",
+    "rules": [
+      "Spells > Spell Descriptions"
+    ],
+    "rules_explanation": "The duration of the spell is found in the spell description in the spells section of the book"
+  },
+  {
+    "question": "A character casts catapult to throw ball bearings, and the DM adjudicates the target is between stone and dirt, how does this affect the roll?",
+    "answer": "The DM might make the roll more difficult.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules say that the DM decides the difficulty of a task, and the ground material is a factor"
+  },
+  {
+    "question": "The party gets to the edge of the wall around the tower, how tall is it?",
+    "answer": "The wall around the tower is 8 to 9 feet tall.",
+    "rules": [],
+    "rules_explanation": "This is an unwritten rule from the description that the Dungeon Master is providing the players, so that has no associated rule"
+  },
+  {
+    "question": "A character wants to know if she can use her action to pull up a stone sentry statue with weight roughly equivalent to that of a dwarf, what game mechanics apply?",
+    "answer": "She can attempt to lift the stone sentry statue using a strength check.",
+    "rules": [
+      "Using Ability Scores > Strength > Lifting and Carrying"
+    ],
+    "rules_explanation": "The game master may call for a strength check."
+  }
+]

@@ -1,0 +1,283 @@
+[
+  {
+    "question": "The barbarian has Frenzied Rage and three attacks. Can he throw a hammer and have it return to his hand in time for the next attack?",
+    "answer": "Yes, technically the barbarian could throw the hammer with all three attacks.",
+    "rules": [
+      "Combat > Actions in Combat > Attack"
+    ],
+    "rules_explanation": "The Throwing hammer returns immediately after the attack, there are no rules that limit the number of ranged attacks to one per turn."
+  },
+  {
+    "question": "For a 20-foot throw with the dwarvish hammer, is there disadvantage on the attack?",
+    "answer": "The attack has a normal range of 20 feet and a long range of 60 feet, so there is no disadvantage if the target is 20 feet away, but there is disadvantage if the target is further away than 20 feet.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Range"
+    ],
+    "rules_explanation": "The Thrown weapon property defines what distances impose disadvantage for the target."
+  },
+  {
+    "question": "If the barbarian did Reckless Attack, would it remove disadvantage on a ranged attack with the hammer past 20 feet?",
+    "answer": "No, a Reckless Attack gives advantage on melee weapon attack rolls, not ranged, but it does mean that everyone has advantage to attack the Reckless Attacker.",
+    "rules": [
+      "Classes > Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "Reckless attack only applies to melee attacks. Being at long range imposes disadvantage on the attack. The reckless attack ability does not remove this penalty, but would give advantage to the roll. When there is both advantage and disadvantage on the roll they cancel each other."
+  },
+  {
+    "question": "Can a cleric wear boots on and then right before the battle put on other boots?",
+    "answer": "The cleric can switch out her boots, but it is not like pressing the 'x' button in your inventory, so be mindful of that.",
+    "rules": [],
+    "rules_explanation": "This is a judgement call from the DM regarding how equipment switching during combat would work, as there is no simple rule defining this"
+  },
+  {
+    "question": "If Kima the paladin puts on non-attuned boots to be quiet, would the boots match her armor?",
+    "answer": "No, the boots don't match the armor. Kima also expresses some disappointment.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question"
+  },
+  {
+    "question": "If one mile is the range of Primeval Awareness for dragons normally, as a ranger, how long does the spell need to be focused for at 6th level?",
+    "answer": "With Primeval Awareness, it is for one minute per level of the spell.",
+    "rules": [
+      "Classes > Ranger > Primeval Awareness"
+    ],
+    "rules_explanation": "The Primeval Awareness feature defines the duration of the spell."
+  },
+  {
+    "question": "If there are three dragons within one mile of a ranger casting Primeval Awareness at 6th level, does the ranger know they are there?",
+    "answer": "Yes, with the Primeval Awareness feature, the ranger knows at least that they are within a mile.",
+    "rules": [
+      "Classes > Ranger > Primeval Awareness"
+    ],
+    "rules_explanation": "The Primeval Awareness feature of a 6th level ranger indicates knowledge of dragons within one mile."
+  },
+  {
+    "question": "Vex wants to create a pouch for the Deck of Many things. Is a sleight of hand check required to give the pouch to Grog without him noticing it wasn't the Deck of Many Things?",
+    "answer": "Yes, the GM calls for a sleight of hand check with disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM determines what kind of ability check is required for a non-combat action and calls for the roll."
+  },
+  {
+    "question": "If the ranger has a tiny bit of light from someone's dagger, but darkness is still pervasive in the tunnels, what would be the range of visibility?",
+    "answer": "The ranger can see in dim light within 60 feet as if it were bright light, and in darkness as if it were dim light, so you have about 15 feet you can kind of see out in front of you in straight darkness. If you have your dagger out, you can see pretty decently for 60 feet.",
+    "rules": [
+      "The Environment > Vision and Light > Darkvision"
+    ],
+    "rules_explanation": "The ranger racial trait Darkvision indicates a certain degree of visibility in dim light and darkness."
+  },
+  {
+    "question": "If the rogue has a flametongue dagger that emits the equivalent of a candle and is providing light, does being in the darkness of the tunnels inflict disadvantage?",
+    "answer": "No. The rogue can make regular checks for at least 60 feet for looking for traps, but will have limited visibility after that distance.",
+    "rules": [
+      "The Environment > Vision and Light > Darkness",
+      "Equipment > Weapons > Weapon Properties > Ammunition"
+    ],
+    "rules_explanation": "The darkness imposes disadvantage on the check. The light provided by a light source can counteract the darkness and cancel the disadvantage for nearby checks."
+  },
+  {
+    "question": "As these flaming skulls are attacking, does everyone in the room need to roll four Dexterity saving throws because there are four attackers present?",
+    "answer": "Yes, everyone must roll four Dexterity saving throws.",
+    "rules": [
+      "Combat > Order of Combat > Combat Step by Step"
+    ],
+    "rules_explanation": "As the game master indicated there were four sources for damage in the form of fireballs that caused four separate Dexterity saving throws."
+  },
+  {
+    "question": "If a barbarians saving throw is 10 and he is under the effect of Kerr's Aura of Protection, does his Charisma modifier add to the save?",
+    "answer": "Yes, he would get a +3 from the Aura of Protection and therefore have a saving throw of 13.",
+    "rules": [
+      "Classes > Paladin > Aura of Protection"
+    ],
+    "rules_explanation": "The paladin Aura of Protection ability adds the character's Charisma modifier to any saving throw made by nearby friendly creatures."
+  },
+  {
+    "question": "What is the range of the Primeval Awareness feature?",
+    "answer": "For that one, it is for one minute per level of the spell. And it's within one mile, up to six miles if you're in your favored terrain.",
+    "rules": [
+      "Classes > Ranger > Primeval Awareness"
+    ],
+    "rules_explanation": "The Primeval Awareness feature of a Ranger defines range and duration."
+  },
+  {
+    "question": "Is there a point to which the player characters all need to crowd for a spell effect to work if the area is large enough to encompass all the characters?",
+    "answer": "No, the spell effect does not need to be smaller than the space occupied by the party, it would still apply.",
+    "rules": [
+      "Spellcasting > Areas of Effect"
+    ],
+    "rules_explanation": "A spell with an area of effect indicates the shape of the area and how it eminates from the caster, it does not require the area to be smaller than the target area."
+  },
+  {
+    "question": "The paladin has an Aura of Divinity, does that give a bonus to saves?",
+    "answer": "Yes, because of the Aura of Divinity, the paladin gives a plus three because of his Charisma bonus.",
+    "rules": [
+      "Classes > Paladin > Aura of Protection"
+    ],
+    "rules_explanation": "The paladin's Aura of Protection ability is being referred to here."
+  },
+  {
+    "question": "Should the DM re-calculate Grog's Fireball saves now that Kerrek's Charisma bonus is being applied?",
+    "answer": "Yes, the game master agreed.",
+    "rules": [],
+    "rules_explanation": "The effect of the ability was not accounted for in the original rolls."
+  },
+  {
+    "question": "If Vax the rogue is not next to a wall and makes it up into the air, how can the rogue not fall?",
+    "answer": "Vax has the Deathwalker's Ward, granting him bat-like wings.",
+    "rules": [],
+    "rules_explanation": "Vax equipped bat-like wings."
+  },
+  {
+    "question": "How far can Kerr see with the light of the activated hammer?",
+    "answer": "The dagger, which emits flame on it, is the equivalent of a candle. He can see about 15 feet beyond you, and that's it.",
+    "rules": [],
+    "rules_explanation": "15 feet is the assumed range for a candle's light."
+  },
+  {
+    "question": "Can the Bracers of Archery work when the character is wearing armor?",
+    "answer": "The DM states that he has to check the description for the bracers, indicating that it was not apparent from the original discussion.",
+    "rules": [],
+    "rules_explanation": "The armor is not relevant to the use of this item."
+  },
+  {
+    "question": "Can Vex attack a creature that is only 10 feet away if the creature is invisible but the rogue knows exactly where the monster is?",
+    "answer": "The rogue indicates that he is going to use his wings. Then the question comes back on, would it be useful to have the rogues little dagger be used, to check for traps. So the implication was that you can tell where it is, but you will have to roll with a disadvantage. The game master, however, doesn't answer the question.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The rules from the handbook states: When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target's location correctly."
+  },
+  {
+    "question": "How far can Vax see ahead of himself",
+    "answer": "With no source of light Vax can only see 15 feet ahead, if using the Flaming Tongue Dagger then he can see 60 feet.",
+    "rules": [
+      "The Environment > Vision and Light > Darkvision"
+    ],
+    "rules_explanation": "Vax is a Half-elf, and Half-elves have the trait Darkvision which allows them to see 60 ft. in the dark as if it were dim light."
+  },
+  {
+    "question": "What level is the Stone Shape spell?",
+    "answer": "4th Level",
+    "rules": [],
+    "rules_explanation": "Information was not in the context or needed any rules to derive. Was a known fact being verified"
+  },
+  {
+    "question": "What spell is Keyleth doing that makes some grass break a block of concrete?",
+    "answer": "She is doing some monk shit with a Druidcraft cantrip.",
+    "rules": [
+      "Spellcasting > What Is a Spell? > Cantrips"
+    ],
+    "rules_explanation": "A description for the cantrip is:  You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube."
+  },
+  {
+    "question": "Are melee attacks with Thorden-hammer at disadvantage?",
+    "answer": "No, just ranged.",
+    "rules": [],
+    "rules_explanation": "This was not a question to which the answer could be determined with any rule."
+  },
+  {
+    "question": "What's the plan with all of those checks now that they're clustered up?",
+    "answer": "Four separate Fireballs force the players to make four Dexterity saving throws with advantage.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "Each source of damage within the game requires individual calculations. Each spell forced a saving throw."
+  },
+  {
+    "question": "Did Vex get a grit point?",
+    "answer": "Yes, Vex did. She Killed the monster with her shot.",
+    "rules": [],
+    "rules_explanation": "This depends on the class, and it was understood by the players involved."
+  },
+  {
+    "question": "If a party had two immovable rods available, could they use them both to keep the rock in place?",
+    "answer": "You manage to jam them into two of the finger-holes, and as soon as they lock in, you can release the weapon and it's just enough to hold it in place, although it is slowly moving. Each rod can only hold 8,000 pounds.",
+    "rules": [],
+    "rules_explanation": "You must understand the capabilities and nature of the item being referred to in order to answer. There is no precise rule in the document for immovable rods holding up rocks specifically."
+  },
+  {
+    "question": "What does casting Holy Aura do?",
+    "answer": "It is within a 30-foot radius where everybody is. It sheds a five-foot radius of light on everyone. Everybody gets advantage on saving throws. Enemies who are attacking have disadvantage on everyone. Fiends and undead who do melee attacks have to make a Constitution save or be blinded.",
+    "rules": [],
+    "rules_explanation": "Rules not from the SRD are being referenced here."
+  },
+  {
+    "question": "Does Primeval Awareness work in woods?",
+    "answer": "It's not wooded anymore, so it's one mile. So you know at least they're within a mile.",
+    "rules": [
+      "Classes > Ranger > Primeval Awareness"
+    ],
+    "rules_explanation": "The feature allows for 6 miles in favored terrain, which includes woodlands. The GM determined they were no longer in wooded terrain."
+  },
+  {
+    "question": "Is there a way for the NPC to move?",
+    "answer": "Yes, so go ahead and cast the spell. They're here. Oh, god. As you guys are finishing this conversation, Grog and Keyleth, Pike walks up and holds her gauntlet out, her giant, awesome, monster-ogre gauntlet. As it begins to suddenly emit this bright white vibrant glow, she touches the front of your forehead, beckoning you to bend down to try and get rid of the headache. You watch as the healing energy surges through your body from head to toe, and as it passes through you, the light fades, the spell is spent– that's a 5th-level spell she used– and the headache remains.",
+    "rules": [],
+    "rules_explanation": "This is not a rule to be followed but a description of the events"
+  },
+  {
+    "question": "What is the effect of Death Ward?",
+    "answer": "When you're brought down to zero, you ping up to one, is the math on that.",
+    "rules": [],
+    "rules_explanation": "This is a basic description of the effects of a spell and is not a rules question, so much as an explanation of the rule being followed."
+  },
+  {
+    "question": "If there's something undead near the party, Kerr wants to use Divine Sense. Does he get a sense of intensity, or the size, direction, or intensity of the effect?",
+    "answer": "No, it does not appear to be an extremely powerful undead presence. You can't tell size or direction, by any means.",
+    "rules": [
+      "Classes > Paladin > Divine Sense"
+    ],
+    "rules_explanation": "The Paladin Divine Sense ability defines what information is and isn't conveyed by the use of Divine Sense."
+  },
+  {
+    "question": "If Kerr uses Divine Sense, what information is learned?",
+    "answer": "Then you sense there is something. You know it's from one of the wall areas, but you cannot see, and your one single bit of light source is ahead of you in the tunnel. But you do sense, at one point as you're walking, it is to the left of you.",
+    "rules": [
+      "Classes > Paladin > Divine Sense"
+    ],
+    "rules_explanation": "The Paladin Divine Sense ability defines what information is and isn't conveyed by the use of Divine Sense."
+  },
+  {
+    "question": "If the halfling Vax is 15-20 feet ahead, does that mean he's 60 feet beyond the light and can't see?",
+    "answer": "Let me double-check, here. It's kind of a frustratingly broken ability in some cases if it just is universally in here. So you can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light, so you have about 15 feet you can kind of see out in front of you in straight darkness. If you have your dagger out, you can see pretty decently for 60 feet, is how it works.",
+    "rules": [
+      "Races > Halfling > Racial Traits"
+    ],
+    "rules_explanation": "Using Darkvision in darkness can allow one to see a specific range. In dim light, there is no penalty."
+  },
+  {
+    "question": "Does anyone has a sense of where the undead presence is?",
+    "answer": "You do sense that there is some sort of an undead presence in your vicinity, Kerr, though you do not quite know what its nature is or its direction. There is something undead near you.",
+    "rules": [
+      "Classes > Paladin > Divine Sense"
+    ],
+    "rules_explanation": "This question refers to the Divine Sense Paladin ability and specifically what information is gained by using it."
+  },
+  {
+    "question": "Are we able to read the titles or words in the book at this time?",
+    "answer": "You do not know the title of the books.",
+    "rules": [],
+    "rules_explanation": "Does not contain a rule, but does contain the ruling"
+  },
+  {
+    "question": "When a spell is cast with a bonus action, would you get another action?",
+    "answer": "You create these two by your multi attack, if it was bonus action to cast it, it takes an action to summon to them and so is what would be the number, to get to this room, it may get out of her hand.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Bonus Action"
+    ],
+    "rules_explanation": "This does not follow or reference rules directly. The question also seems to mis-understand what happened in the game"
+  },
+  {
+    "question": "Can marisha use a spell on keyleth if they're under the water and is all covered in mud and bench situation?",
+    "answer": "There doesn't appear to be a bench, I can get her in a bit, that's great piece of it and the power and she doesn't mind the bench. She's like Pike she's trying to protect it's worth more than she is, we've got some bench situation here so we're not gonna burn another",
+    "rules": [],
+    "rules_explanation": "There is not a specific rule about the bench"
+  },
+  {
+    "question": "Does Holy Aura only last for a minute?",
+    "answer": "Yeah, but what you do as far as that one, it is for one minute per level of the spell. And it's within one mile, up to six miles if you're in your favored terrain.",
+    "rules": [],
+    "rules_explanation": "Rules not from the SRD are being referenced here."
+  }
+]

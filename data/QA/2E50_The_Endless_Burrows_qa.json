@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Merciri, roll a d20 for me.",
+    "answer": "The device indicates that a twenty sided die was rolled.",
+    "rules": [
+      "Dungeon Master's Guide > Dungeon Master's Workshop > Variant: Playing Without Dice > Other Methods"
+    ],
+    "rules_explanation": "This describes what happens if a game decides not to use dice."
+  },
+  {
+    "question": "What does it mean to be grappled? It means I can't move--",
+    "answer": "Being grappled means your speed becomes zero, you can't move, you are considered restrained, which means you have disadvantage on attacks, strength checks, and strength saving throws.",
+    "rules": [
+      "Appendix PH-A > Conditions > Grappled",
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "Combining the definition of grappled and restrained."
+  },
+  {
+    "question": "If she hadn't already can the Level 6, race, class, and abilities character use action to escape from it?",
+    "answer": "Yes, the Level 6, race, class, and abilities character can use action to try and break free.",
+    "rules": [
+      "Combat > Actions in Combat > Grappling"
+    ],
+    "rules_explanation": "This explains that a creature can use its action to escape a grapple"
+  },
+  {
+    "question": "If Level 6, race, class, and abilities Monk has hit with an attack, can he or she do the thing Stunning Strike?",
+    "answer": "Yes, the Level 6, race, class, and abilities Monk can do that if Level 6, race, class, and abilities Monk hasn't already used his or her action.",
+    "rules": [
+      "Classes > Monk > Class Features > Stunning Strike"
+    ],
+    "rules_explanation": "The rule for Stunning Strike allows you to use it when you hit with an attack, it does not prevent you from also attacking"
+  },
+  {
+    "question": "I will not try to leave the grapple. Instead, I will fire a crossbow bolt at this Level 6 rock monster that has me grappled. With advantage, because it's stunned?",
+    "answer": "Yes, you have advantage, because it's stunned.",
+    "rules": [
+      "Appendix PH-A > Conditions > Stunned",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This outlines that the stunned condition means that attacks gain advantage against the target"
+  },
+  {
+    "question": "The Level 8 character cast a spell that required a Charisma Save roll at 16. It rolled a natural 16 minus 2. Did the save succeed?",
+    "answer": "No, the roll of 14 is not a success against a target of 16.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The check needs to be equal or higher than the DC to succeed"
+  },
+  {
+    "question": "If they get hit by a magical damage, then can they lose their grapple?",
+    "answer": "No, hitting it doesn't make them drop the grapple; you have to break free.",
+    "rules": [
+      "Combat > Actions in Combat > Grappling"
+    ],
+    "rules_explanation": "Hitting does not end a grapple. You must take the Escape action."
+  },
+  {
+    "question": "What's the ability called again? Channel Divinity?",
+    "answer": "It's called \"Sentinel at Death's Door.\"",
+    "rules": [
+      "Classes > Cleric > Grave Domain > Sentinel at Death's Door"
+    ],
+    "rules_explanation": "Name of ability"
+  },
+  {
+    "question": "Was it once per short rest?",
+    "answer": "No, it's five times per long rest.",
+    "rules": [
+      "Classes > Cleric > Grave Domain > Sentinel at Death's Door"
+    ],
+    "rules_explanation": "How many times per rest the Grave Domain cleric can use Sentinel at Death's Door."
+  },
+  {
+    "question": "You know that thing where you've gone so far that you can't really-- we can't turn around, can we?",
+    "answer": "There is no such rule.",
+    "rules": [],
+    "rules_explanation": "While this statement expresses an emotional situation it does not refer to a D&D rules question"
+  },
+  {
+    "question": "It is disadvantage because it's longer than 30 feet away, right?",
+    "answer": "Yes, it is disadvantage because it's longer than 30 feet away.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Range"
+    ],
+    "rules_explanation": "When attacking a target beyond normal range, you have disadvantage on the attack roll."
+  },
+  {
+    "question": "Does it need a 16 save, so--",
+    "answer": "Because the roll was a natural 16, then minus 2, it still saves as it was a 16 charisma save. ",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The creature is immune to the spell by succeeding on a dice roll for their Charisma ability of 16 or higher."
+  },
+  {
+    "question": "Wait, they can do that even though they're stunned?",
+    "answer": "No, that one's stunned, so it can't.",
+    "rules": [
+      "Appendix PH-A > Conditions > Stunned"
+    ],
+    "rules_explanation": "A stunned creature can't take actions."
+  },
+  {
+    "question": "They're small tunnels. Yeah, I mean, we're already dealing with the two-body-width tunnel as it is; I don't want to shrink it down any lower and really be fucked.",
+    "answer": "There is no such rule.",
+    "rules": [],
+    "rules_explanation": "While this statement expresses an opinion on gameplay it does not refer to a D&D rules question"
+  },
+  {
+    "question": "May I use my cloak?",
+    "answer": "Yes, your cloak affects any stealth check you make, for the most part.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Since nothing restricts the usage of the cloak in these circumstances and it has no attunement requirements, it can be used as intended."
+  },
+  {
+    "question": "Was it once per short rest?",
+    "answer": "No, it's five times per long rest.",
+    "rules": [
+      "Classes > Cleric > Grave Domain > Sentinel at Death's Door"
+    ],
+    "rules_explanation": "How many times per rest the Grave Domain cleric can use Sentinel at Death's Door."
+  },
+  {
+    "question": "If I go unconscious right away--",
+    "answer": "There is no such rule.",
+    "rules": [],
+    "rules_explanation": "While this statement expresses an opinion on gameplay it does not refer to a D&D rules question."
+  }
+]

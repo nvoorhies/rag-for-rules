@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Can the level 5 FCG, automaton with unknown spirit, but coin of the Changebringer, be determined to have a soul, or a spirit, or anything like that? What is involved?",
+    "answer": "The question is answered by you (Pike) touching the head of FCG and the the holy symbol of the Everlight while closing eyes, and you (Pike) feel wave of something which is like tumbling, sense of upright gravity begins to shift and then inferno of silver-white light with flames rising off FCG and a set of fiery wings drifting in place and eyes are glowing cavalcade of color and white light.\n\nIt means you're (FCG's) alive and you already have eyes on you, the coin sitting in the space of your chest with the face of the Changebringer on it.",
+    "rules": [
+      "Spellcasting > Spell Description > detect thoughts"
+    ],
+    "rules_explanation": "A spellcaster can attempt to cast a divination spell and use it to determine if a spirit is present, such as detect thoughts."
+  },
+  {
+    "question": "If a Level 5 Sorcerer casts Witch Bolt (2nd level) as a Twinned Spell, how much sorcery points cost?",
+    "answer": "The cost is 3 sorcery points.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Metamagic > Twinned Spell"
+    ],
+    "rules_explanation": "The twinned spell metamagic option costs a number of sorcery points equal to the spell's level if the spell targets only one creature and doesnt have a range of self. Witch bolt is level 1, it is casted by a level 5 character using the spell slot of 2nd level, then the sorcery points to use the twinned spell metamagic option is equal to the spell level, then is 2 sorcery points. However, Witch Bolt can target only one creature, so the metamagic option is applied to this spell. In this specific case, as the level 5 character is using a 2nd level spell slot, the cost of the twinned spell becomes 3 sorcery points"
+  },
+  {
+    "question": "Does Lady Keyleth need, the voice of the Tempest, to make an ability check, or does she have an ability allowing her to reliably know the result of the check, when Lady Keyleth is reading from an old, well-kept vellum scroll from one of the books. It almost seems to shimmer in the low lantern light from the interior as she shifts and moves it across the table, in order to learn if there is an yes/no answer to the situation?",
+    "answer": "The DM must make a ruling based on what they want to happen in the story.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The DM decides, based on the rules, if an ability check is required in this situation or not."
+  },
+  {
+    "question": "If the Level 5 FCG, automaton with unknown spirit, is under the effect of Beacon of Hope, and takes the claw attack for 23 pts of necrotic damage which reduces him from his maximum hp down to 0, does he need to make a concentration check?",
+    "answer": "Yes, the level 5 FCG needs to make a constitution saving throw and the Beacon of Hope applies to the wisdom saving throw.",
+    "rules": [
+      "Spellcasting > Duration > Concentration",
+      "Spellcasting > What Is a Spell? > Spell Level > Cantrips"
+    ],
+    "rules_explanation": "Beacon of Hope only provides an advantage on Wisdom saving throws and death saving throws and maximises the healing received. The spell itself is not dealing damage. The Necrotic damage is from the Claw attack. A concentration check is required and the details of the effect would come down to the creature providing the damage"
+  },
+  {
+    "question": "If Level 5 FCG, automaton with unknown spirit, succeeds on the constitution check, what happens?",
+    "answer": "Because FCG, who has the Changebringer coin, has dropped to zero as a result of an effect that caused necrotic damage and does not appear to be immune, the effect of the Beacon of Hope spell does not prevent him from falling unconscious. In order to avoid falling unconscious, FCG will need to succeed a death saving throw as normal, and the coin will not grant him an additional benefit",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points"
+    ],
+    "rules_explanation": "Beacon of Hope does not change the rule that he falls unconscious. The Necrotic Damage requires the constitution check. Because FCG is now at 0, the rule for 0 hp requires a death saving throw"
+  },
+  {
+    "question": "Does Fearne require to roll with disadvantage when making ranged spell attacks, given that there is a hostile creature within 5 ft?",
+    "answer": "Yes, the attacker (Fearne) has disadvantage on the attack roll when making a ranged attack if the attacker is within 5 feet of a hostile creature that is not incapacitated",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "The rule for ranged attacks states that the attacker has disadvantage on the attack roll. That means that Fearne, the attacker, has disadvantage"
+  },
+  {
+    "question": "Does Orym get an extra action in the circumstances from the situation of the transcript?",
+    "answer": "It can't be determined from the information from the transcript.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "From just the information in this section, there are not enough details to understand the context to answer the question."
+  },
+  {
+    "question": "What can Fearne do at 60ft?",
+    "answer": "There is not enough information from the provided text in the circumstance to be able to determine.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Without information about her class, level, available actions, or circumstances, it is not possible to answer the question."
+  }
+]

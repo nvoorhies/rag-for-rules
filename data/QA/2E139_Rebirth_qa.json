@@ -1,0 +1,141 @@
+[
+  {
+    "question": "The level 4 Grave domain cleric wants to know whether an Antimagic Field would protect against Inuit charges.",
+    "answer": "No, a level 4 Grave domain cleric would not know whether an 8th-level Antimagic Field would protect against Inuit charges.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The DM asked the cleric to make an Arcana check to determine if the character knew if the Antimagic field would protect against Inuit charges. The difficulty of the check would depend on the nature of Inuit charges and the Arcana skill of the cleric. A roll of 3 by the character with a -1 adjustment resulted in a net value of 2 which the DM stated was not sufficient to know the answer."
+  },
+  {
+    "question": "The DM described a scene and then said 'Those of you with darkvision, if you would like to go ahead and make a perception check with disadvantage, because you are quite a ways away'. What rules should the players use for this roll?",
+    "answer": "To determine if a level 4 Grave domain cleric can see into the distance, the player must roll a d20 and add their Wisdom modifier and any other relevant bonuses then apply disadvantage to the total.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Conditions > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM called for a Wisdom (Perception) check. A Wisdom (Perception) check consists of rolling a d20, adding the character's Wisdom modifier, proficiency bonus if proficient in perception, and any other relevant modifiers. The DM imposed disadvantage on the roll, requiring the player to roll twice and use the lower result."
+  },
+  {
+    "question": "The DM stated that if an affected creature is hit by an attack, it has advantage on the next attack roll it makes. How long does that last?",
+    "answer": "The advantage on the next attack roll lasts until the end of the turn.",
+    "rules": [
+      "Class Features > Bard > Bard College > College of Lore",
+      "Class Features > Bard > Bard College > College of Valor"
+    ],
+    "rules_explanation": "The Motivational Speech effect states you have advantage on the next attack roll if you get hit. The speech lasts for one hour, but the rules description states the duration of the advantage is one turn."
+  },
+  {
+    "question": "A level 4 Grave domain cleric wants to drop their Antimagic spell. Is this allowed?",
+    "answer": "Yes, a spellcaster may drop their spell.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The rules state You can end concentration at any time (no action required)."
+  },
+  {
+    "question": "A player wants to know if the blood magic with fire damage that the BBEG uses can be resisted with a ring of fire resistance. Is the character resistant to fire?",
+    "answer": "Resistance or immunity to fire damage means that a creature takes half damage from fire, regardless of the source of the damage.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The equipment list needs to be specified for the character in order to answer correctly. There is resistance to cold damage, it's clear if this question references the equipment sheet, or was added by some power, or racial trait. In this particular instance it was established a player character had the ring after the question was asked, then a character stated they also had resistance to cold damage. "
+  },
+  {
+    "question": "A paladin asks 'Does it work on Divine Intervention?' where 'it' refers to the mote of possibility. Does it?",
+    "answer": "No. The mote of possibility does not work on divine intervention.",
+    "rules": [
+      "",
+      "Player's Handbook > Spellcasting"
+    ],
+    "rules_explanation": "The Divine intervention doesn't involve a D20 roll by the player. The mote is for attack rolls, ability checks, and saving throws"
+  },
+  {
+    "question": "A character with rage, haste, and an action available wants to attack and asks 'So, here we go, first attack'. How many attacks can the character make?",
+    "answer": "The character can make three attacks. Two as part of the attack action and a third as part of the haste spell.",
+    "rules": [
+      "Classes > Barbarian > Rage",
+      "Spell Descriptions > Haste",
+      "Combat > Actions in Combat > Attack",
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "A barbarian gets an extra attack at level 5. The haste spell grants an extra action but it can only be used to attack once."
+  },
+  {
+    "question": "A character has cast the Slow spell. What happens to the slowed character during combat?",
+    "answer": "An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can't use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.",
+    "rules": [
+      "Spell Descriptions > Slow"
+    ],
+    "rules_explanation": "The question refers to the effect of the Slow spell. A successful saving throw against the spell negates the effect. A re-roll is permitted by the rules at the end of the character's turn each round of combat to escape the spell."
+  },
+  {
+    "question": "If a player is holding concentration on a spell, and then enters an anti-magic cone, does the concentration break, and therefore the spell end?",
+    "answer": "Correct, a concentration spell will end as the magic is nullified.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "If the character cannot create the magic, then it cannot exist. Since the caster and the target are the same in this case, this is true."
+  },
+  {
+    "question": "A character cast Bless on the player team, is it permanent?",
+    "answer": "No, The Bless Spell is not permanent.",
+    "rules": [
+      "Spell Descriptions > Bless",
+      "Spellcasting > Duration"
+    ],
+    "rules_explanation": "The spell description for Bless says the duration is 'Concentration, up to 1 minute'. If a spell is not concentration the spell's duration describes the length of the effect, and if there is no length of effect, as with Instantanoues spells, the effect is permanent."
+  },
+  {
+    "question": "A character is at 60 feet from the target. What is the effect of Fold Space action?",
+    "answer": "The target character disappears and reappears 60 feet from its original position.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Fold space's effect can be determined in the absence of any given rules."
+  },
+  {
+    "question": "The table speaks of Wisdom. Is the roll intelligence?",
+    "answer": "No, Jester is told that it is wisdom",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A player asks a question about the type of roll required and the DM clarifies. No rule is directly used or cited."
+  },
+  {
+    "question": "A DM asks whether Haste provides extra advantage on attacks, since the character was already raging. Does it?",
+    "answer": "No, the rage feature does not provide extra advantage since the advantage was caused by Yasha's battle cry. Battle cry ends on her next turn, then the Haste's advantage on dexterity would become available..",
+    "rules": [
+      "Player's Handbook > Classes > Barbarian > Class Features > Rage",
+      "Player's Handbook > Spell Descriptions > Haste"
+    ],
+    "rules_explanation": "Characters can only have one advantage or disadvantage on an attack roll, even if multiple things provide the same bonus. This may make some things that would normally be helpful like another character trying to use the help action to give advantage redundant because it does not stack with previous advantages."
+  },
+  {
+    "question": "Can dispel Magic work on aberrant Protection incantation?",
+    "answer": "Not directly. The spell is still cast, but the protection effect is suppressed while in the anti-magic field",
+    "rules": [
+      "Spellcasting > Areas of Effect > Anti-Magic field.",
+      "Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "Spell cannot exist where anti magic field is in effect. Effect of magic protection is turned on when it's not in anti magic field. Aberrant protection is suppressed rather than being cancelled. "
+  },
+  {
+    "question": "A player says the character can't be damaged, because their aberrant bubble exists. Is that true?",
+    "answer": "No. Aberrant protection cannot act as immunity.",
+    "rules": [
+      "Spellcasting > Areas of Effect"
+    ],
+    "rules_explanation": "Abberant does not provide an immunity to damage, but protects you from aberration. You can still be directly hit, but will not have the added effects from it."
+  },
+  {
+    "question": "A PC's roll ends at 11, what are they allowed to do on the turn?",
+    "answer": "If a player's roll results in 11 or higher, the character is not slowed and is able to take a normal turn. If 10 or lower, the character's movement is halved, has no reaction, and can only use an action or a bonus action but not both.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The consequence of rolling 11 or higher or lower as a result of the Luctus effect on the Fjord is stated in the rule, rather than requiring lookups in multiple sections of the rules."
+  }
+]

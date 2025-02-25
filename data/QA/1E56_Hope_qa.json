@@ -1,0 +1,261 @@
+[
+  {
+    "question": "Can the contents of the Bag of Holding be considered infinite?",
+    "answer": "No, the Bag of Holding can hold upwards 500 pounds, to the max.",
+    "rules": [
+      "Magic Items > Bag of Holding"
+    ],
+    "rules_explanation": "A Bag of Holding can hold 500 pounds of equipment."
+  },
+  {
+    "question": "As a ranger with mountain as my favored terrain, do I get an advantage on investigation checks about gold in a mountain?",
+    "answer": "No, your favored terrain is mountains, not gold.",
+    "rules": [
+      "Classes > Ranger > Favored Enemy and Natural Explorer",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Ranger's Favored Terrain only applies to checks related to that terrain, not to all checks made within the terrain."
+  },
+  {
+    "question": "How is a tinkering check determined?",
+    "answer": "It's proficiency bonus, plus your dex for the purposes of fixing this.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A Dexterity check is made using proficiency where appropriate."
+  },
+  {
+    "question": "If a 12th level character does not recover hit dice for the evening's rest, how many hit dice do they recover?",
+    "answer": "Yeah. Any that you've used, if you used any, you don't recover any but two. Normally you'd recover half of your unused hit dice right now.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "In a long rest a player character recovers half their used hit dice or one, whichever is more. Not recovering used hit dice is a penalty, and thus does not violate the normal healing rules"
+  },
+  {
+    "question": "How is climbing based?",
+    "answer": "Climbing is, yeah, it's based on strength",
+    "rules": [
+      "Using Ability Scores > Strength > Strength Checks > Athletics"
+    ],
+    "rules_explanation": "A Strength (Athletics) check covers difficult situations you encounter while climbing"
+  },
+  {
+    "question": "If the spirit guardians holding a character stop them, do they get a dexterity save?",
+    "answer": "No, because the moment that you go ahead and splash the water and go towards her, they're on top of you, this isn't about dodging–",
+    "rules": [
+      "Combat > Actions > Ready"
+    ],
+    "rules_explanation": "The readied action trigger was simply about approaching the character, not attacking them, and thus the action simply happens rather than allowing for a dodge"
+  },
+  {
+    "question": "If a level 11 druid uses alter self and the gills option, do they need water breathing prepared?",
+    "answer": "Alter Self! Yeah, totally! Gills. I can do that.",
+    "rules": [
+      "Spellcasting > Spell Lists > Druid Spells > Alter Self"
+    ],
+    "rules_explanation": "The alter self spell provides the ability to sprout gills and breathe underwater with no additional requirements."
+  },
+  {
+    "question": "If a character re-reads the tome of leadership and influence after two days, does it restart the process?",
+    "answer": "No.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master indicates a decision here rather than a rule."
+  },
+  {
+    "question": "If a character reads the Tome of Leadership and Influence and then passes it on to another person, does it just restart?",
+    "answer": "It takes six days of reading to take effect. No.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is game master decision instead of a written rule, but suggests strongly the process cannot be split and therefore the book cannot simply be passed on."
+  },
+  {
+    "question": "If a party is travelling and get aged by a sphinx's lair, is there time to use Greater Restoration to become young again on the way to the next town?",
+    "answer": "I would say, for the purposes of the travel, because you guys had a few days' travel from the actual Sphinx's lair, towards Westruun when you were travellng back, you had the opportunity to use Greater Restoration to get rid of it.",
+    "rules": [
+      "Spellcasting > Spell Lists > Cleric Spells > Greater Restoration",
+      "Spellcasting > Spell Lists > Druid Spells > Greater Restoration"
+    ],
+    "rules_explanation": "Game master indicates a decision here rather than a rule, indicating that the characters could have solved this problem. However, the use of the greater restoration spell itself is still indicated."
+  },
+  {
+    "question": "Does the total level of the wizard's wall of force spell affect whether or not it stops a travelling group of beings?",
+    "answer": "It does. A wall of force will stop anything.",
+    "rules": [
+      "Spellcasting > Spell Lists > Wizard Spells > Wall of Force"
+    ],
+    "rules_explanation": "A Wall of Force is an impenetrable magical barrier, and thus stops anything."
+  },
+  {
+    "question": "If a druid casts water breathing on herself using alter self, does she need to prepare the water breathing spell?",
+    "answer": "Alter Self! Yeah, totally! Gills. I can do that.",
+    "rules": [
+      "Spellcasting > Spell Lists > Druid Spells > Alter Self"
+    ],
+    "rules_explanation": "Alter self has an explicit option to sprout gills and breathe underwater, therefore having water breathing prepared is not necessary"
+  },
+  {
+    "question": "If one of my player characters is using all those actions to get the stone golem where they want him to be, that's fine?",
+    "answer": "Yep",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a game master decision instead of a written rule."
+  },
+  {
+    "question": "does the oil of etherealness require drinking or applying?",
+    "answer": "Yeah, it's rubbing?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A vial of oil is assumed to have a means of applying instead of drinking."
+  },
+  {
+    "question": "If you read for two days and then pass it off to someone else, does it just restart?",
+    "answer": "No.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a non-specific rejection, so the game master is implying that you do not get a refund of the time spent."
+  },
+  {
+    "question": "Does anybody need help at climbing or are we all okay?",
+    "answer": "No, your strength's pretty high. You can rock climb.",
+    "rules": [
+      "Using Ability Scores > Strength > Strength Checks > Athletics"
+    ],
+    "rules_explanation": "Athletics skill is used for checks that require climbing so if a character has a strong athletics score, they can rock climb."
+  },
+  {
+    "question": "Do you have Water Breathing prepared? Or was this your Alter Self gills?",
+    "answer": "Alter Self! Yeah, totally! Gills. I can do that.",
+    "rules": [
+      "Spellcasting > Druid Spells > Alter Self"
+    ],
+    "rules_explanation": "Gills are a natural function of the spell Alter Self."
+  },
+  {
+    "question": "If he gets even more charismatic and then he proposes again? And he charms you more?",
+    "answer": "Well, if he's so charming, I just wouldn't be able to help it.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a player's reaction to the risk posed by the tome, rather than a rule."
+  },
+  {
+    "question": "If you read for two days and then pass it off to someone else, does it just restart?",
+    "answer": "It takes six days of reading to take effect.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Game master information only rather than a stated game rule."
+  },
+  {
+    "question": "If we read for two days and then pass it off to someone else, does it just restart?",
+    "answer": "It's once a century it works.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Game master is making a storytelling joke rather than stating a game rule."
+  },
+  {
+    "question": "If you read for two days and then pass it off to someone else, does it just restart?",
+    "answer": "No. To be fair, it takes days.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This confirms that days spent reading do not have any special status outside of long term use, and passing off simply wastes those days."
+  },
+  {
+    "question": "Are we still old? It would have worn off, right?",
+    "answer": "I would say, for the purposes of the travel, because you guys had a few days' travel from the actual Sphinx's lair, towards Westruun when you were travellng back, you had the opportunity to use Greater Restoration to get rid of it.",
+    "rules": [
+      "Spellcasting > Cleric Spells > Greater Restoration"
+    ],
+    "rules_explanation": "A level 5 Cleric spell is able to reverse the negative ageing effects that occurred earlier in play, with this spell being available for use during their travels."
+  },
+  {
+    "question": "If you read for two days and then pass it off to someone else, does it just restart?",
+    "answer": "What if he gets even more charismatic and then he proposes again? And he charms you more?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a player's reaction to the risk posed by the tome, rather than a rule."
+  },
+  {
+    "question": "The tattoos and beard that were partially destroyed– beard?",
+    "answer": "Yeah, the beard's a little bit reduced from the sheer volume of acid that was thrown at your face but since healing magic was applied shortly thereafter, the little bit of the beard that began to singe, it stopped that process. So you still have some facial hair, just may have to grow back to its full majesty–",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is game master's description of an event, not a ruling."
+  },
+  {
+    "question": "Is our gold still there?",
+    "answer": "Your gold is not there.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master states what happened instead of a rule."
+  },
+  {
+    "question": "Do you have Water Breathing prepared? Or was this your Alter Self gills?",
+    "answer": "Alter Self! Yeah, totally! Gills. I can do that.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There is no citation of a spell or game mechanic here, this is a player asserting what they are doing"
+  },
+  {
+    "question": "Is it about your feelings about Vax? Is that the whole problem right now?",
+    "answer": "You do. As you guys are having this conversation, Kerr walks over with a rosy grin on his face.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The nature of the game here is free form role playing. And these are the interactions of the player characters with each other and the environment of the players and game master described."
+  },
+  {
+    "question": "Do you have Water Breathing prepared? Or was this your Alter Self gills?",
+    "answer": "Did you just cannonball away?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There is no citation of a spell or game mechanic here, this is a player asserting what they are doing"
+  },
+  {
+    "question": "17 plus perception is– did I get it wrong? Am I too tired? I've had a long day, people. Let's say 29.",
+    "answer": "Did you take perception as one of your– Oh, then yeah. Okay.",
+    "rules": [
+      "Races Racial Traits",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "There is a statement of a perception bonus and a question of character proficiency of skill to be clarified by game master"
+  },
+  {
+    "question": "Am I shit at climbing?",
+    "answer": "No, your strength's pretty high. You can rock climb.",
+    "rules": [
+      "Using Ability Scores > Strength > Strength Checks > Athletics"
+    ],
+    "rules_explanation": "Climbing is assessed based on Strength, so high strength means climbing ability."
+  },
+  {
+    "question": "So if you read for two days and then pass it off to someone else, does it just restart?",
+    "answer": "It takes six days of reading to take effect.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a game master answer to a specific question, without indicating any game rule."
+  },
+  {
+    "question": "Is it just beer? Or is it any spirit? Or what?",
+    "answer": "No, I said “mayonnaise” and it started to make mayonnaise and then it stopped so I think there's a finite amount of stuff it can make in a day.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Jug has undefined behaviour beyond the Game Masters statements"
+  }
+]

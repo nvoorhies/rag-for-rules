@@ -1,0 +1,79 @@
+[
+  {
+    "question": "The Level 6, race Fearne Calloway asks, \"Did they roll deception or persuasion?\"",
+    "answer": "Deception or persuasion is the appropriate roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The DM determines the correct skill to use for any given ability check based on the character's actions. When Dorian or Braius is giving contradictory information about Morri's trustworthiness to another party member, Robbie, and Fearne is trying to determine what they really think about the situation, a persuasion or deception roll is appropriate."
+  },
+  {
+    "question": "Does the tiny warrior's training allow knowledge of the Prime Deities and Betrayers knowing if the gods would know if he started talking to the other side of the polytheistic coin?",
+    "answer": "The character must make a religion check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The DM determines the correct skill to use for any given ability check based on the character's actions. When Braius is unsure of his faith and asks if the gods would care if he reached out to both sides, it is appropriate for the DM to call for a religion check."
+  },
+  {
+    "question": "The Level 1, race Orym, asks, \"How much does it weigh-ish?\", in relation to the bag of coins the party receives from Keyleth.",
+    "answer": "The bag weighs-ish about 550 gold.",
+    "rules": [
+      "Equipment"
+    ],
+    "rules_explanation": "The DM determines the value based on the mixture of gold and platinum coins in the bag."
+  },
+  {
+    "question": "If the level 4 class Taliesin is moving full speed will pass without a trace help him?",
+    "answer": "No. If you're going full speed, it isn't possible to use stealth.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Spells > Concentration"
+    ],
+    "rules_explanation": "If a character is using the stealth skill, it wouldn't be appropriate to also be moving at full speed. You can't do both."
+  },
+  {
+    "question": "Are all four party members required to use the same stat for the check to avoid branches?",
+    "answer": "No. Each player can choose either athletics, acrobatics, or animal handling to avoid branches.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM states that each party member can choose the appropriate skill to avoid branches based on the action they're taking. Each player can determine which option is the best."
+  },
+  {
+    "question": "Does a familiar's action influence the outcome of the scene for others present?",
+    "answer": "Yes. What the familiar does affects how the scene plays out and the success of future actions.",
+    "rules": [
+      "Spellcasting > Targets",
+      "Using Ability Scores > Passive Checks",
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "Paté's failure on the stealth check while attempting to look through the window in an upper level alerts those inside the building to the group's presence. Because of the familiar's actions, the enemies are now on alert."
+  },
+  {
+    "question": "If the dragon's name was known, what would that tell us about how to target it with spells that require targeting with a name?",
+    "answer": "There is nothing in the transcript that suggests that any of the characters have the ability to target a creature specifically based on the name. Additionally, the rules for area of effect of a spell do not change.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "Unless there is a specific ability allowing to target based on a specific name, the targeting of the spell still requires the appropriate targeting of a creature of their choice within range that they can see."
+  },
+  {
+    "question": "When a player is asked to make a saving throw, is advantage or disadvantage applied?",
+    "answer": "Apply advantage or disadvantage, if applicable.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Unless there is a specific ability or circumstance negating it, it is assumed that advantage and disadvantage should be applied."
+  },
+  {
+    "question": "What happens to an effect which causes disadvantage to a roll if there is already advantage on the roll?",
+    "answer": "The advantage and disadvantage cancel out.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the range on the Chain of Returning?",
+    "answer": "The Chain of Returning has a range of 30 feet.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Range"
+    ],
+    "rules_explanation": "In order to determine if the throw was within the valid range of the Chain of Returning, the rules for determining the range of a ranged attack are consulted, including the rule that the weapon range will be written in the rules text."
+  },
+  {
+    "question": "Does advantage from spell resistance armor help with this saving throw?",
+    "answer": "Advantage on saving throws would apply, but it must be determined if the effect is technically a spell.",
+    "rules": [
+      "Combat > Saving Throws",
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "The question asks if they can apply an advantage to the saving throw they are about to perform. This means they are taking a saving throw, and the rules require advantage to be noted on the sheet and can come from special abilities, actions or spells."
+  },
+  {
+    "question": "If a bard uses cutting words, does that affect a saving throw?",
+    "answer": "No, Cutting Words is to reduce the attack roll of another creature, not affect saving throws.",
+    "rules": [
+      "Classes > Bard > Bard College > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "The question requires knowing the function of Cutting Words, which only reduces attack rolls not the target's saving throws."
+  },
+  {
+    "question": "If an enlarged Barbarian uses a shove attack to push someone 5 feet back, do they move into the space?",
+    "answer": "Yes. You push it back, you move in to get within range there. Because you'd have to move five feet because Keyleth pushed it away.",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack > Melee Attacks > Shoving a Creature"
+    ],
+    "rules_explanation": "The rules on Shoving a Creature is consulted, which only says the creature moves 5 feet and does not discuss the actor following into the space."
+  },
+  {
+    "question": "For Hex, is the saving throw strength or constitution?",
+    "answer": "The target needs to make a strength saving throw.",
+    "rules": [
+      "Spell Descriptions > Hex"
+    ],
+    "rules_explanation": "This question can be directly answered from the spell description for Hex."
+  },
+  {
+    "question": "Can you tell if the hex spell has dissipated?",
+    "answer": "Yes, you can tell that Hex has dissipated.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "A spell with a duration of Concentration ends when the caster ceases to concentrate, which they are aware of."
+  },
+  {
+    "question": "Can the enlarged state d4 damage be added to an attack?",
+    "answer": "Yes. When you're enlarged you do an additional 1d4 with any weapon attacks because the weapon got larger as well.",
+    "rules": [
+      "Classes > Barbarian > Rage",
+      "Spell Descriptions > Enlarge/Reduce"
+    ],
+    "rules_explanation": "The barbarians rage mechanic and the enlarge/reduce spells are consulted in order to determin additional d4 damage applies on a hit with a melee weapon."
+  },
+  {
+    "question": "For Grit recovery, is a short rest or long rest required?",
+    "answer": "A short rest is required.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for Grit recovery (presumably related to the Gunslinger subclass found outside of the SRD) dictate the type of rest needed to reset Grit points."
+  },
+  {
+    "question": "Does Scanlan's Bardic subclass ability help everyone's hit dice recovery during a short rest?",
+    "answer": "Yes. Every person heals an additional 1d10 hit points at the end of a short rest.",
+    "rules": [
+      "Classes > Bard > Class Features > Song of Rest"
+    ],
+    "rules_explanation": "The question requires an understanding of the Bard's Song of Rest class feature."
+  },
+  {
+    "question": "Does my advantage from spell resistance on my armor help with this saving throw?",
+    "answer": "The roll is allowed again because it is technically a spell.",
+    "rules": [
+      "Combat > Saving Throws"
+    ],
+    "rules_explanation": "The question asks if they can apply advantage to the saving throw they are about to perform. This means they are taking a saving throw, and the rules require advantage to be noted on the sheet and can come from special abilities, actions or spells."
+  },
+  {
+    "question": "If a spell is a bonus action, can it be cast at a higher level?",
+    "answer": "Yes. You can go as high as you want on the bonus action, whatever spell you cast as your main action can't be higher than level two.",
+    "rules": [
+      "Combat > Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "The question relates to action economy and spellcasting, specifically how casting a spell using a bonus action interacts with casting another spell in the same turn, and whether there are level restrictions on the spells. These rules are found in the Bonus Actions rules."
+  }
+]

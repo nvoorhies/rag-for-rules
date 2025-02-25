@@ -1,0 +1,106 @@
+[
+  {
+    "question": "How thick does this look?",
+    "answer": "Make a perception or investigation check.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Matt is asking for an ability check to determine the thickness of the rubble, offering the player the choice of using Perception or Investigation, which are skills related to Wisdom and Intelligence, respectively."
+  },
+  {
+    "question": "Everyone is helping. I'd like everyone to make an athletics check for me as a group.",
+    "answer": "Make a Strength (Athletics) ability check.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Matt is asking for a Strength (Athletics) check for each person, to be considered as a group."
+  },
+  {
+    "question": "Does it specify that the level 12 paladin/level 1 warlock can tell what the source of the Divine Sense detection is?",
+    "answer": "No.",
+    "rules": [
+      "Basic Rules > Spellcasting"
+    ],
+    "rules_explanation": "The description of the Divine Sense ability does not say the user knows the source only celestial, fiend, or undead nature."
+  },
+  {
+    "question": "Are you taking a moment to carefully look around, for an investigation check?",
+    "answer": "Perception is a quick glance, investigation is on the ground, and takes time.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Matt is defining whether a check should use perception, based on quick glances, or investigation, based on a careful examination of the scene."
+  },
+  {
+    "question": "The character level 12 rogue/level 1 fighter is good at that. With disadvantage?",
+    "answer": "Roll one d20 with one of the dice representing your character's roll, and the other representing the disadvantage on the roll.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM is confirming with the player that the player is good at a certain check, and then confirms that the character has disadvantage on the check."
+  },
+  {
+    "question": "Can the Detect Magic user assist the survival check?",
+    "answer": "If you'd like, yes.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "Caleb is asking to assist with the survival check which would have to happen via a roll, so the DM is allowing it."
+  },
+  {
+    "question": "Does it specify that you can tell what the source is?",
+    "answer": "No.",
+    "rules": [
+      "Section 4 > Class Features > Paladin > Divine Sense"
+    ],
+    "rules_explanation": "Matt is stating, based on the rules for Divine Sense that it only provides the presence of evil and good, not what the source is."
+  },
+  {
+    "question": "He's making himself look like Cree. Do you remember going down and through this tower before?",
+    "answer": "Make a deception check, with advantage.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "tyffial will either believe him or not, so a roll is required."
+  },
+  {
+    "question": "Complete with eyes and everything? So we pick a head. Is the elf a ranger?",
+    "answer": "Roll a d20 with each of the d20 dice representing your character's roll, and because you have advantage, select the die with the best result.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "advantage is granted because Caduceus looks like Cree."
+  },
+  {
+    "question": "Does it specify that you can tell what the source is?",
+    "answer": "No.",
+    "rules": [
+      "Section 4 > Class Features > Paladin > Divine Sense"
+    ],
+    "rules_explanation": "Matt is stating, based on the rules for Divine Sense that it only provides the presence of evil and good, not what the source is."
+  },
+  {
+    "question": "They're names. So good at improv. Does that name mean anything to you? With expediency, everyone make a stealth check.",
+    "answer": "Roll a dexterity (stealth) ability check.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Matt is asking for Stealth checks to see if the group is successful at remaining undetected."
+  },
+  {
+    "question": "Since we have all been to the colosseum, and we now have a new Aeormaton companion, are we allowed to travel out on retracing steps without rolling a stealth check?",
+    "answer": "roll a stealth check.",
+    "rules": [
+      "Basic Rules > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Matt is still asking for Stealth checks to see if the group is successful at remaining undetected."
+  },
+  {
+    "question": "It would work, the globe will block magic from the tower? Are we all in the adventurers of Babysitting huddle?",
+    "answer": "Spells of 5th-level or lower can't get through, higher can.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Casting a Spell at a Higher Level"
+    ],
+    "rules_explanation": "The Globe of Invulnerability states that it blocks spells at 5th level and lower."
+  }
+]

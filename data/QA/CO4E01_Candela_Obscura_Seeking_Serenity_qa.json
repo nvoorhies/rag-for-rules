@@ -1,0 +1,66 @@
+[
+  {
+    "question": "The control roll was made to push against water that is streaming into your cabin and wedge the door open by a foot. What dice are rolled?",
+    "answer": "The level, class, and race are irrelevant. A single die is rolled for Control, and 1 drive point may be spent to improve the roll.",
+    "rules": [
+      "Chapter 4 > Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The base mechanic for an ability check is to roll a d20 and add modifiers. There are 6 abilities, each with a check. The question asks for a list of dice to be rolled. The question states that this is a control roll. The rules state that this is a check."
+  },
+  {
+    "question": "If the character spends a drive, does the roll have to take the lowest?",
+    "answer": "Not applicable. The character can spend one drive to add 1 die.",
+    "rules": [
+      "None"
+    ],
+    "rules_explanation": "The character is asking for clarity of a house rule, not a SRD rule."
+  },
+  {
+    "question": "How does a character try to calm a frightened target?",
+    "answer": "The older, well-put-together, early 40s character used a sway roll and spent a drive",
+    "rules": [
+      "None"
+    ],
+    "rules_explanation": "There are no general rules for calming a target, and the attempt is described by the player."
+  },
+  {
+    "question": "What is the die rolled for throwing something with Control when you are trying to save someone who has fallen into the water?",
+    "answer": "Roll two dice, using the Fours result for an individual who burns one drive.",
+    "rules": [
+      "Chapter 4 > Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The base mechanic for an ability check is to roll a d20 and add modifiers.  There are 6 abilities, each with a check.  The question asks for a list of dice to be rolled. The question states that this is a control roll. The rules state that this is a check."
+  },
+  {
+    "question": "Aimee's 18 year old slight of build, but mighty of spirit Occultist attempts to spend a drive on a dodge roll. Does this mean she adds one?",
+    "answer": "spending a drive gives you a two-die roll",
+    "rules": [
+      "Chapter 4 > Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The base mechanic for an ability check is to roll a d20 and add modifiers. This is a free form explanation question."
+  },
+  {
+    "question": "When you do a Survey and add a drive to the result what happens",
+    "answer": "you get a two die roll.",
+    "rules": [
+      "Chapter 4 > Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The base mechanic for an ability check is to roll a d20 and add modifiers. The modifier added is determined by burning a drive."
+  },
+  {
+    "question": "Can I use a resistance to reroll?",
+    "answer": "Using a resistance allows the use of only the base stat.",
+    "rules": [
+      "Chapter 4 > Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The base mechanic for an ability check is to roll a d20 and add modifiers. There is no rule for this effect in the free SRD. "
+  },
+  {
+    "question": "If you have the base of the stat, then what happens",
+    "answer": "If you have the base of the stat, then you'd be rolling two die and taking the lower.",
+    "rules": [
+      "None"
+    ],
+    "rules_explanation": "This is a free form question from the players."
+  }
+]

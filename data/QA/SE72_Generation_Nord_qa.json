@@ -1,0 +1,485 @@
+[
+  {
+    "question": "Can Level 1 Game Geek roll an insight check?",
+    "answer": "Yes, the level 1 Game Geek can roll insight check.",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?",
+      "Ability Scores > Wisdom > Insight"
+    ],
+    "rules_explanation": "It is up to the GM to determine which ability check applies. The question indicates it would use Wisdom and Insight, which is a valid combination."
+  },
+  {
+    "question": "The 8-bit system changes all d20 rolls to a d8. When Game Geek, who has +0 computing, rolls a 1 on a d8 for an insight check, what is the result?",
+    "answer": "The result of the insight check is 1.",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?"
+    ],
+    "rules_explanation": "A roll for insight check is requested and the game master has modified the rules so that the roll is 1d8 and not a d20, to which the game geek's modifier of +0 is added."
+  },
+  {
+    "question": "Does Aimee's level 18 Dark Web Robin Hood get e-vantage?",
+    "answer": "The question is ambiguous. It is not possible to resolve what check is being asked for.",
+    "rules": [
+      "Gameplay > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM indicates that the players can roll \"with e-vantage\" but it's up to the DM to determine if they have the advantage if they don't ask. The vague use of the term \"e-vantage\" is not defined, and could either mean electronic-advantage or some other advantage."
+  },
+  {
+    "question": "Can the Level 4 Wire Wizard guess?",
+    "answer": "Yes, Level 4 Wire Wizard can guess",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?"
+    ],
+    "rules_explanation": "At all times any player can guess as per the DM description. Guessing is not defined as an action and therefore does not require a skill."
+  },
+  {
+    "question": "Agent Nobode's rules stated before the start of the game, state: I will reward players who make up complex technical terms. I will reward the overuse of hacker jargon. I will reward obscure 90s pop culture references. How does this interact with the usual rules?",
+    "answer": "The rule as stated is not defined by the SRD.",
+    "rules": [],
+    "rules_explanation": "The GM stated that the rules are that the game is the 8-bit system, which uses a d8 instead of a d20. Beyond that, house rules are not part of the SRD"
+  },
+  {
+    "question": "For the spoof phone call, Lou the level 3 Dude with a Car, who has +1 persuasion, rolls a 4. What is the total?",
+    "answer": "The total is 5",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?",
+      "Ability Scores > Charisma > Persuasion"
+    ],
+    "rules_explanation": "The base value from the roll is added to the character's skill."
+  },
+  {
+    "question": "Laura the level 4 WYREWIZZARD, who has knowledge of hardware skill check, is rolling with e-vantage; what dice does she roll?",
+    "answer": "The level 4 WYREWIZZARD rolls 2 d8.",
+    "rules": [
+      "Gameplay > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM has stated that the players will be rolling d8s, as part of their 8 bit system, so if the character is rolling with advantage she will roll 2 d8s"
+  },
+  {
+    "question": "Agent Nobode asks does it say multiattack, or does it?",
+    "answer": "The question cannot be answered by the SRD.",
+    "rules": [],
+    "rules_explanation": "Multiattack depends entirely on the stat block, so no rules apply."
+  },
+  {
+    "question": "What kind of check to try to do a kick flip?",
+    "answer": "The DM calls for a dexterity check.",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?",
+      "Ability Scores > Dexterity"
+    ],
+    "rules_explanation": "It is up to the GM to determine which ability check applies. The GM indicates it would use Dexterity."
+  },
+  {
+    "question": "Is there such a thing as Roller Skate Sneakers in 1995?",
+    "answer": "The SRD does not contain information on what objects exist at a particular time in history.",
+    "rules": [],
+    "rules_explanation": "This relies on external knowledge, which the SRD does not have."
+  },
+  {
+    "question": "In the game system do you get advantage with a--",
+    "answer": "The question is ambiguous.",
+    "rules": [],
+    "rules_explanation": "In the dialog, it appears the player may not understand when and what applies for advantage and disadvantage. Without more information, the question is ambiguous"
+  },
+  {
+    "question": "What check is made to find out how tall someone is based on how close he is to the door",
+    "answer": "The DM calls for a medicine check.",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?",
+      "Ability Scores > Wisdom > Medicine"
+    ],
+    "rules_explanation": "It is up to the GM to determine which ability check applies. The DM indicates it would use Medicine."
+  },
+  {
+    "question": "I'm going to make, but I need two people to sit on each other's laps, I don't know. Does anyone lap up?",
+    "answer": "This question cannot be answered by the SRD.",
+    "rules": [],
+    "rules_explanation": "How many people can occupy a space is up to the DM to decide."
+  },
+  {
+    "question": "How is Enhancing done in the game?",
+    "answer": "In this game, enhancing is an auto success. All you have to do is say the word enhance and it just happens.",
+    "rules": [],
+    "rules_explanation": "This is a house rule."
+  },
+  {
+    "question": "If a weapon has a damage range, 1d4, what does it mean if it's tonfa is two right?",
+    "answer": "The question is ambiguous.",
+    "rules": [],
+    "rules_explanation": "Multiattack depends entirely on the stat block, so no rules apply."
+  },
+  {
+    "question": "Agent Nobode asks Do you want me to take a look at your knee? can I?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "This is an in-character question."
+  },
+  {
+    "question": "With her knowledge of fabric supplies can aimee create a suit? What roll applies?",
+    "answer": "To see if Aimee's character can make the suit roll a deception or sleight of hand check.",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?",
+      "Ability Scores > Dexterity > Sleight of Hand",
+      "Ability Scores > Charisma > Deception"
+    ],
+    "rules_explanation": "The DM is calling for either a Dexterity (Sleight of Hand) check, or a Charisma (Deception) check to perform the stated action."
+  },
+  {
+    "question": "The car battery is not going great, but the computer is being setup at disadvantage, does dis-e-vantage result in negative numbers?",
+    "answer": "It is not possible to tell what the effect of \"Dis-e-vantage\" is as it is not a term in the SRD. The description for Advantage and Disadvantage do not include negative numbers.",
+    "rules": [
+      "Gameplay > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The question depends on an effect of \"Dis-e-vantage\" which is not a term in the SRD"
+  },
+  {
+    "question": "If I use my earpiece and hardwire what roll do I make?",
+    "answer": "Make a hardware knowledge check, and use Laura's knowledge of hardware skill check.",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?",
+      "Ability Scores > Intelligence > Arcana",
+      "Gameplay > Working Together"
+    ],
+    "rules_explanation": "You can use your knowledge of hardware for check which the GM indicates is an Intelligence (Arcana) check. The rules also mention another can assist."
+  },
+  {
+    "question": "For attacks, the taser has 'range, 1d4, target make a con save DC 15.' Does that mean you roll damage?",
+    "answer": "The use of the taser requires the roll of a die, and a save.",
+    "rules": [
+      "Combat > Making an Attack",
+      "Ability Scores > Constitution > Saving Throws"
+    ],
+    "rules_explanation": "The GM determines the mechanics for this newly introduced item, a taser, which includes a ranged roll of 1d4, and a target making a Constitution saving throw."
+  },
+  {
+    "question": "While airborne making an attack, the attack roll is a 10, the defense is 13, does it hit?",
+    "answer": "The attack does not hit",
+    "rules": [
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "The game master has ruled that the attack requires that one number must meet or exceed another."
+  },
+  {
+    "question": "Can I use an acrobatics skill check to see if these skates actually work?",
+    "answer": "The GM rules that you can use an acrobatics check.",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?",
+      "Ability Scores > Dexterity > Acrobatics"
+    ],
+    "rules_explanation": "It is up to the GM to determine which ability check applies. The GM indicates it would use Dexterity and Acrobatics."
+  },
+  {
+    "question": "Does Agent Nobode have a real limp?",
+    "answer": "An insight check is rolled to see if Agent Nobode has a real limp.",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?",
+      "Ability Scores > Wisdom > Insight"
+    ],
+    "rules_explanation": "It is up to the GM to determine which ability check applies. The question indicates it would use Wisdom and Insight, which is a valid combination."
+  },
+  {
+    "question": "You try to get some service on the road. Is there a lot of great cell service out here in 1995, so what do you do?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "This is a narrative description and world building."
+  },
+  {
+    "question": "If we're going to blow them all, from a remote location I, will open all of the doors that I can and cause a panic. Is this allowed",
+    "answer": "This is not a rules question, but a question about character action.",
+    "rules": [],
+    "rules_explanation": "The question asks about permissibility of an action."
+  },
+  {
+    "question": "Is there any oil or anything in the back of this car to put on me so I look like a mess?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "This is a question about in-game objects."
+  },
+  {
+    "question": "If I am using a taser what do I roll?",
+    "answer": "Determine, what to roll",
+    "rules": [],
+    "rules_explanation": "The DM is ambiguous in what kind of roll is to be made for this item. The item has a statistic, but not the method in how to use it"
+  },
+  {
+    "question": "Since the timer is going, Aimee rolled a 10! That's a 10 because I have a plus four decipher code. Did this get through?",
+    "answer": "The attack succeeds.",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?"
+    ],
+    "rules_explanation": "Since the player rolled above the DC, the attack succeeds"
+  },
+  {
+    "question": "Did we ever get a look at that photo from the extra enhancement, of Brick?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "This is a question about information in the game."
+  },
+  {
+    "question": "For attacks, the tonfa's two, right? It's like one-two?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "The player is trying to describe his action and if the DM allows it."
+  },
+  {
+    "question": "I will try to make a the car hold out, make a hardware check. Is this Lou's, also?",
+    "answer": "Both Lou, level 3 Dude with a Car and Laura, level 4 WYREWIZZARD, must make a check.",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?"
+    ],
+    "rules_explanation": "The DM has instructed both players to make a hardware check."
+  },
+  {
+    "question": "Does a DVD player exist yet?",
+    "answer": "The SRD does not contain information on what objects exist at a particular time in history.",
+    "rules": [],
+    "rules_explanation": "This relies on external knowledge, which the SRD does not have."
+  },
+  {
+    "question": "Can you put some shit on me, so I look like a mess? Does Guru have Vaseline gel in the car for burns and shit?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "The question is about items."
+  },
+  {
+    "question": "What does it matter what the player is rolling for the power for the battery?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "This is a comment on the GM's decision."
+  },
+  {
+    "question": "We can make a keycard look like anything we want, but it is blank, what do we roll to make it look like anything we want?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "This is a question about what the player can attempt, which has no mechanic associated with it"
+  },
+  {
+    "question": "This was obviously a fake, and you were given an address, do you get a GPS, or do you have to navigate on your own?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "The question is about world building"
+  },
+  {
+    "question": "Since those skates were not invented until 1999, can they exist?",
+    "answer": "The DM rules prototype exists",
+    "rules": [],
+    "rules_explanation": "The DM made a ruling. No rule is used"
+  },
+  {
+    "question": "If we can't get a real disguise are we taking these?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "The question is about what happens in the game."
+  },
+  {
+    "question": "Can we, do this?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "The question is about what they can do."
+  },
+  {
+    "question": "What are the conditions for sneak attacks to be effective?",
+    "answer": "To make a sneak attack you must; hit a target with a weapon attack and have advantage on the attack roll. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The question is about the conditions for performing sneak attacks."
+  },
+  {
+    "question": "What happens if I click on the IT help for the password?",
+    "answer": "If you click on IT help for the password it will call Kyle Middlebrook.",
+    "rules": [],
+    "rules_explanation": "The GM has ruled in this particular case that if the players use the IT button in the system, it will trigger a specific NPC."
+  },
+  {
+    "question": "What do they mean two attacks?",
+    "answer": "The character is asking for clarification, therefore is not a rules question.",
+    "rules": [],
+    "rules_explanation": "The player is seeking clarification."
+  },
+  {
+    "question": "Two attacks?",
+    "answer": "The character is repeating a question, therefore is not a rules question.",
+    "rules": [],
+    "rules_explanation": "The player is seeking clarification."
+  },
+  {
+    "question": "There's two. Does it say multiattack, or does it?",
+    "answer": "I think it's just a single tonfa, a single attack. Plus you need that other hand for hacking.",
+    "rules": [],
+    "rules_explanation": "The DM has made a decision without reference to rules."
+  },
+  {
+    "question": "If we get a natural roll 8 on the d8, is it a crit and does this is this system work?",
+    "answer": "In this system is a very forgiving system, I'm learning.",
+    "rules": [],
+    "rules_explanation": "The mechanics are custom rules, and not part of the SRD."
+  },
+  {
+    "question": "After applying some lotion, what is the resulting AC?",
+    "answer": "It says 13.",
+    "rules": [],
+    "rules_explanation": "The AC is as per stat block"
+  },
+  {
+    "question": "Does the taser system work, does it say on the weapon what the roll is?",
+    "answer": "The weapon, right. Range, 1d4, target make a con save DC 15.",
+    "rules": [],
+    "rules_explanation": "As described in the stat block for this item. Since this game system has customized items it cannot be found in the standard SRD documents."
+  },
+  {
+    "question": "What does an armor class do?",
+    "answer": "The numbers on the character sheet tell me that",
+    "rules": [],
+    "rules_explanation": "The DM states what the number is from the character sheet and it's not a rules question."
+  },
+  {
+    "question": "15, are we limping man? What does the E-Phone wire look like?",
+    "answer": "These are not rules questions.",
+    "rules": [],
+    "rules_explanation": "These are role play questions to other players."
+  },
+  {
+    "question": "Can you take a look at the picture, and try and figure out what is based on the door's size?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "The player is trying to figure out something from the world setting."
+  },
+  {
+    "question": "Can we move, can we try the card?",
+    "answer": "This is not a rules question, but a question about strategy",
+    "rules": [],
+    "rules_explanation": "The question asks about the permissibility of an action."
+  },
+  {
+    "question": "How do we make it look like anything we want with the blank card?",
+    "answer": "This is not a rules question, but a question about strategy",
+    "rules": [],
+    "rules_explanation": "The question asks about a way of achieving something, it does not specify any attempt to make a role."
+  },
+  {
+    "question": "We're outside. How do I run up at the same time as I do this?",
+    "answer": "This is not a rules question, but a question about stategy",
+    "rules": [],
+    "rules_explanation": "The question asks about a way of achieving something, it does not specify any attempt to make a role."
+  },
+  {
+    "question": "How do I get advantage on this throw or sneak attack?",
+    "answer": "This is not a rules question, but a question about strategy",
+    "rules": [],
+    "rules_explanation": "The question asks about a way of achieving something, it does not specify any attempt to make a role."
+  },
+  {
+    "question": "Can we look through the security cameras to see where the most heavily guarded areas are in JO-CO? And what is that perception roll?",
+    "answer": "This is not a rules question, but a question about strategy",
+    "rules": [],
+    "rules_explanation": "The question asks about a way of achieving something, it does not specify any attempt to make a role, other than a pre-stated perception check."
+  },
+  {
+    "question": "What was the purpose of being here at the JO-CO system?",
+    "answer": "This is not a rules question, but a question about world building.",
+    "rules": [],
+    "rules_explanation": "The question asks about plot."
+  },
+  {
+    "question": "What is the check to see if your car's battery can provide enough power for this move?",
+    "answer": "A hardware check will determine if your car's battery can provide enough power for this move.",
+    "rules": [
+      "Gameplay > Ability Checks > What Roll Applies?"
+    ],
+    "rules_explanation": "The question is about what roll is appropriate. The DM states it's a hardware check."
+  },
+  {
+    "question": "Does the taser take an action to-- Recharge?",
+    "answer": "Yes, the DM indicates that the taser takes an action to recharge.",
+    "rules": [],
+    "rules_explanation": "The DM makes a ruling. No rules are used."
+  },
+  {
+    "question": "If you have a negative number in melee, can it be zero?",
+    "answer": "The rules in the SRD do not limit ability modifiers to be no lower than 0. It is implied that scores can be negative.",
+    "rules": [],
+    "rules_explanation": "The SRD does not explicitly limit scores, therefore they can have negative values."
+  },
+  {
+    "question": "After rolling for intimidation, is she going to kill us?",
+    "answer": "This is not a rules question",
+    "rules": [],
+    "rules_explanation": "The question depends on what actions the NPC takes."
+  },
+  {
+    "question": "If we do something, do we get a bonus from it?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "There is no way to tell without more context from the question."
+  },
+  {
+    "question": "What's our movement?",
+    "answer": "Your movement is 30.",
+    "rules": [],
+    "rules_explanation": "The question depends on state."
+  },
+  {
+    "question": "I see two laptops and a desktop, how are you going to plug these things in?",
+    "answer": "This is not a rules question",
+    "rules": [],
+    "rules_explanation": "This is a question about the world setting."
+  },
+  {
+    "question": "There was two window washers on a window washer basket that was an electrical box or a telephone wire runs directly to this, what does it take out?",
+    "answer": "The SRD does not specify what it is in this game. The SRD does describe a scenario where hitting a telephone wire is used. DMs and players determine what occurs if you strike a structure.",
+    "rules": [],
+    "rules_explanation": "The question depends on something within the game world."
+  },
+  {
+    "question": "He does not have access because I've got, what the all clear is?",
+    "answer": "This is not a rules question, but a question about strategy",
+    "rules": [],
+    "rules_explanation": "This refers to their plan of attack and their character's plan. No rule is used to answer."
+  },
+  {
+    "question": "He's going to need one of these. Is this a special ability we have?",
+    "answer": "Teenagers are not listed as a race with a specific listing in the SRD.",
+    "rules": [],
+    "rules_explanation": "There is no listing of a teenager as a race."
+  },
+  {
+    "question": "What's that mean, what are we looking at? Our defense?",
+    "answer": "These are in game questions, so there is no rules reference.",
+    "rules": [],
+    "rules_explanation": "The players are not asking about the rule itself, but about how the information is being used."
+  },
+  {
+    "question": "There are two tonfas. Is it like two--",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "The players are asking for interpretation, rather than how something works."
+  },
+  {
+    "question": "Can we make a contested roll to see who wins Rollies exist?",
+    "answer": "This is not a rules question, but a decision that the GM makes.",
+    "rules": [],
+    "rules_explanation": "The DM is making a decision about how they will resolve a conflict."
+  },
+  {
+    "question": "How do we use this stuff? You have the schematic blueprints of the Johnson Corp Building.",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "This asks what to do given facts."
+  },
+  {
+    "question": "So do we roll, initiative on one of the eight, all right, everything, what's your skill check?",
+    "answer": "This is not a rules question, this is a question about procedure.",
+    "rules": [],
+    "rules_explanation": "This is a question about procedure and not a rule."
+  },
+  {
+    "question": "Do we roll a, a d8, everything's a d8. Don't add anything. Oh no, there is initiative on your sheet, what's this?",
+    "answer": "Initiative is resolved with a dexterity check",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The question is about how to resolve intitative, which is answered using a dexterity check."
+  }
+]

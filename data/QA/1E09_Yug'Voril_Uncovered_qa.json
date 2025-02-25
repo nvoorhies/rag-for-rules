@@ -1,0 +1,310 @@
+[
+  {
+    "question": "What kind of check does the dragonborn level, class, race, abilities Dragonborn, needs to roll to go invisible?",
+    "answer": "The text says the level, class, race, abilities Dragonborn \"rubs my ring and I go invisible\" and doesn't specify any check.",
+    "rules": [
+      "Part I >  > "
+    ],
+    "rules_explanation": "The transcript states that the dragonborn activates a magical ring, a check may be required, but is not stated explicitly"
+  },
+  {
+    "question": "Is a roll required to use Greater Invisibility?",
+    "answer": "The rules for magic items in the SRD states that they are activated to have an effect unless other rules are specified. Greater Invisibility is a spell and it is being used from a magic ring which is activated to have an effect, not a check or saving throw is required.",
+    "rules": [
+      "Magic Items > Activating an Item > Command Word"
+    ],
+    "rules_explanation": "Greater Invisibility is a spell and the rules of that spell are in effect. A saving throw or other check is not required by the spell or the device, so the invisibility takes effect after the magic ring has been activated."
+  },
+  {
+    "question": "If a small size bard casts the banishment spell on the queen, what saving throw does she have to make?",
+    "answer": "The creature must make a Charisma saving throw.",
+    "rules": [
+      "Spell Descriptions > Banishment"
+    ],
+    "rules_explanation": "The Banishment spell description specifically states the saving throw required."
+  },
+  {
+    "question": "If a ranger makes an investigation check in the underdark, can they roll twice and take the higher?",
+    "answer": "No, that rule is not mentioned in any part of the SRD.",
+    "rules": [],
+    "rules_explanation": "The text does not contain the roll twice if in the Underdark rule."
+  },
+  {
+    "question": "A 4th level transmutation druid is in earth elemental form, what is their speed?",
+    "answer": "The speed of the earth elemental form is 30 feet.",
+    "rules": [
+      "Part I > "
+    ],
+    "rules_explanation": "The gameplay transcript shows that the druid is being referred to the Monster Manual. Earth Elemental statistics will override the normal character's speeds."
+  },
+  {
+    "question": "A 13th level rogue uses their feat Cunning Action, what can they do?",
+    "answer": "They can use one extra action per turn of combat, use for either dash, disengage, or hide.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The gameplay transcript is directly stating what the rogue can do."
+  },
+  {
+    "question": "Does the rogue action, assassinate, create a critical hit if combat has already begun?",
+    "answer": "The feat says if you have the jump, if you go before the person's gone.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The gameplay transcript is directly stating what the feat's conditions are."
+  },
+  {
+    "question": "The mindflayer casts mind blast, what saving throw is required?",
+    "answer": "an intelligence saving throw is required.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The gameplay transcript specifies this save."
+  },
+  {
+    "question": "If the intelligence saving throw is failed, what happens?",
+    "answer": "you find yourself unable to actually draw commands to your muscles for them to function. You are currently stunned.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The gameplay transcript is directly stating what happens if you fail."
+  },
+  {
+    "question": "Is there advantage on the initiative roll if the characters are holding their actions?",
+    "answer": "Yes, for the two that didn't act this turn, you guys can have advantage on the initiative roll because you guys have been holding your actions.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The gameplay transcript is directly stating there is advantage on the initiative roll."
+  },
+  {
+    "question": "How do you determine how much a point gets taken down from using Cutting Words?",
+    "answer": "Roll your d10 number.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The gameplay transcript specifies you roll a d10."
+  },
+  {
+    "question": "Is the queen banished, and does she get another saving throw?",
+    "answer": "She's going to go ahead and attempt to make her saving throw.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The game master is stating she gets to make another save."
+  },
+  {
+    "question": "If you are not affected by Hold Person, what can you do?",
+    "answer": "loose your arrow. So go ahead and roll for your attack.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The gameplay transcript is directly stating that is what to do."
+  },
+  {
+    "question": "Where does it say the saving throw is in the description for Banishment?",
+    "answer": "It should say what saving throw it is.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The game master is suggesting it is in the rules for the Banishment Spell"
+  },
+  {
+    "question": "How many Ioun Stones can you have in the head slot?",
+    "answer": "you can have up to three in the head slot?",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The game master is directly stating how many you can have in the head slot"
+  },
+  {
+    "question": "Where is the player on the map with relation to the other players?",
+    "answer": "You guys are right here.",
+    "rules": [
+      "Part II >"
+    ],
+    "rules_explanation": "The gameplay transcript is directly stating the player is on the map."
+  },
+  {
+    "question": "Do Duergar have magic resistance innately against magic?",
+    "answer": "The provided SRD text does not include a listing of Duergar with descriptions, as this would be found in a specific monster manual.  However the DM states that yes, they're hardy creatures against magic blasts.",
+    "rules": [],
+    "rules_explanation": "This is an inference and the DM is stating their stat block has magic resistance to saves."
+  },
+  {
+    "question": "Can Vax use cunning action and then take an action on their turn?",
+    "answer": "Yes.  He will use his feat, Cunning Action, for one extra action per turn of combat",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "This directly specifies Vax'ildan's actions in accordance with the class feat."
+  },
+  {
+    "question": "If grog is damaged by fireball, how much does the amount get subtracted from his total.",
+    "answer": "31 points of fire damage.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The game master is directly stating the damage."
+  },
+  {
+    "question": "For the character that is using Polymorph and ends that ability, are they back down to their normal one and a half inches, or still have a huge dick?",
+    "answer": "And I'm back down to my normal one and a half inches.",
+    "rules": [
+      "Part II >"
+    ],
+    "rules_explanation": "This is inferred based on the dialogue provided."
+  },
+  {
+    "question": "Can Trinket take more damage, because he is stunned.",
+    "answer": "No more damage, but currently is unable to function.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The gameplay transcript is directly stating no more damage, but can't function."
+  },
+  {
+    "question": "Can you maintain two concentration spells with the Silver Circlet?",
+    "answer": "Anyone who wears it can maintain two concentration spells for two rounds.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The gameplay transcript is directly stating who can, and for how long."
+  },
+  {
+    "question": "Does the amulet of shield only protect the user once a day.",
+    "answer": "Once per rest.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The gameplay transcript is directly stating once per rest."
+  },
+  {
+    "question": "Can the Earth Elemental pick up Grog while he is tied to the cart?",
+    "answer": "Yes, because earth elemental.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The gameplay transcript is directly stating it can because it is an Earth Elemental."
+  },
+  {
+    "question": "How many Ioun stones can one have at a time?",
+    "answer": "And for Ioun Stones I can have up to three in the head slot?",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "This is directly stated by the DM"
+  },
+  {
+    "question": "If an attack with an earth elemental form Strength check fails, can Pike attempt to do a strength check as well to make up for it?",
+    "answer": "Yeah, between the two of you, over the next few seconds or so, you pick the next one and with that remaining push, you force the rest of the bands off.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "It's between the two and that push allows the rest of the bands off."
+  },
+  {
+    "question": "Does this mean Trinket takes more damage since he is stunned?",
+    "answer": "No more damage, but currently is unable to function.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "Directly stated in the game play transcript."
+  },
+  {
+    "question": "If a character is cursed, what does that mean for them?",
+    "answer": "You are considered cursed, which means you have disadvantage on all your ability checks and attacks.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "This is directly stated by the DM"
+  },
+  {
+    "question": "What is a reaction in reference to K'Varn",
+    "answer": "I see it and I cast Hold Person.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "Gameplay transcript indicates the game master lets them react to the event at that moment."
+  },
+  {
+    "question": "Do they have mage armor?",
+    "answer": "19 does hit, even with her mage armor.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "Gameplay transcript directly states there is mage armor."
+  },
+  {
+    "question": "What happens if you are levitating away?",
+    "answer": "Well, yeah essentially levitating away.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "It is not really defined what will happen with levitation."
+  },
+  {
+    "question": "what is needed to perform a super history check.",
+    "answer": "It'd be a history check. Like a super-super history check.",
+    "rules": [
+      "Part II >"
+    ],
+    "rules_explanation": "the game master is implying it will have to be a great roll to find out the information."
+  },
+  {
+    "question": "How can the party tell if the blue crystals are producing cold.",
+    "answer": "No, the temperature doesn't seem different at all to the air. There doesn't seem to be a source at all; it's the same temperature as the rest of the tunnel.",
+    "rules": [
+      "Part II >"
+    ],
+    "rules_explanation": "The game master stated it does not have the qualities."
+  },
+  {
+    "question": "What happens if Grog is carrying the boulder?",
+    "answer": "You lose your balance over the boulder as it's now shoved off of its axis.",
+    "rules": [
+      "Part II >"
+    ],
+    "rules_explanation": "Gameplay transcript is stating what happens to the boulder"
+  },
+  {
+    "question": "Can you follow while stealthed?",
+    "answer": "Yes, stealth.",
+    "rules": [
+      "Part II >"
+    ],
+    "rules_explanation": "The DM simply indicates that it is possible, which implies the rules would follow as normal."
+  },
+  {
+    "question": "Is Grog still damaged?",
+    "answer": "I mean, the visual scars are still there but he's at full hit points. They're healing slowly.",
+    "rules": [
+      "Part II >"
+    ],
+    "rules_explanation": "This shows Grog is still healing based on visual scars."
+  },
+  {
+    "question": "What happens when you touch the crystal on the wall?",
+    "answer": "You reach out and touch the crystal, and it's cold to the touch",
+    "rules": [
+      "Part II >"
+    ],
+    "rules_explanation": "You don't take damage, this implies it is only cold"
+  },
+  {
+    "question": "While a shark, does Grog need to breath?",
+    "answer": "So you're there, now you still have about– what's the speed of? 30",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "Game master did not say that shark form can breathe water."
+  },
+  {
+    "question": "If someone is pushed up into the surface of a boat from underwater, does it still have advantage?",
+    "answer": "Sure.",
+    "rules": [
+      "Part I >"
+    ],
+    "rules_explanation": "The rules regarding such a circumstance were not specified, so it is up to the Game master."
+  }
+]

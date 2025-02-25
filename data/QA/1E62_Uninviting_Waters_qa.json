@@ -1,0 +1,461 @@
+[
+  {
+    "question": "What type of check is required by Level, Class, Race, Skill: keyleth to determine if there is a river?",
+    "answer": "A perception check is required.",
+    "rules": [
+      "Combat > Actions in Combat > Search",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Keyleth is taking an action and attempting to perceive something. Perception checks are used for this."
+  },
+  {
+    "question": "What type of check is required by Level, Class, Race: Percy to attempt to leap across a ten-foot river?",
+    "answer": "An athletics check is required.",
+    "rules": [
+      "Combat > Actions in Combat > Dash",
+      "Using Ability Scores > Ability Checks > Strength"
+    ],
+    "rules_explanation": "Percy is taking a Dash action and attempting to leap across a gap which requires an Athletics check."
+  },
+  {
+    "question": "When a raven wing catches the edge of Level, Class, Race, Ability: vex's broom and tries to knock them off their broom, what check is required?",
+    "answer": "A strength check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Vex is trying to maintain their position against an external force, which requires a strength check"
+  },
+  {
+    "question": "When a large, magically-enforced river combats the strength of Level, Class, Race, Ability: keyleth's control Water spell, what check is required?",
+    "answer": "A Wisdom check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Keyleth's magic is being resisted by a magical force, so they need to make a check."
+  },
+  {
+    "question": "When using Bigby's Hand to grab Vax out of a river, what check is required?",
+    "answer": "A strength check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Using bigby's hand to move something heavy needs a strength check"
+  },
+  {
+    "question": "When Level, Class, Race: Pike holds onto a chain to help Level, Class, Race: Grog pull Level, Class, Race: Percy out of the river, what check is required to see if they can hold on?",
+    "answer": "A strength check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength"
+    ],
+    "rules_explanation": "Pike is holding onto something and requires a strength check"
+  },
+  {
+    "question": "While rushing past in the water, what check is required for Level, Class, Race: Percy to see what the dark form in the water is?",
+    "answer": "A perception check with disadvantage is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Wisdom",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The question implies the character may not be able to see well, as they are under water, so the check is at disadvantage."
+  },
+  {
+    "question": "Laura and Percy are pulling a rope up to get it out of the rapids. What kind of check is required?",
+    "answer": "A strength check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength"
+    ],
+    "rules_explanation": "Pulling something that resists the pull requires strength checks"
+  },
+  {
+    "question": "While trying to cross a river, Level, Class, Race, Skill: vex has a feeling of wanting to jump. What kind of saving throw is required?",
+    "answer": "A Wisdom saving throw is required.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "She is resisting a mental impulse so requires a wisdom saving throw"
+  },
+  {
+    "question": "When using Bigby's Hand to throw Level, Class, Race: Garmelie across the river, what check is required?",
+    "answer": "A strength check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength"
+    ],
+    "rules_explanation": "The hand is being used to hurl something, implying a strength check."
+  },
+  {
+    "question": "While attempting to cross the river, everyone tied onto the rope must make what check?",
+    "answer": "An athletics check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength",
+      "Skills > Strength > Athletics"
+    ],
+    "rules_explanation": "They are helping each other to get across a dangerous area."
+  },
+  {
+    "question": "When Keyleth casts 5th-level blight on the crocodile, what saving throw does the crocodile need to make? And with what condition on the saving throw?",
+    "answer": "The crocodile must make a Constitution saving throw with disadvantage.",
+    "rules": [
+      "Spellcasting",
+      "Druid > Spellcasting > Blight"
+    ],
+    "rules_explanation": "The text of the gameplay transcript mentions that the Blight spell can be cast on plant creatures and this is to be done at a higher level which means that is makes the saving throw with disadvantage and the spell deals maximum damage to it."
+  },
+  {
+    "question": "What check is required for Level, Class, Race: Grog to attempt to enlarge himself inside the crocodile?",
+    "answer": "No check is required.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "The enlarge spell is not something which requires a check, just the action to cast the spell."
+  },
+  {
+    "question": "When the crocodile is trying to bite Level, Class, Race: Percy, what does he roll?",
+    "answer": "An attack roll with disadvantage.",
+    "rules": [
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "There is an implication in the prior text the attacker would have disadvantage. The text states Percy is \"right there in front of him.\""
+  },
+  {
+    "question": "While being stung by the stinger tail of the giant root crocodile, Level, Class, Race, Skill: vex must make what saving throw?",
+    "answer": "A constitution saving throw is required.",
+    "rules": [
+      "Using Ability Scores > Saving Throws > Constitution"
+    ],
+    "rules_explanation": "In the prior text there is venom through body, constitution is the relevant saving throw"
+  },
+  {
+    "question": "What check is required for Level, Class, Race: Percy to get away from the crocodile?",
+    "answer": "A strength check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength"
+    ],
+    "rules_explanation": "It's a struggle to move away from the crocodile."
+  },
+  {
+    "question": "What check is required for Level, Class, Race: Garmelie to pull Level, Class, Race, Skill: vex out of the rapids?",
+    "answer": "A strength check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength"
+    ],
+    "rules_explanation": "Pulling something heavy is a strength check."
+  },
+  {
+    "question": "What kind of save is required for a creature in the area of Pike's Flame Strike?",
+    "answer": "A Dexterity saving throw is required.",
+    "rules": [
+      "Spellcasting",
+      "Cleric > Spellcasting > Flame Strike"
+    ],
+    "rules_explanation": "The spell requires the target to make a dexterity saving throw."
+  },
+  {
+    "question": "When Grog picks up Pike to throw her across the river, what check is required?",
+    "answer": "A strength check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength"
+    ],
+    "rules_explanation": "Throwing someone requires strength."
+  },
+  {
+    "question": "While being thrown by Grog, what kind of check is required for Laura to land correctly?",
+    "answer": "An acrobatics check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Dexterity",
+      "Skills > Dexterity > Acrobatics"
+    ],
+    "rules_explanation": "Landing from a thrown object is acrobatics."
+  },
+  {
+    "question": "To avoid being caught by the hand and dragged back, what check is required?",
+    "answer": "An athletics check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength",
+      "Skills > Strength > Athletics"
+    ],
+    "rules_explanation": "To avoid being caught requires athletics"
+  },
+  {
+    "question": "When Level, Class, Race, Skill: vex feels a bump on Level, Class, Race: Garmelie's person and tries to see what it is, what check is required?",
+    "answer": "An investigation check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Intelligence",
+      "Skills > Intelligence > Investigation"
+    ],
+    "rules_explanation": "They are investigating the lump to work out what it is."
+  },
+  {
+    "question": "What is the effect of Level, Class, Race, Skill: vex being hit by an attack from the tail stinger of the giant root crocodile and failing their constitution saving throw?",
+    "answer": "The player is tripping balls.",
+    "rules": [],
+    "rules_explanation": "This seems to be a ad hoc ruling by the DM. Nothing in the SRD has this specific language"
+  },
+  {
+    "question": "While in melee with the giant root crocodile, is there a disadvantage on the ranged attack using Retort pistol?",
+    "answer": "Yes, there is a disadvantage on the ranged attack.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "The target is in close combat, therefore there is a disadvantage."
+  },
+  {
+    "question": "If Level, Class, Race: Percy wants to use the Drop-It effect, the grit drop an item, can he get the giant root crocodile to drop him, as an item?",
+    "answer": "No, you don't count as an item.",
+    "rules": [],
+    "rules_explanation": "I'm using common sense from the rules, you're not an object so can't be dropped."
+  },
+  {
+    "question": "After being hit by Pike's Guiding Bolt, and therefore an advantage on the next attack, does Keyleth's blight spell gain advantage?",
+    "answer": "No. The Guiding Bolt spell does not give advantage on saving throws.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "The guiding bolt spell grants advantage on attack rolls, not saves."
+  },
+  {
+    "question": "When the crocodile pulls away slightly, which allows Vax and Level, Class, Race: Garmelie to get an attack of opportunity, is Level, Class, Race: Grog technically right now threatening it such that Vax and Level, Class, Race: Garmelie can sneak attack?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "This is a rules judgement call. A strict interpretation of the Sneak Attack rule would say that the crocodile must be threatened by an ally. The DM rules to allow it."
+  },
+  {
+    "question": "If a wizard attempts to cast a spell that requires concentration and cannot complete their turn and cast the spell will they expand the spellslot?",
+    "answer": "No. When casting a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell and you must maintain your concentration while you do so. If your concentration is broken, the spell fails, *but you don't expend a spell slot*. If you want to try casting the spell again, you must start over.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Casting Time > Longer Casting Times"
+    ],
+    "rules_explanation": "The description for the 'Longer Casting Times' states that if the concentration is broken on a spell, the spell fails and *you don't expend a spell slot.*"
+  },
+  {
+    "question": "After an interruption will Vax and Level, Class, Race: Garmelie still benefit from advantage during an attack of opportunity?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "After Level, Class, Race: Grog's turn it is the crocodiles turn so they are no longer having an attack due to Guiding Bolt effect"
+  },
+  {
+    "question": "Once percy is in the crocodiles mouth and is grappled, and therefore restrained, can he still attack?",
+    "answer": "Yes, but he will have disadvantage on all of his attack rolls.",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "The Restrained condition imposes disadvantage on attack rolls."
+  },
+  {
+    "question": "If Level, Class, Race: Taliesin uses the drop-it effect (the grit drop an item), can he get the creature to drop him, as an item?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "This is a DM adjudication. An intelligent creature, like a humanoid character, is not an item."
+  },
+  {
+    "question": "Does Level, Class, Race, Skill: pike have advantage on their attack as grog was swallowed last turn?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The creature is blinded by the spell therefore, Pike has advantage."
+  },
+  {
+    "question": "Does Vex lose a turn due to the venom?",
+    "answer": "The character can take no reactions and must roll a d8 to see what they do.",
+    "rules": [],
+    "rules_explanation": "The effects of a failed save are free form."
+  },
+  {
+    "question": "While restrained, can Level, Class, Race: Percy attack without disadvantage because of Pike's Guiding Bolt?",
+    "answer": "No, disadvantage remains.",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained",
+      "Spellcasting"
+    ],
+    "rules_explanation": "The restrained condition means you have disadvantage on attack rolls. The guidance bolt effect would remove that disadvantage but it doesn't give you advantage"
+  },
+  {
+    "question": "Level, Class, Race, Skill: keyleth, having used her action to blight the crocodile, what else can she do in that turn?",
+    "answer": "She can move towards the tree, away from the river that also wants to eat us, or stay where she is.",
+    "rules": [
+      "Combat > Your Turn",
+      "Movement and Position"
+    ],
+    "rules_explanation": "A character can move and take an action on their turn. She has already used her action, so this is all that remains."
+  },
+  {
+    "question": "Once Grog enlarges, does the snapped rope around his waist fall off, and therefore the daisy chain of adventurers is no longer linked?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "This is DM adjudication. It is determined the force of enlargement would be too much for the rope."
+  },
+  {
+    "question": "While Level, Class, Race: Vax is pulling out of the range of the tail of the giant root crocodile, it make an attack of opportunity with the stinger out towards him behind. What must it roll?",
+    "answer": "It rolls the attack with disadvantage",
+    "rules": [],
+    "rules_explanation": "It has disadvantage because Pike hit it with guiding bolt"
+  },
+  {
+    "question": "If a character has been frenzied raging, what does the character take at the end of it?",
+    "answer": "One level of exhaustion.",
+    "rules": [
+      "Barbarian > Primal Path > Path of the Berserker > Frenzy"
+    ],
+    "rules_explanation": "The Path of the Berserker frenzy feature states that you suffer one level of exhaustion (as described in appendix PH-A)."
+  },
+  {
+    "question": "What kind of check is needed for Level, Class, Race, Skill: Garmelie to pull Level, Class, Race, Skill: vex out of the water?",
+    "answer": "A strength check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength"
+    ],
+    "rules_explanation": "Pulling something heavy requires a strength check."
+  },
+  {
+    "question": "The DM asks Level, Class, Race, Skill: pike 'Where do you want that Flame Strike to land?' how does a player describe the area of effect?",
+    "answer": "As you look over in the distance, unable to really see beyond the form of the creature, you bring the Flame Strike down onto its form. It's going to make a saving throw with disadvantage because of your Cutting Words.",
+    "rules": [
+      "Spellcasting",
+      "Cleric > Spellcasting > Flame Strike"
+    ],
+    "rules_explanation": "The spell description describes how the spell functions."
+  },
+  {
+    "question": "If Level, Class, Race, Skill: pike cast Healing Word at second level, how many dice get rolled?",
+    "answer": "2d4 + 5.",
+    "rules": [
+      "Spellcasting",
+      "Cleric > Spellcasting > Healing Word"
+    ],
+    "rules_explanation": "The healing word spell gets 1d4 dice and the spell level and ability score modifier are added. +5 to the roll."
+  },
+  {
+    "question": "In order to shoot at a rope between party members instead of the crocodile, what must Level, Class, Race: Scanlan do with his Wand of Magic Missiles?",
+    "answer": "Shoot at every segment of rope between every single person.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "This is a special use case for this spell, and the DM accepts it."
+  },
+  {
+    "question": "If the creature that Level, Class, Race, Skill: keyleth is trying to blight has resistance to blight damage, what type of save is the damage?",
+    "answer": "The saving throw for Level, Class, Race, Skill: keyleth's Blight spell is a saving throw against the spell DC.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "The target must succeed on a DC 19 Constitution saving throw or be affected by Blight."
+  },
+  {
+    "question": "When Grog casts enlarge on himself what sort of action is that?",
+    "answer": "This is using a bonus action to rage, and therefore Grog can use his action to cast Enlarge on himself.",
+    "rules": [],
+    "rules_explanation": "The action being used is Frenzied Rage, a Barbarian ability that grants a bonus action."
+  },
+  {
+    "question": "If Level, Class, Race: Vex is taking a constitution save and rolls a natural 20, what can they do?",
+    "answer": "They resist the effect of the poison.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "A natural 20 is always a success on a saving throw."
+  },
+  {
+    "question": "After being poisoned, what is the effect on Level, Class, Race: Vex?",
+    "answer": "The vision shifts and what she sees around her changes.",
+    "rules": [],
+    "rules_explanation": "The effects of a failed save are not explicitly found in the SRD."
+  },
+  {
+    "question": "If Garmelie's strength does not succeed in removing Level, Class, Race, Skill: vex from the river, what happens?",
+    "answer": "Then Level, Class, Race, Skill: vex is not pulled out of the river, so now it's just him and Vax holding you at the edge. The river's pulling you harder and harder, and you can feel the actual swell getting stronger, but they're still managing to keep you in place.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Contests"
+    ],
+    "rules_explanation": "Since the strength check was lost, nothing is changed. They remain in the same position as before."
+  },
+  {
+    "question": "How much strength does the group add with Trinket's help to pull vex from the rapids?",
+    "answer": "Trinkets strength bonus is +4.",
+    "rules": [
+      "Monsters > Animals > Beast"
+    ],
+    "rules_explanation": "This is the bear's dexterity modifier. The statblock is needed to confirm their skill"
+  },
+  {
+    "question": "If a saving throw is modified by the Bard's Cutting Words, how long is the saving throw valid?",
+    "answer": "On his next saving throw.",
+    "rules": [
+      "Bard > Bard College > Cutting Words"
+    ],
+    "rules_explanation": "The text on Cutting Words indicates when the disadvantage applies to a save."
+  },
+  {
+    "question": "If Level, Class, Race: grog is throwing teammates across the river, what kind of check is required?",
+    "answer": "A strength check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength"
+    ],
+    "rules_explanation": "throwing someone requires strength."
+  },
+  {
+    "question": "Because of the point of exhaustion Level, Class, Race: grog suffers, what is the net effect to his throwing check, which also has advantage?",
+    "answer": "A singular roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one."
+  },
+  {
+    "question": "When Level, Class, Race, Skill: vex is at 0, with Garmelie and Level, Class, Race: Vax trying to get her out of the river, what check is required?",
+    "answer": "A strength check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength"
+    ],
+    "rules_explanation": "Attempting to stop being moved needs a strength check"
+  },
+  {
+    "question": "Given the circumstances of being in the swamp, is Level, Class, Race: Vex able to use their lands stride?",
+    "answer": "Technically, yes.",
+    "rules": [
+      "Druid > Circle of the Land > Land's Stride"
+    ],
+    "rules_explanation": "Moving through nonmagical difficult terrain costs you no extra movement."
+  },
+  {
+    "question": "When Level, Class, Race: Scanlan tries to sit the other gnome on the broom, and they fall, what happens?",
+    "answer": "Both of you guys sink about three or four inches into the ground.",
+    "rules": [],
+    "rules_explanation": "ad hoc ruling"
+  },
+  {
+    "question": "Can Level, Class, Race: Ukurat get across the many rivers?",
+    "answer": "Yes, and the monster is following the party.",
+    "rules": [],
+    "rules_explanation": "He can jump really far."
+  },
+  {
+    "question": "What is the modifier to Stealth checks after Level, Class, Race, Skill: vex cast pass without trace?",
+    "answer": "plus ten.",
+    "rules": [],
+    "rules_explanation": "I cast Pass Without Trace on us, so we all got plus ten."
+  },
+  {
+    "question": "As per the circumstances, how would Trinket approach, moving forward. Make a stealth check for Trinket, without the plus ten.",
+    "answer": "His dexterity modifier",
+    "rules": [
+      "Monsters > Statistics"
+    ],
+    "rules_explanation": "He's not very stealthy, that bear."
+  },
+  {
+    "question": "What does a DM roll to determine which direction a moving sea of grass moves as part of an illusion spell.",
+    "answer": "Roll a d8 and assign a direction to each die face.",
+    "rules": [
+      "Spellcasting > Areas of Effect"
+    ],
+    "rules_explanation": "If the area has been determined by an illusion or illusion spell which a d8 is then to be used to determine the direction the creature or characters are moved."
+  },
+  {
+    "question": "Does the wizard get to reroll their stealth check when it dies down, and his form has shifted to its normal form?",
+    "answer": "No.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The check has already happened and cannot be rerolled"
+  }
+]

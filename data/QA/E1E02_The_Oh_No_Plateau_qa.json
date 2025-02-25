@@ -1,0 +1,163 @@
+[
+  {
+    "question": "A party member wants to follow someone secretly. What type of check should I call for?",
+    "answer": "Use stealth rolls for the squad.",
+    "rules": [
+      "Using Ability Scores > Skills > Dexterity > Stealth"
+    ],
+    "rules_explanation": "Stealth is a skill under Dexterity used to conceal ones presence or movements from others."
+  },
+  {
+    "question": "A level 3 dwarf sorcerer is using Thaumaturgy to project his voice to distract some enemies.  What kind of check should I have them make?",
+    "answer": "Give me-- we're going to call this a deception check.",
+    "rules": [
+      "Using Ability Scores > Skills > Charisma > Deception"
+    ],
+    "rules_explanation": "Deception is a skill under Charisma used to convincingly mislead others."
+  },
+  {
+    "question": "A level 3 faun druid wants to cast Entangle in an area with a hostile creature and the rest of the party inside. What kind of saving throw do the other party members need to make?",
+    "answer": "Both of you also need to make strength saving throws.",
+    "rules": [
+      "Spellcasting > Areas of Effect",
+      "Spell Descriptions > Entangle"
+    ],
+    "rules_explanation": "Entangle spell requires a strength saving throw from creatures inside the area of effect to avoid being restrained."
+  },
+  {
+    "question": "A level 5 hexblade warlock wants to use a bonus action to make an unarmed strike on a target she has grappled. Can she do so?",
+    "answer": "That would be a full action. If it's two-weapons fighting because I-- Could I use-- You didn't attack with a weapon for the other.",
+    "rules": [
+      "Combat > Actions in Combat > Two-Weapon Fighting"
+    ],
+    "rules_explanation": "The character did not use the attack action to attack with a light weapon, so they cannot use their bonus action to attack with a second light weapon as a result of two-weapon fighting."
+  },
+  {
+    "question": "A creature is already grappled and restrained by vines and is being hit from behind with a sword hilt. What is the modifier to the attack roll?",
+    "answer": "Make your attack with disadvantage because you are restrained.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Appendix PH-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "The restrained condition imposes disadvantage on the target, and the hilt attack is an attack roll so is subject to the condition."
+  },
+  {
+    "question": "A level 1 fighter is using a climbing kit to climb a cliff and makes a survival check. How do the two interact?",
+    "answer": "Give me survival check.",
+    "rules": [
+      "Using Ability Scores > Skills > Wisdom > Survival",
+      "Equipment > Adventuring Gear > Climber's Kit"
+    ],
+    "rules_explanation": "Climbing a cliff, especially when improvising, is typically a survival check. Climbing kit lets you attach to cliff to avoid falling from a height with use of an action."
+  },
+  {
+    "question": "A level 5 warlock rolls a natural 20 on an eldritch blast attack while attacking a restrained creature. What happens?",
+    "answer": "Roll with advantage because he is restrained. You got to say natural 20. Oh sorry, (yelling) natural 20!",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Spell Descriptions > Eldritch Blast"
+    ],
+    "rules_explanation": "Attack was made with advantage because target was restrained and the Warlock rolled a natural 20 on an attack roll, which leads to doubling the damage dice.  DM confirms the correct procedure by saying, \"You get to say natural 20\" and then explains damage die doubling."
+  },
+  {
+    "question": "A level 3 dwarf sorcerer takes a wisdom saving throw and rolls a natural 1. What happens?",
+    "answer": "Good news is I didn't roll a one, but it's an eight.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "There's nothing particularly notable for rolling a natural 1 on a saving throw unlike rolling a natural 1 on an attack roll."
+  },
+  {
+    "question": "A level 4 fighter is making an attack roll and has partial cover. How does that interact?",
+    "answer": "I am now going to count him as cover. So go ahead, he has partial cover, how'd you do?",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "Character uses grappled character as partial cover, providing the defender +2 bonus to AC and Dexterity saving throws."
+  },
+  {
+    "question": "A level 1 faun druid is trying to get a message through to an ally who is also a druid. What kind of check is needed?",
+    "answer": "Want to make another arcana check while it's close to you? Yeah. Please do. Where the hell are you? 20. Unnatural 20, but 20.",
+    "rules": [
+      "Using Ability Scores > Skills > Intelligence > Arcana"
+    ],
+    "rules_explanation": "The game master calls for an arcana check to determine the faun's ability to get a message through about an alien artifact or object."
+  },
+  {
+    "question": "A level 4 fighter is sent into some vines by an Entangle spell. What ability is used to save against the vines?",
+    "answer": "Five. I'm a little guy. Buddy!",
+    "rules": [
+      "Spell Descriptions > Entangle"
+    ],
+    "rules_explanation": "The Entangle spell forces a Strength saving throw."
+  },
+  {
+    "question": "Someone playing a genasi is breathing a lot of bad ash.  Do they need to make a check?",
+    "answer": "You don't have to because you're not breathing.",
+    "rules": [
+      "Races > Genasi"
+    ],
+    "rules_explanation": "As a genasi, can use a racial trait to hold breath indefinitely and avoid the effects of ash."
+  },
+  {
+    "question": "What dice are rolled for eldritch blast damage?",
+    "answer": "Oh, so I double the d10, you mean?",
+    "rules": [
+      "Spell Descriptions > Eldritch Blast"
+    ],
+    "rules_explanation": "The game master states, \"You double the dice,\" and then the player asks for confirmation by saying, \"Oh, so I double the d10, you mean?\" referring to the damage dice of the eldritch blast attack."
+  },
+  {
+    "question": "Does exhaustion impose disadvantage to initiative checks?",
+    "answer": "Initiative is an ability check. So all of us who have a point of exhaustion gets disadvantage.",
+    "rules": [
+      "Combat > Initiative",
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "Exhaustion gives disadvantage to ability checks, so it does to initiative which is an ability check."
+  },
+  {
+    "question": "If a character is restrained and makes a melee attack, is there disadvantage?",
+    "answer": "Make your attack with disadvantage because you are restrained.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Appendix PH-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "The restrained condition imposes disadvantage on the target, and the hilt attack is an attack roll so is subject to the condition."
+  },
+  {
+    "question": "The monster stat block lists proficiency in athletics and a skill number. How is that applied to an ability check?",
+    "answer": "So make an athletics check",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "Make a check by rolling d20 and adding the related ability and the proficiency bonus."
+  },
+  {
+    "question": "A wood elf is considering throwing their hands up in order to avoid getting exhausted, do they still have to make saves? What about another type of elf?",
+    "answer": "You don't have to because you're not breathing.",
+    "rules": [
+      "Races > Elf > Trance",
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "A wood elf, as an elf, uses the Trance ability to meditate rather than breathe to get rest and therefore does not need to breath while in combat."
+  },
+  {
+    "question": "A level 4 faun druid casts Entangle, what happens?",
+    "answer": "A creature in the area, when you cast the spell, must succeed on a strength saving throw.\"",
+    "rules": [
+      "Spell Descriptions > Entangle"
+    ],
+    "rules_explanation": "This spell causes grasping weeds and vines to sprout from the ground in a 20-foot square area. Creatures in this area must make a Strength saving throw to avoid being restrained.  The space is difficult terrain for the duration."
+  },
+  {
+    "question": "If two people want to both persuade someone is the difficulty the same?",
+    "answer": "Okay, so they're in one of these tango embraces and then she unfurls herself and then takes her silk rope out. I don't know, you know, I'm assuming she could just whip it out and ties him up, like a hogtie situation, where the hands are tied and the feet are tied. And then--\nAABRIA: \"Why is this in public, like, I mean, are you into that, too? Because I haven't tried that, but I am very open to suggestions.\" AIMEE: It's a tradition where I'm from. And then as a bonus action, can I-- Can I do an unarmed strike as a bonus action?\nAABRIA: That would be a full action. AIMEE: That would be a full action. If it's two-weapons fighting because I-- Could I use-- AABRIA: You didn't attack with a weapon for the other.",
+    "rules": [
+      "Using Ability Scores > Skills > Charisma > Persuasion",
+      "Combat > Actions in Combat > Two-Weapon Fighting"
+    ],
+    "rules_explanation": "Two actions are being considered. Attempting to tie the person up in the form of Shibari (rope art), and using two-weapon fighting to get an attack and an unarmed strike. It's clarified that tying someone up requires an attack. DM says two-weapon fighting is not allowed because they did not use the first action to attack with a light melee weapon"
+  }
+]

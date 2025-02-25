@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is the Armor Class equal to for a Barbarian not wearing armor?",
+    "answer": "The Armor Class is 10 + the Barbarian's Dexterity modifier + the Barbarian's Constitution modifier, and a shield can still be used.",
+    "rules": [
+      "Barbarian > Unarmored Defense"
+    ],
+    "rules_explanation": "The rule for Unarmored Defense states the Barbarian's AC is 10 + Dex mod + Con mod when not wearing armor but allows for the use of a shield."
+  }
+]

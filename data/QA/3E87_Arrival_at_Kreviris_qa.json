@@ -1,0 +1,135 @@
+[
+  {
+    "question": "Can the dire wolf wild shape (level 6 druid, circle of the moon) use a keen hearing and smell?",
+    "answer": "Yes, but the character does not have disadvantage on the perception check because keen hearing and smell gives them advantage.",
+    "rules": [
+      "Class Features > Druid > Wild Shape",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The druid can wild shape into a dire wolf. The dire wolf has the keen hearing and smell trait granting them advantage on certain perception checks.  Advantage and disadvantage cancel out. "
+  },
+  {
+    "question": "The character (Imogen) needs to hold the Telekinesis spell. What roll should be made and what modifier applies to it?",
+    "answer": "Roll a d20 and add the character's charisma modifier to it.",
+    "rules": [
+      "Spellcasting > Concentration",
+      "Using Ability Scores > Ability Scores and Modifiers",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Holding a spell that requires concentration requires an ability check with the spell casting modifier for that spell. The spell in question, Telekinesis, uses Charisma as it's spellcasting modifier."
+  },
+  {
+    "question": "Can the level 6 druid in dire wolf form use guidance?",
+    "answer": "Not in the dire wolf form. Your game statistics are replaced by the statistics of the beast and you can't cast spells.",
+    "rules": [
+      "Class Features > Druid > Wild Shape"
+    ],
+    "rules_explanation": "The rules for Wild Shape say you can't cast spells in beast form."
+  },
+  {
+    "question": "How far can the character (Imogen) move the rock each round while concentrating on the Telekinesis spell?",
+    "answer": "The object can move 30 feet in any direction per round.",
+    "rules": [
+      "Spell Descriptions > Telekinesis"
+    ],
+    "rules_explanation": "The Telekinesis spell description states that you can move an object that's up to 1,000 pounds in weight 30 feet in any direction per round. "
+  },
+  {
+    "question": "Does the 15 temporary hit points that the character (Laudna), a Ruidusborn gains from being in the presence of Ruidus stack on top of the other ones they previously had?",
+    "answer": "No, temporary hit points don't stack, it just fills back up to 15.",
+    "rules": [
+      "Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "Rules for Temporary Hit Points state they can't be added together, you choose to keep the ones you have or take the new ones."
+  },
+  {
+    "question": "What Stealth check should the party roll? What roll should be used? Does Ashton's earth merging ability affect this?",
+    "answer": "Everyone makes a group stealth check. The rolls and Pass Without Trace spell are used. The effects of his racial ability, Merge with Stone, are left to the DMs discretion.",
+    "rules": [
+      "Using Ability Scores > Group Checks",
+      "Spell Descriptions > Pass Without Trace",
+      "Races > Racial Traits"
+    ],
+    "rules_explanation": "Merge with Stone allows casting of Pass Without Trace once per long rest. In general, the party can make a Stealth check with +10 to everyone. All of their successes or failures are as a single roll. "
+  },
+  {
+    "question": "Should Sam roll a d20 for the upcoming event, and what adjustments apply?",
+    "answer": "Yes, a straight roll should be made with no adjustments.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Spell Descriptions >  Sending"
+    ],
+    "rules_explanation": "There is no rule that requires a roll to have adjustments for the described event."
+  },
+  {
+    "question": "Should the level 6 druid have rolled the survival check with advantage because Imogen aided her?",
+    "answer": "Yes, the roll should have been made with advantage.",
+    "rules": [
+      "Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "Since the player declared they were helping before the check, advantage should have been applied"
+  },
+  {
+    "question": "The Reiloran approaching the party is unfamiliar. What disguise check should the party (Fearne) make, and what adjustments apply to it?",
+    "answer": "A deception check with advantage on charisma checks should be made.",
+    "rules": [
+      "Spell Descriptions > Disguise Self",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The roll to see if the disguise works is a deception check since they are attempting to pass as members of the Imperium. The player also cast Enhance Ability to gain advantage on their next charisma check"
+  },
+  {
+    "question": "How long do the dreamers have before the Mind Shield spell (level 9 Warlock) runs out?",
+    "answer": "Two more hours on the Mind Shield spell",
+    "rules": [
+      "Spell Descriptions > Mind Blank"
+    ],
+    "rules_explanation": "Since the mind shield spell lasts for eight hours, and they cast it an hour after they left underground, and they have been traveling since coming up from underground for 3 hours, there is 4 hours left."
+  },
+  {
+    "question": "Can First Cut Grass ritual cast Telepathic Bond and what spell components are required to do so?",
+    "answer": "Yes, the Telepathic Bond spell can be ritually cast, and eggshells are required as a spell component.",
+    "rules": [
+      "Spell Descriptions > Telepathic Bond",
+      "Spellcasting > Ritual Casting",
+      "Spellcasting > Components"
+    ],
+    "rules_explanation": "The SRD indicates that the Telepathic Bond has a ritual tag, making it a candidate to be cast in a ritual. When cast in this way, the spell now takes 11 minutes, versus a single action, and also consumes the appropiate material components to cast. In this case, the characters have already established eggshells are the component."
+  },
+  {
+    "question": "When Travis is attempting to bribe Jidoh, can he find any weapons, gems, any panes of glass, anything that could be used as a communication device, anything like that?",
+    "answer": "The player needs to make a perception check",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Intelligence > Investigation"
+    ],
+    "rules_explanation": "A perception check is required to try and search the premises for items"
+  },
+  {
+    "question": "When the PC's are scattering and making stealth checks is there the opportunity to use Pass Without a Trace?",
+    "answer": "No, Pass Without a Trace has already been used.",
+    "rules": [
+      "Spell Descriptions > Pass Without Trace",
+      "Races > Racial Traits"
+    ],
+    "rules_explanation": "There are no rules that state this racial ability is reusable. Pass Without Trace has been used and there are no more uses. Ashton also used his racial ability so they must make straight rolls."
+  },
+  {
+    "question": "Does Sam need to concentrate to cast the spell, Telepathic Bond?",
+    "answer": "Yes, Sam needs to concentrate to cast Telepathic Bond.",
+    "rules": [
+      "Spellcasting > Concentration",
+      "Spell Descriptions > Telepathic Bond"
+    ],
+    "rules_explanation": "Telepathic Bond has the tag 'Concentration, up to 1 hour'."
+  },
+  {
+    "question": "Laura is using the catapult spell and she is in the ground. Can he see it, and does he have disadvantage?",
+    "answer": "Make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "Because the environment includes a dust storm, and vision is obscured, the answer is not obvious so a check is required."
+  }
+]

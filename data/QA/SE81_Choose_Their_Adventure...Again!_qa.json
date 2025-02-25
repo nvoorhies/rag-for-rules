@@ -1,0 +1,290 @@
+[
+  {
+    "question": "Does the halfling character named bobby need to make a strength check to help the elf?",
+    "answer": "No, as offering help in this way does not require a Strength check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "There is no rule requiring a character to make a strength check to help another character up, it is within the DM's discretion"
+  },
+  {
+    "question": "The halfling Bobby Socks has a Strength score of 3 (+-4). What is the result of his contested athletics roll to stop the mermaid getting his blood?",
+    "answer": "The halfling, Bobby Socks, rolls 2d20 and chooses the higher result, and adds -4 to the result of the roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The ability check is being made in a situation where advantage is conferred, and the character strength modifiers are applied to the roll. The result of contested ability rolls being the roll with the higher result"
+  },
+  {
+    "question": "If the human ran prepares to cast Eldritch Blast at the egg, what roll does he need to make to hit, and what is the attack modifier?",
+    "answer": "The human needs to roll a d20, and add the attack modifier of +6.",
+    "rules": [
+      "Spellcasting > Attack Rolls",
+      "Warlock > Pact Magic > Spellcasting > Spellcasting Ability",
+      "Character Advancement > Proficiency Bonus"
+    ],
+    "rules_explanation": "The character's level and Charisma attribute determine the proficiency bonus and attribute modifier which are added to the d20 roll to determine the attack roll total. The roll must be equal to or greater than the armor class of the target for a successful hit"
+  },
+  {
+    "question": "The gnome Scanlan attempts to catch the elf Ligeia as she falls. He rolls a natural 20 on the die. What check, if any, is being made?",
+    "answer": "The gnome Scanlan makes a Dexterity (Acrobatics) or Strength (Athletics) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The acrobatics or athletics checks is made, as determined by the DM, and that roll is used to determine the success or failure in catching the elf."
+  },
+  {
+    "question": "Tony Hale's character, a fighter is going to attack with two poisonous darts using a blowgun.  He rolls two d20s and must apply his modifier. What modifier applies to the roll?",
+    "answer": "The fighter applies an attack modifier of +6.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Fighter"
+    ],
+    "rules_explanation": "The fighter's proficency bonus is added to his Dexterity modifier"
+  },
+  {
+    "question": "A level 1 Fairy Barbarian is going to attack, and the DM asks her to describe how Bramble rages. She rolls 12 to hit. What dice does she roll for damage?",
+    "answer": "The barbarian rolls a d10 to determine the damage of her battleaxe",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls",
+      "Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The damage dice of the barbarian weapon is rolled to calculate base damage"
+  },
+  {
+    "question": "The gnome is casting suggestion, but is using someone else's voice and British accent? Does the accent help?",
+    "answer": "No, the accent does not directly affect the check, but the accent is irrelevant to whether the target succeeds on the saving throw",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "Unless a spell says otherwise, the way in which it is cast does not affect the success of the saving throw, unless it is relevant to the creature hearing and understanding the casting."
+  },
+  {
+    "question": "The character Ran casts Arcana or Nature to identify what the egg is. What dice does the character roll, and is Ran proficient in Nature or Arcana?",
+    "answer": "The caster rolls a d20 and adds the modifier of +3 (Arcana).",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Human Warlock"
+    ],
+    "rules_explanation": "The PC must make a DC 13 Arcana or Nature check to determine the type of egg."
+  },
+  {
+    "question": "A 1st-level gnome casts athletics or acrobatics check with a natural 20. What happens on a successful check?",
+    "answer": "The gnome casts a Dexterity (Acrobatics) or Strength (Athletics) check of 20 + modifiers.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The roll must be equal or greater than the DC in order for it to be considered a success."
+  },
+  {
+    "question": "A Luck point is spent and insight is being rolled a second time and receives a result of 19. What is the total value for insight?",
+    "answer": "The total value for insight is 24.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Halfling > Lucky"
+    ],
+    "rules_explanation": "Spend one luck point and roll for insight again. Take result and add modifier."
+  },
+  {
+    "question": "While leading the group, the Fairy Bramble is making a survival check. What are the dice rolled and modifier that is being applied?",
+    "answer": "The dice rolled is d20. The modifier is the proficiency bonus (Bramble) + the Wisdom modifier (Bramble).",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rule states \"If the check is from using a specific skill, add the skill modifier to it.\""
+  },
+  {
+    "question": "As the group progresses, the DM asks who has the highest perception score. Tony Hale's character Sarge has a perception score of 5. What adjustment, if any, should be applied to this?",
+    "answer": "Sarge must add the Wisdom modifier of +1 to their score of 5, for a total of 6.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The score is equal to 5 + Wisdom Modifier (1) = 6."
+  },
+  {
+    "question": "The halfling Bobby Socks makes a nature check, and rolls a 7, and his modifier is +5. What is the total?",
+    "answer": "The total is 12.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The total is equal to result plus modifier. 7+5 = 12."
+  },
+  {
+    "question": "The human warlock successfully casts counter spell. What happens?",
+    "answer": "The intended target is disrupted, as the chalice fades, the massive crab creature falls back into its slumber and they all go, \"What, what's happening?\"",
+    "rules": [
+      "Warlock > Pact Magic > Spells"
+    ],
+    "rules_explanation": "The counterspell stops the spell or action of the creature who was to cast."
+  },
+  {
+    "question": "The drummer wants to use Pass Without Trace. What is that spell?",
+    "answer": "Pass Without Trace is a 2nd level abjuration spell that allows you to choose a number of creatures up to your spell casting modifier within 30 feet of you and gives them a +10 bonus to stealth checks and they can't be tracked by nonmagical means.",
+    "rules": [
+      "Bard > Spell List"
+    ],
+    "rules_explanation": "Players refer to 'the book' to verify abilities."
+  },
+  {
+    "question": "What is being rolled for a stealth check after the drums are played?",
+    "answer": "A d20 is rolled, Stealth is added to the number, and then +10 due to the Pass Without A Trace spell.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Bard > Spell List"
+    ],
+    "rules_explanation": "A skill check + modifiers is a roll to determine if one is successful in their efforts."
+  },
+  {
+    "question": "The DM asks Bobby to roll a wisdom save after the merrow speaks the incantation. What dice and modifier does he roll?",
+    "answer": "You roll a d20 and add the wizard's Wisdom saving throw modifier.",
+    "rules": [
+      "Using Ability Scores > Saving Throws",
+      "Wizard"
+    ],
+    "rules_explanation": "You must roll a d20 and add ability modifier and skill modifier to see if roll succeeds."
+  },
+  {
+    "question": "How long does the pass without trace spell that the drummer played last?",
+    "answer": "Pass without trace last 10 minutes.",
+    "rules": [
+      "Bard > Spell List"
+    ],
+    "rules_explanation": "Pass without Trace lasts for 10 minutes of duration and requires concentration."
+  },
+  {
+    "question": "The character, a fighter , wants to do an acrobatic check before they attack. What stats are applied to this roll?",
+    "answer": "Acrobatics skill + Dexterity modifier applies.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "You take the type of action in question, plus your skill modifier."
+  },
+  {
+    "question": "The character, a fighter, uses a bonus action and eats the apple, how many actions do they have left?",
+    "answer": "One",
+    "rules": [
+      "Combat > Your Turn",
+      "Combat > Bonus Actions"
+    ],
+    "rules_explanation": "The rules state that with the use of a bonus action in conjunction with an action, you have 1 more action left in your turn."
+  },
+  {
+    "question": "The character ran fails the attack roll with Eldritch Blast but Ran Shorthalt inspires him. Does that bonus stack?",
+    "answer": "Yes.",
+    "rules": [
+      "Spellcasting",
+      "Combat"
+    ],
+    "rules_explanation": "Bonuses stack unless explicitly stated otherwise"
+  },
+  {
+    "question": "Does a roll of 5 from the two merrow when a party member casts entangle mean the check failed?",
+    "answer": "It does not, they must add their relevant ability modifier to the roll.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "All rolls must have an ability modifier unless the rules say otherwise."
+  },
+  {
+    "question": "If the theif rages, does this end the Fairy Fire?",
+    "answer": "Yes.",
+    "rules": [
+      "Barbarian > Rage",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The Barbarian class ability Rage prevents you from casting any spells that require concentration."
+  },
+  {
+    "question": "Does the Hexblade's curse apply for melee attacks?",
+    "answer": "Yes, the hexblade curse works when you attack that creature, and it's not stated to be specifically for ranged attacks only.",
+    "rules": [
+      "Warlock > Pact Magic"
+    ],
+    "rules_explanation": "The Hexblade's curse effect does not have any restrictions for weapon type."
+  },
+  {
+    "question": "The character casts Firey Fire after successfully dispelling the evil ritual, do the other players still have the benefits from Pass Without A Trace?",
+    "answer": "Yes.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The rules state that the spells in question do not disrupt the other."
+  },
+  {
+    "question": "Ran's character is now on the ground and Bobby wants to use a healing item on them. What's that roll called?",
+    "answer": "There is no roll.",
+    "rules": [
+      "Cleric > Spellcasting",
+      "Druid > Spellcasting"
+    ],
+    "rules_explanation": "There is not check made for using the healing item."
+  },
+  {
+    "question": "What temporary hit points is granted after dropping a totem of the bear",
+    "answer": "You grant 10 temporary hit points.",
+    "rules": [
+      "Druid"
+    ],
+    "rules_explanation": "The rules say you get 10 temporary hit points."
+  },
+  {
+    "question": "Does Ethel have advantage to attack if she's close to the crab?",
+    "answer": "It depends. If the Shortsword attack blinded the crab, she has advantage.",
+    "rules": [
+      "Combat > Making An Attack > Unseen Attackers and Targets",
+      "Appendix A: Conditions > Blinded"
+    ],
+    "rules_explanation": "Because the crab would be blinded, that gives Ethel advantage when attacking."
+  },
+  {
+    "question": "When you have a voice in your head, what roll is it and what are you rolling against?",
+    "answer": "There is no roll. It is a narration device to make it known.",
+    "rules": [
+      "Warlock > Pact Magic"
+    ],
+    "rules_explanation": "There is no check. It's used to progress a story line."
+  },
+  {
+    "question": "The fighter eats the apple, what happens to the voices?",
+    "answer": "When the fighter eats the apple, the spectral voice lingers but the apple starts screaming. As the apple is chewed, the screaming begins to subside. After devouring the apple, there is a feeling of power running through the fighter's body, as well as nausea.",
+    "rules": [
+      "Game Mechanics > Spellcasting"
+    ],
+    "rules_explanation": "You have to resolve this question with information about the spell itself."
+  },
+  {
+    "question": "The halfling fighter has both arms inside a crab and gets another action. What does that do?",
+    "answer": "They can do another 8d12 to the crab.",
+    "rules": [
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "With action surge, they can perform another action."
+  },
+  {
+    "question": "With one of the karrens dying, does it release the enchantment?",
+    "answer": "No. Only the 3 are part of the ritual that have been established.",
+    "rules": [
+      "Spellcasting > Rituals",
+      "Cleric > Spellcasting"
+    ],
+    "rules_explanation": "One of them dies, but this does not cease the magic."
+  },
+  {
+    "question": "What check does the warlock now roll and does the bard give him cutting words?",
+    "answer": "There is no roll because he is using an action.",
+    "rules": [
+      "Spellcasting",
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "You can make a bonus action, but not a reaction because it is no longer your turn."
+  },
+  {
+    "question": "One of the players gets a whisper from the apple, what kind of check is that?",
+    "answer": "The Apple is a wondrous item that allows the DM to give information, so it's an insight check from the item.",
+    "rules": [
+      "The DM Book > Magic Items"
+    ],
+    "rules_explanation": "The magic item is imparting the knowledge on the character's use."
+  }
+]

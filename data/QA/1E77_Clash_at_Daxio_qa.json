@@ -1,0 +1,160 @@
+[
+  {
+    "question": "A third level rogue now has advantage on their attack, if the wyverns haven't attacked her yet, right? If they haven't taken a turn? Is this accurate?",
+    "answer": "No. The Assassin subclass feature 'Assassinate' > 'Advantages on Attack' says the rogue has advantage on attack rolls against any creature that hasn't taken a turn *in the combat*. The question states the wyverns had already been dashing toward the party, implying they have already taken turns in the combat.",
+    "rules": [
+      "Classes > Rogue > Roguish Archetype > Assassin > Assassinate > Advantages on Attack"
+    ],
+    "rules_explanation": "The third level rogue is an Assassin subclass, the Assassinate feature gives advantage on attack rolls and a critical hit if they hit creatures that have not yet taken a turn in combat. Because the transcript states the wyverns have taken turns, the rules would not apply."
+  },
+  {
+    "question": "The character is poisoned, and wants to use Resolve to re-roll a saving throw. Has to take the worse one for the Resolve? Is this accurate?",
+    "answer": "No. The Indomitable feature says you must use the new roll.",
+    "rules": [
+      "Classes > Fighter > Action Surge > Indomitable"
+    ],
+    "rules_explanation": "The fighter level 9 class feature is called Indomitable, which lets a fighter reroll a saving throw but the new roll must be used."
+  },
+  {
+    "question": "Can the player fire more than one charge from the Wand of Fireballs, or should the player have said that already? Does this make a difference to the wand's effect?",
+    "answer": "The wands are a 'basic' effect which implies that more than one charge can't be fired at once. The number of charges and timing of the fire is critical for resolving a rules question.",
+    "rules": [],
+    "rules_explanation": "The DM indicates that because the wand fire action was described as 'basic', it must be a single charge."
+  },
+  {
+    "question": "A raging Grog uses bloodaxe. If I kill a creature, I gain ten temporary hit points. And I don't think I get another hit because I killed something. Is it only criticals that I get another hit?",
+    "answer": "Temporary hitpoints are granted by the axe. The barbarian class feature Frenzy says after making a melee attack while frenzied, I can make one other with the same weapon as a bonus action.",
+    "rules": [
+      "Classes > Barbarian > Rage > Frenzy"
+    ],
+    "rules_explanation": "The rules for Bloodaxe magic item is not detailed in the rules. Frenzy allows an extra bonus action when raging."
+  },
+  {
+    "question": "The fire giant general used Flaming Anger. She grabs a big chunk of the nearby rubble and lobs it. The player is going to be hit. Is it ok to make a dexterity saving throws for this attack?",
+    "answer": "The spell description does not mention the damage roll or saving throw so the player does not get to make a saving throw.",
+    "rules": [],
+    "rules_explanation": "The game rules do not include rules for the fire giant's Flaming Anger ability."
+  },
+  {
+    "question": "The sorcerer is using Bigby's Hand. Is it a melee attack or a spell attack?",
+    "answer": "As stated, it is a melee spell attack.",
+    "rules": [],
+    "rules_explanation": "A player states Bigby's Hand is a melee spell attack. Assuming they're using rules as written, this is how the attack works."
+  },
+  {
+    "question": "As the Fireball is happening, Vex glances over and makes eye contact with Xanthas. He points a finger towards them. Is this mind control, or do I get a saving throw?",
+    "answer": "Yes, you are considered to have a Wisdom saving throw, if Dominate Person is cast.",
+    "rules": [
+      "Spells > Dominate Person"
+    ],
+    "rules_explanation": "The game rules do not include mechanics for gaining mind control, but the Spells > Dominate Person spell requires a Wisdom saving throw."
+  },
+  {
+    "question": "Pike is going to use her 3rd-level Cure Wounds on Percy? Matt did a 3rd-level spell, so she has one more 3rd-level spell slot after this.",
+    "answer": "It is up to the game master, but it is possible she may have an extra spell from a magic item. The action needs to be a 2nd-level or lower action. So it would be at 2nd-level.",
+    "rules": [],
+    "rules_explanation": "It is up to the game master and not a rules decision as to if Pike has used all her 3rd level spell slots. The fourth level spell was already cast, she can only do a second level bonus action."
+  },
+  {
+    "question": "If a prone enemy gets attacked with melee attacks, do you get advantage on them? Is that a natural crit?",
+    "answer": "A prone creature is only a natural crit in very specific circumstances. A prone enemy grants advantage on melee attacks if the attacker is within 5 ft of them.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The rule states a prone grants advantage for melee attacks within 5 ft. Natural criticals are a circumstance of dice rolling and not inherent in the state of being prone."
+  },
+  {
+    "question": "Vex has to attack her friends. Dominate Person has been cast. As it's the character's turn, double-checking, and to clarify, do they get to make a saving throw to avoid attacking friends?",
+    "answer": "No, they are dominated and are required to attack their friends. Characters with Dominate Person do not get saving throws for their attack. It's when you take damage that you get to retake the saving throw.",
+    "rules": [
+      "Spells > Dominate Person"
+    ],
+    "rules_explanation": "The target is considered to be an extension of the spellcaster's will. Saving throws are allowed at the end of every turn or when taking damage."
+  },
+  {
+    "question": "Vax uses Lay on Hands. He gets to choose how many hitpoints to provide.",
+    "answer": "Yes. A paladin can choose to heal less than the maximum amount.",
+    "rules": [
+      "Classes > Paladin > Lay on Hands"
+    ],
+    "rules_explanation": "Lay on Hands says: 'As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.'"
+  },
+  {
+    "question": "Chain Lightning is being cast against Liam. Would evasion work for this?",
+    "answer": "No. Evasion states it applies against effects that allow a Dexterity saving throw for half damage. Chain Lightning states the creatures must make a Dexterity saving throw for damage, not for some other effect.",
+    "rules": [
+      "Classes > Rogue > Evasion"
+    ],
+    "rules_explanation": "Evasion only applies to Dexterity saving throws that allow a character to take only half damage from the attack."
+  },
+  {
+    "question": "Does the lightning damage that Vex deals have to be halved, with the temporary effect of the lightning damage itself?",
+    "answer": "No. The lightning damage is different beyond the piercing. This refers to splitting the damage between piercing and lightning and applying resistance separately to each damage type.",
+    "rules": [],
+    "rules_explanation": "The DM is making a ruling here that the lightning damage is separate from the slashing damage and not halved."
+  },
+  {
+    "question": "If something is prone, do you get advantage on a ranged attack?",
+    "answer": "No. Being prone only imposes disadvantage on ranged attacks, unless the attack is made from within 5 feet of the target, which grants advantage.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The target isn't easier to hit at range, but actually harder."
+  },
+  {
+    "question": "The spiritual weapon is being used, but is it concentration?",
+    "answer": "No. The spell does not say that it requires concentration.",
+    "rules": [
+      "Spells > Spiritual Weapon"
+    ],
+    "rules_explanation": "Spells that require concentration specifically state that requirement in their description. Otherwise they require no concentration."
+  },
+  {
+    "question": "The party have a 2nd-level spell scroll and need to determine if it should roll high or low?",
+    "answer": "To successfully read a spell scroll that has a higher level than you can normally cast, you must make an ability check using your spellcasting ability with a DC of 10 + the spell's level. You don't need to roll a d20, and higher rolls are required in the game to succeed on ability checks.",
+    "rules": [
+      "Magic Items > Spell Scroll"
+    ],
+    "rules_explanation": "To use a magic scroll, you need to make an ability check and a higher roll indicates success."
+  },
+  {
+    "question": "Pike is at the trebuchet, and it is going to do something before moving. She has a bonus action, is there only one charge on that thing? Can I keep doing it, or no?",
+    "answer": "The rules for Spiritual weapon state it lasts for a minute, and you need to use your bonus action to attack. You can move it every round for a minute if you have a bonus action to do so.",
+    "rules": [
+      "Spell Descriptions > Spiritual Weapon"
+    ],
+    "rules_explanation": "A description from the spell, so it works a specific way, even if it seems strange. The rules for Spiritual weapon state it lasts for a minute, and you need to use your bonus action to attack. You can move it every round for a minute if you have a bonus action to do so."
+  },
+  {
+    "question": "Is the party getting 3/4 cover from Xanthas when he is behind the top of the wall right now?",
+    "answer": "A target has total cover if it is completely concealed by an obstacle. Because the players state that the small character also has partial cover behind the wall, total cover is not possible.",
+    "rules": [
+      "Combat > Cover > Total Cover"
+    ],
+    "rules_explanation": "You can't target someone behind total cover."
+  },
+  {
+    "question": "Grog took 10 fire damage from being close to the fire bird. The DM mentioned ''Burning'' damage, should it be fire damage?",
+    "answer": "No, there is no ''burning'' damage type in the rules, so you can't apply resistance to the incorrect type.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Types"
+    ],
+    "rules_explanation": "No ''burning'' damage type exists, so you can't apply the incorrect type."
+  },
+  {
+    "question": "As soon as Kima finishes talking, does she point a finger towards Vex, and then suddenly have to walk off to the side? Double checking that Vex is such a lawyer. No, for this you're going to keep taking shots at Grog?",
+    "answer": "When you take the Dominate Person action, the targeted player acts upon that spell's instructions.",
+    "rules": [
+      "Spell Descriptions > Dominate Person"
+    ],
+    "rules_explanation": "From what the DM tells the character, the game is to make Vex/Laura take shots at Grog."
+  },
+  {
+    "question": "Keyleth casting Call Lightning has a secondary effect: doesn't every creature within five feet of that point must make a dexterity saving throw?",
+    "answer": "Yes. Call Lightning states, 'A bolt of lightning flashes down from the cloud to that point. Each creature within 5 feet of that point must make a Dexterity saving throw.'",
+    "rules": [
+      "Spells > Call Lightning"
+    ],
+    "rules_explanation": "From the official spell description, the range of the ability is explicit."
+  }
+]

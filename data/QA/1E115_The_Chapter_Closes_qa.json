@@ -1,0 +1,235 @@
+[
+  {
+    "question": "A level 17, planetar casts touch healing, restoring 6d8 +3 hit points. How many hit points does a damaged level 1 fighter without revivify get?",
+    "answer": "There is no context here that will indicate whether a Level 1 fighter is a construct or undead. There are no rules that limit how many hit points you can restore, but if that level 1 fighter is fully healed, the extra hitpoints do not confer temporarily hit points - they are simply lost. Without additional information, it is impossible to determine with the healing hits.",
+    "rules": [
+      "Spellcasting > Casting a Spell at a Higher Level"
+    ],
+    "rules_explanation": "If a level 1 character is healed for more hit points that their hit point maximum, any excess hit points are simply lost."
+  },
+  {
+    "question": "A fighter level 2 clicks an immovable rod. It does not describe the space, but later mentions the platform is giving underneath them. What happens?",
+    "answer": "The immovable rod remains fixed in place. There are no specific details regarding the environment that would prohibit using the item.",
+    "rules": [],
+    "rules_explanation": "The item description for the Immovable Rod in the DMG (not included here) describes how it works but does not provide environmental limitations on its use."
+  },
+  {
+    "question": "What is the flying speed of a planetar in this situation?",
+    "answer": "The transcript says 'What's the flying speed of your planetar?', and then indicates the value 150ft. The planetar's flying speed is 150 feet.",
+    "rules": [],
+    "rules_explanation": "This value was not located in the SRD"
+  },
+  {
+    "question": "If zahra casts Fly on a level 1 enlarged barbarian will that work?",
+    "answer": "The text does not mention the word enlargement or fly so this would be a guess.",
+    "rules": [],
+    "rules_explanation": "In the SRD Fly does not have any level or size restrictions."
+  },
+  {
+    "question": "A level 1 enlarged barbarian wants to take out the carpet from the bag of holding, can he still act?",
+    "answer": "No information given in this segment to answer the query",
+    "rules": [],
+    "rules_explanation": "There is no action or bonus action being expended and rules are not provided for interacting with objects on your person"
+  },
+  {
+    "question": "Can a player cast Fly on a level 1 barbarian and then cast Fly again on somebody else? Is that allowable?",
+    "answer": "This does not refer to the rules, but rather the transcript in which a person is too far away to have fly cast on them",
+    "rules": [],
+    "rules_explanation": "While the SRD gives specific numbers and types of spell slots per level, it only makes reference to what is 'typical,' and says there might be other restrictions on this action based on 'their world'"
+  },
+  {
+    "question": "Does raise dead turn the target into a zombie?",
+    "answer": "No, the Raise Dead spell brings the person back to life in a normal state, not as a zombie.",
+    "rules": [
+      "Spellcasting > What Is a Spell?",
+      "Spellcasting > What Is a Spell? > Spell Level",
+      "Spell Lists > Cleric Spells > 5th Level > Raise Dead"
+    ],
+    "rules_explanation": "This is a direct result from the Raise Dead spells"
+  },
+  {
+    "question": "Can a level 1 barbarian dispel the enlarge spell?",
+    "answer": "No, the level 1 barbarian is not a spellcaster and cannot cast spells, including Dispel Magic.",
+    "rules": [
+      "Spellcasting > What Is a Spell?",
+      "Classes > Barbarian"
+    ],
+    "rules_explanation": "The SRD states only certain classes and monsters can cast spells. The barbarian is not among them."
+  },
+  {
+    "question": "if a character casts Locate Object on some pants, are they told where it is?",
+    "answer": "If the caster has seen them, the Locate Object spell will provide the direction to the object.",
+    "rules": [
+      "Spell Lists > Bard Spells > 2nd Level > Locate Object"
+    ],
+    "rules_explanation": "This is the direct result from the Locate Object rules"
+  },
+  {
+    "question": "A level 1 druid casts Scry on a character, what saving throw does the character make?",
+    "answer": "The spell does not take effect",
+    "rules": [
+      "Spellcasting > Casting a Spell",
+      "Spell Lists > Druid Spells",
+      "Spell Lists > Druid Spells > 5th Level > Scrying"
+    ],
+    "rules_explanation": "Given that the characters were only first level, it would not have been possible for them to be casting scrying, which is a 5th-level spell. So if that is the only condition we know, the spell does not take effect"
+  },
+  {
+    "question": "Can a level 1 sorcerer or higher that multiclassed draw the Vecna card in Deck of Many Things?",
+    "answer": "With the feat draw, the sorcerer can draw from the Deck of Many Things.",
+    "rules": [
+      "Feats"
+    ],
+    "rules_explanation": "Given that the person has the ability to draw, the level and class don't matter."
+  },
+  {
+    "question": "If a level 1 sorcerer gets his soul sucked by the Vecna card in Deck of Many Things, does he lose his spells?",
+    "answer": "Yes, a spellcaster whose soul is sucked by The Void loses all spells as they are no longer able to cast spells.",
+    "rules": [
+      "Feats"
+    ],
+    "rules_explanation": "As per the 'Void' card in the Deck of Many Things, the character is incapacitated and loses their spells."
+  },
+  {
+    "question": "If the level 1 barbarian draws the Vecna card in Deck of Many Things, can they still cast spells as legendary reaction or bonus action?",
+    "answer": "No. As per the description of the Void card, The level 1 Barbarian, with their soul sucked out, is incapacitated. That prevents them from doing anything at all.",
+    "rules": [
+      "Feats",
+      "Appendix PH-A: Conditions > Incapacitated"
+    ],
+    "rules_explanation": "This depends on what the card does to you, but as the DM states in this segment, the card makes your body catatonic. According to Appendix PH-A: Conditions: the character becomes incapacitated, so they can't do anything."
+  },
+  {
+    "question": "Can a cleric cast fly on all the people at once?",
+    "answer": "If the Cleric can learn Fly and upcast the spell, they can cast fly on multiple people. The spell Fly is not on the cleric spell list.",
+    "rules": [
+      "Spell Lists > Cleric Spells",
+      "Spellcasting > Preparing and Casting Spells",
+      "Spellcasting > Casting a Spell at a Higher Level"
+    ],
+    "rules_explanation": "The spell has to be on the class's spell list, or in this case, gained by some unique circumstance, to be cast by that class."
+  },
+  {
+    "question": "Can Allura cast Fly on everybody at once?!",
+    "answer": "While there is no statblock or level indicated for Allura in this text, if she can cast the Fly spell and has a high enough level spell slot to do so, then she can cast Fly on a large number of people",
+    "rules": [
+      "Spell Lists > Fly"
+    ],
+    "rules_explanation": "Fly upcasts at more levels to apply to more people. An NPC is capable of what the GM makes them to be capable of, so as long as it is a 3rd level spell and Allura is of high enough level, it is possible. No statblock in the text, so just going off the rules of the spell itself"
+  },
+  {
+    "question": "Does he have the wisdom to do so?",
+    "answer": "It is not possible to determine if a player has the wisdom to cast a certain spell without more information. Given no class is mentioned, there is no information from this document to decide whether or not he has the Wisdom to do so",
+    "rules": [
+      "Spellcasting > Spellcasting Ability",
+      "Classes"
+    ],
+    "rules_explanation": "Need more information on Class and level, since it determines which characters use what stat for spells and which spells those characters get"
+  },
+  {
+    "question": "Does the ability to get transported with tree stride use your action?",
+    "answer": "The ability to get transported with tree stride uses movement, but also requires another action if you're a treant and want to use an action to make that treant animated.",
+    "rules": [
+      "Druid Class > Class Features > Tree Stride"
+    ],
+    "rules_explanation": "Direct answer from the SRD. Notes 'You must use 5 feet of movement to enter a tree' and that Treants have a separate action to animate trees, it's another action"
+  },
+  {
+    "question": "If Allura casts Fly on the party, can Grog still use action surge?",
+    "answer": "The use of Action Surge is not prevented or limited in any way by being under the effects of the Fly spell.",
+    "rules": [
+      "Classes > Fighter > Level 2 > Action Surge",
+      "Spell Lists > Transmutation > Level 3 > Fly"
+    ],
+    "rules_explanation": "Using Action Surge grants one additional action on top of the regular action without restricting its uses, and the Fly spell only affects movement modes"
+  },
+  {
+    "question": "When you travel west to east, what effect does that have on your travel?",
+    "answer": "There is no mechanical effect in the rules for traveling west to east.",
+    "rules": [],
+    "rules_explanation": "This refers to travel speed, which is only affected by mode of travel, difficult terrain, and weather conditions."
+  },
+  {
+    "question": "If you take a long rest in the Feywild, what affect does that have?",
+    "answer": "This document contains no information about mechanical effects for rests on the Feywild, so without that information there is no way to answer that question.",
+    "rules": [],
+    "rules_explanation": "The document only details the effects of long and short rests. There is nothing related to a specific location."
+  },
+  {
+    "question": "What happens when a player is affected by the card The Void and are on the plane of Pandemonium?",
+    "answer": "Being on Pandemonium has no affect on The Void card from the Deck of Many Things. The card removes a player's soul, making the player incapacitated.",
+    "rules": [
+      "Feats > Deck of Many Things",
+      "Appendix PH-A: Conditions > Incapacitated"
+    ],
+    "rules_explanation": "Combining these two separate rules gives you the state of the player"
+  },
+  {
+    "question": "Does the party get XP for finding Grog? Does finding count as if they were fighting?",
+    "answer": "XP is awarded for defeating the monster, although the GM may also award XP for neutralizing the threat posed by the monster in some other manner.",
+    "rules": [
+      "Monsters > Challenge > Experience Points"
+    ],
+    "rules_explanation": "XP are typically awarded for defeating the monster, but the GM has leeway here."
+  },
+  {
+    "question": "What does it mean to attune to a magic item?",
+    "answer": "Attuning to an item requires a creature to spend a short rest focused on only that item while being in physical contact with it",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "This is a direct result from the Magic Items rules"
+  },
+  {
+    "question": "Can Allura wave her fingers a bit and cast Fly on all the party for the moment?",
+    "answer": "Allura can cast Fly on the party if they are in range and if she has a spell slot of the appropriate level. A higher level Fly spell can affect more people, and Allura needs to be within 5 feet of the target or targets.",
+    "rules": [
+      "Spellcasting > What Is a Spell?",
+      "Spellcasting > Range",
+      "Spell Lists > Transmutation > Level 3 > Fly"
+    ],
+    "rules_explanation": "This requires the spell to be known, prepared, and the target in range, as well as a high enough level"
+  },
+  {
+    "question": "Can a level 1 barbarian turn in their sword?",
+    "answer": "There are no rules preventing someone from turning in a magic sword. A creature that is proficient with a magic sword can use it. While wielding the sword they can attack, but it is not necessary that they do.",
+    "rules": [
+      "Weapons",
+      "Weapon Proficiency"
+    ],
+    "rules_explanation": "The rules only prevent people from wielding certain weapons without proficiency, not preventing their ownership of a weapon."
+  },
+  {
+    "question": "Does greater restoration dispel a wisdom saving throw?",
+    "answer": "No, greater restoration is not mentioned to effect a wisdom saving throw.",
+    "rules": [
+      "Spell Lists > Abjuration > 5th Level > Greater Restoration"
+    ],
+    "rules_explanation": "Direct result from the rules"
+  },
+  {
+    "question": "Does greater restoration remove mind control?",
+    "answer": "Greater Restoration can end one effect that charmed the target.",
+    "rules": [
+      "Spell Lists > Abjuration > 5th Level > Greater Restoration",
+      "Appendix PH-A: Conditions > Charmed"
+    ],
+    "rules_explanation": "Direct quote from spell description."
+  },
+  {
+    "question": "If a spellcaster has more than one spellcasting ability, how do they determine what one to use with an item?",
+    "answer": "If you have more than one spellcasting ability, you choose which one to use with the item.",
+    "rules": [
+      "Magic Items > Activating an Item > Spells"
+    ],
+    "rules_explanation": "This is a direct result from the Activating an Item subrule Spells"
+  },
+  {
+    "question": "if a weapon can be used to attack, does it have to be used to attack?",
+    "answer": "No. A creature with a weapon does not have to attack with it.",
+    "rules": [
+      "Combat"
+    ],
+    "rules_explanation": "There are no rules stating a weapon must be used."
+  }
+]

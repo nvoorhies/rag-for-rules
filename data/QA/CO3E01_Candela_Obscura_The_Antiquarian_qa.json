@@ -1,0 +1,34 @@
+[
+  {
+    "question": "The character is trying to see if there's anything psychological or arcane going on with him as he speaks. Should the check be Focus or Sense?",
+    "answer": "If the character is looking for the mundane nature of his distress the check should be Focus, but if trying to see if there is something magickally wrong give me a Sense roll.",
+    "rules": [
+      "General Guidance > GM Adjudication"
+    ],
+    "rules_explanation": "This is a rules adjudication question asking the DM what type of check should be used for the skill."
+  },
+  {
+    "question": "The character is trying to get to the top of the wall cleanly, quickly and quietly, with the doctor on the ground ready to catch anything. Should it be a Move roll, or does it make sense to use something else for this check?",
+    "answer": "No, Move sounds good.",
+    "rules": [
+      "General Guidance > GM Adjudication"
+    ],
+    "rules_explanation": "This is a rules adjudication question asking the DM what type of check should be used for the skill."
+  },
+  {
+    "question": "The character, a doctor with training with the Occult, can try to trace scarlet use on another character, making a Read roll. However, can it be a Focus roll instead?",
+    "answer": "Yes. Go ahead and make it a Focus roll.",
+    "rules": [
+      "General Guidance > GM Adjudication"
+    ],
+    "rules_explanation": "This is a rules adjudication question asking the DM what type of check should be used for the skill."
+  },
+  {
+    "question": "The character is a gifted Witch. Does that qualify the character to feel proximity to bleed in others?",
+    "answer": "So the idea of this would be if you're trying to pick up a trail or detect bleed in thresholds or amounts that you wouldn't notice right away because anyone in proximity to incredible amounts of bleed is going to feel it regardless, but this allows you a little more sense of focus, directionality, intensity, and the ability to hone in.",
+    "rules": [
+      "General Guidance > GM Adjudication"
+    ],
+    "rules_explanation": "The GM explains how a given ability might affect the ability of a character to use a skill in a certain way."
+  }
+]

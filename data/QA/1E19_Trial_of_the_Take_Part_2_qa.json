@@ -1,0 +1,114 @@
+[
+  {
+    "question": "The Half-Orc barbarian/Grog wants to persuade the frost giants to fight the dragon with them, and the DM requests a roll. Does the Half-Orc barbarian/Grog get advantage on the roll because he is speaking Giant and he is in the cold?",
+    "answer": "No, the Half-Orc barbarian/Grog does not get advantage on the roll.",
+    "rules": [
+      "Section > Persuasion"
+    ],
+    "rules_explanation": "A persuasion roll is used to influence someone. Having advantage on the roll is determined by the DM, and the DM has determined that there is no advantage on the roll."
+  },
+  {
+    "question": "The level 3 Human Wizard/Lyra wants to cast Disintegrate. Does she have to make an actual spell attack roll?",
+    "answer": "No, the level 3 Human Wizard/Lyra does not have to make an actual spell attack roll; the target has to make a saving throw.",
+    "rules": [
+      "Section > Spellcasting > Making an Attack"
+    ],
+    "rules_explanation": "Some spells require a saving throw; the DM determines which type of saving throw. Some spells require a spell attack roll; the spell Disintegrate (or the description given in the text) specifies which one is required."
+  },
+  {
+    "question": "The level 10 Gnome Bard/Scanlan wants to hold a turn, but do a bonus action. Can he hold his action, but do the bonus action?",
+    "answer": "No, the level 10 Gnome Bard/Scanlan can not piecemeal his actions. He has to take all of his turn at once, but he can hold his initiative.",
+    "rules": [
+      "Section > Combat > Your Turn"
+    ],
+    "rules_explanation": "The rules allow for a player to take the Dash, Disengage, or Hide action as a bonus action. This action has to be taken on the player's turn, and cannot be separated from the rest of their actions."
+  },
+  {
+    "question": "The Tiefling Warlock/Zahra, a prospective guild member, adds that her charisma is added to any spell that she casts. Should her charisma be added to the DC?",
+    "answer": "The spell save DC is 8 + your proficiency bonus + your Charisma modifier, so the Charisma is included with the DC.",
+    "rules": [
+      "Section > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "This question covers the way in which the difficulty class is calculated for a spell and explains it in that context."
+  },
+  {
+    "question": "During an extended combat, the party wants to know if they can take a short rest so that the spellcasters in the group can recover spell slots. Can the Wizard recover her 6th level spell as part of her Arcane Recovery spell?",
+    "answer": "Yes, the level 3 Human Wizard can recover six spell levels on a short rest because of the arcane recovery feature.",
+    "rules": [
+      "Section > Wizard > Arcane Recovery"
+    ],
+    "rules_explanation": "The rules describe the ability of a wizard to regain spell slots during a short rest."
+  },
+  {
+    "question": "The ranger of level 9 or higher is scouting ahead and the player states that because his favored enemy is dragons, so he gets additional bonuses to tracking it and insight against it. Is that true?",
+    "answer": "The ranger of level 9 or higher gets benefits from having a dragon as a favored enemy, but does not specifically get them in battle or when attacking; it is more about knowing about them.",
+    "rules": [
+      "Section > Ranger > Favored Enemy"
+    ],
+    "rules_explanation": "The rules about Favored Enemy describe the way the ranger class is intended to work. This rules answers and clarifies which part of the ranger class is applied, resolving the DM's question."
+  },
+  {
+    "question": "If a level 11 ranger chooses lightning arrow as his ranged attack spell, and they score a hit, does the dragon roll a saving throw to take half damage, or just takes the full damage?",
+    "answer": "Yes, if a ranger of level 11 or higher chooses Lightning Arrow as his ranged attack spell, and they score a hit, the dragon makes a saving throw for half damage",
+    "rules": [
+      "Section > Areas of Effect > Saving Throws"
+    ],
+    "rules_explanation": "Some spells such as Lightning Arrow do require saving throws. It is up to the DM to determine the type of saving throw."
+  },
+  {
+    "question": "For a multi-class bard, If a level 11 human bard/fighter is frightened, are their attacks with disadvantage?",
+    "answer": "Yes, if a level 11 human bard/fighter is frightened, their attacks have disadvantage",
+    "rules": [
+      "Section > Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The rules describe the effects of being frightened on a saving throw."
+  },
+  {
+    "question": "If the party takes on a short rest to heal up, and are they taking their level's increase of hitpoints during this short rest as well?",
+    "answer": "During a short rest you are able to add to your total hit point maximum.",
+    "rules": [
+      "Section > Beyond 1st Level > Gaining a Level"
+    ],
+    "rules_explanation": "The rules for increasing your hit points and maximum at the end of a short rest when you level up is listed. This resolves the question."
+  },
+  {
+    "question": "If a feat lets them add an additional 2 lightning damage to a hit, and also says they add a d6, do they add the flat amount before or after the dice?",
+    "answer": "When an attack has an effect that results in rolling dice for damage, the flat amount bonus will be added to the total roll of the dice.",
+    "rules": [
+      "Section > Combat > Damage and Healing > Damage Rolls"
+    ],
+    "rules_explanation": "The rules for making a damage roll indicate that the ability modifier is added to the total roll of the dice."
+  },
+  {
+    "question": "If the Level 11 Human Bard/Scanlan casts Bigby's Hand to try to grapple it and pull it back down, do you add the hand's strength score when attempting the opposed check?",
+    "answer": "Yes, the Strength score of Bigby's Hand should be added to attempt the opposed check.",
+    "rules": [
+      "Section > Combat > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "The hand has a listed Strength that is used to resolve the grapple; the rules determine whether or not to add that to the check or roll itself."
+  },
+  {
+    "question": "The Level 7 Human Wizard/Lyra is within 30 feet of Rimefang. Can she target its wing and try to Disintegrate? And is the disadvantage on that attack roll or advantage on the saving throw?",
+    "answer": "The Level 7 Human Wizard/Lyra can target the wing of the dragon. There is no disadvantage on the attack roll, but the dragon has advantage on the saving throw.",
+    "rules": [
+      "Section > Spell Descriptions > Disintegrate"
+    ],
+    "rules_explanation": "This spell requires a check from the targeted monster, and if you target a specific location, the target will get advantage"
+  },
+  {
+    "question": "When you cast Eyebite, and it uses your vision, its vision, and combined it in midair, but you have to pull back, does that spell drifts away and you realize the incantation's lost?",
+    "answer": "Yes, in that case, the spell drifts away from you and you realize the incantation's lost.",
+    "rules": [
+      " Eyebite spell"
+    ],
+    "rules_explanation": "The spell effect is dependant on the user being able to see the target."
+  },
+  {
+    "question": "Is it possible, through the Warlock's hex spell, can the demonic faces begins to chokehold around its neck, and as it tries to shake it off, you bring your staff forward, and this bolt of otherworldly energy careening into the side of the dragon, and as it does, the dragon's nearly pushed off its feet?",
+    "answer": "The hex spell can only cause some extra damage to a skill check, and that has already been done, but that can add to the visual description of that spell in a way that you like.",
+    "rules": [
+      " Hex spell"
+    ],
+    "rules_explanation": "The spell only provides extra damage on a saving throw or skill check. All of the target effects on the dragon can be described however you want."
+  }
+]

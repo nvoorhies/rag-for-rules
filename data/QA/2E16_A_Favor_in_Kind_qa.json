@@ -1,0 +1,45 @@
+[
+  {
+    "question": "When Nott prepares to fire the hand crossbow, does Crossbow Expert remove the disadvantage to shooting a target through the bars of the cage?",
+    "answer": "No, the crossbow expert feat does not remove the disadvantage to shooting a target through the bars of the cage, because the feat only removes disadvantage for melee attacks.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks",
+      "Feats > Crossbow Expert"
+    ],
+    "rules_explanation": "Crossbow Expert removes the disadvantage on ranged attacks when within 5 feet of a hostile creature, and removes the loading property from crossbows. It does not affect disadvantage imposed by cover."
+  },
+  {
+    "question": "Does the spectral entity need to make a Wisdom saving throw against Jester's Sanctuary to approach Yasha for a Maddening Touch?",
+    "answer": "No. Sanctuary requires a wisdom saving throw if a creature targets the warded creature with an attack or harmful spell. The entity is not targeting Jester - he is attacking another creature within range of her Sanctuary.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Sanctuary",
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "The Sanctuary spell only imposes a saving throw on creatures directly targeting the warded creature, not those simply within the area of an effect."
+  },
+  {
+    "question": "If Nott makes a ranged attack through the bars of the cage, does it have half-cover or three-quarters cover?",
+    "answer": "Three-quarters cover.",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "Based on the description of the cage and the relatively small space available to shoot through, the target has substantial cover and plus five to its armor class."
+  },
+  {
+    "question": "When Yasha is being targeted by the Howling Babble, does Fjord's Hex apply a Disadvantage to his Wisdom saving throw?",
+    "answer": "No. Hex applies disadvantage on Wisdom ability checks, not Wisdom Saving Throws.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Hex",
+      "Combat > Saving Throws"
+    ],
+    "rules_explanation": "The text of the Hex spell specifies it imposes disadvantage on ability checks only. The spectral entity's ability requires a saving throw, which is distinct from an ability check. "
+  },
+  {
+    "question": "If a creature makes a melee attack against a paralyzed target within 5 feet, is the attack a critical hit?",
+    "answer": "Yes.",
+    "rules": [
+      "Appendix PH-A: Conditions > Paralyzed"
+    ],
+    "rules_explanation": "The paralyzed condition states that attack rolls against the creature have advantage, and any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature."
+  }
+]

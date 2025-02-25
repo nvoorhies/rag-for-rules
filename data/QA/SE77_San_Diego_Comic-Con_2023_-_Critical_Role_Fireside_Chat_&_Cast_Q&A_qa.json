@@ -1,0 +1,45 @@
+[
+  {
+    "question": "What is the DC for the Constitution saving throw for the Breath Weapon of a Dragonborn whose draconic ancestry is Black? Assume the Dragonborn's Constitution modifier is +2, and the Dragonborn's proficiency bonus is +2.",
+    "answer": "The DC for the saving throw is 12.",
+    "rules": [
+      "Races Racial Traits > Dragonborn Dragonborn Traits > Breath Weapon"
+    ],
+    "rules_explanation": "The DC for the breath weapon saving throw is calculated as 8 + Constitution modifier + proficiency bonus. In this case, that is 8 + 2 + 2 = 12."
+  },
+  {
+    "question": "The bard casts Cutting Words on a monster that is making an attack roll. The bard is level 3 and uses a Bardic Inspiration die of d6. Can they use this feature?",
+    "answer": "Yes, the College of Lore bard can expend one use of Bardic Inspiration, rolling the Bardic Inspiration die and subtracting the number rolled from the monster's attack roll.",
+    "rules": [
+      "Bard > Bardic Inspiration",
+      "Bard > Bard College > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "The College of Lore's Cutting Words feature allows a bard to expend a Bardic Inspiration die as a reaction to subtract from an attack roll made by a creature within 60 feet that the bard can see, regardless of level."
+  },
+  {
+    "question": "The cleric wants to use his Channel Divinity to Turn Undead. What is the DC for the undead creatures' Wisdom saving throws if the cleric is 2nd level, has a Wisdom score of 16, and a proficiency bonus of +2?",
+    "answer": "The DC for the Wisdom saving throws is 13.",
+    "rules": [
+      "Cleric > Channel Divinity",
+      "Cleric > Spellcasting Ability"
+    ],
+    "rules_explanation": "The DC for a Channel Divinity saving throw is equal to the cleric's spell save DC, which is 8 + proficiency bonus + Wisdom modifier. 8 + 2 + 3 = 13."
+  },
+  {
+    "question": "A 2nd level Druid with a Wisdom score of 14 has expended all of their spell slots. Using Natural Recovery, what is the combined level of spell slots that the druid can recover during a short rest?",
+    "answer": "The combined level of spell slots that can be recovered is 1.",
+    "rules": [
+      "Druid > Natural Recovery"
+    ],
+    "rules_explanation": "The combined level of spell slots that can be recovered is equal to half the druid level (rounded up).  In this case, half of 2 is 1."
+  },
+  {
+    "question": "Laura asks, Can Chetney do that?. Travis answers, I don't know, but I just decided that's what I'm gonna do.. According to the rules, can a player character create a new rule on the spot during a game?",
+    "answer": "This is up to the GM. As Matt says,  Play it by the rules until it's not fun and then break 'em. ",
+    "rules": [
+      "Cleric > Divine Intervention",
+      "Dwarf > Hill Dwarf > Ability Score Increase"
+    ],
+    "rules_explanation": "Many aspects of play depend on GM adjudication of situations and rulings on the application of the rules"
+  }
+]

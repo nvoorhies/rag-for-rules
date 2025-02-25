@@ -1,0 +1,244 @@
+[
+  {
+    "question": "If difficult terrain doesn't slow the level X, race Y guide down, does that mean that the guide's group also moves at normal speed, or just the guide?",
+    "answer": "Difficult terrain does not slow the guide's group.",
+    "rules": [
+      "Adventuring > Movement > Difficult Terrain"
+    ],
+    "rules_explanation": "This rule states 'Every foot of movement in difficult terrain costs 1 extra foot'. Matt stated that the level X, race Y guide has the Natural Explorer (Arctic) feature, which is described as meaning difficult terrain doesn't slow his group down."
+  },
+  {
+    "question": "Is the level X, race Y using any of the senses on our character's level Z class, can that dispel necklace work to block him from scrying on the level Z class?",
+    "answer": "The dispel necklace hides the attuned user from divination magic and prevents them from being targeted or perceived through magical scrying sensors.",
+    "rules": [
+      "Magic Items > Amulet of Proof against Detection and Location"
+    ],
+    "rules_explanation": "As long as Fjord is attuned to the amulet, it will function according to its listed properties."
+  },
+  {
+    "question": "When Jester and Caduceus jump on their shields to slide down a snowy hill, do they have to make a dexterity saving throw?",
+    "answer": "Yes. A dexterity saving throw is required.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "DM called for a dexterity saving throw for both characters when they started sliding out of control. There is no specific rule for this case, so it is up to the DM."
+  },
+  {
+    "question": "If Caleb tries to use Telekinesis to pull a gem out of a pillar that is worn or carried by a creature, do I roll an ability check contested by the creature's strength check, or his DC contested by an intelligence check?",
+    "answer": "The Telekinesis spell allows you to try to move an object that isn't being worn or carried. If the object is worn of carried by a creature, you must make an ability check with your spellcasting ability, contested by the creature's strength check.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Telekinesis"
+    ],
+    "rules_explanation": "The Telekinesis spell description has a caveat if attempting to move a worn or carried object."
+  },
+  {
+    "question": "How does the constitution saving throw from being exhausted affect the player when at the beginning of the night, the PC had Protection from Energy?",
+    "answer": "Having 'Protection from Energy' for one hour does not undo the point of exhaustion caused by a whole night of very tenuous sleep in a very harsh environment.",
+    "rules": [
+      "Adventuring > Resting > Long Rest",
+      "Conditions > Exhaustion"
+    ],
+    "rules_explanation": "A long rest reduces a creature's exhaustion by 1 level, and this can be prevented, but protection from energy for one hour does not protect against the need for a long rest."
+  },
+  {
+    "question": "If Fjord summons the Star Razor and casts See Invisibility to see if there are any wandering orbs, or things that are following us or keeping track of where we are, does using See Invisibility require attunement to the sword?",
+    "answer": "No. There is nothing in the description of the See Invisibility spell that requires attunement.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "No rule specified here."
+  },
+  {
+    "question": "What happens if Caleb, using Telekinesis is exactly 60 feet from the gem while trying to remove the gem, and the gem explodes with necrotic energy that is effective to 60 feet, will he still get hit?",
+    "answer": "Yes. The text indicates the shockwave heads out for a 60 foot radius from the gem, and if the caster is exactly 60 feet, they will still be hit.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The radius of effect includes the boundary of the radius."
+  },
+  {
+    "question": "When Yasha casts Zealous Presence, what does it do?",
+    "answer": "Every friendly creature within 60 feet gains advantage on attack rolls and saving throws until the end of her next turn.",
+    "rules": [
+      "Path of the Zealot > Zealous Presence"
+    ],
+    "rules_explanation": "This is a class feature and the description provides this information."
+  },
+  {
+    "question": "During the ambush, can the level X Fighter (Z) use his action surge to move 10 feet in a straight-ish line and then make an additional attack?",
+    "answer": "Yes, the level X Fighter (Z) may do so.",
+    "rules": [
+      "Fighter > Class Features > Action Surge"
+    ],
+    "rules_explanation": "The Action Surge ability allows taking one additional action in addition to his regular action and a possible bonus action"
+  },
+  {
+    "question": "At level 1, what is the point of having a book to copy spells from if you already need to have the spell in your spellbook in order to prepare it?",
+    "answer": "This is the point of having a spellbook. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.",
+    "rules": [
+      "Wizard > Class Features > Spellcasting > Spellbook"
+    ],
+    "rules_explanation": "The spell book is the source material and repository for wizard spells, allowing access to them even if the wizard did not originally know them."
+  },
+  {
+    "question": "Does anyone, including the level Z class wizard, see anything out of the ordinary from the other player's magic that they just did at the pillar?",
+    "answer": "No. There was no signs of any oddity. The spells seemed to have functioned as intended.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There is no indication of extra sensory input."
+  },
+  {
+    "question": "When the Tiefling casts Tongues on the level Z class cleric, what effect is created?",
+    "answer": "For the duration, you understand the literal meaning of any spoken language that you hear.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Tongues"
+    ],
+    "rules_explanation": "Description of the Tongues spell."
+  },
+  {
+    "question": "Can the spell, tiny hut, be cast to accommodate the gargantuan creatures?",
+    "answer": "No. Tiny hut can only accommodate nine medium or smaller creatures.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Tiny Hut"
+    ],
+    "rules_explanation": "Spell requirements specifies which types of characters fit into the parameters."
+  },
+  {
+    "question": "In the story of the Cat Prince, what school of magic is best associated with the Prince's actions?",
+    "answer": "There is nothing in the Players Handbook about judging someone's actions based on school of magic.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a non rules based question."
+  },
+  {
+    "question": "Can the level X, race Y use a fighting skill to help lift the net off of his level W, class Z friend?",
+    "answer": "Yes, but Yasha must give you an advantage by holding the net.",
+    "rules": [
+      "Combat > Actions in Combat > Help"
+    ],
+    "rules_explanation": "The Help action allows the character to give someone advantage on the skill check, where appropriate."
+  },
+  {
+    "question": "If a level X wizard holds a Chromatic Orb spell and is attacked, does a successful cast mean that the wizard is no longer holding the spell?",
+    "answer": "Yes, the wizard has cast the Chromatic Orb, which would no longer be able to be held.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Reactions"
+    ],
+    "rules_explanation": "Chromatic orb has a casting time of 1 action, not a reaction, and therefore can not be used as a reaction."
+  },
+  {
+    "question": "If the cat comes back out of the dome mansion mutated in some way or is shredded, does that destroy the spell?",
+    "answer": "No, there is no effect that happens to the mansion as a result of casting it on another plane.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Based on the description of the spell, this does not occur. There may be rules consequences for casting the spell on another plane depending on the DM."
+  },
+  {
+    "question": "After casting Telekinesis for 10 minutes, how long until it can be cast again?",
+    "answer": "The Telekinesis spell lasts for 10 minutes and does not state it can't be cast again right after it ends.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Telekinesis"
+    ],
+    "rules_explanation": "The Telekinesis spell description does not limit the number of times the spell can be cast in a given time period. Therefore, it can be cast again immediately following the ending of the effect from the prior casting."
+  },
+  {
+    "question": "With Telekinesis, what die is added to for the ability check?",
+    "answer": "You must roll a d20 and add your spellcasting ability modifier.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Telekinesis"
+    ],
+    "rules_explanation": "The Telekinesis spell says 'If the object is worn or carried by a creature, you must make an ability check with your spellcasting ability, contested by that creature’s Strength check.' This ability check has no other information to say what die is added to. The Spellcasting Ability section says: 'In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.' Therefore, the spellcasting ability modifier must be added."
+  },
+  {
+    "question": "If a member of the Cerberus Assembly tries to track an item inside a necklace, will they be able to find it?",
+    "answer": "The item cannot be tracked.",
+    "rules": [
+      "Magic Items > Amulet of Proof against Detection and Location"
+    ],
+    "rules_explanation": "The necklace wearer is hidden from divination magic."
+  },
+  {
+    "question": "If a character's Telekinesis spell only has a range of 60 feet, and they stand exactly 60 feet away from something that deals damage in a 60 foot radius, will they be damaged?",
+    "answer": "Yes, the Telekinesis spell has a range of exactly 60 feet from the caster.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Telekinesis"
+    ],
+    "rules_explanation": "There's one way to find out"
+  },
+  {
+    "question": "To disbelieve or see through someone, can someone attack it from the right angle, sometimes? ",
+    "answer": "No, it is either seen, or not seen, or is a case of DM fiat.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A player has to be specific."
+  },
+  {
+    "question": "If a player uses dispel magic on the pillar, what check must be made to succeed?",
+    "answer": "You cast Dispel Magic. It has no effect.",
+    "rules": [
+      "Dispel Magic"
+    ],
+    "rules_explanation": "It has no effect."
+  },
+  {
+    "question": "Can two spells be cast at the same time?",
+    "answer": "No. Unless you have a specific ability to cast another spell, you can only cast one spell per turn.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action",
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "Unless you have some special ability to cast another spell"
+  },
+  {
+    "question": "If Yasha, the level X, class Y slams her hands into a fallen creature's chest, how much does that heal them for?",
+    "answer": "It depends on the level and class, but a lay on hands has a healing effect of X points.",
+    "rules": [
+      "Paladin > Class Features > Lay on Hands"
+    ],
+    "rules_explanation": "Lay on Hands does not involve slamming hands into the chest. That said, Yasha would not be able to cast Lay on Hands because she is a barbarian. Yasha instead has Healing Hands, which heals for three times the monk's level."
+  },
+  {
+    "question": "If there is a magical scrying sphere in the air, and the level Z class sees it, does he automatically know its location?",
+    "answer": "There is no automatic reveal, but the detect magic has a chance to be cast at any time.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Any more information would be DM fiat."
+  },
+  {
+    "question": "If the party is being escorted by a few of them, do they still have to roll on the table each day?",
+    "answer": "The journey will be an auto clear, non-problematic day.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "If you get a good outcome, take it."
+  },
+  {
+    "question": "Is the dragon's essence still inside it and able to function at full capacity?",
+    "answer": "As it impacts around the body you watch as the fur, around where your hand touched, turns dark gray and then eventually black in that space, all up the thigh. And it goes (roars) and falls down. Now, it's on both knees on the ground. It's hurt.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Not answered specifically. The dragon's essence is still inside and it does not function at full capacity."
+  },
+  {
+    "question": "A character is a dragonborn and does not have a class that would give her extra armor, what is her Armor Class?",
+    "answer": "The Armor Class would be 11, which is base value.",
+    "rules": [
+      "Armor"
+    ],
+    "rules_explanation": "It is assumed that characters have no armor."
+  },
+  {
+    "question": "When a creature is attacked from behind, do they have an increased perception check?",
+    "answer": "Not automatically, but they may have decreased check for lack of vision. Depends on DM.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There has to be a visual component."
+  }
+]

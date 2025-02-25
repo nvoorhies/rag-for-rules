@@ -1,0 +1,161 @@
+[
+  {
+    "question": "If a character goes into an area of magical darkness, do they still get darkvision?",
+    "answer": "No, a character with darkvision in an area of magical darkness is still blinded.",
+    "rules": [
+      "The Environment > Vision and Light > Darkness",
+      "Appendix PH-A: Conditions > Blinded"
+    ],
+    "rules_explanation": "The text for the 'Darkness' describes that it creates an area of heavy obscurement. Heavy obscurement blocks vision entirely, effectively blinding the character. Darkvision allows a character to see in normal darkness as dim light, but does not allow a character to see through magical darkness or other sources of heavy obscurement."
+  },
+  {
+    "question": "When you have someone grappled, can you pull them at half movement?",
+    "answer": "Yes, if you have someone grappled, you can pull them at half movement.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "The rules indicate that if you have a creature grappled, you can move while maintaining the grapple; however, your movement speed is halved."
+  },
+  {
+    "question": "Can a character pin a creature that they have grappled?",
+    "answer": "No, the feat 'Grappler' is required to pin a creature.",
+    "rules": [
+      "Feats > Grappler"
+    ],
+    "rules_explanation": "The 'Grappler' feat allows the character to restrain a creature they have already grappled, the rules imply that this option is not normally available in the base rules."
+  },
+  {
+    "question": "When you cast a prepared spell and then hold it without releasing it until the last moment, and then not release it, does the spell use the spell slot?",
+    "answer": "Yes, the spell is cast but then held, and the magic expends whether or not the effect is released.",
+    "rules": [
+      "Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "The rules state that to cast a spell of 1st level or higher you must expend a spell slot. There are no rules for retaining the spell slot if the effect is never realised."
+  },
+  {
+    "question": "If you flank an enemy do you get advantage on your attack?",
+    "answer": "The rules do not include a flanking rule.",
+    "rules": [],
+    "rules_explanation": "The rules in the Systems Reference Document do not discuss a flanking mechanic, but the Dungeon Master is free to add rules and judgements to the game."
+  },
+  {
+    "question": "If an elf gets hit with a spell that requires a saving throw against being charmed, do they have advantage on the saving throw?",
+    "answer": "Yes, elves have advantage on saving throws against being charmed",
+    "rules": [
+      "Races > Elf > Fey Ancestry"
+    ],
+    "rules_explanation": "The elf racial trait 'Fey Ancestry' grants the character advantage on saving throws against being charmed."
+  },
+  {
+    "question": "Are creatures charmed by the spell Devil's Tongue subject to your commands?",
+    "answer": "Yes, charmed creature regards you as a trusted friend to be heeded and protected, though they are not under your control.",
+    "rules": [
+      "Appendix PH-A: Conditions > Charmed"
+    ],
+    "rules_explanation": "The charmed condition dictates how a charmed creature interacts with the charmer, and explicitly states that the charmed target regards you as a trusted friend to be heeded and protected."
+  },
+  {
+    "question": "If an affect causes two different saving throws (one of them wisdom) at once, can you blood maledict so as to make the monster roll at disadvantage?",
+    "answer": "Yes, the Blood Maledict can be applied to wisdom saving throws.",
+    "rules": [],
+    "rules_explanation": "In 5e D&D, any effect that imposes disadvantage on a saving throw applies to the entire roll, not just specific parts of it."
+  },
+  {
+    "question": "If an object contains magical energy, and someone performs the Identify ritual on the object, does the Identify ritual reveal that the object is magical?",
+    "answer": "The magic contained is outside of the parameters of the spell. You're not entirely certain what it's capable of.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Spell Descriptions > Identify"
+    ],
+    "rules_explanation": "Even if an object contains magical energy, the Identify spell will not automatically reveal the nature or extent of the magical energy in every case."
+  },
+  {
+    "question": "What is the worth of a platinum piece in gold pieces?",
+    "answer": "One platinum piece is worth 10 gold pieces.",
+    "rules": [
+      "Equipment > Currency > Standard Exchange Rates"
+    ],
+    "rules_explanation": "The Standard Exchange Rates table shows the relative value of the coins in the game."
+  },
+  {
+    "question": "Does a character have to state that they are doing non-lethal damage, or is all damage non-lethal unless stated otherwise?",
+    "answer": "It is not possible to declare damage as non-lethal.",
+    "rules": [
+      "Combat > Knocking a Creature Out"
+    ],
+    "rules_explanation": "The rules indicate that if the attacker reduces the target's hit points to 0 with a melee attack, the attacker can declare that the target is knocked out rather than killed, but this occurs after the damage roll. It is not possible to select or declare that attacks or damage are nonlethal. The text does not state that if it was meant to be lethal, it needed to be declared."
+  },
+  {
+    "question": "If you run out of that language spell, can the DM tell you what that non English speaking individual said before, or should that be lost forever?",
+    "answer": "When the effect granting Comprehend Languages ends, you can no longer understand the individual.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Duration",
+      "Spell Descriptions > Comprehend Languages"
+    ],
+    "rules_explanation": "After the duration of the Comprehend Languages has ended, the players are no longer under the effect of the spell and will not be able to understand any language unless they have another ability to do so. Anything not heard or recorded would be lost."
+  },
+  {
+    "question": "Can you be charmed if you have resistance to charm?",
+    "answer": "Yes, if you have resistance to being charmed you can still be charmed, but you have advantage on saving throws against being charmed",
+    "rules": [
+      "Appendix PH-A: Conditions > Charmed",
+      "Races > Elf > Fey Ancestry"
+    ],
+    "rules_explanation": "Resistance to a damage type means damage of that type is halved against you; advantage on saving throws means that you roll a second d20 and use the higher value when making saving throws where you have advantage. Neither of these prevents you from being targeted, and the target of being charmed is making the saving throw. The charmed condition does not cause damage so resistance does not apply."
+  },
+  {
+    "question": "Does radiant damage have an effect against an orb of radiant energy or another source of light?",
+    "answer": "No, radiant damage does not have a special effect against an orb of radiant energy or another source of light.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Types > Radiant"
+    ],
+    "rules_explanation": "Radiant damage is described as searing the flesh like fire and overloading the spirit with power. In general, radiant damage is associated with living creatures but there is nothing in the rules that indicate it would have a particular effect on a source of light."
+  },
+  {
+    "question": "What skill check is used to try and recognize someone?",
+    "answer": "That would be an insight check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Wisdom > Insight"
+    ],
+    "rules_explanation": "The Wisdom (Insight) check is most appropriate when trying to determine the true intentions of a creature."
+  },
+  {
+    "question": "Do you get advantage on insight checks for someone who is charmed?",
+    "answer": "Advantage on skill checks are situational, but in this case, likely, yes.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage",
+      "Spell Descriptions > Charm Person",
+      "Appendix PH-A: Conditions > Charmed"
+    ],
+    "rules_explanation": "The Charm Person spell can affect how a character perceives the caster, and it would therefore influence the ability to assess that person's true feelings. The GM would need to decide if circumstances are appropriate for granting advantage, but the Charmed condition does influence the ability to gain insight about the caster."
+  },
+  {
+    "question": "If you get a new level, and you level up your health, but you roll a one for hit points, can you re-roll that?",
+    "answer": "The rules include no re-rolling of health on level up, but the Dungeon Master offers a houserule to allow it.",
+    "rules": [
+      "Beyond 1st Level > Hit Points"
+    ],
+    "rules_explanation": "The rules state that each time you gain a level, you gain 1 additional Hit Die and you roll that Hit Die, adding your constitution modifier to the roll, and add the total to your hit point maximum. The result of that die is the number of hit points that a character gains. The rules do not allow for any do-overs or taking the average value instead."
+  },
+  {
+    "question": "If someone leaves all their gear on the ground and goes away, can you pick up all their equipment, including stuff that was in the extradimensional space, in their backpack?",
+    "answer": "All portable items left behind are placed in the new creature's character inventory.",
+    "rules": [],
+    "rules_explanation": "The rules do not explicitly address how equipment gets transferred from one creature to another, but the Dungeon Master is expected to use common sense and adjudicate reasonable claims for carrying various items."
+  },
+  {
+    "question": "When does thread, from the alarm spell, connect to the individual who cast alarm?",
+    "answer": "If the thread connects anything, it is thread or magic which allows the caster to know if someone they didn't want to be in here came in here, not to determine if people have been spying.",
+    "rules": [
+      "Spell Descriptions > Alarm"
+    ],
+    "rules_explanation": "An Alarm spell does not indicate or relate back to scrying. Instead, it acts as an alarm for a location or object, not a creature"
+  },
+  {
+    "question": "What is a potion of resistance?",
+    "answer": "When you drink this potion, you gain resistance to one type of damage for 1 hour.",
+    "rules": [
+      "Magic Items > Potion of Resistance"
+    ],
+    "rules_explanation": "When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "question": "A level 1 human caster made a persuasion check against an Escritorae and rolled a 12. What was the result of that check?",
+    "answer": "The roll was a persuasion check of 12.",
+    "rules": [
+      "Ability Checks > Making an Ability Check"
+    ],
+    "rules_explanation": "The question requires identifying the ability check that occurred, and then noting the result."
+  },
+  {
+    "question": "A level 1 human is trying to read the mind of an NPC. What saving throw does the NPC make to resist?",
+    "answer": "The NPC must make a Wisdom saving throw.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "The NPC needs to make a saving throw as a character is trying to use a spell targeting the mind. The specific spell (Detect Thoughts) indicates a Wisdom Saving throw to resist the spell."
+  },
+  {
+    "question": "A level 1 fighter has advantage on an attack because of a feint. What dice are rolled for the attack roll?",
+    "answer": "Two d20 dice are rolled, and the higher result is used.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules for rolling with advantage are that 2 d20s are rolled, and the higher result is used."
+  },
+  {
+    "question": "A level 1 faun deals four points of thorn whip damage to a rug. What hit points does the rug lose, and is it moved closer to the faun?",
+    "answer": "The rug loses 4 hit points and is pulled 10 feet closer to the caster.",
+    "rules": [
+      "Spell Descriptions > Thorn Whip"
+    ],
+    "rules_explanation": "The thorn whip cantrip does damage and has a secondary effect that can pull the target 10 feet closer.  The amount of damage done is based on the die roll described in the question."
+  },
+  {
+    "question": "A bard focuses his eyes on a raging barbarian and casts Sympathetic Binding using channel divinity and Shield of Faith. What armor class bonus does the barbarian receive? Is the spell caster concentrating?",
+    "answer": "The barbarian receives a plus two to AC and the spell caster is concentrating.",
+    "rules": [
+      "Classes > Cleric > Channel Divinity",
+      "Classes > Bard > Spellcasting",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The Sympathetic Binding feature grants a single effect. The Armor Class bonus from *Shield of Faith* indicates that it requires concentration.  This mean that both effects are in place and concentration is required."
+  },
+  {
+    "question": "A fighter states that he is flanking in a melee attack. What is the effect of flanking?",
+    "answer": "There is no general rule for flanking in the SRD.",
+    "rules": [],
+    "rules_explanation": "Flanking is not part of the base ruleset, and therefore there is no impact from a player stating they are attempting to flank."
+  },
+  {
+    "question": "A level 1 barbarian with 13 dexterity and 17 charisma is raging and using the gravity build. What is the effect of raging?",
+    "answer": "The provided information is insufficient to determine all effects of raging. A raging barbarian gains advantage on Strength checks and Strength saving throws and resistance to bludgeoning, piercing, and slashing damage. Spells cannot be cast, nor can they be concentrated on. The specific Rage Damage is contingent upon the character level.",
+    "rules": [
+      "Classes > Barbarian > Rage",
+      "Classes > Barbarian > Unarmored Defense"
+    ],
+    "rules_explanation": "The Raging barbarian gains special protection from damage in combat and enhanced strength. The specific Armor Class for the described barbarian would require knowing the constitution of the character."
+  },
+  {
+    "question": "A bard casts Bane on three targets. One fails their saving throw. What is the effect?",
+    "answer": "Until the spell ends, whenever the target makes an attack roll or a saving throw, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.",
+    "rules": [
+      "Spell Descriptions > Bane"
+    ],
+    "rules_explanation": "A character who is subjected to the *bane* spell suffers a penalty to all saving throws and attack rolls.  There is no other immediate effect."
+  },
+  {
+    "question": "A raging level 1 barbarian deals 10 points of normal damage and 8 points of force damage. Which dice are rolled to determine damage?",
+    "answer": "The barbarian's normal melee damage and force damage rolls are made.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "This question and its answer describe the damage rolls and application of rage bonus. There is no specified ability called \"chaos burst\", and all dice numbers are based on unspecified features. Assuming there are no specific additional abilities at work, it is not possible to provide a more detailed breakdown from the SRD alone."
+  }
+]

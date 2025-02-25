@@ -1,0 +1,176 @@
+[
+  {
+    "question": "Does the ranger, level x, class ranger, race elf, with favored terrain underdark, have advantage on survival checks, and favored terrain, to track duergar?",
+    "answer": "Yes, the ranger, level x, class ranger, race elf, with favored terrain underdark, has advantage on survival checks to track duergar in the favored terrain.",
+    "rules": [
+      "Adventuring > Travel Pace > Difficult Terrain",
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The Ranger's Favored Terrain feature grants advantage on Wisdom (Survival) checks while tracking in that terrain. This would apply here when tracking the duergar in the Underdark."
+  },
+  {
+    "question": "When a group with different stealth scores is attempting to stealth, how does that impact their ability to succeed?",
+    "answer": "When a group is attempting to be stealthy, the success of the group is impacted by the shortcomings of members of the group with low stealth skill. The success of the group relies on whether more than half the group succeeded on the stealth check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together",
+      "Using Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "When attempting to act as a stealthy group, it can be considered a Group Check where half or more of the group must succeed, but individuals with low stealth modifier may make it difficult to succeed."
+  },
+  {
+    "question": "Is Guidance a concentration spell?",
+    "answer": "Yes, Guidance is a concentration spell.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends. It's stated here that Casting another spell that requires concentration will end your concentration on a current spell."
+  },
+  {
+    "question": "If the perception check roll from the perception check roll, does it add proficiency bonus or not?",
+    "answer": "Only if you're proficient with perception.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "Proficiency in a skill means you can add your proficiency bonus to ability checks that involve that skill. If you lack proficiency in the skill, you do not add the proficiency bonus."
+  },
+  {
+    "question": "When does A 1st-level ranger, race elf, with a Wisdom of 13, proficient in survival, with survival ability 3 and favored terrain the Underdark, get advantage on a perception ability checks in their favored terrain?",
+    "answer": "The ranger, level x, class ranger, race elf, with a Wisdom of 13, proficient in survival, with survival ability 3 and favored terrain the Underdark, does not get advantage on perception ability checks, this only applies to tracking skill checks using Wisdom (Survival) checks in their favored terrain.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "A ranger only gains advantage on survival checks for tracking in their favored terrain. This does not grant advantage on perception checks."
+  },
+  {
+    "question": "What happens if stealth check roll results are one?",
+    "answer": "A one is considered two failures for the purpose of group challenges.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "There is no rule saying a roll of one for a skill check is an automatic failure, however the DM may chose to treat a one as two failures when checking if the group succeeds or fails."
+  },
+  {
+    "question": "When is the affect from the magic spell Pass Without Trace, a spell that makes a group really stealthy, take effect?",
+    "answer": "As she finishes her incantation, you feel the darkness of the shadows around you begin to coalesce and almost stick to you. Although there's no substance, for a moment you almost find yourself repulsed by it, until you realize that it's probably an advantageous circumstance.",
+    "rules": [
+      "Spellcasting > Casting a Spell",
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "Once a spell is cast, its effects aren't limited by its range, unless the spell's description says otherwise. This mean it's immediate on finishing casting the spell."
+  },
+  {
+    "question": "How is range calculated?",
+    "answer": "Range is how far away from you they are, and the radius is for the point of the spell.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "The target of a spell must be within the spell's range. For a spell like magic missile, the target is a creature. For a spell like fireball, the target is the point in space where the ball of fire erupts."
+  },
+  {
+    "question": "Is there a mute spell?",
+    "answer": "There is no mute spell described in the SRD.",
+    "rules": [
+      "There are no matching rules."
+    ],
+    "rules_explanation": "The search term did not appear in the SRD."
+  },
+  {
+    "question": "With the surprise round action, what happens to surprise if people make sound",
+    "answer": "The surprise round has ended and combat has begun, but the resulting sounds may be heard by others and effect their awareness. The degree to which the noise carries can influence whether other parties detect them. However, suprise has ended at this point",
+    "rules": [
+      "The Order of Combat > Surprise"
+    ],
+    "rules_explanation": "Suprise happens at the very start of combat. The sounds and smells of combat may then effect other groups within the dungeon etc."
+  },
+  {
+    "question": "If a one is rolled on a stealth roll, does that mean 2 failures?",
+    "answer": "A one is considered two failures for this challenge.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "There is no rule saying a roll of one for a skill check is an automatic failure, however the DM may chose to treat a one as two failures when checking if the group succeeds or fails."
+  },
+  {
+    "question": "Can an action be taken to create a spiritual weapon? What is the check?",
+    "answer": "Yes, it's action to create a spiritual weapon, using your spell modifier as the attack bonus.",
+    "rules": [
+      "Cleric > Class Features > Spellcasting",
+      "Spellcasting > Attack Rolls"
+    ],
+    "rules_explanation": "A spiritual weapon is created by the spiritual weapon spell, it has a casting time of 1 action and as such, counts as an action to create."
+  },
+  {
+    "question": "Can an Unseen Servant push a duergar? What check is used?",
+    "answer": "Yes, it can be attempted. To determine success of the Unseen Servant's attempt at shoving, make a d20 roll for athletics.",
+    "rules": [
+      "Spell Descriptions > Unseen Servant"
+    ],
+    "rules_explanation": "There are no published mechanics for resolving an Athletics check for an Unseen Servant. It's mainly meant as an aide. However, it is possible."
+  },
+  {
+    "question": "Can Grog, level x, class barbarian, race goliath, make it through a doorway given the wall of stone?",
+    "answer": "It only opens part way, however, because the stone wall currently blocks the rest of its movement. However, you can still move through it.",
+    "rules": [
+      "Spell Descriptions > Wall of Stone"
+    ],
+    "rules_explanation": "There is no explicit size restriction on this effect, so long as the doorway is wider than the target."
+  },
+  {
+    "question": "does the character, level x, class x, get advantage because they have done this before?",
+    "answer": "Uh, no.",
+    "rules": [
+      "There are no matching rules."
+    ],
+    "rules_explanation": "There is no concept of experience granting advantage to ability checks or saving throws."
+  },
+  {
+    "question": "does the cleric, level x, class cleric, race gnome, proficiency in medicine, get an arcana check when they have a knowledge domain?",
+    "answer": "The provided information does not indicate anything about the knowledge domain domain for the cleric, level x, class cleric, race gnome, proficiency in medicine. There is no domain trait which modifies the Arcana proficiency.",
+    "rules": [
+      "Cleric > Divine Domain"
+    ],
+    "rules_explanation": "Divine Domain is a class feature from the cleric class."
+  },
+  {
+    "question": "If there are 2 duergar up on top of a wall shooting back at the party members, and two party members are in front, then what should we roll to determine the attack. So, as they appear on the top, you guys who have your arrow and gun at the ready, both take a shot then they get a retribution shot.",
+    "answer": "As they appear on the top, you guys who have your arrow and gun at the ready, both take a shot then they get a retribution shot.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "The question and answer is a statement of fact, not a question about how to resolve a rules query"
+  },
+  {
+    "question": "what bonuses are given in a party stealth check with mixed rolls?",
+    "answer": "The communal stealth check is made against half of the party succeeding. The pass without trace gives a +10 to the check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks",
+      "Spell descriptions > pass without trace"
+    ],
+    "rules_explanation": "The pass without trace spell adds 10 to the check and the success is dependent on half the group succeeding."
+  },
+  {
+    "question": "On a communal stealth check, how are critical failures counted towards success?",
+    "answer": "A one is considered two failures for this challenge.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "There is no rule saying a roll of one for a skill check is an automatic failure, however the DM may chose to treat a one as two failures when checking if the group succeeds or fails."
+  },
+  {
+    "question": "During a communal stealth check if only half of the party succeeds then do we still manage to move forward?",
+    "answer": "More than half you guys succeeded. That bit is key.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "In a group check, you can't rely on the skills of the most skilled members; the whole group must pull its weight. At least half the group must succeed for the check to succeed."
+  },
+  {
+    "question": "Which modifier should be used for a spiritual weapon attack roll?",
+    "answer": "Using your spell modifier as the attack bonus.",
+    "rules": [
+      "Cleric > Class Features > Spellcasting > Spellcasting Ability",
+      "Spellcasting > Attack Rolls"
+    ],
+    "rules_explanation": "The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability."
+  }
+]

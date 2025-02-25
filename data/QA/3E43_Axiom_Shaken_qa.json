@@ -1,0 +1,233 @@
+[
+  {
+    "question": "Given that the Level 4 FCG race is resistant to poison damage, how much poison damage does the level 4 FCG take from the bird's attack?",
+    "answer": "The Level 4 FCG takes 1 point of poison damage.",
+    "rules": [
+      "Spells > Spell Descriptions > Poison Spray"
+    ],
+    "rules_explanation": "The SRD describes that resistance halves damage, and half of 1 is 0.5, which is rounded down to 0. However, the DM states that 1 point of poison damage is taken regardless of resistance."
+  },
+  {
+    "question": "What kind of saving throw does the level 4 FCG need to make after being hit by the bird's attack?",
+    "answer": "The Level 4 FCG needs to make a Constitution saving throw.",
+    "rules": [
+      "Spells > Spell Descriptions > Poison Spray",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "It is stated that the target takes one point of poison damage, and a constitution saving throw is required. The rule of saving throws dictates that to make a saving throw, roll a d20 and add the appropriate ability modifier."
+  },
+  {
+    "question": "Can the level 7 Sorcerer double the range of the Inflict Wounds spell?",
+    "answer": "Yes, using the Distant Spell metamagic option available to sorcerers.",
+    "rules": [
+      "Sorcerer > Metamagic > Distant Spell"
+    ],
+    "rules_explanation": "The Distant Spell metamagic option allows a sorcerer to spend 1 sorcery point to double the range of a spell with a range of 5 feet or greater."
+  },
+  {
+    "question": "What is the Dexterity saving throw DC for a Level 3 Fighter using Grasping Vines from Seedling, The Wayward Pilgrim?",
+    "answer": "The Dexterity saving throw DC is 14.",
+    "rules": [],
+    "rules_explanation": "Given in the text."
+  },
+  {
+    "question": "Can the level 6 Warlock laudna cast Hex on the bird-like creature as it is flying away Pâté is following it?",
+    "answer": "Yes, if it is within the spell's range, with a range that depends on the spell and any metamagic feats Laudna may be using.",
+    "rules": [
+      "Spells > Casting a Spell > Range",
+      "Warlock > Eldritch Invocations"
+    ],
+    "rules_explanation": "As a Hex is a warlock spell, the usual rules for range and spellcasting apply."
+  },
+  {
+    "question": "What does the Hex spell do?",
+    "answer": "The Hex spell does not necessarily reveal the location of the target, but it is maintained on them.",
+    "rules": [
+      "Spells > Spell Descriptions > Hex",
+      "Spells > Spell Descriptions > Hunter's Mark"
+    ],
+    "rules_explanation": "As the caster was thinking of Hunter's Mark but cast Hex, the difference between those spells was clarified"
+  },
+  {
+    "question": "Can the Level 7 Sorcerer cast the Message cantrip to Ashton if he is 120 feet away?",
+    "answer": "It depends on the specific spell and the target's location. Cantrip versions of Message typically have a range of 120 feet and require knowing the direction the target is in, making it difficult in a crowd. ",
+    "rules": [
+      "Spells > Spell Descriptions > Message"
+    ],
+    "rules_explanation": "The range of the Message spell, and whether or not it can be used depend on the spell description."
+  },
+  {
+    "question": "If the Level 7 Sorcerer casts Sending, what happens?",
+    "answer": "The target receives a short message of twenty-five words or less, regardless of plane.",
+    "rules": [
+      "Spells > Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "The description of the Sending spell states that 'You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately.' It will work as described."
+  },
+  {
+    "question": "Can the Level 7 Sorcerer cast Fast Friends on Carolle?",
+    "answer": "Yes, they could cast Fast Friends on them.",
+    "rules": [
+      "Spells > Spell Descriptions > Fast Friends"
+    ],
+    "rules_explanation": "There is nothing to indicate there is an impediment to casting the Fast Friends spell."
+  },
+  {
+    "question": "What kind of saving throw is required for Fast Friends?",
+    "answer": "The target must make a wisdom saving throw.",
+    "rules": [
+      "Spells > Spell Descriptions > Fast Friends"
+    ],
+    "rules_explanation": "the Fast Friends spell description specifies that 'The target must make a Wisdom saving throw.'"
+  },
+  {
+    "question": "How long does Fast Friends last?",
+    "answer": "The spell lasts for an hour.",
+    "rules": [
+      "Spells > Spell Descriptions > Fast Friends"
+    ],
+    "rules_explanation": "the Fast Friends spell description specifies that 'For the duration, the target regards you as a friendly acquaintance.' which would be implied to be the spell's listed 1 hour duration."
+  },
+  {
+    "question": "What happens when the Fast Friends spell ends?",
+    "answer": "The target will no longer consider the spellcaster a friendly acquaintance.",
+    "rules": [
+      "Spells > Spell Descriptions > Fast Friends"
+    ],
+    "rules_explanation": "The spell description says that 'For the duration, the target regards you as a friendly acquaintance.' which would be implied to no longer be true when the duration expires."
+  },
+  {
+    "question": "What is the range on the Message cantrip?",
+    "answer": "It is within 120 feet.",
+    "rules": [
+      "Spells > Spell Descriptions > Message"
+    ],
+    "rules_explanation": "the Message spell has a range of 120 feet."
+  },
+  {
+    "question": "The lock on the outer gate of Ebenold Kai's home is latched. How can the Level 9 Chetney get past it?",
+    "answer": "The Level 9 Chetney, with his Theives' Tools, can use his Sleight of Hand to attempt to pick the lock.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Equipment > Tools"
+    ],
+    "rules_explanation": "locks are opened using thieves' tools proficiency and an ability check, and Sleight of Hand seems most appropriate here."
+  },
+  {
+    "question": "With no one to help her, how far can the Level 7 Forest Gnome Fearne jump with a 10 Strength?",
+    "answer": "The Level 7 Forest Gnome Fearne, with a 10 Strength, can perform a long jump of 10 feet with a 10-foot running start, or a standing long jump of 5 feet.",
+    "rules": [
+      "Using Ability Scores > Strength > Jumping"
+    ],
+    "rules_explanation": "The jumping rules state \"When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance.\""
+  },
+  {
+    "question": "What is required to hold open a window?",
+    "answer": "Some measure to prop it open and hold it in place.",
+    "rules": [],
+    "rules_explanation": "None needed. This is common sense"
+  },
+  {
+    "question": "How can a character tell if a door is trapped?",
+    "answer": "The character can make an Investigation check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Per the rules on Ability Checks, an Investigation check can be used to find clues and make deductions."
+  },
+  {
+    "question": "What happens when a character triggers a trap after having opened a locked roll-top desk?",
+    "answer": "They are subjected to whatever the trap's effect is, as described in the trap's description.",
+    "rules": [],
+    "rules_explanation": "None needed. This is common sense"
+  },
+  {
+    "question": "How can the group calm or befriend Carolle now that they're leaving and the Fast Friends spell is about to expire?",
+    "answer": "There is no set rule for befriending them. They must role play it.",
+    "rules": [],
+    "rules_explanation": "This is outside the scope of what is covered in the SRD."
+  },
+  {
+    "question": "What check does a character make to shimmy down a chimney?",
+    "answer": "They make either an acrobatics check or athletics check, as chosen by the player.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This situation is an instance of 'The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure.' which is covered by the general rules on ability checks. Given the context of climbing down a chimney, it seems reasonable that the GM would accept either Acrobatics or Athletics checks"
+  },
+  {
+    "question": "What is the definition of a mental connection and can it be used to speak with somebody even when invisible?",
+    "answer": "There is no definition of a mental connection or any general rules for how they operate or whether they override the rules around invisibility. How these function must come from the description of the ability being used.",
+    "rules": [],
+    "rules_explanation": "This is not a core mechanical term defined in the SRD."
+  },
+  {
+    "question": "Can the group stealth or deceive when they are pretending to be groundskeepers?",
+    "answer": "They can attempt either a group stealth check or group deception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "the SRD describes the circumstances under which to make a Group Check."
+  },
+  {
+    "question": "If a 3rd level spell like Hex is cast at a player, is there any saving throw?",
+    "answer": "No, there is not.",
+    "rules": [
+      "Spells > Spell Descriptions > Hex"
+    ],
+    "rules_explanation": "The Hex spell is not resisted by a saving throw. 'Choose one creature you can see within range. Until the spell ends, you deal an extra 1d6 necrotic damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability.If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature.'"
+  },
+  {
+    "question": "If a 3rd level Hex spell is cast, for how long can the hex be maintained?",
+    "answer": "The hex can be tracked for 8 hours",
+    "rules": [
+      "Spells > Spell Descriptions > Hex"
+    ],
+    "rules_explanation": "For clarity, I'm casting at my one 3rd-level slot. MATT: Okay. So now it lasts for-- MARISHA: So I can track him for eight hours."
+  },
+  {
+    "question": "Can a character step over or must they trip the silver wire?",
+    "answer": "It depends on the configuration. However, it is specified that 'it's less of a tripwire and more that it's just laid across the ground.'",
+    "rules": [],
+    "rules_explanation": "the description of the silver wire determines this. The players need to interpret the description, however, in order to determine the best way to approach it."
+  },
+  {
+    "question": "Can a invisible figure talk in coc to a normal player?",
+    "answer": "Yes, as long as both have Telepathy",
+    "rules": [
+      "Monsters > Telepathy"
+    ],
+    "rules_explanation": "I cant find a rule against invisible creatures using telepathy"
+  },
+  {
+    "question": "After a long rest what levels of spells would the cleric be able to use at full power?",
+    "answer": "Level 5 or lower",
+    "rules": [
+      "Cleric > Class Features > Divine Intervention"
+    ],
+    "rules_explanation": "Any spell of 5th level or lower"
+  },
+  {
+    "question": "Can a blinded player be yanks by Laura?",
+    "answer": "Yes",
+    "rules": [],
+    "rules_explanation": "Because they're touching, blind doesn't matter, that's not a spell requirement"
+  },
+  {
+    "question": "Can the level 15 witch attempt to traverse into a portal that another witch cast and both be from the same plane",
+    "answer": "Yes, so long as they know the spells and components",
+    "rules": [
+      "The Planes of Existence > Planar Travel > Portals",
+      "Spells"
+    ],
+    "rules_explanation": "Each spells and portals allow transport between planes"
+  },
+  {
+    "question": "Does the frightened condition stop a creature from being able to go closer",
+    "answer": "Yes",
+    "rules": [
+      "Appendix MM-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The creature can't willingly move closer to the source of its fear."
+  }
+]

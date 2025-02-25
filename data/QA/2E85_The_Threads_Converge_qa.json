@@ -1,0 +1,118 @@
+[
+  {
+    "question": "Can the Nott the Goblin character use its cunning action to hide while on top of a table in the middle of a chamber?",
+    "answer": "No, cunning action can only be used to take the dodge, disengage, and hide actions, but a character can't hide in plain sight.",
+    "rules": [
+      "Combat > Actions > Cunning Action",
+      "Using Ability Scores > Dexterity > Hiding"
+    ],
+    "rules_explanation": "The rules on hiding state a character must have cover to successfully hide. The cunning action for the rogue allows them to take hide as a bonus action but does not grant cover."
+  },
+  {
+    "question": "A level 8 Monk/ level 1 Fighter, race Hill Dwarf character with proficiency in poison saving throws is attacked by a monster with a poisonous attack. Does the Hill Dwarf character have advantage on poison saving throws?",
+    "answer": "Yes, Hill dwarves have advantage on saving throws against poison.",
+    "rules": [
+      "Races > Dwarf > Hill Dwarf",
+      "Races > Dwarf > Dwarf Traits > Dwarven Resilience"
+    ],
+    "rules_explanation": "Hill Dwarves have the racial trait of Dwarven Resilience, which states they have advantage on saving throws against poison."
+  },
+  {
+    "question": "When the Bane spell affects a creature, does it reduce its armor class?",
+    "answer": "No. When a creature is affected by Bane, it's saving throws and attack rolls are reduced by 1d4.",
+    "rules": [
+      "Spellcasting > Bane"
+    ],
+    "rules_explanation": "This is a direct reference to the Bane spell in the spellcasting section."
+  },
+  {
+    "question": "If a rogue uses Uncanny Dodge to halve damage they are taking from an attack, does that use their reaction?",
+    "answer": "Yes. Using uncanny dodge uses the character's reaction",
+    "rules": [
+      "Classes > Rogue > Uncanny Dodge"
+    ],
+    "rules_explanation": "The rules for Uncanny Dodge state the rogue uses their reaction to halve the attack's damage against them"
+  },
+  {
+    "question": "When a figure has Path to the Grave cast on them, does this mean that any time they are attacked they are vulnerable?",
+    "answer": "No, Path to the Grave states that the next time the figure is hit with an attack they are vulnerable.",
+    "rules": [
+      "Classes > Grave Domain > Path to the Grave"
+    ],
+    "rules_explanation": "This is a direct reference to the Path to the Grave Channel Divinity option in the Grave domain."
+  },
+  {
+    "question": "Can a Player use their reaction to ready an action?",
+    "answer": "Yes, when the trigger occurs, you can either take a reaction right after the trigger finishes or ignore the trigger",
+    "rules": [
+      "Combat > Actions > Ready"
+    ],
+    "rules_explanation": "This is a direct quote of the Ready action which makes the action use the player's reaction."
+  },
+  {
+    "question": "Does being Enlarged increase a melee range to 15ft?",
+    "answer": "No, Enlarge does not increase melee range.",
+    "rules": [
+      "Spellcasting > Enlarge/Reduce"
+    ],
+    "rules_explanation": "The Enlarge/Reduce spell does not effect range."
+  },
+  {
+    "question": "If a large sized creature is Enlarged, do they get an additional d4 to their melee hits?",
+    "answer": "Yes, creatures that are enlarged do an additional 1d4 melee hit damage.",
+    "rules": [
+      "Spellcasting > Enlarge/Reduce"
+    ],
+    "rules_explanation": "The Enlarge/Reduce spell does state that you do an additional 1d4 melee hit."
+  },
+  {
+    "question": "When a character is stunned, do you have advantage on attack rolls against them?",
+    "answer": "Yes, attack rolls against stunned creatures have advantage",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation": "The description of the Stunned condition includes the statement, \"Attack rolls against the creature have advantage.\""
+  },
+  {
+    "question": "Is it possible to hold a Bonus action and a Regular action?",
+    "answer": "No, it is not possible to hold a bonus action and a regular action.",
+    "rules": [
+      "Combat > Actions > Bonus Actions",
+      "Combat > Actions > Ready"
+    ],
+    "rules_explanation": "The description of the Stunned condition includes the statement, \"Attack rolls against the creature have advantage.\""
+  },
+  {
+    "question": "When a Banishment spell ends before 1 minute has passed does the target reappear?",
+    "answer": "The target reappears where the spell ends",
+    "rules": [
+      "Spellcasting > Banishment"
+    ],
+    "rules_explanation": "A direct reading of the Banishment Spell"
+  },
+  {
+    "question": "If one wants to use a shield that was found on the battlefield, does it require attunement?",
+    "answer": "A shield does not require attunement.",
+    "rules": [
+      "Equipment > Armor > Shields",
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "The general rules for shields don't mention attunement, so it is not generally required. Specific magic shields may require it, as noted in their description."
+  },
+  {
+    "question": "Is it possible to use Sentinel to stop an opponent from Disengaging?",
+    "answer": "No, the sentinel feat does not stop an opponent from Disengaging",
+    "rules": [
+      "Feats > Sentinel"
+    ],
+    "rules_explanation": "A direct reading of the Sentinel Feat says nothing about stopping a Disengage."
+  },
+  {
+    "question": "When casting a spell that targets a point, but an obstruction is in the way, does the point still target, but stop on the obstruction?",
+    "answer": "Yes, if you place an area of effect at a point that you can't see and an obstruction, such as a wall, is between you and that point, the point of origin comes into being on the near side of that obstruction",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "This is a direct quote of what happens when an obstacle prevents a clear casting of the point to target spell."
+  }
+]

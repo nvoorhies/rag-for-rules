@@ -1,0 +1,48 @@
+[
+  {
+    "question": "A level 10, cleric with a roll of 5 plus a +2 modifier has cast Sacred Flame. The wisdom saving throw from that caster is dexterity based? If so, what's the Dexterity modifier, and the save?",
+    "answer": "The type of saving throw for Sacred Flame is Dexterity. With a +2 modifier, the saving throw is 16.",
+    "rules": [
+      "Class Features > Cleric > Spellcasting > Spell save DC"
+    ],
+    "rules_explanation": "The DC for a cleric spell is based on the Wisdom of the caster. The base DC is 8 plus the proficiency bonus of a level 10 character (+4) and the Wisdom modifier of the priest, the spell save DC = 8 + 4 + 3 = 16. Since the wisdom saving throw is determined by the sacred flame spell, that part of the question is irrelvant."
+  },
+  {
+    "question": "A level 10 barbarian with a roll of 1, what number do you add from your negative investigation number?",
+    "answer": "A roll of one is modified by a negative number for your Investigation skill. Since the ability used for Investigation is intelligence, so the roll is then modified by the intelligence modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question requires the ability score modifier for an Intelligence based ability check. You add the appropriate ability score modifier to an ability check. To determine an ability modifier, subtract 10 from the ability score and then divide the total by 2 (round down)."
+  },
+  {
+    "question": "Is it wisdom or dexterity for Sacred Flame?",
+    "answer": "Sacred flame uses a Dexterity Saving Throw.",
+    "rules": [],
+    "rules_explanation": "The spell description of Sacred Flame specifies that the target must make a Dexterity saving throw."
+  },
+  {
+    "question": "When Shakäste casts spiritual weapon, what is added to a spell attack roll by a level 10 cleric?",
+    "answer": "The spell attack modifier is the proficiency bonus plus the spellcasting ability modifier. A level 10 character has a proficiency bonus of +4, so the bonus to the spell attack modifier is 7.",
+    "rules": [
+      "Class Features > Cleric > Spellcasting > Spell attack modifier"
+    ],
+    "rules_explanation": "A cleric's spell attack modifier is equal to the proficiency bonus and the ability modifier for the spell, Wisdom. A 10th level character's proficency bonus is +4. Therefore the answer is +4 + 3 (Wisdom) = 7."
+  },
+  {
+    "question": "A level 10 cleric is casting Sacred Flame, is it a wisdom or a dexterity saving throw?",
+    "answer": "A saving throw against Sacred Flame uses dexterity.",
+    "rules": [],
+    "rules_explanation": "The spell description for Sacred Flame indicates it uses a dexterity saving throw."
+  },
+  {
+    "question": "If a level 5 rogue with a dexterity of 15 is making a check for a plus seven, what numbers are being added together?",
+    "answer": "A Dexterity skill check adds the Dexterity modifier and the proficiency bonus.  A level 5 character has a proficiency bonus of +3, so the numbers being added are +2 and +3.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills",
+      "Beyond 1st Level"
+    ],
+    "rules_explanation": "This questions requires several calculations. Determine dexterity modifier. Dexterity is 15. Using Ability Scores > Ability Scores and Modifiers (score - 10) / 2 rounded down = (15-10)/2 = 2.5 rounded down = +2.  Beyond 1st Level > Proficiency Bonus; Find the proficiency bonus of a level 5 character from table = +3. Calculate Skill Check, 2 + 3 = +5. I'm removing the numbers from this question that lead to the incorrect answer."
+  }
+]

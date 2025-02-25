@@ -1,0 +1,123 @@
+[
+  {
+    "question": "Can the level 6 bard cast Revivify on Doty?",
+    "answer": "The Doty robot cannot be revived because too much time has passed since it was destroyed.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "This rules that once an NPC is defeated, there is a set amount of time where a character can use an action or spell to restore that NPC and if that time frame is exceeded, the NPC can no longer be revived."
+  },
+  {
+    "question": "How much time do I have left on my wings?",
+    "answer": "The GM rules that about 20 minutes remain on the character's wings.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "This relates to the length of a spell that needs concentration and it is up to the GM to determine how long someone has been concentrating for."
+  },
+  {
+    "question": "Does radiant mean all gods or just good gods?",
+    "answer": "The GM determines if a term applies to all gods or just good gods.",
+    "rules": [
+      "Dungeon Master's SRD - No specific rule covers this, it is DM judgement based on setting and common sense."
+    ],
+    "rules_explanation": "This is setting specific and left to the GM to adjudicate."
+  },
+  {
+    "question": "I'm going to try to balance on the broom, and then jump off the broom and go Keyteor and go into the chamber, can I?",
+    "answer": "Whether this can be accomplished or not is up to the Dungeon Master's desecration.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "It is up to the DM to decide what the correct ability check would be and the DC of the ability check."
+  },
+  {
+    "question": "How long can I maintain my wild shape?",
+    "answer": "The GM will determine how long you can stay in the form based on the rules for wild shape.",
+    "rules": [
+      "Druid > Wild Shape"
+    ],
+    "rules_explanation": "The duration of wild shape is based on class level, and the DM will use this to determine how long the druid can remain transformed."
+  },
+  {
+    "question": "Can you tell if something's cursed, bro?",
+    "answer": "Whether he can tell if something is cursed is up to the DM to decide.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "It is up to the DM to decide what the correct ability check would be and the DC of the ability check."
+  },
+  {
+    "question": "If we take damage going through the portal with the stone, does that mean we might take damage if you Plane Shift us there?",
+    "answer": "The Dungeon Master will determine this.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Not a rules question, but a request for world information known to the GM."
+  },
+  {
+    "question": "Can you tell if something is cursed, Pike?",
+    "answer": "Whether or not Pike can tell if something is cursed is up to the Dungeon Master to decide.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "It is up to the DM to decide what the correct ability check would be and the DC of the ability check."
+  },
+  {
+    "question": "Can me and Keyleth go try to find the entrance up top so we can do something to that one?",
+    "answer": "Whether they can do that or not is up to the DM to decide.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Not a rules question, but a request for world information known to the GM."
+  },
+  {
+    "question": "Am I going to die in three seconds? Am I going to die in three seconds?",
+    "answer": "That is for the Dungeon Master to decide",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Request for story elements to be provided by the GM"
+  },
+  {
+    "question": "Technically speaking, you've been on salary. I wrote you a check. Can you rip it up? I don't think I can pay it, ever.",
+    "answer": "Whether or not the check can be ripped is up to the Dungeon Master to decide, as a check has not been defined in the document, though writing as a skill has.",
+    "rules": [
+      "Using Ability Scores > Skills > Writing",
+      ""
+    ],
+    "rules_explanation": "Checks do not involve money, but success or failure."
+  },
+  {
+    "question": "If we take damage going through the portal with the stone, does that mean we might take damage if you Plane Shift us there?",
+    "answer": "That is for the Dungeon Master to decide",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Request for DM adjudication on the world"
+  },
+  {
+    "question": "All right, am I going to die?",
+    "answer": "That is for the Dungeon Master to decide",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Request for DM adjudication on the world"
+  },
+  {
+    "question": "Technically speaking, you've been on salary. I wrote you a check. Can you rip it up? I don't think I can pay it, ever.",
+    "answer": "If they rip up the check depends on the GM's desecration.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Action and result left up to the DM"
+  },
+  {
+    "question": "Technically speaking, you've been on salary. Laura wrote you a check. Can you rip it up? I don't think I can pay it, ever.",
+    "answer": "If they rip up the check depends on the GM's desecration.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Action and result left up to the DM"
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "question": "A character wants to buy gold dust in Shadycreek Run. Given the information available, can a general store carry gold dust?",
+    "answer": "Yes, it is up to the GM to determine if the store may carry it there.",
+    "rules": [
+      "Adventuring > Equipment > Goods and Services"
+    ],
+    "rules_explanation": "While the SRD does not directly provide a list of good and services available in a particular location, it does indicate that good and services available is up to the GM's judgement."
+  },
+  {
+    "question": "A character is making a Survival check to lead the party through the Savalirwood. Which ability modifier should be applied to the check?",
+    "answer": "The Wisdom modifier should be applied to the Survival check.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "Survival skill checks are described as using the Wisdom ability modifier. "
+  },
+  {
+    "question": "A character is making an investigation check to locate branches to make a ramp over thorny vines. Which ability modifier should be applied to the check?",
+    "answer": "The Intelligence modifier should be applied to the Investigation check.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "Investigation skill checks are described as using the Intelligence ability modifier."
+  },
+  {
+    "question": "A character is trying to climb over a fence of vines and roots. Should they make a Strength(Athletics) check or a Dexterity (Acrobatics) check?",
+    "answer": "Either a Strength (Athletics) check or a Dexterity (Acrobatics) check could be appropriate.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "Either Athletics or Acrobatics can be used when climbing - it depends on which is most appropriate, to be decided by the GM in the context of the events in the game."
+  },
+  {
+    "question": "A character in the form of an owl makes a perception check. Can they roll with advantage?",
+    "answer": "Advantage on a Perception check in owl form depends on whether that form grants any special hearing or sight-based abilities that would grant advantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "There is no general rule conferring advantage on all Perception checks performed by an owl. Any racial features of an owl are not available using the Polymorph spell."
+  },
+  {
+    "question": "A character dashes over a fence to cross it. Should they make a Strength(Athletics) check or a Dexterity (Acrobatics) check?",
+    "answer": "Either a Strength (Athletics) check or a Dexterity (Acrobatics) check could be appropriate.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "Either Athletics or Acrobatics can be used when traversing an obstacle - it depends on which is most appropriate, to be decided by the GM in the context of the events in the game."
+  },
+  {
+    "question": "A character is asking to speak to a nearby tree. What kind of check should they make?",
+    "answer": "A Wisdom check is appropriate for speaking to a tree.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The SRD does not specify which ability is used to speak to a tree, it is up to the GM's discretion."
+  },
+  {
+    "question": "A character is trying to politely ask the forest for a path. What kind of check should they make?",
+    "answer": "The player should make a Wisdom check",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The SRD does not specify which ability is used to politely ask a forest for a path, it is up to the GM's discretion."
+  },
+  {
+    "question": "A character shoots another character with an arrow, and scores a natural 20 on the attack roll. Does that do anything?",
+    "answer": "Yes, a natural 20 is a critical hit and thus the attacker should roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling 1 or 20",
+      "Combat > Damage and Healing > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "Because rolling a natural 20 is a critical hit, all the damage dice are rolled twice."
+  },
+  {
+    "question": "A character says, \"I'm going to try to catch it. I roll a d10.\" Is that a valid action?",
+    "answer": "It depends on whether there is a game feature that allows the character to attempt to catch the projectile, and if so, what kind of check is required by the feature. There is no default action to catch a thrown object in the SRD.",
+    "rules": [
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "Normally, there is no action to catch a thrown object. However, the character might have a class feature that permits them to do this, in which case the description of the class feature will prescribe what kind of roll is required, if any."
+  },
+  {
+    "question": "A Ranger uses the extra attack feature to shoot two arrows. After rolling a natural 20, their crossbow shoots another arrow immediately; does the Ranger have to roll to attack again?",
+    "answer": "Yes, each attack requires its own attack roll, and the fact that a special feature of the weapon triggers a second attack has no bearing on whether an attack roll is required.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "A natural 20 on the first crossbow attack may have triggered another attack, but it still requires a new attack roll to see if the second attack is successful. If no roll is made, then the game has no way to resolve a hit or miss."
+  },
+  {
+    "question": "An animal is charmed using Animal Friendship, can this condition be cured using Lesser Restoration?",
+    "answer": "Yes, as the spell cures the charmed condition.",
+    "rules": [
+      "Spellcasting > Spell Lists > 2nd Level > Lesser Restoration"
+    ],
+    "rules_explanation": "Animal Friendship is a spell that charms a beast and can be removed by using a 2nd level abjuration spell, Lesser Restoration."
+  },
+  {
+    "question": "A character is heading back to Shadycreek Run. You roll a d20, and ask when they will arrive at Shadycreek Run.",
+    "answer": "The time of arrival is at the discretion of the DM. Rolling a d20 and then indicating the time of arrival to the city is the DM arbitrating time. There is no reference to an equivalent system or procedure in the SRD.",
+    "rules": [
+      "Adventuring > Time"
+    ],
+    "rules_explanation": "The time of arrival has been decided using a procedure not documented in the SRD. "
+  },
+  {
+    "question": "In initiative order, what actions can a Hasted character take?",
+    "answer": "On its turn, a hasted character can take one action and move a distance up to its speed. It can use the additional action granted by haste to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.",
+    "rules": [
+      "Classes > Wizard > Spells > Haste"
+    ],
+    "rules_explanation": "Haste doubles speed, provides +2 to AC, advantage on Dex saving throws, and an extra action for attack (one weapon attack only), dash, disengage, hide, or use an object."
+  },
+  {
+    "question": "Can Pass Without Trace be cast on someone wearing Heavy Armor?",
+    "answer": "Yes, but a character wearing Heavy Armor will be at a disadvantage. So the advantage of having Pass Without a Trace cast on the character is negated.",
+    "rules": [
+      "Adventuring > Equipment > Armor",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Pass Without a Trace gives +10 to stealth checks, and any creature with heavy armor has disadvantage on Dex(Stealth) checks. As a result of the disadvantage and the advantage, they are cancelled out. "
+  },
+  {
+    "question": "A character successfully speaks to the forest and states the group should be ignored during their stealth checks. What modifiers can be ignored?",
+    "answer": "Any single roll of any type can be chosen to ignore the lowest stealth roll, but just one roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules for advantage and disadvantage do not stack beyond applying one die roll for advantage, or one die roll for disadvantage. If an outside force intervenes, such as the magical forest, the effect is outside of normal advantage rules, and the GM can choose to apply the additional modifiers."
+  },
+  {
+    "question": "While playing the game, and the DM states the roll is a brief action, what is intended?",
+    "answer": "Actions in combat, such as making an attack, taking the dash action, etc, all take 1 action to perform.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "Taking an action means that a player will forfeit his standard action to perform a specific task that is not standard (attacking, dashing, etc)."
+  },
+  {
+    "question": "A Hasted Dwarf has been slammed by a sword and the action has removed the benefit of Haste. What effects does this have on the character?",
+    "answer": "When the Haste spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.",
+    "rules": [
+      "Spellcasting > Spell List > Haste"
+    ],
+    "rules_explanation": "A wave of lethargy sweeps over the Hasted target, and its body is drained."
+  },
+  {
+    "question": "A spell says “For the duration, each creature you choose within 30 feet of you,” is able to have this modifier? How does that work?",
+    "answer": "Each creature within 30 feet of a given character can either be selected or not based on whether the caster chooses to include the creature. The selection or deselection can occur during the duration.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "The targeted creatures are selected based on whether the caster chooses to include it in the radius."
+  },
+  {
+    "question": "A spell has ended. What does a character do with the lichen that grows on their wound really quickly?",
+    "answer": "A description of what the character can do with the lichen is not stated, and up to the GM on how it will proceed.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "Spells detail any side effects that might have come up from the use of the spell itself. However, the spell does not go over any material that might have come from it."
+  },
+  {
+    "question": "How far apart can Nott and Beauregard be for Caleb to send a message?",
+    "answer": "120 feet.",
+    "rules": [
+      "Spellcasting > Spell List > Message"
+    ],
+    "rules_explanation": "The Message spell has a range of 120 feet."
+  },
+  {
+    "question": "When a character breaks into a lock and fails, are they able to break their lockpicks?",
+    "answer": "It is possible to break lockpicks when picking a lock.",
+    "rules": [
+      "Adventuring > Tools"
+    ],
+    "rules_explanation": "The SRD description of thieves' tools and their use does not explicitly state that the lockpicks can break. This would be a judgement that falls within the perview of the GM."
+  },
+  {
+    "question": "A character sends a spider through a crack. As it goes, the group switches to another door. However the character has Detect Magic active; does the spell automatically know about the new magic door, or do they have to reactivate the spell?",
+    "answer": "Detect Magic lasts for ten minutes, so the character would be able to tell if the new door has magic, as long as the duration of the initial Detect Magic is still active.",
+    "rules": [
+      "Spellcasting > Spell List > Detect Magic"
+    ],
+    "rules_explanation": "Detect Magic is maintained, and can provide information on whatever target is the user chooses, as long as it's within range."
+  },
+  {
+    "question": "The book gives no information about the location. What happens to the 4 good characters in the party?",
+    "answer": "What happens to the four good characters is unknown, but as long as they're on the outer planes, those specific planes would have great temptations.",
+    "rules": [
+      "Appendix PH-C: The Planes of Existence"
+    ],
+    "rules_explanation": "What happens to the good aligned characters is not specified in the text, therefore the GM will have to determine what actions and behaviors the characters will take during their time on the planes."
+  },
+  {
+    "question": "What happens to a Hasted character when it's the opponent's turn?",
+    "answer": "Once Haste is removed the character can't move or take actions until after its next turn",
+    "rules": [
+      "Spellcasting > Spell Lists > Haste"
+    ],
+    "rules_explanation": "The target can take one action or bonus action, but not both. Haste lasts for 1 minute, and also states when removed the target can't move or take actions until after its next turn."
+  },
+  {
+    "question": "A new player has joined the mighty nein, and has no clue what hierarchy system or group is being implied. What are their options?",
+    "answer": "The player should figure out what is important to the group and do that.",
+    "rules": [
+      "Dungeon Master's Guide"
+    ],
+    "rules_explanation": "The SRD does not specify the appropriate game etiquette for new players joining ongoing campaigns."
+  },
+  {
+    "question": "A Ranger casts the Hunter's Mark and selects a new target with a bonus action, if the original dies. What requirements are needed for the bonus action?",
+    "answer": "The spell does not state specific limitations or pre-requisites other than \"the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature\"",
+    "rules": [
+      "Spellcasting > Spell List > Hunter's Mark"
+    ],
+    "rules_explanation": "A bonus action must be made on a subsequent turn of yours after the Hunter's Marked target drops to 0 hit points."
+  },
+  {
+    "question": "What is a successful stealth check?",
+    "answer": "A successful stealth check is determined by whether the total of the d20 roll, bonuses and penalties equals or exceeds the Perception of the creature observing.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A Stealth check is used when a character attempts to conceal themselves, and the success of that Stealth check is determined by comparing the total to the observer's passive or active Perception."
+  },
+  {
+    "question": "A Firbolg has used their natural ability to disguise themselves to shrink and look similar to a dead guard to resume a patrol pattern. Is this a valid Disguise Self spell?",
+    "answer": "Firbolgs don't have an ability called \"Disguise Self\" as a natural trait. The Disguise Self spell is available to the Bard, Sorcerer, and Wizard classes. If the firbolg had access to Disguise Self due to a class feature, this would be a valid use.",
+    "rules": [
+      "Spellcasting > Spell List > Disguise Self",
+      "Races > Firbolg"
+    ],
+    "rules_explanation": "There is no inherent \"disguise self\" feat for Firbolgs. Instead, the spell itself may be in play due to the appropriate level class feature of the Sorcerer, Bard, or Wizard. Thus, it is not an inherant ability."
+  },
+  {
+    "question": "If a character can use Disguise Self, what would the ability score be?",
+    "answer": "The ability score for Disguise Self will be based on whichever class the character is. A character has to choose the spell as long as the character has proficiency with it, such as the Bard, Sorcerer, and Wizard.",
+    "rules": [
+      "Spellcasting > Spell List > Disguise Self"
+    ],
+    "rules_explanation": "Disguise Self can only be used if the character has the right qualifications, which would be based upon having the appropriate level in one of the specified classes: Bard, Sorcerer, and Wizard. The score must be made for the appropriate skill."
+  },
+  {
+    "question": "If an ally is next to a target while they are fighting the character who is a rogue, and there is no disadvantage on the attack roll, are they able to use Sneak Attack?",
+    "answer": "Yes, with the target being within 5 feet of an ally of the rogue, and the rogue does not have disadvantage, the rogue can use Sneak Attack.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "As long as the target is next to a friendly ally, there's no disadvantage on the attack roll, and the rogue is using a ranged or finesse weapon, Sneak Attack is a valid option."
+  },
+  {
+    "question": "A new character does not have any gear. What does the DM need to do?",
+    "answer": "The player is required to have class related items, which can be obtained by picking the pre-determined set of items. Otherwise, it is up to the DM if the items will be found by other means.",
+    "rules": [
+      "Classes > Equipment"
+    ],
+    "rules_explanation": "Each class has a standardized list of equipment that is required. Otherwise, it is up to the DM on what items the characters can obtain during their quests."
+  },
+  {
+    "question": "When should the DM ignore a stealth check?",
+    "answer": "The DM can ignore the stealth check as they see fit, as the rule of cool applies.",
+    "rules": [
+      "Dungeon Master's Guide"
+    ],
+    "rules_explanation": "The DM can arbitrate any role or scenario that might occur in the game, and is not only there to read the rules."
+  },
+  {
+    "question": "When is an individual able to catch an object?",
+    "answer": "The ability to catch a thrown object is dependent on a feature that enables that, such as the Catch Missile feat. In addition, it requires the use of a reaction.",
+    "rules": [
+      "Using Ability Scores > Skills",
+      "Combat > Your Turn > Actions > Reactions"
+    ],
+    "rules_explanation": "A character can use a reaction to do something special. Certain situations or character features allow a character to use a reaction, to catch an object, that a character may not have otherwise. "
+  },
+  {
+    "question": "Is one able to have more than one set of Goodberries in existence at one time?",
+    "answer": "No. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.",
+    "rules": [
+      "Spellcasting > Spell List > Goodberry"
+    ],
+    "rules_explanation": "The 24 hours starts ticking upon the spell casting, not based on when an individual eats it. Therefore, the character will not be able to have more than one set of Goodberries that is still active. "
+  }
+]

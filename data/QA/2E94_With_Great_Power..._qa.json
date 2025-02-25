@@ -1,0 +1,64 @@
+[
+  {
+    "question": "When making perception checks, at level 4, what modifier should level 4 cleric use?",
+    "answer": "To determine the bonus the level 4 cleric should use, you need to add their Wisdom modifier to their Proficiency bonus. This is not stated.",
+    "rules": [
+      "Ability Scores > Ability Scores and Modifiers",
+      "Appendix MM-A: Nonplayer Characters > Channel Divinity"
+    ],
+    "rules_explanation": "The SRD specifies that a Wisdom check is made up of a d20 roll, plus all modifiers, and that all classes derive the proficiency bonus from the Character Advancement table. A level 4 cleric has proficiency bonus is +2 and should use their wisdom modifier."
+  },
+  {
+    "question": "At what level can level 4 cleric use the 'Turn Undead' ability with effects affecting undead of CR 2 or lower?",
+    "answer": "The level 4 cleric cannot use the 'Turn Undead' ability with effects affecting undead of CR 2 or lower. At the 5th Level the level 4 cleric gains the 'Destroy Undead (CR 1/2)' so it has to be level 5 to use the ability on CR 1/2 or lower.",
+    "rules": [
+      "Class Features > Channel Divinity",
+      "Class Features > Destroy Undead"
+    ],
+    "rules_explanation": "The SRD indicates that the Destroy Undead feature is gained at level 5 so the level 4 cleric would not have this ability."
+  },
+  {
+    "question": "Is there a rule that a character can run full speed on terrain that is considered difficult terrain?",
+    "answer": "No, there is no rule that allows a character to run full speed on terrain that is considered difficult terrain.",
+    "rules": [
+      "Adventuring > Movement > Travel Pace > Difficult Terrain"
+    ],
+    "rules_explanation": "The SRD states 'Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.' which makes running at full speed impossible, but the same terrain can be negated by some features."
+  },
+  {
+    "question": "What is the cost to cast 4th level Bless as a metamagic spell?",
+    "answer": "Bless is not a metamagic spell",
+    "rules": [
+      "Classes > Sorcerer > Metamagic"
+    ],
+    "rules_explanation": "Bless is a cleric spell from the spell list, not a Sorcerer spell, so a metamagic effect cannot be applied to it."
+  },
+  {
+    "question": "What is the rules effect on the game from having advantage on a constitution saving throw?",
+    "answer": "When you have advantage on a saving throw, you roll a second d20 when you make the roll. Use the higher of the two rolls.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This is a general rule for applying advantage to a die roll."
+  },
+  {
+    "question": "Can a player add a d4 to a constitution saving throw?",
+    "answer": "Some spells or abilities allow a player to add a d4 to a saving throw.",
+    "rules": [],
+    "rules_explanation": "Spells and abilities can provide a bonus to a saving throw."
+  },
+  {
+    "question": "Is climbing terrain an action or a movement?",
+    "answer": "While climbing, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing speed.",
+    "rules": [
+      "Adventuring > Movement > Special Types of Movement > Climbing, Swimming, and Crawling"
+    ],
+    "rules_explanation": "Climbing is typically a type of movement, not an action. However, the SRD includes a qualification that, \"At the GM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check.\""
+  },
+  {
+    "question": "If a monster hits an ally with an attack that does radiant damage and causes the affected to glow with a dim light for 1 minute, what kind of radius does it take to glow around the affected?",
+    "answer": "That information is not contained in the rules. You would have to consult the spell or ability in question to determine the radius of the emitted light.",
+    "rules": [],
+    "rules_explanation": "This question requires information that is created by the ability effect itself, it does not inherit it from the rules."
+  }
+]

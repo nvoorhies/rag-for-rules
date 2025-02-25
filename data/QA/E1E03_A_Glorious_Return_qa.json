@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What ability check is required of Level 4 druid Fearne Calloway in response to a small dart sticking into the back of her tricep after she rolled ones on a perception check.",
+    "answer": "The Level 4 druid Fearne Calloway must make a constitution saving throw.",
+    "rules": [
+      "Combat > Actions > Reactions"
+    ],
+    "rules_explanation": "Aabria asks the Level 4 druid Fearne Calloway to make a Constitution saving throw in response to being stuck by a dart because it's an instant response to being poked with an effect that could cause a condition, disease, or other threat to the PC's character."
+  },
+  {
+    "question": "Level 4 druid Fearne Calloway has been affected by a poisoned condition. What action is required to remove it?",
+    "answer": "In order to remove the poisoned condition, the PC must have healing which mentions the ending of the poisoned condition",
+    "rules": [
+      "Appendix PH-A: Conditions > Poisoned"
+    ],
+    "rules_explanation": "To remove the poisoned condition, the PC must have healing that specifically mentions ending the poisoned condition. Side note, there is no RAW action or activity which ends the poisoned condition but there are actions that are prevented or impacted by the poisoned condition"
+  },
+  {
+    "question": "The GM ruled that the 20 rolled by Level 1 hexblade warlock Opal for trying to deceive the group was unsuccessful. Is this permitted?",
+    "answer": "A natural 20 on a check does not guarantee success. The roll must equal or exceed the target DC taking all modifiers into account",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A natural 20 on a check is not an automatic success - it is simply the highest possible number on the die. Whether that plus the appropriate modifiers is enough to beat the DC is up to the target number."
+  },
+  {
+    "question": "What type of check is required to assess if Lorkathar is holding in a laugh.",
+    "answer": "An Insight check is used to determine the true intentions of a creature",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Wisdom > Insight"
+    ],
+    "rules_explanation": "The rules state that a Wisdom (Insight) check is used to determine the true intentions of a creature."
+  },
+  {
+    "question": "Level 4 dwarf sorcerer Dariax used Thaumaturgy to amplify his voice while in disguise as Tharla Starr. What is the maximum possible number of times the base volume could be multiplied by the Thaumaturgy ability?",
+    "answer": "The Thaumaturgy ability can cause your voice to be three times as loud.",
+    "rules": [
+      "Tiefling Traits > Infernal Legacy"
+    ],
+    "rules_explanation": "A dwarf sorcerer doesn't have access to the Thaumaturgy cantrip from class features, tiefling as a race allows access to the Thaumaturgy cantrip. The Thaumaturgy cantrip allows the caster to create minor wonder, a sign of supernatural power within range - in this case cause your voice to boom up to three times as loud."
+  }
+]

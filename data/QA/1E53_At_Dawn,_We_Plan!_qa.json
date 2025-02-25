@@ -1,0 +1,104 @@
+[
+  {
+    "question": "Does the {Druid level 6, Druid} character have the spell *Dispel Magic* prepared?",
+    "answer": "Yes, the {Druid level 6, Druid} character has *Dispel Magic* prepared.",
+    "rules": [
+      "Spellcasting > Preparing and Casting Spells",
+      "Cleric > Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "The spell preparation rules state that a character must prepare the list of spells that are available for them to cast. To answer this question, the document lists the spells that the caster has prepared. To cast dispel magic, the character must have it prepared. "
+  },
+  {
+    "question": "What type of saving throw must {Rogue level 14, Rogue} character make after stepping past the rune?",
+    "answer": "The {Rogue level 14, Rogue} character must make a Dexterity saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The rules state that a saving throw represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. The game master decides when a saving throw must be performed, and the description specifies the relevant ability that is used for the save. In this case, the DM specified a Dexterity saving throw."
+  },
+  {
+    "question": "If a  {Cleric level 6, Druid level 1} is going to cast Dispel Magic on the glyph on the wall, what stat is used to calculate the modifier?",
+    "answer": "If a {Cleric level 6, Druid level 1} is going to cast Dispel Magic on the glyph on the wall, Wisdom is used to calculate the modifier.",
+    "rules": [
+      "Cleric > Spellcasting > Spellcasting Ability",
+      "Druid > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The spellcasting ability for Cleric spells is Wisdom, and Druid also uses Wisdom as their spellcasting ability"
+  },
+  {
+    "question": "What must the {Cleric level 6, Druid level 1} character roll and add to their ability modifier to determine success in dispelling the rune?",
+    "answer": "The {Cleric level 6, Druid level 1} character must roll a d20 and add their Wisdom modifier.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The rules state that to make a saving throw, roll a d20 and add the appropriate ability modifier. The fully qualified rule above uses the save example of dexterity."
+  },
+  {
+    "question": "Can Scanlan use bardic inspiration retroactively?",
+    "answer": "No, bardic inspiration cannot be applied retroactively.",
+    "rules": [
+      "Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "Bardic Inspiration is a bonus action, and must occur before the dice are rolled."
+  },
+  {
+    "question": "After you have cast Dispel Magic, what happens?",
+    "answer": "After you cast Dispel Magic, the shimmer on the door returns to its natural state.",
+    "rules": [
+      "Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "The SRD entry for Dispel Magic states the effect that will occur if it is successful, in this case that the shimmer on the door will return to its natural state."
+  },
+  {
+    "question": "Can the paladin give inspiration retroactively?",
+    "answer": "There is no Paladin ability mentioned here that is applicable to retroactively applying inspiration.",
+    "rules": [],
+    "rules_explanation": "There are no inspiration like abilities available to paladins, or more generally, there is no concept of retroactive inspiration in the SRD"
+  },
+  {
+    "question": "What kind of check is used to determine if you are insane?",
+    "answer": "A Wisdom saving throw is used to determine if you are insane.",
+    "rules": [
+      "Spell Descriptions > Contact Other Plane"
+    ],
+    "rules_explanation": "The effect for Contact Other Plane dictates that the caster must make a DC 15 Intelligence saving throw or be insane until they finish a long rest."
+  },
+  {
+    "question": "What happens if you succeed on a persuasion check of 20, when asking Wilhand for his granddaughter's hand in marriage?",
+    "answer": "He goes: “I'll think about it. I'd like to see more of your fine abode.”",
+    "rules": [],
+    "rules_explanation": "This is the DM's ruling"
+  },
+  {
+    "question": "A 12th level {Cleric, Druid}'s Wisdom modifier is +5. What roll must that character make to dispel magic?",
+    "answer": "A 12th level {Cleric, Druid} character must roll a d20 and add 5.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The basic rules on spellcasting specify that the ability modifier affects saving throws (among other things)."
+  },
+  {
+    "question": "If the Titanstone Knuckles have a +7 strength damage and the punch is successful, what is the damage to the golem?",
+    "answer": "The punch does 8 points of damage.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "According to the Barbarian table, you gain a bonus to the damage roll that increases as you gain levels as a barbarian. This rule implies that the current rage damage is applied, as well as the other effects on the hit."
+  },
+  {
+    "question": "What type of saving throw is required by the Slow spell?",
+    "answer": "The Wisdom saving throw is required by the Slow spell.",
+    "rules": [
+      "Spell Descriptions > Slow"
+    ],
+    "rules_explanation": "The spell description for Slow specifies that a Wisdom saving throw must be made."
+  },
+  {
+    "question": "What ability check is required to determine if a character is in the area.",
+    "answer": "The GM determines the ability check.",
+    "rules": [
+      "Adventuring > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The adventure rule is the GM decides which of the six abilities is relevant to the task at hand"
+  }
+]

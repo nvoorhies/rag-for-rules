@@ -1,0 +1,27 @@
+[
+  {
+    "question": "The Level 6 Bard, wants to try to sneak up on someone. What modifiers to use, and does she have disadvantage because she is a horse?",
+    "answer": "The Level 6 Bard, should make a Stealth check using her Dexterity modifier. As the SRD has no record of centaurs having specific stealth impacts to stealth checks, it is up to the DM to make that ruling.",
+    "rules": [
+      "Ability Scores > Using Each Ability > Dexterity",
+      "Skills > Stealth"
+    ],
+    "rules_explanation": "The Dexterity score is relevant to Stealth checks. Whether the creature has disadvantage is a DM ruling."
+  },
+  {
+    "question": "The Tempest (Level 20 Druid), casts Inspirational Leader. What are the temporary hitpoints granted to the target?",
+    "answer": "Each target gets 20 temporary hit points.",
+    "rules": [
+      "Feats > Inspirational Leader"
+    ],
+    "rules_explanation": "The feat Inspirational Leader grants temporary hit points equal to your level plus your charisma modifier."
+  },
+  {
+    "question": "If a Level 20 Druid casts Heroes' Feast, how many maximum hit points does each player gain?",
+    "answer": "Each character gains 15 hit points.",
+    "rules": [
+      "Spell Descriptions > Heroes' Feast"
+    ],
+    "rules_explanation": "The Heroes' Feast spell increases maximum hit points by 2d10."
+  }
+]

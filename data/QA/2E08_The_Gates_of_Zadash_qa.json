@@ -1,0 +1,98 @@
+[
+  {
+    "question": "When the level 1 Wizard casts Friends, what kind of check is required?",
+    "answer": "A sleight of hand check is required to cast Friends.",
+    "rules": [
+      "Spellcasting > Components"
+    ],
+    "rules_explanation": "The 'Friends' spell has verbal somatic, and material components. Since the material is applying rouge to the caster, this constitutes a sleight of hand check."
+  },
+  {
+    "question": "What is a 1st level cleric's Charisma saving throw DC, as the result of Jester's The Wand of Smiles",
+    "answer": "The 1st level Cleric's Charisma saving throw DC would be 9.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The spell save DC is calculated as 8 + the spellcasting ability modifier (in this case, charisma) + the proficiency bonus. The spell caster has a charisma of 10 (-1), so the total is 8 + 1 = 9"
+  },
+  {
+    "question": "What kind of check is called for if the level 9 Tiefling cleric attempts to draw a dick in level 9 Wizard's spellbook?",
+    "answer": "A Sleight of Hand check is called for to draw a dick in someone else's book.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Narrative judgement."
+  },
+  {
+    "question": "What kind of check does Matt call for Nott to steer the cart pulled by horses?",
+    "answer": "Matt calls for a Animal handling check.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Narrative judgement."
+  },
+  {
+    "question": "What kind of check does Beau need to identify some mysterious notes?",
+    "answer": "Beau needs a intelligence check to identify some mysterious notes.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Narrative judgement."
+  },
+  {
+    "question": "What kind of check does Matt require to be made to find out of Laura is on the level?",
+    "answer": "A insight check is required to find out if Laura is on the level.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Narrative judgement."
+  },
+  {
+    "question": "What kind of saving throw is required by Jester, level 9, to avoid the effect of the wand?",
+    "answer": "A Charisma saving throw is required by Jester.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Narrative judgement."
+  },
+  {
+    "question": "The level 9 Wizard, with a 16 Intelligence, attempts to wedge a pearl out of a ring. What kind of check is required?",
+    "answer": "A general strength check is required to wedge the pearl out of a ring.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Narrative judgement."
+  },
+  {
+    "question": "What kind of check is required by Marisha to know what the word bloodroot means?",
+    "answer": "A nature check is required to know what the word bloodroot means.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Narrative judgement."
+  },
+  {
+    "question": "What is the DC for the nature check to recall bloodroot?",
+    "answer": "The DC for the nature check to recall bloodroot is not given",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Narrative judgement."
+  },
+  {
+    "question": "If the level 9 fighter fails a saving throw, what feature can Taliesin use?",
+    "answer": "If the level 9 fighter fails a saving throw, Taliesin can use Blood Maledict.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Narrative judgement."
+  },
+  {
+    "question": "What kind of check is required by Marius to identify something in the correspondence from Baumbauch?",
+    "answer": "An investigation check is required by Marisha to identify something in the correspondence from Baumbauch.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Narrative judgement."
+  }
+]

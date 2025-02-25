@@ -1,0 +1,123 @@
+[
+  {
+    "question": "The level 1 tiefling warlock PC called \"Dietrich\" has called for their imp familiar called \"PBH\" to untie them. What check does PBH need to make to untie her?",
+    "answer": "PBH needs to make an Acrobatics check.",
+    "rules": [
+      "Introduction > Ability Checks",
+      "Introduction > Ability Checks > Skills"
+    ],
+    "rules_explanation": "An acrobatics check is appropriate to untie the PC."
+  },
+  {
+    "question": "The level 1 gnome bard called \"Mankum\" wants to persuade another player. What kind of skill check is appropriate?",
+    "answer": "A persuasion check is appropriate.",
+    "rules": [
+      "Introduction > Ability Checks",
+      "Introduction > Ability Checks > Skills"
+    ],
+    "rules_explanation": "A Persuasion check (Charisma) is appropriate when attempting to influence someone."
+  },
+  {
+    "question": "The level 2 half-elf rogue called \"Vax'ildan\" is looking for weapons. What kind of skill check is appropriate?",
+    "answer": "An investigation check is appropriate.",
+    "rules": [
+      "Introduction > Ability Checks",
+      "Introduction > Ability Checks > Skills"
+    ],
+    "rules_explanation": "An Investigation check (Intelligence) is appropriate to search for something."
+  },
+  {
+    "question": "The DM has ruled that the level 4 half-elf ranger called \"Vex'ahlia\" is seen by an orc guard at night. What kind of check is appropriate for sneaking?",
+    "answer": "A stealth check is appropriate.",
+    "rules": [
+      "Introduction > Ability Checks",
+      "Introduction > Ability Checks > Skills"
+    ],
+    "rules_explanation": "A Stealth check (Dexterity) is appropriate to remain hidden from view."
+  },
+  {
+    "question": "A orc guard is coming into the tent. The level 1 dwarven rogue called \"Dupont Dupont\" plans to throw a sack over the orc's head to help the level 2 half-elf rogue called \"Vax'ildan\" and the other PCs. What kind of roll is appropriate to throw the sack?",
+    "answer": "An attack roll is appropriate.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "An attack roll is appropriate to hit the orc."
+  },
+  {
+    "question": "The level 2 half-elf rogue called \"Vax'ildan\" is attacking the orc guard with an wagon wheel. What modifier should the player add to the attack roll?",
+    "answer": "The level 2 half-elf rogue should add their Dexterity modifier, but no bonus beyond that because they are not proficient with improvised weapons.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Modifiers to the Roll > Ability Modifier",
+      "Combat > Making an Attack > Weapon Proficiency"
+    ],
+    "rules_explanation": "The Rogue's dex modifier is added but they do not get their proficiency bonus as they are not proficient with improvised weapons."
+  },
+  {
+    "question": "The level 2 half-elf rogue called \"Vax'ildan\" hits the orc guard with the wagon wheel, so they plan to do sneak attack damage. Is sneak attack applicable to the attack?",
+    "answer": "Yes, sneak attack is applicable to the attack with the wagon wheel.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The circumstances for sneak attack (having advantage on the attack roll, or another enemy of the target is within 5 feet of it and you don't have disadvantage on the attack roll) are satisfied."
+  },
+  {
+    "question": "After the initial battle, the level 1 gnome bard called \"Mankum\" is going to cast Stinking Cloud. The DM says it will affect the PCs as well. What may the players do to try and avoid being affected by it?",
+    "answer": "The player can try to hold their breath.",
+    "rules": [
+      "Adventuring > The Environment > Suffocating"
+    ],
+    "rules_explanation": "Holding breath may allow temporary avoidance of the effects of a gas-based effect, such as Stinking Cloud."
+  },
+  {
+    "question": "After the Stinking Cloud is cast, the level 1 tiefling warlock called \"Dietrich\" peeks out of the tent, and attempts to decieve another orc. What kind of skill check is appropriate?",
+    "answer": "A deception check with disadvantage is appropriate.",
+    "rules": [
+      "Introduction > Ability Checks",
+      "Introduction > Ability Checks > Skills",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A Deception check (Charisma) is appropriate when trying to convince someone of a falsehood. As the DM has ruled it has disadvantage, the result is calculated appropriately"
+  },
+  {
+    "question": "The level 1 gnome bard called \"Mankum\" casts Invisibility on the level 4 half-elf ranger called \"Vex'ahlia\". The DM notes that the level 1 gnome bard is using their last third-level spell for the day. Is this ok?",
+    "answer": "No, The Invisibility spell cast at 2nd level only affects one creature, not two.",
+    "rules": [
+      "Spellcasting > Casting a Spell at a Higher Level"
+    ],
+    "rules_explanation": "The statement is ok because casting the Invisibility spell on two players requires using a third level or higher spell slot."
+  },
+  {
+    "question": "The level 4 half-elf ranger called \"Vex'ahlia\" has been hit twice by the cyclops and falls to 0 hit points. The level 1 dwarven rogue called \"Dupont Dupont\" is going to give them a potion of healing. Does this cost an action, bonus action, or reaction to administer?",
+    "answer": "Administering the potion takes an action.",
+    "rules": [
+      "Equipment > Adventuring Gear > Potion of Healing"
+    ],
+    "rules_explanation": "The description for potion of healing states that Drinking or administering a potion takes an action."
+  },
+  {
+    "question": "The level 1 tiefling warlock called \"Dietrich\" asks the DM about using Hex then following it up with an Agonizing Blast on the cyclops. The DM says that casting Hex will drop the concentration on the Hunger of Hadar spell. Is the DM correct?",
+    "answer": "Yes, the DM is correct.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "A character can only concentrate on one spell at a time. Casting hex (which requires concentration) would immediately end the effects of Hunger of Hadar."
+  },
+  {
+    "question": "The level 4 half-elf ranger called \"Vex'ahlia\" is going to try to pull up the spike holding Trinket. What kind of skill check is appropriate?",
+    "answer": "A strength check is appropriate.",
+    "rules": [
+      "Introduction > Ability Checks",
+      "Introduction > Ability Checks > Skills"
+    ],
+    "rules_explanation": "A Strength check is appropriate for physical tasks like this."
+  },
+  {
+    "question": "The level 1 gnome bard called \"Mankum\" is going to try and calm down Trinket. What kind of skill check is appropriate?",
+    "answer": "An animal handling check is appropriate.",
+    "rules": [
+      "Introduction > Ability Checks",
+      "Introduction > Ability Checks > Skills"
+    ],
+    "rules_explanation": "An Animal Handling check (Wisdom) is appropriate when you try to calm down a domesticated animal."
+  }
+]

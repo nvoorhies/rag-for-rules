@@ -1,0 +1,556 @@
+[
+  {
+    "question": "How should a character attempt to open a coffin?",
+    "answer": "A character should attempt to open a coffin by making a Strength check plus their melee weapon attack modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Actions in Combat > Attack"
+    ],
+    "rules_explanation": "Opening a coffin requires a Strength ability check modified by the melee attack proficiency, because prying open the coffin requires direct physical action, and melee modifier is determined by the character's combat abilities"
+  },
+  {
+    "question": "How should a character attempt to catch and eat a rat?",
+    "answer": "A character should attempt to catch a rat with a Dexterity athletics check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Strength",
+      "Skills > Dexterity"
+    ],
+    "rules_explanation": "Catching a rat requires the character's agility, reflexes, and balance."
+  },
+  {
+    "question": "What happens when I eat a rat?",
+    "answer": "You should give me one of your red dice and mark your hunger to just one X.",
+    "rules": [],
+    "rules_explanation": "This is a homebrew rule by the GM and is not directly referenced in the SRD."
+  },
+  {
+    "question": "What roll should I use to attempt to coax a rat?",
+    "answer": "You should make a Charisma animal ken roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Charisma"
+    ],
+    "rules_explanation": "Coaxing an animal requires the character's ability to interact effectively with the rat."
+  },
+  {
+    "question": "What kind of roll should I use to smash through the floor?",
+    "answer": "You should make a Strength brawl roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Strength"
+    ],
+    "rules_explanation": "Smashing through the floor requires a direct physical exertion of force."
+  },
+  {
+    "question": "How are successes totaled when multiple players assist in an action?",
+    "answer": "All of the successes are added together.",
+    "rules": [],
+    "rules_explanation": "This is a GM choice, not explicitly mentioned in the SRD"
+  },
+  {
+    "question": "What effect occurs if a player has a failure on a red die?",
+    "answer": "If the number rolled on a red die is 1, it counts as a failure.",
+    "rules": [],
+    "rules_explanation": "This rule seems specific to the custom Vampire 5e rules the GM is running."
+  },
+  {
+    "question": "What ability check is made to look around, maybe?",
+    "answer": "A perception awareness roll should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Wisdom"
+    ],
+    "rules_explanation": "Looking around and noticing details is generally a Wisdom (Perception) check. The character is trying to become aware of their surroundings."
+  },
+  {
+    "question": "What ability check is made to find something in my surroundings?",
+    "answer": "A perception investigation roll should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Intelligence",
+      "Skills > Wisdom"
+    ],
+    "rules_explanation": "A character is trying to find something in their surroundings, which could be noticing details (Perception) or deducing something based on clues (Investigation)."
+  },
+  {
+    "question": "What ability check is made to drag hand through writing on a wall to make sure that it's fake blood like syrup?",
+    "answer": "A blood token should be given.",
+    "rules": [],
+    "rules_explanation": "GM decision, it's a custom Vampire 5e game mechanic and is not in the 5e SRD."
+  },
+  {
+    "question": "What ability check is made to snap off a chair leg?",
+    "answer": "A strength athletics roll should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Strength"
+    ],
+    "rules_explanation": "Breaking a chair requires the application of physical force."
+  },
+  {
+    "question": "What kind of roll should I use to look inside, when I don't have an awareness issue?",
+    "answer": "A perception investigation should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Intelligence",
+      "Skills > Wisdom"
+    ],
+    "rules_explanation": "The character is looking for information by examining their surroundings, which could be noticing details (Perception) or deducing something based on clues (Investigation)."
+  },
+  {
+    "question": "What roll should I use to manipulate animal ken?",
+    "answer": "A manipulation animal ken roll should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Charisma"
+    ],
+    "rules_explanation": "Manipulating animals relies on a character's force of personality and ability to connect with creatures."
+  },
+  {
+    "question": "What kind of roll should I use to try and be stealthy about opening the door?",
+    "answer": "A dex stealth roll should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Dexterity"
+    ],
+    "rules_explanation": "Stealth requires agility and reflexes."
+  },
+  {
+    "question": "To creep by a server room glass window, what kind of roll should I use?",
+    "answer": "A dex stealth roll should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Dexterity"
+    ],
+    "rules_explanation": "Stealth requires agility and reflexes."
+  },
+  {
+    "question": "To make a perception roll into the server room window, what kind of roll should I use?",
+    "answer": "A perception investigation or perception awareness should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Intelligence",
+      "Skills > Wisdom"
+    ],
+    "rules_explanation": "The character is looking for information by examining their surroundings, which could be noticing details (Perception) or deducing something based on clues (Investigation)."
+  },
+  {
+    "question": "What does a failure on the red die mean to a hunger level?",
+    "answer": "Your forehead starts to elongate a little bit, and your eyes begin to glow, you start to kind of have a little bit of a twitch, and you're getting a little feral.",
+    "rules": [],
+    "rules_explanation": "This appears to be a custom mechanic for this game that doesn't match anything in 5e."
+  },
+  {
+    "question": "To poke his face a little bit, what kind of roll should I use?",
+    "answer": "A stamina roll should be made, followed by a charisma persuasion roll.",
+    "rules": [],
+    "rules_explanation": "The GM is having trouble with the stamina callout, a free form game-specific mechanic is being used instead."
+  },
+  {
+    "question": "If I was leaning over his shoulder and there was a spore puff, what kind of roll should I use?",
+    "answer": "A stamina roll should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Constitution"
+    ],
+    "rules_explanation": "Stamina is an expression of the character's Constitution, which measures health, stamina, and vital force. This is a custom Vampire 5e game mechanic."
+  },
+  {
+    "question": "Can we make our way back to the Twitch stage?",
+    "answer": "You make your way back, quietly through the mess.",
+    "rules": [],
+    "rules_explanation": "This is a descriptive statement by the GM."
+  },
+  {
+    "question": "To find something in the Nerdist office, what kind of roll should I use?",
+    "answer": "A perception investigation roll should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Intelligence",
+      "Skills > Wisdom"
+    ],
+    "rules_explanation": "The character is looking for information by examining their surroundings, which could be noticing details (Perception) or deducing something based on clues (Investigation)."
+  },
+  {
+    "question": "I'm using Presence: Awe to say, you really need to keep me safe so I can get us out of here. What kind of roll should I use?",
+    "answer": "A d10 should be rolled, and then a charisma and persuasion roll should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Charisma"
+    ],
+    "rules_explanation": "Persuasion requires a force of personality to convince someone of something."
+  },
+  {
+    "question": "What is the versus mean?",
+    "answer": "Intelligence and willpower roll should both be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Intelligence",
+      "Skills > Wisdom"
+    ],
+    "rules_explanation": "A skill check is opposed by another creature's skill check, the DM will determine what modifiers apply to the defending check and what the DC is."
+  },
+  {
+    "question": "To be super sneaky going all the way back to the back office, what should be rolled?",
+    "answer": "wits and stealth should be rolled.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Dexterity",
+      "Skills > Intelligence",
+      "Obfuscate"
+    ],
+    "rules_explanation": "Sneaking requires agility and reflexes, plus wits. A d10 should be rolled first."
+  },
+  {
+    "question": "If I rolled two failures on the red dice, what happens?",
+    "answer": "You are going to get seen.",
+    "rules": [],
+    "rules_explanation": "GM call based on the specific custom circumstances of Vampire 5e dice roll."
+  },
+  {
+    "question": "Am I going to die?",
+    "answer": "There's no roll for that second Obfuscate. You just burn and you do it, right?",
+    "rules": [],
+    "rules_explanation": "Second obfuscate roll is an immediate consequence, not something subject to failure."
+  },
+  {
+    "question": "It seems a little fucked up that I have to use my new hungers on my power! Did I have to do that?",
+    "answer": "Yes, you do",
+    "rules": [],
+    "rules_explanation": "GM Call, game system specific to the Vampire scenario."
+  },
+  {
+    "question": "Does standing in the sun do anything?",
+    "answer": "No, nothing happens.",
+    "rules": [],
+    "rules_explanation": "GM Call, descriptive statement."
+  },
+  {
+    "question": "Why don't you take the stake that we were given and stab the heart with it?",
+    "answer": "When you put the stake on the ground by the heart, there's this low, bassy thud.",
+    "rules": [],
+    "rules_explanation": "GM Call, descriptive statement."
+  },
+  {
+    "question": "What happens when you put the wooden stake on the heart?",
+    "answer": "The blood that the heart was drawn with starts to turn black and crackle. And it boils there, gently.",
+    "rules": [],
+    "rules_explanation": "GM Call, descriptive statement."
+  },
+  {
+    "question": "Should we check the little prop closet?",
+    "answer": "You can try.",
+    "rules": [],
+    "rules_explanation": "GM Call, permission granted."
+  },
+  {
+    "question": "Do we see any more writing?",
+    "answer": "This is a big building.",
+    "rules": [],
+    "rules_explanation": "GM Call, descriptive statement."
+  },
+  {
+    "question": "Should we check the little prop closet?",
+    "answer": "Let's see if the key card opens the prop closet.",
+    "rules": [],
+    "rules_explanation": "Player statement"
+  },
+  {
+    "question": "Did it work?",
+    "answer": "The keycard does in fact open the prop closet. It's a very good keycard. That's better than my keycard. Yeah, the prop closet opens.",
+    "rules": [],
+    "rules_explanation": "GM Call, descriptive statement."
+  },
+  {
+    "question": "What if you want to burn a little blood, how well can you see then?",
+    "answer": "Especially if you want to burn a little blood, you can see really well if you're looking for something in particular, but it's the prop closet. It's a ruined, dishevelled mess of ephemera, toys, prop weapons, costumes. It's exactly the way you remember it.",
+    "rules": [],
+    "rules_explanation": "Description that establishes the situation."
+  },
+  {
+    "question": "To look for rats, what should be rolled?",
+    "answer": "A perception investigation roll should be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Intelligence",
+      "Skills > Wisdom"
+    ],
+    "rules_explanation": "To find the rats, characters need to both notice details (Perception) and use reasoning to determine where they might hide (Investigation)."
+  },
+  {
+    "question": "What does versus mean?",
+    "answer": "Intelligence and willpower roll",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Intelligence",
+      "Skills > Wisdom"
+    ],
+    "rules_explanation": "A skill check is opposed by another creature's skill check, the DM will determine what modifiers apply to the defending check and what the DC is."
+  },
+  {
+    "question": "I use Presence: Awe to say, you really need to keep me safe so I can get us out of here. What kind of roll is that?",
+    "answer": "Charisma plus intimidation versus charisma and willpower.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Charisma"
+    ],
+    "rules_explanation": "Persuasion requires a force of personality to convince someone of something."
+  },
+  {
+    "question": "Does Arcade try and fight me off?",
+    "answer": "He's not frozen. He's hiding in the corner.",
+    "rules": [],
+    "rules_explanation": "Result of an action."
+  },
+  {
+    "question": "Does that count towards the other one or do I still have to do a strength and brawl to bite again?",
+    "answer": "Are you going to go for a bite? Give me a strength brawl plus two.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Strength"
+    ],
+    "rules_explanation": "Brawling is an expression of physical strength in close-quarters combat."
+  },
+  {
+    "question": "Do you want to keep drinking or do you want to– You can't get rid of your other one?",
+    "answer": "I'm sure there's a way to do it. So you always keep one?",
+    "rules": [],
+    "rules_explanation": "Confirming game system rules."
+  },
+  {
+    "question": "Perception investigation. Can we combine your roll if you like?",
+    "answer": "Perception investigation. You can combine your roll if you like.",
+    "rules": [],
+    "rules_explanation": "This is a restatement of the question, not a rules explanation"
+  },
+  {
+    "question": "Should we try to do more to the– that circle on the ground, Taliesin. How big is it?",
+    "answer": "It's slightly smaller than a children's four-square court.",
+    "rules": [],
+    "rules_explanation": "Descriptive statement"
+  },
+  {
+    "question": "How are we at the front door? Did we see Lego Hardwick yet?",
+    "answer": "Lego Hardwick has been propped up in front of a red velvet curtain, with a sign that's blocking off the whole front. ",
+    "rules": [],
+    "rules_explanation": "Descriptive statement."
+  },
+  {
+    "question": "Can I use my full Unseen Presence?",
+    "answer": "That one, you have to be still. You're going to have to keep cover.",
+    "rules": [],
+    "rules_explanation": "Clarifying the condition for the Unseen Presence power."
+  },
+  {
+    "question": "Obfuscate, what do I get?",
+    "answer": "You are practically invisible, but it cost you. So you're going all the way back?",
+    "rules": [],
+    "rules_explanation": "The rules about the benefits and costs of using the power are being explained."
+  },
+  {
+    "question": "You're going to be super sneaky. You're going to burn a blood for that. What does that mean? I get another blood?",
+    "answer": "Roll a d10. What did you get? Oh yeah, you get– actually, this is not the normal rolls. This is me doing terrible things because this is a short game.",
+    "rules": [],
+    "rules_explanation": "GM making a statement to play the current situation. It is all improvised."
+  },
+  {
+    "question": "What does “sniff the spores” require to resist?",
+    "answer": "Roll stanima, just tell me what happens.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Constitution"
+    ],
+    "rules_explanation": "Stamina is an expression of the character's Constitution, which measures health, stamina, and vital force. This is a custom Vampire 5e game mechanic."
+  },
+  {
+    "question": "You know, it looked real good. You said it looked bloody. I'm real thirsty. I'm not getting dosed, am I?",
+    "answer": "As you go to stand up from the grass, you notice that– ... And that's the last thing Marisha ever said.",
+    "rules": [],
+    "rules_explanation": "The GM narrates the consequences of drinking the tea."
+  },
+  {
+    "question": "I'll look for a rat and see if they're still there, maybe?",
+    "answer": "No roll for that second Obfuscate. You just burn and you do it, right?",
+    "rules": [],
+    "rules_explanation": "Descriptive action."
+  },
+  {
+    "question": "You go in and try and stab Ivan? All right. Let's do dex plus– Well, no, it's weird. Roll wits and stealth.",
+    "answer": "Paper does not like scissors.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Dexterity",
+      "Skills > Intelligence"
+    ],
+    "rules_explanation": "The character needs both agility to sneak up and acuity to understand what's about to happen."
+  },
+  {
+    "question": "Was I hangry?",
+    "answer": "You are down three on any persuasion or subterfuge rolls because you are not going to be subtle or cunning about anything. Until you feed, you're going to be really on edge.",
+    "rules": [],
+    "rules_explanation": "Hunger mechanic GM describes"
+  },
+  {
+    "question": "What's my hunger?",
+    "answer": "It seems a little fucked up that I have to use my new hungers on my power! You didn't have to do that! You didn't have to do that!",
+    "rules": [],
+    "rules_explanation": "Character reflects on having to use hunger on new power"
+  },
+  {
+    "question": "How am I going to eat him? Am I still okay to hold him on to the chair?",
+    "answer": "I'm trying to let you go, but I'm definitely trying to keep him in the chair. I'm trying to let it– you're not coming off of it.",
+    "rules": [],
+    "rules_explanation": "Describe in-game actions in detail."
+  },
+  {
+    "question": "Where do we find more clues?",
+    "answer": "So there's some cool shit in the cage.",
+    "rules": [],
+    "rules_explanation": "You found some prop stakes, but to be fair, a prop stake is still a piece of wood. That's still stake-y. "
+  },
+  {
+    "question": "What does the area smell like in the prop room?",
+    "answer": "There's obviously some rats living in here, if you went diving for them.",
+    "rules": [],
+    "rules_explanation": "You got me. Descriptive."
+  },
+  {
+    "question": "Was going to have you roll to see if you get pink eye, but never mind.",
+    "answer": "I feel so bad, I'm so mean to Nerdist. Nothing of event walking through here.",
+    "rules": [],
+    "rules_explanation": "GM descriptive and humorous."
+  },
+  {
+    "question": "Can I go over to Arcade and put my hand on his shoulder? and then what do I do?",
+    "answer": "Roll a d10",
+    "rules": [],
+    "rules_explanation": "You have a moment when you touch him where you really think about tearing right into that throat."
+  },
+  {
+    "question": "what's the roll for that (heightened senses)",
+    "answer": "I see hunger roll is perception plus investigation.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Intelligence",
+      "Skills > Wisdom"
+    ],
+    "rules_explanation": "It says here on my notes perception plus investigation for the Auspex:Heightened Senses. The character is looking for information by examining their surroundings, which could be noticing details (Perception) or deducing something based on clues (Investigation)."
+  },
+  {
+    "question": "Is anything safe? Are you sure?",
+    "answer": "Was going to say, no, that's fair. He's just going to do what he's told, so he sits down.",
+    "rules": [],
+    "rules_explanation": "A description."
+  },
+  {
+    "question": "How does the game know to hand out all these hints?",
+    "answer": "I'm having fun torturing you all. I've got so many worse things to happen. Guys, thank you for enjoying my attempt to hang onto these rules that I've written down.",
+    "rules": [],
+    "rules_explanation": "GM explaining GM actions."
+  },
+  {
+    "question": "How can I look a bit better at the game?",
+    "answer": "Things are going to get a little weirder because I'm going to inform of them of a couple new rules that they can now play with since they're starting to vamp out a bit more. Sadly, two of our party are dead and are going to have to not come back to the table.",
+    "rules": [],
+    "rules_explanation": "GM providing a clue"
+  },
+  {
+    "question": "Does it hurt?",
+    "answer": "Slowly, the two halves of you separate at the head.",
+    "rules": [],
+    "rules_explanation": "No, nothing happens."
+  },
+  {
+    "question": "what's our roll is perception plus investigation?",
+    "answer": "I see hunger roll is perception plus investigation",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Intelligence",
+      "Skills > Wisdom"
+    ],
+    "rules_explanation": "The character is looking for information by examining their surroundings, which could be noticing details (Perception) or deducing something based on clues (Investigation)."
+  },
+  {
+    "question": "So what's the versus mean?",
+    "answer": "Manipulation versus plus willpower.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Charisma",
+      "Skills > Wisdom"
+    ],
+    "rules_explanation": "A skill check is opposed by another creature's skill check, the DM will determine what modifiers apply to the defending check and what the DC is."
+  },
+  {
+    "question": "What does that power do?",
+    "answer": "Man, I think you get it next roll.",
+    "rules": [],
+    "rules_explanation": "What power do you have right now?"
+  },
+  {
+    "question": "What does Obfuscate cost?",
+    "answer": "Roll a d10.",
+    "rules": [],
+    "rules_explanation": "“Since you did so well, I'm going to let you walk one through, although that's not quite how it works.”"
+  },
+  {
+    "question": "I'm going to go back in the back office. I'm going to use my Obfuscate. Do I have to roll dex stealth?",
+    "answer": "As you turn the corner, the ground starts to slowly get dark and strangely inky. That whole office that you're used to seeing has been cleared and is empty.",
+    "rules": [],
+    "rules_explanation": "Since you did so well, I'm going to let you walk one through, although that's not quite how it works."
+  },
+  {
+    "question": "Am I going to die?",
+    "answer": "There's no roll for that second Obfuscate. You just burn and you do it, right?",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Dexterity"
+    ],
+    "rules_explanation": "Roll a wits stealth and two new reds"
+  },
+  {
+    "question": "So this has been a little too easy. It was a good run for me? Am I doing something wrong",
+    "answer": "You are not supposed to be in this meeting",
+    "rules": [],
+    "rules_explanation": "Oh, that makes sense."
+  },
+  {
+    "question": "Then did I give one a little bit, you?",
+    "answer": "To the end of each question can answer it at last",
+    "rules": [],
+    "rules_explanation": "All right and then"
+  },
+  {
+    "question": "Matt gets close, what happens?",
+    "answer": "You felt a weird push towards that curtain that you can't quite identify. That was very odd. That's very strange.",
+    "rules": [],
+    "rules_explanation": "There's an almost, they are at the table and there's something happening in the server room."
+  },
+  {
+    "question": "I've got two failures. What effect occurs?",
+    "answer": "What's your current hunger?",
+    "rules": [],
+    "rules_explanation": "They both were ones. The red ones were ones."
+  },
+  {
+    "question": "We're going to Sean's office, do we roll?",
+    "answer": "Reroll stealth before you do.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills > Dexterity"
+    ],
+    "rules_explanation": "Trying to be careful as we go past the server room glass window."
+  },
+  {
+    "question": "What do you need to overcome the head of the puzzle?",
+    "answer": "The creative team",
+    "rules": [],
+    "rules_explanation": "You need to make an offering of understanding."
+  },
+  {
+    "question": "Do you mean that door over there?",
+    "answer": "I mean, yes, as long as you're not pointing in the game, because then you're pointing at the front, but if you're pointing at the table, then yeah, that's the door.",
+    "rules": [],
+    "rules_explanation": "I'm trying to find my points."
+  }
+]

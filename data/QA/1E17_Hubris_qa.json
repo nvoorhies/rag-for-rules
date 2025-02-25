@@ -1,0 +1,111 @@
+[
+  {
+    "question": "When the dragonborn makes a death save, what happens?",
+    "answer": "The dragonborn must roll a d20. If the roll is 10 or higher, the dragonborn succeeds. Otherwise, the dragonborn fails.",
+    "rules": [
+      "Combat > Being Unconscious > Death Saving Throws"
+    ],
+    "rules_explanation": "Based on the rules for death saving throws, the player must roll a d20 and achieve 10 or greater to succeed on the death saving throw. Rolling a 1 results in two failures and rolling a 20 results in regaining 1 hit point."
+  },
+  {
+    "question": "What kind of check is required to identify the deity to which the Temple is dedicated?",
+    "answer": "A religion check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An ability check is required by the DM to see if a character can identify the deity to which a temple is dedicated."
+  },
+  {
+    "question": "If a level 17 Barbarian with the Intimidating Presence feature glares at a creature, what is the DC of the saving throw required to resist the effect?",
+    "answer": "The Wisdom saving throw DC is 13.",
+    "rules": [
+      "Barbarian > Path of the Berserker > Intimidating Presence"
+    ],
+    "rules_explanation": "The DC is 8 + the barbarian's proficiency bonus + the barbarian's Charisma modifier.  The proficiency bonus of a level 17 character is 6, and the barbarian's Charisma modifier is not specified so it is set to the default of +0"
+  },
+  {
+    "question": "When grappling with fists in a frenzied rage, how much damage does the level 17 Goliath Barbarian roll for damage?",
+    "answer": "Roll 1d4, halve the result and add the barbarian's strength modifier.",
+    "rules": [
+      "Barbarian > Rage",
+      "Combat > Making an Attack > Damage Rolls"
+    ],
+    "rules_explanation": "The weapon is fists, so it will do the base damage for an unarmed attack, which is a d4. The Barbarian is in a rage, but it is also a *frenzied rage* so the damage is halved before adding the strength modifier."
+  },
+  {
+    "question": "Can the level 17 Keyleth, in beast form, cast Stoneskin on Grog?",
+    "answer": "No, you cannot cast a spell while in beast form.",
+    "rules": [
+      "Druid > Wild Shape"
+    ],
+    "rules_explanation": "The rules for *Wild Shape* state that you can't cast spells while transformed, which prevents the casting of Stoneskin."
+  },
+  {
+    "question": "Can Tiberius Stormwind cast Stoneskin on Grog?",
+    "answer": "The rules do not prevent the casting of Stoneskin, but the DM states, \"You do that one more time and you're all disqualified from ever competing.\"",
+    "rules": [
+      "Spellcasting > Components > Somatic",
+      "Campaign Specific Rule"
+    ],
+    "rules_explanation": "Because the party is participating in a competition, the DM has created a rule to prevent them from casting spells that would give a character an unfair advantage."
+  },
+  {
+    "question": "If a Half Orc character is reduced to 0 hit points, but not killed outright, what happens?",
+    "answer": "The half-orc can drop to 1 hit point instead by succeeding a Constitution saving throw of DC 10.",
+    "rules": [
+      "Races > Half Orc > Relentless Endurance",
+      "Campaign Specific Rule"
+    ],
+    "rules_explanation": "Relentless Endurance allows the half-orc to drop to 1 hit point instead of 0, but it can only do so once per day. After that, the character is subject to normal death saving throws."
+  },
+  {
+    "question": "What happens when the 6th-level druid casts the 6th-level spell Wall of Stone?",
+    "answer": "The DM does not specify any limitations on the Wall of Stone spell.",
+    "rules": [
+      "Spellcasting > Spell Slots",
+      "Spells > Wall of Stone"
+    ],
+    "rules_explanation": "Each class has a table showing how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. A wall of stone spell has a special effect on creating walls."
+  },
+  {
+    "question": "Can the level 8 dragonborn Tiberius Stormwind cast the 6th-level spell Chain Lightning?",
+    "answer": "It is not possible to cast a 6th level spell with his ring, as it can only store a 3rd-level spell.",
+    "rules": [
+      "Magic Items > Ring of Spell Storing",
+      "Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "The spellcaster asks to use the spell from the Ring of Spell Storing but it is determined it cannot hold a spell of that level."
+  },
+  {
+    "question": "Can a beast be polymorphed, and what is the upper limit on the challenge rating of the new beast?",
+    "answer": "Yes a beast can be polymorphed. The new beast form cannot have a challenge rating higher than the original creature's level.",
+    "rules": [
+      "Spells > Polymorph"
+    ],
+    "rules_explanation": "The target of Polymorph can be transformed into a beast whose challenge rating is no more than the target's level."
+  },
+  {
+    "question": "What modifiers apply to Dexterity saving throws against the Fireball spell?",
+    "answer": "Advantage or disadvantage may apply based on other factors such as abilities or conditions, but no other universal modifiers apply.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The conditions that cause a party member to have to roll a dexterity save do not impose additional modifiers in the roll."
+  },
+  {
+    "question": "What is the effect of a half-orc on a deity that is within 300 feet and is affected by a fabled hero that was heard about in the woods named Macho Man Randy Savage, and he double-taps his elbow and drive it down on top of his head.",
+    "answer": "This scenario does not exist and the effect cannot be computed.",
+    "rules": [
+      "SRD 5.1"
+    ],
+    "rules_explanation": "While Macho Man Randy Savage may be a hero in the woods as described and there are known rules for legendary actions and weapon attacks and improvised damage the SRD 5.1 does not provide enough information to evaluate the action."
+  },
+  {
+    "question": "If a level 17 barbarian with the Frenzy rage ability has already attacked three times, can they take another attack as a bonus action?",
+    "answer": "Yes, the barbarian can make a single melee weapon attack as a bonus action on each of their turns.",
+    "rules": [
+      "Barbarian > Path of the Berserker > Frenzy"
+    ],
+    "rules_explanation": "This is a feature of frenzy, which allows an extra weapon attack as a bonus action. If a bonus action has not already been used, it can be used to make an extra attack."
+  }
+]

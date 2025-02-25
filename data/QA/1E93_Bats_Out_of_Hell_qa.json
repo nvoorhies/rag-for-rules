@@ -1,0 +1,199 @@
+[
+  {
+    "question": "If the Level 12 Ranger casts Polymorph can the beasts of a lower CR than 12 retain their abilities?",
+    "answer": "The new form replaces most of the statistics of the target of *polymorph*, but the target retains its alignment and Intelligence, Wisdom, and Charisma scores. This means the new beast can retain their abilities. All beasts are creatures of CR <= 12 are valid targets.",
+    "rules": [
+      "Spellcasting > Polymorph",
+      "Races > Racial Traits > Ability Score Increase"
+    ],
+    "rules_explanation": "The rules for the *polymorph* spell state that a target is transformed into an average example of that creature, but with its original mental stats. The Ability Score Increase racial trait of races affects the statistics of the new form, but any ability descriptions or special stats remain."
+  },
+  {
+    "question": "Level 6 Monk can't see the pit fiend because of the fire. Ranged attacks against prone creatures have disadvantage, naturally, and the Level 6 Monk can't even see him, so the Level 6 Monk has no visual range. Is that correct?",
+    "answer": "Yes, that is correct. If the attacker has no visual range to the target, a ranged attack with the target prone has disadvantage.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Spellcasting > Areas of Effect"
+    ],
+    "rules_explanation": "The rules state that when you attack a target that you can't see, you have disadvantage on the attack roll. It does not matter that the target is prone, and only applies to the extent to which the target is not visible, as a separate and independent calculation."
+  },
+  {
+    "question": "Level 3 Bard has moved to the other side of the door really quickly, and is backing up a little bit, and then is taking three more potshots at that bone devil because that's what the Level 3 Bard can see.  Because he has Hex on it, does it mean he doesn't have that anymore, since Hex lasts for an hour, and is transferred when an existing creature is killed?",
+    "answer": "You must use a bonus action to apply *hex* to a new target after the original target is no longer alive. Therefor Hex will remain on the target. The Hex spell description says 'If the target drops to 0 hit points, you can use a bonus action on a subsequent turn of yours to curse a new creature.'",
+    "rules": [
+      "Spellcasting > Duration > Concentration",
+      "Spell Lists > Warlock Spells > 1st Level > Hex"
+    ],
+    "rules_explanation": "The spell *hex* is a concentration spell, and it lasts for the full duration unless otherwise stated. One exception is that you can use a bonus action to apply *hex* to a new target after the original target is no longer alive, but this only applies to when the original target drops to 0 hit points."
+  },
+  {
+    "question": "Because the pit fiend used Sanctuary, does that mean the Level 17 Sorcerer has to make a Wisdom save for that first attack?",
+    "answer": "Yes, per the description of the spell *sanctuary*: \"If the warded creature makes an attack, casts a spell that affects an enemy, or damages another creature, the spell ends.\" This is *before* the attack roll is made, but the targeting of the creature.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 1st Level > Sanctuary"
+    ],
+    "rules_explanation": "The spell description describes that at the beginning of their turn, the attacker has to decide and if they do not pass the save, they cannot attack."
+  },
+  {
+    "question": "The Level 17 Sorcerer is going to shoot out their wings and Hunter's Mark the bone devil.  Can they do that?",
+    "answer": "That is allowed within the rules for the Level 17 Sorcerer character.",
+    "rules": [
+      "Combat > Actions > Bonus Action",
+      "Combat > Your Turn > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "A bonus action and action are both permitted, but the activity may not take both. The wings, being something inherent to their being, could be part of the action. That does not prevent Hunter's Mark from applying."
+  },
+  {
+    "question": "If a Level 10 Ranger pops through the window, can they get out of the window? They want to pop through the window, get the bear in the locket.",
+    "answer": "Yes, popping through the window costs the use of your movement for that turn, as long as you have the appropriate speed to move through the window space.",
+    "rules": [
+      "Combat > Movement and Position > Squeezing into a Smaller Space"
+    ],
+    "rules_explanation": "A character can move through a space only one size smaller, at the cost of extra movement for each foot moved. You must move at least 1 foot."
+  },
+  {
+    "question": "Level 7 Barbarian would all be taking Fear Aura checks, but the party is immune to fear because of the Heroes' Feast. Is that correct?",
+    "answer": "That is correct. The Heroes' Feast states, \"While affected by this feast, creatures can't be frightened.\"",
+    "rules": [
+      "Spell Lists > Cleric Spells > 6th Level > Heroes' Feast"
+    ],
+    "rules_explanation": "The spell description states that creatures can't be frightened."
+  },
+  {
+    "question": "When Level 7 Barbarian was not here one week, a player gave him an extra 17 hit points. With the Inspiring Leader feat, is that correct?",
+    "answer": "Yes, that is correct. If the feat applies to the recipient, they are given the temporary hit points.",
+    "rules": [
+      "Feats"
+    ],
+    "rules_explanation": "Per the feat, the player can expend this feat and provide temporary hit points."
+  },
+  {
+    "question": "For the pit fiend's attack, it has to make a Wisdom save because the target has Sanctuary. It succeeds. And then the first attack will be with a 18. Does it hit?",
+    "answer": "Yes, per the description of the spell *sanctuary*: \"If the warded creature makes an attack, casts a spell that affects an enemy, or damages another creature, the spell ends.\" This is *before* the attack roll is made, but after targeting.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 1st Level > Sanctuary"
+    ],
+    "rules_explanation": "The spell description states that when the attack occurs, the attacker has to perform the save, and if they attack, they ignore the effects, but the attack still resolves."
+  },
+  {
+    "question": "Are the barbican's ranged attacks at disadvantage against the prone, Level 8 Druid Keyleth?",
+    "answer": "Yes, the description of the Prone condition states, \"An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.\"",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone",
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "When you have a ranged attack, Prone imposes disadvantage."
+  },
+  {
+    "question": "The Level 8 Druid uses Absorb Elements with fire damage, will I get advantage on my concentration save?",
+    "answer": "No, Absorb elements states, \"You have resistance to the triggering damage type until the start of your next turn.\", but the rules say that there is a single check for each source of damage.",
+    "rules": [
+      "Spell Lists > 1st Level > Absorb Elements",
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "A saving throw is a single event, it does not continue or repeat."
+  },
+  {
+    "question": "Level 8 Druid Tova needs to make a Wisdom saving throw to not attack anyone. Why?",
+    "answer": "This is in reference to a homebrew ability being used by the DM. There is not a general rule for this. The ruling is that because the character was at half health, there was a check to control the character.",
+    "rules": [],
+    "rules_explanation": "There are no rules that can be explicitly referenced for this specific scenario."
+  },
+  {
+    "question": "The Level 8 Druid cast Curse of Mutual Suffering. Once she takes the damage, is the curse up? Is it just for one hit?",
+    "answer": "Yes, the curse is up, it's just for one hit.  Per the source materials, it triggers only once.",
+    "rules": [],
+    "rules_explanation": "This is in reference to homebrew abilities not listed in the SRD."
+  },
+  {
+    "question": "If a creature is prone, does that mean that negates the difficulty to hit through the ring?",
+    "answer": "Not normally. However, ranged attacks against prone creatures have disadvantage, naturally, and you can't even see him, you have no visual range. He doesn't even know that he's prone.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The rules state that when you attack a target that you can't see, you have disadvantage on the attack roll. The attack does not inherently impose greater penalties for the invisible character, and the penalties are independent of the prone condition of the target."
+  },
+  {
+    "question": "For the pit fiend's first attack, does he has to make a wisdom save because of the Level 1 Bard's Sanctuary?",
+    "answer": "Yes, he needs to make a Wisdom saving throw.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 1st Level > Sanctuary"
+    ],
+    "rules_explanation": "The spell states that the would-be attacker needs to make a saving throw before attacking."
+  },
+  {
+    "question": "The Level 10 Ranger asks With them on the ground, there's no flanking bonus, or anything--",
+    "answer": "That's correct, they are not threatening him currently. They have to be threatening him to be giving that bonus.",
+    "rules": [],
+    "rules_explanation": "There is no default flanking rule in the SRD."
+  },
+  {
+    "question": "Level 13 Rogue has the disengage feat. Is that a bonus action?",
+    "answer": "That's a bonus action, according to the Rogue class's Cunning Action ability.",
+    "rules": [
+      "Classes > Rogue > 2nd Level > Cunning Action"
+    ],
+    "rules_explanation": "At 2nd level, rogues gain the ability to take the Disengage action as a bonus action."
+  },
+  {
+    "question": "Level 13 Rogue asks about the Ring of the Ram at full strength. He rolls a 1. But, can he feel lucky?",
+    "answer": "Unfortunately, it does not work that way for the Ring of the Ram",
+    "rules": [
+      "Combat > Advantage and Disadvantage",
+      "Magic Items > Ring of the Ram"
+    ],
+    "rules_explanation": "The Lucky feat has no direct interaction with the ring. The feat specifies that if a roll is made to check something, then you can use that item to change the roll to a different value. The ring does not allow you to use another roll or reroll an existing die, it simply determines success or failure upon the attempt. A similar ring does exist."
+  },
+  {
+    "question": "If we get there, and Grog's restrained, does that mean that negates the difficulty to hit through the ring?",
+    "answer": "Ranged attacks against prone creatures have disadvantage, naturally and you can't even see him, you have no visual range. You don't even know that he's prone.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The rules state that when you attack a target that you can't see, you have disadvantage on the attack roll."
+  },
+  {
+    "question": "If the player was thinking about doing it. Is there something I should remind them about the Cambion contract?",
+    "answer": "Devils and pacts are always a bad idea. There's no explicit rule about it, but most devils are not trustworthy.",
+    "rules": [],
+    "rules_explanation": "There are no rules that can be explicitly referenced for this specific scenario. However the players are trying to strike a deal with a fiend, which is inadvisable."
+  },
+  {
+    "question": "Level 15 Paladin and the imps are in melee range of the Large Fire Giant. Does that mean that they were close enough to give an attack of opportunity when the Giant pushed them out of the way?",
+    "answer": "Based on the facts described that would be the case. You get an attack of opportunity when a hostile creature leaves your reach, and there was no indication in the text that any effects kept them from it.",
+    "rules": [
+      "Combat > Actions > Opportunity Attacks"
+    ],
+    "rules_explanation": "The rules for Opportunity Attacks state that you can make one when a hostile creature leaves your reach."
+  },
+  {
+    "question": "For the curse that the level 15 Palladian put on Utagash, does that increase my attack?",
+    "answer": "If you are referring to Rite, the Rite does not increase attack rolls. You can use your Great Weapon to reroll your one, here? Then you would have to have a Great Weapon fighting style.",
+    "rules": [],
+    "rules_explanation": "Great Weapon Fighting only applies to damage rolls."
+  },
+  {
+    "question": "the Level 10 Druid needs to make a wisdom saving throw to not attack anyone. Can you say it again, can I say that we're all in there?",
+    "answer": "Sorry, can you repeat, I can not, if your guys all are going to join. You are staying with Doty. Percival.",
+    "rules": [],
+    "rules_explanation": "Not sure if you can ask someone about the party with her"
+  },
+  {
+    "question": "The disengage feat that the rogues have, is that a bonus action?",
+    "answer": "It's a bonus action to disengage, per the rogue's Cunning Action ability.",
+    "rules": [
+      "Classes > Rogue > 2nd Level > Cunning Action"
+    ],
+    "rules_explanation": "The Rogue class gains Cunning Action at level 2, which allows them to take the Disengage action as a bonus action."
+  },
+  {
+    "question": "If they do turn into beasts, do those beasts get our saves and abilities and stats, or do they get our minds in a beast body?",
+    "answer": "The game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores.",
+    "rules": [
+      "Spellcasting > Spells > 4th-Level Transmutation > Polymorph"
+    ],
+    "rules_explanation": "The Polymorph spell specifies that a creature will retain its own Wisdom, Intelligence and Charisma, but other statistics, including what special senses the creature has, are derived from the beast form it takes."
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "question": "What is the effect of adding the paladin's Divine Smite to the weapon's damage?",
+    "answer": "When you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.",
+    "rules": [
+      "Class Features > Paladin > Divine Smite"
+    ],
+    "rules_explanation": "The Divine Smite feature of the paladin class allows a paladin to add radiant damage to a melee weapon attack by expending a spell slot. The amount of radiant damage depends on the level of the spell slot expended and the type of target."
+  },
+  {
+    "question": "How is the proficiency bonus for skills like Acrobatics calculated?",
+    "answer": "At 1st level, you choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.",
+    "rules": [
+      "Class Features > Bard > Expertise"
+    ],
+    "rules_explanation": "Expertise doubles your proficiency bonus for any ability check using the chosen skill proficiencies."
+  },
+  {
+    "question": "If an effect allows you to double your proficiency bonus when making an ability check that wouldn't normally benefit from your proficiency bonus, do you add the bonus to the check?",
+    "answer": "No. For that check your proficiency bonus is 0, given the fact that multiplying 0 by any number is still 0. For instance, if you lack proficiency in the History skill, you gain no benefit from a feature that lets you double your proficiency bonus when you make Intelligence (History) checks.",
+    "rules": [
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "A proficiency bonus can only be added to the check if you have proficiency in the skill. If you do not have proficiency, then you do not have a bonus. Multiplying zero by any number is still zero."
+  },
+  {
+    "question": "A level 3 forever DM asks, as a forever DM, much often like yourself, do you have any NPCs that didn't see the light of day that you really wanted to?",
+    "answer": "The forever DM responds that, if you are partial to something, you'll find a place for it. And if it doesn't find a place, then it usually ends up being a PC in the rare times that I do get to play. And often, many of the PCs that I make for the eventual hope that I'll play them, which never happens, just end up becoming NPCs.",
+    "rules": [],
+    "rules_explanation": "This question does not reference any D&D SRD rules and is instead an inquiry about personal preferences within the game. Therefore, it is not possible to create a JSON object for this question."
+  },
+  {
+    "question": "A person asks what Trinket would think of Mister. Level 12 ranger, what do you think Trinket would think of Mister?",
+    "answer": "Not applicable: This is not a rules question. It is an open-ended question about character interpretation.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question. It is an open-ended question about character interpretation and does not require any rules from the SRD to answer."
+  },
+  {
+    "question": "If you are known to be scared pretty easily, how does one person describe the differences between different GMs in a 5E D&D game?",
+    "answer": "Not applicable: This is not a rules question. It is an open-ended question about personal feelings.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question. It is an open-ended question about personal feelings and does not require any rules from the SRD to answer."
+  },
+  {
+    "question": "Level 15 druid is considering two resurrection options in 5E D&D. In particular, does it matter if you don't get a second round at the level?",
+    "answer": "This does not reference a D&D SRD rule and is instead an inquiry about personal preferences within the game. Therefore, it is not possible to create a JSON object for this question.",
+    "rules": [],
+    "rules_explanation": "This question does not reference any D&D SRD rules and is instead an inquiry about personal preferences within the game. Therefore, it is not possible to create a JSON object for this question."
+  },
+  {
+    "question": "If you are the GM, you have all the information, and the players often have little to none. So even if you think you're laying down enough information, you only think it's enough because you know exactly where it's going and how all the pieces slot in. What do you do if you feel like the players aren't picking up on some of the clues and the pieces?",
+    "answer": "If you feel like the players aren't picking up on some of the clues and the pieces, don't be afraid to be a little bit overt with it until they start really pulling on the thread.",
+    "rules": [],
+    "rules_explanation": "This is a question giving advice based on the experience of playing a D&D game and does not require any rules from the SRD to answer."
+  },
+  {
+    "question": "Level 13 fighter, if you were to have a loaded 20-sided die that always rolled a 20, and then you gave it to Wil Wheaton, what would happen?",
+    "answer": "Not applicable: This is not a rules question. It is a humorous hypothetical with no basis in the SRD rules.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question. It is a humorous hypothetical with no basis in the SRD rules."
+  },
+  {
+    "question": "If you were to have a loaded 20-sided die that always rolled a 20, and then you gave it to another player, what would happen?",
+    "answer": "Not applicable: This is not a rules question. The game rules do not permit loaded dice and the outcome is up to the GM.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question. The game rules do not permit loaded dice and the outcome is up to the GM."
+  },
+  {
+    "question": "Level 20 druid, if you were to have multiple characters that have resonance, which character is your favorite?",
+    "answer": "Not applicable: This is not a rules question. It is an open-ended question about personal preferences.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question. It is an open-ended question about personal preferences and does not require any rules from the SRD to answer."
+  },
+  {
+    "question": "Level 9 cleric, if you were to explore the past, like the Calamity, are there other parts in the history that you would be interested in doing?",
+    "answer": "This is not a rules question. It is an open-ended question about personal preferences and creative worldbuilding.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question. It is an open-ended question about personal preferences and creative worldbuilding and does not require any rules from the SRD to answer."
+  }
+]

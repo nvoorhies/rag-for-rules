@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Can Level 6 Wildfire Druid PC, Fearne Calloway, unconcentrate on Pass Without Trace, if Mr. Business, the familiar monkey, is in a bag of holding?",
+    "answer": "Yes, putting the familiar into the bag allows the PC to unconcentrate from the Pass Without Trace spell.",
+    "rules": [
+      "Items > Bag of Holding",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "A bag of holding is an extradimensional space that items can be placed in, and then retrieved from. Spells require concetration, but the concentration can be broken if a character is incapacitated or killed. Putting the Mr. Business into the bag removes him from the battlefield and stops his actions, allowing Fearne to remove her concetration."
+  },
+  {
+    "question": "If an illusion is cast in an area, and an illusionist is moving stealthily through that area, does the darkness grant additional bonuses to the stealth check?",
+    "answer": "No, the Darkness spell grants no bonuses to Stealth checks.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The Darkness spell creates an area of magical darkness, but does not inherently impose any special bonus to stealth for a creature moving within the area. A stealth check determines how well a creature can avoid detection. An obscured area such as darkness provides only concealment, which can provide an area to attempt a hide action, but not an attack."
+  },
+  {
+    "question": "Can Level 14 Undead Warlock PC, Laudna, reach over and grab Orym, pulling him through darkness?",
+    "answer": "Yes, a creature with darkvision that says it can see through magical darkness can reach over and grab another PC and drag them through the darkness.",
+    "rules": [
+      "Using Ability Scores > The Environment > Vision and Light > Darkvision"
+    ],
+    "rules_explanation": "Darkvision allows a monster to see in dim light as if it were bright light, and in darkness as if it were dim light. You can see through magical darkness if a special trait such as the one granted by the Devil's Sight SRD entry."
+  },
+  {
+    "question": "The Thought Eater is using Telekinesis to throw a rock and the PCs are in darkness, so does she have it fine?",
+    "answer": "Yes, the caster has it fine.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Having advantage or disadvantage does not have any impact on anyone other than the person rolling the dice. If the creature is not rolling a saving throw or skill check, then advantage or disadvantage is irrelevant."
+  },
+  {
+    "question": "Does the Disadvantage for the Telekenesis action from the Thought Eater apply to Mr. Business (Fearne's familiar)?",
+    "answer": "Yes, Mister the Monkey is at disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "According to the ruling any disadvantage is the same, so all the characters are at disadvantage regardless of the source."
+  },
+  {
+    "question": "The Wildfire Druid PC, Fearne, is knocked prone, so can she take to get up if she has 35 movement?",
+    "answer": "Yes, she can move to find the opening.",
+    "rules": [
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "As a PC, Fearne can move since getting up from prone only costs half of a creature's speed. The character can shift over to find the opening."
+  },
+  {
+    "question": "Can you roll a bonus action attack with blood curse of binding and hold an action to make a normal weapon attack?",
+    "answer": "No, Blood Curse of the Binding uses a bonus action, where holding an action uses the action for the round. You cannot use both in the same round.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions",
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "You can use the Ready action on your turn, which lets you act using your reaction before the start of your next turn."
+  },
+  {
+    "question": "Can a level 14 Undead Warlock cast Darkness at the front of the tent and head through the gate with a bonus action dart?",
+    "answer": "No, action to cast the Darkness spell requires your action, and then you have to move to a location where there is no darkness because you can see through magical darkness to see the gate with that movement."
+  },
+  {
+    "question": "Can a level 11 Cleric PC, Fresh Cut Grass (FCG), use the staff of the dark odyssey and aim it in the direction to cast passwall?",
+    "answer": "It depends. To cast the passwall spell, the character must have:  1. Have the Staff of the Dark Odyssey  2. Be able to see the wall.  Therefore, the question depends on whether FCG can see the wall or is it blocked by either the sphere or the tent.",
+    "rules": [
+      "Monsters > Special Traits > Spellcasting",
+      "Spellcasting > A Clear Path to the Target"
+    ],
+    "rules_explanation": "The passwall spell description states, A passage appears at a point of your choice that you can see on a wooden, plaster, or stone surface."
+  },
+  {
+    "question": "Can Orym take hold and attack if he is in darkness?",
+    "answer": "Yes, he can creep to the far corner of the tent with Metal Gear cover so that he can slash the air with Seedling to attack these guys if things go-- if he sees the fight break out.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "Orym is holding the weapon and his action so he can carry out the attack."
+  },
+  {
+    "question": "Can a Level 11 Life Domain Cleric PC, Fresh Cut Grass, reroll with The Changebringer coin because his friend rolled a nat 20?",
+    "answer": "No, FCG cannot use the Changebringer coin to reroll just because his friend rolled a natural 20.",
+    "rules": [
+      "Using Ability Scores > The Three Main Rolls"
+    ],
+    "rules_explanation": "The natural 20 only affects the person who rolled it. FCG can use it and must spend one inspiration to reroll."
+  },
+  {
+    "question": "If the Invisibility spell drops and Imogen is seen by the Thought Eater, is he coming for us?",
+    "answer": "Yes, but it depends on the position. The party knows that they might not be able to empty their brains, so it is possible they know where Imogen is. If there is a direct line of vision between them, there is a chance the big savage guy might get to her before the Mind Eater does.",
+    "rules": [
+      "Using Ability Scores > The Environment > Vision and Light"
+    ],
+    "rules_explanation": "Since we have only a mention of line of sight it would seem it depends on whether the Thought Eater can directly see the PC or not."
+  },
+  {
+    "question": "If a paladin fails a wisdom saving throw from the thought eater, does she have another advantage?",
+    "answer": "No.",
+    "rules": [
+      "Conditions > Frightened"
+    ],
+    "rules_explanation": "The conditions state that any advantages must be stated. There are no conditions which say that the paladin gains advantage on further attacks, or that others get advantage when attacking the paladin."
+  },
+  {
+    "question": "Does being prone while moving towards a wall give advantage for blood curse of the binding?",
+    "answer": "No. It does not give advantage. A Stealth check depends on you trying to obscure or hide your movements, which has an effect on whether others perceive your movement. It depends on their line of sight to you, too.",
+    "rules": [
+      "Combat > Actions in Combat > Hide"
+    ],
+    "rules_explanation": "See Hide for explanation."
+  },
+  {
+    "question": "If PC, Fearne hooves it to the darkness to hit the wall, how far can you get, based on a 25 ft. and 35 ft. speed?",
+    "answer": "Because getting up is half your movement it is 15 to 20 feet to get beyond the door and then it's 35 feet in a straight line. So she did not make it.",
+    "rules": [
+      "Combat > Movement and Position > Difficult Terrain > Being Prone"
+    ],
+    "rules_explanation": "Getting up from the ground means losing half the movement speed that round."
+  },
+  {
+    "question": "If two people have concentration spells and one is darkness, what one would disappear?",
+    "answer": "It does not matter.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "It is entirely up to the creature casting the concentration spell which one to drop. Unless another condition affects the spells, there is nothing that would indicate one is chosen by the rules instead of the other."
+  },
+  {
+    "question": "If Fearne has scorching ray prepped, can that still be used or does it require sight on something?",
+    "answer": "Yes, it is until you have sight on something.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range"
+    ],
+    "rules_explanation": "When the range of a spell is specified, the rules for range must be observed. Since scorching ray's range is not self, it would require sight of another target."
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "question": "A level 4 character of cleric was about to cast Healing Word. Can the cleric use their action to cast Bane and then use a reaction to cast Healing Word on Yasha really quickly?",
+    "answer": "No, the action to cast Bane prevents using the bonus action to cast Healing Word in the same round. Only a cantrip can be cast as a bonus action in the same turn as an action.",
+    "rules": [
+      "Spellcasting > Bonus Action",
+      "Spellcasting > Casting a Spell"
+    ],
+    "rules_explanation": "A spell cast as an action restricts the bonus action to being another cantrip. Healing Word is not a cantrip and cannot be cast in the same round."
+  },
+  {
+    "question": "Can my level 5 ranger take the extra damage from Hunters Mark, have two attacks with Extra Attack, and add Fury of the Small from my race?",
+    "answer": "All of those abilities can be used on a single turn. The bonus action to activate Hunters Mark happens at the beginning of the turn and lasts for the duration of the spell. Extra attack is an attack action, which would only be applicable after the bonus action to activate Hunters Mark. It can be applied once per turn to a weapon attack roll, so it can be used along with Fury of the Small if the conditions are met.",
+    "rules": [
+      "Ranger > Class Features > Hunters Mark",
+      "Fighter > Class Features > Extra Attack"
+    ],
+    "rules_explanation": "Fury of the Small can be used once on a single attack, so each of the attacks granted by Extra Attack can benefit from it in turn."
+  },
+  {
+    "question": "If the paralysis status and poison status are both hand in hand, but the paralysis is removed, does it still take damage every round?",
+    "answer": "No, the player is no longer poisoned. The poison is a consequence of the paralysis and, thus, when that condition is removed the character also no longer is affected by being poisoned and is therefore not affected by the periodic poison damage.",
+    "rules": [],
+    "rules_explanation": "This is a GM ruling and not explicitly covered in the SRD"
+  },
+  {
+    "question": "If a level 4 sorcerer casts Daylight into the cave, making it like a cloudless day, can the goblin use their bonus action to attempt to hide with Stealth?",
+    "answer": "Yes, if the goblin meets the requirements for Hiding.  The Daylight spell does not eliminate dim light or darkness to hide in, therefore the Stealth check would only have disadvantage for being in bright light.",
+    "rules": [
+      "Using Ability Scores > Dexterity > Hiding"
+    ],
+    "rules_explanation": "The Daylight spell does not specify that it eliminates dim light or darkness to hide in.  If the goblin has the Naturally Stealthy trait it could still attempt to hide."
+  },
+  {
+    "question": "A party encounters the War Tortoise which is 60 feet from end to end. How big is a section of the creature's shell?",
+    "answer": "An estimation of the size of one of the legs may be implied in the gameplay transcript when the character says, \"mud and dirt tumbling from the sides revealing four hut-sized, thick trunks of legs from underneath.\".  Based on this hut sized description, the character estimates each leg to be the size of an average hut.",
+    "rules": [],
+    "rules_explanation": "There are no SRD Rules that provide the size of such a construction; this answer can only be inferred from the descriptions of the players."
+  },
+  {
+    "question": "The characters used Disguise Self that lasts roughly one hour in the game, and have been traveling to a location. How much longer before the spell ends, and the characters change back?",
+    "answer": "That determination depends on how much time has passed, and is controlled by the DM; a range of time is provided by another character.",
+    "rules": [],
+    "rules_explanation": "The exact time is not explicitly stated by the Dungeon Master; it is provided by the player, Caleb, using the \"Keen Mind\" feature to determine the amount of time remaining for other players in the game."
+  },
+  {
+    "question": "A 1st level cleric cast Bless on Fjord, Nott and Beau. Then used a cantrip and is asked by the DM to roll intiative, is each blessed character able to add a d4 to their roll?",
+    "answer": "No, the cleric's Bless spell allows a target to add 1d4 to attack rolls and saving throws. Initiative is a Dexterity ability check, not a saving throw.",
+    "rules": [
+      "Cleric > Spellcasting > Bless",
+      "Using Ability Scores > Initiative"
+    ],
+    "rules_explanation": "Bless only applies to attack rolls and saving throws, and initiative is neither. Because the initiative roll is not a saving throw the d4 from bless cannot be used."
+  }
+]

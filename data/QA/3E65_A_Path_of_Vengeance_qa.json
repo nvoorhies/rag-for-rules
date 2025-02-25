@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What is the focus of the wooden rod?",
+    "answer": "The wooden rod is a focused tether to the Feywild. It's used as a key for Plane Shift to a specific place in the Feywild.",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "From the description of the game a wooden rod was inspected using identify to see what it's used for."
+  },
+  {
+    "question": " The Female half-elf, level 9, sorcerer casts a 3rd level blight spell at what saving throw DC?",
+    "answer": "The saving throw DC is 18.",
+    "rules": [
+      "Classes > Sorcerer > Class Features > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The female half-elf, level 9, sorcerer's spell save DC is calculated as 8 + proficiency bonus (+4 at level 9) + Charisma modifier (+4) = 16."
+  },
+  {
+    "question": "What is Fearne's, a level 9, wildfire druid, speed?",
+    "answer": "Fearne's speed is 35.",
+    "rules": [
+      "Races > Elf > Subraces > High Elf",
+      "Classes > Druid > Level 1-20 > Fast Movement"
+    ],
+    "rules_explanation": "As a high elf, Fearne has a base speed of 30 feet. No rules reference documents the 'Letters' reference to an increased value"
+  },
+  {
+    "question": "The DM calls for a wisdom saving throw from the Fighter, a level 9, dwarf to avoid being forced into a sprint by a magical influence. What modifier is added to the roll to adjust?",
+    "answer": "No modifier is added to the saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Saving throws depend on ability scores, not the class of the character in question.  As the default fighter class does not grant proficiency in wisdom saving throws, no modifier is added."
+  },
+  {
+    "question": "The DM calls for an insight check for the Gnome, a level 9, wildfire druid, what adjustment is added to the d20?",
+    "answer": "A +6 modifier is added to the d20.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The Gnome, a level 9, druid's skill is calculated as the Wisdom modifier (+2) + the proficiency bonus (+4 at level 9) = +6."
+  },
+  {
+    "question": "What is the level 9, fighter's, zephyr saving throw adjustment for Daramon's charm person spell?",
+    "answer": "The fighter makes the saving throw with no proficiency modifier or other adjustments but may have advantage, as they are in combat with the spellcaster",
+    "rules": [
+      "Using Ability Scores > Saving Throws",
+      "Conditions > Charmed"
+    ],
+    "rules_explanation": "he fighter is not charmed, frightened, or similarly effected in a way that would alter the parameters of the check, and the character's class also doesn't grant an advantage."
+  },
+  {
+    "question": "The short man casts Blight at a level 17, barbarian with resistance to fire damage, what does this do?",
+    "answer": "Because the blighted form offers no radiant damage, the short man is unaffected.",
+    "rules": [
+      "Using Ability Scores > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "It is specified that he only had resistance against cold damage and that he made the saving throw, so the Blighted form would have been ineffective."
+  },
+  {
+    "question": "A level 9 druid is going to cast stoneskin, what are the components?",
+    "answer": "The components are verbal, somatic, and a material component of diamond dust worth 100 gp",
+    "rules": [
+      "Spellcasting > Components"
+    ],
+    "rules_explanation": "Reviewing the spell lists the components"
+  },
+  {
+    "question": "The Level 9 wizard casts Prestidigitation, can they soil their clothes?",
+    "answer": "Yes, the wizard can soil their clothes.",
+    "rules": [
+      "Spellcasting > What Is a Spell?",
+      "Spell Lists > Wizard Spells"
+    ],
+    "rules_explanation": "Looking at the spell description, this would be a valid use of the spell."
+  },
+  {
+    "question": "A Level 9 fighter casts invisibility on themself, is this possible?",
+    "answer": "No, the level 9 fighter cannot cast invisibility because it is not on their spell list.",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The wizard, cleric, and ranger have access to invisibility spells at level 9, but there is no spell casting ability for the level 9 fighter."
+  },
+  {
+    "question": "The dragon is fighting the party and a sorcerer casts a 3rd level blight spell against it, can the dragon be hurt by it, and does it get disadvantage?",
+    "answer": "The dragon can be hurt by the blight but does not have disadvantage on the save.",
+    "rules": [
+      "Monsters > Vulnerabilities, Resistances, and Immunities",
+      "Spell Descriptions > Blight"
+    ],
+    "rules_explanation": "Creatures with vulnerability have that noted in their damage vulnerabilities section of the stat block. The color dragon is immune to their damage type"
+  },
+  {
+    "question": "Does the metal cable net impose damage?",
+    "answer": "No, the metal cable does not do any damage. Only sears the skin on contact to restrain the subject.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The description says, 'The minute it clusters around you, you can feel your skin (hissing) burn slightly on contact.'"
+  },
+  {
+    "question": "Mister is within 5 feet of Chetney who is 35 feet away from Fearne. Can Fearne use Fiery Teleportation to teleport Chetney?.",
+    "answer": "Yes, Fearne can use Mister to Fiery Teleport Chetney.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The description says, “The spirit in each willing creature of your choice within five feet of it teleport up to 15 feet to an unoccupied space you can see.”"
+  },
+  {
+    "question": "A fighter has the charmed condition imposed on them by an enemy. Is he now considered to be an enemy to the rest of the party?",
+    "answer": "No, a charmed creature doesn't see their friends as enemies",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The charming effect doesn't mean they now see their former allies as enemies, just that they are not compelled to hurt the source of the charming affect, and the source of the charming affect now has advantage to ability checks used for social interaction"
+  },
+  {
+    "question": "A 3rd level Barbarian takes the attack option to hit an opponent, can they use a Blood Curse?",
+    "answer": "It depends on what the parameters of the blood curse is.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Blood Curses require certain kinds of actions before/after which they can be applied, some of which can be applied as bonus actions."
+  },
+  {
+    "question": "What is the level at which Brutal Critical increases to two additional dice at 13th level?",
+    "answer": "Yes",
+    "rules": [
+      "Classes > Barbarian > Level 1-20"
+    ],
+    "rules_explanation": "The barbarians level unlocks increases for the Brutal Critical ability at the specified levels in the character advancement table for the class."
+  },
+  {
+    "question": "A 5th level Druid casts Healing Word, how many d4 are rolled?",
+    "answer": "Two d4 are rolled.",
+    "rules": [
+      "Classes > Druid > Spellcasting"
+    ],
+    "rules_explanation": "Healing word is a 1st level spell, but at higher levels states: 'When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.'"
+  },
+  {
+    "question": "A 17th level Druid casts Scorching Ray, how many rays can they shoot?",
+    "answer": "The druid cannot cast Scorching Ray.",
+    "rules": [
+      "Spellcasting > Spells Known and Prepared",
+      "Spell Lists > Druid Spells",
+      "Spell Lists > Sorcerer Spells"
+    ],
+    "rules_explanation": "Sorcerers have access to this spell and are granted additional rays as they level."
+  },
+  {
+    "question": "If the character, a fighter, has no weapons out and 30 feet of movement, can they draw a weapon and then dash with the 30 feet of movement to get further away?",
+    "answer": "No, the fighter would need to use their action to draw their weapon.",
+    "rules": [
+      "Combat > Your Turn > Other Activity on Your Turn",
+      "Combat > Actions > Dash"
+    ],
+    "rules_explanation": "drawing a weapon counts as an action, so in order to attack, the character would have to forfeit the option to Dash."
+  },
+  {
+    "question": "What is the result if the spell Darkness and daylight cross paths, and are the same level spell?",
+    "answer": "If Darkness and daylight cross paths at the same level of spell, the darkness is dispelled.",
+    "rules": [
+      "Spell Descriptions > Darkness",
+      "Spell Descriptions > Daylight"
+    ],
+    "rules_explanation": "The Daylight description includes the condition that 'If any of this spell's area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.'"
+  },
+  {
+    "question": "A player is making a shopping trip in Jrusar. Is there anything they can use to discount any of the cost?",
+    "answer": "The players have contacts in the Hubatt Corsairs, which allows them to get better prices.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a plot point based on the game, not the rules."
+  },
+  {
+    "question": "What is the impact if the level 9 druid moves into plastic cans?",
+    "answer": "Not one thing.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The provided text doesn't provide any information to answer this question. This was a throwaway joke in the provided text."
+  },
+  {
+    "question": "A level 9 fighter is restrained by a net with his action. He is next in initiative, after the enemy that has him restrained. Can he use his action to attack a creature?",
+    "answer": "The fighter cannot attack. A restrained creature’s attack rolls have disadvantage",
+    "rules": [
+      "Combat > Actions > Attack",
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "While the fighter can take the Attack action, the restrained condition imparts disadvantage. So the attack could not have advantage."
+  },
+  {
+    "question": "A level 9 paladin is hit by a spell cast by a dwarven figure, what happens?",
+    "answer": "The paladin must make a saving throw against the spell.",
+    "rules": [
+      "Spellcasting > Targets",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The spell would cause the target to make a saving throw if hit by the spell."
+  },
+  {
+    "question": "What's the ruling if the players all go on a 10-day trip?",
+    "answer": "You can determine how each player's absence affects the group. You can also create a scenario which all players are present but having equal effect.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is not a rules question, and is just for the DM to determine."
+  }
+]

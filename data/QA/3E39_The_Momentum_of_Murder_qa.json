@@ -1,0 +1,170 @@
+[
+  {
+    "question": "After Ashley's character attempts to reach for some dolls in Laudna's dream world, Matt states that they are not there. What does this indicate about items that are located in the dream world?",
+    "answer": "Items in the dream world do not necessarily exist in the real world.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a world-specific determination made by the game master."
+  },
+  {
+    "question": "A **level 1 healer cleric** casts *identify* and makes a Wisdom (medicine) check with a roll of 20, for a total of 26. What type of information does the *identify* spell reveal in this situation?",
+    "answer": "The *identify* spell reveals if the target is a magic item and any spells affecting the item and what they are. Since the character rolled high on the nature/medicine check, the player is also recalling all these toxins, venoms, poisons, liquids, alchemical concoctions that all have acidic properties, degenerative properties, necrotic properties.",
+    "rules": [
+      "Spellcasting > Spell Description > identify"
+    ],
+    "rules_explanation": "Per the Identify spell description in the spell casting section, the spell states what it can reveal. The additional information is a world specific determination made by the game master."
+  },
+  {
+    "question": "A character has the ability to apply Mending to an object to repair it. How does this apply to tampering with mail?",
+    "answer": "There is no rule specifically covering the use of mending for mail fraud. The application of the mending spell in this situation is a judgment made by the game master.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "Whether a spell can be used in a novel way is up to the GM's discretion."
+  },
+  {
+    "question": "During travel, player characters are using a gondola to cross the city. How much does it cost?",
+    "answer": "A ride on the gondola is a two-trip gondola ride and costs one silver each for a total of 14 silver.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is world specific cost of the gondola"
+  },
+  {
+    "question": "A **fighter with 18 Wisdom** wants to make an insight check, what value do they add to their d20 roll?",
+    "answer": "The fighter adds +4 to their d20 roll.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "This lookups the Wisdom modifier in the ability score modifier table in the Using Ability Scores section."
+  },
+  {
+    "question": "The party is splitting up diamonds to equal 300 gold. How does it take to do so in town?",
+    "answer": "Because it is not a singular diamond, it's having to piecemeal smaller diamonds together to make this will take until sunset.  ",
+    "rules": [
+      "Equipment"
+    ],
+    "rules_explanation": "The text indicates \"This isn't like the Diamond Store.\""
+  },
+  {
+    "question": "If a character helps Chet with the sail repairs, what die does he roll and what adjustments apply?",
+    "answer": "The check is a d20 check + proficiency modifier + dexterity modifier",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The player is requested to roll a check that has a skill associated with it and must roll that."
+  },
+  {
+    "question": "A wilder turns an unearned badge when he is given a badge, is that a real badge?",
+    "answer": "It's gift badges.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is world specific detail. The badge does not confer authority"
+  },
+  {
+    "question": "A character makes the tiniest sparks of an *Eldritch Blast*, what is this called?",
+    "answer": "An Eldritch poof.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a description"
+  },
+  {
+    "question": "A level 5 Warlock's player is attuning to Torment weapon, what is the nature of the weapon?",
+    "answer": "Torment acts as a standard magical club when wielded as a cane. But when the wielder gives the command word, which is, \"Done,\" and wills it, the cane extends and the head transforms into a massive silver scythe blade.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "DM describes the nature of the weapon"
+  },
+  {
+    "question": "A **level 1 healer cleric** casts *Identify*, does the blood count as an object?",
+    "answer": "Yes.",
+    "rules": [
+      "Spellcasting > Spell Description > identify"
+    ],
+    "rules_explanation": "The spell description says that the spell can be used on an object, or a creature"
+  },
+  {
+    "question": "A **level 12, class fighter** challenges a Grave Mystic Weva Vudol to a fight, are they evenly matched?",
+    "answer": "No.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "The GM has already said Grave Mystic Weva Vudol is definitely higher than yours, and her HP and levels were off the charts"
+  },
+  {
+    "question": "Player Characters enter the Soot and Swill tavern and take two rooms. How much does that cost?",
+    "answer": "The cost for two rooms at the Soot and Swill is one gold.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "According to the GM, \"I can do two rooms, okay. That will put you at, let me see here, one gold for both rooms.\""
+  },
+  {
+    "question": "A **wizard level 1 or higher** is making cookies, what checks do they need to make?",
+    "answer": "Just roll a d20 and add your intelligence modifier",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "GM requests player make an ability check with an associate skill"
+  },
+  {
+    "question": "A character makes a roll during a long rest, is this normal?",
+    "answer": "During a long rest a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "The description of the rules of a long rest say a character may perform light activity."
+  },
+  {
+    "question": "During a strength check to hold onto ship rails during a storm some characters roll under 8. What happens?",
+    "answer": "You lose your grip and just vault into the air, about to be flung from the ship before the rope cracks at your back, you're now just hanging off the side, whack, whack, whack, under the side of the ship.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "Per GM adjudication"
+  },
+  {
+    "question": "During a combat encounter, a character is yo-yoed into the side of a ship. Does Feather Fall negate the tension on the rope?",
+    "answer": "Feather Fall is making sure that the tension isn't being held against the rope",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "GM adjudication"
+  },
+  {
+    "question": "What does it mean that someone was 1 less down?",
+    "answer": "Slouching towards normality. Slowly but surely.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a DM adjudication"
+  },
+  {
+    "question": "Is there anything in the SRD that corresponds to someone on the ship doing 200 squats in the morning as part of an exercise routine?",
+    "answer": "No.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "There is nothing about exercise in the SRD"
+  },
+  {
+    "question": "If you're going down, you're going down as what?",
+    "answer": "A legend.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a joke."
+  },
+  {
+    "question": "The party is leaving from Jrusar, heading out of the Oderan Wilds and through the Hellcatch Valley, what kind of journey is it?",
+    "answer": "This is an 1,100 mile journey.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "According to the DM, \"This is an 1,100 mile journey\""
+  }
+]

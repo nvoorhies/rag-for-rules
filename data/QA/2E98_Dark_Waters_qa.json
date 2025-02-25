@@ -1,0 +1,97 @@
+[
+  {
+    "question": "The Level 4, race unknown monk asks 'Do you believe him when you let him go?'",
+    "answer": "This question cannot be answered from the SRD.",
+    "rules": [],
+    "rules_explanation": "This is an in game judgement call that requires DM input or further information and has no rule equivalent. It also does not qualify as a rules question."
+  },
+  {
+    "question": "A Level 4, race unknown wizard casting Detect Magic on a locked box asks, \"Is it Abjuration?\"",
+    "answer": "Detect Magic does not reveal what specific spells or kind of magic is present in an area, only that there is magic, and the school of magic associated with it.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "The SRD entry for the Detect Magic spell describes the information conveyed when casting this spell."
+  },
+  {
+    "question": "The Dungeon Master describes a Gust of Wind spell, and a player asks \"Gust of Wind?\"",
+    "answer": "The Level 4 DM states that it isn't Gust of Wind, and that \"Gust of Wind is, I believe, a second level spell.\"",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Gust of Wind"
+    ],
+    "rules_explanation": "The exchange identifies the level of the Gust of Wind Spell, as well as confirming that is not what is being described."
+  },
+  {
+    "question": "After one player states that the fan causes a Gust of Wind spell, the DM replies \"A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell's duration' for one minute. So right now it's like.\" and a player asks, 'Oh, it's just going?'",
+    "answer": "The area of effect of the Gust of Wind spell is a line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell's duration, which is 1 minute. This effect lasts for the duration of the spell. ",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Gust of Wind"
+    ],
+    "rules_explanation": "The description of Gust of Wind defines the shape and duration of the effect."
+  },
+  {
+    "question": "After the Dungeon Master describes a continuing Gust of Wind effect, a level 4, race unknown monk asks, \"Oh, I can?\"",
+    "answer": "With a Gust of Wind effect, as a bonus action you can change the direction in which the line blasts from you.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Gust of Wind"
+    ],
+    "rules_explanation": "The description of Gust of Wind details the actions a spell caster can use with the spell."
+  },
+  {
+    "question": "About a magic item, it was said that the halfling has advantage. The DM says, \"No. Technically I can reroll that but I'm not going to.\" Then the player states, \"It's the rule is I can.\"",
+    "answer": "When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The Lucky trait and Advantage are covered in the SRD, however the SRD does not list all racial traits so the Lucky Trait can not be confirmed from the information present."
+  },
+  {
+    "question": "After making an investigation check the players are discussing Reliable Talent and a roll of 1. It is stated, \"But it becomes a ten, because of Reliable Talent.\"",
+    "answer": "The Reliable Talent class feature allows a rogue to treat any d20 roll of 9 or lower as a 10.",
+    "rules": [
+      "Rogue > Class Features > Reliable Talent"
+    ],
+    "rules_explanation": "The Rogue Reliable Talent class feature allows a rogue to treat any d20 roll of 9 or lower as a 10."
+  },
+  {
+    "question": "After explaining Reliable Talent, it is asked, \"do I also add the plus four, or the d4?\"",
+    "answer": "Yes, when a player uses a rogue's Reliable Talent, one should also add any modifiers such as from skills or other features.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The skill check total is the dice roll added to any modifiers."
+  },
+  {
+    "question": "In relation to a spell scoll. it is asked, Who can use that, only Veth and I? Or could the clerics use it?",
+    "answer": "A spell scroll can only be used by someone who has the spell on their class list.",
+    "rules": [
+      "Equipment > Spell Scroll"
+    ],
+    "rules_explanation": "The SRD entry for spell scroll specifies what class lists the spell must be on."
+  },
+  {
+    "question": "Can all classes use a spell from a spell scroll?",
+    "answer": "No, not everybody can use a spell from a spell scroll. Only if the spell is on your class's spell list.",
+    "rules": [
+      "Equipment > Spell Scroll"
+    ],
+    "rules_explanation": "The SRD entry for spell scroll specifies what class lists the spell must be on."
+  },
+  {
+    "question": "About to give one of the other players a fire sphere, but they said that they don't need it and another player asks ,\"Who can use that, only Veth and I? Or could the clerics use it?\"",
+    "answer": "A spell scroll can only be used by someone who has the spell on their class list, although there are cases when you can choose spells from other classes.",
+    "rules": [
+      "Equipment > Spell Scroll",
+      "Multiclassing > Class Features > Spellcasting"
+    ],
+    "rules_explanation": "The SRD entry for spell scroll specifies what class lists the spell must be on. When the players reach certain levels, some spellcasting classes have the feature of being able to choose spells from other class lists which would allow access to these spells."
+  },
+  {
+    "question": "When considering who can use a spell scroll, a cleric with the ability to multiclass was mentioned. Can the clerics use it?",
+    "answer": "There are some points where a cleric can choose spells from other classes at certain levels, to determine if this applies to the spell, you can verify if the ability is in your list.",
+    "rules": [
+      "Multiclassing > Class Features > Spellcasting"
+    ],
+    "rules_explanation": "The cleric must have the spell on their normal spell list, or be able to choose the spell from another spell list when you level."
+  }
+]

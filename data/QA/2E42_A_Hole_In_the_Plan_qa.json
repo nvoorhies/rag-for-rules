@@ -1,0 +1,247 @@
+[
+  {
+    "question": "When the level 17 fighter/rogue makes an unarmed strike, what modifier is used for damage?",
+    "answer": "The player's choice of their Strength or Dexterity modifier is used for the attack and damage rolls of their unarmed strike.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks"
+    ],
+    "rules_explanation": "The rule for Melee attacks states that you can use an unarmed strike and add your STR modifier. The Finesse property allows the use of DEX instead. The NPC's level is not relevant in this instance.  The PC can use any melee weapon they are proficient in."
+  },
+  {
+    "question": "The Level 4 rogue is making an attack. What does a roll of 15 hit",
+    "answer": "A roll of 15 hits",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The attack roll hits because the roll of 15 plus the relevant modifiers equals or exceeds the target's AC"
+  },
+  {
+    "question": "The Level 4 rogue casts Cure Wounds as a 1st level spell - how many hit points are restored.",
+    "answer": "Cure Wounds restores 1d8 + the character's spellcasting ability modifier hit points.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Cure Wounds"
+    ],
+    "rules_explanation": "The description of the spell Cure Wounds indicates that a 1st-level casting restores 1d8 + the character's spellcasting ability modifier in hit points."
+  },
+  {
+    "question": "The Level 4 rogue must make an athletics check. What adjustment to the dice roll should be made to the d20?",
+    "answer": "The Level 4 rogue's Strength modifier is added to the athletics check and the character's proficiency bonus (+2) if the rogue is proficient in Athletics",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Beyond 1st Level > Proficiency Bonus"
+    ],
+    "rules_explanation": "The rule for ability checks indicates that the relevant ability modifier should be added to the d20 roll. The rules for skills indicates that the character's proficiency bonus should be added if they are proficient in the relevant skill."
+  },
+  {
+    "question": "What damage dice are rolled for the natural horn attack of the race human, class cleric/paladin, level 4",
+    "answer": "There are no damage dice rolled because that character does not possess a natural horn attack in that form.",
+    "rules": [
+      "Classes > Paladin",
+      "Races > Human"
+    ],
+    "rules_explanation": "Humans do not have a natural horn attack, so no damage dice are rolled for that nonexistent attack."
+  },
+  {
+    "question": "The race tiefling, class cleric/paladin, level 4 makes a saving throw with a 24? What happens?",
+    "answer": "If the total of the saving throw roll plus modifiers equals or exceeds the Difficulty Class, the saving throw is a success. Otherwise, it's a failure.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Compare the total of the saving throw roll and relevant modifiers to the DC to determine success or failure"
+  },
+  {
+    "question": "If a the race tiefling, class cleric/paladin, level 4, Charisma score of 21 makes a persuasion check, what is the value of their Charisma bonus?",
+    "answer": "A charisma score of 21 implies a +5 modifier bonus.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "Check the Ability Scores and Modifier table in the SRD."
+  },
+  {
+    "question": "Can the race tiefling, class cleric/paladin, level 4 with Athletics skill cast a 1st-level spell?",
+    "answer": "Yes, Tieflings with the appropriate class levels may be able to cast spells.",
+    "rules": [
+      "Classes > Paladin",
+      "Races > Tiefling"
+    ],
+    "rules_explanation": "The Race has nothing to do with the ability to cast. The Tiefling race has the Infernal Legacy trait which allows them to cast spells. If the character is level 2 or higher as a paladin they can cast spells."
+  },
+  {
+    "question": "Can a character take a bonus action after being hit and falling prone?",
+    "answer": "If able to take actions or bonus actions, the prone character can crawl",
+    "rules": [
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "a prone character's only movement option is to crawl, they would first have to stand up (using half their movement) to be able to take any actions or bonus actions that require them to not be prone. However, they may be able to take actions and bonus actions that can be taken while prone."
+  },
+  {
+    "question": "Can the race dragonborn, class ranger, level 4 use action with the following effects: healing 6 temporary hit points",
+    "answer": "No, this action is not possible according to the source material",
+    "rules": [
+      "Classes > Ranger",
+      "Races > Dragonborn"
+    ],
+    "rules_explanation": "Given the rules for the Ranger class and the Dragonborn race in the SRD, there is no action that allows for 6 temporary hit points."
+  },
+  {
+    "question": "Can a race unknown, class barbarian, level 1 be mean",
+    "answer": "There are no restrictions on being mean, although in some alignments it might be out of character.",
+    "rules": [
+      "Alignment"
+    ],
+    "rules_explanation": "A character's alignment describes their typical behaviour, but this is not a restriction on their actions. Any alignment can be mean."
+  },
+  {
+    "question": "The race unknown, class barbarian, level 1 using a maul, how is damage determined?",
+    "answer": "Determine the Barbarian level 1 Strength modifier and add to the dice roll of 2d6 for the Maul's damage.",
+    "rules": [
+      "Classes > Barbarian > Proficiencies",
+      "Equipment > Weapons",
+      "Combat > Damage and Healing > Damage Rolls"
+    ],
+    "rules_explanation": "The maul is a martial weapon. Assuming proficiency, the Barbarian adds their Strength modifier (used for melee damage rolls) to the weapon's base damage of 2d6."
+  },
+  {
+    "question": "A race unknown, class barbarian, level 1 has an AC of 10, add dexterity +0; the opponent has a roll of 14 and hits. What damage is rolled?",
+    "answer": "There is no AC listed, so the Armor Class is 10 + their Dexterity modifier +0. The maul does 2d6 damage, plus strength. If raging, you add the rage damage.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Equipment > Weapons",
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "A Barbarian has Unarmored Defense that uses DEX and CON, as long as they are not wearing armor. A maul is a martial weapon that deals 2d6 damage, the Rage class feature adds extra damage."
+  },
+  {
+    "question": "a small-sized character with a 15 Strength score attempts to make an unarmed strike against a medium sized character; would they have disadvantage on the attack roll?",
+    "answer": "No, the small character would not have disadvantage on the attack roll.",
+    "rules": [
+      "Races > Size",
+      "Equipment > Weapons > Weapon Properties"
+    ],
+    "rules_explanation": "Only heavy weapons give small creatures disadvantage. Unarmed strikes are not weapons, so they are not subject to that rule."
+  },
+  {
+    "question": "Can the race unknown, class barbarian, level 1 with 17 Charisma cast a spell",
+    "answer": "No, Barbarians cannot cast spells",
+    "rules": [
+      "Classes > Barbarian > Proficiencies"
+    ],
+    "rules_explanation": "Barbarians do not get proficiency in spellcasting and cannot cast spells."
+  },
+  {
+    "question": "The level 4 race unknown, class cleric is wearing half-plate and a shield. What armor class does this character have?",
+    "answer": "The character has an Armor Class of 17",
+    "rules": [
+      "Equipment > Armor",
+      "Equipment > Armor > Medium Armor"
+    ],
+    "rules_explanation": "Half plate armor provides a base AC of 15 plus DEX modifier to a maximum of 2. The shield provides an additional +2. 15 + 2 + 2 = 19. We use +2 because at most Dexterity modifier can be used."
+  },
+  {
+    "question": "A race unknown, class sorcerer, level 1 needs to resist a fear-based spell that allows a Charisma save. With a modifier of +3, what is the result required on the dice?",
+    "answer": "To succeed, the character must roll a number on the d20 such that the result of the roll plus their Charisma modifier is equal to or exceeds the saving throw DC.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "To succeed on the saving throw, the total of the dice roll plus the characters relevant ability modifier needs to be greater than or equal to the Difficulty Class (DC). Since the question does not give the DC, we cannot determine the specific dice roll required."
+  },
+  {
+    "question": "A race unknown, class sorcerer, level 1, with proficiency bonus +2, is proficient with daggers. If the sorcerer has Dex 10 and wants to make dagger attacks as a ranged attack with a range of 20/60 ft to one target, what would the attack be?",
+    "answer": "The attack roll would be 20/60ft, 2+2 to hit. and a hit would deal 1d4 piercing damage.",
+    "rules": [
+      "Equipment > Weapons",
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "The question specified that Dex is +0. Having proficiency bonus of 2 with the daggers, we add Dex and Proficency (2) for a total of +2 to hit. As the dagger has thrown property, then that is the modifier for the attack roll. Dagger damage is 1d4 piercing, plus any additional damage such as sneak attack which is not specified in this turn."
+  },
+  {
+    "question": "If race half-elf, class rogue, level 1 with 13 Constitution consumes a Potion of Healing and rolls to regain health, how much health would be regained?",
+    "answer": "A character that drinks a potion of healing regains 2d4 + 2 hit points.",
+    "rules": [
+      "Equipment > Adventuring Gear > Potion of Healing"
+    ],
+    "rules_explanation": "The Potion of Healing description indicates that a character that drinks it regains 2d4 + 2 hit points."
+  },
+  {
+    "question": "A race unknown, class ranger, level 4 casts longstrider on Jester. What is Jester's new speed?",
+    "answer": "Jester's speed is increased by 10 feet.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Longstrider"
+    ],
+    "rules_explanation": "The Longstrider spell increases the target creature's speed by 10 feet."
+  },
+  {
+    "question": "The level one race dwarf, class cleric makes a melee attack with a battle axe; what modifier should be used to determine if it hits?",
+    "answer": "You should add your Strength modifier and proficiency bonus to the die roll.",
+    "rules": [
+      "Equipment > Weapons",
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "A Battleaxe is a martial melee weapon. Assuming proficiency with the weapon, add your proficiency bonus to the Strength modifier for the attack roll."
+  },
+  {
+    "question": "The race unknown, class cleric, level 19 is in a space with darkness created by a 2nd level spell. What are the lighting conditions in that area?",
+    "answer": "The area is Heavily Obscured",
+    "rules": [
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "Magical darkness creates a heavily obscured area. A level 19 cleric does not automatically dispel any darkness created by a second level spell; they can only see normally within that space if they had Devil's Sight"
+  },
+  {
+    "question": "If an invisible creature attempts to attack a target with a bonus action, what happens?",
+    "answer": "The invisible creature makes the attack with advantage, but reveals its location when the attack hits or misses",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The Unseen Attackers and Targets rule says that when a creature can't see you, you have advantage on attack rolls against it and when you make an attack when both unseen and unheard, you give away your location when the attack hits or misses."
+  },
+  {
+    "question": "Does a level 4 character who takes the feat Grappler get advantage on all rolls against grappled creatures?",
+    "answer": "The character only has advantage on attack rolls against a creature they are grappling.",
+    "rules": [
+      "Feats > Grappler"
+    ],
+    "rules_explanation": "The Grappler feat states \"You have advantage on attack rolls against a creature you are grappling.\""
+  },
+  {
+    "question": "Can race unknown, class sorcerer, level 15 change himself to a vera?",
+    "answer": "Disguise Self is not high enough level to let one change to another race.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "A 1st level spell, Disguise Self, allows you to change your apperance but \"You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs.\""
+  },
+  {
+    "question": "Does the Paladin's Aura of Protection effect saving throws from traps?",
+    "answer": "Yes, the paladin's Aura of Protection affects saving throws from traps",
+    "rules": [
+      "Classes > Paladin > Aura of Protection"
+    ],
+    "rules_explanation": "The Aura of Protection feature grants a bonus to any saving throw made by the paladin or friendly creatures within range of the aura"
+  },
+  {
+    "question": "Does having advantage on stealth checks prevent a creature from being seen?",
+    "answer": "No, it makes it easier to avoid detection.",
+    "rules": [
+      "Using Ability Scores > Hiding"
+    ],
+    "rules_explanation": "Advantage just affects the die roll but does not guarantee that the creature will not be seen. It makes it more difficult for the opponent to spot the creature."
+  },
+  {
+    "question": "A character that is restrained is able to move?",
+    "answer": "No, the speed of a restrained character is zero",
+    "rules": [
+      "Appendix MM-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "A restrained creature's speed becomes zero, and it can't benefit from any bonus to its speed."
+  },
+  {
+    "question": "Can a Wizard swap one book out with another during a long rest?",
+    "answer": "No. You can only replace spells that are of a level for which you have spell slots.",
+    "rules": [
+      "Classes > Wizard > Spellcasting > Spells Known of 1st Level and Higher"
+    ],
+    "rules_explanation": "You are not swapping the book, but rather one of the spells you know, and the description says that it must be one for which you have spell slots, ie Level 1 or higher."
+  }
+]

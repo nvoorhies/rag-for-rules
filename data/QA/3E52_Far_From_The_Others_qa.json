@@ -1,0 +1,57 @@
+[
+  {
+    "question": "The level 6 Circle of the Land druid wildshapes into a flying beast - does she retain blindsight, given she has that ability in humanoid form but the beast form doesn't?",
+    "answer": "A character retains their special senses, such as darkvision, from their original form, only if their new form also has that sense. If the new form does not have that sense, the character does not retain it.",
+    "rules": [
+      "Spells > Casting a Spell > Duration > Concentration",
+      "Classes > Druid > Wild Shape"
+    ],
+    "rules_explanation": "A character retains the benefit of any features from their class, race, or other source and can use them if the new form is physically capable of doing so. However, they can't use any of their special senses, such as darkvision, unless their new form also has that sense."
+  },
+  {
+    "question": "Does 'Guidance' apply to the survival check since that has already been rolled?",
+    "answer": "No, 'Guidance' must be applied before the roll is made, not after.",
+    "rules": [
+      "Spells > Guidance"
+    ],
+    "rules_explanation": "The spell 'Guidance' states that one willing creature can add 1d4 to one ability check of its choice. They can roll the die before or after making the ability check, but it must happen prior to knowing whether the roll succeeds or fails. It cannot be applied after the result is known"
+  },
+  {
+    "question": "If the 4th-level cleric casts 'Mass Healing Word', is the healing 1d4 plus the spellcasting ability modifier, or 3d4 plus the modifier?",
+    "answer": "When cast at level 3, 'Mass Healing Word' heals 1d4 + spellcasting modifier.",
+    "rules": [
+      "Spells > Mass Healing Word",
+      "Classes > Cleric > Spellcasting > Spell Slots",
+      "Classes > Cleric > Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The description of the Mass Healing Word spell indicates the healing is 1d4 plus the spellcasting modifier. The higher level slot does not change this value. The spell's description does not state that the healing increases if cast using a higher level spell slot."
+  },
+  {
+    "question": "Does the 8th-level fighter's action surge allow two actions to be taken to attack, and then also a bonus action to reload the weapon used for the attack?",
+    "answer": "No. Action surge allows for one additional action, and one bonus action can also be taken if the character has one. But the rules state that the wielder gets one bonus action per turn.",
+    "rules": [
+      "Classes > Fighter > Action Surge",
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "Action surge allows for one additional action on your turn. The rules state that you only get one bonus action per turn, so if you use your additional action from Action Surge for an attack, and then a bonus action to reload, you cannot attack again because you only get one bonus action per turn. You would have to reload on a later turn."
+  },
+  {
+    "question": "Can the level 4 cleric bless, then attack with Spiritual Nick Jonas?",
+    "answer": "No. A weapon attack requires a physical weapon. The cleric must use the 'Spiritual Weapon', and a spell cannot trigger a Divine Strike effect.",
+    "rules": [
+      "Classes > Cleric > Divine Domain",
+      "Classes > Cleric > Spellcasting > Spell Slots",
+      "Spells > Spiritual Weapon"
+    ],
+    "rules_explanation": "The cleric's divine domain strike states that you can add extra damage if you hit a creature with a 'weapon'. While the spell is called Spiritual Weapon, this is a spell effect and not an actual physical weapon. The rules state that the bonus action to use the Spiritual Weapon attacks, it cannot trigger the divine strike."
+  },
+  {
+    "question": "Can the level 8 Wild Shape Druid cast 'Earthbind' to prevent the NPC from flying away?",
+    "answer": "While a druid is in Wild Shape, the character retains the benefit of any features from their class, race, or other source and can use them if the new form is physically capable of doing so. As a bonus action on each of the Druid’s turns, the Druid can expend two uses of Wild Shape to use their action and cast a Druid spell that requires concentration while in Wild Shape.",
+    "rules": [
+      "Classes > Druid > Wild Shape",
+      "Spells > Earthbind"
+    ],
+    "rules_explanation": "The druid is 8th level so can cast 4th level spells. Also as a bonus action on each of the Druid’s turns, the Druid can expend two uses of Wild Shape to use their action and cast a Druid spell that requires concentration while in Wild Shape."
+  }
+]

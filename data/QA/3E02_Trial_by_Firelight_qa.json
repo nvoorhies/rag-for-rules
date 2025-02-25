@@ -1,0 +1,258 @@
+[
+  {
+    "question": "When Laudna deals damage to Lord Eshteross, does she add a die with the Hex spell?",
+    "answer": "Yes, with Hex you get to add a d6 when you damage.",
+    "rules": [
+      "Spells > Spellcasting > Components",
+      "Spells > Concentration"
+    ],
+    "rules_explanation": "The spellcasting entry for Hex allows the caster to add damage when damaging the Hexed target. The spell description does not indicate that a concentration check is required upon casting the spell."
+  },
+  {
+    "question": "If Orym uses an action surge on his held action, does he get two attacks?",
+    "answer": "No, Action Surge is only on your turn.",
+    "rules": [
+      "Combat > Actions in Combat > Ready",
+      "Fighter > Class Features > Action Surge"
+    ],
+    "rules_explanation": "Action surge specifically allows you to take an additional action \"on your turn\". Because Orym is using a readied action, it is not his turn."
+  },
+  {
+    "question": "When Lord Eshteross is forced to move away from Imogen from Dissonant Whispers, does it provoke an attack of opportunity from the level 3 Barbarian?",
+    "answer": "Forced movement? does not trigger an attack of opportunity unless it specifies in the spell directly.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "An opportunity attack is only available when a hostile creature leaves your reach using its movement, not when forced by other means such as a spell unless explicitly indicated."
+  },
+  {
+    "question": "When Fearne casts Flame Blade, is casting the spell a bonus action?",
+    "answer": "Yes. Flame Blade, that's a bonus action to cast that, correct?",
+    "rules": [
+      "Spells > Casting a Spell > Bonus Action"
+    ],
+    "rules_explanation": "The SRD indicates that the casting time of a spell can be an Action, Bonus Action, Reaction, or longer period of time, and the spell's description indicates what type of casting time a spell requires. Matt is simply clarifying that the spell in question requires a bonus action to cast."
+  },
+  {
+    "question": "If Fresh Cut Grass casts bless on Ashton, Laudna, and Fearne, does the level 3 Barbarian with Temporal Morass running have disadvantage on his saving throw?",
+    "answer": "Yes. 13 is the save.",
+    "rules": [
+      "Spells > Casting a Spell > Duration",
+      "Spells > Spell Descriptions > Temporal Morass",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Temporal Morass imposes disadvantage on the next saving throw made by the target of the spell. Bless imposes a d4 bonus. Even with a d4 bonus, the target has disadvantage on the saving throw."
+  },
+  {
+    "question": "If Imogen casts dissonant whispers on Lord Eshteross and it fails the saving throw, can the level 3 Barbarian take an attack of opportunity?",
+    "answer": "Forced movement? does not trigger-- unless it specifies in the spell directly, it would not trigger that.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks",
+      "Spells > Spell Descriptions > Dissonant Whispers"
+    ],
+    "rules_explanation": "The rules state that opportunity attacks are only available when a hostile creature leaves your reach using its movement. Some spells specify that they provoke attacks of opportunity, but Dissonant Whispers does not."
+  },
+  {
+    "question": "Ashely asks if with her level 3 Druid, does Lord Eshteross get an Attack of Opportunity when Fearne moves away after casting Burning Hands",
+    "answer": "He's used his reaction, because he ran.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks",
+      "Combat > The Order of Combat > Reactions"
+    ],
+    "rules_explanation": "A creature only has one reaction per round. Matt is stating that because Lord Eshteross previously used his reaction he cannot also use it for an AoO."
+  },
+  {
+    "question": "To use the level 1 grappling cannon to pull himself up, does it require an action or bonus action?",
+    "answer": "That's an action to do that.",
+    "rules": [
+      "Combat > Actions in Combat > Use an Object"
+    ],
+    "rules_explanation": "The rules state \"When an object requires your action for its use, you take the Use an Object action.\""
+  },
+  {
+    "question": "With a level 1 spell slot, does FCG roll 1d4 to heal dorian with Healing Word",
+    "answer": "That's a four plus three is seven.",
+    "rules": [
+      "Spells > Spell Descriptions > Healing Word"
+    ],
+    "rules_explanation": "Healing word states: A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. Because FCG has a WIS modifier of +3 this is added to the 1d4 roll"
+  },
+  {
+    "question": "When Imogen and Laudna are going to the Weary Way tavern, would they know locations that maybe are less populated around this time of day?",
+    "answer": "Yes.",
+    "rules": [
+      "Gamemastering > The Environment",
+      "Player's Handbook"
+    ],
+    "rules_explanation": "As a GM ruling, Matt states they do know of such a place. Although there are no clear rules for this it is up to Matt to adjudicate what the characters would know."
+  },
+  {
+    "question": "Fearne is right up against Lord Eshteross, but he has a little bit of cover because of the edge of the desk is right there. To do any melee against him, does she shift away from the desk to not give him a benefit?",
+    "answer": "So if you're looking to do any melee against him, you might want to shift away from the desk. Otherwise, it's going to give him a little bit of a benefit.",
+    "rules": [
+      "Combat > Making an Attack > Cover"
+    ],
+    "rules_explanation": "Matt is stating that if Fearne makes the attack from where she is Lord Eshteross will benefit from partial cover which would give him a +2 bonus to AC and Dexterity saving throws."
+  },
+  {
+    "question": "Does Ashley have advantage against Eshteross because bless is still active?",
+    "answer": "Yeah.",
+    "rules": [
+      "Spells > Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The spell description for Bless states \"Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.\""
+  },
+  {
+    "question": "Marisha asks is he afraid of me? From where I hit him? He's got to make a wisdom saving throw-- or be feared for a minute?",
+    "answer": "He sits in the chair and tells everyone to come, and just keeps looking nervously over at you. He's unnerved by you.",
+    "rules": [
+      "Gamemastering > Describing Situations",
+      "Spells > Spell Descriptions",
+      "Monsters > Alignment"
+    ],
+    "rules_explanation": "This is not a rules question but rather about adjudicating the success of a spell or effect. If a creature is affected by a spell or effect that would cause fear, the GM decides how the creature behaves. Given Lord Eshteross's alignment, Matt decides it simply makes him unnerved."
+  },
+  {
+    "question": "Does Fearne get an attack of opportunity when Lord Eshteross steps away?",
+    "answer": "He just keeps going, and the blade, you feel tear out. There's now a big tear in the leather of his boot.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "Opportunity Attacks happen before the creature moves out of reach. In this case Matt narrates him continuing to walk, and Orym's sword tearing out as he leaves meaning she gets no AoO."
+  },
+  {
+    "question": "For Unsettling Presence, does the target make the saving throw now, or when I do something else?",
+    "answer": "\"As an action, you can unsettle a creature within-- target-- -- within 15 feet. The target has disadvantage on the saving throw it makes in the next--\" It doesn't say.",
+    "rules": [
+      "Unearthed Arcana: Warlock and Other Spells > Otherworldly Patron > The Undead > Unsettling Presence"
+    ],
+    "rules_explanation": "The rule for unsettling presence is being used as a class feature. It is necessary to refer to the text describing the ability. The question is whether it is a saving throw or disadvantage on their next saving throw and the text was reviewed and didn't make it explicitly clear."
+  },
+  {
+    "question": "If one of the party is hidden, do I get advantage?",
+    "answer": "You would, if you stay put in your position.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The rules state that when a creature can't see you, you have advantage on attack rolls against it. This is only true if they continue to not be able to see you."
+  },
+  {
+    "question": "If Fresh Cut Grass is trying to attach the grappling cannon, is that an action or bonus action to do so?",
+    "answer": "That's an action to do that.",
+    "rules": [
+      "Combat > Actions in Combat > Use an Object"
+    ],
+    "rules_explanation": "The rules state that \"When an object requires your action for its use, you take the Use an Object action.\""
+  },
+  {
+    "question": "If Ashton is under the effect of Temporal Morass, would Lord Eshteross have disadvantage to make the saving throw?",
+    "answer": "Oh yeah, that's right... Disadvantage, that's right. Because of that.",
+    "rules": [
+      "Spells > Components",
+      "Spells > Casting a Spell > Duration",
+      "Using Ability Scores > Saving Throws > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Temporal Morass is an effect, so it continues until its duration ends or it is otherwise dispelled."
+  },
+  {
+    "question": "When Laudna pops out of the wall to attack, does Lord Eshteross get an attack of opportunity?",
+    "answer": "You get a physical attack.",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks"
+    ],
+    "rules_explanation": "An opportunity attack is only available when a hostile creature leaves your reach using its movement, not when teleporting. Because Laudna is in his reach he would get an attack. But because he is also under the effect of the Dissonant Whispers he only takes his action to run."
+  },
+  {
+    "question": "If Lord Eshteross moves out of reach, does Orym get an Attack of Opportunity, even though he is prone?",
+    "answer": "Mine, too! You are prone, so--I can still hit, though, right?",
+    "rules": [
+      "Combat > Actions in Combat > Opportunity Attacks",
+      "Appendix PH-A > Conditions > Prone"
+    ],
+    "rules_explanation": "Because Lord Eshteross moved out of reach Orym would have an opportunity attack, but because he is prone, Orym has disadvantage on the attack."
+  },
+  {
+    "question": "Dorian says to use two weapon fighting with his hand axe in order to attack twice?",
+    "answer": "You got it.",
+    "rules": [
+      "Combat > Actions in Combat > Two-Weapon Fighting"
+    ],
+    "rules_explanation": "The two weapon fighting rules state: When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative."
+  },
+  {
+    "question": "For everyone who's immediately in the proximity of the orcish gentlemen, he adjusts the top of the cane and I need you all to make charisma saving throws.",
+    "answer": "You don't have to worry about it, you don't have to worry about it.",
+    "rules": [
+      "Player's Handbook > Gamemastering > The Combat > Saving Throws"
+    ],
+    "rules_explanation": "Anyone past a 15-foot area doesn't have to make the save."
+  },
+  {
+    "question": "If Fearne is attempting melee attacks is is against Lord Eshtreross does partial cover due to the desk give him a benefit?",
+    "answer": "He does have a little bit of cover because of the edge of the desk is right there. So if you're looking to do any melee against him, you might want to shift away from the desk. Otherwise, it's going to give him a little bit of a benefit.",
+    "rules": [
+      "Combat > Making an Attack > Cover"
+    ],
+    "rules_explanation": "The rules state A target with **half cover** has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend."
+  },
+  {
+    "question": "If they have some breakfast at the Weary Way, does that count as a short rest?",
+    "answer": "I'd say if you got some breakfast, you'd consider it a short rest.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "This is a judgment call on Matt's part as GM, but by the rules, A short rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds."
+  },
+  {
+    "question": "How many hit dice do I have?",
+    "answer": "You should have 3d8 hit dice, plus whatever your constitution modifier is, for each you roll.",
+    "rules": [
+      "Classes > Monk > Class Features > Hit Points"
+    ],
+    "rules_explanation": "The Monk class table states the level 1-8 character receives a dice and modifier per hit dice."
+  },
+  {
+    "question": "When Bertrand throws the snifter of scotch, what modifier is used?",
+    "answer": "Go ahead and roll a d20 and your strength bonus.",
+    "rules": [
+      "Combat > Making an Attack > Improvised Weapons"
+    ],
+    "rules_explanation": "The snifter of scotch is considered an improvised weapon, which the rules state you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For most melee weapons, that is your Strength."
+  },
+  {
+    "question": "Given Laudna's attack at Eshteross' door, what do you roll for that?",
+    "answer": "With a three, a nine-- and my strength is--20? Yeah, that hits...minus three, so that brings it back down to six.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Ability Scores and Modifiers",
+      "Combat > Making an Attack > Attack Rolls",
+      "Spells > Cantrips"
+    ],
+    "rules_explanation": "As she makes a physical melee attack, the roll consists of the d20 rolled, any relevant bonuses such as proficiency bonus, and her strength modifier. As her strength is 6 then the modifier is -3."
+  },
+  {
+    "question": "If Fearne wants to perform melee attacks on someone that is partially behind a desk, is there a rule for that?",
+    "answer": "Oh, I am! Okay, great...He does have a little bit of cover because of the edge of the desk is right there. So if you're looking to do any melee against him, you might want to shift away from the desk. Otherwise, it's going to give him a little bit of a benefit.",
+    "rules": [
+      "Combat > Making an Attack > Cover"
+    ],
+    "rules_explanation": "With half cover, a target receives a +2 bonus to AC and Dexterity saving throws."
+  },
+  {
+    "question": "Can a Bless Bonus be applied to a charisma saving throw?",
+    "answer": "Some of us add a d4 to this, too. Because Bless is still up.",
+    "rules": [
+      "Spells > Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The spell description for Bless states \"Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.\""
+  },
+  {
+    "question": "Can Taliesin perform an insight check when Lord Esteross claims Mistress Prudaj entrusted her estate to him when she passed?",
+    "answer": "Sure, what are you curious about? If he's telling the truth on that point? ...Insight, yeah.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills > Wisdom"
+    ],
+    "rules_explanation": "The players can always attempt an ability check when the situation arises. Matt is simply asking what part of the situation is Taliesin curious about."
+  }
+]

@@ -1,0 +1,271 @@
+[
+  {
+    "question": "Can the level 4 fighter take an action to create a camouflage to gain advantage?",
+    "answer": "The #Actions > Hide action states that you make a Dexterity (Stealth) check in an attempt to hide, following the rules for hiding.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Actions in Combat > Hide"
+    ],
+    "rules_explanation": "The base hidding action in combat is to make a Dexterity (Stealth) check."
+  },
+  {
+    "question": "If level 4 fighter takes a level in a class that provides Unarmored Defense, can that class feature be taken again?",
+    "answer": "No, a character can't gain the Unarmored Defense feature again from another class.",
+    "rules": [
+      "Multiclassing > Class Features > Unarmored Defense"
+    ],
+    "rules_explanation": "A player can only take a class feature once as specified by the rules on multi-classing"
+  },
+  {
+    "question": "Can 1st-level cleric heal party member?",
+    "answer": "Yes, the #Actions section for the Priest stat block has a spell with a touch range that would affect the target if it hits.",
+    "rules": [
+      "Monsters > NPCs > Priest > Actions",
+      "Spellcasting > Range > Touch"
+    ],
+    "rules_explanation": "The NPC Priest has the cure wounds spell which can be cast with range touch."
+  },
+  {
+    "question": "If the level 4 monk is in a party that is under the effect of the *Pass Without Trace* spell, does their stealth change?",
+    "answer": "Yes. A player adds the +10 bonus from *Pass Without Trace* to their Stealth checks.",
+    "rules": [
+      "Spellcasting > What Is a Spell? > Components",
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "When making a stealth check, any bonuses, penalties, or modifiers are applied to the roll."
+  },
+  {
+    "question": "If a roll is made with both advantage and disadvantage, how is it performed?",
+    "answer": "You roll one d20. If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules state that in such a case, you do not roll with advantage or disadvantage"
+  },
+  {
+    "question": "Does having proficiency as an alchemist allow adding the proficiency bonus to investigation checks?",
+    "answer": "No. The proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.",
+    "rules": [
+      "Bard > Class Features > Expertise"
+    ],
+    "rules_explanation": "The expertise ability must be used in order to double the proficiency bonus for the investigation check. The bonus cannot be arbitrarily added due to the characters background."
+  },
+  {
+    "question": "When you make a ranged attack, what happens when a hostile creature is within 5 feet?",
+    "answer": "When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "Rules state that you have disadvantage on the attack roll"
+  },
+  {
+    "question": "If you are not proficient with light armor and wear it, what are the results?",
+    "answer": "If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells.",
+    "rules": [
+      "Equipment > Armor > Armor Proficiency"
+    ],
+    "rules_explanation": "Rules state that you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells."
+  },
+  {
+    "question": "Can you attack while under the effect of a long rest?",
+    "answer": "No. A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, casting spells, or similar adventuring activity—the characters must begin the rest again to gain any benefit from it.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "Fighting or similar adventuring activity interupts a long rest, forcing a character to start over. The time spent can no longer be considered a long rest and therefore cannot provide any benefits."
+  },
+  {
+    "question": "What are the game mechanics for when a PC slaps another PC?",
+    "answer": "You can perform an unarmed strike: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks"
+    ],
+    "rules_explanation": "Slapping someone is an unarmed strike"
+  },
+  {
+    "question": "Can a character put the rest of the party to sleep?",
+    "answer": "The #Actions > Hold action indicates that you pick what action to take and wait for a trigger, there is no specific 'sleep' action, only the general case of waiting and then taking an action.",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "The ready action allows waiting for a trigger, so waiting for everyone to sleep is allowed."
+  },
+  {
+    "question": "Can 20th level character use their Extra Attack to climb down a well?",
+    "answer": "You can break up your movement on your turn, using some of your speed before and after your action. You cannot use the extra attack to climb. ",
+    "rules": [
+      "Classes > Fighter > Extra Attack",
+      "Combat > Movement and Position > Breaking Up Your Move"
+    ],
+    "rules_explanation": "Rules state that you can attack twice instead of once when you take the Attack action on your turn. This is does not involve climbing down a well."
+  },
+  {
+    "question": "Can a character use a copper to cast Good and Evil to see the future?",
+    "answer": "You close your eyes and focus. Nothing catches your attention in a 30 foot radius.",
+    "rules": [
+      "Spell Lists > Cleric Spells > Detect Good and Evil",
+      "Combat > Areas of Effect"
+    ],
+    "rules_explanation": "The spell is cast in a 30 foot radius around the caster, nothing indicating the future."
+  },
+  {
+    "question": "Can you travel with an item?",
+    "answer": "When you touch the item it is transported to the Ethereal Plane.",
+    "rules": [
+      "Spell Lists > Wizard Spells > Phase Shift"
+    ],
+    "rules_explanation": "Requires a V, S, and M but then transports any item to the Ethereal Plane"
+  },
+  {
+    "question": "Can you use your extra speed from the barbarian class, then a double move, then a Sentinel feat attack?",
+    "answer": "The #Classes > Barbarian > Fast Movement section indicates your speed increases while you aren't wearing heavy armor, you can use this. #Sentinel states 'You can use your reaction to make a melee weapon attack against the creature when it enters your reach.",
+    "rules": [
+      "Classes > Barbarian > Fast Movement",
+      "Feats > Sentinel"
+    ],
+    "rules_explanation": "Rules state that both abilities can be used."
+  },
+  {
+    "question": "When casting a spell and attempting to affect a sphere with it, are you able to tell if it is effective? Also, what happens when there is an opening in a well?",
+    "answer": "You go ahead and glance and you cast Light on...?  Best you can tell it is murky water, so you don't get a clear view of where it might bottom out, but it does appear to be a well that continues down. It's got some dirt and sediments that have been somewhat recently raised.",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target",
+      "Spell Lists > Wizard Spells > Light"
+    ],
+    "rules_explanation": "Rules state that you don't get a clear view and the area is murky."
+  },
+  {
+    "question": "Is there a specific action from going over the edge of a well?",
+    "answer": "Make an athletics check for me.",
+    "rules": [
+      "Adventuring > Special Types of Movement > Climbing, Swimming, and Crawling"
+    ],
+    "rules_explanation": "Generally, climbing requires a Strength (Athletics) check"
+  },
+  {
+    "question": "Can you attack multiple times during a turn if there is a fear effect in a room?",
+    "answer": "While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.",
+    "rules": [
+      "Spell Lists > Wizard Spells > Fear"
+    ],
+    "rules_explanation": "The condition of the spell is for the creature to dash, which implies that is the only possible action it can take."
+  },
+  {
+    "question": "Can a creature make a tracer arrow while in a person stable?",
+    "answer": "Unfortunately, you don't really have a good space to do that here.",
+    "rules": [
+      "Equipment"
+    ],
+    "rules_explanation": "Cannot do explosive chemistry in a stable"
+  },
+  {
+    "question": "If a character is has an advantage of a stealth check, do they use that roll for a check against pass without a trace?",
+    "answer": "Jester and I roll stealth, the rest get the bonus from pass without a trace, all characters make stealth checks.",
+    "rules": [
+      "Spell Lists > Ranger Spells > Pass without Trace",
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "Yes, use both on the roll - it's a check made to be stealthy (as noted in the spell itself) and that any circumstance that grants advantage would apply."
+  },
+  {
+    "question": "Can the level 4 monk borrow armor?",
+    "answer": "You do not need to attune to this. You don't have to take an hour to attune which is nice.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "Magic Items such as armor require attunement, however this does not take affect until you use it. Furthermore you can attune during a short rest."
+  },
+  {
+    "question": "Can a dragonborn sleep with their armor on?",
+    "answer": "I don't know, do I sleep in armor?",
+    "rules": [
+      "Equipment > Armor",
+      "Races > Dragonborn"
+    ],
+    "rules_explanation": "Sleeping in light armor is allowable, unless the character chooses not to."
+  },
+  {
+    "question": "After a brief power nap with some spent hit die, what time is it?",
+    "answer": "I'll say because everyone else is also taking a long rest, your power nap sends you to a point of consciousness where you wake and it's dark and you're not sure what time it is.",
+    "rules": [
+      "Adventuring > Resting"
+    ],
+    "rules_explanation": "In the rules, short rests do not have a set time, only long rests do"
+  },
+  {
+    "question": "Are you able to spend more hit dice and wake up earlier?",
+    "answer": "I'm going to do a power nap and blow some hit dice.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "Yes - the player can spend some hit dice during the short rest to heal. There are no rules concerning the amount of hit dice spent and the time that you can take."
+  },
+  {
+    "question": "When extracting aspects does the level 7 monk take on a certain ability, or an actual ability? Does the monk learn all the aspects at once?",
+    "answer": "As part of this, your Extract Aspects, as opposed to choosing, whenever you hit a creature with one of your Flurry of Blows, you learn what conditions they're immune to, what damages they're immune to, what damages they're resistant to, and what damages they're vulnerable to.",
+    "rules": [],
+    "rules_explanation": "The question relates to a homebrew rule. As such, it cannot be answered by the SRD. That said, this is the dungeon master's intention for how the ability works."
+  },
+  {
+    "question": "Can you perform Flurry of Blows first?",
+    "answer": "Well, you have to do attack action, then Flurry of bBows is how it works.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There are no applicable rules, but the GM has declared this is the case"
+  },
+  {
+    "question": "How do Flurry of Blows work?",
+    "answer": "Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.",
+    "rules": [
+      "Monk > Class Features > Ki > Flurry of Blows"
+    ],
+    "rules_explanation": "This is a quote from the SRD of what the bonus action does"
+  },
+  {
+    "question": "Are the two bonus action attack rolls part of the original attack roll?",
+    "answer": "You open up with two strikes, and then go into the Flurry of Blows as the bonus action.",
+    "rules": [],
+    "rules_explanation": "There are no applicable rules, but the GM has declared this is the case"
+  },
+  {
+    "question": "Does Cure Wounds require verbal components?",
+    "answer": "Cure Wounds uses Verbal and Somatic components.",
+    "rules": [
+      "Spell Lists > Cleric Spells > Cure Wounds"
+    ],
+    "rules_explanation": "Rules indicate both vocal and somatic are required"
+  },
+  {
+    "question": "How many people can stay in each cow stall at the Four Corners tavern?",
+    "answer": "You can't look in the others; they're closed off.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rules state that there's only two available, and they can't look at the other ones."
+  },
+  {
+    "question": "With regards to multiple checks is 18 enough? Is it ok to assume everything's fine?",
+    "answer": "And a followup deception check for me, if you don't mind.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The GM is requesting a follow-up check"
+  },
+  {
+    "question": "Where was the execution of Old Potis?",
+    "answer": "As far as you know, he was executed somewhere in the vicinity of the Scowl Square.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "GM states where the execution was"
+  },
+  {
+    "question": "Does this count as a rest?",
+    "answer": "No.",
+    "rules": [
+      "Adventuring > Resting"
+    ],
+    "rules_explanation": "There are no applicable rules, but the GM has declared this is not a rest"
+  }
+]

@@ -1,0 +1,341 @@
+[
+  {
+    "question": "Level 15 Monk, Level 3 Warlock, Level 2 Paladin: Can you cast Armor of Agathys at level 1?",
+    "answer": "Yes. You have three 1st-level spell slots and three 5th-level spell slots.",
+    "rules": [
+      "Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "As a multiclassed character, you have spell slots based on your combined levels in spellcasting classes, and you have prepared or learned spells based on your individual class levels. Therefore, you will have access to level 1 spell slots from the combined spellcasting levels, but learn spells individually from each class."
+  },
+  {
+    "question": "The ability of a level 15 barbarian. Is inspiration a fancy Barbarian thing?",
+    "answer": "No. The Barbarian class description does not mention Inspiration.",
+    "rules": [
+      "Classes > Barbarian > Class Features"
+    ],
+    "rules_explanation": "Only class features explicitly described in the class details are available to members of that class"
+  },
+  {
+    "question": "Can level 15 Rogue/Level 3 Warlock/Level 2 Paladin use their action and movement to dash 90 feet?",
+    "answer": "If the character uses the Dash action it can move a distance up to double their speed (after applying modifiers).",
+    "rules": [
+      "Combat > Your Turn > Actions",
+      "Combat > Movement and Position"
+    ],
+    "rules_explanation": "Characters can use actions to dash to gain extra movement for the turn equal to the character's speed. No specific rules prevent characters from travelling this amount, unless they are somehow unable to dash or move."
+  },
+  {
+    "question": "Can a level 15 Rogue/Level 3 Warlock/Level 2 Paladin use their action to fire a ranged attack with Boltblaster and bonus action hide, and gain advantage due to being hidden and sneak attack? How does Guiding Bolt Effect the sneak attack roll?",
+    "answer": "A creature can hide as a bonus action, however doing so involves forfeiting its ability to then fire the weapon. Due to Guiding Bolt's effect, the next attack against the target will have advantage allowing sneak attack to be applied.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions",
+      "Combat > Your Turn > Actions",
+      "Classes > Rogue > Sneak Attack",
+      "Conditions > Invisible"
+    ],
+    "rules_explanation": "Guiding bolt's text states that the next attack roll against the target has advantage. This lasts for a round. If you are hidden, you do get sneak attack."
+  },
+  {
+    "question": "If a Paladin/Cleric is on fire, what damage does it take each turn? Does Evasion help them?",
+    "answer": "The amount of fire damage taken each turn is determined by the effect that set the character on fire. The evasion ability only reduces the damage from Dexterity saving throws and doesn't apply to ongoing fire damage.",
+    "rules": [
+      "Combat > Damage and Healing"
+    ],
+    "rules_explanation": "Evasion only helps with Dexterity saving throws, and the fire effect is typically a flat damage per turn."
+  },
+  {
+    "question": "If a 5th Level PC dies and Caduceus wants to use Gentle Repose, what are the effects?",
+    "answer": "You touch a corpse or other remains. For the duration of up to 10 days, the target is protected from decay and can't become undead.",
+    "rules": [
+      "Spell Descriptions > Gentle Repose"
+    ],
+    "rules_explanation": "As the spell states."
+  },
+  {
+    "question": "Given Allura's Staff is out of charges, if I roll a five, will the staff lose all of its great powers?",
+    "answer": "No, nothing happens on a roll of five. If it rolls a one, it does lose the powers.",
+    "rules": [],
+    "rules_explanation": "According to the scenario."
+  },
+  {
+    "question": "Can a 6th level sorcerer with draconic bloodline use Control Flames cantrip to put out the flames all over their body?",
+    "answer": "Yes, they can. Control Flames puts out flames.",
+    "rules": [
+      "Spell Descriptions > Control Flames"
+    ],
+    "rules_explanation": "Cantrip that puts out fire, cast on body which has fire."
+  },
+  {
+    "question": "If I've run a whole round can I cast message then?",
+    "answer": "Yes, if you have not already used your action.",
+    "rules": [
+      "Combat > Your Turn > Actions"
+    ],
+    "rules_explanation": "A character gets one action per turn."
+  },
+  {
+    "question": "can I use Control Flames to put out the flames all over my body?",
+    "answer": "Control Flames: You choose a point within range and affect fire in a 15-foot cube. You can expand the flames, extinguish them, or change their color.",
+    "rules": [
+      "Spell Descriptions > Control Flames"
+    ],
+    "rules_explanation": "The spell has no restrictions on what or who can be targeted, so you can use it to affect flames on your body"
+  },
+  {
+    "question": "If a creature has resistance to fire, how is fire damage applied if there is also an effect that reduces all damage by 5?",
+    "answer": "The 25 damage is first reduced by 5 and then halved, so the creature takes 10 damage.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "Resistance and then vulnerability are applied after all other modifiers to damage."
+  },
+  {
+    "question": "If a DM rolls a natural 20 for an NPC to save against Modify Memory, is it successful? Does advantage matter?",
+    "answer": "If the creature is fighting the caster, it has advantage on the saving throw, then succeeds on the saving throw automatically with the natural 20.",
+    "rules": [],
+    "rules_explanation": "A roll of 20 on a saving throw is always a success."
+  },
+  {
+    "question": "Level 17 Monk, Level 3 Warlock, Level 2 Paladin is trying to do strength check for an athletics to leap across lava, can she cast guidance and/or blessing of the trickster?",
+    "answer": "You can cast Guidance as an action. The Blessing of the Trickster spell is not described in the SRD.",
+    "rules": [
+      "Spellcasting > Casting Time"
+    ],
+    "rules_explanation": "Blessing of the Trickster was not found in the SRD, however, you get one action to make the roll or cast guidance."
+  },
+  {
+    "question": "Can I help give advantage to an investigation check and be in the middle of a perception check at the same time?",
+    "answer": "No, you can only concentrate on one action at a time.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "Only one character can make the ability check."
+  },
+  {
+    "question": "If a monster dies and becomes 3 smaller elementals, does Jester get advantage on any of them?",
+    "answer": "Yes. The next attack against each of them has advantage.",
+    "rules": [],
+    "rules_explanation": "Guiding Bolt makes the next attack have advantage."
+  },
+  {
+    "question": "As a healer do I roll for level one spell again because it is more damage to a group of enemies that are weak?",
+    "answer": "Unclear, it is up to the player's choice to cast a more effective level spell.",
+    "rules": [],
+    "rules_explanation": "The description of the question makes the answer unclear and can not be answered with the provided context."
+  },
+  {
+    "question": "What can I do when you're restrained?",
+    "answer": "Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage, and the creature has disadvantage on Dexterity saving throws",
+    "rules": [
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "As the text for the Restrained condition describes."
+  },
+  {
+    "question": "Can the hilt of my sword be mistaken for a gun?",
+    "answer": "This is a question of DM adjudication and the SRD provides no guidance on this.",
+    "rules": [],
+    "rules_explanation": "This is purely a DM interpretation and does not reference any rules."
+  },
+  {
+    "question": "Can I use Allura's Staff to cast Cone of Cold, and is the DC going to be the staff or different than me?",
+    "answer": "The attack bonus equals your spellcasting ability modifier + your proficiency bonus. The saving throw DC for a spell equals 8 + your proficiency bonus + your spellcasting ability modifier.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "As specified in the SRD, the DC would be based on your stats and proficiency bonus."
+  },
+  {
+    "question": "If an entity is immune to fire damage, does that mean there is no extra damage on top?",
+    "answer": "Because the Cataclysm Bolt is dealing extra damage on top, this is applied as normal before the target's immunity.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "Resistance and then vulnerability are applied after all other modifiers to damage."
+  },
+  {
+    "question": "Can you still attack when you're restrained?",
+    "answer": "Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage, and the creature has disadvantage on Dexterity saving throws",
+    "rules": [
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "Yes, attacking while restrained is possible, but at disadvantage."
+  },
+  {
+    "question": "Can I Sneak Attack more than once per turn?",
+    "answer": "You can Sneak Attack only once per turn.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The Rogue class details for the sneak attack ability specify it can only be done once per turn."
+  },
+  {
+    "question": "Does Stormrider Boots cause damage as I pass them?",
+    "answer": "Yes, the Stormrider Boots can cause 2d8 lightning damage as the wearer passes by.",
+    "rules": [],
+    "rules_explanation": "According to text of the scenario."
+  },
+  {
+    "question": "If the staff rolled a one, it loses all of its great powers?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "That is the outcome according to the scenario."
+  },
+  {
+    "question": "What's the number of skill proficiencies does a level 15 Half-Elf Rogue/Warlock have?",
+    "answer": "That character has a total of 4 + 2 + 0 = 6 skill proficiencies.",
+    "rules": [
+      "Races > Half-Elf > Racial Traits > Skill Versatility",
+      "Classes > Rogue > Proficiencies > Skills",
+      "Classes > Warlock > Proficiencies > Skills"
+    ],
+    "rules_explanation": "The SRD states that Half-Elves get 2 skills, rogues can choose three skills and Warlocks can choose two skills at level 1. Since you can't get a skill proficiency twice from different classes or backgrounds, the total number of skills is 4 + 2 + 0 = 6."
+  },
+  {
+    "question": "I'm going to Guide myself. I'm going to Guide-- oh, wait. Can I Blessing of the Trickster-- you don't need it, you've got advantage anyway. Stealth Check Question:",
+    "answer": "Blessing of the Trickster is not described in the SRD. You can Guide yourself before the Stealth Check.",
+    "rules": [
+      "Spell Descriptions > Guidance",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Blessing of the Trickster not found in SRD. As the text for guidance describes."
+  },
+  {
+    "question": "what happens if it's the guardian of the sanctum releases an inferno that is a 50 foot radius, catching marion and they got some cover to--",
+    "answer": "They would have advantage on the saving throw against the effect because they have partial cover.",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "Having cover provides advantage to Dexterity saving throws."
+  },
+  {
+    "question": "For those standing 200 feet away, are we ok since the voice said By what will do you disturb the sanctum? The sanctum must be cleansed?",
+    "answer": "Assuming you are speaking about the range of the effect, then yes, because the radius is 50 feet.",
+    "rules": [],
+    "rules_explanation": "Given the radius and the distance, you are ok."
+  },
+  {
+    "question": "When Marion has rolled a natural 20 and is naturally half resistant and is behind the side there. Can you clarify about her taking half of that total?",
+    "answer": "When a effect is described of having damage cut by one half and another effect causes the same damage to be halved, the combined effect is not a three-quarters reduction. It is simply one half reduction. Resulting in one half the total.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "When the rules are applied, the natural 20 and resistance both do the same. Therefore, there isn't any additional effects."
+  },
+  {
+    "question": "Can anyone who is Restrained still attack?",
+    "answer": "Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage, and the creature has disadvantage on Dexterity saving throws",
+    "rules": [
+      "Appendix PH-A > Conditions > Restrained"
+    ],
+    "rules_explanation": "Yes, attacking while restrained is possible, but at disadvantage."
+  },
+  {
+    "question": "If I release the spell Cone of Cold, is it a constitution saving throw?",
+    "answer": "The spell description will specify what type of saving throw is required.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "Spells specify saving throws."
+  },
+  {
+    "question": "Is the DC of the staff different than me? Is the staff is not different, then it'd be your spell DC. But the hallway is lit up, right?",
+    "answer": "The saving throw DC for a spell equals 8 + your proficiency bonus + your spellcasting ability modifier.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "If it does not specify that the DC is different, then it's based on the spellcaster."
+  },
+  {
+    "question": "If I am in combat do I have advantage on Modify Memory, or not?",
+    "answer": "If you are fighting the creature it has advantage in the saving throw.",
+    "rules": [],
+    "rules_explanation": "It says, \"If you are fighting the creature it has advantage in the saving throw.\""
+  },
+  {
+    "question": "I'm on fire. What are the rules for being on fire?",
+    "answer": "The nature of the fire effect will specify damage and other details.",
+    "rules": [
+      "Combat > Damage and Healing"
+    ],
+    "rules_explanation": "There are not generic rules for fire damage, but rather the spell or other effect creates it that dictates the specifics."
+  },
+  {
+    "question": "If an NPC rolls a natural 1, what is its result on Initiative?",
+    "answer": "The roll will total the natural 1 + relevant modifiers to the check.",
+    "rules": [],
+    "rules_explanation": "Initiative checks are the same as any other check with modifiers applied to the total result."
+  },
+  {
+    "question": "I am holding the Allura's staff and want to point it down the chamber, and I am going to fire off Cone of Cold. Am I able to?",
+    "answer": "Yes if you release it now, it may or may not hit. Or, you can wait till I see it.",
+    "rules": [],
+    "rules_explanation": "According to the rules of engagement in the scenario."
+  },
+  {
+    "question": "I have the Staff of Allura. Do I feel heat coming as well?",
+    "answer": "You might soon. But you see the light first.",
+    "rules": [],
+    "rules_explanation": "Based on how things are playing out in the scenario."
+  },
+  {
+    "question": "Can I Blessing of the Trickster— You don't need it, you've got advantage anyway?",
+    "answer": "The rules for the Blessing of the Trickster spell are not in the SRD. Please consult with your GM for the proper rules and application of the effects of Blessing of the Trickster.",
+    "rules": [],
+    "rules_explanation": "This is not found in the SRD. Please consult with GM."
+  },
+  {
+    "question": "If I use my boots, how much is it again? So 25 to 20. Sorry, 22. 20. Ooh, nice. 18, sorry. Oh, wow, look at this. Hell yes.",
+    "answer": "You can move with the Stormrider boots. And it is 90 feet.",
+    "rules": [],
+    "rules_explanation": "Rules of the scenario."
+  },
+  {
+    "question": "Are we level 15 now, right?",
+    "answer": "Level is gained by earning experience points.",
+    "rules": [
+      "Beyond 1st Level > Experience Points"
+    ],
+    "rules_explanation": "Gaining levels depends on experience points."
+  },
+  {
+    "question": "As everyone's going to bed and going to sleep, Yeza curling up next to you, just Luc is sleeping between the two of you, once it's quiet, just says, Are you all right? What's going on?",
+    "answer": "This is a conversation between the player characters and can not be answered with the SRD. The SRD has no ruling on what is going on.",
+    "rules": [],
+    "rules_explanation": "The SRD cannot be used to determine what has happened to a character, only what they are capable of."
+  },
+  {
+    "question": "Is it good that he starts crying or not?",
+    "answer": "This can not be answered by the SRD. The player is roleplaying a conversation with their family.",
+    "rules": [],
+    "rules_explanation": "The SRD cannot be used to determine what has happened to a character, only what they are capable of."
+  },
+  {
+    "question": "You know, when you hold it between your-- Maybe put a rock or something. I'm just holding it between my feet. You know, when you hold it between your-- What?",
+    "answer": "If the Happy Fun Ball teleports and you're holding it with your feet, the action depends on the teleportation.",
+    "rules": [],
+    "rules_explanation": "If you teleport, the outcome is determined by the rules of the teleportation being used"
+  },
+  {
+    "question": "After 6 to 8 hours of resting, how many hit dice have I gotten back?",
+    "answer": "At the end of a long rest, a character regains all lost hit points. The character also regains spent Hit Dice, up to a number of dice equal to half of the character's total number of them (minimum of one die).",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "Long rests determine hit die replenishment."
+  },
+  {
+    "question": "For each hour spent in this space there are progressive constitutional roles to be had, but within the dome you don't have to worry about. What is the mechanics for this?",
+    "answer": "The rules for rolling constitution checks can not be determined using the SRD.",
+    "rules": [],
+    "rules_explanation": "Progressive constitution roles not mentioned in SRD."
+  },
+  {
+    "question": "Can I cast Guidance on myself as I'm trying to do this?",
+    "answer": "You can cast Guidance as an action.",
+    "rules": [
+      "Spellcasting > Casting Time"
+    ],
+    "rules_explanation": "This specifies that you can cast spells of certain casting times."
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "question": "Can the goblin (Skak Scar-Artist) Level 1 Goblin Trickster Goblinoid race use sneak attack on the uruk?",
+    "answer": "Yes, the Level 1 Goblin Trickster Goblinoid race can use sneak attack on a melee weapon attack if it somebody is within 5 feet of its target.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Rogue > Class Features > Sneak Attack"
+    ],
+    "rules_explanation": "The rules for sneak attack state that the rogue can deal extra damage when it has advantage on the attack roll, or when another enemy of the target is within 5 feet of it. The rogue was unseen and hiding, and is within 5 feet of an enemy of the target so qualifies for sneak attack."
+  },
+  {
+    "question": "Can a Level 4 Olog Life Domain Cleric add the Life Domain feature to the damage roll in the description 'You can have up to three creatures of your choice, if you want to. The range is 30 feet, though, so it's pretty close. He's the only one you can see. As you stare at him, he looks fearful for a moment and you can see the hand shaking. What's going to happen is you get to subtract 1d4 from any of his rolls.'? \n",
+    "answer": "No, Level 4 Olog Life Domain Cleric can use Bane spell not add Life Domain feature to the damage roll because the Life Domain Bonus Proficiency does not include Bane spell.",
+    "rules": [
+      "Cleric > Divine Domain > Life Domain Spells"
+    ],
+    "rules_explanation": "The Life Domain bonus does not apply to the Bane Spell."
+  },
+  {
+    "question": "If a Level 4 Olog Barbarian uses Troll's Endurance, how many hit points does the damage reduction add to the roll?",
+    "answer": "The Troll's Endurance reaction lets the Level 4 Olog Barbarian roll 1d12 and add it to the amount of hit points they regain.",
+    "rules": [
+      "Barbarian > Primal Path > Frenzy",
+      "Races Racial Traits"
+    ],
+    "rules_explanation": "While no Troll endurance reaction for Barbarian is provided, I am able to infer from context and conversation in transcript from the context it lets the user roll a d12 and add it to the damage reduction."
+  },
+  {
+    "question": "Can a Level 5 Olog Monk bonus action strike be used on multiple targets with Flurry of Blows?",
+    "answer": "No, Flurry of Blows can only be used on a single target. The Monk could spend two ki points to make a bonus action Flurry of Blows against one target, then use their normal action to attack a different target",
+    "rules": [
+      "Monk > Class Features > Ki > Flurry of Blows"
+    ],
+    "rules_explanation": "The Flurry of Blows rule specifies that the two unarmed strikes are made 'immediately after you take the Attack action on your turn', meaning they both must target the same character targeted by the Attack action."
+  },
+  {
+    "question": "If a Level 5 Olog Monk hits someone with a Flurry of Blows attack, does the target become stunned? ",
+    "answer": "No, the target does not become stunned unless the Level 5 Olog Monk uses a Stunning Strike which expends a ki point.",
+    "rules": [
+      "Monk > Class Features > Stunning Strike"
+    ],
+    "rules_explanation": "The Stunning Strike feature is a separate feature that requires expending a Ki point."
+  },
+  {
+    "question": "If a Level 5 Olog Monk hits a stunned creature, does the target become unstunned?",
+    "answer": "No, hitting a stunned creature does not cause the target to become unstunned.",
+    "rules": [],
+    "rules_explanation": "There are no rules associated with this question. However, the answer can be inferred from the rules for stunned which do not state that an attack will remove this condition."
+  },
+  {
+    "question": "If a character is stunned, do attacks against them have advantage?",
+    "answer": "Yes, attacks against a stunned creature have advantage.",
+    "rules": [],
+    "rules_explanation": "While there is no explicit rule for this condition in the SRD, this is a commonly understood application of the stunned condition."
+  },
+  {
+    "question": "If a Level 5 Olog Monk uses Flurry of Blows and hits, does he need to make a dexterity saving throw or be knocked prone?",
+    "answer": "When the Level 5 Olog Monk hits with a flurry of blows attack, the target must succeed on a Dexterity saving throw or be knocked prone.",
+    "rules": [],
+    "rules_explanation": "A Flurry of Blows attack requires the target to make a Dexterity saving throw."
+  },
+  {
+    "question": "After taking a short rest, does a Level 5 Olog Monk regain Ki points?",
+    "answer": "Yes, after a short rest, the Level 5 Olog Monk regains all Ki points.",
+    "rules": [
+      "Monk > Class Features > Ki"
+    ],
+    "rules_explanation": "The SRD states that 'You regain all expended ki points when you finish a short or long rest' ."
+  },
+  {
+    "question": "Does the thief subrace confer any special properties or abilities?",
+    "answer": "The thief is a rogue archetype, not a subrace.",
+    "rules": [],
+    "rules_explanation": "The term thief applies to a rogue archetype, which is unrelated to racial subraces."
+  },
+  {
+    "question": "If a weapon attack has a single range, can you attack a target beyond this range?",
+    "answer": "No, if a ranged attack has a single range, you can't attack a target beyond this range.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Range"
+    ],
+    "rules_explanation": "The SRD rules explicitly prohibits attacking beyond a spells range"
+  },
+  {
+    "question": "Can a sorcerer add sneak attack to a Thunderwave attack?",
+    "answer": "No, to use sneak attack the attack must use a finesse or a ranged weapon.",
+    "rules": [
+      "Rogue > Class Features > Sneak Attack"
+    ],
+    "rules_explanation": "The rogue was unseen and hiding, and is within 5 feet of an enemy of the target so qualifies for sneak attack."
+  },
+  {
+    "question": "Does it take an action to light a torch?",
+    "answer": "Yes, using a tinderbox to light a torch takes an action.",
+    "rules": [
+      "Equipment > Adventuring Gear > Tinderbox"
+    ],
+    "rules_explanation": "The SRD entry for the tinderbox states 'Using it to light a torch—or anything else with abundant, exposed fuel—takes an action'."
+  },
+  {
+    "question": "Can a paladin use Lay on Hands to heal themselves?",
+    "answer": "The paladin's Lay on Hands feature states that they can touch a creature. It does not preclude the paladin from touching themselves, and therefore they can use Lay on Hands to heal themselves.",
+    "rules": [
+      "Paladin > Class Features > Lay on Hands"
+    ],
+    "rules_explanation": "Lay on hands feature is restricted by the 'touch a creature' requirement, but that does not preclude the paladin from touching themselves."
+  }
+]

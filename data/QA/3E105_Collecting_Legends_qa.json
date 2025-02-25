@@ -1,0 +1,260 @@
+[
+  {
+    "question": "The level 2 fire genasi ranger with proficiency in history asks for a history check. The player rolls a 19 and adds a modifier of 4. What is the total?",
+    "answer": "The total is 23",
+    "rules": [
+      "Section: Using Ability Scores > Ability Checks",
+      "Section: Ability Scores and Modifiers > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The total of an ability check is the sum of the d20 roll and the relevant ability modifier. I was given that the d20 roll was 19 and that the ranger's history modifier was 4, which sums to 23."
+  },
+  {
+    "question": "Above the table question. Above the table question. What is the in-game reason the Bell Hells' need to go to the Amethyst Gulch Sierras?",
+    "answer": "Ludinus sent one of his simulacrum with the Sorrowlord to meet with Unseelie diplomats to broker an agreement with them.",
+    "rules": [],
+    "rules_explanation": "This question requires no knowledge of the rules but only facts reported in the gameplay transcript."
+  },
+  {
+    "question": "The Bright Queen says 'Athudashionus.' What kind of saving throw are those affected required to make?",
+    "answer": "A Charisma saving throw.",
+    "rules": [
+      "Section: Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "The silver dragon's presence caused the forum chamber to be affected by a Zone of Truth enchantment. Each creature inside the forum chamber when the spell was cast has to make a Charisma saving throw."
+  },
+  {
+    "question": "The 7th level Tiefling warlock rolls a 7 on a charisma saving throw to resist the effects of the zone of truth. Her charisma modifier is +10. Does she pass the saving throw?",
+    "answer": "No, her saving throw roll is a 17, failing to meet the required saving throw of 20",
+    "rules": [
+      "Section: Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "A saving throw is the sum of a d20 roll and an ability modifier. The player rolled a 7, and his charisma modifier is +10, so his saving throw is 17, failing to meet the required save of 20."
+  },
+  {
+    "question": "When Orym reveals seedling the party are telepathically connected. Can Laudna and Ashton carry on a separate telepathic conversation?",
+    "answer": "Yes, they can",
+    "rules": [],
+    "rules_explanation": "She can have individual conversations."
+  },
+  {
+    "question": "A Silver dragon is on the roof, the rogue has cast See Invisibility. What does the Rogue now see?",
+    "answer": "He sees six invisible golems on the support pillars and the invisible silver dragon latched onto the ceiling.",
+    "rules": [
+      "Section: Spellcasting > Reactions"
+    ],
+    "rules_explanation": "The statement doesn't appear as a direct rule but is inferred that they become visible when a character uses see invisibility."
+  },
+  {
+    "question": "What check is required to know about the saints of the Platinum Dragon?",
+    "answer": "A religion check is required to know about the saints of the Platinum Dragon.",
+    "rules": [
+      "Section: Using Ability Scores > Intelligence",
+      "Section: Using Ability Scores > Intelligence > Intelligence Checks > Religion"
+    ],
+    "rules_explanation": "The gameplay transcript specifies that a religion check is needed to determine information about the Platinum Dragon sainthoods."
+  },
+  {
+    "question": "What happens if Chetney, who has a strength modifier of 0, rolls a 12 on his persuasion check?",
+    "answer": "He gets a 12.",
+    "rules": [
+      "Section: Using Ability Scores > Ability Scores and Modifiers",
+      "Section: Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A persuasion check total is the sum of the modifier and the d20 roll, 12 + 0 = 12"
+  },
+  {
+    "question": "The Bright Queen has a discussion with the characters, which of these is she primarily doing?",
+    "answer": "She was primarily sitting during the opening and the ending of the events of the initial forum conversation.",
+    "rules": [],
+    "rules_explanation": "She hasn't moved far from where she was primarily sitting during the opening and the ending of the events of the initial forum conversation"
+  },
+  {
+    "question": "The characters wants to cast a Scry spell what level of spell is required?",
+    "answer": "A Scry spell is a 5th level divination spell.",
+    "rules": [
+      "Section: Spell Lists > Cleric Spells > 5th Level spells > Scrying",
+      "Section: Spell Lists > Druid Spells > 5th Level spells > Scrying",
+      "Section: Spell Lists > Wizard Spells > 5th Level spells > Scrying"
+    ],
+    "rules_explanation": "This question can be answered by reviewing the spell list for cleric, druid, or wizard (which are all the same) and locating Scrying"
+  },
+  {
+    "question": "Which of these options is correct about the range of  Imogen's open mind feature, while nearby the highbearer?",
+    "answer": "Only catches surface thoughts, difficult to place mistrust, just the seed of worry, and an intent to follow up when this conversation is done.",
+    "rules": [],
+    "rules_explanation": "This is described by the DM in the transcript and is not a general rule."
+  },
+  {
+    "question": "The Rogue wants to know if he can spot something of interest.  What ability is usually used to spot something?",
+    "answer": "Wisdom (Perception) is usually used to spot something.",
+    "rules": [
+      "Section: Using Ability Scores > Wisdom > Wisdom Checks > Perception"
+    ],
+    "rules_explanation": "You use Wisdom (Perception) to spot, hear, or otherwise detect the presence of something."
+  },
+  {
+    "question": "If Keyleth casts a transportation spell, can the group travel to multiple locations before sleeping.",
+    "answer": "Not enough information. It depends on the spell used and the spell duration.",
+    "rules": [],
+    "rules_explanation": "There are transportation spells with different durations. Without knowing which spell Keyleth is using, there is not enough information to make a judgement about how many places they could go."
+  },
+  {
+    "question": "A character has disadvantage on wisdom checks and is 5 ft away from a warlock. A power of the warlock makes the character roll a DC 10 Wisdom saving throw what does he roll? Assume no other effects are in play.",
+    "answer": "Roll 2d20 take the lower score and add any other bonuses, and compare the total to 10.",
+    "rules": [
+      "Section: Using Ability Scores > Advantage and Disadvantage",
+      "Section: Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "The character rolls a d20, with disadvantage which means they roll 2d20 and take the lower score, and then add their wisdom modifier and proficiency bonus if applicable to the roll to determine if the total is greater or equal to the save. If so the roll succeeds, otherwise it fails."
+  },
+  {
+    "question": "The party decide to travel to a new city. What kind of skill is used to navigate there?",
+    "answer": "Survival is used to navigate.",
+    "rules": [
+      "Section: Using Ability Scores > Wisdom > Wisdom Checks > Survival"
+    ],
+    "rules_explanation": "The GM might ask you to make a Wisdom (Survival) check to follow tracks, guide your group through frozen wastelands, or avoid quicksand and other natural hazards."
+  },
+  {
+    "question": "The Giant is going for a walk in difficult terrain.  How fast can he move?",
+    "answer": "He can move 20 ft.",
+    "rules": [
+      "Section: Movement > Difficult Terrain"
+    ],
+    "rules_explanation": "You move at half speed in difficult terrain so the giant's speed is halved from 40 ft. to 20 ft."
+  },
+  {
+    "question": "What is the average hit points and size of someone who dies in a lightning blast and is turned into a Silver Dragon?",
+    "answer": "Not enough information.",
+    "rules": [],
+    "rules_explanation": "The new hit points and the size depend on the age of the silver dragon."
+  },
+  {
+    "question": "What happens if Keyleth's old friends agree to assist?",
+    "answer": "Not enough information.",
+    "rules": [],
+    "rules_explanation": "The DM might then allow Bells Hells the choice on what happens. A great question to ask above the table."
+  },
+  {
+    "question": "An exalted ruidusborn is presented to the court.  What is her proper title in the crowd?",
+    "answer": "Exaltant Hope of the Red Storm",
+    "rules": [],
+    "rules_explanation": "Keyleth says as the presenter of Bells Hells: Imogen Temult, Exaltant Hope of the Red Storm."
+  },
+  {
+    "question": "What is the range of the Zone of Truth cast by the silver dragon?",
+    "answer": "This Zone of Truth extends to the center of the chamber.",
+    "rules": [],
+    "rules_explanation": "The silver dragon cast a faint expanding curtain of just barely visible golden energy and a wave washes past you, familiar to those of you who were partaking in your game the night before."
+  },
+  {
+    "question": "The warlock is about to go to sleep but they're having a difficult time making their preparations. Can anyone help them perform the ritual and what check is required?",
+    "answer": "The rules don't address other characters assisting with rituals, so it is up to the DM to decide if they can help and what ability check is required, if any.",
+    "rules": [
+      "Section: Spellcasting > Rituals"
+    ],
+    "rules_explanation": "There are no set rules governing another character helping, but you may apply common sense by drawing on the rules from Working Together."
+  },
+  {
+    "question": "If the characters decide to take a long rest, what is the condition for not benefiting from that rest?",
+    "answer": "If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, casting spells, or similar adventuring activity—the characters must begin the rest again to gain any benefit from it.",
+    "rules": [
+      "Section: Resting > Long Rest"
+    ],
+    "rules_explanation": "The rule for what disrupts a long rest is verbatim in the SRD."
+  },
+  {
+    "question": "To calculate the carrying capacity what modifier is needed and what do you multiply it by?",
+    "answer": "You need your strength modifier and multiply it by 15.",
+    "rules": [
+      "Section: Using Ability Scores > Strength > Lifting and Carrying > Carrying Capacity",
+      "Section: Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The carrying capacity is the Strength score multiplied by 15."
+  },
+  {
+    "question": "What does the successful DC 15 history check from Orym reveal about the Whitestone logo?",
+    "answer": "There is nothing said about the Whitestone logo on a successful check of 15. The check was a 32 (20+12)",
+    "rules": [
+      "Section: Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "While a roll for history is made there was not a history check made on the Whitestone logo. The history check was done in relation to scanning a crowd"
+  },
+  {
+    "question": "What's the modifier that's added to a Charisma saving throw?",
+    "answer": "The character's Charisma modifier is added to their Charisma saving throw.",
+    "rules": [
+      "Section: Using Ability Scores > Ability Scores and Modifiers",
+      "Section: Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "You add the appropriate ability modifier to the d20 roll for saving throws. In this case, the saving throw is a Charisma saving throw, so the Charisma modifier is added."
+  },
+  {
+    "question": "If Travis makes a successful persuasion check with Chetney, do other members of the party also get inspiration?",
+    "answer": "No, Travis is the only player that can be awarded inspiration",
+    "rules": [
+      "Section: Inspiration > Gaining Inspiration",
+      "Section: Inspiration > Using Inspiration"
+    ],
+    "rules_explanation": "Your GM can choose to give you inspiration for a variety of reasons. Each player has only one inspiration."
+  },
+  {
+    "question": "What are the possible choices of artisan tools to gain proficiency with for the Dwarf race?",
+    "answer": "smith's tools, brewer's supplies, or mason's tools.",
+    "rules": [
+      "Section: Races > Dwarf > Dwarf Traits > Tool Proficiency"
+    ],
+    "rules_explanation": "The dwarf race has proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools."
+  },
+  {
+    "question": "Does the description of the Oath of Devotion mention something about a holy weapon?",
+    "answer": "Yes, there is a Channel Divinity option called Sacred Weapon.",
+    "rules": [
+      "Section: Classes > Paladin > Sacred Oath > Oath of Devotion > Channel Divinity"
+    ],
+    "rules_explanation": "The Oath of Devotion's Channel Divinity option is Sacred Weapon. As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. "
+  },
+  {
+    "question": "Given the presence of a zone of truth, what rolls are Sam and Travis required to make after Braius says he was a faithful acolyte of the Platinum Dragon but was sent away for shame?",
+    "answer": "There is not enough information, the DM might call for a roll.",
+    "rules": [
+      "Section: Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Based on the SRD, the DM might use the result of a Persuasion or Deception check as a factor in an NPC's reaction."
+  },
+  {
+    "question": "An 18th-level Monk of the Open Hand uses Wholeness of Body. How many hit points does he regain?",
+    "answer": "He regains 54 hit points.",
+    "rules": [
+      "Section: Classes > Monk > Monk Traditions > Way of the Open Hand > Wholeness of Body"
+    ],
+    "rules_explanation": "At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. So 3 * 18 = 54"
+  },
+  {
+    "question": "How is the DC calculated for the Dragonborn's breath weapon saving throw?",
+    "answer": "DC = 8 + Constitution modifier + proficiency bonus",
+    "rules": [
+      "Section: Races > Dragonborn > Draconic Ancestry > Breath Weapon"
+    ],
+    "rules_explanation": "The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus."
+  },
+  {
+    "question": "A Level 1 Warlock with the fiend subclass was hit by an attack and was brought down to 0 hp from the attack, is the warlock down?",
+    "answer": "More information is needed to determine if the warlock is down. If the damage was less then the max hit points then it would result in exhaustion of 1 and the warlock is not down. If it was more than 1x max hp then warlock would be down.",
+    "rules": [
+      "Section: Classes > Warlock > Class Features > 1st Level > Otherworldly Patron: Fiend",
+      "Section: Combat > Damage and Healing > Dropping to 0 Hit Points > Instant Death"
+    ],
+    "rules_explanation": "The fiend subclass has Dark One's Blessing which gives temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1). The warlock was reduced to 0, but if there was damage remaining that was greater than the maximum hit points, then the warlock would be killed outright; otherwise, the temporary hit points could prevent the Warlock from dropping."
+  },
+  {
+    "question": "A high elf with a dexterity modifier of +2 and keen senses wants to find a hidden object, what is the roll and target DC and bonuses, if any?",
+    "answer": "You make a Wisdom (Perception) check and add the proficiency bonus. If the target is within darkvision, nothing changes about the roll.",
+    "rules": [
+      "Section: Races > Elf > Elf Traits > Keen Senses",
+      "Section: Using Ability Scores > Ability Checks",
+      "Section: Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The elf is proficient in the Perception skill, which is related to Wisdom checks. To find a hidden object, you'd make a Wisdom (Perception) check, so the proficiency applies to the roll. It isn't clear if the target is in darkness, though even if it was, there'd be no bonus because a high elf doesn't have darkvision."
+  }
+]

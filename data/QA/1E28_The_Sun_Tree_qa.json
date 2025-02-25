@@ -1,0 +1,124 @@
+[
+  {
+    "question": "Does a level 11 Ranger/Druid have advantage on a dexterity saving throw against a lightning attack due to the combination of a Ranger favored terrain in mountains and being a druid?",
+    "answer": "A ranger does gain advantage on Dexterity saving throws when in its favored terrain but Vex does not get advantage on saving throws because of her favored terrain. It only affects attacks.",
+    "rules": [
+      "Races Racial Traits",
+      "Ranger > Class Features"
+    ],
+    "rules_explanation": "advantage on dexterity checks in mountian terain applies to the skills listed in the section Racial traits, and not all skill checks."
+  },
+  {
+    "question": "Can a 12th-level Barbarian use Stone's Endurance to reduce the damage from a Lightning Breath attack?",
+    "answer": "Yes, level 12 Barbarian can use Stone's Endurance.",
+    "rules": [
+      "Classes > Barbarian > Class Features"
+    ],
+    "rules_explanation": "Classes can use the powers available at their current level."
+  },
+  {
+    "question": "Can a 12th-level Ranger/Druid use a bonus action to feed a healing potion to their animal companion?",
+    "answer": "The question was not explicitly answered but implied that it would take an action to feed a potion to something else",
+    "rules": [],
+    "rules_explanation": "A direct reference to the feeding another creature is not found in the basic rules."
+  },
+  {
+    "question": "When the level 11 rogue with boots of haste clicks their heels together, how many attacks do they get?",
+    "answer": "3 attacks",
+    "rules": [],
+    "rules_explanation": "This is a description of how the player chose to use the boots of haste"
+  },
+  {
+    "question": "Can a ranged attack be made when in melee range with disadvantage?",
+    "answer": "Yes, but you have disadvantage on all your ranged attacks because you are in melee range.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "The rules specify that being within 5 feet of a hostile creature that can see you imposes disadvantage on ranged attack rolls."
+  },
+  {
+    "question": "Can a level 11 Ranger/Druid use Hide behind another character?",
+    "answer": "No, behind a person doesn't work. It has to be, like, behind a pillar Or in deep shadow.  Something that would break your line of sight to it For a moment, to the point where it no longer knows quite where you are.",
+    "rules": [
+      "Combat > Actions in Combat > Hide"
+    ],
+    "rules_explanation": "The rules for the hide action specify that you must be behind something that breaks line of sight"
+  },
+  {
+    "question": "When making an athletics check to break a grapple as a restrained creature, what is the modifier that is added to the d20 roll?",
+    "answer": "The athletics check is made by adding your Strength modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Athletics is a strength based skill and so uses the strength modifier"
+  },
+  {
+    "question": "Does a level 12 Goliath Barbarian get advantage on an athletics check because the character is in the mountains?",
+    "answer": "No, that is a ranger ability, not a goliath ability.",
+    "rules": [
+      "Races > Goliath > Stone's Endurance",
+      "Ranger > Favored Terrain"
+    ],
+    "rules_explanation": "The racial abilities of the goliath race do not provide advantage in mountain terrain, but the ranger class does in their favored terrain."
+  },
+  {
+    "question": "Does the Sharpshooter feat allow the player to ignore the partial cover provided to the creature?",
+    "answer": "Yes, that is correct.",
+    "rules": [
+      "Feats"
+    ],
+    "rules_explanation": "The rules do not specify which feat is allowing the ignoring of cover, and there are no details for the feat in the provided rules. The question was answered by the DM with no feat name."
+  },
+  {
+    "question": "Can the gunslinger's bonus action be used to pick up the pieces of a misfired gun and repair it?",
+    "answer": "You can use your bonus action to collect Pepperbox and you pull your back up to it and mutter curses, but the action needs to be to repair the gun.",
+    "rules": [],
+    "rules_explanation": "The transcript describes a homebrew ruling for a custom class, the gunslinger, which is not part of the SRD."
+  },
+  {
+    "question": "does a failed roll for telekinesis break concentration?",
+    "answer": "No, you can maintain concentration.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "Concentration is broken only under specific circumstances, and a failed ability check is not one of them"
+  },
+  {
+    "question": "If a bonus action has been used to make a repair roll, does that mean another spell can be cast in the same turn?",
+    "answer": "No, you can maintain concentration.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "Only a cantrip with a casting time of 1 action can be cast on the same turn as a bonus action spell"
+  },
+  {
+    "question": "How does Vex hide?",
+    "answer": "At the end of the turn. [To] be behind something to reasonably become hidden.  Like, behind a pillar.  Or in deep shadow. Something that would break your line of sight to it For a moment, to the point where it no longer knows quite where you are.",
+    "rules": [
+      "Combat > Actions in Combat > Hide"
+    ],
+    "rules_explanation": "The rules for the Hide action specify that it involves breaking line of sight."
+  },
+  {
+    "question": "What modifier is added to an athletics check to climb the mountain?",
+    "answer": "This would be athletics.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Athletics is the strength based skill to perform the described task"
+  },
+  {
+    "question": "Does advantage apply to an Athletics check for Trinket?",
+    "answer": "He gets disadvantage because he's a big bear.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The GM, is determining that disadvantage applies based on the bear's physiology"
+  },
+  {
+    "question": "Can a character attuned to the broken Pepperbox use a bonus action to pick up the pieces and repair it?",
+    "answer": "Yeah.",
+    "rules": [],
+    "rules_explanation": "The transcript does not include the relevant rule. This would be based on a homebrew gunslinger class."
+  }
+]

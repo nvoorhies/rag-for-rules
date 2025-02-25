@@ -1,0 +1,103 @@
+[
+  {
+    "question": "Can the Level 5 [class] with Divine Magic use Mending on the broken wheels?",
+    "answer": "Yes, the Level 5 [class] knows the Mending cantrip.",
+    "rules": [
+      "Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "The Level 5 [class] has been identified as having a spell casting ability in the transcript. If the character has the 'Mending' cantrip prepared, and is capable of performing somatic and verbal components, the cantrip can be cast."
+  },
+  {
+    "question": "If a wheel is previously partially damaged and then fixed by another repair technique can the Level 5 [class] with Divine magic attempt to then fix the damaged wheel with mending?",
+    "answer": "If the gap created by the damage is small enough to be encompassed by the Mending cantrip then yes, Mending may be used to fix the wheel.",
+    "rules": [
+      "Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "The Level 5 [class] has been identified as having a spell casting ability in the transcript. If the character has the 'Mending' cantrip prepared, and is capable of performing somatic and verbal components, the cantrip can be cast."
+  },
+  {
+    "question": "If the party takes the medium pace, and later in the day two Level 6 [class] characters take a watch together, does the second character give advantage to the first character's watch perception roll?",
+    "answer": "Yes, as the second character is aiding the first.",
+    "rules": [
+      "Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "The rules for \"Working Together\" state that one character can aid another, granting advantage on the ability check."
+  },
+  {
+    "question": "When the army is nearby, the Level 4 [class] uses Mage Hand to attempt to steal from saddlebags. Does his roll need to include any additional modifiers?",
+    "answer": "Yes, the Dexterity (Sleight of Hand) check will have disadvantage because of the situation.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Part I: The Mighty Nein > Nott attempts to pickpocket > DM's adjudication"
+    ],
+    "rules_explanation": "Sleight of Hand is a skill related to Dexterity, so the player adds their Dexterity modifier. The DM can impose disadvantage on the roll due to circumstance."
+  },
+  {
+    "question": "If the Level 6 [class] casts Enthrall and a target fails its saving throw, what are the effects?",
+    "answer": "The target has disadvantage to perceive any creatures other than the caster until the spell ends.",
+    "rules": [
+      "Spell Descriptions > Enthrall",
+      "Part I: Enthralling the Gator > Matt describes the effect."
+    ],
+    "rules_explanation": "The fully ability is stated in the spell description."
+  },
+  {
+    "question": "If the army regiment ahead contains Righteous Brand soldiers, and the Level 6 [class] attempts to Disguise Self as one of those soldiers to fit in, does he need to make an ability check?",
+    "answer": "No, the *disguise self* spell does not require an ability check.",
+    "rules": [
+      "Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "The fully ability is stated in the spell description."
+  },
+  {
+    "question": "The Level 5 [class] is attacked by a gator and is caught in its jaws. How does the damage get applied, and can the Level 5 [class] use Uncanny Dodge?",
+    "answer": "The Level 5 [class] suffers the piercing damage from the bite attack, and is grappled. The Level 5 [class] can use Uncanny Dodge to halve the damage from the bite. After using Uncanny Dodge, they will take the halved piercing damage.",
+    "rules": [
+      "Combat > Reactions",
+      "Classes > Rogue > Uncanny Dodge",
+      "Conditions > Grappled"
+    ],
+    "rules_explanation": "Damage is applied and can be halved according to the Uncanny Dodge rules. Being grappled only restricts movement."
+  },
+  {
+    "question": "A gator is charmed and has disadvantage on perception. When a character tries to sneak by the gator, and the gator is focused on another character, does the stealth check get advantage?",
+    "answer": "The stealth check does not get advantage, but the gator has disadvantage on perception.",
+    "rules": [
+      "Spell Descriptions > Enthrall",
+      "Part I: Enthralling the Gator > Matt describes the effect."
+    ],
+    "rules_explanation": "Only specific spells or abilities grant Advantage to a roll, but the Enthrall spell does specify a Disadvantage on perception for other targets."
+  },
+  {
+    "question": "The Captain has just returned with two men, who are in similar colors as the Righteous Brand regiment, but not in armor. They carry large packs on their side, and [player] states \"They get of the horse\". Is getting off a horse a movement cost, an action, or can they just do that?",
+    "answer": "Generally, mounting and dismounting a willing creature only costs movement but the GM can reasonably expect a character to use an action for more complicated dismounting.",
+    "rules": [
+      "Combat > Movement and Position > Mounting and Dismounting"
+    ],
+    "rules_explanation": "The time it takes to mount or dismount a willing creature only costs movement, but the circumstances here are unspecified. So, the GM can reasonably expect the two men here to use an action for more complicated dismounting."
+  },
+  {
+    "question": "For the Mending spell, does the target area increase at level 5?",
+    "answer": "No. The Mending spell effect can repair a single break or tear in an object that you touch that is up to 1 foot in any dimension, and that never increases.",
+    "rules": [
+      "Spell Descriptions > Mending"
+    ],
+    "rules_explanation": "The Mending spell description states the effects of the spell and has no increased target area with level."
+  },
+  {
+    "question": "When does haste end?",
+    "answer": "The Haste spell duration is listed on the spell. Also stated is when concentration is broken, and the penalty if the spell ends before the stated duration.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The spell duration describes when a spell ends, and the circumstances that can change it."
+  },
+  {
+    "question": "Does the haste effect end immediately when unconscious?",
+    "answer": "Yes, you lose concentration on a spell if you are incapacitated or if you die.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "Concentration is immediately broken if a character is reduced to 0 hit points."
+  }
+]

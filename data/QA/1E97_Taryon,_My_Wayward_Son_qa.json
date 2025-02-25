@@ -1,0 +1,75 @@
+[
+  {
+    "question": "What is the range on the Locate Object spell?",
+    "answer": "The range on Locate Object is 1,000 feet.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Locate Object > Range"
+    ],
+    "rules_explanation": "The range of the locate object is described in the range section of the spell description.  The given response is correct"
+  },
+  {
+    "question": "When Vex casts Cure Wounds at 3rd level, how many dice are rolled for the healing, and what ability modifier is added?",
+    "answer": "Vex rolls 3d8 and adds her Wisdom modifier.",
+    "rules": [
+      "Spellcasting > Casting a Spell at a Higher Level",
+      "Spellcasting > Spell Descriptions > Cure Wounds"
+    ],
+    "rules_explanation": "Vex is casting cure wounds. Casting a spell at a higher level increases the number of dice rolled. The description in Cure Wounds states that you add your spellcasting ability modifier to healing provided by the spell."
+  },
+  {
+    "question": "How much does a Revivify cost in gold?",
+    "answer": "The Revivify spell consumes a diamond worth 300 gold.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Revivify > Components"
+    ],
+    "rules_explanation": "The components list for revivify specifies the gold price of the required diamond."
+  },
+  {
+    "question": "What is the effect of a failed wisdom modifier save from a scrying spell?",
+    "answer": "The scrying spell has no Wisdom saving throw.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Scrying"
+    ],
+    "rules_explanation": "Reviewing the description of the Scrying spell shows that it does not have a Wisdom saving throw. The player is likely mistaking this for another spell"
+  },
+  {
+    "question": "Can the 11th-level Keyleth cast a scrying spell?",
+    "answer": "Yes. It is a 5th-level spell, and she has slots of that level.",
+    "rules": [
+      "Spellcasting > Spell Slots",
+      "Druid > The Druid > Table"
+    ],
+    "rules_explanation": "The question is about whether or not Keyleth can cast the scrying spell. Checking her level on the druid table indicates that at 11th level, she has slots of 5th level or higher to cast the spell."
+  },
+  {
+    "question": "If a sharpshooter were firing a ranged weapon attack with disadvantage from 3/4 cover, does the sharpshooter feat remove the cover modifier?",
+    "answer": "No, The sharpshooter feat does not nullify disadvantage.",
+    "rules": [
+      "Feats > Sharpshooter",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Sharpshooter has rules that ignore 1/2 cover and 3/4 cover but it does not cancel disadvantage as it's modifier.  You can't have more than one additional d20 when rolling with advantage and disadvantage."
+  },
+  {
+    "question": "Does a character have to be on the same plane of existence to use a crystal to communicate with another character?",
+    "answer": "Yes, you have to be on the same plane of existence.",
+    "rules": [],
+    "rules_explanation": "Rules for interplanar communications are not covered in the SRD and would require consulting other rules outside of that scope to correctly answer."
+  },
+  {
+    "question": "In the Wind Walk spell, does the transformation affect the ability to concentrate on other spells?",
+    "answer": "Yes. Transforming into a cloud of mist requires concentration, so you could not concentrate on another spell at the same time.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "A second concentration spell cast during another concentration will cause the first to stop functioning, and wind walk requires concentration"
+  },
+  {
+    "question": "Does sharp shooter ability remove disadvantage from an attack roll against 3/4 cover?",
+    "answer": "No. Sharpshooter removes modifiers from cover but doesn't nullify disadvantage",
+    "rules": [
+      "Feats > Sharpshooter"
+    ],
+    "rules_explanation": "The sharpshooter ability removes low cover and partial cover but does not remove disadvantage."
+  }
+]

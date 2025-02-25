@@ -1,0 +1,196 @@
+[
+  {
+    "question": "After the Antimagic Field effect ends, the DM states that the NPC was an inch and a half off the ground, what is the explanation for this if the field was suppressing magical effects?",
+    "answer": "The NPC normally floats. The Antimagic Field suppressed that ability while it was active, and the floating resumed when the field ended.",
+    "rules": [
+      "Magic Items > Attunement",
+      "Appendix MM-A: Miscellaneous Creatures > Special Traits > Antimagic Susceptibility"
+    ],
+    "rules_explanation": "The question refers to suppressing or restoring the item, not creating any effects as if it was a magical item. Antimagic Susceptibility means the NPC is incapacitated."
+  },
+  {
+    "question": "A large number of checks are made, and asks the players to make a group persuasion check. Which group rolls a 25?",
+    "answer": "A roll of 13 + the ability modifier yields 25.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Proficiency Bonus",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A roll of 13 + the ability modifier yields 25. The player rolls a d20, and adding their Intelligence, Wisdom, or Charisma modifier. It does not imply advantage."
+  },
+  {
+    "question": "A level 5 rogue is given a porno book as a gift from a shopkeeper. When asked if she's given something, how much does it increase her roll?",
+    "answer": "The roll is increased by 2, since she is level 5, and the rogue proficiency bonus is +3. The roll increases to 33.",
+    "rules": [
+      "Rogue > Proficiency Bonus"
+    ],
+    "rules_explanation": "The roll is increased by 2, since she is level 5, and the rogue proficiency bonus is +3. Since a natural 20 is rolled, the value becomes 20 + the proficiency bonus of +3, with a Charisma score modifier is +0. The roll is 23, not 33."
+  },
+  {
+    "question": "After Laura, a level 5 sorcerer, rolls a 20 for a persuasion check to get an extra book for giving the shopkeeper 2 gold, does she get an extra book in addition to the first?",
+    "answer": "The persuasion check allows her to get another item or benefit at the DM's discretion.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A roll of 20 is a critical success, and the DM chooses to give her a book of her preference in addition to the first."
+  },
+  {
+    "question": "If they are going to Eiselcross and there are \"no towns, no cities\" then what supplies should they get for the cold?",
+    "answer": "The DM recommends bringing cloaks, getting heavy furred boots, anything to wear over themselves to keep themselves extremely warm.",
+    "rules": [],
+    "rules_explanation": "This question is asking for setting specific information and does not contain any rules information."
+  },
+  {
+    "question": "A player asks, \"Do we need gear to suck into the funnel\" what do they mean? What do they want to know if they found?",
+    "answer": "It is unclear what they mean.",
+    "rules": [],
+    "rules_explanation": "There is no information on what the \"funnel\" is, or what kind of gear they are referring to. There is nothing to resolve this question with in the SRD."
+  },
+  {
+    "question": "A player rolls and gets a natural 20 during a persuasion check during clothing shopping, what should the shopkeeper do?",
+    "answer": "The shopkeeper should provide something special based on the check. This is determined at the discretion of the GM.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A natural 20 is a critical success, and the DM chooses to give her a special book on sale."
+  },
+  {
+    "question": "A character in the game says, \"Sorcerers can wear [armor], that will raise AC?\", what should Matt say?",
+    "answer": "Armor does raise AC, it is possible but unusual for Sorcerers to wear armor. The player should be given a possible answer to what was asked.",
+    "rules": [],
+    "rules_explanation": "The player is asking for setting specific information and does not contain any rules information."
+  },
+  {
+    "question": "The DM asks, \"The two who were talking. Make a persuasion check with advantage.\". There is a roll and a result, but one of the players says \"Would you consider that cocked or no?\". What does the player mean?",
+    "answer": "It is unclear what the player means, but he may be asking if a die landed with a biased roll.",
+    "rules": [],
+    "rules_explanation": "There is no indication of what \"cocked\" may mean as a rules phrase in the D&D SRD."
+  },
+  {
+    "question": "A character is found to have 3900 gold and 12 platinum coins on their person in a bag of holding. How many gold pieces total do they have?",
+    "answer": "3900 + (12 * 10) = 4020 gold pieces",
+    "rules": [],
+    "rules_explanation": "Conversion of currency: Platinum is 10 gold pieces."
+  },
+  {
+    "question": "After examining a bottle of slickshimmer oil and making gestures with runes a shopkeeper values it at 400 gold. Laudna questions this and is asked to make a persuasion check, what is happening in the game?",
+    "answer": "The player is making a persuasion check in order to obtain the bottle of slickshimmer oil at a lower price than 400 gold. This is done at the discretion of the DM.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DC is not specified, it can be assumed that 19's roll has a lower value if the roll is not sufficient to meet the check."
+  },
+  {
+    "question": "One character is going to give another character all of their money, how much money are they giving?",
+    "answer": "They are giving Orym 2500 gold pieces.",
+    "rules": [],
+    "rules_explanation": "While the character has 22 silver and a lot of items it's specified that this is all but those coins."
+  },
+  {
+    "question": "The DM says, \"It does give you plus two to attack and damage rolls with the arrows you fire from it.\", what is the thing that does that?",
+    "answer": "It is a harp.",
+    "rules": [],
+    "rules_explanation": "The DM has said that in reference to the properties of the harp of valor."
+  },
+  {
+    "question": "A potion of speed is available, how long does it last and what does it do?",
+    "answer": "The Pumat Sol says that the potion of speed, \"baby and you'll be running all over for about a minute, just getting quick and doing things even quicker.\"",
+    "rules": [],
+    "rules_explanation": "The DM has said what it does, although that is information from that specific world's setting and not a D&D rule."
+  },
+  {
+    "question": "It is stated by the DM \"For this one, if you aren't wearing armor, your base armor class becomes 14 plus your dex modifier.\", what thing is that?",
+    "answer": "It is the Robe of the Midnight Rune.",
+    "rules": [],
+    "rules_explanation": "This is the description of an item in the world and not related to the rules."
+  },
+  {
+    "question": "After Laura, a level 5 Sorcerer, casts detect thoughts, one of the NPCs states, \"You're one of them head-talkers.\", what feature did she use?",
+    "answer": "She used Detect Thoughts.",
+    "rules": [
+      "Magic > Divination > Detect Thoughts"
+    ],
+    "rules_explanation": "It was clearly stated in the text as the action that the PC took."
+  },
+  {
+    "question": "Laudna used Minor Illusion, the Pumat Sols were trying to give them a deal, what did she do?",
+    "answer": "I will unhook the Reiloran behemoth finger yet again from my belt buckle.",
+    "rules": [
+      "Magic > Illusion > Minor Illusion"
+    ],
+    "rules_explanation": "Reiloran behemoth finger yet again from my belt buckle is from Season 1 of Exandria Unlimited: Calamity. Laudna unhooks it, uses illusion to show what somebody who lives on the moon looks like."
+  },
+  {
+    "question": "Essek hands the finer looking key to Ashley but then Travis immediately challenges her for it, what is happening?",
+    "answer": "The players are deciding to share the key or which of them keeps it.",
+    "rules": [],
+    "rules_explanation": "This is a role-playing description."
+  },
+  {
+    "question": "Ashley's character Fearne rolls a 20. Travis rolls a 17. Who gets the key?",
+    "answer": "Ashley gets the key, because 17 is smaller than 20.",
+    "rules": [],
+    "rules_explanation": "It's a high-roll wins roll."
+  },
+  {
+    "question": "The description of the Robe of the Midnight Rune says, \"For this one, if you aren't wearing armor, your base armor class becomes 14 plus your dex modifier.\", what happens if you are wearing armor?",
+    "answer": "If the wearer is wearing armor, it does not effect the armor class.",
+    "rules": [
+      "Equipment > Armor"
+    ],
+    "rules_explanation": "The robe says, \"If you aren't wearing armor.\", therefore it has no affect while wearing armor. The wearer must not be wearing armor for the magical benefit to take affect."
+  },
+  {
+    "question": "A character, Orym, with two weapons attached to their back is hit with a spell that causes him to take initial damage and also have after effects, what effects should the player consider?",
+    "answer": "The DM says Orym is, \"feeling both dark, strange pain.\"",
+    "rules": [
+      "Magic > Spellcasting"
+    ],
+    "rules_explanation": "Since the source of damage was a spell, the player should be wary of the properties of any spell effecting him that may effect the target."
+  },
+  {
+    "question": "A character in a party of mixed alignments is being approached by a fellow party member who wishes to take a relic from their person. How many saving throws should be made and by whom?",
+    "answer": "There is no rule stating that you need to succeed on a saving throw in order to take an object. It is a sleight of hand versus perception contest.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "Depending on the size and placement of the relic and the conditions the one removing the relic would require a Sleight of Hand check. There is no save involved."
+  },
+  {
+    "question": "With both Otohan's blade and Seedling melded onto Orym's back, Laudna's character makes contact with the blade then there is a trigger where the DM asks for Orym to roll a perception check. What should happen in this situation?",
+    "answer": "Orym makes a perception check. If Laudna is trying to remove it there should be a sleight of hand check made by Laudna.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "Since Laudna made contact, Orym should be given the opportunity to make a perception check to determine whether she stole it. If she did succeed in steeling it, it's now her turn to try and wield the blade"
+  },
+  {
+    "question": "With the setting now in darkness, what does the DM recommend the characters use to see?",
+    "answer": "No advice is given, the setting is more to the result of actions and has no direction.",
+    "rules": [],
+    "rules_explanation": "The setting is primarily to set the mood. There is no mention of the DM providing options or what courses of action should be done or what gear to use."
+  },
+  {
+    "question": "Laura says, \"We get two superiors. So we have, since there's one right there on the table...\", what is she referring to?",
+    "answer": "Potion of superior healing.",
+    "rules": [],
+    "rules_explanation": "Superior, when referring to a group, means Superior Healing Potion."
+  },
+  {
+    "question": "If you do what Windseer Crux says, does that means you just have high rolls?",
+    "answer": "No. Windseer does not provide a high roll, but that you are working with the behest of what their request.",
+    "rules": [],
+    "rules_explanation": "It is inferred that the party is fulfilling a contract in the region, and to please them it would help the campaign."
+  },
+  {
+    "question": "What is a 'Zemnian Frankfurter'?",
+    "answer": "It is the DM's choice.",
+    "rules": [],
+    "rules_explanation": "There is not reference to this phrase in the 5e SRD documents. It's something from the setting."
+  }
+]

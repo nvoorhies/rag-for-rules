@@ -1,0 +1,199 @@
+[
+  {
+    "question": "The Level 11, Class Barbarian with Strength 18 is raging. Can the Level 1, Class Bard use Guidance to add to their Dispel Magic roll?",
+    "answer": "Yes, Guidance can be used in this instance.",
+    "rules": [
+      "Spellcasting > What Is A Spell > Range",
+      "Section MM-A: Miscellaneous > Nonplayer Characters > Acolyte > Spellcasting > The description of that casting is a spell’s basic parameters."
+    ],
+    "rules_explanation": "The Guidance spell has a range of Touch, meaning the target must be within range to receive the effects. As the players are within range, the spell can be cast. As spellcasting is a rules question the conditions which break concentration also apply to the question."
+  },
+  {
+    "question": "A Level 11, Class Barbarian with Strength 18 has a Blood Brand Sigil seared on their chest. Does the Level 11, Class Barbarian with Strength 18 need to remove their clothes so a spell caster can Dispel Magic?",
+    "answer": "No, clothes do not impede the ability to cast Dispel Magic.",
+    "rules": [
+      "Spellcasting > Components",
+      "Appendix MM-A: Miscellaneous > Nonplayer Characters > Acolyte > Spellcasting > A spell’s components are the physical requirements you must meet in order to cast it."
+    ],
+    "rules_explanation": "As there are no material, somatic, or verbal components that would be impeded by clothing, the spell may be cast without removing clothing."
+  },
+  {
+    "question": "A Level 1, Class Bard tries to Scry, but is interrupted by a hostile force. Can the Level 1, Class Bard add to this roll?",
+    "answer": "A Level 1, Class Bard does not have access to the Scry ability, as it is not available at this level.",
+    "rules": [
+      "Bard > Spellcasting > Spells Known of 1st Level and Higher",
+      "Bard > Spellcasting > Bard Spell List",
+      "Appendix MM-A: Miscellaneous > Nonplayer Characters > Acolyte > Spellcasting"
+    ],
+    "rules_explanation": "As the Level 1, Class Bard does not have the Scry ability, the spell is not possible for this character."
+  },
+  {
+    "question": "A number of people wish to take a short rest after a battle in a crevice. A Level 9, Class Cleric is present. What is the effect of Song of Rest on a short rest and what dice are rolled?",
+    "answer": "The Song of Rest and short rest are features of different classes and do not interact. A short rest is at least 1 hour long and is a period of downtime, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds. A cleric would regain spell slots. Song of Rest increases the Hit Dice regained during a short rest by 1d8.",
+    "rules": [
+      "Resting > Short Rest",
+      "Bard > Song of Rest"
+    ],
+    "rules_explanation": "This determines whether any of the conditions change due to the existence of the song of rest, which it does not."
+  },
+  {
+    "question": "A Level 9, Class Cleric casts Bless. What are the range and effects of that ability?",
+    "answer": "Bless has a range of 30 feet. Everyone within 30 feet of the caster gets a d4 on all saves and attacks.",
+    "rules": [
+      "Spellcasting > What is a spell > Range",
+      "Spellcasting > Bard Spell List",
+      "Appendix MM-A: Miscellaneous > Nonplayer Characters > Acolyte > Spellcasting"
+    ],
+    "rules_explanation": "This defines the range and determines what dice are rolled for this roll"
+  },
+  {
+    "question": "A Level 11, Class Barbarian is hasted. How many attacks can they take on the attack action.",
+    "answer": "A level 11, Class Barbarian that is hasted can take three attacks, as well as taking an extra action.",
+    "rules": [
+      "Barbarian > Class Features > Extra Attack",
+      "Spellcasting > Spell Descriptions > Haste"
+    ],
+    "rules_explanation": "This uses information to determine how many attack the hasted player gets as well as what extra actions the hasted player gets"
+  },
+  {
+    "question": "A Level 11, Class Barbarian with Rage with Savage Attacker and with weapon that causes a Brutal Critical that is hasted and holding a Holy Avenger strikes a Zombie Frost Giant with a melee attack. They have a strength of 18 for a +4 modifier, and are blessed. How is damage rolled?",
+    "answer": "The attack roll consists of the base damage, rage damage, Brutal Critical Dice, and a savage Attacker die from the weapon attack, a Holy Avenger bonus, and a Bless die.",
+    "rules": [
+      "Barbarian > Rage",
+      "Barbarian > Brutal Critical",
+      "Appendix MM-A: Miscellaneous > Nonplayer Characters > Acolyte > Spellcasting",
+      "Spellcasting > Bard Spell List"
+    ],
+    "rules_explanation": "All of the information is put together to form the dice to be rolled for this check."
+  },
+  {
+    "question": "A Level 11, Class Barbarian has performed an athletics check in order to end the effects of a grapple. What modifiers can apply to that check roll?",
+    "answer": "A Level 11, Class Barbarian's athletics roll modifiers are their strength modifier and a d4 from Bless.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Bless",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This determines all dice that will be rolled in the check"
+  },
+  {
+    "question": "A paralyzed Level 1, Class Bard is attacked by a Skeletal Zombie Frost Giant. What is the effect of a hit on a paralyzed player?",
+    "answer": "A hit on a paralyzed player is an automatic critical hit.",
+    "rules": [
+      "Appendix PH-A: Conditions > Paralyzed"
+    ],
+    "rules_explanation": "That they are paralyzed means that the hit is an automatic critical."
+  },
+  {
+    "question": "A Skeletal Zombie Frost Giant is hit with Thunder Step and fails its save. What damages are applied, and to whom are they applied?",
+    "answer": "All combatants within 10 feet of the Thunder Step must make a Consitution saving throw of 18 or take 5d10 thunder damage. Those that save take half damage.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Thunder Step"
+    ],
+    "rules_explanation": "The rules in that section describe the spell and its effects."
+  },
+  {
+    "question": "A Level 1, Class Bard is asked to carve out a pocket in snow, so they can relax and try to focus. While doing this, what ability check could be called?",
+    "answer": "With the provided information, no ability check is necessary.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Ability checks are only required if the DM calls for it. The player is describing an action that has no obvious chance of failure and therefore needs no roll."
+  },
+  {
+    "question": "Can a ranger, in the setting and in the moment be aware if they were badly stealthed?",
+    "answer": "The Ranger does not have an inherent sense that tells them how well their attempts to be stealthy are performing. The DM decides when a character can make a perception check.",
+    "rules": [
+      "Using Ability Scores > Passive Checks"
+    ],
+    "rules_explanation": "This confirms that you are not necessarily aware and that it's up to the GM to give that information."
+  },
+  {
+    "question": "Level 9, Class Cleric makes an insight check, rolling 13. Do they determine if Dagon knows what he is talking about?",
+    "answer": "No, the roll result is 13. That is the final determination.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This confirms that Dagon knows what he is talking about"
+  },
+  {
+    "question": "Is a check required to apply a basic poison to 3 pieces of ammunition?",
+    "answer": "Yes, it requires an Action.",
+    "rules": [
+      "Equipment > Adventuring Gear > Poison, Basic"
+    ],
+    "rules_explanation": "The text in the SRD states:  Applying the poison takes an action. So, no check, just an action."
+  },
+  {
+    "question": "Level 5, Class Monk is asked what happens when they slow fall off of an 45 to 50 foot high cliff. What is the distance they take damage from?",
+    "answer": "When you take falling damage, you take 1d6 bludgeoning damage per 10 feet you fell. However, Slow Fall allows you to use your reaction when you fall to reduce the damage you take by 5 times your monk level.",
+    "rules": [
+      "The Environment > Falling",
+      "Monk > Slow Fall"
+    ],
+    "rules_explanation": "The falling rules dictates how much damage is taken. The Slow Fall rules indicate the specific reduction to the distance required to calculate the amount of dice to be rolled."
+  },
+  {
+    "question": "A Level 5 Class Veth makes an acrobatics check to run up a frost giant's arm. With that base roll, is it an automatic 20?",
+    "answer": "If a skill or other effect gives you an automatic success, then your roll is not modified from that.  So it will be an automatic 20.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "It's worth 10 + the total Dex and skill acrobatics bonuses. So that's a 10 + 10, which is a 20"
+  },
+  {
+    "question": "Is it permissible to roll a d4 for Guidance to apply to one's own roll?",
+    "answer": "No, Guidance affects another willing character.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Guidance"
+    ],
+    "rules_explanation": "The rules of Guidance only allow it to target a creature, which can't be the caster."
+  },
+  {
+    "question": "Is a bonus provided for being hasted in the damage of a weapon, and if not, what does being hasted apply to?",
+    "answer": "Haste does not apply to weapon attack damage. Haste doubles the target's speed, adds +2 bonus to AC, gives the target advantage on Dexterity saving throws, and grants an additional action on each of its turns.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Haste"
+    ],
+    "rules_explanation": "The SRD entry for Haste does not allow a bonus for weapon attack damage."
+  },
+  {
+    "question": "A creature uses cunning action. How does the stealth action change?",
+    "answer": "The action can be used as a bonus action.",
+    "rules": [
+      "Rogue > Class Features > Cunning Action"
+    ],
+    "rules_explanation": "This action can be used as a bonus action instead of a main action."
+  },
+  {
+    "question": "What are the benefits for a Level 20 Class Barbarian after using rage?",
+    "answer": "A level 20 barbarian can rage an unlimited number of times, as a bonus action, has advantage on Strength checks and Strength saving throws, deals +4 damage to melee weapon attacks using Strength and has resistance to bludgeoning, piercing, and slashing damage.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "The text defines what all the benefits are."
+  },
+  {
+    "question": "A Level 1, Race Silver Dragonborn casts Thunderwave. What saving throw and damage type applies?",
+    "answer": "For Thunderwave, those in the 15 foot cube must make a Constitution Saving Throw. Success or failure, the damage is thunder.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Thunderwave"
+    ],
+    "rules_explanation": "From thunderwave spell description."
+  },
+  {
+    "question": "What does a Level 1, Race Silver Dragonborn get by being silver and what is the damage resistance?",
+    "answer": "The dragonborn has resistance to cold damage, and the breath weapon does cold damage.",
+    "rules": [
+      "Races > Dragonborn > Draconic Ancestry"
+    ],
+    "rules_explanation": "The text on Draconic Ancestry provides the Dragon and its related damage type."
+  },
+  {
+    "question": "Can Essek reach out via message to someone 200ft away?",
+    "answer": "Sending is a spell that transmits a message, range Unlimited, a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "The text defines the usage and the limits of sending"
+  }
+]

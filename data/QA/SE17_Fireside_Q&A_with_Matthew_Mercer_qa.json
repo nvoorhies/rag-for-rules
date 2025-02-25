@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is the general price range in the DMG for magical items by rarity for common, uncommon, rare, very rare, and legendary?",
+    "answer": "In the DMG, the table that gives the general price range for items by rarity is in the magical item treasure section early into it. It goes from common, uncommon, rare, very rare, and legendary, and it gives you 500 gold to 5,000 gold, 5,000 gold to 50,000 gold.",
+    "rules": [
+      "Items > Magic Items > Treasure"
+    ],
+    "rules_explanation": "The question refers to general price ranges for magical items in D&D, and this information can be found in the treasure section for magic items in the Dungeon Master's Guide."
+  }
+]

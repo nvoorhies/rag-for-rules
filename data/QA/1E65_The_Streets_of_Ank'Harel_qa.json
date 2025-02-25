@@ -1,0 +1,68 @@
+[
+  {
+    "question": "The level 11 human ranger has a perception of 11. Is it a check or a passive?",
+    "answer": "The creature has a passive Perception of 11.",
+    "rules": [
+      "Monsters > Senses >  Perception"
+    ],
+    "rules_explanation": "The description of the 'Senses' attribute for monsters in the SRD says \"The Senses entry notes a monster's passive Wisdom (Perception) score...\""
+  },
+  {
+    "question": "Can the level 17 rogue use cunning action to dash in this situation?",
+    "answer": "Yes, the rogue can take a bonus action to take the Dash action.",
+    "rules": [
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "The Cunning Action class feature lets the rogue take a bonus action on each of its turns to take the Dash action."
+  },
+  {
+    "question": "If the 45 training soldiers are armored, does that impose disadvantage on persuasion?",
+    "answer": "The rules for persuasion do not say that wearing armor imposes disadvantage on skill checks.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Persuasion"
+    ],
+    "rules_explanation": "No armor imposes disadvantage on persuasion. Skill rules in SRD make no mention of armor."
+  },
+  {
+    "question": "Is the strength roll of 24 that the level 17 barbarian made with Titanstone Knuckles a strength check or a strength saving throw?",
+    "answer": "I cannot answer this question from the given information.",
+    "rules": [],
+    "rules_explanation": "Need the question context to see if a check or saving throw was required"
+  },
+  {
+    "question": "Is the level 17 rogue allowed to use a dagger to flip the latch on the armoire?",
+    "answer": "Yes, the character can use a dagger to flick the latch.",
+    "rules": [],
+    "rules_explanation": "There are no rules preventing this action; it would be a dex check to do it quietly/effectively."
+  },
+  {
+    "question": "Does the carpet fly in this situation?",
+    "answer": "No, the carpet does not fly.",
+    "rules": [],
+    "rules_explanation": "The transcript mentions that the character wills it with belief in faries but it fails."
+  },
+  {
+    "question": "Is the door trapped or locked if the level 17 rogue rolls a 22?",
+    "answer": "The door is locked. It is not trapped.",
+    "rules": [],
+    "rules_explanation": "A roll of 22 is sufficient to determine that the door is locked but not trapped."
+  },
+  {
+    "question": "Does the 14 almost open the wooden box?",
+    "answer": "The description provides an investigation roll of 14? It does not appear to be trapped.",
+    "rules": [],
+    "rules_explanation": "An investigation roll of 14 indicates that the box is not trapped."
+  },
+  {
+    "question": "Can the mist travel?",
+    "answer": "Yes, you can travel faster by Wind Walking.",
+    "rules": [],
+    "rules_explanation": "The response to the question implies that the mist can travel and the character can move faster while in that state."
+  },
+  {
+    "question": "If the level 17 rogue had a roll of one and uses Luck can the the Barbarian reroll only one of the dice?",
+    "answer": "Yes, the level 17 barbarian can reroll only one of the dice.",
+    "rules": [],
+    "rules_explanation": "The SRD rules on Lucky state that you can reroll only one of the dice in the case of advantage or disadvantage."
+  }
+]

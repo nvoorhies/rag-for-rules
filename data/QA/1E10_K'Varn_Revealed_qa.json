@@ -1,0 +1,150 @@
+[
+  {
+    "question": "The Level 11 Dragonborn Sorcerer used their movement to move the flying carpet and lift up a pillar with one hand, then cast a spell that created a bead of red burning energy that was flung at the base of the pillar, which exploded. Is there any remaining movement?",
+    "answer": "No, because the movement was used to move the carpet.",
+    "rules": [
+      "Combat > Movement and Position > Breaking Up Your Move",
+      "Sorcerer > Spellcasting > Flexible Casting > Creating Spell Slots",
+      "Sorcerer > Spellcasting > Casting Time"
+    ],
+    "rules_explanation": "The characters spent movement to move the carpet."
+  },
+  {
+    "question": "The Level 6 Half-elf Ranger attacked a creature with a +2 damage bonus from bracers on ranged attacks, and scored a critical hit with the first attack, what is the procedure for resolving the critical damage?",
+    "answer": "Roll the regular damage, multiply it by two, and then add your modifier at the end.",
+    "rules": [
+      "Combat > Making an Attack > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "The player requested the procedure for resolving critical damage."
+  },
+  {
+    "question": "The Level 5 Gnome Cleric with Spiritual Weapon can try to jump on Grog's leg or back, but he is in full-plate armor. Should the Cleric make a roll?",
+    "answer": "Yes, to make a jump with disadvantage, make an Athletics check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The player is in full-plate armor which implies a reduction to the ability check."
+  },
+  {
+    "question": "The Level 5 Gnome Cleric wants to send the ray-like monster a Guiding Bolt, but does have to roll and see if it hits?",
+    "answer": "Yes, you must roll and add your spell modifier to the roll.",
+    "rules": [
+      "Spellcasting > Attack Rolls"
+    ],
+    "rules_explanation": "The player asked if they need to make an attack roll for an attack spell."
+  },
+  {
+    "question": "If the Level 5 Rouge succeeds on their Dexterity saving throw against the fire and is within range of the source, what damage is taken, given they have the Evasion class feature?",
+    "answer": "Then you take nothing.",
+    "rules": [
+      "Rogue > Evasion"
+    ],
+    "rules_explanation": "The player asks if the rogue takes damage if they succeed a saving throw and have the evasion feature."
+  },
+  {
+    "question": "The boat is being towed by Keyleth. The shark used a run action, what is the movement rate?",
+    "answer": "You're moving slower than that because you're pulling it, towing the entire boat behind you, so you're going 20.",
+    "rules": [
+      "Combat > Movement and Position > Using Different Speeds"
+    ],
+    "rules_explanation": "The player declared the intention to use a shark's ability to run to increase their speed, and so the speed is calculated."
+  },
+  {
+    "question": "The Level 11 Dragonborn Sorcerer is frightened, does that give disadvantage on the Telekinesis roll?",
+    "answer": "Yes, you have disadvantage on the roll, technically, because you are scared of it.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "Because a roll is being performed to attempt to act on something that causes fear, a disadvantage applies as a result of the Frightened condition."
+  },
+  {
+    "question": "Is there advantage on an Arcana roll because the target is grappled?",
+    "answer": "The grapple does not give you advantage, no.",
+    "rules": [
+      "Combat > Making an Attack > Grappling"
+    ],
+    "rules_explanation": "The character made a statement assuming they had advantage, which was corrected to clarify that the Grappled condition provides no such advantage."
+  },
+  {
+    "question": "When I'm trying to skin the cloaker for a camo canopy, what kind of check is that?",
+    "answer": "Yeah, this is going to be a survival check on this.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question is what kind of skill check the player should make. The GM decides that it is a survival check. The player's survival skill modifier will be added to the roll."
+  },
+  {
+    "question": "The weapon is enchanted. What is the Dexterity bonus to a tinker check?",
+    "answer": "Well, for that, it should be Dex, I believe.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A general question about ability checks which will be performed based on the nature of the task, and the abilities used."
+  },
+  {
+    "question": "What's the bonus on the tinkers check?",
+    "answer": "Dex plus your proficiency modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Proficiency Bonus"
+    ],
+    "rules_explanation": "A clarification of how a roll is assembled."
+  },
+  {
+    "question": "The Level 7 Paladin, while under the effect of a Pass Without Trace spell (+10 to stealth), is creeping up to the edge of the cave, what kind of check should be made?",
+    "answer": "You want to make a stealth check one more time? Stealth check first.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A general statement about requiring an ability check, rather than granting information or an action automatically."
+  },
+  {
+    "question": "Is it a separate perception check for the inside of the cave as well?",
+    "answer": "Yes.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The circumstances warrant a new ability check."
+  },
+  {
+    "question": "If she fails, will he know where we are?",
+    "answer": "Yeah.",
+    "rules": [
+      "Magic > Spellcasting > Range > A Clear Path to the Target"
+    ],
+    "rules_explanation": "A spell that fails to target correctly may have an effect on the player based on proximity or spell intent."
+  },
+  {
+    "question": "How many inspiration dice do I get?",
+    "answer": "No. You can only have one inspiration dice at any given point in time, and it's a d10.",
+    "rules": [
+      "Using Ability Scores > Inspiration"
+    ],
+    "rules_explanation": "A clarification of how the Inspiration dice feature works."
+  },
+  {
+    "question": "Does the grapple give advantage?",
+    "answer": "The grapple does not give you advantage, no.",
+    "rules": [
+      "Appendix PH-A: Conditions > Grappled"
+    ],
+    "rules_explanation": "This call back to the grappled condition is prompted because the player has assumed something the grapple did grants the stated bonus."
+  },
+  {
+    "question": "Can I attempt to, yeah, and",
+    "answer": "Yes.",
+    "rules": [
+      "Actions in Combat > Use an Object"
+    ],
+    "rules_explanation": "A restatement of the player's ability to cast a particular type of spell, that is prompted because they have a different question."
+  },
+  {
+    "question": "Invisibility and Telekinesis are both concentration spells. You would lose your Invisibility to cast Telekinesis. Right, so you would have advantage on that.",
+    "answer": "Invisibility and Telekinesis are both concentration spells. You would lose your Invisibility to cast Telekinesis.",
+    "rules": [
+      "Magic > Casting a Spell > Duration > Concentration"
+    ],
+    "rules_explanation": "This call back to the requirement of concentration is prompted because the player has forgotten how this limitation applies, and the GM is clarifying that concentration will be broken by the latter action. Note, the assumption that because they are invisible they would have advantage on the following roll is incorrect, and so is not part of the answer."
+  }
+]

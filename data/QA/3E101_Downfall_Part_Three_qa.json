@@ -1,0 +1,309 @@
+[
+  {
+    "question": "Can the level 4 Tempest Domain Cleric use their Charisma plus five to beat a 14 or higher on the die to counterspell a 3rd level teleport spell?",
+    "answer": "No. The cleric needs a 14 or higher on the die. The cleric adds their Charisma modifier of plus 5 to this roll to determine the total.",
+    "rules": [
+      "Spellcasting > Counterspell"
+    ],
+    "rules_explanation": "To Counterspell a spell of 4th level or higher, you must make an ability check using your spellcasting ability. The DC is 10 + the spell’s level."
+  },
+  {
+    "question": "Can the level 6 Circle of the Land Druid's raven fly with the level 17 Sorcerer's duplicate using the Mislead spell?",
+    "answer": "Yes.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "Any effect that persists and can affect an ally can affect an illusion that is being used as an ally."
+  },
+  {
+    "question": "If a ward is 15 feet away from the level 14 Path of the Open Hand Monk and the thrower has a 40-foot range, can they extend their Scales of Justice and hurl it at the nearest ward?",
+    "answer": "Yes",
+    "rules": [
+      "Combat > Making an Attack > Range"
+    ],
+    "rules_explanation": "A ranged attack can only target a creature within the weapon's normal range"
+  },
+  {
+    "question": "When the level 14 Path of the Open Hand Monk throws the Scales of Justice on a platform that is spinning, does the attacker make that attack with disadvantage?",
+    "answer": "Yes",
+    "rules": [
+      "Combat > Making an Attack > Cover"
+    ],
+    "rules_explanation": "The DM can decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result."
+  },
+  {
+    "question": "Can the level 14 Path of the Open Hand Monk use their Restore Balance from their current channel divinity to make it a normal roll for the Emissary Scales of Justice throw instead of with disadvantage?",
+    "answer": "Yes",
+    "rules": [
+      "Preperation Spell > Level of the spells"
+    ],
+    "rules_explanation": "Can be cast spell of level"
+  },
+  {
+    "question": "Divine Prowess states 'After rolling a skill check, double the result. After calculating all bonuses, double all passive skills.' If a level 17 knowledge domain cleric has a passive perception of 21, does this passive perception double to become 42?",
+    "answer": "Yes.",
+    "rules": [
+      "Using Ability Scores > Passive Checks"
+    ],
+    "rules_explanation": "This combination of effects results in the passive skill being doubled as described"
+  },
+  {
+    "question": "If a spell caster is blinded does it impose a straight disadvantage on attack rolls, or would it be the disadvantage and +5 because another player is standing within 10 feet?",
+    "answer": "The blinded condition imposes a disadvantage on attack rolls. Another character providing a bonus to saves within 10 feet would not change the attack roll",
+    "rules": [
+      "Appendix PH-A > Conditions > Blinded"
+    ],
+    "rules_explanation": "Blinded condition imposes disadvantage on the attack roll, and can co-exist with other rules."
+  },
+  {
+    "question": "Does the death knight get to go before the Matron or before one of the party's characters?",
+    "answer": "Order is determined by intitiave. The higher initiative goes first",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "Sort participants into turn order based on initiative roll."
+  },
+  {
+    "question": "Does a bard roll with a skill that isn't being performed at a specific level, such as the intelligence for a specific level or skill check double the result?",
+    "answer": "Yes if a skill is being rolled and if the effect is to double the result of skill check, that combination would result in a doubling of the result",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "Double the result of a rolled skill check is explicit, so would double the result on the die."
+  },
+  {
+    "question": "If the level 17 sorcerer uses his remaing legendary resistance, what is the DC of the 9th level spell the arch mage cast?",
+    "answer": "The re-roll replaces the failure with a success. The value of the dice roll or other effect is not relevant.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Legendary Resistance enables a re-roll; if that re-roll succeeds, the original roll is no longer relevant."
+  },
+  {
+    "question": "If a Matron of Ravens is within 10 ft of a Dawn Father (Who isn't concentrating and had made his saving throw), and that character is targeted by a spell that requires a con save, do they get a bonus 5 to the saving throw? This would happen after their roll and before the result is determined.",
+    "answer": "Yes.",
+    "rules": [
+      "Class Features > Paladin > Aura of Protection"
+    ],
+    "rules_explanation": "Aura of Protection applies a bonus to saving throws for creatures within 10 feet."
+  },
+  {
+    "question": "A high level Paladin/wizard is hit for 22 slashing and 27 radiant. A warlock is taking damage. What is the damage for the characters if the warlock has resistance to damage and was standing 10 feet away?",
+    "answer": "Because two characters are within 10 feet of each other (Matron and Dawnfather), resistance to damage applies, so The Dawnfather takes 14 damage, the Matron vanishes next to him, and the angel's blade drives in where Emhira once stood.",
+    "rules": [
+      "Combat > Cover > Multiple Instances of Resistance",
+      "Player's Handbook: Conditions > Invisible"
+    ],
+    "rules_explanation": "If a target has resistance to a damage type, damage is halved to be resistant to the damage, so the Paladin/Wizard with resistance to damage now has 1/2 damage of the 22 slashing and 27 radiant damage. The Emboldening Bond allows players within 30 feet of each other to teleport to one another's space and take damage on their behalf."
+  },
+  {
+    "question": "If three wards have taken damage, and one of them only needs a little more, can the level 14 Path of the Open Hand Monk then use their spirit to jump up and throw their spear at that ward as a bonus action?",
+    "answer": "The Path of the Open Hand Monk cannot throw their spear as a bonus action. When they use their action with the Jump and attempt to make this a Stunning Strike as well.",
+    "rules": [
+      "Classes > Monk > Martial Arts",
+      "Combat > Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "This ability requires bonus actions, one of which is already used by this plan. No other effects would allow a ranged weapon attack on this turn."
+  },
+  {
+    "question": "Crown of Stars gives one 120ft bonus action range spell cast a round, so what action for Emhira to blind herself with Acastriel in the back and also attack?",
+    "answer": "It is not clear what range can be attacked with after the blinding from the solar happens, so it is unable to attack again until the start of the next turn.",
+    "rules": [
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "Crown of Stars states (PHB 230): As a bonus action, you can expend one star and make a ranged spell attack, The 120 feet attack of this spell is determined by the point to cast. The blinded condition does not allow ranged attacks."
+  },
+  {
+    "question": "If a character is inorganic, do they then make a constitution saving throw at disadvantage?",
+    "answer": "No, if a creature has inorganic construction, the creature makes a saving throw with advantage, not disadvantage. ",
+    "rules": [
+      "Damage and Healing > Damage Types"
+    ],
+    "rules_explanation": "Creatures that aren't constructed from a organic material have a disadvantage against certain attacks."
+  },
+  {
+    "question": "Does Crown of Stars cause Emhira to be concentrating on a spell at round 2?",
+    "answer": "Yes.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The Crown of Stars spell has a duration of Concentration, up to 1 hour, which means the the spell requires the caster to maintain concentration in order to keep the spell's magic active."
+  },
+  {
+    "question": "During the second round, is the Emissary required to roll two saving throws, one for the dexterity and one for the wisdom.",
+    "answer": "Yes",
+    "rules": [
+      "PHB 205 > Saving Throws"
+    ],
+    "rules_explanation": "The Emissary needed to make both saving throws from the dragon."
+  },
+  {
+    "question": "The spell descriptions state that the save is halved with a DC24 to their concentration. Is there a difference because they have to be constitution saving throws?",
+    "answer": "To maintain concentration on a spell from taking damage you must make a Constitution saving throw. You are considered to be proficient with the save if you have a proficient feat in con saves. The DC is 10 or half the damage you take. The DM will pick whichever is higher.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "In that case, Emhira would have to save under Constitution against DC 24. If the Emhira fails the concentration throw the spell ends."
+  },
+  {
+    "question": "Since everyone got emboldened at 60 feet range, when the solar reappears next to the 60 ft blinded Emhira is it still active for the solar damage that is going to the DawnFather?",
+    "answer": "The Emboldening Bond class feature works as long as you are within 30 feet of another one of us, if the Emhira and Dawn Father then the Emboldening Bond class feature remains in affect.",
+    "rules": [
+      "Rules for Specific Classes and Multiclassing"
+    ],
+    "rules_explanation": "Classes may affect one and other."
+  },
+  {
+    "question": "Emhira is taking 22 slashing and 27 radiant. The Dawnfather can intercede. What is the damage if the sun is at that state of this round?",
+    "answer": "Because you are not able to use your reaction since you're stunned, you can't split the damage. The Solar attack deals damage to the blinded wizard, the end of her turn.",
+    "rules": [
+      "Reactions are not Actions"
+    ],
+    "rules_explanation": "The stunned condition prevents reactions."
+  },
+  {
+    "question": "After a ranged tail whip has passed by him does the level 11 Matron of the Ravens and level 11 Circle of Stars druid, SILAHA who is a patron of the arts and a machine have that as their turn after the spell is cast, or do they just skip their turn because they are in a stunned position?",
+    "answer": "As a result, SILAHA, you are stunned. The other Prime Diety are not. It is now Emhira's turn.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "The character takes their turn, and can only act so far as any limiting conditions, such as being stunned or blinded allow."
+  },
+  {
+    "question": "If the effect is to halve the bludgeoning saving throw from it, does it get to round up or is it truncated",
+    "answer": "Any time you have to divide a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "Explicit rule to truncate the value."
+  },
+  {
+    "question": "If the Emissary is stunned, may someone intercede on his behalf?",
+    "answer": "The stunned condition makes a creature incapacitated, preventing it from taking actions or reactions.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned",
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "The stunned condition prevents reactions, so the character is unable to teleport and take the damage on the stunned character's behalf."
+  },
+  {
+    "question": "How to use Lucky to affect another player's roll?",
+    "answer": "As a player with the Lucky feat, You can reroll rolls in one of two cases. You can reroll a d20 for an attack roll, ability check, or saving throw you make, or you can choose to have one of those effect be re-rolled by a new player.",
+    "rules": [
+      "Classes and Subclasses> Feats > Lucky"
+    ],
+    "rules_explanation": "Feats can allow re-rolls of other dice. The player with the feat can choose to use the luck to force re-roll."
+  },
+  {
+    "question": "At end of their turn and before the solar moved to Emhira Emhira casted a spell, and therefore must have then made a saving throw? However, Emhira used their action to blind the solar with a cantrip, will it be 2 saving throws in a row at disadvantage or just one and then normal on all others?",
+    "answer": "The attack by the Solar would have occurred before the character got their turn. So because the effect is at the end of the character's turn, that does not mean that the character's turn happened first.",
+    "rules": [
+      "Combat > Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "The character's turn ends. The solar immediately acts after, which would happen before the start of Emhira's turn."
+  },
+  {
+    "question": "Can the level 6 Order of the Scribes Wizard, Ayden move to be 10 feet away from a teammate and then Emhira casts a spell using this and make a Wisdom Check with the additional pluses or can't because that would use an action and not give his teammate pluses?",
+    "answer": "The Emhira spell that allows other player a +5 to wisdom saves requires that other player is 5ft away when cast",
+    "rules": [
+      "Player's Handbook > Spellcasting > Range"
+    ],
+    "rules_explanation": "If he chooses to move, he can only effect the player that is within the 5ft range, and not other players"
+  },
+  {
+    "question": "Does anything stop the Betrayer God, Tishar from walking up, planning a foot on a solar, jumping up, and hitting a red brass with a mace?",
+    "answer": "No, there are no rules preventing this action.",
+    "rules": [
+      "Monster actions"
+    ],
+    "rules_explanation": "Given the actions that it says here, there is nothing preventing it."
+  },
+  {
+    "question": "Crown of Stars, casts a spell, then do something else? This sounds like using my action for one thing, and using my bonus action for another thing.",
+    "answer": "Correct.",
+    "rules": [
+      "Combat > Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action"
+  },
+  {
+    "question": "If a person has levels in multiple spellcasting classes, do spells from magic items scale based on the player level?",
+    "answer": "No.",
+    "rules": [
+      "Magic Items > Activating an Item > Spells"
+    ],
+    "rules_explanation": "The spell is cast at the lowest possible spell level, doesn't expend any of the user's spell slots, and requires no components, unless the item's description says otherwise."
+  },
+  {
+    "question": "Does the radiant damage scale, if one character has 228 and the other has 5 and the same amount of levels in paladin?",
+    "answer": "No",
+    "rules": [
+      "Magic Items > Activating an Item > Spells"
+    ],
+    "rules_explanation": "The effect uses the statistics listed in the item's description, which does not change based on the wielder's level."
+  },
+  {
+    "question": "Can Tishar act after being grappled by the red dragon on his turn after this since you were on top of him? I should have acted to do the most amount of damage, can I still do that? Since the legendary action hasn't then happened yet, you did say it was the end of the turn.",
+    "answer": "Yes, the character's turn occurs, so long as they have not been incapacitated or otherwise prevented from acting.",
+    "rules": [
+      "Combat > Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "It is the character's turn to act before any legendary actions can be taken by the triggering entity"
+  },
+  {
+    "question": "With Ataro the Undead Dragon does SILAHA and The Emissary still get two Dex saves for half damage on every spell that the Archmages cast and they have no control over?",
+    "answer": "Yes, unless there is a specific feature they possess that grants them an immunity.",
+    "rules": [
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "If a creature or an object has resistance to a damage type, damage of that type is halved against it."
+  },
+  {
+    "question": "When Selena up at the top cast, the point, and look at SILAHA and is going to cast Wish can our group try to use our reaction and split damage and take whatever is going on that is incoming?",
+    "answer": "The Emboldening Bond action happens and what happened was at the point of Abaraham cast Wish, Abraham is at 46 and in addition there was no point in me then having another PC use their reaction to go take damage for him as well. ",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "The Emissary can take half of the damage dealt to the main tank. When the party starts to chain the teleport and Damage Soak ability, the party goes onto use abilities that grant damage resistances or immunities"
+  },
+  {
+    "question": "The Dragon takes damage and is then stunned, will then The Path of the Open Hand Monk be able to just attack the red dragon",
+    "answer": "No, because The dragon is not stunned until after her turn.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "A stunned creature is incapacitated, can't move, and can speak only falteringly and attack rolls against the creature have advantage."
+  },
+  {
+    "question": "Does he have to make two throws before knowing that he's been hit?",
+    "answer": "When you're hit, you have to make a charisma saving throw",
+    "rules": [
+      "Rules of saving throws"
+    ],
+    "rules_explanation": "You know when you have been hit."
+  },
+  {
+    "question": "With Emhira and the Raven is that concentration or is it permanent?",
+    "answer": "Mislead's duration is concentration, up to 1 hour.",
+    "rules": [
+      "Spells Listing"
+    ],
+    "rules_explanation": "See spells for duration times. "
+  },
+  {
+    "question": "Does Ayden still get the plus five to this roll if this is not a spell or magical affect?",
+    "answer": "Yes, the text explicitly states that they get it on the roll, and that it's not a spell.",
+    "rules": [
+      "PHB: Class > Paladin > Oath of Devotion > Aura of protection"
+    ],
+    "rules_explanation": "Plus 5 to saving throws, and I didn't use a reaction. You do, because I'm within 10 feet of you. 10 feet of me get plus five on all their saving throws."
+  },
+  {
+    "question": "Did we have that rule, to Emboldening bonding, that if you were within 5 feet of someone, then we get 1d4 and plus six?",
+    "answer": "That is incorrect. This is because you're within 10 feet of me, and that's what does."
+  },
+  {
+    "question": "Did it ever cross your mind why we banished them in the first place instead of, as you seek, to destroy them? instead of, as you seek, to destroy them?",
+    "answer": "Roleplaying, not mechanical rule"
+  }
+]

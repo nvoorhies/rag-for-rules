@@ -1,0 +1,412 @@
+[
+  {
+    "question": "The level 1 halfling fighter is walking around Greyskull Keep. Should he make a perception check?",
+    "answer": "The level 1 halfling fighter can make a Perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 halfling fighter to make a perception check to see if he notices anything of note while observing Greyskull Keep."
+  },
+  {
+    "question": "The level 1 bard asks to make a performance check. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 bard can make a performance check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 bard to make a performance check to assess the quality of his playing."
+  },
+  {
+    "question": "The level 1 faun asks to make a nature check. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 faun can make a nature check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 faun to make a nature check to assess her knowledge about plants in the city."
+  },
+  {
+    "question": "The level 1 faun with a familiar with the stats of a level 1 character takes the Druidcraft action to restore some jasmine flowers that her monkey familiar tore up. Does she need to make a roll for that?",
+    "answer": "No, the rules for the spell *Druidcraft* does not call for a roll.",
+    "rules": [
+      "Spellcasting > Casting a Spell > The Spell's Text"
+    ],
+    "rules_explanation": "The DM indicates that there is no roll associated with using the *Druidcraft* action."
+  },
+  {
+    "question": "The DM asks the level 1 faun with a familiar with the stats of a level 1 character to make a perception check. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 faun can make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 faun to make a perception check to notice the reactions of those around her to the monkey."
+  },
+  {
+    "question": "The DM asks the level 1 dwarf to make an animal handling check. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 dwarf can make an animal handling check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 dwarf to make an animal handling check to befriend a pigeon."
+  },
+  {
+    "question": "The DM asks the level 1 dwarf to make a history check. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 dwarf can make a history check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 dwarf to make a history check to remember his dream."
+  },
+  {
+    "question": "The level 1 dwarf is shuffling along a roof and needs to make an acrobatics check. Is that correct?",
+    "answer": "Yes, that's fine. The level 1 dwarf makes an acrobatics check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 dwarf to make an acrobatics check to avoid falling off the roof."
+  },
+  {
+    "question": "The DM asks the level 1 character to make a constitution saving throw. Is that correct?",
+    "answer": "Yes, that's fine. The level 1 character can make a Constitution saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws > What is a Saving Throw?"
+    ],
+    "rules_explanation": "The DM asked the level 1 character to make a Constitution saving throw to see how hung over she is."
+  },
+  {
+    "question": "The DM asks the level 1 fighter to make a history check. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 fighter can make a history check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 fighter to make a history check to remember the location of the Fire Ashari."
+  },
+  {
+    "question": "The DM asks the level 1 character to make a persuasion check. Is that correct?",
+    "answer": "Yes, that's fine. The level 1 character can make a persuasion check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 character to make a persuasion check to see if the party believes her outlandish story."
+  },
+  {
+    "question": "The DM asks the level 1 bard to make an insight check to oppose it. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 bard can make an insight check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 bard to make an insight check to see if the character is telling the truth."
+  },
+  {
+    "question": "The DM asks the level 1 faun to make a wisdom saving throw. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 faun can make a Wisdom saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws > What is a Saving Throw?"
+    ],
+    "rules_explanation": "The DM asked the level 1 faun to make a Wisdom saving throw to resist some weird effects."
+  },
+  {
+    "question": "The DM asks the level 1 bard to make a wisdom saving throw. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 bard can make a Wisdom saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws > What is a Saving Throw?"
+    ],
+    "rules_explanation": "The DM asked the level 1 bard to make a Wisdom saving throw to resist some weird effects."
+  },
+  {
+    "question": "The DM asks the level 1 fighter to make a general intelligence check. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 fighter can make a general intelligence check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 fighter to make an intelligence check to see if he recognizes a symbol."
+  },
+  {
+    "question": "The DM asks the level 1 character to give a performance check. Let's see how much that voice carries. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 character can make a performance check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 character to make a performance check to see how much her yelling carries."
+  },
+  {
+    "question": "If you are not a thief, can you be involved, but I would like to propose that we bring the city guard into it?",
+    "answer": "Bringing the city guard is a choice the players can make but not a rules constraint.",
+    "rules": [],
+    "rules_explanation": "This was not a rules interaction."
+  },
+  {
+    "question": "The DM asks the level 1 fighter to make a perception check. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 fighter can make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 fighter to make a perception check to look out for the red jacket lady messing with the house"
+  },
+  {
+    "question": "The DM asks the level 1 halfling fighter to make a stealth check. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 halfling fighter can make a stealth check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 halfling fighter to make a stealth check to creep up behind the red leather jacket lady."
+  },
+  {
+    "question": "The DM asks the level 1 faun to make an insight check. (laughter)",
+    "answer": "Yes, that's fine. The level 1 faun can make an insight check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 faun to make an insight check to tell if the red jacket lady is lying."
+  },
+  {
+    "question": "The DM asks the level 1 halfling fighter to make an intimidation check. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 halfling fighter can make an intimidation check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 halfling fighter to make an intimidation check to scare off the red jacket lady."
+  },
+  {
+    "question": "The DM asks the level 1 bard to make a performance check. Is that okay?",
+    "answer": "Yes, that's fine. The level 1 bard can make a performance check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the level 1 bard to make a performance check to see how much that voice carries."
+  },
+  {
+    "question": "The DM asks the level 1 character about Opal? Has she ever seen water before?",
+    "answer": "That's not a rules question. It's a question about the character's background.",
+    "rules": [],
+    "rules_explanation": "That's not a rules question. It's a question about the character's background."
+  },
+  {
+    "question": "The DM asks the level 1 halfling fighter, are you looking for anything in particular?",
+    "answer": "That's not a rules question, but one about the character's intent.",
+    "rules": [],
+    "rules_explanation": "That's not a rules question. It's a question about the character's intent."
+  },
+  {
+    "question": "The DM asks about the group's intent, are you trying to case? Like, you want to give me a case roll?",
+    "answer": "That's not a rules question, but one about the character's intent.",
+    "rules": [],
+    "rules_explanation": "That's not a rules question. It's a question about the character's intent."
+  },
+  {
+    "question": "The DM asks everyone to make a perception check. Did anyone get higher--",
+    "answer": "Yes, that's fine. The characters can make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the characters to make a perception check to see if they noticed someone."
+  },
+  {
+    "question": "The DM asks, do I remember that, was it blue hair?",
+    "answer": "That's not a rules question. It's a question about the character's memory.",
+    "rules": [],
+    "rules_explanation": "That's not a rules question. It's a question about the character's memory."
+  },
+  {
+    "question": "The DM asks, are you trying to case? Like, you want to give me a case roll?",
+    "answer": "That's not a rules question. It's a question about the character's intent.",
+    "rules": [],
+    "rules_explanation": "That's not a rules question. It's a question about the character's intent."
+  },
+  {
+    "question": "The DM asks, give me an investigation check for a Thing 1 or Thing 2.",
+    "answer": "Yes, that's fine. The character can make an investigation check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked a character to make a investigation check to see if she recognizes someone from the description."
+  },
+  {
+    "question": "The DM asks, You act like we're supposed to be here. I'm going to look around and grab an empty, shitty-looking crate and pick it up, and just walk onto the ship with it. You're not a local priest coming to bless this vessel before its next journey, I don't know. I'm going to need a performance checks with disadvantage from the two of you. Are the performance checks okay?",
+    "answer": "Yes, that's fine. The characters can make a performance check with disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM asked the characters to make a performance check, but with disadvantage because of poor acting."
+  },
+  {
+    "question": "Does anything get a chance to clock it?",
+    "answer": "That's not a rules question. It's about the DM tracking the actions of another person.",
+    "rules": [],
+    "rules_explanation": "That's not a rules question. It's about the DM tracking the actions of another person."
+  },
+  {
+    "question": "As these two are about to just walk on until somebody, unless someone stops her from doing it, needs to make a persuasion check. Okay?",
+    "answer": "Yes, that's fine. The character can make a persuasion check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the character to make a persuasion check, to see if she could avoid drawing suspicion while just walking on a ship."
+  },
+  {
+    "question": "Did anyone get below a 10?",
+    "answer": "That's not a rules question. It's the DM collecting information about the rolls.",
+    "rules": [],
+    "rules_explanation": "That's not a rules question. It's the DM collecting information about the rolls."
+  },
+  {
+    "question": "I was about to congratulate you. That'd be kind of a fun prank, but-- Is that action right now? I cast Bless on him",
+    "answer": "Casting *Bless* requires you to expend one of the character's spell slots.",
+    "rules": [
+      "Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "Casting a spell requires a spellcaster to use a spell slot of the spell's level or higher."
+  },
+  {
+    "question": "Opal just a little dance. She's so happy to be on a ship. The flat part where you danced - can you make an arcana check for me?",
+    "answer": "Yes, that's fine. The character can make an arcana check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the character to make an arcana check to see if she senses anything on the ship."
+  },
+  {
+    "question": "Walking and just getting like is there definitely. Is getting muted by whatever this is. I have darkvision to see if I can see through this darkness. So regardless of all my senses, Can you use your darkvision?",
+    "answer": "Darkvision allows you to see in dim light within a 60-foot radius as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+    "rules": [
+      "Races > Racial Traits > Darkvision"
+    ],
+    "rules_explanation": "Darkvision helps you see in dark conditions, but does not allow you to see through magical darkness."
+  },
+  {
+    "question": "You do the sound. We don't have to do it, we can just do cool cut. Do me a favor, make a dexterity saving throw for Mister because he's going for it",
+    "answer": "Dexterity saving throw, Okay, that's very bad, a 10",
+    "rules": [
+      "Using Ability Scores > Saving Throws > What is a Saving Throw?"
+    ],
+    "rules_explanation": "There's a roll associated."
+  },
+  {
+    "question": "The DM asks, what are we wrangling here? Orym and Opal, can you make perception checks for me? You seem the most nonplussed by this trick. But. I will happily wait here for you and make sure that nothing happens to your digs in the interim, Is that action right now?",
+    "answer": "Yes, that's fine. Orym and Opal can make perception checks.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The DM asked the characters to make a perception check to see if she notices anything of note."
+  },
+  {
+    "question": "I'm very excited that you think that you would win in a fight with me. That's-- No, there's no performance check with that?",
+    "answer": "Is about roleplay. So are you still there?",
+    "rules": [],
+    "rules_explanation": "Its is about a state not a performance."
+  },
+  {
+    "question": "Poska. Oh! Oh my god. Well, all right, you're going to get killed, so I'm not super bothered about this anymore. Is correct roll for that. We're not",
+    "answer": "Is about the plan. We'll be at.",
+    "rules": [],
+    "rules_explanation": "Its is about state not a performance."
+  },
+  {
+    "question": "Make a Stealth checks for me. Let me know if you roll lower than a 12.",
+    "answer": "You're right.Okay. You guys. Make it.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "Is the stealth checks action."
+  },
+  {
+    "question": "Did they kick people out to live here? So you were not the people I said--All right-- You okay? Make a deception check. Against your insight",
+    "answer": "What does it sound like. I did. Learn that-- So this isn't the same, okay?",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "You can make the deception checks."
+  },
+  {
+    "question": "She puts her long leg against the wall and just shows off her dagger. Maybe sensually just touches it-- Is that right? You got to remember it is blue hair. Oh, it's a natural 20! (cheers) So sorry.",
+    "answer": "Check. Oh my god.. Great no..",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "You are the right what happened."
+  },
+  {
+    "question": "Doubt once. Persuasion check and all I can eat? Or are you all over here? And as she has her own beautiful white beard. Should you do the little bit of the",
+    "answer": "If is is a moment, tell me what you will be doing. He's an animal.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "DM said that you will act."
+  },
+  {
+    "question": "Yeah. He goes to try and grab it and he just splats his hand on it and he's going to turn to Dariax. I'm passed out.",
+    "answer": "He is going because she don't have the stats",
+    "rules": [],
+    "rules_explanation": "It's about the action."
+  },
+  {
+    "question": "We'll figure out who won. Oh, wow, they rolled. We'll figure out who won",
+    "answer": "They rolled very badly.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "It's about actions and state"
+  },
+  {
+    "question": "How do you feel about that, Orym?",
+    "answer": "Is roleplay not about the rules. Okay. There's a lot is a little.",
+    "rules": [],
+    "rules_explanation": "Is about the action of the character."
+  },
+  {
+    "question": "Give me check about all to have?",
+    "answer": "Check.",
+    "rules": [],
+    "rules_explanation": "That was not clear."
+  },
+  {
+    "question": "All right, well, act like we're supposed to be here. I'm going to look around and grab an empty, shitty-looking crate and pick it up, and just walk onto the ship with it. Should we do with here. Well. I'm not we have the ship now. I'm going to need a performance checks with disadvantage from the two of you. What are the other three of you doing?",
+    "answer": "Was it not a little deal. It will is bad all the same at to to .",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The check was about action."
+  },
+  {
+    "question": "Because it's a boat, and it's got a name on it. Do you want to make an investigation check and try to--?",
+    "answer": "Yeah, go for it.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The check is about actions not a state."
+  },
+  {
+    "question": "Okay, we really got fooled. The bottom goers. That is not good on the ship. Do a little stumble.",
+    "answer": "Yes, she is.",
+    "rules": [],
+    "rules_explanation": "Is roleplay."
+  },
+  {
+    "question": "Yeah. You are walking back and you actually can see as this person pushes a little bit farther back into the shadows of these bushes and you see a little flash of red leather and blue hair as they try to sneak away, like slink away. Are not being very obvious. Do we all see her getting eyed?",
+    "answer": "No all have seen at you have about it",
+    "rules": [],
+    "rules_explanation": "Is roleplay. In the shadows."
+  },
+  {
+    "question": "As he does, they're not super confident now to make an arcana check with all that sense walk from now",
+    "answer": "Walk this.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > What Does a Check Do?"
+    ],
+    "rules_explanation": "The check is about the actions."
+  },
+  {
+    "question": "But all this is very clear at this point. You get a little flash of dwarven quad: is like is was not okay? And make sure where everyone. No more",
+    "answer": "No have about is, then the you.",
+    "rules": [],
+    "rules_explanation": "Is about the action."
+  },
+  {
+    "question": "By the way, I've been raking Riegel for months to not use his halfling reroll on natural ones, and I fucking-- this is our first game. And this is an attack roll",
+    "answer": "You say",
+    "rules": [],
+    "rules_explanation": "Is a about the action."
+  },
+  {
+    "question": "It does, okay make sense of them. Roll damage from",
+    "answer": "You okay."
+  }
+]

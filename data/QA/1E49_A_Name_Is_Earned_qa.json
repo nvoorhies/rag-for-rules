@@ -1,0 +1,475 @@
+[
+  {
+    "question": "If a creature's Hex spell has been active for about an hour and then I make a check, can the level 11 Level, race and class Fighter, with the Sharpshooter ability, taking a long rest, Bonus Actions and Bad News use Hex because the last creature to have Hex on them died. How long does the Hex last?",
+    "answer": "No, Hex upcast at higher level last for up to 1 hour. Therefore you are unable to use Hex.",
+    "rules": [
+      "Spells > Spellcasting > Concentration",
+      "Spells > Spell Lists > Hex"
+    ],
+    "rules_explanation": "Spells that require concentration, as hex does, limit the caster to a maximum duration that the caster can maintain concentration on, such as \"Concentration, up to 1 hour\". Since the hex spell has been running for an hour since the last use, it cannot be used on a target that is acquired later than that. It also has to be checked if the character qualifies to cast this spell in the first place since it is a warlock spell."
+  },
+  {
+    "question": "Can a Level, race, and class Fighter that catches a thrown javelin in midair with the  Gloves of Missile Snaring from a ranged attack reduce the damage to zero, and actually catch it in midair? Do the glove rules change whether or not the projectile hit?",
+    "answer": "Yes, I can use the Gloves of Missile Snaring to reduce the damage to zero and catch the javelin in midair.  The gloves do not change whether or not the attack hit.",
+    "rules": [
+      "Magic Items > Gloves of Missile Snaring"
+    ],
+    "rules_explanation": "The Gloves of Missile Snaring allow you to use a reaction when hit by a ranged weapon attack to reduce the damage, and if the damage is reduced to zero, catch the missile. The Gloves of Missile Snaring do not change whether or not the attack hit."
+  },
+  {
+    "question": "Can a level 14, race and class paladin use a War Chief's commanding ability to provide advantage on attack rolls for all creatures within earshot?",
+    "answer": "There is no rule that allows a war chief to grant advantage on attack rolls, but the paladin has access to the following oath abilities:\nSection > Class Features > Channel Divinity: Sacred Weapon \nAs an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.\nYou can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.",
+    "rules": [
+      "Classes > Paladin > Class Features",
+      "Classes > Paladin > Channel Divinity"
+    ],
+    "rules_explanation": "A level 14 paladin does have a Channel Divinity ability that can add a bonus to attack rolls but nothing that grants universal advantage as the question suggests. It is possible another player in the game has another ability, such as the Bless spell, which grants advantage in other circumstances."
+  },
+  {
+    "question": "Can the Level 5 Class Bard action, use a bonus action, drop a Resilient Sphere on themself and Dimension Door into one of the tents?",
+    "answer": "Yes. The Bard can use his action to cast Dimension Door and his bonus action to drop the Resilient Sphere.",
+    "rules": [
+      "Spells > Casting Time > Bonus Action",
+      "Spells > Spell Lists > Dimension Door",
+      "Spells > Spell Lists > Resilient Sphere"
+    ],
+    "rules_explanation": "The Dimension Door spell has a casting time of 1 action, while Resilient Sphere also requires 1 action to cast, there is nothing preventing them from occurring in immediate succession on the same turn if one of them is able to be cast as a Bonus action. However in this situation the Bard needs to do the opposite action. They can use the Bonus action to drop the Resilient Sphere and their action to cast Dimension Door. "
+  },
+  {
+    "question": "If the Level 5 Class Barbarian gains a plus one bonus to Strength, then takes three frenzied rage attacks, and kills someone, do they get another bonus attack? What is the Barbarian's Strength at now if they had a Strength of 17? Does the short rest wipe the strength effect?",
+    "answer": "The barbarian does not get an additional attack because they used frenzy for their bonus action. The bonus to strength ends after a short rest. With a base strength of 17, their bonus to strength is +3",
+    "rules": [
+      "Classes > Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The Frenzy ability occupies the Barbarian's bonus action to give them access to a melee weapon attack after each of their turns. The Craven Edge requires attunement which is a separate question. A short rest resets the Craven Edge bonus strength"
+  },
+  {
+    "question": "Can the Level 11 Class Rogue use their Sharpshooter ability to do negative five to the attack roll, plus ten to damage and use Luck to succeed on a roll? What is sneak damage at Level 11? Can you use Luck on the same roll?",
+    "answer": "The Rogue can use their Sharpshooter ability and Luck. The sneak attack is 6d6. They can use Luck on the same roll.",
+    "rules": [
+      "Feats > Sharpshooter",
+      "Classes > Rogue > Class Features > Sneak Attack",
+      "Special Abilities > Luck"
+    ],
+    "rules_explanation": "The Sharpshooter feat and the rogue's sneak attack feature do not interfere with each other or with the Luck resource. Sneak attack does an amount of damage based on class level. Luck can be used to reroll any check."
+  },
+  {
+    "question": "Is a javelin a finesse weapon and can be used to make a dex based attack?",
+    "answer": "No, a javelin is not a finesse weapon. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage. Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Thrown"
+    ],
+    "rules_explanation": "A javelin has the thrown property and can be used to make a ranged attack using Strength. It is not a finesse weapon and therefore cannot be used to make a dex based attack."
+  },
+  {
+    "question": "If you can do trick shot and sharpshooter at the same time?",
+    "answer": "No, you can't take multiple trick shots, but you can sharpshooter and trick shot.",
+    "rules": [
+      "Feats > Sharpshooter"
+    ],
+    "rules_explanation": "the players are confused about what they are attempting to do. Applying a feat and casting a spell are two different and distinct game mechanics. There is nothing to prevent that except in circumstances where one game mechanic interferes with another such as casting two spells in one turn."
+  },
+  {
+    "question": "If the Level 14 Class Paladin is also an earth elemental, can they make their slam attack twice?",
+    "answer": "The earth elemental doesn't appear to have an ability that allows them to make additional slam attacks. You can make a slam attack against each of them?",
+    "rules": [
+      "Monsters"
+    ],
+    "rules_explanation": "Most actions allow a creature to take only one action per turn. the stat block for an earth elemental does not grant more than one attack."
+  },
+  {
+    "question": "Is the number that triggers a strength loss from Craven Edge plus three on top of everything else?",
+    "answer": "It's a plus one because we took a short rest.",
+    "rules": [
+      "Magic Items > Craven Edge"
+    ],
+    "rules_explanation": "The effect on Strength loss/gain from this feature lasts until your next short rest."
+  },
+  {
+    "question": "Does the Bonus action is I use my bonus action as a frenzied rage cancel an attack?",
+    "answer": "When you're frenzying you get it every turn. Yeah.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "Frenzying means that the character gets to make a melee weapon attack as a bonus action. Unless you do not have any opportunity to attack due to being restrained or otherwise unable to do so."
+  },
+  {
+    "question": "Does the character technically get advantage on the shot if they are using Grit?",
+    "answer": "Yeah, so I'll spend a grit point on that. Natural 20.",
+    "rules": [
+      "Unearthed Arcana > Revised Ranger > Archetypes > Hunter",
+      "Feats > Sharpshooter"
+    ],
+    "rules_explanation": "The gloves are not specified to grant advantage, while certain trick shots have advantage on it, but if someone gets a natural 20, it hits and grit does not automatically grant any advantage."
+  },
+  {
+    "question": "What are the rules about gaining a bonus to strength when killing things from Craven Edge?",
+    "answer": "Every time they fail a saving throw, your strength goes up by one. Every two strength, you get a bonus.",
+    "rules": [
+      "Magic Items > Craven Edge"
+    ],
+    "rules_explanation": "Every time they fail a saving throw, your strength goes up by one and every two strength, you get a bonus."
+  },
+  {
+    "question": "If, as they are taking a shot, what the javelin rolled to hit.",
+    "answer": "That one was a 20, a natural 20.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Combat > Making an Attack > Rolling 1 or 20"
+    ],
+    "rules_explanation": "A natural 20 always hits."
+  },
+  {
+    "question": "For using Gloves of Missile Snaring, do I need to roll to hit?",
+    "answer": "Well, what does it say on the gloves?",
+    "rules": [
+      "Magic Items > Gloves of Missile Snaring"
+    ],
+    "rules_explanation": "It's important to read the item's description."
+  },
+  {
+    "question": "With the Two-Weapon Fighting fighting style, do you get to add your strength mod to the damage of the offhand attack?",
+    "answer": "Yeah. I'll have to double-check.",
+    "rules": [
+      "Classes > Fighter > Fighting Style > Two-Weapon Fighting"
+    ],
+    "rules_explanation": "The Two-Weapon Fighting fighting style does allow you to add your ability modifier to the damage of the second attack."
+  },
+  {
+    "question": "For earth gliding, what do I add to the check that Keyleth is making as an earth elemental?",
+    "answer": "Roll a d20, add your strength modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM tells the player what to add to the die roll."
+  },
+  {
+    "question": "Is there any way to have a bonus action and the effect of Trinket out?",
+    "answer": "Sure.",
+    "rules": [
+      "Classes > Ranger > Beast Master"
+    ],
+    "rules_explanation": "The beastmaster companion is a bonus action, and using it requires either no further action or a further bonus action."
+  },
+  {
+    "question": "Does Advantage in a roll or a Stealth check last?",
+    "answer": "No, it just applies to this instance.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage only affects a specific check, attack roll, or saving throw. It's not a permanent state."
+  },
+  {
+    "question": "After the chains were broken and both of the bears are now free, can they move 40 feet before he stops?",
+    "answer": "Yeah.",
+    "rules": [
+      "Combat > Movement and Position > Speed"
+    ],
+    "rules_explanation": "The bears can move up to their speed of 40 feet."
+  },
+  {
+    "question": "If Keyleth sank to become an earth elemental, and then moved out of the area and is not able to reach those orcs?",
+    "answer": "They are about 15 feet.",
+    "rules": [
+      "Spells > Druid > Earth Elemental"
+    ],
+    "rules_explanation": "Determining the range/distance of a particular action is at the DM's discretion"
+  },
+  {
+    "question": "What is a strength modifier? What would be added to the attack roll?",
+    "answer": "So plus six for this roll.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The attacker has to add its strength modifier to attack."
+  },
+  {
+    "question": "Can you attempt to catch the javelin in midair with your reaction?",
+    "answer": "As it chucks the javelin, you catch it and stop it in midair.",
+    "rules": [
+      "Combat > Actions > Reactions"
+    ],
+    "rules_explanation": "A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's."
+  },
+  {
+    "question": "Does the two that was on me, get to attack?",
+    "answer": "He's going to come forward and begin to attempt to attack your orb as well.",
+    "rules": [
+      "Combat > Actions > Attack"
+    ],
+    "rules_explanation": "Determining the actions of the monsters is under the DM's discretion"
+  },
+  {
+    "question": "Can I act like they're hurting me?",
+    "answer": "If you want to.",
+    "rules": [
+      "General Roleplaying"
+    ],
+    "rules_explanation": "It's up to the player's creativity and the DM's allowance."
+  },
+  {
+    "question": "Can I unbind them",
+    "answer": "Yeah, you don't have movement. You can start to move over to start unbinding them if you want to.",
+    "rules": [
+      "Combat > Movement and Position > Your Turn"
+    ],
+    "rules_explanation": "The GM states that, given movement, the player can start on their objective."
+  },
+  {
+    "question": "Can I turn and say all right, amateurs, time to go pro! And I would like to use Reckless Attack and with my frenzied rage, I take all three attacks at the crystal-bearing piece of shit.",
+    "answer": "Right there? He's just out of range.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "The GM determines if the character action is possible."
+  },
+  {
+    "question": "As a bonus action. But you're already using your bonus action as a frenzied rage.",
+    "answer": "Right, thank you.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The bonus action can't be used twice"
+  },
+  {
+    "question": "But you can say you don't have to take a short rest if you don't want to. It's up to you.",
+    "answer": "Okay.",
+    "rules": [
+      "Magic Items > Craven Edge"
+    ],
+    "rules_explanation": "The player can decide to not take a short rest. GM has the final say."
+  },
+  {
+    "question": "So you multiply that by two. Right? Before the modifier.",
+    "answer": "Right, so it's seven times two, so 14 plus your modifier and your rage.",
+    "rules": [
+      "Combat > Damage and Healing > Critical Hits"
+    ],
+    "rules_explanation": "When you score a critical hit, you get to roll extra dice for the attack's damage against the target."
+  },
+  {
+    "question": "At level five, because I'm out of level four.",
+    "answer": "Okay, so. (hooting) An owl ascends quickly and spooks you.",
+    "rules": [
+      "Spells > Spell Lists > Polymorph"
+    ],
+    "rules_explanation": "This refers to the levels available to the character during the Polymorph spell action."
+  },
+  {
+    "question": "Wait, the sun is setting, are we taking a short rest or a long rest? Are we spending the night? Can't we go in your house?",
+    "answer": "Of course we can, yeah. Are we going to spend the night? What time is it?",
+    "rules": [
+      "Adventuring > Resting"
+    ],
+    "rules_explanation": "The party members have to decide about resting in an agreement."
+  },
+  {
+    "question": "What's the second level of exhaustion?",
+    "answer": "Second level of exhaustion and your speed is halved.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "Exhaustion levels have the effect noted in the table."
+  },
+  {
+    "question": "Are we still trying to keep one alive?",
+    "answer": "Sure we are.",
+    "rules": [
+      "General Roleplaying"
+    ],
+    "rules_explanation": "It's the party decision"
+  },
+  {
+    "question": "Okay. Do you want me to go in and you can cast something? I'll get their attention and you can cast something?",
+    "answer": "Sure.",
+    "rules": [
+      "Teamwork and Strategy"
+    ],
+    "rules_explanation": "Cooperative Strategy"
+  },
+  {
+    "question": "I'll be able to get to it on my next turn? To the tent?",
+    "answer": "Yeah.",
+    "rules": [
+      "Combat > Movement and Position > Your Turn"
+    ],
+    "rules_explanation": "Determining if the action was within the rules and the movement available"
+  },
+  {
+    "question": "Can I use Hex because the last creature to have Hex on them died, so I can use it as a bonus action to cast Hex again, can't I?",
+    "answer": "Correct. How long does it last, though?",
+    "rules": [
+      "Spells > Spell Lists > Hex"
+    ],
+    "rules_explanation": "The GM has to consider the rules of spell and the time frame since its last use."
+  },
+  {
+    "question": "He's prone, though, can he do that?",
+    "answer": "He got up. He can still only move three more squares, there.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "A prone creature needs to spend movement to stand up."
+  },
+  {
+    "question": "Did the two that were on me attack?",
+    "answer": "He's going to come forward and begin to attempt to attack your orb as well. All three strike at the orb, trying to cut through.",
+    "rules": [
+      "Combat > Actions > Attack"
+    ],
+    "rules_explanation": "The GM determines the actions of the monsters."
+  },
+  {
+    "question": "Are we at the top of the round?",
+    "answer": "No, no, it's bottom of the round. I'm the last guy and then you.",
+    "rules": [
+      "Combat > The Order of Combat"
+    ],
+    "rules_explanation": "The GM reminds the order of the combat rounds"
+  },
+  {
+    "question": "So it's been seven? Okay. You've got seven bonus benefits. So you're 24 then, aren't you?",
+    "answer": "No, only 21, because it takes two to go up the thing, right?",
+    "rules": [
+      "Magic Items > Craven Edge"
+    ],
+    "rules_explanation": "The players discuss if they know how Craven Edge's stats apply."
+  },
+  {
+    "question": "We were in a cardboard box.",
+    "answer": "Yes.",
+    "rules": [
+      "Game Setting"
+    ],
+    "rules_explanation": "The players can ask about the physical setting."
+  },
+  {
+    "question": "I'm going to check if this is something that might be a--?",
+    "answer": "Make an intelligence check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM is asking to the play to use a specific kind of check."
+  },
+  {
+    "question": "What was that second line?",
+    "answer": "Knowledge dost billow--",
+    "rules": [
+      "Game Setting"
+    ],
+    "rules_explanation": "Repeating the lore from the setting."
+  },
+  {
+    "question": "Can I get on the broom? And fly up above the pool of water and look down into it?",
+    "answer": "Okay. Go ahead and make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A check is required to take some action"
+  },
+  {
+    "question": "What are the dimensions of that?",
+    "answer": "It's about 30 feet across on a side.",
+    "rules": [
+      "Game Setting"
+    ],
+    "rules_explanation": "The players can ask about the physical setting."
+  },
+  {
+    "question": "How long was that? And I drop elemental form and start helping Pike heal whoever needs healing.",
+    "answer": "Okay.",
+    "rules": [
+      "Spells > Elemental Form"
+    ],
+    "rules_explanation": "Checking on how long does the turn and the actions take, and changing the state of the spell as the player drops it"
+  },
+  {
+    "question": "So you're 24 then, aren't you?",
+    "answer": "No, only 21, because it takes two to go up the thing, right?",
+    "rules": [
+      "Magic Items > Craven Edge"
+    ],
+    "rules_explanation": "The players discuss how to calculate a game mechanic"
+  },
+  {
+    "question": "Technically, you get advantage because he's there, technically prone as he's getting up out of the--",
+    "answer": "Six, seven, eight, nine, 11.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Accounting for the prone condition modifier."
+  },
+  {
+    "question": "This is your bonus action? You're giving him the attack on the bonus action?",
+    "answer": "I still get a bonus action, he gets to attack and I get to attack.",
+    "rules": [
+      "Classes > Ranger > Beast Master"
+    ],
+    "rules_explanation": "The ranger uses a bonus action to allow their beast companion to attack."
+  },
+  {
+    "question": "Can I multi-slam attack twice?",
+    "answer": "You'll move one, two to get into combat range with two of them. Go ahead and make a slam attack against each of them.",
+    "rules": [
+      "Combat > Making an Attack"
+    ],
+    "rules_explanation": "The GM allows the attack to be done, and the player rolls for the damages of the attacks"
+  },
+  {
+    "question": "Wasn't it human bodies or animal bodies?",
+    "answer": "They were human bodies.",
+    "rules": [
+      "Game Setting"
+    ],
+    "rules_explanation": "The players are able to ask about what the setting consists of"
+  },
+  {
+    "question": "What do you see, Percy?",
+    "answer": "I see a door that I have conquered.",
+    "rules": [
+      "Game Setting"
+    ],
+    "rules_explanation": "This is pure roleplaying, the player character is roleplaying their character and making a reference to what does the character see in the campaign"
+  },
+  {
+    "question": "Perception is to notice various details in here, if you're actually actively searching for trap mechanisms like that, investigation is generally more used. Yeah.",
+    "answer": "It's only my third year doing this.",
+    "rules": [
+      "Ability Checks > Skills"
+    ],
+    "rules_explanation": "This is about the general use of the skills."
+  },
+  {
+    "question": "For you, yeah. 'Cause it's the feat as opposed to an actual class feature. All right, taking your aim.",
+    "answer": "That's fine! Taking that shot.",
+    "rules": [
+      "Feats"
+    ],
+    "rules_explanation": "The GM is accounting the class stats and the specific Feat being used."
+  },
+  {
+    "question": "As a bonus action, it can do that against you, Grog, with advantage. That's going to be a 22 to hit.",
+    "answer": "That'll hit.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The NPC is taking an action to attack, and the player is accepting the results of the attack."
+  },
+  {
+    "question": "It says in the previous room, \"the sky is a window.\" Does that pertain to this?",
+    "answer": "It might.",
+    "rules": [
+      "Game Setting"
+    ],
+    "rules_explanation": "The players are asking about the lore of the game."
+  },
+  {
+    "question": "This isn't Elvish, Elvish was the obelisk. What languages do you--",
+    "answer": "Common, Elvish, and Abyssal.",
+    "rules": [
+      "Races > Racial Traits > Languages"
+    ],
+    "rules_explanation": "The GM checks what the players languages are."
+  }
+]

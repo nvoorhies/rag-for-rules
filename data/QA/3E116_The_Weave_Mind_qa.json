@@ -1,0 +1,142 @@
+[
+  {
+    "question": "When the [Level 20 Monk/Folk Hero Race Name] is leading the group through the tunnels towards where they think the Weave Mind might be, does the group roll investigation or one of them can roll with advantage?",
+    "answer": "The DM provides the option for either both Veth and Beau to roll investigation or one of them to roll with advantage, as the players decide.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The DM allows the group to decide if one person rolls with advantage, or if both roll individual checks."
+  },
+  {
+    "question": "The [Level 20 Monk/Folk Hero Race Name] gets a total of 25 on the investigation check. What does [he] learn?",
+    "answer": "The [Level 20 Monk/Folk Hero Race Name] discerns areas where things look smoother and designed for function over aesthetic. [He] can see some places where the pillars, the lined decorative pillars, seem to be a little more dense and the presence of Ruidian glass veins are more cultivated and carved into the decor. Utilizing that pattern, [he] get the feel that that likely leads towards something of importance.",
+    "rules": [],
+    "rules_explanation": "The dungeon master describes what information is revealed after a successful skill check. There are no specific rules that cover what information that is, only that it should derive from the setting and narrative that the DM controls."
+  },
+  {
+    "question": "The 2 Reiloran guardians stay behind, and the one looks towards [Level 20 Wizard/Class Name Race Name] and in [his] mind [he] hears, \"You, where do you head? We need bodies.\" What kind of check does [he] need to make?",
+    "answer": "The DM asks the player to make a deception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The dungeon master has requested the player to make a check in order to resolve a situation where the character is trying to deceive the Reiloran guard."
+  },
+  {
+    "question": "The characters are attempting to moonwalk away from the Reiloran guardians. What kind of check is needed?",
+    "answer": "The DM calls for a group deception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "Since all of the players are attempting to deceive the guards with their moonwalking, the DM calls for a group check."
+  },
+  {
+    "question": "The [Level 20 Rogue/Race Name] will take out a stick of incense and make a distinct pattern on my hand and I will cast Hypnotic Pattern. What is the DC on that?",
+    "answer": "The spell DC is 17 wisdom.",
+    "rules": [
+      "Spellcasting > Spell Save DC"
+    ],
+    "rules_explanation": "Since the spell is cast by a character with the Spellcasting feature, we use the following formula for the spell save DC:\n8 + spellcasting ability modifier + proficiency bonus"
+  },
+  {
+    "question": "The [Level 20 Barbarian/Race Name] is on the ground prone. Is there advantage on the melee spell attack?",
+    "answer": "Yes, there is advantage on the melee spell attack because the target is prone.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "Melee attacks have advantage against the target if the attacker is within 5 feet of the target, and the target is prone."
+  },
+  {
+    "question": "Can the [Level 20 Barbarian/Race Name] hold rage as long as [she] want to?",
+    "answer": "Yes, the [Level 20 Barbarian/Race Name] can hold rage as long as [she] want to, because [she] is level 20 barbarian.",
+    "rules": [
+      "Barbarian > Class Features > Persistent Rage"
+    ],
+    "rules_explanation": "The level 15 Barbarian Persistent Rage feature means that rage only ends if the barbarian is unconscious or chooses to end it."
+  },
+  {
+    "question": "The [Level 20 Wizard/Race Name] is using a ranged spell attack while in melee range of the enemy. Is there disadvantage?",
+    "answer": "Yes, there is disadvantage on the ranged attack, even though the target is prone.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "Ranged attacks have disadvantage when there is an enemy within 5 feet of the attacker."
+  },
+  {
+    "question": "The [Level 20 Rogue/Race Name] is about to go past the Prime Pillar glass. What kind of saving throw does [he] need to make?",
+    "answer": "The [Level 20 Rogue/Race Name] needs to make a wisdom saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The DM has stated that the [Level 20 Rogue/Race Name] needs to make a wisdom saving throw, so no other rule is needed to determine this."
+  },
+  {
+    "question": "The party is going through the Prime Pillar glass. Do the characters get advantage on the wisdom saving throw because we had a Heroes' Feast?",
+    "answer": "Yes, the characters get advantage on the saving throw, since the DM confirmed that Heroes' Feast was cast.",
+    "rules": [
+      "Combat > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "No other information is available in this document about how the Heroes' Feast affects saving throws, just that it gives advantage."
+  },
+  {
+    "question": "The characters are heading up, following [Level 20 Wizard/Class Name Race Name]'s lead but [he] rolled a 1. They've arrived at a large metal gate-like door that is partially open. I will use Telekinesis to move 1,000 pounds of weight and shut the door if possible. Can [he] do that?",
+    "answer": "Yes, the [Level 20 Wizard/Class Name Race Name] can use Telekinesis to move 1,000 pounds.",
+    "rules": [
+      "Telekinesis"
+    ],
+    "rules_explanation": "Using the spell Telekinesis, a character can attempt to lift up to 1,000 pounds."
+  },
+  {
+    "question": "The characters are heading down a hallway that is partially collapsed. I'm going to lift a bunch of the stone that collapsed and try to block the path from that we came out of. Who is navigating to find the right path deeper into this?",
+    "answer": "The text says Fjord is now navigating to find the right path deeper into this.",
+    "rules": [],
+    "rules_explanation": "The gameplay transcript says that Fjord, or Fjord's player, is navigating for the time being."
+  },
+  {
+    "question": "The [Level 20 Cleric/Class Name Race Name] has Resistance up. Is that disadvantage on dex saving throw?",
+    "answer": "No. That is not disadvantage on the dex saving throw.",
+    "rules": [
+      "Conditions > Resistance"
+    ],
+    "rules_explanation": "Resistance reduces damage, it does not affect attack rolls or saving throws."
+  },
+  {
+    "question": "What happens when Jester casts Divine Intervention at level 20?",
+    "answer": "At level 20, the Divine Intervention class feature happens automatically, no roll required.",
+    "rules": [
+      "Cleric > Class Features > Divine Intervention"
+    ],
+    "rules_explanation": "At 20th level, a cleric's call for Divine Intervention succeeds automatically."
+  },
+  {
+    "question": "The [Level 20 Cleric/Class Name Race Name] is going to give Fjord a little tap for resistance and cast Resistance. Is that okay?",
+    "answer": "Resistance is being cast, but it will not be determined until the result of the strength saving throw. First, the DM determines how much damage he takes if he rolls this.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The sequence of events will be checked before the DM makes a ruling."
+  },
+  {
+    "question": "If the feet are skidding and slipping on the ground, and he is pulled towards the entryway. Is this a contested roll?",
+    "answer": "Yes. The DM says to roll a d20, and add your spell ability modifier.",
+    "rules": [
+      "Telekinesis"
+    ],
+    "rules_explanation": "A character that is using Telekinesis will be have to make a contest to see if the pull will occur."
+  },
+  {
+    "question": "Is a roll with a one better because of some advantage from fortune's favor?",
+    "answer": "It can be replaced if there is a higher number when the reroll is made.",
+    "rules": [
+      "Combat > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When you have advantage and roll 2 dice, the best of the 2 dice is always used in the game. In this instance, the Fortune's Favor feat allows you to get advantage on any roll."
+  },
+  {
+    "question": "The [Level 20 Paladin/Race Name] disappears in some magical way. The [Level 20 Monk/Folk Hero Race Name] casts Empty Body. Can they be seen?",
+    "answer": "The [Level 20 Rogue/Race Name] in this instance cannot be seen because they have cast Empty Body.",
+    "rules": [
+      "Empty Body"
+    ],
+    "rules_explanation": "The spell Empty Body states that the character is invisible."
+  }
+]

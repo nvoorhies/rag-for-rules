@@ -1,0 +1,216 @@
+[
+  {
+    "question": "Can you die by falling off a cliff?",
+    "answer": "No, there is no other way to die other than accumulating six points in either stat, and cliffs can't kill bears, so you become more bear-like.",
+    "rules": [
+      "Introduction > How to Play > Game Over Condition"
+    ],
+    "rules_explanation": "The DM states there is no other way to die. The rules presented at the beginning of the session outlined that going to 6 on either side, and not falling, is the condition for exiting the game."
+  },
+  {
+    "question": "Does forest fires kill bears?",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "This questions is answered directly by the DM."
+  },
+  {
+    "question": "The level 3 Half-elf wants to sense honey. Can they do that?",
+    "answer": "Yes, roll a d6 and try to roll equal to or under your bear score.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM requests that the players roll to use their bear stat."
+  },
+  {
+    "question": "Does having stated that they are frustrated from being unable to locate the honey mean the level 3 Half-elf has to move a point?",
+    "answer": "Yes, the player stated that they are frustrated and will move a point into bear from criminal.",
+    "rules": [
+      "Introduction > How to Play > Stats and Moving Points"
+    ],
+    "rules_explanation": "The DM confirms that stating that a player is feeling an emotion is sufficient to alter stats. The player indicates a point transfer."
+  },
+  {
+    "question": "If the level 3 Half-elf is doing a loud hack of the decorations, do they roll for bear or criminal?",
+    "answer": "Roll for criminal, and because you are a hacker, you get advantage on the roll.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM is defining the player's hacker ability as a criminal action."
+  },
+  {
+    "question": "If a level 3 Half-elf is flinging shit at the guards, do they roll for bear or criminal?",
+    "answer": "Roll for bear because you are being more of a bear than the brains right now.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM defines flinging shit as a bear action."
+  },
+  {
+    "question": "Does the level 4 Human have to move a point anywhere for successfully wreaking havoc?",
+    "answer": "That was a successful criminal action, so point from bear to criminal.",
+    "rules": [
+      "Introduction > How to Play > Stats and Moving Points"
+    ],
+    "rules_explanation": "The DM determines that the PC is moving a stat as a result of an action."
+  },
+  {
+    "question": "If the Level 3 Half-elf had some of the honey, does it put them back towards bear?",
+    "answer": "You have to have a nice pawful. You've got to get a-- a sample's not going to work",
+    "rules": [
+      "Introduction > How to Play > Stats and Moving Points"
+    ],
+    "rules_explanation": "The DM has set specific bounds on how the stats can be moved, and tasting things is insufficient."
+  },
+  {
+    "question": "If a level 4 Human uses their terrify special skill, how do they roll?",
+    "answer": "Roll 2d6 under bear and take the lower.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM establishes the mechanics of the roll."
+  },
+  {
+    "question": "Does the Level 4 Human have to move a point anywhere for that action?",
+    "answer": "That was a successful criminal action, so point from bear to criminal.",
+    "rules": [
+      "Introduction > How to Play > Stats and Moving Points"
+    ],
+    "rules_explanation": "The DM dictates what state should be moved and in what direction."
+  },
+  {
+    "question": "How do we try and be stealthy?",
+    "answer": "Roll a criminal check.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM establishes the mechanics of the roll."
+  },
+  {
+    "question": "If the level 3 Tortle steals a caninster of honey and jams it into their mouth, move a point from criminal to bear.",
+    "answer": "Yes, and I'd say you can probably bear-handle two more jars of honey, awkwardly.",
+    "rules": [
+      "Introduction > How to Play > Stats and Moving Points"
+    ],
+    "rules_explanation": "The DM has outlined the amount and type of food required to move points in the stats."
+  },
+  {
+    "question": "If the level 3 Half-elf has had a flashback, can they get a point of criminal?",
+    "answer": "You can get a point in criminal back.",
+    "rules": [
+      "Introduction > How to Play > Stats and Moving Points"
+    ],
+    "rules_explanation": "The DM has outlined the circumstances under which a flashback can move points in the stats."
+  },
+  {
+    "question": "During the flashback do all the other players get to switch a point?",
+    "answer": "Just him. I'd say, if you want to switch a point, since you were part of that, go ahead.",
+    "rules": [
+      "Introduction > How to Play > Stats and Moving Points"
+    ],
+    "rules_explanation": "The DM dictates that all can change stats if they participated in the flashback."
+  },
+  {
+    "question": "What is the skill check to stealthliy move through the city?",
+    "answer": "Everyone roll a criminal check as you stealthily move through the city.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM specifies what statistic should be used for stealth."
+  },
+  {
+    "question": "If there is a melee areange attack, do we use advantage because it's carnage?",
+    "answer": "Go ahead, roll for bear plus one.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM provides guidance on how to roll with the additional modifier."
+  },
+  {
+    "question": "If the level 4 Human uses the stick on Bonnie the Cow, what kind of roll is needed?",
+    "answer": "Okay, you use the stick, and as you rear it back, it turns into a giant tree trunk, basically, that comes toppling down right on her head. Roll for criminal.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM defines the type of roll that is needed."
+  },
+  {
+    "question": "What kind of roll is needed to pee on the wheels of the radio flyer to silence them?",
+    "answer": "Roll for bear?",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM has defined peeing as a bear-related action."
+  },
+  {
+    "question": "With the level 6 Bear at 5 points in bear, what type of roll do they need to make to climb up the building on the pipe?",
+    "answer": "Roll for bear. Bear climbing.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM makes the call that the climb is bear-related."
+  },
+  {
+    "question": "If the level 6 Bear falls off the pipe because they failed the climbing check, and then the other PCs make fun of them, do they move a point?",
+    "answer": "Okay, so you were not feeling too bad about falling off the post, and then these assholes started making fun of you, and now you're getting a little irritated. Put a point in bear from criminal.",
+    "rules": [
+      "Introduction > How to Play > Stats and Moving Points"
+    ],
+    "rules_explanation": "The DM is using the player's emotinal state as a trigger for moving points between the stats."
+  },
+  {
+    "question": "When a level 4 Human uses thieves' tools to pick a lock, how do they roll?",
+    "answer": "Roll for criminal.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM is establishing that lockpicking is a criminal action."
+  },
+  {
+    "question": "If you have multiple special skills and you use them at once, can you get points for each of them?",
+    "answer": "For using a special skill. That's right. That's not good.",
+    "rules": [
+      "Introduction > How to Play > Stats and Moving Points"
+    ],
+    "rules_explanation": "The DM is confirming that the stat points are allocated for every special skill used at the same time."
+  },
+  {
+    "question": "If the level 3 Half-elf takes a whiz on the wheels of the radio flyer to silence them, what kind of roll is that?",
+    "answer": "Roll for bear?",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM identifies the action as being bear-related."
+  },
+  {
+    "question": "If a level 3 Half-elf uses his hacker sense, what kind of roll is that?",
+    "answer": "Roll for hacker. Roll for criminal. It's under criminal.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The hacker ability of this character has been defined as a criminal one. The DM is calling for a criminal check."
+  },
+  {
+    "question": "If a level 6 bear is trying to calm a cow by bulling them out into one of the buildings, how do they roll?",
+    "answer": "Roll for criminal.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM defines this action as criminal in nature."
+  },
+  {
+    "question": "When the level 6 Honey Badger is fighting the children, and wants to 'go carnage', what kind of roll is that?",
+    "answer": "Roll for carnage.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM is defining the type of roll that the character must make."
+  },
+  {
+    "question": "If a level 6 Bear goes to snatch the honey cup, what kind of roll is that?",
+    "answer": "Roll for criminal.",
+    "rules": [
+      "Introduction > How to Play > Checks and Dice"
+    ],
+    "rules_explanation": "The DM defines the type of roll that is needed."
+  }
+]

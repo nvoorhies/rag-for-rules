@@ -1,0 +1,93 @@
+[
+  {
+    "question": "A level 5 [Class] makes a history check and rolls a 1. What happens?",
+    "answer": "The game master judges the roll and provides an answer. The player may have to ask around or use other checks.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The roll was a 1, so by the typical rules no specific action happens, or benefit or disbenefit occurs. The player may need to seek other options."
+  },
+  {
+    "question": "The [Level] 1 [Race] [Class] [Name] is covered in blood and asks a dwarf if she can have a handful of complimentary soaps. What kind of check should she roll?",
+    "answer": "The player should make a persuasion check. The DM then determines the DC for the check. If the total equals or exceeds the DC, the ability check is a success. Otherwise, it's a failure.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "It is up to the DM to determine what kind of check should be made as well as the DC. As the character is trying to persuade someone, the DM has chosen the player to make a persuasion check."
+  },
+  {
+    "question": "Can [Level] 1 [Race] [Class] cast See Invisibility after a short rest?",
+    "answer": "The provided game transcript does not contain the information required to answer this question. The game master would need to provide access to the spell list of Fjord the warlock to provide that information. By default it is not possible to divine whether the spell is in the warlock's spell list or not, or whether it can be cast again after a short rest.",
+    "rules": [],
+    "rules_explanation": "The question cannot be answered because the SRD does not include a complete list of spells for each class, or whether certain spells are available for short rest or long rest."
+  },
+  {
+    "question": "The [Level] 1 [Race] [Class] is attempting a \"See Invisibility\" hand gesture, what happens?",
+    "answer": "The Grandfather says the attempt did not work and the action fails.",
+    "rules": [],
+    "rules_explanation": "The rules do not specify this specific scenario however in the case where the person cannot follow through with the action, they simply state that it fails. This may be a case of needing further knowledge."
+  },
+  {
+    "question": "If [Level] 7 [Race] [Class] takes a short rest can they use hit dice to heal?",
+    "answer": "Yes. A character can spend one or more Hit Dice at the end of a short rest, up to the character's maximum number of Hit Dice, to regain hit points.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The short rest rules state that a player can use hit dice to heal, therefore they can. There are not rules that prevent this."
+  },
+  {
+    "question": "Does the See Invisibility spell come back on a short rest?",
+    "answer": "The provided game transcript does not contain the information required to answer this question. The game master would need to provide access to the spell list of [Character] to provide that information. By default it is not possible to divine whether the spell is short rest renewable, or whether the See Invisibility spell is in the warlock's spell list or not.",
+    "rules": [],
+    "rules_explanation": "The question cannot be answered because the SRD does not include a complete list of spells for each class, or whether certain spells are available for short rest or long rest."
+  },
+  {
+    "question": "What happens when the group finishes an hour long short rest? Is it sufficient material for a short rest?",
+    "answer": "If the party spends at least 1 hour doing nothing more strenuous than eating, drinking, reading, and tending to wounds it will have taken a short rest.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The definition of a short rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds."
+  },
+  {
+    "question": "What happens when Travis's Paladin cast Divine Sense?",
+    "answer": "The Paladin concentrates for a moment and extends their senses, the normally perfumed interior of the room fades to the smell of a fresh breeze and an earthy scent as the Paladin feels the Wildmother expanding their consciousness into the space, then looks for anything fiendish or undead.",
+    "rules": [
+      "Class Features > Paladin > Divine Sense"
+    ],
+    "rules_explanation": "The Paladin is using Divine Sense to detect any celestial, fiend, or undead within 60 feet of them."
+  },
+  {
+    "question": "When making an insight check, is it possible to enhance the roll using a spell?",
+    "answer": "The game rules do not specify whether a spell may be used on an insight check. The DM will have to make a rules judgement.",
+    "rules": [],
+    "rules_explanation": "The rules do not specify if it is possible to add an ability to a roll. This needs a judgement from the DM."
+  },
+  {
+    "question": "Fjord's Persuasion skill check is assisted, what happens?",
+    "answer": "Fjord will roll 2 dice and take the higher result, and will add that result to any bonuses. The DM will then compare that total to the DC of the skill check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "When circumstances influence a roll in such a way that the player has advantage, they will roll 2 dice and take the higher of the two results. The value will then be combined with their modifiers and checked against the DC."
+  },
+  {
+    "question": "Ludinus asks the party if they are ready to go inspect the relic, and Caleb says he needs to take care of a \"family matter\", what happens?",
+    "answer": "Ludinus clarifies his question, stating that if Caleb is currently tied up at the moment, they will go see the beacon now.",
+    "rules": [],
+    "rules_explanation": "Caleb is stating that they are unable to go with, Ludinus is clarifying that they are able to inspect the relic without Caleb if he is busy."
+  },
+  {
+    "question": "What does it mean if the DM says there \"may have been a miscommunication?\"",
+    "answer": "There are no rules that specify what this phrasing or circumstance means. This indicates that the DM has given a hint that some information is incorrect or misleading, but it is up to the group to decide whether that is meaningful or relevant.",
+    "rules": [],
+    "rules_explanation": "This phrasing has no specific ruling or effect, other than indicating that previously understood information may be incorrect."
+  },
+  {
+    "question": "What is the duration of the See Invisibility spell after it is cast?",
+    "answer": "The spell description would contain the duration information however the transcript does not list this information.",
+    "rules": [],
+    "rules_explanation": "The question cannot be answered because the transcript does not contain the spell's duration."
+  }
+]

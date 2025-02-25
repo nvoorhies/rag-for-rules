@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How does Thaumaturgy work, can it create a phrase, or does it only do instantaneous sounds?",
+    "answer": "Thaumaturgy creates an instantaneous sound, but not a phrase.",
+    "rules": [
+      "Spellcasting > What Is a Spell? > Components > Verbal (V)"
+    ],
+    "rules_explanation": "The spell description of Thaumaturgy indicates it has a verbal component, this is the extent of the sound generated."
+  },
+  {
+    "question": "Given that a Perception check is made at advantage, can the second dice be rolled before the first has been rolled.",
+    "answer": "Yes, to resolve advantage the dice are all rolled at once.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules state that when advantage applies to a roll, you roll a second d20 'when you make the roll'."
+  },
+  {
+    "question": "Character casts Detect Thoughts, does the character need to roll if they only want surface thoughts, or only when prying more deeply?",
+    "answer": "The character only has to roll to pry deeper.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "The rules state that when advantage applies to a roll, you roll a second d20 'when you make the roll'."
+  },
+  {
+    "question": "If a character uses Fresh Cut Grass's ability to take on a portion of the damage of a friendly character, do both characters have to make saving throws against effects that deal damage and also have a condition? Or does just Fresh Cut Grass make the saving throw?",
+    "answer": "Only the original target makes the saving throw.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "As FCG is absorbing damage, they are not the target of the attack, spell, or effect, unless the text specifically states that they are."
+  },
+  {
+    "question": "When Fresh Cut Grass uses the level 1 spell Cure Wounds, does the level 1 automaton factor in his Wisdom Ability modifier.",
+    "answer": "Yes, your Wisdom modifier applies to the amount of hit points restored.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Cure Wounds"
+    ],
+    "rules_explanation": "The spell description of Cure Wounds notes '...regains hit points equal to 1d8 + your spellcasting ability modifier...'"
+  },
+  {
+    "question": "Character casts Enhance Ability on a friendly character, and makes an investigation check. Does that character have Advantage?",
+    "answer": "Yes, since Investigation checks are Intelligence checks, a character with advantage on Intelligence checks has advantage on Investigation checks.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Spells Descriptions > Enhance Ability",
+      "Skills"
+    ],
+    "rules_explanation": "Intelligence checks are modified by the appropriate skills, therefore the advantage applies to the skill check."
+  }
+]

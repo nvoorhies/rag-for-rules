@@ -1,0 +1,94 @@
+[
+  {
+    "question": "Can the level 12 [class] add his proficiency bonus to the Wisdom (Stealth) check?",
+    "answer": "Yes. Everybody's got plus ten to their stealth.",
+    "rules": [
+      "Using Ability Scores > Skills",
+      "Player’s Handbook is added because it is from the PHB (or SRD) and not made up for this session"
+    ],
+    "rules_explanation": "The character is proficient in the Stealth skill, and when you are proficient in a skill, you add your proficiency bonus to ability checks that use that skill"
+  },
+  {
+    "question": "level 19 druid wants to scry on death knight. What does my Scrying Eye use her spellcasting ability or is it a fixed DC?",
+    "answer": "It's 15. It's that for the item.",
+    "rules": [
+      "Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "The DC for the item is fixed at 15, and does not use the druid's spellcasting ability."
+  },
+  {
+    "question": "If the paladin makes a Charisma saving throw, does he get plus two from druid because he's standing next to him?",
+    "answer": "It's for saves, not checks.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The paladin only gives a bonus to saving throws, not ability checks."
+  },
+  {
+    "question": "If something casts a spell to assist, does that reveal you from stealth.",
+    "answer": "Oh yeah. Anything you do to assist will reveal you from stealth.",
+    "rules": [
+      "Using Ability Scores > Hiding"
+    ],
+    "rules_explanation": "The act of casting a spell, or doing anything else to assist another character will break the condition of being hidden."
+  },
+  {
+    "question": "If the level 19 ranger casts Locate Object at 3rd-level, what is the range of the effect?",
+    "answer": "Within a thousand feet of you.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Locate Object cast at 3rd-level allows you to sense the direction of things within 1,000 feet."
+  },
+  {
+    "question": "If the level 19 druid takes 7 points of acid damage, does she still have her animal form?",
+    "answer": "Yeah, An hour",
+    "rules": [
+      "Druid > Wild Shape"
+    ],
+    "rules_explanation": "Since the duration of Wild Shape is one hour and it has not been an hour, she is still in Wild Shape"
+  },
+  {
+    "question": "If level 19 druid becomes petrified while in wild shape, what happens?",
+    "answer": "What about the 60-feet thing?",
+    "rules": [
+      "Druid > Wild Shape",
+      "Player’s Handbook is added because it is from the PHB (or SRD) and not made up for this session"
+    ],
+    "rules_explanation": "This is not a Rules Question. They are talking about strategy."
+  },
+  {
+    "question": "What is the modifier for the animal's attacks",
+    "answer": "Just Charisma",
+    "rules": [
+      "Spellcasting > Spellcasting Ability",
+      "Player’s Handbook is added because it is from the PHB (or SRD) and not made up for this session"
+    ],
+    "rules_explanation": "Spellcasting Ability is Charisma"
+  },
+  {
+    "question": "level 19 character with boots of haste peeking from the tunnel. What is the stealth modifier",
+    "answer": "45 stealth check, so I'm going to go peek. We're level 19. I'm level 19, y'all.",
+    "rules": [
+      "Using Ability Scores > Skills",
+      "Player’s Handbook is added because it is from the PHB (or SRD) and not made up for this session"
+    ],
+    "rules_explanation": "The player is referring to a total roll, the roll is not a question about rules"
+  },
+  {
+    "question": "Are you waiting for them? You hold off. You talk. You guys move over stealthily.Does it an automatic critical if it's a surprise?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling a 1 or 20"
+    ],
+    "rules_explanation": "If the attack is a surprise, a 20 is rolled which means it will always be a critical hit."
+  },
+  {
+    "question": "Does he have to be dead in your hands before you decide that it's worked?",
+    "answer": "You have no idea. He's slippery. He's mercurial.",
+    "rules": [
+      "Player’s Handbook is added because it is from the PHB (or SRD) and not made up for this session"
+    ],
+    "rules_explanation": "Not a rules question, there is no information about specific mechanic to look up."
+  }
+]

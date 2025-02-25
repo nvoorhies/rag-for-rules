@@ -1,0 +1,394 @@
+[
+  {
+    "question": "Can I cast Spare the Dying on the character with the axe in their head?",
+    "answer": "You can cast Spare the Dying on the character with the axe in their head",
+    "rules": [
+      "Spells > Casting a Spell > Targets"
+    ],
+    "rules_explanation": "Any living character with 0 Hit Points can be targeted by the Spare the Dying spell."
+  },
+  {
+    "question": "If my level 10 Wizard casts Comprehend Languages, how long does it take to cast the spell?",
+    "answer": "It takes one action plus ten minutes to cast the spell, because the one action can be used and then the ritual casting can extend the spell and conserve a spell slot.",
+    "rules": [
+      "Spells > Casting a Spell > Casting Time",
+      "Spells > Casting a Spell > Rituals"
+    ],
+    "rules_explanation": "As the character is able to cast the ritual, and casts the initial component with 1 Action. Therefore the cast time is 1 Action + 10 minutes."
+  },
+  {
+    "question": "As 3rd Level Fighter with Sailor Background makes an Investigation check. What is his bonus?",
+    "answer": "As an Investigation is an Intelligence based skill, the 3rd Level Fighter would not have the proficiency bonus as he is does not have the sailor background and it is not a proficient skill for the class.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Multiclassing > Proficiencies > Class Features"
+    ],
+    "rules_explanation": "As the sailor background does not add intelligence as a key skill and investigation is intelligence based, there is no proficiency bonus."
+  },
+  {
+    "question": "Can Jester use the Mending cantrip to fix that burned message?",
+    "answer": "Yes, Jester can use the Mending cantrip on the burned message.",
+    "rules": [
+      "Spells > Casting a Spell > Targets"
+    ],
+    "rules_explanation": "Since the map is a damaged object, it is a valid target for the mending cantrip."
+  },
+  {
+    "question": "As a level 5 Sailor, what kind of check can I make to recognize these reefs and do I have advantage?",
+    "answer": "You would make a history check with advantage since it falls into your sailor background.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Pre-Show > Part I",
+      "Races > Racial Traits"
+    ],
+    "rules_explanation": "Matthew states that you can roll a history check, and since the character has a sailor background he will roll with advantage."
+  },
+  {
+    "question": "Does someone need to man the ship at night when most of us are sleeping?",
+    "answer": "Yes, someone needs to man the ship at night to look out for other ships",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "While the SRD mentions travel it does not specifically indicate ship operations at night."
+  },
+  {
+    "question": "Can Laura cast Mending on the sail and see if it looks like the burn damage goes away?",
+    "answer": "Yes, she can slowly, over time focus, and it will take a good hour or so, but you could eventually get the sail to be unsinged.",
+    "rules": [
+      "Spells > Casting a Spell > Targets"
+    ],
+    "rules_explanation": "As the sail is a damaged object, it is a valid target for the mending cantrip."
+  },
+  {
+    "question": "Can the character use Disguise Self to apply make up to other characters?",
+    "answer": "Disguise self only applies to the caster",
+    "rules": [
+      "Spells > 1st-Level Illusion Spells > Disguise Self"
+    ],
+    "rules_explanation": "The Disguise Self states that the effect happens to the caster and has a range of Self."
+  },
+  {
+    "question": "If a Zolezzo ship comes around and arrests Yasha, and I have conscripted Marius and Gellan, can I get them to move the ship?",
+    "answer": "It takes a number of people to maintain a ship. To go at the speed you would need to, you'd need to have somebody who's manning the sails, somebody who's navigating the ship, somebody who's actually necessary for maintaining the course.",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "While the SRD mentions travel it does not specifically indicate ship operations other than travel speed. It has no rule for staffing of crew by NPC's or other hired hands."
+  },
+  {
+    "question": "As 8th level History, what does Jester add on a forgery check?",
+    "answer": "Laura should roll a d20, adding her intelligence modifier and proficiency bonus, because she is proficient with forgery.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "As stated before, the check used for forgery is an Intelligence skill check. Laura is proficient in forgery, so she will add her proficiency bonus as well."
+  },
+  {
+    "question": "Travel-wise how far would a logship be able to travel?.",
+    "answer": "With the speed of a longship, per day you could probably do about 72 miles.",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "There are no travel rules for ships in the SRD. The answer is based on prior inforamtion about ships from Matt."
+  },
+  {
+    "question": "If using one of the spells as 17 Level Wizard, Can I cast a 6th, 7th, or 8th level spells?",
+    "answer": "No, a 17th-level wizard can cast a 6th or 7th level spell from their Arcanum but cannot get up to 8th level until 19th level",
+    "rules": [
+      "Wizard > Class Feature > Mystic Arcanum"
+    ],
+    "rules_explanation": "With Mystic Arcanum, a 17th level wizard can cast a 6th and 7th level spell once per long rest but doesn't get an 8th level ability until 19th level"
+  },
+  {
+    "question": "If Fjord is the captain, and you're guiding the boat, make an intelligence check and I'll give you advantage, because you have a sailor background and you understand some of the pathways, especially since watching and noticing this earlier with Caduceus, you've seen it move back and forth.",
+    "answer": "Fjord makes an intelligence check with advantage, because he has a sailor background and understands some of the pathways",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Backgrounds"
+    ],
+    "rules_explanation": "Advantage means rolling twice and taking the better roll."
+  },
+  {
+    "question": "If Yasha is staying below and keeping an eye on the rest of your crew, what are they doing?",
+    "answer": "Yasha is staying below and keeping an eye on the rest of your crew.",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "There are no rules regarding \"keeping an eye\" on an NPC crew"
+  },
+  {
+    "question": "We are heading towards an island, what rules would apply for creatures we meet when on the islands surface, such as a rock?",
+    "answer": "Rock is described as having varying Armour Class between 13-17 in the SRD. It is typically immune to poison and psychic damage. It may have damage treshholds and is detailed in Objects",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "MM do not govern what occurs on the surface of islands or other locales."
+  },
+  {
+    "question": "In initiative order, can Marisha use Deflect Missiles to deflect the throw of a stone?",
+    "answer": "No, Deflect Missiles can only be used by Monks, and Beau is not a monk",
+    "rules": [
+      "Classes > Monk > Deflect Missiles"
+    ],
+    "rules_explanation": "Deflect missiles is a monk class ability"
+  },
+  {
+    "question": "With the flag, is it possible someone might recognize the flag?",
+    "answer": "It's possible, but you probably wouldn't want to go into port with the flag unfurled.",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "This answer is based on GM knowledge and not explicitly stated as a rule."
+  },
+  {
+    "question": "If a flag was searched and a sail was found that perhaps was known to be not kosher with the laws of the coast, then what is the consequence?",
+    "answer": "If, for whatever reason, the ship was searched and a sail was found that perhaps was known to be not kosher with the laws of the coast, then that would be a problem.",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "This is an example of a rules judgement as distinct from a rules application."
+  },
+  {
+    "question": "For our travels on the Menagerie Coast, will there be an official map to reference?",
+    "answer": "There is one on the way, due to the post but for now, you'll have to deal with this printout for the time being.",
+    "rules": [
+      "Break > Part II"
+    ],
+    "rules_explanation": "There are no hard rules in the SRD about when materials are given to players."
+  },
+  {
+    "question": "If the trade route takes three and a half times longer, can we off-road and are there giant tentacles?",
+    "answer": "You can, it just means that anything that's off the trade routes means there is not a lot of patrolling Zolezzo ships to maintain protection for people that are using those lanes. It also means that sometimes, as you've heard, certain creatures that live in the ocean or nearby, you're a little more susceptible to, but it's a quicker route if where you're heading is the Inky Claw?",
+    "rules": [
+      "Pre-Show > Part I > Travel Pace > Difficult Terrain"
+    ],
+    "rules_explanation": "There are no precise rules on when to apply a \"tentacle monster encounter\" in the SRD. The DM has latitude to adjucate how the story progresses."
+  },
+  {
+    "question": "If Yasha has the Barbarian Class and she is looking for guidance, what is the DC to get back on her path, for the Barbarian Class?",
+    "answer": "A Barbarian's Path is a subjective event for each member. There is not a specific event that happens so there is no way to determine. If something were to occur it would be for Matthew to decide.",
+    "rules": [
+      "Character Creation > Classes > Barbarian > Primal Path"
+    ],
+    "rules_explanation": "There are no rules for having a mission be changed based on others. Each background has a individual aspect of choices that can be made."
+  },
+  {
+    "question": "Does someone need to provide us something to be able to travel quickly, using water for the transportation?",
+    "answer": "As you look at the water and are making decisions to make a move forward, do you need a guide to have advantage with your ability checks?",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "There is no requirement to have someone aid you in finding the quickest path with travel, this is optional."
+  },
+  {
+    "question": "The sail has been fixed. Do you need to look like The Mist ship?",
+    "answer": "As far as you know, they don't check the sails. The sails are designed to show allegiance to certain areas. If, for whatever reason, the ship was searched and a sail was found that perhaps was known to be not kosher with the laws of the coast, then that would be a problem. But that's only if the sail itself is--",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "The answer is based on GM knowledge and not explicitly stated as a rule."
+  },
+  {
+    "question": "What do all of you that are on there roll while applying a disguise kit to Beau?",
+    "answer": "A disguise kit takes dexterity modifier and your proficiency modifier",
+    "rules": [
+      "Equipment > Tools > Disguise Kit"
+    ],
+    "rules_explanation": "Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise."
+  },
+  {
+    "question": "Does it look like a good spot, the Open Quay, is there anyone who's looking for work right now? We're going on a journey, oh, you know, three or four or five or six weeks, perhaps. One-time job.",
+    "answer": "Yeah, if you're looking to hire, you'll find most of them at either the posting at the Seafloor's Bounty, or the Withered Bird Inn.",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "The SRD indicates hiring, and employment, may cost gold, but it doesn't provide any guidelines as to where to look or what to expect."
+  },
+  {
+    "question": "There are a few folk that are pretty good, so you hire pretty much for all the other positions you need. The navigator's the one you're having a hard time with. Everyone you've talked to is like “Yeah! I can sail the sea!” And you're like “Mmm. Nah.” You're having a harder time finding a navigator.",
+    "answer": "The SRD provides some rules on hiring, but no rules for specific skills and challenges that may occur to find the hires.",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "The SRD specifies general skills and challenges to consider when hiring, but there are no rules provided for this specfici case."
+  },
+  {
+    "question": "Is there a posting for people looking for crew positions? A sign?",
+    "answer": "For that you're probably going to look outside of the Seafloor's Bounty or probably on the board at the Withered Bird Inn.",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "The SRD specifies general skills and challenges to consider when hiring, but there are no rules provided for this specfici case."
+  },
+  {
+    "question": "Can I try to cast Mending on the sail and see if it looks like the burn damage goes away?",
+    "answer": "Yeah. I'll say you can slowly, over time focus-- It'll take you about a good hour or so, but you could eventually get the sail to be unsinged.",
+    "rules": [
+      "Pre-Show > Part I > Using the Mending Cantrip"
+    ],
+    "rules_explanation": "This is a reasonable extrapolation to apply Mending cantrip to fabric/sail. The SRD provides the basic cantrip. Here, the GM describes the time and effort required to apply it."
+  },
+  {
+    "question": "In this degree, you're going to these places to find these hires, as opposed to having to roleplay every interview with each of these crewmen?",
+    "answer": "It's been awhile. I don't know. Sorry!",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "This is simply an example of the DM moving the story along, it is not found in the SRD."
+  },
+  {
+    "question": "If we put this at the speed of a longship, what should we do?",
+    "answer": "Say we put this at the speed of a longship, so per day you could probably do about 72 miles in a longship. It looks like travel to-- to which reef? To Inkclaw? It's about 230 or so, 250 miles from Nicodranas.",
+    "rules": [
+      "Pre-Show > Part I > Travel Pace > Travel Pace and Ships"
+    ],
+    "rules_explanation": "No travel rules exist in the SRD for ships, and this is Matthew's knowledge. In the SRD, per day, you could do about 24 miles in a normal day. We put that to the degree of a long ship and it looks like about a 230-mile trip."
+  },
+  {
+    "question": "Can we just sleep? I'm so tired",
+    "answer": "The plan is we are going to find a cove and hide the ship, sneak in, get some crew, sneak back. Or, we're just going to sail right into a different port also in Nicodranas? Grab a crew while we start a whisper campaign, and bolt?",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "The party requires a long rest, but they must get some rest with either sneaking or finding a crew"
+  },
+  {
+    "question": "Nott is a One Earther. All right, you guys keeping first watch, make a perception check. Whoever's maintaining that, either advantage or you both roll independently.",
+    "answer": "They roll perception independently",
+    "rules": [
+      "Combat > The Order of Combat > Surprise"
+    ],
+    "rules_explanation": "When a potential threat is near, it is standard that you take a perception check as to be unaware of the danger."
+  },
+  {
+    "question": "We have sails. There is a flag that sits at the top of the main mast, but it is currently tied up.Can I skitter up there and see what it is if it were to unfurl?",
+    "answer": "It's big, so you'd have to unfurl to see it.",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "This is a judgement call from the DM about how the sail is stored."
+  },
+  {
+    "question": "What about the flag, is it possible someone might recognize the flag?",
+    "answer": "It's possible. You probably wouldn't want to go into port with the flag unfurled.",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "This is a judgement call from the DM based on world knowledge."
+  },
+  {
+    "question": "Does Laura's Disguise Self as we get closer require of all of you that are on there, and you're applying a disguise kit to Beau?",
+    "answer": "Roll a d20, add your dexterity modifier and your proficiency modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Equipment > Adventuring Gear > Disguise Kit"
+    ],
+    "rules_explanation": "According to RAW a Disguise Kit requires an Intelligence (Investigation) check not a dexterity roll. The check also only applies to a the person disguising themselves, so in this case, it applies to Laura's character."
+  },
+  {
+    "question": "When is the check made when approached at the docks as the dockmaster there takes your document?",
+    "answer": "Wharfmaster takes your document, is going to inspect it and rolled pretty well, but you rolled a 20. He looks and seems to be taken aback at how well designed versus the occasional chicken scratch and heavily stained, ocean air tattered pieces of paper are handed to him. Seems to accept it and you guys make your way onto the Open Quay docks.",
+    "rules": [
+      "Social Interactions > Role Play Interraction"
+    ],
+    "rules_explanation": "A high forgery check should allow you to fool most people, based on the skill involved."
+  },
+  {
+    "question": "Does it matter that we fix the outside of the ship as we're heading to dock?",
+    "answer": "The wood is being repaired, but it's a few days of repair to get all that taken care of.",
+    "rules": [
+      "Objects > Statistics for Objects > Time Scale"
+    ],
+    "rules_explanation": "To get this all taken care of, it will be a few days. It depends on the time scale. A few days is not optimal for coming in to shore right away."
+  },
+  {
+    "question": "We will tell Marius and Gallan to stay below the entire time, and Yasha.What happens to them?",
+    "answer": "Yeah, Yasha's staying below and keeping an eye on the rest of your crew. With that, you're approached at the docks.",
+    "rules": [
+      "Pre-Show > Part II",
+      "Pre-Show > Part I > Social Interractions > Role Play Interraction > Conscription"
+    ],
+    "rules_explanation": "As they do not have specific roles to play that turn they are not needed on the docks, they continue the previous actions they have been assigned."
+  },
+  {
+    "question": "What is happening while you make these checks on the ship?",
+    "answer": "You're proud of it, but you hope it's enough.",
+    "rules": [
+      "Social Interactions > Role Play Interaction"
+    ],
+    "rules_explanation": "The DM is describing the mood, this is not a rule."
+  },
+  {
+    "question": "As far as the Zolezzo are concerned and looking for a burned ship that had a Fireball go off, Let's take it into dock. Against all the advice of zolezzo looking for a burned ship that had a Fireball.",
+    "answer": "It doesn't look burned anymore, does it?",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "Depending on the level of work done by Jester, the ship will still likely have soot and damage."
+  },
+  {
+    "question": "What does the boat look like now, if they were to see the ship from shore?",
+    "answer": "Blackened, charred wood on the outside of it in a sphere shape.",
+    "rules": [
+      "Pre-Show > Part II"
+    ],
+    "rules_explanation": "The boat still needs more repair work from Gallan, or other party members to be made complete. There is charred damage."
+  },
+  {
+    "question": "Now that they're on the docks, and they are in the Open Quay docks, what do we want to do?",
+    "answer": "Sounds like hiring crew and we're going to get some food for the thing.",
+    "rules": [
+      "Pre-Show > Part I >"
+    ],
+    "rules_explanation": "They are looking to shore and find crew and more information."
+  },
+  {
+    "question": "Is that helpful about whether you're leading this-- are you guiding the boat, are you the captain of this?",
+    "answer": "You're the captain, just take it.",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "There is no rule for determining a captain, you all select one, so the current captain is Fjord."
+  },
+  {
+    "question": "You have a crew who can take up as well, if you want to. So one of you or both of you, make a perception check. Want both of us to do it?",
+    "answer": "Individually",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "If working together, one roll with advantage is made. If they are not working together, they roll separately. They opted for separate checks."
+  },
+  {
+    "question": "Do you know what worries me more is the feelings I'm getting from everyone in the crew. They're a little despondent. All of them. What do we do about that?",
+    "answer": "Keep their morale up, I think, is all I mean. We have done good things, I know that the day was-- it was a day. But we want this to keep going.",
+    "rules": [
+      "Pre-Show > Part I"
+    ],
+    "rules_explanation": "While there are several effects in the SRD about fear and fright, there are no rules about long term group morale, that is governed by the DM."
+  },
+  {
+    "question": "Should we show Orly the piece of a map we retrieved?",
+    "answer": "Orly goes ahead and compares it with the map and goes, \"Best I can tell, it's probably close to the Inky Claw, you know?\"",
+    "rules": [
+      "Pre-Show > Part II"
+    ],
+    "rules_explanation": "This checks is not in regards to a ability score, but rather the recognition of a map that he knows. The DM makes it so he understands it."
+  },
+  {
+    "question": "We still need to follow the trade routes, right? Or are we just?",
+    "answer": "You can, it just means that-- anything that's off the trade routes means there is not a lot of patrolling Zolezzo ships to maintain protection for people that are using those lanes. It also means that sometimes, as you've heard, certain creatures that live in the ocean or nearby, you're a little more susceptible to, but it's a quicker route if where you're heading is the Inky Claw?",
+    "rules": [
+      "Combat > Movement and Position"
+    ],
+    "rules_explanation": "There are no trade route rules other than those presented."
+  },
+  {
+    "question": "We'll see how much of what you've left behind helps to what you left behind the night before, but nevertheless you have a crew, you have supplies, and you are on the water. With that, we're going to go ahead and take a break.",
+    "answer": "The party is setting off to where they are going from there.",
+    "rules": [
+      "Pre-Show > Part I > Travel Pace > Travel Pace and Ships"
+    ],
+    "rules_explanation": "It all depends on the route you would like to make, that will determine the path forward."
+  }
+]

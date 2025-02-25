@@ -1,0 +1,168 @@
+[
+  {
+    "question": "A character wants to examine the area after a battle to determine their location. What kind of check is appropriate?",
+    "answer": "The DM can call for a Wisdom (Perception) check or an Intelligence (Survival) check to determine their location",
+    "rules": [
+      "Section > Using Ability Scores > Wisdom",
+      "Section > Using Ability Scores > Wisdom > Wisdom Checks",
+      "Section > Using Ability Scores > Wisdom > Wisdom Checks > Perception",
+      "Section > Using Ability Scores > Wisdom > Wisdom Checks > Survival",
+      "Section > Using Ability Scores > Intelligence",
+      "Section > Using Ability Scores > Intelligence > Intelligence Checks",
+      "Section > Using Ability Scores > Intelligence > Intelligence Checks > Investigation"
+    ],
+    "rules_explanation": "The rules describe perception checks as noticing features of the environment. The rules describe survival checks as orienting in the wilderness, so both checks are applicable."
+  },
+  {
+    "question": "A character is aiding another. Does it grant the roller advantage on their skill check?",
+    "answer": "The character leading the effort makes an ability check with advantage.",
+    "rules": [
+      "Section > Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "The rules state that 'The character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters.'"
+  },
+  {
+    "question": "How does Pass Without A Trace work? Does it help a character to act casual and non suspciously?",
+    "answer": "Pass Without a Trace gives a +10 bonus to Stealth checks. However, it does not help a character to act casual and pass themselves off as belonging in a crowd.",
+    "rules": [
+      "Part I: The Spell Pass Without A Trace",
+      "Section > Using Ability Scores > Dexterity",
+      "Section > Using Ability Scores > Dexterity > Dexterity Checks",
+      "Section > Skills > Stealth",
+      "Section > Combat > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The description of Pass Without a Trace gives a +10 bonus to Stealth checks, it provides no bonuses to deception, acting casual, etc.  Deception checks are covered under the listed rules."
+  },
+  {
+    "question": "What does making a group deception check do?",
+    "answer": "If the group makes a deception check and succeeds, they are able to pass their way through the area without issue. If the stealth check fails, they've caught attention and then the DC for deception gets higher.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks > Group Checks",
+      "Section > Using Ability Scores > Charisma",
+      "Section > Using Ability Scores > Charisma > Charisma Checks",
+      "Section > Skills > Deception"
+    ],
+    "rules_explanation": "The rules describe that a group deception check allows you to pass without issue while failing would increase the DC."
+  },
+  {
+    "question": "Can we have advantage on this group check?",
+    "answer": "You do not have advantage on this group check. The DC's adjusted based on the fact that you are wearing the red gear.",
+    "rules": [
+      "Section > Using Ability Scores > Advantage and Disadvantage",
+      "Section > Using Ability Scores > Ability Checks",
+      "Section > Using Ability Scores > Charisma",
+      "Section > Using Ability Scores > Charisma > Charisma Checks",
+      "Section > Skills > Deception"
+    ],
+    "rules_explanation": "The DM specified there is no Advantage because of the gear already effecting the DC."
+  },
+  {
+    "question": "If you Disguise Self, are you stealthed? Does that give you a bonus to stealth?",
+    "answer": "No. Disguise Self does not provide a bonus to stealth checks",
+    "rules": [
+      "Part I: Spell description of Disguise Self",
+      "Section > Using Ability Scores > Dexterity",
+      "Section > Using Ability Scores > Dexterity > Dexterity Checks",
+      "Section > Skills > Stealth"
+    ],
+    "rules_explanation": "The description of Disguise Self provides instructions for changing your appearance, but provides no guidance about improving your stealth checks. A dexterity skill check would be required to be successful blending in with the disguise. "
+  },
+  {
+    "question": "What does twinned spell do?",
+    "answer": "A spell that targets only one creature and doesn't have a range of self can target a second creature in range with the same spell by spending a number of sorcery points equal to the spell's level (1 sorcery point if the spell is a cantrip).",
+    "rules": [
+      "Part I: Use of Twinning Spell metamagic",
+      "Section > Spellcasting > Metamagic > Twinned Spell"
+    ],
+    "rules_explanation": "The SRD description for Twinning Spell states 'When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).'"
+  },
+  {
+    "question": "If a target of Hexblade's Curse is hit with a melee weapon attack does this reaction have a roll a d6 requirement to have the attack miss? ",
+    "answer": "No, Armor of Hexes is only used if a target of your Hexblade's Curse hits you with an attack roll.",
+    "rules": [
+      "Part II: Application of the Armor of Hexes reaction",
+      "Armor of Hexes"
+    ],
+    "rules_explanation": "The Armor of Hexes reaction is very specific and is only applied when a target of your Hexblade's Curse hits you with an attack roll."
+  },
+  {
+    "question": "How can I, a paladin, climb the platform?",
+    "answer": "Make an acrobatics or athletics check, your call, to scramble up the platform to get within 10 feet.",
+    "rules": [
+      "Section > Using Ability Scores > Strength",
+      "Section > Using Ability Scores > Strength > Strength Checks",
+      "Section > Using Ability Scores > Strength > Strength Checks > Athletics",
+      "Section > Using Ability Scores > Dexterity",
+      "Section > Using Ability Scores > Dexterity > Dexterity Checks",
+      "Section > Skills > Acrobatics"
+    ],
+    "rules_explanation": "The GM is requesting either skill check to climb the platform"
+  },
+  {
+    "question": "What does Vow of Enmity do?",
+    "answer": "You gain advantage on attack rolls against the target creature for 1 minute, or until it drops to zero hit points, or falls unconscious.",
+    "rules": [
+      "Part II: Discussion of Vow of Enmity, and the mechanics of the Vow of Enmity",
+      "Vow of Enmity"
+    ],
+    "rules_explanation": "The SRD description for Vow of Enmity states that 'you gain advantage on attack rolls against the creature for 1 minute, or until it drops to zero hit points, or falls unconscious.'"
+  },
+  {
+    "question": "With Haste, how many attacks do I get?",
+    "answer": "You can attack twice, and then you can use your hasted action to do a third.",
+    "rules": [
+      "Part II: Action with Haste",
+      "Haste"
+    ],
+    "rules_explanation": "The description of Haste allows to take one more attack. A character with Extra Attack can make two attacks when they take the Attack action, plus one more from Haste."
+  },
+  {
+    "question": "What is the range of a lava whip?",
+    "answer": "The spell does not specify to the players what the range of the lava whip is.",
+    "rules": [
+      "Part II: Attempt to lava whip",
+      "Actions",
+      "Melee Weapon Attack",
+      "Range"
+    ],
+    "rules_explanation": "Since there is no established range given it is left to the players discretion, so there is no way to confirm the exact distance from the SRD."
+  },
+  {
+    "question": "What kind of save does a lava whip force?",
+    "answer": "A Dexterity saving throw."
+  },
+  {
+    "question": "Are we telepathically linked?",
+    "answer": "Yes, because you ritually cast Rary's Telepathic Bond at the beginning of the day.",
+    "rules": [
+      "Rary's Telepathic Bond"
+    ],
+    "rules_explanation": "The GM specified that the spell was already cast and in effect."
+  },
+  {
+    "question": "What do I need to do to get a 100% success on dispelling magic?",
+    "answer": "You will need to roll above a DC of 15, and at 7th level can cast dispell magic.",
+    "rules": [
+      "Dispel Magic",
+      "Spellcasting",
+      "Spellcasting > Spells known and Prepared"
+    ],
+    "rules_explanation": "The spell states any spells of 3rd level or lower can be dispelled automatically, and all others require a spellcasting ability check."
+  },
+  {
+    "question": "What does Bless do for us?",
+    "answer": "Bless adds 1d4 to attack rolls and saving throws.",
+    "rules": [
+      "Bless"
+    ],
+    "rules_explanation": "As part of the Bless Spell discription it notes that whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw."
+  },
+  {
+    "question": "What does haste do to my AC?",
+    "answer": "You get a +2 to AC while Haste is up.",
+    "rules": [
+      "Haste"
+    ],
+    "rules_explanation": "The description for haste says 'Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns.'"
+  }
+]

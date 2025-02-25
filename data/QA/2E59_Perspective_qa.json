@@ -1,0 +1,164 @@
+[
+  {
+    "question": "What kind of saving throw does the important giant in the back have to make after the 3rd-level ranger casts Phantasmal Force at it?",
+    "answer": "The giant must make an Intelligence saving throw of 15.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Targets",
+      "Spells > Phantasmal Force"
+    ],
+    "rules_explanation": "The spell Phantasmal Force requires a target Intelligence saving throw."
+  },
+  {
+    "question": "What is added to the female Stone Giant's Dexterity saving throws against Disrupting Earth?",
+    "answer": "The giants add a d4.",
+    "rules": [
+      "Magic > Casting a Spell > Saving Throws",
+      "Spells > Bless"
+    ],
+    "rules_explanation": "The bless spell adds a d4 to saving throws, and the NPC's were blessed by the cleric earlier in the round."
+  },
+  {
+    "question": "If a 9th-level barbarian takes 26 points of bludgeoning damage from a giant's club attack, how much damage does she take after applying rage?",
+    "answer": "The barbarian reduces the damage to 13 because she is raging.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "Raging barbarians have resistance to bludgeoning damage."
+  },
+  {
+    "question": "When the 9th-level monk uses a Spinning Roundhouse Kick with a 16+3+6 to hit which hits, how much damage will the attack do before a stunning strike attempt?",
+    "answer": "The Spinning Roundhouse Kick will do 7 points of damage.",
+    "rules": [
+      "Classes > Monk > Martial Arts"
+    ],
+    "rules_explanation": "The monks unarmed strikes deal a base damage die, plus the ability score modifier. With the DM confirming the dex mod is +3, and a base die type d4, the total unarmed damage is 7 points."
+  },
+  {
+    "question": "After a melee hit, can the 9th-level monk spend a ki point to force the target to make a saving throw to avoid being stunned?",
+    "answer": "Yes, after hitting with a melee weapon attack, the monk can spend 1 ki point to force the target to make a Constitution saving throw or be stunned until the end of the monk's next turn.",
+    "rules": [
+      "Classes > Monk > Stunning Strike"
+    ],
+    "rules_explanation": "The Stunning Strike feature states a monk can spend 1 ki point after a melee weapon hit to force the target to make a Constitution saving throw or be stunned."
+  },
+  {
+    "question": "After the monk Stuns the Stone Giant, do they get advantage on Flurry of Blows?",
+    "answer": "Yes, because the target is Stunned.",
+    "rules": [
+      "Conditions > Stunned",
+      "Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The stunned condition gives disadvantage to dex saves and makes attack rolls against the creature advantageous."
+  },
+  {
+    "question": "When making two Flurry of Blows attacks against a stunned target, does advantage need to be rolled for each?",
+    "answer": "Yes, both attacks have advantage, so a separate roll must be made for each.",
+    "rules": [
+      "Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Advantage and disadvantage are determined separately for each roll."
+  },
+  {
+    "question": "On a critical hit with a melee weapon attack, does a 9th-level barbarian roll an additional weapon damage die?",
+    "answer": "Yes, the barbarian gets to roll an additional die because she is level nine and has Brutal Critical.",
+    "rules": [
+      "Classes > Barbarian > Brutal Critical"
+    ],
+    "rules_explanation": "The Brutal Critical class feature at 9th level states the barbarian gets to roll an additional weapon damage die when determining the extra damage for a critical hit with a melee attack."
+  },
+  {
+    "question": "When rolling damage for a critical hit with Brutal Critical, how are the dice determined?",
+    "answer": "You double two of the dice, and then you add the additional third.",
+    "rules": [
+      "Classes > Barbarian > Brutal Critical",
+      "Combat > Making an Attack > Critical Hits"
+    ],
+    "rules_explanation": "The Brutal Critical class feature at 9th level states the barbarian gets to roll an additional weapon damage die when determining the extra damage for a critical hit with a melee attack. And the damage dice for a critical hit are rolled twice."
+  },
+  {
+    "question": "If a 9th-level barbarian with the Savage Attacker feat crits with a 1d6 weapon, what happens?",
+    "answer": "Once per turn, when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total.",
+    "rules": [
+      "Feats > Savage Attacker"
+    ],
+    "rules_explanation": "You reroll the dice and use the new total, instead of the original."
+  },
+  {
+    "question": "When you add Divine Fury to a melee attack with a Greatsword, how is the extra damage dice determined?",
+    "answer": "The damage dice are 3d6.",
+    "rules": [
+      "Classes > Barbarian > Path of the Zealot > Divine Fury"
+    ],
+    "rules_explanation": "At 3rd level, a Zealot barbarian adds 1d6 to the first weapon strike on each of their turns, increasing to 3d6 at 9th level. This is in addition to the damage from the greataxe"
+  },
+  {
+    "question": "While holding the Polymorph spell is there resistance to an action?",
+    "answer": "While holding Polymorph and there's nothing breaking it, combat at the moment has come to a halt.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "Polymorph is concentration, and once the giants are not fighting Jester they are no longer breaking the spell."
+  },
+  {
+    "question": "A Druid casts Prayer of Healing. How long does it take to cast?",
+    "answer": "10 minutes",
+    "rules": [
+      "Spellcasting > Casting Time",
+      "Cleric Spells > Prayer of Healing"
+    ],
+    "rules_explanation": "The casting time for prayer of healing is explicitly 10 minutes."
+  },
+  {
+    "question": "Does Bless apply to ability checks?",
+    "answer": "No",
+    "rules": [
+      "Spellcasting > Casting a Spell > Saving Throws",
+      "Spells > Bless"
+    ],
+    "rules_explanation": "Bless only applies to attack rolls and saving throws, not ability checks."
+  },
+  {
+    "question": "If a Small race opens a locked box, what check is required, and which ability modifier is added to the roll?",
+    "answer": "A Dexterity check using thieves' tools with your proficiency modifier is required.",
+    "rules": [
+      "Adventuring Gear > Thieves' Tools",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To pick a lock, a Dexterity check is made using thieves' tools with your proficiency bonus added."
+  },
+  {
+    "question": "If a 9th level character casts Comprehend Languages, how long does the spell last?",
+    "answer": "The spell lasts 10 minutes.",
+    "rules": [
+      "Spellcasting > Duration",
+      "Spell Descriptions > Comprehend Languages"
+    ],
+    "rules_explanation": "The spell description for comprehend languages states the spell duration is 1 hour, but there are no rules for increasing that duration."
+  },
+  {
+    "question": "When Yasha touches some spider meat and Jester pets it, what saving throw must they make and why?",
+    "answer": "They must both make a constitution saving throw, because the spiders in the Vermaloc are venomous.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There isn't a good reference for creating a monster with a poison effect, however, there's a reasonable expectation that the spiders are poisonous and should require saving throws."
+  },
+  {
+    "question": "How does the Dispel Magic spell interact with the Wall of Fire spell?",
+    "answer": "The Dispel Magic needs to be high enough of level to target Wall of Fire",
+    "rules": [
+      "Spellcasting > Duration",
+      "Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "If the dispel magic is 3rd level and Wall of Fire is a 4th level, the dispel magic has a chance to end the spell that created the darkness"
+  },
+  {
+    "question": "If a 9th-level wizard casts Wall of Fire as a 3rd-level spell and fails the check, what happens to Wall of Fire?",
+    "answer": "It continues with the spell, or if you concentrate on other spell, it ends",
+    "rules": [
+      "Spellcasting > Concentration",
+      "Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "If the dispel magic is 3rd level and Wall of Fire is a 4th level, the dispel magic has a chance to end the spell that created the darkness. If you lose concentration, it ends."
+  }
+]

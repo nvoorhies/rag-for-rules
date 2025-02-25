@@ -1,0 +1,90 @@
+[
+  {
+    "question": "Can the scar on the level 5 [class] alter the target to spells?",
+    "answer": "While holding this wand, you can use an action to expend 1 or more of its charges to cast the *fireball* spell (save DC 15) from it. For 1 charge, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.",
+    "rules": [
+      "Spellcasting > Casting a Spell at a Higher Level"
+    ],
+    "rules_explanation": "The scar has a fireball spell and the user is able to upcast. So it can alter the target to the extent that casting the spell on a higher level allows for the spell selected."
+  },
+  {
+    "question": "What is rolled for attempting to tell the truth?",
+    "answer": "Make a Read roll.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Narrator (Liam) says to make a Read roll to determine if the woman the circle is talking to is telling the truth."
+  },
+  {
+    "question": "If someone fails a roll to crawl though a tight space and is stuck what rolls do they make?",
+    "answer": "Make a Move roll.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Narrator (Liam) says to make a Move roll to try to get through the tight space. If there is a mixed success, a Brain roll is also required."
+  },
+  {
+    "question": "If the level 1 [class] fails a check after burning a drive should they also burn a resistance?",
+    "answer": "Yes, characters should attempt to resist a check even if they have been unsuccessful and the check does not guarantee a drive point.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules do not state that a resistance can not be used after a drive, so a drive can be burnt even on a lost role."
+  },
+  {
+    "question": "What kind of roll should be made to see if a character is telling the truth?",
+    "answer": "That is a Read roll.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Edgar (Alexander) states a Read roll should be made to check if someone is lying and is confirmed by the narrator"
+  },
+  {
+    "question": "If a level 5 [class] uses a Move roll to push out of a tight space scraping a healing wound what kind of roll is required to deal with the effects of the wound?",
+    "answer": "Brain",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "If there is a mixed success, Brain is required. The Narrator (Liam) states to take a brain."
+  },
+  {
+    "question": "What is used to to figure out what to do with something?",
+    "answer": "Focus",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "What to roll for trying to figure out something."
+  },
+  {
+    "question": "When the gloves are used to check someone for bleed what is used, and if there is a connection between those two?",
+    "answer": "Detector",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "What the doctor calls his medical equipment."
+  },
+  {
+    "question": "When one saves someone that is falling on the ground and pulling people off the cliff, can an action point or refresh be spent",
+    "answer": "Move",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "What to roll to make sure to save someone."
+  },
+  {
+    "question": "what roll is made to determine if an interred body is a danger.",
+    "answer": "Make a Focus roll",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "What roll Dr. Edgar Lycoris (Alexander) states to make to inspect a body."
+  },
+  {
+    "question": "what roll is made to see to detect if something it magickal nefarious has happened?",
+    "answer": "Sense roll",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "What roll to make to tell if something bad is coming."
+  }
+]

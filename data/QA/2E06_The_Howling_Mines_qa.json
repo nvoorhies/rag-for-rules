@@ -1,0 +1,73 @@
+[
+  {
+    "question": "Level 3 character race abilities and skills are being generated, how many hit points should a level 3 character have?",
+    "answer": "The number of hit points depends on the character's class, Constitution modifier, and any relevant class features.",
+    "rules": [
+      "Multiclassing > Hit Points and Hit Dice"
+    ],
+    "rules_explanation": "The question is about calculating the number of hit points, but to calculate this, you need to know about class information as well as the level that the character is so the rules for character advancement are relevant in addition to the rules for creating a character."
+  },
+  {
+    "question": "A level 3 character makes a sleight of hand check and gets a 19. Which SRD rules apply?",
+    "answer": "There are no specific rules given; the success or failure of a sleight of hand check is determined by comparing the dice roll plus any modifiers to a Difficulty Class determined by the DM.",
+    "rules": [],
+    "rules_explanation": "A sleight of hand check is a Dexterity check but there is no specific rule in the SRD document."
+  },
+  {
+    "question": "If a level 1 character's saving throw is being made with disadvantage, do you still add all the modifiers or proficiency bonus?",
+    "answer": "Yes. When you have advantage or disadvantage, you roll a second d20 when you make the roll, and you use either the higher or lower result, but you still add the modifiers and proficiency bonus from the appropriate ability.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules for Advantage and Disadvantage state that you still add all relevant modifiers - you are just rolling two dice and choosing the higher or lower result, but still modifying that chosen result."
+  },
+  {
+    "question": "A character is using Charm Person, the DM is going to make the Charisma save roll and has to determine the DC for the roll. Which rules are used?",
+    "answer": "The spell save DC equals 8 + the spellcasting ability modifier + the proficiency bonus of the spellcaster.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The rules for Spellcasting ability describe how to calculate the spell save DC."
+  },
+  {
+    "question": "The DM describes a series of actions a character will perform, which rules are used in this sequence?",
+    "answer": "All relevant rules based on the actions taken, including: how many Actions and bonus actions a character can take, movement rules, skills and abilities, attack rolls and damage, and so on, may be used.",
+    "rules": [
+      "Combat > Your Turn",
+      "Combat > Movement and Position",
+      "Using Ability Scores"
+    ],
+    "rules_explanation": "The way turns work and how ability scores are used are both relevant to adjudicating character actions."
+  },
+  {
+    "question": "What happens to a character who is officially intoxicated, as a function of the game and how do they operate?",
+    "answer": "The rules do not explicitly state what happens to a character who is intoxicated. As a DM, you can invent the nature and effects of the condition.",
+    "rules": [],
+    "rules_explanation": "There are no rules in the SRD for intoxication."
+  },
+  {
+    "question": "A character casts a spell that has both advantage and disadvantage on it. Which rules apply and are the rolls standard?",
+    "answer": "If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. You then add the relevant ability modifier and proficiency bonus.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules for Advantage and Disadvantage explicitly state what to do in this case."
+  },
+  {
+    "question": "If a character with darkvision and another without are trying to find tracks or navigate with perception. Which rules apply to that situation?",
+    "answer": "A character with darkvision can see in dim light within 60 feet as if it were bright light, and in darkness as if it were dim light, but can't discern color in darkness, only shades of gray. In a lightly obscured area, creatures have disadvantage on Wisdom (Perception) checks that rely on sight. A heavily obscured area blocks vision entirely. If the grass is about as tall as the cart at times, at times it's lower, the characters above that will see the whole terrain more clearly",
+    "rules": [
+      "Races > Racial Traits > Darkvision",
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "The darkvision rules detail how darkvision interacts with light levels, and the vision and light rules define how this impacts perception"
+  },
+  {
+    "question": "A character is attempting to use a strength check to hold a large Jester level 5 fire genasi on their shoulders. Does this require a saving throw or just a check?",
+    "answer": "Just a check. The DM compares the Strength check of the carrier to the target number determined by the DM.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules for ability checks detail how the roll is made and used"
+  }
+]

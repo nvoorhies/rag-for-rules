@@ -1,0 +1,137 @@
+[
+  {
+    "question": "When the level 3 fighter casts the `Fly` spell for 10 minutes, does he need to roll to see if the spell succeeds or not given the wild magic present in Aeor?",
+    "answer": "The DM has ruled that because the `Feather Fall` spell is below 3rd level, it is not impacted. However, the casting of the Fly spell may be impacted by these fields, which requires a roll to determine if the spell succeeds or fails.",
+    "rules": [
+      "Spellcasting > Casting a Spell",
+      "Part I > transcript line referencing level of featherfall being less than 3rd level",
+      "Part I > transcript line referencing roll for spell with sword"
+    ],
+    "rules_explanation": "The transcript indicates a roll is needed to determine if a spell is affected by the Aeorian fields of strange magic.  The rules for casting a spell indicates the roll is needed to see if the spell succeeds."
+  },
+  {
+    "question": "The player cast `Walk on Water`. Is the character affected by the speed of the water?",
+    "answer": "No. When a creature casts `Walk on Water`, they treat the water \"as if it were a harmless solid\".",
+    "rules": [
+      "Spellcasting > Casting a Spell",
+      "Part I > Walk on Water spell description"
+    ],
+    "rules_explanation": "The rules for casting a spell indicates the player has no further influence over the spell after the cast. The rules for the spell Walk on Water indicate that when this spell is successfully cast on a creature, it treats water as a solid surface, and is therefore not affected by the current."
+  },
+  {
+    "question": "Given the two insight checks with disadvantage, can level 13, race unknown, class unknown, with +9 bonus to insight, make use of any of these in a roll?",
+    "answer": "The Blessing of the Trickster spell grants advantage which overrides the disadvantage on the roll. You would roll 2d20 and take the higher result, adding 9.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Part I > Blessings of the Trickster spell casting mention",
+      "Part I > insight skill check with disadvantage mention"
+    ],
+    "rules_explanation": "When both Advantage and Disadvantage are in effect, the are cancelled, so normal rules apply on the roll with a +9 bonus."
+  },
+  {
+    "question": "Can the level 5 rogue cast Message?",
+    "answer": "Yes. According to the SRD rules, the level 5 rogue has the ability to cast Message.",
+    "rules": [
+      "Spellcasting > Casting a Spell",
+      "Part I > rogue casting message spell"
+    ],
+    "rules_explanation": "A 5th level rogue doesn't have the ability to cast a spell per the SRD. The question cannot be answered according to the rules."
+  },
+  {
+    "question": "What is the effect of having two voices in the level 6 Storm Sorceror's head?",
+    "answer": "The description does not contain information on the effect of two voices in the sorcerer's head. The rules for the Message spell state that if two people are communicating in the same voice, it is difficult to distinguish the words.",
+    "rules": [
+      "Spellcasting > Casting a Spell",
+      "Part I > voices in head competing mention",
+      "Part I > Yasha has two voices mention"
+    ],
+    "rules_explanation": "The rules for the message spell indicate that the caster has no influence on the spell after the cast. The rules for the Message spell indicate that if two people are communicating in the same voice, it is difficult to distinguish the words. There is no information in the SRD that can be used to infer whether or not the voices are in one mind or two."
+  },
+  {
+    "question": "Does the cleric, level unknown, have the `Find the Path` spell prepared?",
+    "answer": "Cannot be determined.",
+    "rules": [],
+    "rules_explanation": "There's not enough information in the SRD or the transcript to answer this question."
+  },
+  {
+    "question": "After the cleric is unconscious, can the cleric cast `Spare the Dying` at another creature?",
+    "answer": "No. An unconscious creature can't take actions.",
+    "rules": [
+      "Appendix PH-A: Conditions > Unconscious",
+      "Spellcasting > Casting a Spell"
+    ],
+    "rules_explanation": "According to SRD, to cast a spell you must take an action. Per the SRD, an unconscious character cannot take actions."
+  },
+  {
+    "question": "The characters succeed on saving throws against the effects of the glyph. What happens to those characters as a result?",
+    "answer": "They take half damage.",
+    "rules": [
+      "Saving Throws"
+    ],
+    "rules_explanation": "The description of the glyph indicates those that succeed on the saving throw take half damage."
+  },
+  {
+    "question": "The character says 'may I Healing Hands on myself?' Is this allowed?",
+    "answer": "The Healing Hands action can be used on oneself or another.",
+    "rules": [],
+    "rules_explanation": "The question does not contain enough information to determine the character's class, level, or abilities. The general rules for playing D&D can be used as guidelines, but do not directly answer the question."
+  },
+  {
+    "question": "If a monster is immune to charm, can the party still attempt to cast charm on it?",
+    "answer": "Yes. The monster automatically succeeds on the saving throw.",
+    "rules": [
+      "Monsters > Special Traits > Vulnerabilities, Resistances, and Immunities"
+    ],
+    "rules_explanation": "A creature can always attempt an action, even if there is no chance of succeeding, however, if a creature is immune to the action they automatically succeed on the saving throw and ignore the effect."
+  },
+  {
+    "question": "Does the `Wall of Force` stay up no matter how far away the caster is?",
+    "answer": "No, the Wall of Force spell requires concentration and only lasts for the duration.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Duration",
+      "Spell Lists > Wall of Force (SRD 5.1)"
+    ],
+    "rules_explanation": "The length of a spell depends on the spell. The wall of force spell is concentration. When a spell requires concentration, the caster must maintain concentration, and can only maintain the spell for a certain time."
+  },
+  {
+    "question": "Can the three players use Pass Without a Trace and Invoke Duplicity at the same time?",
+    "answer": "No. The player is a cleric, so they can only maintain one concentration spell at a time.",
+    "rules": [
+      "Spellcasting > Concentration",
+      "Class Features > Cleric Spellcasting"
+    ],
+    "rules_explanation": "Per the class rules, a cleric is not able to concentrate on more than one spell at a time."
+  },
+  {
+    "question": "Can the wizard who is a sheep still move?",
+    "answer": "Yes, the sheep retains its move action.",
+    "rules": [
+      "Spellcasting > Targets",
+      "Spellcasting > Polymorph",
+      "Part I > description of polymorph spell"
+    ],
+    "rules_explanation": "The rules for Shape Change in SRD indicate some, but not all, abilities are swapped with the beast form. You retain your move action."
+  },
+  {
+    "question": "Does the Haversack require a piece of an object in order to be familiar with it for teleportation?",
+    "answer": "No. The Haversack can be accessed at any time, and has no mention of a need for components.",
+    "rules": [
+      "Magic Items > Haversack"
+    ],
+    "rules_explanation": "According to the Haversack description, the owner can at any time reach in and grab an object, so no additional requirements are necessary in order to obtain an item."
+  },
+  {
+    "question": "Can the character teleport the objects in it? Does the weasel count?",
+    "answer": "Cannot be determined.",
+    "rules": [],
+    "rules_explanation": "Not enough information is provided."
+  },
+  {
+    "question": "The character asks if they can do orb of invulnerability and walk in. Is this possible?",
+    "answer": "The globe is stationary so it cannot travel, and is of limited radius.",
+    "rules": [
+      "Magic Items > Orb of Invulnerability"
+    ],
+    "rules_explanation": "Rules for the Orb of Invulnerability item indicates the orb is stationary"
+  }
+]

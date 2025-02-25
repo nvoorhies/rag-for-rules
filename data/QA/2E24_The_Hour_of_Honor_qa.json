@@ -1,0 +1,270 @@
+[
+  {
+    "question": "A level 10, race Human, alchemist is attempting to recall information about black powder, which he has some knowledge of, though rare. Should the character make an intelligence check, and if so, does he have advantage on the roll?",
+    "answer": "The character should make an Intelligence check and does have advantage on the roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Because the character has some alchemical history, they have advantage on the Intelligence check to recall information about black powder."
+  },
+  {
+    "question": "A level 1, race Human, Class fighter is approached by a dwarven bartender. The bartender asks if the character wants something strong or *strong*. The character's level 12, race Tiefling, class bard tries to discern the bartender's intent, should the bard make an insight check?",
+    "answer": "Yes, the bard should make an insight check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM has described a situation where it is appropriate to roll insight on a non-player character."
+  },
+  {
+    "question": "A level 12, race Tiefling, class bard is harassing an NPC during a game by loudly praising his piano playing. The dwarven bartender asks the first character to make a Charisma (Persuasion) check, is the NPC in the Zone of Truth spell? ",
+    "answer": "No. The skill is determined by the GM, not by the name of a spell",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The character is asked to make a skill check using persuasion based on how they are interacting with the bartender"
+  },
+  {
+    "question": "Five level 3 characters have contributed 30 gold for a drinking contest. For one of the characters, level 12 race Tiefling, class bard, the challenge is to beat an NPC at drinking. The bard has already had several drinks. Does the character make a Constitution check and what happens to ties?",
+    "answer": "The character should make a Constitution check. Ties result in another round of the contest.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Contests"
+    ],
+    "rules_explanation": "The rules determine that this event has multiple stages, and ties result in additional rounds with additional rolls until one party succeeds"
+  },
+  {
+    "question": "A level 1, race Human, Class fighter is speaking with a dwarven lass and gives her 4 gold as a deposit on companions for the evening. Can the fighter later get this deposit back? ",
+    "answer": "The rules do not address this. The GM must decide.",
+    "rules": [],
+    "rules_explanation": "This is a matter of social interaction and commerce, not governed by the SRD rules"
+  },
+  {
+    "question": "A group of adventurers attempts to take a table and an NPC, who is an employee of the bar, claims they already have the table. A character in the party uses the blood maledict to blind one of the individuals harassing the NPC. What kind of check should this player make for this action?",
+    "answer": "It was requested that the character make an intimidation check",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Making someone blind as a negotiation tactic would likely fall under the purview of the Intimidation skill. The GM requested an Intimidation check."
+  },
+  {
+    "question": "Level 12, race Tiefling, class bard casts Haste on another character. What are the effects?",
+    "answer": "This rules is not specific. A DM would need to interpret this.",
+    "rules": [],
+    "rules_explanation": "The effect is not specific, but mentions the general effects of haste as speeding the person up."
+  },
+  {
+    "question": "A monk attempts to use Missile Snare to catch a coin being thrown by a dancer. What is the appropriate action to resolve this action?",
+    "answer": "The character should make a dexterity check, contested by the dancer's Dexterity check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Contests"
+    ],
+    "rules_explanation": "Catching an object is a Dexterity check. Because the dancer is trying to obtain the coin, it is a contest between the two parties."
+  },
+  {
+    "question": "The evening mistress sets up for a drinking game. Is it first to finish, and if so, how is success determined?",
+    "answer": "The game is one drink after the next. Success is determined by competitive Constitution checks, and the first to three losses is the loser.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Contests"
+    ],
+    "rules_explanation": "The rules are set in advance by the nature of the game that is to be performed"
+  },
+  {
+    "question": "A character is being sick on the table in a bar. What is the appropriate action to take, if any?",
+    "answer": "This is a matter of social interaction, not governed by the SRD rules.",
+    "rules": [],
+    "rules_explanation": "Actions in taverns are not set in SRD rules."
+  },
+  {
+    "question": "A character is being carried by another creature, they are then hit by a slap. Does the character take damage?",
+    "answer": "Yes, The creature takes one hit point of damage.",
+    "rules": [],
+    "rules_explanation": "Damage from a slap are adjudicated by the GM and is not defined by the SRD rules."
+  },
+  {
+    "question": "A wizard looks through a shop window and sees a sign for books. What sort of check should they make to see if it's a happy or sad book store?",
+    "answer": "They should make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Looking for details in an obscured area is covered by a perception check."
+  },
+  {
+    "question": "A character with expertise in deception is under the effects of Zone of Truth. They respond to questions with 'both'. Is the creature lying?",
+    "answer": "The affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.",
+    "rules": [
+      "Spell Descriptions > Zone of Truth"
+    ],
+    "rules_explanation": "The conditions in the spell indicate that you know it's been cast on you."
+  },
+  {
+    "question": "A character is using the Locate Object spell to find stolen goods, what is the range of the spell?",
+    "answer": "The object must be within 1,000 feet of the character.",
+    "rules": [
+      "Spell Descriptions > Locate Object"
+    ],
+    "rules_explanation": "The spell range must be adhered to in order to locate the object."
+  },
+  {
+    "question": "A character is using the Thaumaturgy spell to make someone sound like they are chanting. What skill is this associated with?",
+    "answer": "No skill check required, but another player used thaumaturgy to make it sound like other people are chanting so should make a persuasion check.",
+    "rules": [],
+    "rules_explanation": "You don't make a check to cast a spell."
+  },
+  {
+    "question": "If the druid reaches zero hit points while they are wild shaped, what happens?",
+    "answer": "They revert to their normal form, and any excess damage carries over to their normal form",
+    "rules": [
+      "Druid > Class Features > Wild Shape"
+    ],
+    "rules_explanation": "The druid returns to the number of hit points it had before transforming unless their normal form is also reduced to zero hit points."
+  },
+  {
+    "question": "A character ties their coin to a wand and hits someone with it. What's a check to know about if the wand is any good or who made it?",
+    "answer": "No check. To discern what the wand is, you should use the Identify spell.",
+    "rules": [],
+    "rules_explanation": "Using a wand isn't a testable action, using a skill or ability on a magical effect is an Intelligence (Arcana) check."
+  },
+  {
+    "question": "A character casts disguise self. What is the DC to inspect it and what happens if the disguise is proven false?",
+    "answer": "The DC to inspect the disguise is the caster's spell save DC. A creature that discerns the illusion for what it is, the creature can see through the image.",
+    "rules": [
+      "Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image."
+  },
+  {
+    "question": "One of the party is very drunk and the rest of the party is concerned. What does this confer to the players?",
+    "answer": "Disadvantage on ability checks",
+    "rules": [
+      "Appendix PH-A: Conditions > Incapacitated"
+    ],
+    "rules_explanation": "While specific conditions of being Drunk are not set out, it is clear that if a character is incapacitated then it can't take actions or reactions and, therefore, they can't take a turn."
+  },
+  {
+    "question": "A monk is looking at a sign in another language. What type of check should be used to understand the sign?",
+    "answer": "No check. The character can automatically understand the language.",
+    "rules": [
+      "Bard > Class Features > Tongue of the Sun and Moon"
+    ],
+    "rules_explanation": "The PC has obtained the magical ability to comprehend any spoken language. It does not have to check for it."
+  },
+  {
+    "question": "A character has advantage on an intimidation check and rolls a 20 on one of their dice and a one on the other. What would happen with the roll?",
+    "answer": "There was no rules question, so the event could not happen with the limited information given in the rules context.",
+    "rules": [],
+    "rules_explanation": "This was not an action that fell within the ambit of SRD rules to evaluate"
+  },
+  {
+    "question": "What are the benefits conferred to a character under the effect of the Bless spell?",
+    "answer": "Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The description of the Bless spell dictates what the effect does"
+  },
+  {
+    "question": "What does the Friends spell do?",
+    "answer": "There is no spell by that name in the SRD",
+    "rules": [],
+    "rules_explanation": "The information is not present in the SRD rules and cannot be evaluated"
+  },
+  {
+    "question": "A character wants to use the Locate Object spell on the tokens they won at a bar. How do they perform this action?",
+    "answer": "Describe or name an object that is familiar to you. You sense the direction to the object's location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.",
+    "rules": [
+      "Spell Descriptions > Locate Object"
+    ],
+    "rules_explanation": "The description of the Locate Object spell dictates how you cast the spell"
+  },
+  {
+    "question": "A character makes a Charisma saving throw and succeeds, what happens?",
+    "answer": "This depends on the effect that required the saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The effects of making a saving throw, or failing a saving throw, are determined by the effect that prompts the saving throw. Some have no effect, while others can cause incapacitation or damage."
+  },
+  {
+    "question": "The Locate Object spell locates something, but it's not in a building. How can the players traverse the distance more quickly?",
+    "answer": "They can choose a normal, fast, or slow pace, as shown on the Travel Pace table.",
+    "rules": [
+      "Adventuring > Movement > Travel Pace"
+    ],
+    "rules_explanation": "The character must use the travel rules to reach the destination of the spell."
+  },
+  {
+    "question": "A character states they are familiar with an inventor. Do they have advantage on checks?",
+    "answer": "The rules do not define whether or not being familiar with someone grants advantage on checks",
+    "rules": [],
+    "rules_explanation": "The question was vague, and the action does not necessarily grant advantage or disadvantage in any way."
+  },
+  {
+    "question": "What is the saving throw to resist the Zone of Truth spell?",
+    "answer": "The target must make a Charisma saving throw",
+    "rules": [
+      "Spell Descriptions > Zone of Truth"
+    ],
+    "rules_explanation": "The description of the Zone of Truth spell dictates which saving throw is used"
+  },
+  {
+    "question": "The spell Suggestion is cast, how long can this last?",
+    "answer": "The spell lasts for Concentration, up to 8 hours",
+    "rules": [
+      "Spell Descriptions > Suggestion"
+    ],
+    "rules_explanation": "The spell duration for the spell can continue for 8 hours."
+  },
+  {
+    "question": "What kind of action is required to cast the Grease spell?",
+    "answer": "Casting Time: 1 action",
+    "rules": [
+      "Spell Descriptions > Grease"
+    ],
+    "rules_explanation": "The casting time is 1 Action."
+  },
+  {
+    "question": "Level 12, race Tiefling, class bard casts a spell directly in front of another character. The character yells: 'Beau! Beau! Beau!' Make a persuasion check. What are the effects of the action?",
+    "answer": "This depends on the spell and the results of the persuasion check.",
+    "rules": [],
+    "rules_explanation": "Without knowing the spell, and the relationship to the persuasion, it's impossible to determine the effect. A high roll will not change the laws of physics, while a low roll may not make the NPC take any action."
+  },
+  {
+    "question": "When a dancer is reaching for coins tossed by a Bard, does a natural one result in a success?",
+    "answer": "A natural one is a failure, regardless of any adjustments",
+    "rules": [],
+    "rules_explanation": "The effects are not defined by the rule that has a natural one. The natural one just dictates it was a failure."
+  },
+  {
+    "question": "If a wizard finishes a long rest, how many expended spell slots do they regain?",
+    "answer": "You regain all expended spell slots when you finish a long rest.",
+    "rules": [
+      "Wizard > Class Features > Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "All spell slots are regained after a long rest."
+  },
+  {
+    "question": "When a player spends a short rest and has spent Hit Dice, how many Hit Dice do they regain?",
+    "answer": "A character regains spent Hit Dice, up to a number of dice equal to half of the character's total number of them (minimum of one die).",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "You regain some spent Hit Dice upon finishing a long rest, as per the rules."
+  },
+  {
+    "question": "Does Zone of Truth force the target to answer the questions?",
+    "answer": "No, An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie.",
+    "rules": [
+      "Spell Descriptions > Zone of Truth"
+    ],
+    "rules_explanation": "The effects of the Zone of Truth spell specify this outcome."
+  },
+  {
+    "question": "Can all races live in mushrooms?",
+    "answer": "No",
+    "rules": [],
+    "rules_explanation": "This question has no basis in the provided rules."
+  }
+]

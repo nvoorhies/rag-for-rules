@@ -1,0 +1,143 @@
+[
+  {
+    "question": "Is the creature proficient in unarmed because they are just punching?",
+    "answer": "Yes, the creature is proficient in unarmed because they are just punching and it is appropriate to use the proficiency modifier.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Proficiency Bonus"
+    ],
+    "rules_explanation": "The GM determines the creature's skill in unarmed combat, and that skill implies whether the character is proficient, adding the bonus."
+  },
+  {
+    "question": "Does the level 9 wizard add Keen Mind to perception check?",
+    "answer": "No, Keen Mind does not apply to this perception check.",
+    "rules": [],
+    "rules_explanation": "The GM determines if the keen mind ability can be applied, and the question indicates it strangely does not."
+  },
+  {
+    "question": "How far is the farthest archery target?",
+    "answer": "The farthest target is approximately 100 feet, putting it in its second range increment, which confers disadvantage.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Range"
+    ],
+    "rules_explanation": "The target is 80 feet, and the range is 100 feet with disadvantage after 80, this means the target should be rolled at disadvantage"
+  },
+  {
+    "question": "If the party hits the farthest archery target, could they have the doll's weight in rats instead?",
+    "answer": "A ruling about a non-core mechanic of the game.",
+    "rules": [],
+    "rules_explanation": "The specific scenario is not covered by the basic rule set."
+  },
+  {
+    "question": "Is the level 9 wizard proficient with short bows?",
+    "answer": "A wizard is not generally proficient with short bows unless something else grants proficiency.",
+    "rules": [],
+    "rules_explanation": "Simple ranged weapons are part of simple weapons, and wizards are not proficient with simple weapons."
+  },
+  {
+    "question": "If one of the characters is proficient with simple weapons but not simple ranged weapons, do the rules change?",
+    "answer": "No, that character is still not proficient with short bows as part of the description of simple weapons or their class abilities.",
+    "rules": [],
+    "rules_explanation": "A character must be explicitly proficient with simple ranged weapons for this exception to be true."
+  },
+  {
+    "question": "When raging, what kind of check should be rolled to see if a Level 6 Barbarian can smash a rock on top of a platform?",
+    "answer": "Roll a strength check. You have advantage while raging.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "Raging gives advantage on strength checks"
+  },
+  {
+    "question": "what does raging do for the level 6 Barbarian?",
+    "answer": "The raging character will have advantage on Strength checks and Strength saving throws, when making a melee weapon attack using Strength, gains a +2 bonus to the damage roll, and have resistance to bludgeoning, piercing, and slashing damage.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The list is compiled from the information in the rage rules"
+  },
+  {
+    "question": "If the Level 6 Barbarian is not hit by a melee attack and just hits the block while raging, does the rage end?",
+    "answer": "The rage does not end. If the raging character hasn't attacked a hostile creature since their last turn or taken damage since then.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The condition for ending rage is confirmed in the rage entry. \"It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then.\""
+  },
+  {
+    "question": "What is the check that should be rolled to try and smash the rock if the barabarian did not rage?",
+    "answer": "A straight strength check should be rolled.",
+    "rules": [],
+    "rules_explanation": "Smashing an object is usually a strength check"
+  },
+  {
+    "question": "How does Disguise Self interact with an extension, such as a cane?",
+    "answer": "Disguise self does not cover accoutrements.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "The description of the spell details which aspects of appearance are changed, and extensions to appearance like canes do not count."
+  },
+  {
+    "question": "After Disguise Self has been cast on a party member by the level 4 cleric, and the NPC has seen the original player model, can the illusion then just walk straight in?",
+    "answer": "The character can saunter in the far end of the temple through one of the arches that marks the interior, come in through the shadow.",
+    "rules": [],
+    "rules_explanation": "the game is mostly adjudicatable by GM rulings"
+  },
+  {
+    "question": "What is required for the NPC to cast Disguise Self?",
+    "answer": "When you cast the spell, the herald in the corner from where she was said, \"Miss, if you need something, don't be afraid to let me know. We're just sitting around.\"",
+    "rules": [],
+    "rules_explanation": "The NPC must say their catch phrase"
+  },
+  {
+    "question": "If the level 4 cleric casts Disguise Self in public, do they automatically drop disguise and what happens?",
+    "answer": "The character will take a round and the NPC will chase the old lady and the party hears a voice (scream). “That old woman! Find her!”",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "This can be done as long as the GM approves it to be done"
+  },
+  {
+    "question": "To see if an NPC trusts a character or party, what kind of roll should be made?",
+    "answer": "The check that should be made is a general charisma check to see if the NPC trusts the party's face.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Charisma"
+    ],
+    "rules_explanation": "A charisma check is the appropriate ability to roll when trying to influence an NPC."
+  },
+  {
+    "question": "How many party members can compete in Victory Pit?",
+    "answer": "Groups of five to eight are allowed to enter.",
+    "rules": [],
+    "rules_explanation": "The organiser says \"Groups of five to eight are allowed to enter.\""
+  },
+  {
+    "question": "The Level 7 fighter casts a blur spell, what happens to their cat?",
+    "answer": "That is Kitty, roll a stealth check. Servant's like \"You can't be in here,\" and-- Not everyone's going to kick a cat into dust!",
+    "rules": [],
+    "rules_explanation": "If it isn't used with the magic then its a regular cat"
+  },
+  {
+    "question": "Can the party members all cast a spell before competing in Victory Pit?",
+    "answer": "You will be brought down to the waiting/holding area and each group will be brought into the Victory Pit to face off with the chosen peril.",
+    "rules": [],
+    "rules_explanation": "You do have time but they are gathering the teams and you can't be separated"
+  },
+  {
+    "question": "If a player is in a box (Silent Image) does Bless still work on them and what roll is used?",
+    "answer": "A stealth check with advantage is the roll that is used. She is also trying to listen in make a perception check. ",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Bless",
+      "Using Ability Scores > Ability Checks > Dexterity"
+    ],
+    "rules_explanation": "The effects of bless, assuming she can see through the Silent Image. It is a dex stealth check to see if you can blend into the environment. "
+  },
+  {
+    "question": "What are the rules for a tie in a check?",
+    "answer": "If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Contests"
+    ],
+    "rules_explanation": "A tie goes to the original situation."
+  }
+]

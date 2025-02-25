@@ -1,0 +1,176 @@
+[
+  {
+    "question": "The level 6, [Warlock/Sorcerer/Wizard] level, race [race] casts Sending to the dragon turtle, who destroys ships and likes stuff. How many words can the message be?",
+    "answer": "The Sending spell allows for twenty-five words or less.",
+    "rules": [
+      "Spells > Sending > Components",
+      "Spells > Sending > Description"
+    ],
+    "rules_explanation": "The spell description of Sending specifies a limit of 25 words for the message."
+  },
+  {
+    "question": "If a level 1 Druid were to Wildshape into an animal and have gone halfway through the doorway to a tree but the Druid then closes the portal behind them, what would happen?",
+    "answer": "The DM would make a ruling on the event, as the results are not defined within the rules.",
+    "rules": [],
+    "rules_explanation": "There is no definition in the rules for partial transport through a portal, and so the DM is required to make a judgement call as to the results."
+  },
+  {
+    "question": "The level 6 Cleric casts Heroes' Feast. For how long does the spell last? What is the range of the spell? What benefits are gained by those who eat the feast?",
+    "answer": "The spell lasts 24 hours and has a range of 30 feet, bestowing advantage on wisdom saving throws, immunity to poison, immunity to fear, and 2d10 temporary hit points.",
+    "rules": [
+      "Spells > Heroes' Feast > Description",
+      "Spells > Heroes' Feast > Duration",
+      "Spells > Heroes' Feast > Range"
+    ],
+    "rules_explanation": "The spell description of Sending specifies a limit of 25 words for the message."
+  },
+  {
+    "question": "The Level 4 [class] [race] attempts to investigate the beach. What roll is made?",
+    "answer": "Make a Perception or Investigation check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "When the outcome of an action is uncertain the DM calls for an ability check and chooses which of the six abilities is relevant to the task at hand"
+  },
+  {
+    "question": "Vilya says, \"Everyone in the village works together well because they've known nothing but the village. We don't know who these people were before they found their way here.\" What action has Vilya taken?",
+    "answer": "This is an expositionary statement by an NPC in the game and not a rules interaction.",
+    "rules": [],
+    "rules_explanation": "This is a description of the current setting and not the application of any rules."
+  },
+  {
+    "question": "The level 6 [Warlock/Sorcerer/Wizard] uses Mask of Many Faces to look like Lukash. How is that determined?",
+    "answer": "The spell is determined by the user's description.",
+    "rules": [
+      "Spells > Disguise Self > Description"
+    ],
+    "rules_explanation": "The disguise self spells disguises physical appearance as well as clothing, armor, weapons, and equipment. You can make each creature seem 1 foot shorter or taller and appear thin, fat, or in between. You can't change a target's body type, so you must choose a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The spell lasts for the duration, unless you use your action to dismiss it sooner."
+  },
+  {
+    "question": "The level 6 [Warlock/Sorcerer/Wizard] can't turn the water to get back into the cavern. What do you do?",
+    "answer": "This is not a rules interaction, but a description of one player character relying on another.",
+    "rules": [],
+    "rules_explanation": "This does not call on the rules, but a judgement about how the characters should move on from this point."
+  },
+  {
+    "question": "The level 6 [Warlock/Sorcerer/Wizard] attempts to Fire Bolt the ships and does. Can they set a different ship on fire?",
+    "answer": "Yes, the Fire Bolt has a range of 120 feet, and any flammable object hit by this spell ignites if it isn't being worn or carried.",
+    "rules": [
+      "Spells > Fire Bolt > Range",
+      "Spells > Fire Bolt > Description"
+    ],
+    "rules_explanation": "The spell description specifies the range and the target of the spell."
+  },
+  {
+    "question": "A group of Player Characters are attempting to enter into a butthole. What check does the DM make?",
+    "answer": "There is no rule that applies to this situation, so the DM would have to determine if any roll would be appropriate.",
+    "rules": [],
+    "rules_explanation": "There is no definition in the rules for 'buttholes' or for being 'sucked into one'."
+  },
+  {
+    "question": "The group of Player Characters is in the lair of a volcano god with the volcano starting to erupt. What can be done to help the villagers?",
+    "answer": "There is no definition in the rules for that situation, so the DM would have to make a ruling as to how to respond.",
+    "rules": [],
+    "rules_explanation": "That is determined by the DM since there is no specific response spelled out in the rules, to that specific situation."
+  },
+  {
+    "question": "The DM requests that the advantage on the Wisdom Saving Throw against Vokodo be recorded. What rule applies?",
+    "answer": "The Heroes' Feast spell confers this effect.",
+    "rules": [
+      "Spells > Heroes' Feast > Description",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The spell provides advantage to wisdom saving throws but has no general effect on disadvantage"
+  },
+  {
+    "question": "The DM asks for an investigation check. What is the adjustment, if any, to that roll for the human that lost his key?",
+    "answer": "There is no mechanical penalty in the rules for having lost an item to an investigation roll.",
+    "rules": [],
+    "rules_explanation": "The character sheet tracks what abilities that character has. If the lost key is relevant to the situation, the DM may impose disadvantage if its lack makes the investigation harder."
+  },
+  {
+    "question": "The Level 6 Circle of the Land Druid casts Call Lightning. At what level will it be cast, and what is the damage for the bolt of lightning?",
+    "answer": "As a 6th level character, the druid can cast the spell at its normal level of 3rd, dealing 3d10 lightning damage. The druid can cast it at a higher level if they choose to expend a higher level spell slot.",
+    "rules": [
+      "Classes > Druid > Spellcasting > Spells Known of 1st Level and Higher",
+      "Spells > Call Lightning > At Higher Levels"
+    ],
+    "rules_explanation": "Call Lightning damage increases with the spell level it is cast at"
+  },
+  {
+    "question": "A Level 6 Circle of the Land Druid casts a Call Lightning spell then transforms into a Killer Whale. Can they continue to use the Call Lightning spell?",
+    "answer": "No, they cannot, because the Druid must use verbal components to use the call lightning spell and a killer whale cannot speak.",
+    "rules": [
+      "Classes > Druid > Wild Shape > Description",
+      "Spells > Call Lightning > Components"
+    ],
+    "rules_explanation": "The Druid has the ability to maintain concentration of spells while wild shaped into an animal, however, they cannot speak."
+  },
+  {
+    "question": "Can the Lucky stone grant a bonus to the Wisdom Saving throw to avoid Vokodo's power?",
+    "answer": "The Transmuter's Stone can give resistance to one kind of damage and has other capabilities.",
+    "rules": [
+      "Classes > Wizard > Arcane Traditions > Transmutation Savant > Transmuter's Stone > Description"
+    ],
+    "rules_explanation": "A character's Transmuter Stone can produce a number of limited benefits to a character of that type, that does not include any bonuses or special effects to saving throws."
+  },
+  {
+    "question": "Caleb casts polymorph on Vokodo but the wisdom save is successful so he casts it on Beau instead. Can that ricochet?",
+    "answer": "You can use an evocation spell to create pockets of relative safety within the effects of your evocation spells with Careful Spell. The DM may also have the ability to make an existing spell ricochet by applying a magical effect during the game.",
+    "rules": [
+      "Classes > Wizard > Arcane Traditions > Evocation Savant > Sculpt Spells > Description",
+      "Spells > Polymorph > Description"
+    ],
+    "rules_explanation": "Certain wizard subclasses gain powers to alter the flow of their spell effects, and DMs are allowed to implement special magical events that take place within the game."
+  },
+  {
+    "question": "One player character casts sending. Another casts polymorph. Can they have the other player character polymorph Mr. Turts?",
+    "answer": "Polymorph is a touch spell and has no other specified range, so the spellcaster must be able to touch the target to cast the spell on it. Sending is a communication spell and does not allow for other actions to be carried out from a range.",
+    "rules": [
+      "Spells > Polymorph > Range",
+      "Spells > Sending > Description"
+    ],
+    "rules_explanation": "Certain abilities have ranges that limit where they can be delivered. Polymorph is limited to touch, and thus cannot occur from a large range such as Sending."
+  },
+  {
+    "question": "With Jester unconscious, the monster casts Hold person on Jester. Jester is being protected. What is the result?",
+    "answer": "Not specified in rules; DM would have to make a ruling based on the spell.",
+    "rules": [
+      "Spells > Hold Person > Description"
+    ],
+    "rules_explanation": "There are no rules for being forced to choose a new target for a spell where the original target is unconscious."
+  },
+  {
+    "question": "The bard has invoked a major image. Can the BBEG use counterspell?",
+    "answer": "Major Image is an illusionary spell and would create the image of the monster but it would not actually summon an actual monster so therefore cannot be counterspelled.",
+    "rules": [
+      "Spells > Major Image > Description",
+      "Spells > Counterspell > Description"
+    ],
+    "rules_explanation": "A major image is the illusion of something real, where as other spells summon or transform, or otherwise actually have the potential to be counterspelled"
+  },
+  {
+    "question": "How long are they able to maintain Banishment with high damage going out?",
+    "answer": "If concentration is broken on the Banishment spell, the target will return to the plane of existence they were previously on.",
+    "rules": [
+      "Spells > Banishment > Description",
+      "Spells > Concentration > Description"
+    ],
+    "rules_explanation": "Banishment requires concentration and failing concentration means that the spell will fail."
+  },
+  {
+    "question": "If I say we destroyed one of the diamonds, the 300 gold diamond, you cast Greater Restoration how many times the last time?",
+    "answer": "The greater restoration spell consumes diamond dust worth 100 gp when used.",
+    "rules": [
+      "Spells > Greater Restoration > Components",
+      "Spells > Greater Restoration > Description"
+    ],
+    "rules_explanation": "Each use of the greater restoration spell consumes diamond dust worth 100 gp."
+  },
+  {
+    "question": "If there is a rule about replacing the value of diamonds with residuum, which character has the materials needed to replace it?",
+    "answer": "Residuum can be used to replace any sort of material component cost of equal cost, but only if they have it on their person to use it.",
+    "rules": [],
+    "rules_explanation": "This statement doesn't reference any rule so there is no rule to be provided"
+  }
+]

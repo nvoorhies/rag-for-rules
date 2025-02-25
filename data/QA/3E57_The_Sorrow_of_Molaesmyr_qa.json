@@ -1,0 +1,371 @@
+[
+  {
+    "question": "The Level 4 Druid wants to figure out if the decay of different bodies happened all at once or over time. What check should be rolled?",
+    "answer": "A nature check should be rolled.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills > Intelligence > Nature"
+    ],
+    "rules_explanation": "A Nature skill check is used to ascertain information about terrain, plants, animals, and natural cycles."
+  },
+  {
+    "question": "The Level 4 Druid has Pass Without a Trace up, takes damage, and the GM wants to check whether the spell continues. What check should be rolled?",
+    "answer": "A constitution saving throw is required.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "Constitution saving throws are called for when a character takes damage and must maintain concentration on a spell."
+  },
+  {
+    "question": " The 11th level cleric casts Turn Undead. What is the range of this ability?",
+    "answer": "The turn undead ability has a range of 30 feet.",
+    "rules": [
+      "Cleric > Channel Divinity > Turn Undead"
+    ],
+    "rules_explanation": "The Turn Undead rules state that it affects undead within 30 feet."
+  },
+  {
+    "question": "The 11th level cleric casts Turn Undead and will destroy any turned undead under what Challenge Rating?",
+    "answer": "The turn undead ability destroys any undead that are turned that have a Challenge Rating of CR 2 or lower",
+    "rules": [
+      "Cleric > Destroy Undead"
+    ],
+    "rules_explanation": "The Destroy Undead section of the cleric rules details the level at which undead of different challenge ratings are destroyed by Turn Undead"
+  },
+  {
+    "question": "A ghastly ghost performs Horrifying Visage with a 60-foot radius. The party is inside of the radius and must make a saving throw. What is this saving throw?",
+    "answer": "Each member of the party must make a wisdom saving throw.",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "Two creatures are attempting to grapple with a gelatinous cube. What is the DC of the Strength check to pull someone out of the gelatinous cube's space?",
+    "answer": "The DC of the Strength check to pull someone out of the gelatinous cube's space is 12.",
+    "rules": [
+      "Monsters > Oozes > Gelatinous Cube > Traits > Ooze Cube"
+    ],
+    "rules_explanation": "The gelatinous cube's stat block indicates that a strength check with a DC of 12 is required."
+  },
+  {
+    "question": "The character casts dissonant whispers which causes the target to be forced to use it's reaction to move away. Does this trigger an attack of opportunity?",
+    "answer": "The forced movement is not movement caused by the creature itself so an attack of opportunity does not happen.",
+    "rules": [
+      "Combat > Actions > Opportunity Attacks"
+    ],
+    "rules_explanation": "The rules for Opportunity Attacks state that if you use a reaction to leave an enemy's reach, then you will provoke an opportunity attack. The dissonant whispers spell does not cause the creature to use it's action or reaction to move away."
+  },
+  {
+    "question": "A character ascends a climbing wall, avoiding extended branches, but being pierced by thorns, what kind of check is made and what is the DC?",
+    "answer": "An Acrobatics check is made",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Dexterity"
+    ],
+    "rules_explanation": "This skill is for cases such as 'dodging out of the way of a falling tree limb'"
+  },
+  {
+    "question": "The FCG character wants to attack with his spiritual weapon, the tiny Fresh Cut Grass, and asks if he can use Divine Strike as well, what is the ruling?",
+    "answer": "No. Divine Strike can only be used with physical attacks",
+    "rules": [
+      "Cleric > Divine Strike"
+    ],
+    "rules_explanation": "The section on Divine Strike says, \"When you hit a creature with a weapon attack\" which requires a physical weapon"
+  },
+  {
+    "question": "When attacking something, if an effect provides half cover, what is the modifier to AC?",
+    "answer": "The modifier is plus 2 to AC",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "The section on cover lists that half cover grants a +2 bonus to AC and Dexterity saving throws"
+  },
+  {
+    "question": "If someone is frightened, can they cast a spell?",
+    "answer": "Yes but they have disadvantage on anything that is an attack roll",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The text states a frightened creature has disadvantage on ability checks and attack rolls, but it is not forbidden from taking actions"
+  },
+  {
+    "question": "How do you get a possessee out?",
+    "answer": "There is no saving throw.",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "If a paladin prepares to cast Greater Restoration, what material components are required?",
+    "answer": "Diamond dust worth at least 100 gp, which the spell consumes",
+    "rules": [
+      "Cleric Spells > Greater Restoration"
+    ],
+    "rules_explanation": "The spell description specifically lists the material component required for its casting"
+  },
+  {
+    "question": "After falling into a crevasse, is a restoration spell required to remove the hit point maximum reduction effect?",
+    "answer": "No. It is not a disease.",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "What is the speed reduction from a stealthy pace?",
+    "answer": "Speed is halved.",
+    "rules": [
+      "Adventuring > Movement > Travel Pace > Slow"
+    ],
+    "rules_explanation": "The description for Travel Pace indicates that a slow pace grants the ability to use stealth but it is not indicated if speed is changed, but the phrase is used in the game and matches the rules described."
+  },
+  {
+    "question": "The cleric runs up to the halfling and wants to grab Chet's face. Can the group hear them if they are concentrating on the spell?",
+    "answer": "Yes.",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "The Level 8 Druid has a Bonded Blessing, what are the rules for applying this to an attack?",
+    "answer": "You have a d6 on any roll you want to use it on.",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "The attacker disengages from one creature, then rushes up to another creature, and attacks. Can the character be targeted with an attack of opportunity?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Actions > Opportunity Attacks"
+    ],
+    "rules_explanation": "The disengage action prevents attack of opportunity from the creature you disengage from but does not grant protection from other creatures"
+  },
+  {
+    "question": "What does one do when under a frightened condition and what options does Imogen have to change that condition?",
+    "answer": "A frightened creature can't move closer to the source of it's fear and any of the rolls that it makes are at disadvantage. This effect could be removed if a successful saving throw is achieved.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The conditions for being frightened are clearly outlined in the PH-A appendix in the SRD"
+  },
+  {
+    "question": "Are forced movement effects subject to attacks of opportunity?",
+    "answer": "No. Attacks of opportunity happen when a hostile creature that you can see moves out of your reach.",
+    "rules": [
+      "Combat > Actions > Opportunity Attacks"
+    ],
+    "rules_explanation": "The rules state that attacks of opportunity are provoked when a hostile creature moves out of your reach, implying they must do so of their own volition, not be forced."
+  },
+  {
+    "question": "A character has just cast Dissonant Whispers which forces the target to flee. What happens if FRIDA's character uses their opportunity action to attack it while it is fleeing?",
+    "answer": "The attack action would proceed normally at disadvantage",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "While frightened, you have disadvantage on attack rolls and ability checks while the source of the fear is within line of sight. The frightened condition does not stop you from taking your opportunity attack"
+  },
+  {
+    "question": "If an attack requires a dexterity saving throw and there is no indication if it is successful or failed, what occurs?",
+    "answer": "The NPC indicates a result for success or failure.",
+    "rules": [
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "This is not specifically defined in the rules and thus is decided by the GM."
+  },
+  {
+    "question": "What are the benefits and drawbacks for a frightened creature?",
+    "answer": "A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight. The creature can't willingly move closer to the source of its fear.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The frightened condition gives a clear outline of benefits and drawbacks to a creature under the effect"
+  },
+  {
+    "question": "What kind of saving throw is a Telekinetic shove?",
+    "answer": "A strength saving throw is required.",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "What is the new bonus to the stealth roll?",
+    "answer": "They have to add 10.",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "Does Hunter's Bane give advantage on perception checks?",
+    "answer": "Hunter's Bane is not a spell or attack. As a ranger, the ranger knows about the presence of fey, fiends, or undead",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "One of the characters has an advantage on scent-based perception checks due to being a lycanthrope, what does advantage do?",
+    "answer": "You roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules clearly define the procedure for dice rolls with advantage."
+  },
+  {
+    "question": "How long does Sympathetically Bind last?",
+    "answer": "It lasts until a long rest",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "Does a spiritual weapon do force damage?",
+    "answer": "Yes.",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "How does the greater restoration work?",
+    "answer": "It allows the subject to restore his or her hit points",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "If an archer is hiding and no one is aware of them, what type of check is used?",
+    "answer": "It is a stealth check.",
+    "rules": [
+      "Combat > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "When you try to hide, make a Dexterity (Stealth) check."
+  },
+  {
+    "question": "Is it possible to regain 3rd level spells if the spell slots are fully expended? If so, how?",
+    "answer": "Yes, using a Pearl of Power",
+    "rules": [
+      "Magic Items > Pearl of Power"
+    ],
+    "rules_explanation": "A pearl of power can be used to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level."
+  },
+  {
+    "question": "Is the wall built by the Stone Shape spell destructable?",
+    "answer": "Stone Shape did not create a wall, but a different spell might. This is up to the DM.",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "The spirit guardians spell has been cast and the spirits stop. Can I insight check the ghosts before the scary thing happens? What is the DC?",
+    "answer": "An insight check can always be used to determine someone's motives or if they are intending to harm. The DC would be determined by the GM.",
+    "rules": [
+      "Using Ability Scores > Skills > Wisdom > Insight"
+    ],
+    "rules_explanation": "The GM determines what check is required and sets a DC. Insight checks are used to determine the true intention of a creature."
+  },
+  {
+    "question": "How long does the telepathic link last?",
+    "answer": "The telepathic link from the Sympathetically Bind spell lasts for one hour.",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "A monster with truesight, such as a demon, is able to determine whether we're using Pass Without a Trace to remain hidden?",
+    "answer": "Yes, it's possible.",
+    "rules": [
+      "Monsters > Special Traits > Senses > Truesight"
+    ],
+    "rules_explanation": "A creature with truesight can automatically detect visual illusions and succeed on saving throws against them."
+  },
+  {
+    "question": "What happens to the duration of the spell if concentration is broken?",
+    "answer": "If you lose concentration, such a spell ends.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The concentration effect and the duration of the spell ends."
+  },
+  {
+    "question": "Does the Spirtual guardians spell affect a creature on the other side of a wall?",
+    "answer": "No, because there is no line of effect",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "To target something, you must have a clear path to it, so it can't be behind total cover."
+  },
+  {
+    "question": "What is the DC to a wisdom save for a level 4 wisdom caster?",
+    "answer": "Spell save DC = 8 + your proficiency bonus + your Wisdom modifier",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The spellcasting DC is based on a set calculation of the caster's stats"
+  },
+  {
+    "question": "Can I make an attack of opportunity with a ranged weapon?",
+    "answer": "You can if you have a melee weapon",
+    "rules": [
+      "Combat > Actions > Opportunity Attacks"
+    ],
+    "rules_explanation": "You can make an opportunity attack when a hostile creature that you can see moves out of your reach and you use your reaction to make one melee attack against the provoking creature"
+  },
+  {
+    "question": "If a player and FCG have a similar insight, but the ghosts are trying to decieve, which skill should I roll?",
+    "answer": "Perception.",
+    "rules": [
+      "Using Ability Scores > Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "Perception is for spotting, hearing, or otherwise detecting the presence of something"
+  },
+  {
+    "question": "What are the effects of the frightened condition?",
+    "answer": "A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight, and it can't willingly move closer to the source of its fear.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "All effects of the Frightened condition are specified under that condition."
+  },
+  {
+    "question": "There are two ghosts in front of the character. The Imogen character is going to use a sorcery point to twin my spell, can she?",
+    "answer": "Yes she can",
+    "rules": [
+      "Spellcasting > Metamagic > Twinned Spell"
+    ],
+    "rules_explanation": "If a spell targets one creature, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell."
+  },
+  {
+    "question": "Do you add the modifier for a cantrip?",
+    "answer": "Only certain cantrips are able to add a modifier.",
+    "rules": [
+      "Spellcasting > Cantrips"
+    ],
+    "rules_explanation": "A cantrip is a spell that can be cast at will and follows the rules of spellcasting"
+  },
+  {
+    "question": "If a spirit enters someone in the radius of a Spirit Guardian, do they take damage?",
+    "answer": "Yes, they take radiant damage.",
+    "rules": [
+      "GAMEPLAY TRANSCRIPT."
+    ],
+    "rules_explanation": "Described in the text. Not found in SRD document"
+  },
+  {
+    "question": "How does the charmed condition work?",
+    "answer": "A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects. The charmer has advantage on any ability check to interact socially with the creature.",
+    "rules": [
+      "Appendix PH-A: Conditions > Charmed"
+    ],
+    "rules_explanation": "This information is clearly defined in the appendix regarding conditions"
+  }
+]

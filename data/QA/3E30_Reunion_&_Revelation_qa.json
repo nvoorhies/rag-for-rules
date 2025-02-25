@@ -1,0 +1,356 @@
+[
+  {
+    "question": "How many players can you have for the board game Clue?",
+    "answer": "This information is found on the box and needs to be checked on the game itself.",
+    "rules": [],
+    "rules_explanation": "Rules questions for boardgames are not contained within the 5e SRD."
+  },
+  {
+    "question": "How do group perception checks work?",
+    "answer": "A group perception check is performed by each character making an individual check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together",
+      "Using Ability Scores > Skills > Passive Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The statement that the individuals make a check is implied by the fact that it's an ability check and each character has their own modifier. There is no special rules for group skill checks, this would be a case of working together."
+  },
+  {
+    "question": "If the drivers of both vehicles attempt to tear off to the side rather than pulling up, is there enough room to turn?",
+    "answer": "The amount of space available to turn has not been defined, so I cannot answer.",
+    "rules": [],
+    "rules_explanation": "The situation of a high-speed turn and relative vehicle position has not been established to make a judgement."
+  },
+  {
+    "question": "If I, as a barbarian, am making a dexterity saving throw that I can see, do I get advantage?",
+    "answer": "No. Although a barbarian has advantage on dexterity saving throws against effects they can see, this rule only applies when they are wearing light armor, medium armor, or no armor.",
+    "rules": [
+      "Barbarian > Unarmored Defense"
+    ],
+    "rules_explanation": "The rule for unarmored defence in the barbarian class creates the conditions where they can have advantage on dex saves."
+  },
+  {
+    "question": "If bludgeoning damage is halved because of resistance and halved again because of a successful saving throw, what damage is taken?",
+    "answer": "The initial value is halved and then halved again. For example, 14 points of bludgeoning damage halved twice would result in 3 points of bludgeoning damage.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The damage resistances rules state that multiple instances of resistance or vulnerability only count as one instance."
+  },
+  {
+    "question": "If our next move after this bomb explosion is to run, are the members of the Ruiner blocking the entire span of how we would flee?",
+    "answer": "I cannot answer the question, as the layout of the battlefield is ambiguous.",
+    "rules": [],
+    "rules_explanation": "I need a map to determine if the players are being blocked off by other creatures."
+  },
+  {
+    "question": "After receiving slashing damage, if I, as a warlock, cast Hellish Rebuke, does the damage apply to the weapon or the wielder?",
+    "answer": "The damage applies to the wielder.",
+    "rules": [
+      "Spell Descriptions > Hellish Rebuke"
+    ],
+    "rules_explanation": "The text for Hellish rebuke says \"The creature that damaged you takes fire damage equal to 2d10 + your Charisma modifier.\""
+  },
+  {
+    "question": "If I, as a Fighter, am knocked prone by a shove attack, is that an acrobatics or athletics check to avoid being shoved off the platform?",
+    "answer": "If you are attacked with a shove to knock you off the platform you must make an athletics or acrobatics check.",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack > Melee Attacks > Shoving a Creature"
+    ],
+    "rules_explanation": "This is a use of the shove attack action which forces the creature to defend against the shove using acrobatics or athletics."
+  },
+  {
+    "question": "Does the damage from giant-size Ruidus charges pop the smaller black powder charges in the cannon?",
+    "answer": "Rules for how charges on the vehicle interact with elemental attacks have not been defined, so I cannot answer.",
+    "rules": [],
+    "rules_explanation": "There is no cross-reference between the two items' rules. The interaction is not defined."
+  },
+  {
+    "question": "If 60 bullets shoot out of a black-powder cannon at one time due to a lightning strike, will a nearby creature get shot 47 times?",
+    "answer": "Determine how many attacks are made against each creature with disadvantage.",
+    "rules": [],
+    "rules_explanation": "There are no specific rules defined for this situation, it's a freeform description. The DM needs to decide how the bullets spread to calculate number of attacks."
+  },
+  {
+    "question": "Is it possible to ignite flammable objects such as black powder charges that are not being worn or carried by casting the Lightning Bolt spell?",
+    "answer": "Yes.",
+    "rules": [
+      "Spell Descriptions > Lightning Bolt"
+    ],
+    "rules_explanation": "The Lightning Bolt spell description states \"This ignites flammable objects that aren't being worn or carried.\""
+  },
+  {
+    "question": "Can I use Lightning Bolt to target the charges without hitting the character on the platform?",
+    "answer": "No.  The Line originates from you and extends out, there must be a clear path.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range > A Clear Path to the Target"
+    ],
+    "rules_explanation": "This would require a clear path from the caster to the charges."
+  },
+  {
+    "question": "Do the targets of lightning bolt have half cover due to them being inside of a mounted vehicle?",
+    "answer": "Yes, they have half cover.",
+    "rules": [
+      "Combat > Making an Attack > Cover"
+    ],
+    "rules_explanation": "Creatures inside an enclosed vehicle would generally have at least half cover."
+  },
+  {
+    "question": "For the effect of a strength saving throw in this case (halting momentum of a trailer), are we supposed to use strength or athletics?",
+    "answer": "A strength saving throw is appropriate in this case.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "A strength saving throw is appropriate to resist being pulled forward."
+  },
+  {
+    "question": "Are we propelled by momentum when Birdie slows down?",
+    "answer": "The resolution of this effect requires a strength saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Being propelled by momentum would involve resisting being thrown off by a sudden change in velocity."
+  },
+  {
+    "question": "Is it possible to have that grenade be an instant activation if we're far enough away?",
+    "answer": "Yes, you can specify that the bomb will explode instantly.",
+    "rules": [],
+    "rules_explanation": "The bomb is a fictional device, the GM can set the length of the timer."
+  },
+  {
+    "question": "If I pull someone using telekinetic shove and roll a 20, does the fact that they have cover make it so it's not an auto success?",
+    "answer": "No. The target must still make the saving throw against the effect.",
+    "rules": [],
+    "rules_explanation": "The rules for Telekinetic Shove do not say that it is an auto success on a nat 20 and instead indicate that it is a contested roll."
+  },
+  {
+    "question": "If my rage has ended because I was knocked unconscious, can I restart my rage on the same turn?",
+    "answer": "If your rage ends you must use a bonus action to start it again, you cannot be unconscious to perform actions.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "The Rage rule states \"On your turn, you can enter a rage as a bonus action.\" The rules on bonus actions state you must be conscious to perform them."
+  },
+  {
+    "question": "If a ranged attack is made on Laudna (an npc) but Imogen blocks it, does it have disadvantage?",
+    "answer": "If the attacker is more than 20 feet away, and the target is more than 20 feet from it, then both shots are at disadvantage.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks"
+    ],
+    "rules_explanation": "At long range, attacks have disadvantage."
+  },
+  {
+    "question": "Does hitting with melee attacks two times remove the morning's action surge damage?",
+    "answer": "No, because you rested afterwards.",
+    "rules": [],
+    "rules_explanation": "Using an action surge expends the feature until after a rest."
+  },
+  {
+    "question": "Is it appropriate, in the middle of initiative, to run to a vehicle that can be used for fleeing?",
+    "answer": "That is a valid tactic, as long as you declare it as your action to the DM",
+    "rules": [
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "The rule on actions in combat specifies what you can do on your turn."
+  },
+  {
+    "question": "When casting Healing Word, I had absorbed 5 points of damage prior. Will I still take that unless I use it?",
+    "answer": "Temporary Hitpoints absorb damage first.",
+    "rules": [
+      "Combat > Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "Temporary hit points are a \"buffer against damage\". "
+  },
+  {
+    "question": "Can I hot swap out for my bolt thrower, and use it? Or is that way too much?",
+    "answer": "You can draw your upgraded weapon as part of your attack.",
+    "rules": [
+      "Combat > Your Turn > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "You are allowed one free interaction with the environment during your turn. Drawing your weapon does not cost you an action."
+  },
+  {
+    "question": "With this being a vitriolic sphere and that being acid, do you have to take a turn and try to get it off of you?",
+    "answer": "With the end of your turn the acid finishes burning.",
+    "rules": [],
+    "rules_explanation": "This is an implicit description of the spell effect"
+  },
+  {
+    "question": "Am I at disadvantage for the dexterity saving throw if I am on the ground?",
+    "answer": "Yes, you have disadvantage on the dexterity saving throw because you are prone.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The rules for prone state that you have disadvantage on saving throws."
+  },
+  {
+    "question": "If Imogen, who is unconscious and on the ground, has to make a dexterity saving throw and you are inside a vehicle to save, do you still get your plus two to yours because you're inside the vehicle?",
+    "answer": "Creatures inside the vehicle receive a +2 bonus to their dexterity saving throws",
+    "rules": [],
+    "rules_explanation": "This is a situational ruling by the GM."
+  },
+  {
+    "question": "If I am unconscious and the spell expires, do I get a chance to not fall to the ground, and is this a spell that would do that in particular?",
+    "answer": "The spells that you have cast have been identified but how they interact with your current status is not something that the GM can determine. However, the exhaustion that you have received will not be removed until you eat and drink. ",
+    "rules": [
+      "The Environment > Falling",
+      "The Environment > Food and Water"
+    ],
+    "rules_explanation": "You continue to fall until you reach the ground, as there is nothing stopping it. Exhaustion can only be removed by eating and drinking as described."
+  },
+  {
+    "question": "If I'm charmed, I can't make it so that someone's actions occur, right?",
+    "answer": "Creatures under the effect of charm person cannot be made to do something that is \"obviously harmful\".",
+    "rules": [
+      "Spell Descriptions > Charm Person"
+    ],
+    "rules_explanation": "The specific limitation of the charmed condition restricts what the charmed person may be compelled to do."
+  },
+  {
+    "question": "Am I still going to take the point of exhaustion unless I use it?",
+    "answer": "The temp HP benefits are either you do damage and pump it into an attack, or you use it as a shield and it goes away and it's fine. But if neither happens, that's when the feedback hits you.",
+    "rules": [
+      "Combat > Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "This statement is not in the SRD."
+  },
+  {
+    "question": "As I fall off of the moving cart, can I take an attack of opportunity against the vehicle I just fell from?",
+    "answer": "No, you cannot.",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "An opportunity attack can only be made when a hostile creature leaves your reach."
+  },
+  {
+    "question": "Can I try to roll under that (the gun)?",
+    "answer": "It is not a relevant consideration because athletics or acrobatics to defend against being shoved",
+    "rules": [],
+    "rules_explanation": "Attempting to physically fit under the device isn't the skill check requested by the GM. "
+  },
+  {
+    "question": "Are there any conditions under which a natural one does something to that gun?",
+    "answer": "For the weapons this character is using, a natural one does not trigger a mishap.",
+    "rules": [],
+    "rules_explanation": "There are no general rules that would describe a mishap, so this depends on the particular properties of the weapon."
+  },
+  {
+    "question": "If I'm hit with a tripping attack, will that trigger a strength saving throw?",
+    "answer": "It is a strength saving throw to avoid a tripping attack.",
+    "rules": [],
+    "rules_explanation": "This is a GM interpretation of the tripping attack."
+  },
+  {
+    "question": "In regards to the statement \"ignites flammable objects\", does that apply to things within a thing that is not flammable?",
+    "answer": "Not everything is automatically engulfed at the same time. The ones struck by the initial blast go off first.",
+    "rules": [],
+    "rules_explanation": "GM ruling"
+  },
+  {
+    "question": "Would healing potions work to help FCG recover?",
+    "answer": "Healing potions are a magical effect, so they do work.",
+    "rules": [],
+    "rules_explanation": "There is nothing in the rules that specifies the type of healing required."
+  },
+  {
+    "question": "If she (Fearne) charmed him (the NPC), shouldn't she be able to make him attack his friends?",
+    "answer": "The Charmed condition only states that the target is regarded as a \"trusted friend to be heeded and protected\". They are not automatically under her direct control",
+    "rules": [
+      "Appendix PH-A: Conditions > Charmed"
+    ],
+    "rules_explanation": "The specific limitations of the charmed condition prevent this action."
+  },
+  {
+    "question": "If I cast Darkness on the crawler as I leave, will that work?",
+    "answer": "Yes, you can cast a place on it.",
+    "rules": [],
+    "rules_explanation": "This is a statement of fact of how the spell will function in this situation. Casting Darkness has a range of 60 feet."
+  },
+  {
+    "question": "Will Orbital Decay on a vehicle reduce its movement?",
+    "answer": "Orbital Decay pulls you in, it does not slow them.",
+    "rules": [],
+    "rules_explanation": "The orbital decay rules are not in the SRD."
+  },
+  {
+    "question": "Does a melee attack on a sleeping creature automatically get a critical hit?",
+    "answer": "Yes, attacks against sleeping creatures have advantage and any attack that hits a paralyzed creature is a critical hit if the attacker is within 5 feet of the creature.",
+    "rules": [
+      "Appendix PH-A: Conditions > Paralyzed",
+      "Appendix PH-A: Conditions > Unconscious"
+    ],
+    "rules_explanation": "The rules for both conditions are cumulative."
+  },
+  {
+    "question": "If both Maricris and Imogen are knocked prone because of a Tripping Attack, is Imogen harder to hit?",
+    "answer": "Yes, because of being prone ranged attacks have disadvantage and melee attacks have advantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "Being prone imposes disadvantage on ranged attacks and ranged attacks against a prone character have advantage if the attacker is within 5 feet of the target."
+  },
+  {
+    "question": "Is a history proficiency going to help in this case?",
+    "answer": "You can roll a history check.",
+    "rules": [],
+    "rules_explanation": "A history check will reveal lore"
+  },
+  {
+    "question": "If Orym was laid up in the wagon, can I call that a short rest for him?",
+    "answer": "Yes, I'll allow it.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "A short rest occurs during a period where nothing more strenuous than eating, drinking, reading, and tending to wounds happens. Being in a cart could be classified as that."
+  },
+  {
+    "question": "If I, as FCG, get on to the back of the vehicle now, would that affect the current state of rest?",
+    "answer": "Yes, you would be considered driving, so you don't get a rest, unfortunately.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "Driving the crawler would be considered more strenuous than reading or eating."
+  },
+  {
+    "question": "Can Prestidigitation clean away acid?",
+    "answer": "I will say it is magical acid from a 4th-level spell. A cantrip probably would not be able to dissolve it, unfortunately.",
+    "rules": [
+      "Spell Descriptions > Prestidigitation"
+    ],
+    "rules_explanation": "The GM is defining that the spell vitriolic sphere could not be negated by a cantrip."
+  },
+  {
+    "question": "Is he (The gunner) within 15 feet of me?",
+    "answer": "Technically, he would be just on the cusp of 15 feet.",
+    "rules": [],
+    "rules_explanation": "Determining Range"
+  },
+  {
+    "question": "If I used my action to cast Charm Person on the NPC, what kind of save does the NPC get?",
+    "answer": "He's going to make his saving throw. And fails with a two.",
+    "rules": [
+      "Spell Descriptions > Charm Person"
+    ],
+    "rules_explanation": "Charm Person forces the target to make a saving throw. That would be a wisdom save."
+  },
+  {
+    "question": "What does Second Wind do?",
+    "answer": "It adds 1d10 + your fighter level",
+    "rules": [
+      "Fighter > Class Features > Second Wind"
+    ],
+    "rules_explanation": "This information is drawn from the class description for Fighter"
+  },
+  {
+    "question": "Would I know if healing potions work on FCG?",
+    "answer": "Healing potions work on you. It's a magical effect.",
+    "rules": [],
+    "rules_explanation": "It is a magical effect that would still affect him"
+  },
+  {
+    "question": "The charmed mage, although she's down, so--.",
+    "answer": "He's not charmed anymore.",
+    "rules": [],
+    "rules_explanation": "The Charmed condition ended when Fearne, the caster, went unconscious."
+  }
+]

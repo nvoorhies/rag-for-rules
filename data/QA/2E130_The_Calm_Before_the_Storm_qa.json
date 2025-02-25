@@ -1,0 +1,45 @@
+[
+  {
+    "question": "A 9th level monk with the Diamond Soul ability can re-roll saving throws by spending 1 ki point and has a Wisdom modifier of +9. What is the numerical total if the monk rolls a 7 on a saving throw?",
+    "answer": "The total is 16 after adding the Wisdom modifier of +9 to the roll of 7. The monk can spend 1 ki point to reroll the saving throw due to the Diamond Soul feature, and must use the new roll.",
+    "rules": [
+      "Classes > Monk > Diamond Soul",
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "Diamond Soul allows the Monk to reroll a failed saving throw by spending a ki point. The rules from 'Using Ability Scores' state that the numerical total is the die roll plus the relevant ability modifier, in this case a Wisdom modifier of +9. It then states that you must use the second roll."
+  },
+  {
+    "question": "A 1st level character who is a spellcaster casts a spell of 1st level or higher into a Ring of Spell storing. The spell takes up a certain number of levels of storage in the ring. How many spell levels does the spell occupy?",
+    "answer": "The spell will occupy 1 level of storage in the ring.",
+    "rules": [
+      "Magic Items > Ring of Spell Storing"
+    ],
+    "rules_explanation": "The description for Ring of Spell Storing says the level of the slot used to cast the spell determines how much space it uses."
+  },
+  {
+    "question": "Given an illusion that is a small flame, or the sound of a small animal, or the odor of a skunk, is that appropriate to a transmutation cantrip with a stated range?",
+    "answer": "Yes, a small flame or the sound of a small animal, or the odor of a skunk fits within the stated possible effects for the transmutation cantrip.",
+    "rules": [
+      "Spellcasting > What Is a Spell? > Spell Level",
+      "Spell Lists > Wizard Spells > Cantrips (0 Level) > Prestidigitation"
+    ],
+    "rules_explanation": "The description for the cantrip Prestidigitation says you can create a harmless sensory effect such as faint musical notes or an odd odor, so a small flame, or the sound of a small animal, or the odor of a skunk fits within the stated possible effects."
+  },
+  {
+    "question": "If a character is proficient with an alchemist kit or not. How would I find out that information about my character?",
+    "answer": "The information is under the character's proficiencies.",
+    "rules": [
+      "Classes > Rogue > Proficiencies"
+    ],
+    "rules_explanation": "This is a general procedure that doesn't call on any specific rules."
+  },
+  {
+    "question": "If a level 9 warlock cast Sending to Yussa, what will be returned to her?",
+    "answer": "She will hear Layers and layers and layers of voices, screaming, wailing, shouting, screeching.",
+    "rules": [
+      "Spell Lists > Warlock Spells > 3rd Level > Sending"
+    ],
+    "rules_explanation": "This is a ruling based on the particular context of the current game state, rather than a rules question."
+  }
+]

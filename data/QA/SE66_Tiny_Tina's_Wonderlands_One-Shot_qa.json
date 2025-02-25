@@ -1,0 +1,227 @@
+[
+  {
+    "question": "A level X assassin bot needs to make a talk check. What dice should she roll?",
+    "answer": "roll a d20.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The DM requested a generic \"talk roll\", which would use the base rules for ability checks. No special rules have been mentioned to change it."
+  },
+  {
+    "question": "level X armed service member wants to locate any weapons on this gentleman's person and rolled a 13. What kind of check would it be?",
+    "answer": "make a search roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A character may wish to search for a weapon, the rule defaults to a check of the base ability as the specific skill was not stated by the Dungeon Master."
+  },
+  {
+    "question": "A level X character wants to make a check for a flirtatious talk. What kind of roll should they make?",
+    "answer": "make a talk roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon master did not describe any skills or actions that would modify a check, so it is just a straight ability check."
+  },
+  {
+    "question": "What is the effect of an initiative roll modifier of 0 when rolling initiative?",
+    "answer": "roll a d20 and add the initiative modifier.",
+    "rules": [
+      "Combat > Initiative"
+    ],
+    "rules_explanation": "Initiative is a Dexterity check, the roll is a d20."
+  },
+  {
+    "question": "A level X gunslinger wants to sneak past a tree that is aware of their presence. How does this affect the sneak check?",
+    "answer": "You will be at disadvantage if you try to attack them.",
+    "rules": [
+      "Combat > Actions in Combat > Hide",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "It is impossible to hide from a creature that can clearly see you."
+  },
+  {
+    "question": "A level X gunslinger wants to peck at the enemy and rolls a nat 20. What happens next?",
+    "answer": "roll two d8s and he gets a d12.Then roll another d12,.",
+    "rules": [
+      "Player’s Handbook description of combat dice rolls on a critical hit"
+    ],
+    "rules_explanation": "The player rolled a \"dirty 20\", which indicates a critical hit. A separate d12 is rolled in addition to the critical hit damage calculation."
+  },
+  {
+    "question": "A level X gun slinger says her \"gun is clicking\". What happens?",
+    "answer": "You get nothing.",
+    "rules": [
+      "Player’s Handbook description of when there is no damage dice to be rolled"
+    ],
+    "rules_explanation": "The gun is empty so no damage can be dealt."
+  },
+  {
+    "question": "A character wants to try to rotate the turret. What kind of roll would they have to make?",
+    "answer": "roll attack.",
+    "rules": [
+      "Combat > Actions in Combat > Attack"
+    ],
+    "rules_explanation": "The act of using the turret is an attack."
+  },
+  {
+    "question": "A character is near a turret, what healing do they get?",
+    "answer": "heal six.",
+    "rules": [
+      "Freeform, from conversation"
+    ],
+    "rules_explanation": "The DM stated that characters near the turret heal six"
+  },
+  {
+    "question": "Is there a benefit if adjacent to a turret?",
+    "answer": "You have to be adjacent to it and then it would heal you",
+    "rules": [
+      "Freeform, from conversation"
+    ],
+    "rules_explanation": "The DM stated that characters adjacent to the turret get healing"
+  },
+  {
+    "question": "A level X character has a bad roll of 3 when making an attack. What happens?",
+    "answer": "You get nothing",
+    "rules": [
+      "Player’s Handbook description of when there is no damage dice to be rolled"
+    ],
+    "rules_explanation": "The DM has stated that the attack is a miss, so no damage dice need to be rolled"
+  },
+  {
+    "question": "A Player is about to take a shot. What does that entail?",
+    "answer": "roll for damage",
+    "rules": [
+      "Combat > Making an Attack > Damage and Healing"
+    ],
+    "rules_explanation": "After hitting a target, a player must roll for damage."
+  },
+  {
+    "question": "A tree tries to lay the smack down on a character, and the roll results in seven damage. What happens?",
+    "answer": "He do smack-o, and he does seven damage.",
+    "rules": [
+      "Combat > Making an Attack > Damage and Healing"
+    ],
+    "rules_explanation": "If an attack hits, then the damage dice are rolled."
+  },
+  {
+    "question": "What is required to cast a spell during a turn?",
+    "answer": "On your turn, you can enter a rage as a bonus action.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "A barbarian is able to rage as a bonus action and still cast a spell in the same turn."
+  },
+  {
+    "question": "Is the party shield regenerating in between combats?",
+    "answer": "Let's say yes!",
+    "rules": [
+      "Freeform, from conversation"
+    ],
+    "rules_explanation": "The DM decided that shields regenerate."
+  },
+  {
+    "question": "does shield regenerate fully?",
+    "answer": "Oh yeah.",
+    "rules": [
+      "Freeform, from conversation"
+    ],
+    "rules_explanation": "The DM has stated that it regenerates fully"
+  },
+  {
+    "question": "What does a 24 result from a d20 plus 10 roll get you when using the purpley weird liquid potion?",
+    "answer": "You're really alluring to the skeleton closest to you. It's a real-- he turns over his shoulder and you turn over your shoulder--",
+    "rules": [
+      "Freeform, from conversation"
+    ],
+    "rules_explanation": "The DM has stated the outcome based on the dice roll and what is happening in the story."
+  },
+  {
+    "question": "If a skeleton ally hits the Skeleton King, what happens?",
+    "answer": "They did his bit.",
+    "rules": [
+      "Player’s Handbook description of combat dice rolls"
+    ],
+    "rules_explanation": "Based on this statement the dice have been rolled and the result is that there was some positive impact of the roll, and it is the skeleton ally's turn."
+  },
+  {
+    "question": "Kill-Pro is using their gun and rolled a 24. What happens?",
+    "answer": "two d12s. So that's five plus-- let's see, five plus seven. Five plus seven, I think.",
+    "rules": [
+      "Player’s Handbook description of combat dice rolls"
+    ],
+    "rules_explanation": "The game master is calling for the player to roll damage dice."
+  },
+  {
+    "question": "Ramsey is using Tiffany and rolled a 19 plus five, 24. What happens?",
+    "answer": "we're going to do a 10 and then we're going to do a 12.",
+    "rules": [
+      "Player’s Handbook description of combat dice rolls"
+    ],
+    "rules_explanation": "The game master is calling for the player to roll damage dice."
+  },
+  {
+    "question": "What does a player need to do to revive a fallen player?",
+    "answer": "Let's say that you still killed it, but the splinters shot you a little bit and you take, (thinking noise) d6 of damage.",
+    "rules": [
+      "Combat > Making an Attack > Damage and Healing"
+    ],
+    "rules_explanation": "After taking damage, the player has a turn, which can allow for a chance to revive the character."
+  },
+  {
+    "question": "What does a roll of 1 on the Badass die do in this situation?",
+    "answer": "You don't-- You get nothing.",
+    "rules": [
+      "Player’s Handbook description of when there is no damage dice to be rolled"
+    ],
+    "rules_explanation": "The roll was not successful so no actions are taken"
+  },
+  {
+    "question": "Does a roll of a natural one on an attack mean there will be a bonus from gaining a Mayhem Point?",
+    "answer": "I get a Mayhem point, unfortunately.",
+    "rules": [
+      "Freeform, from conversation"
+    ],
+    "rules_explanation": "If there is a nat 1, that gives the DM a Mayhem point."
+  },
+  {
+    "question": "When near the turret, what is the impact on hit points?",
+    "answer": "You have to be adjacent to it and then it would heal you, so if you wanted to end your turn there, you would get some healing.",
+    "rules": [
+      "Freeform, from conversation"
+    ],
+    "rules_explanation": "If you end your turn near the turret, you get some healing."
+  },
+  {
+    "question": "Does everyone get a Mayhem point for a bad dice roll?",
+    "answer": "The leaves clear. Oh no.",
+    "rules": [
+      "Freeform, from conversation"
+    ],
+    "rules_explanation": "It is a negative outcome to receive a Mayhem point because the DM now has more opportunities to create negative outcomes for the party."
+  },
+  {
+    "question": "What happens if someone's about to do a very dumb thing?",
+    "answer": "Get a Mayhem point off of that, baby.",
+    "rules": [
+      "Freeform, from conversation"
+    ],
+    "rules_explanation": "Mayhem point is gained from questionable choices that a character is about to make."
+  },
+  {
+    "question": "How many actions are there to do a melee attack that has a bonus damage?",
+    "answer": "Okay. You're going to do a melee attack?",
+    "rules": [
+      "Combat > Actions in Combat > Attack"
+    ],
+    "rules_explanation": "A standard melee attack includes the option to add bonus damage, the DM was confirming this is the intended action."
+  },
+  {
+    "question": "How do you know what you need to do?",
+    "answer": "You have a turn.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "The game master confirms that it is a given player's turn, so that is the action to complete."
+  }
+]

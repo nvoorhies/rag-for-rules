@@ -1,0 +1,480 @@
+[
+  {
+    "question": "What type of check is required for the goblin fartmage to navigate to sandpoint?",
+    "answer": "The goblin fartmage needs to make a survival check to navigate to Sandpoint.",
+    "rules": [
+      "Skill Checks > How to Determine the Difficulty Class > Setting DCs"
+    ],
+    "rules_explanation": "The DM calls for a skill check based on the leader of the party navigating."
+  },
+  {
+    "question": "The Piglet the barbarian rolls a 19 on a d20, and has a +5 modifier for the reflex saving throw to avoid getting greased, what is the total on her reflex save?",
+    "answer": "The Piglet the barbarian's total on the reflex saving throw is 24. (19 + 5)",
+    "rules": [
+      "Skill Checks > What does the player do when a player rolls a saving throw",
+      "Races > Races Racial Traits > Ability Score Increase"
+    ],
+    "rules_explanation": "When a player makes a saving throw they roll 1D20 and add their appropriate ability modifier to the result"
+  },
+  {
+    "question": "What check must a level 1 goblin barbarian, when tearing the metal grate from a sewer entrance, roll, and what modifier does that goblin add to the roll?",
+    "answer": "The level 1 goblin barbarian must make a Strength check and add their Strength modifier to the roll.",
+    "rules": [
+      "Skill Checks > Ability Checks",
+      "Races > Races Racial Traits > Ability Score Increase",
+      "Classes > Barbarian > Hit Points"
+    ],
+    "rules_explanation": "The DM asks for a strength check, so the player will roll 1d20 + strength modifier."
+  },
+  {
+    "question": "When two player characters are battling over vomit, what kind of check do both characters make?",
+    "answer": "The player characters make initiative checks.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The DM calls for initiative checks so the players can battle for vomit."
+  },
+  {
+    "question": "What kind of check does the level 1 goblin wizard make to distract the guards with the sound of drunken storytelling?",
+    "answer": "The level 1 goblin wizard must make a bluff check to distract the guards.",
+    "rules": [
+      "Skill Checks > Ability Checks",
+      "Classes > Wizard"
+    ],
+    "rules_explanation": "The DM calls for a bluff check so the player will roll 1d20 + Charisma modifier."
+  },
+  {
+    "question": "What kind of check is required to determine if a PC can identify tracks in the sewer?",
+    "answer": "A survival check is used to follow tracks",
+    "rules": [
+      "Skill Checks > Skills > Wisdom > Survival"
+    ],
+    "rules_explanation": "The skill description for Wisdom - Survival says 'follow tracks'"
+  },
+  {
+    "question": "What kind of action is it for a level 1 goblin wizard to cast the *Arcane Mark* spell?",
+    "answer": "It is not defined, so a referee decision is required to determine the action type.",
+    "rules": [
+      "Spellcasting > Casting Time > Action"
+    ],
+    "rules_explanation": "The SRD does not specify the action type of the *Arcane Mark* spell, so it would be the responsibility of the referee to decide if the action was a 'Bonus Action' or a standard 'Action'"
+  },
+  {
+    "question": "What saving throw and DC is required to resist the *Stunning Fist* ability from a level 1 goblin monk with a wisdom score of 16.",
+    "answer": "The target must make a Fortitude saving throw with a DC of 14.",
+    "rules": [
+      "Combat > Actions in Combat > Stunning Fist",
+      "Ability Score Increase"
+    ],
+    "rules_explanation": "The question implies the existence of Stunning Fist, which was used in a previous edition of the game rules. Since the information is available in the SRD it is assumed to be a valid reference. The DC is determined by DC = 8 + proficiency bonus + Wisdom modifier. At level 1 the goblin monk has a proficiency bonus of +2 and with a wisdom of 16 has an modifier of +3. 8 + 2 + 3 = 14"
+  },
+  {
+    "question": "If the Gelatinous Cube attempts an attack of opportunity on a monk leaving melee range what does it add to it's attack roll?",
+    "answer": "Not enough information is available to determine this. Need to know the attack roll modifier for the gelatinous cube.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Modifiers to the Roll > Ability Modifier"
+    ],
+    "rules_explanation": "The answer requires information about an attribute for a Gelatinous Cube."
+  },
+  {
+    "question": "How is damage calculated for a successful melee attack when Browntooth hits a Gelatinous Cube with dual goblin cleavers, and is proficient with the weapons used?",
+    "answer": "Roll the damage for each cleaver separately, the formula for which is 1d4 + 1. As Browntooth is proficient, add his proficiency bonus to the attack roll.",
+    "rules": [
+      "Combat > Actions in Combat > Multiattack",
+      "Equipment > Weapons",
+      "Making An Attack > The Attack Roll > Proficiency Bonus",
+      "Races > Racial Traits > Size"
+    ],
+    "rules_explanation": "Each melee attack is resolved separately. The SRD entry for racial traits shows that small creatures can't wield heavy weapons so the character would use 1d4 for the damage roll of each small non-heavy weapon."
+  },
+  {
+    "question": "What saving throw and DC are required to avoid the radius damage of a firebomb.",
+    "answer": "The players must make a Reflex saving throw. The DC is not provided so this is a referee decision.",
+    "rules": [
+      "Spellcasting > Areas of Effect",
+      "Skill Checks > Setting DCs"
+    ],
+    "rules_explanation": "The DM calls for a reflex saving throw for the characters to try to avoid some of the area of effect damage."
+  },
+  {
+    "question": "What saving throw is required when fully engulfed by a Gelatinous Cube?",
+    "answer": "A Fortitude Saving Throw is required when fully engulfed by a Gelatinous Cube. The DC is not provided so this is a referee decision.",
+    "rules": [
+      "Combat > Areas of Effect > Sphere",
+      "Skill Checks > Setting DCs"
+    ],
+    "rules_explanation": "The DM calls for a saving throw when the Gelatinous Cube fully engulfs a player character, what type and the DC is unspecified in the document, implying a referee decision is necessary to continue."
+  },
+  {
+    "question": "How long is a character paralyzed for after failing their fortitude save against the Gelatinous Cube?",
+    "answer": "The PC is paralyzed for 8 rounds.",
+    "rules": [
+      "Spellcasting > Areas of Effect"
+    ],
+    "rules_explanation": "The answer requires information about an attribute for a Gelatinous Cube."
+  },
+  {
+    "question": "Can Piglet the barbarian reroll her failed reflex saving throw after singing her song?",
+    "answer": "A character can reroll a saving throw after using a goblin song, which has been pre-established as a valid mechanic. The conditions and exact details are unique to the campaign and must be established by the game referee.",
+    "rules": [
+      "Saving Throws"
+    ],
+    "rules_explanation": "The DM states the rules at the start of the game that allow for the use of a goblin song."
+  },
+  {
+    "question": "What roll is required to grab the stone between Piglet and Browntooth?",
+    "answer": "An initiative check is required.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The DM calls for initiative checks so the players can fight to get to the shiny."
+  },
+  {
+    "question": "What kind of check must the level 1 wizard make to tear a fissure in the cavern wall?",
+    "answer": "The level 1 wizard must make a strength check.",
+    "rules": [
+      "Skill Checks > Ability Checks",
+      "Classes > Wizard"
+    ],
+    "rules_explanation": "The DM calls for a strength check."
+  },
+  {
+    "question": "What saving throw is required after a character eats the moldy grain?",
+    "answer": "The character must make a Fortitude saving throw.",
+    "rules": [
+      "Skill Checks > Setting DCs"
+    ],
+    "rules_explanation": "The DM asks for a fortitude saving throw from the character after eating moldy grain."
+  },
+  {
+    "question": "After the players leave the storage basement where they've been feasting, what spells does the level 1 wizard cast into the room?",
+    "answer": "The level 1 wizard casts Flare into the cellar as they leave.",
+    "rules": [
+      "Spellcasting > Cantrips",
+      "Classes > Wizard"
+    ],
+    "rules_explanation": "The level 1 wizard casts the Flare spell."
+  },
+  {
+    "question": "What kind of check must the Piglet make to avoid falling over the edge after spitting out a loogie?",
+    "answer": "No check is required",
+    "rules": [
+      "Skill Checks"
+    ],
+    "rules_explanation": "The DM rules that a check is not needed in the case that the character is not touching a supporting surface."
+  },
+  {
+    "question": "If the goblins use a rope to try to lower themselves down the 40ft grate and try to climb up it while being blasted with water, what kind of roll is required?",
+    "answer": "They have to make a climb check.",
+    "rules": [
+      "Skill Checks > Ability Checks"
+    ],
+    "rules_explanation": "The DM asks for a climb check"
+  },
+  {
+    "question": "When the level 1 goblin warrior stops because it sees a \"distortion in the air\", what check is called for?",
+    "answer": "A Perception check is called for.",
+    "rules": [
+      "Skill Checks > Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "The DM asks for a perception check."
+  },
+  {
+    "question": "What check is required for the level 1 goblin wizard, and what modifier is added to it, to determine whether the wobble in the air is caused by magic?",
+    "answer": "A perception check is required",
+    "rules": [
+      "Skill Checks > Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "The DM asks for a perception check."
+  },
+  {
+    "question": "Browntooth says he will \"scout out the outhouse and stealthily move into the street\". Does he make his roll with or without penumbra?",
+    "answer": "Browntooth makes the check with Penumbra.",
+    "rules": [],
+    "rules_explanation": "The DM agrees that the character is affected by the Penumbra effect."
+  },
+  {
+    "question": "In order to look like \"peoples\", the goblins need to get on each others shoulders with a coat. What check is required to find a big coat.",
+    "answer": "A perception roll is required to find a big coat.",
+    "rules": [
+      "Skill Checks > Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "The character attempts to find an item and a check is made to determine the success of the attempt. The type of check must be decided on by the DM."
+  },
+  {
+    "question": "When the party sneaks into the tavern from the kitchen to steal a coat, what kind of checks are required to determine whether they successfully do so?",
+    "answer": "A sleight of hand check using their dexterity modifier.",
+    "rules": [
+      "Skill Checks > Skills > Dexterity > Sleight of Hand",
+      "Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "the DM says \"make sleight of hand checks\" and the rules say to use your dexterity modifier with slight of hand"
+  },
+  {
+    "question": "Browntooth, the level 1 goblin rogue, has +20 stealth. As the goblins are setting off firecrackers and running away from the tavern, what kind of check, and with what modifier, is required to remain unseen?",
+    "answer": "A stealth check with a +20 modifier is used to evade the guards.",
+    "rules": [
+      "Skill Checks > Skills > Dexterity > Stealth",
+      "Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The rules state that a Dexterity (Stealth) check is used to attempt to hide, and the statement that the character has +20 stealth implies that this is an adjustment to the check's modifier rather than to the result of the check."
+  },
+  {
+    "question": "As the party tries to decide which way to go on the road, what kind of check is called for for the Grizznak the wizard to determine whether there is a speech that's going to be starting soon?",
+    "answer": "The DM requests a perception check",
+    "rules": [
+      "Skill Checks > Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "A perception check helps one notice things."
+  },
+  {
+    "question": "If a friendly PC gives Grizznak the wizard a hefty pat on the back, and it has a strong effect causing his legs to buckle, what kind of checks are required from Snizzler and Mezek?",
+    "answer": "Both the legs make a Strength check.",
+    "rules": [
+      "Skill Checks > Ability Checks"
+    ],
+    "rules_explanation": "The DM asks them to make strength checks"
+  },
+  {
+    "question": "After noticing the churchman pulls out a boom cube, Piglet asks, \"Is there a way to confirm whether or not that's the rock we want?\" What kind of check is required from Grizznak?",
+    "answer": "You realize at this moment, as you were instructing the goblins that can't possibly be the stone because that's a boom-boom rock, you realize, holy shit, this entire journey was to retrieve a boom-boom rock.",
+    "rules": [
+      "Skill Checks > Skills > Wisdom > Insight"
+    ],
+    "rules_explanation": "The DM describes it as a wisdom check."
+  },
+  {
+    "question": "What are the conditions for the level 1 goblin wizard to cast *Mage Hand*?",
+    "answer": "The level 1 goblin wizard can cast *Mage Hand* using a verbal and somatic component.",
+    "rules": [
+      "Spellcasting > What is a Spell > Components"
+    ],
+    "rules_explanation": "Per the spell description, *Mage Hand* has verbal and somatic components."
+  },
+  {
+    "question": "What happens when the cleric is attempting to hold Snizzler in place with a *Hold Person* spell, and Snizzler rolls a natural 1 on his saving throw?",
+    "answer": "The natural 1 represents a failed saving throw, and Snizzler is locked in place.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "A saving throw is a D20 + the applicable modifier. If the result is equal or higher than the DC, the character is successful. If the result is lower than the DC, the character fails."
+  },
+  {
+    "question": "What kind of saving throws are required to resist being engulfed as the gelatinous cube reforms?",
+    "answer": "A reflex saving throw is required.",
+    "rules": [
+      "Combat > Movement and Position > Difficult Terrain"
+    ],
+    "rules_explanation": "The DM says \"I need you both to go ahead and make reflex saving throws\" to determine if they get engulfed."
+  },
+  {
+    "question": "What are the results when rolling a natural one?",
+    "answer": "Rolling a natural one on the D20 for attack roll means that the attacker misses.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling a 1 or 20"
+    ],
+    "rules_explanation": "The D20 roll for an attack is equal to the die roll and applicable modifiers. A natural 1 always misses."
+  },
+  {
+    "question": "What happens when the level 1 goblin fighter runs up and attacks a flaming church guy, and rolls a natural 20 plus a modifier of 7?",
+    "answer": "The natural 20 is a hit. Another D20 is rolled to see if it will be a critical hit.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling a 1 or 20",
+      "Combat > Making an Attack > Attack Rolls > Modifiers to the Roll > Ability Modifier"
+    ],
+    "rules_explanation": "A D20 roll of 20 always hits, irrespective of armor or modifier, so you have to roll to confirm the critical."
+  },
+  {
+    "question": "How much damage would a creature take if struck by the Piglet the Barbarian's hammer on a normal attack, and how much when striking the foe for a critical?",
+    "answer": "On a normal hit Piglet the Barbarian would deal 1d10+6 damage, for a critical Piglet the Barbarian would deal 3d10+6 damage.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls",
+      "Combat > Making an Attack > Attack Rolls > Critical Hits"
+    ],
+    "rules_explanation": "Raging would allow for 2x damage die to be rolled plus six. A critical hit doubles the number of dice so it's 3d10 + 6."
+  },
+  {
+    "question": "Piglet bites a Gelatinous Cube while raging, what is the formula for the damage?",
+    "answer": "1d6 (divided by 2) + 3",
+    "rules": [
+      "Armor and Equipment > Weapons > Damage Rolls",
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "For the bite damage, you roll a d6 and divide by 2 (because it is a d3 attack), then add your strength modifier. Since Piglet is raging, her damage is 1d6 (divided by 2) + 3"
+  },
+  {
+    "question": "What is the saving throw and DC to resist getting stunned?",
+    "answer": "There is no information about a particular saving throw to avoid getting stunned. DC is also undefined, it should be provided by a monster or spell effect.",
+    "rules": [
+      "Appendix PH-A > Conditions > Stunned"
+    ],
+    "rules_explanation": "The rules do not specify what saving throw is required to resist being stunned. "
+  },
+  {
+    "question": "If the level 1 goblin wizard eats some moldy grain, what kind of saving throw is called for?",
+    "answer": "A fortitude saving throw is called for.",
+    "rules": [
+      "Appendix PH-A > Conditions"
+    ],
+    "rules_explanation": "The DM calls for a fortitude saving throw"
+  },
+  {
+    "question": "What is the AC of the Gelatinous Cube?",
+    "answer": "Not enough information to provide a result. A referee decision is required.",
+    "rules": [],
+    "rules_explanation": "The stats of the Gelatinous Cube are not stated in the provided documents."
+  },
+  {
+    "question": "What type of save is required to avoid falling off the ledge at the end of the pipe after losing balance looking into the cistern",
+    "answer": "A dexterity saving throw is needed.",
+    "rules": [
+      "Skill Checks"
+    ],
+    "rules_explanation": "The DM calls for a dexterity check."
+  },
+  {
+    "question": "If the level 1 goblin alchemist is thrown across the cistern, what check is required to land safely?",
+    "answer": "An Acrobatics check is required to land safely.",
+    "rules": [
+      "Skill Checks > Skills > Dexterity > Acrobatics",
+      "Environment > Falling"
+    ],
+    "rules_explanation": "The DM asks them to make an acrobatics check to try and maneuver themselves in the air to catch the ledge."
+  },
+  {
+    "question": "As the party is climbing the grate against the flow of water, what roll must be made?",
+    "answer": "A climb check must be made.",
+    "rules": [
+      "Skill Checks > Ability Checks"
+    ],
+    "rules_explanation": "The DM asks for a climb check to climb up the side of the grate."
+  },
+  {
+    "question": "What is the effect of the *reduce person* vial on Snizzler?",
+    "answer": "Normal-sized Snizzler shrinks down to about half the size now. Voice is higher, appearance is ridiculous.",
+    "rules": [],
+    "rules_explanation": "This requires information specific to the Reduce Person vial that is not detailed in the SRD."
+  },
+  {
+    "question": "If the party is sneaking around in the poop pipes and there is a singular opening above them, what check is required for Grizznek to listen for stupid humans?",
+    "answer": "To listen for any stinky, stupid humans, the level 1 goblin wizard must roll a perception check.",
+    "rules": [
+      "Skill Checks > Skills > Wisdom > Perception",
+      "Classes > Wizard"
+    ],
+    "rules_explanation": "The DM asks for a perception check."
+  },
+  {
+    "question": "If the players are deciding on which way to proceed in their quest for the blue man, and Piglet asks if there is some sort of symbol they can look for that church people use, what check is required to determine what she means?",
+    "answer": "An intelligence check is required",
+    "rules": [
+      "Skill Checks > Skills > Intelligence"
+    ],
+    "rules_explanation": "The DM asks Piglet to make an intelligence check to determine what is more advantageous for any reason to go through the bridge versus the sewer."
+  },
+  {
+    "question": "If a band of goblins tries to disguise themselves as one tall person, what modifiers apply when trying to sneak into a human settlement during a festival?",
+    "answer": "Not enough information is given, it is up to the GM to decide.",
+    "rules": [
+      "Skill Checks"
+    ],
+    "rules_explanation": "There is no explicit direction that states what conditions affect a check for sneaking into a city, so the DM will have to make a judgement call based on modifiers such as lighting conditions, skills, and NPC's perception checks."
+  },
+  {
+    "question": "If a character plays a character is doing stealth checks on a route that's not the normal path, how does the DM determine whether someone has seen them?",
+    "answer": "Roll stealth checks.",
+    "rules": [
+      "Skill Checks > Skills > Dexterity > Stealth"
+    ],
+    "rules_explanation": "The DM asks for a stealth check to see if he can make it into the tavern"
+  },
+  {
+    "question": "If the wizard is hit inside the Gelatinous Cube, what type of saving throw is required and what attribute is used for the roll",
+    "answer": "A Reflex save is required for the roll",
+    "rules": [
+      "Spellcasting > Areas of Effect > Sphere"
+    ],
+    "rules_explanation": "Snizzler was able to cast Explosive Bomb which requires the target to do a reflex saving throw."
+  },
+  {
+    "question": "What is the procedure and what bonuses or penalties apply for Piglet to try and grab Grizznak before he falls?",
+    "answer": "Piglet must make a Dexterity check. She has no bonus due to the description of the situation.",
+    "rules": [
+      "Skill Checks > Ability Checks"
+    ],
+    "rules_explanation": "The DM asks for a dexterity check."
+  },
+  {
+    "question": "When the goblins are trying to pull a rock to get access to some booze, what check are they required to make and what modifiers are used for the roll?",
+    "answer": "The goblins make a Strength check to pull it off. Modifiers used are Piglet's strength modifier.",
+    "rules": [
+      "Skill Checks > Ability Checks",
+      "Classes > Barbarian > Rage",
+      "Races > Racial Traits > Ability Score Increase"
+    ],
+    "rules_explanation": "The DM requests the check be rolled against the wall, and the result is modified by the strength of Piglet."
+  },
+  {
+    "question": "When Piglet attacks a wall, and hits, what dice should she roll for damage? and when would it be appropriate to change the type of die rolled?",
+    "answer": "The player should roll 1d10+4. This changes to 3d10+6 only if the character had raged.",
+    "rules": [
+      "Armor and Equipment > Weapons > Damage Rolls",
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "At level one with the Skullbreaker Piglet would deal d10+4 on a successful hit with a weapon she is proficient with, which the hammer is."
+  },
+  {
+    "question": "As the goblins are being chased from the bar and they make a smoke bomb, where is the fog placed and what area does it affect?",
+    "answer": "The fog fills the entire alleyway",
+    "rules": [],
+    "rules_explanation": "The DM just announces what happens"
+  },
+  {
+    "question": "A party of goblins are travelling from one area to another. They can choose from three paces. These are normal, fast, and slow. What impact does each have on the party's passive Wisdom Perception?",
+    "answer": "A fast pace imposes a −5 penalty to passive Wisdom (Perception) scores",
+    "rules": [
+      "Adventuring > Movement > Travel Pace"
+    ],
+    "rules_explanation": "The travel pace rule indicates that a fast pace imposes a -5 penalty to passive Wisdom (Perception) scores."
+  },
+  {
+    "question": "What does a plus 10 modifier on a sleight of hand check mean?",
+    "answer": "The player rolls 1d20, and adds 10 to the die roll",
+    "rules": [
+      "Skill Checks > Ability Checks"
+    ],
+    "rules_explanation": "A skill check comprises rolling a 20 sided die and adding the applicable modifier to the die."
+  },
+  {
+    "question": "With a 17 charisma, how often can the wizard use his goblin song and what does it grant access to?",
+    "answer": "This is a setting specific ability not described in the SRD.",
+    "rules": [],
+    "rules_explanation": "That character specific ability was not taken from the rules."
+  },
+  {
+    "question": "Does a character gain proficiency from using a goblin song?",
+    "answer": "No",
+    "rules": [
+      "Skill Checks > Proficiency Bonus",
+      "Classes"
+    ],
+    "rules_explanation": "A goblin song is not proficiency from the rules. It would be a bonus."
+  },
+  {
+    "question": "Does a low survival check impact character's alignment?",
+    "answer": "No",
+    "rules": [
+      "Alignment"
+    ],
+    "rules_explanation": "There is nothing in the rules that describes checks impacting alignment."
+  },
+  {
+    "question": "If a player wants to throw a bottle across a room at a bartender to distract him, what kind of ability check is required to hit the bartender and how is damage assessed if there is a hit?",
+    "answer": "A ranged attack is required. There is no additional data about what to add to the roll, but it might have involved a Dexterity check. There is no information given about calculating damage, so the DM would have to set it.",
+    "rules": [
+      "Combat > Making an Attack",
+      "Armor and Equipment > Adventuring Gear > Bottle, glass"
+    ],
+    "rules_explanation": "The player uses a ranged attack to throw a shuriken carved out of pieces of odd rusted metal. Because it is not an official weapon, the DM can chose what kind of stats it gets, but in this case, it's determined to be a normal attack. The glass bottle also is not designed to do damage so the DM would need to calculate how much damage it would do. The game has no way of knowing that throwing a bottle could result in doing damage."
+  }
+]

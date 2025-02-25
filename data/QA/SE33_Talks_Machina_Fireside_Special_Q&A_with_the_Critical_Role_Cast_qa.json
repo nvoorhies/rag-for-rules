@@ -1,0 +1,42 @@
+[
+  {
+    "question": "For Vax, level 14 Rogue, what feature did he get at level 14?",
+    "answer": "There is no mention of the Rogue's features at level 14.",
+    "rules": [
+      "Class Features"
+    ],
+    "rules_explanation": "It is not possible to answer the question without specific knowledge of the rogue class features and the SRD makes no mention of specific class abilities for characters."
+  },
+  {
+    "question": "If Vex the ranger promises the Raven Queen her soul in exchange for a boon to the party, is this something a god could be like \"Okay, I'll accept that.\"",
+    "answer": "This is a roleplaying scenario where the GM determines the god's response.",
+    "rules": [],
+    "rules_explanation": "The question is not answerable by rules alone."
+  },
+  {
+    "question": "The description for Heroes of Horror is \"Heroes of Horror book for the older 3.5 D&D.\"",
+    "answer": "This information is not relevant to the current game rules.",
+    "rules": [],
+    "rules_explanation": "There are no rules in the 5e SRD for the older 3.5 D&D rules."
+  },
+  {
+    "question": "If the level 5 Scanlan, with the artificer's mechanical automaton companion Doty, takes physics and engineering classes and finds a tutor, does the Artificer's Lore feature in the SRD apply?",
+    "answer": "No, as per the SRD, the artificer class information is from Unearthed Arcana and in the testing phase, so there is no official support for the Artificer's Lore feature.",
+    "rules": [],
+    "rules_explanation": "The information about the Artificer class comes from a non-SRD source. Since the artificer class isn't in the SRD, none of its class features can be discussed in SRD terms."
+  },
+  {
+    "question": "If the level 5 Grog, a barbarian, is fighting an intelligent creature, and the dungeon master chooses to stun Grog, is that a legitimate DM tactic according to the SRD?",
+    "answer": "The SRD states \"If it's an intelligent creature, it knows what the biggest threat is, the seven-foot, eight-foot guy with the giant axe who looks like he could take anything you throw at him. I'm not even going to damage him, just (pop). Get out of the fight.\"",
+    "rules": [],
+    "rules_explanation": "The acceptability of a DM tactic is not a rules question. The DM is merely explaining his in-game reasoning, not claiming to be invoking any rule."
+  },
+  {
+    "question": "What are the effects of taking the oath of Raven Queen and paladin oath Sarenrae?",
+    "answer": "There is no mention of the Raven Queen or Sarenrae in the SRD document, but there is reference to sacred Oaths.",
+    "rules": [
+      "Paladin > Sacred Oaths"
+    ],
+    "rules_explanation": "The Raven Queen and Sarenrae are deities that do not appear in the SRD document, and therefore their respective oaths cannot be listed using it."
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "question": "Can the level 6 barbarian (Grog) roll to see if the level 4 bard (Scanlan) is bullshitting?",
+    "answer": "Yes, the level 6 barbarian (Grog) can make an insight check to see if the level 4 bard (Scanlan) is telling the truth.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM can call for an ability check if a player character attempts an action that has a chance of failure, which includes determining if another character is lying. Insight skill checks are based on Wisdom, and the barbarian can attempt this action."
+  },
+  {
+    "question": "If one of the ranger/rogue/sorcerer/warlock/wizard's (Laura's) has a Ring of Protection that requires attunement, can that ring of protection be passed off to the level 6 barbarian (Grog) while he is fighting?",
+    "answer": "No, because the ring of protection requires attunement, the level 6 barbarian (Grog) must take time to attune to the magical item. If the ring did not require attunement, it could be passed off",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "Magic Items > Attunement: Some magic items require a creature to form a bond with them before their magical properties can be used."
+  },
+  {
+    "question": "Does it take an action to rage, and for someone to enter a frenzied rage?",
+    "answer": "Entering a rage takes a bonus action. Entering a frenzied rage also requires a bonus action.",
+    "rules": [
+      "Barbarian > Rage",
+      "Barbarian > Path of the Berserker > Frenzy"
+    ],
+    "rules_explanation": "The Barbarian's Rage class feature and Path of the Berserker's Frenzy feature both state that they require a bonus action to activate."
+  },
+  {
+    "question": "If a person in the crowd sings to the level 6 barbarian (Grog) to inspire him while the level 6 barbarian (Grog) is in the middle of the level 5 cleric/druid (Marisha's) turn, does the singing person get any advantage?",
+    "answer": "No, the song only takes effect during the level 6 barbarian (Grog)'s turn.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a judgement call by the DM."
+  },
+  {
+    "question": "When the level 6 barbarian (Grog) is at negative 13 hit points can he use his Relentless Rage?",
+    "answer": "If the level 6 barbarian (Grog) drops to 0 hit points while raging and doesn't die outright, he can make a DC 10 Constitution saving throw. If he succeeds, he drops to 1 hit point instead.",
+    "rules": [
+      "Barbarian > Relentless Rage"
+    ],
+    "rules_explanation": "When the Barbarian drops to 0 hit points while raging and does not die, they may make a DC 10 Constitution saving throw. If they succeed, they drop to 1 hit point instead."
+  },
+  {
+    "question": "If the barbarian has already used his regular action and a d10 inspiration and is now defending and gets downed by the bad guy, can the spellcaster do something?",
+    "answer": "Yes, as the level 4 bard (Scanlan) has not taken a turn, the spellcaster can cast Healing Word on the level 6 barbarian (Grog) in that round.",
+    "rules": [
+      "Combat > Your Turn",
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "Each round in combat, each combatant gets a turn in initiative order. Players are free to act at any point during their turn, assuming their action meets the timing requirements (action, bonus action, reaction, etc). Healing Word has a casting time of 1 bonus action, so as long as it is the spellcaster's turn, they may cast the spell."
+  },
+  {
+    "question": "If the cleric/druid (Marisha) attempts to cast the Healing Word while in range of Bastions, does she require sleight of hand? Does casting magic give advantage?",
+    "answer": "The game master (Matt) may call for a Sleight of Hand check if he believes the casting is suspicious. The rules provide no bonuses for sleight of hand or help from other players.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Dungeon Master has discretion on when a skill check is required."
+  },
+  {
+    "question": "While in dodge mode is it at disadvantage?",
+    "answer": "The attacker has disadvantage on attack rolls against the creature with the Dodge action.",
+    "rules": [
+      "Combat > Actions in Combat > Dodge"
+    ],
+    "rules_explanation": "The Dodge action imposes disadvantage on attack rolls against the creature taking the action."
+  },
+  {
+    "question": "If the cleric casted a heal spell and Draconia helped her out, would that give her an advantage?",
+    "answer": "There are no rules that provide advantage on casting heal for this situation.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There is no rules support for advantage on casting heal in this scenario."
+  },
+  {
+    "question": "When rolling damage for a barbarian raging and doing damage, do you halve the die?",
+    "answer": "A barbarian with the rage feature has resistance to bludgeoning, piercing, and slashing damage while raging, halving the damage dealt by those damage types. The die used for damage is not halved.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "Section > Subsection > Rule Name"
+  }
+]

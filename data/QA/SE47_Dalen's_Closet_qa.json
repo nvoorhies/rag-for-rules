@@ -1,0 +1,119 @@
+[
+  {
+    "question": "When character Grog (level 20, barbarian) throws a snowdrop at character Percival (level 20, fighter), how should that attack roll be modified, considering Grog's strength modifier, proficiency bonus, and current lack of armor?",
+    "answer": "The attack roll should include the strength modifier and the proficiency bonus.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "Grog's strength modifier should be applied to the roll, as well as the character's proficiency bonus because they are level 20. It is specifically mentioned Grog is not wearing armour so that penalty should not be applied."
+  },
+  {
+    "question": "Does the character Derrig (level undefined, undefined) have disadvantage on perception checks due to being poisoned?",
+    "answer": "Yes, the character has disadvantage on ability checks due to being poisoned.",
+    "rules": [
+      "Appendix PH-A > Conditions > Poisoned"
+    ],
+    "rules_explanation": "The poisoned condition causes disadvantage on all ability checks."
+  },
+  {
+    "question": "If Keyleth (level 20, druid) uses the Gust cantrip, is that action used and will it burn the entire action?",
+    "answer": "Yes, the character's action is used.",
+    "rules": [
+      "Combat > Actions in Combat > Cast a Spell",
+      "Spellcasting > Cantrips"
+    ],
+    "rules_explanation": "The SRD says 'most spells require a single action to cast'. Cantrips are spells that can be cast at will. This means that like any other spell, Keyleth would have to use her action to use Gust."
+  },
+  {
+    "question": "How much does Greater Restoration (level 4 spell) heal for?",
+    "answer": "Greater restoration does not have a healing component.",
+    "rules": [
+      "Spell Descriptions > Greater Restoration"
+    ],
+    "rules_explanation": "Greater restoration removes certain conditions and has no healing capability."
+  },
+  {
+    "question": "When Pike (level undefined, undefined) casts Mass Healing Word at 4th level, is it 1d4 for each level above 3rd?",
+    "answer": "No, it is 2d4 + her spellcasting ability modifier",
+    "rules": [
+      "Spell Descriptions > Mass Healing Word"
+    ],
+    "rules_explanation": "Mass Healing Word is a bonus action, not an action so level scaling works differently. The base heal amount is 1d4 + spellcasting modifier and it heals an additional 1d4 for every level above 3rd."
+  },
+  {
+    "question": "Does the character Grog (level 20, barbarian) roll with a single attack roll because the character Keyleth (level 20, druid) is poisoned?",
+    "answer": "If Grog is poisoned then the attacks roll would not have advantage from reckless attack, and would have disadvantage from poisoned.",
+    "rules": [
+      "Combat > Advantage and Disadvantage",
+      "Barbarian > Class Features > Reckless Attack",
+      "Appendix PH-A > Conditions > Poisoned"
+    ],
+    "rules_explanation": "When a character has both advantage and disadvantage, they cancel out. Grog gets advantage for the attack, but disadvantage due to being poisoned, resulting in a single standard roll."
+  },
+  {
+    "question": "For Guiding Bolt (level 1 spell), does Pike (level undefined, undefined) add anything for the damage she does?",
+    "answer": "No, you only roll the dice and no modifiers are added to the damage.",
+    "rules": [
+      "Spellcasting > Damage and Healing > Damage Rolls"
+    ],
+    "rules_explanation": "The rules say, A spell tells you which dice to roll for damage and whether to add any modifiers."
+  },
+  {
+    "question": "What is the speed of a character, who can travel ten feet a round?",
+    "answer": "The speed is 5 feet per round.",
+    "rules": [
+      "Combat > Movement and Position > Speed"
+    ],
+    "rules_explanation": "Because each speed of movement corresponds to 10 ft of range, so 1 equals to 5 feet."
+  },
+  {
+    "question": "If Vex'ahlia and Percival are bound, and there is no terrain in the scenario, can Vex'ahlia still cast conjure woodland beings?",
+    "answer": "It depends on whether you have access to components. You would also have to pass a dexterity check due to being shackled.",
+    "rules": [
+      "Spellcasting > Components",
+      "Spellcasting > Somatic"
+    ],
+    "rules_explanation": "Being able to cast spells while bound relies on being able to perform verbal and somatic actions. Also, it has to be determined if the components are on their persons at all."
+  },
+  {
+    "question": "If a spellcaster uses a lapel pin instead of thieves' tools, would they be proficient?",
+    "answer": "No, if they are not proficient with lock picks you are not proficient.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "You would not add the dexterity bonus because lapel pins are not thieves' tools."
+  },
+  {
+    "question": "How long can a character hold their breath with a con modifier of zero?",
+    "answer": "The character can hold their breath for 1 minute.",
+    "rules": [
+      "The Environment > Suffocating"
+    ],
+    "rules_explanation": "The character can hold their breath for 1 + their constitution modifier in minutes, with a minimum of 30 seconds. With a modifier of zero, the character can hold their breath for 1 minute"
+  },
+  {
+    "question": "Can a character attempt to pick a lock while drowning and out of breath?",
+    "answer": "Yes, but you drop to zero hit points at the start of your next turn.",
+    "rules": [
+      "The Environment > Suffocating"
+    ],
+    "rules_explanation": "A character can attempt to pick a lock while drowning, but after that it can not breath until the start of their next turn when it drops to zero."
+  },
+  {
+    "question": "Does Grog benefit from advantage on an attack roll?",
+    "answer": "Yes, Grog has advantage on the attack roll.",
+    "rules": [
+      "Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "At the beginning of Grog's turn, he can choose to attack recklessly. This will grant him advantage on attack rolls that use strength."
+  },
+  {
+    "question": "Does a character need to roll death saves when at 0 hit points and stabilized?",
+    "answer": "No, a stabilized creature doesn't need to make death saves.",
+    "rules": [
+      "The Environment > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "Once a creature is stabilized, they no longer need to make death saving throws, but still remain at zero hit points."
+  }
+]

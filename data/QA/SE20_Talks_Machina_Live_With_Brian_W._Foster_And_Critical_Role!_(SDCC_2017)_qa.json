@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Is this all of us as Vox Machina doing a trial by combat and then summoning one ally, or each individually?",
+    "answer": "Each individually.",
+    "rules": [],
+    "rules_explanation": "This question is a clarification of the situation to be answered by future questions rather than a rules questions in itself."
+  },
+  {
+    "question": "Can we pick Pelor, like, the Dawnfather?",
+    "answer": "No, you must pick a player character, not a god.",
+    "rules": [],
+    "rules_explanation": "This is a clarification question as the question is asking what options are allowed in the given scenario and not an SRD reference."
+  },
+  {
+    "question": "But is it a trial by fisticuffs?",
+    "answer": "This cannot be determined from the transcript.",
+    "rules": [],
+    "rules_explanation": "This is a question about the setting which the prompt does not explain and not a rule."
+  },
+  {
+    "question": "What is it, 16th level Character is raging: Can can't be charmed or frightened while raging.",
+    "answer": "While raging, the 16th level character can't be charmed or frightened.",
+    "rules": [
+      "Barbarian > Path of the Berserker > Mindless Rage"
+    ],
+    "rules_explanation": "The Path of the Berserker's Mindless Rage feature grants immunity to charmed and frightened conditions while raging."
+  }
+]

@@ -1,0 +1,259 @@
+[
+  {
+    "question": "The level 9 ranger (Laura) says, \"What? I was going to say having Trinket next to it, but I realized you used your bonus action to–?\". What actions does she get in this turn?",
+    "answer": "The ranger can perform one action and one bonus action. She may only attack once, since she is not level 5.",
+    "rules": [
+      "Combat > Actions",
+      "Class Features > Ranger > Extra Attack"
+    ],
+    "rules_explanation": "At level 9, the Ranger can only attack once in combat unless something has explicitly granted them a extra attacks. Players take turns in order in combat and can usually perform a single action and bonus action (if available). The ranger's player begins to plan their turn before discovering that she has already used her bonus action."
+  },
+  {
+    "question": "The level 9 paladin asks: Normally when I attack one character, one attack gets sneak attack, but can I sneak attack the one behind me and attack the other one that's by Keyleth? I've got friends around both.",
+    "answer": "You can attack them both, but you only can sneak attack once per round.",
+    "rules": [
+      "Class Features > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The rogue sneak attack feature only allows a single instance of sneak attack damage per turn. The paladin can attack them both, but you only can sneak attack once per round."
+  },
+  {
+    "question": "Level 9 paladin (Liam) asks: I'm shank backwards to the one behind me, and it's flanked. There's four of us around it, so advantage on this one?",
+    "answer": "You have advantage on attack rolls against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated. If you have advantage on the attack roll, use the higher of the two rolls",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "If an ally is within 5ft of the target and they are not incapacitated, the paladin's rogue gets advantage. When you have advantage, you use the higher of the two rolls"
+  },
+  {
+    "question": "The DM asks the caster of Wind Wall, a level 9 druid, \"Can I now shift away from the guy?\" Can the creature make an attack of opportunity against her if she does so?",
+    "answer": "Yes, it'll still get an attack of opportunity as soon as you break from combat, but you can still move away.",
+    "rules": [
+      "Combat > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "When you leave a hostile creatures reach, you provoke an opportunity attack from that creature. Since the druid is leaving the maelstrom's reach, it can make an opportunity attack."
+  },
+  {
+    "question": "The DM asks,  \"Vex, you're up.\" Laura replies, \"Could I have had Trinket run over to the tree where Percy is?\"",
+    "answer": "As a bonus action, Trinket can run up and bite it.",
+    "rules": [
+      "Combat > Actions > Attack"
+    ],
+    "rules_explanation": "The Ranger's animal companion can take an action to make an attack as the ranger's bonus action. Therefore Trinket can move and attack the big one."
+  },
+  {
+    "question": "While concentrating on Wind Wall, the druid asks, \"Is it technically grappled?\"",
+    "answer": "No, not grappled. They're fighting to keep themselves in place and together as the Wind Wall is tearing them apart.",
+    "rules": [
+      "Appendix PH-A: Conditions > Grappled"
+    ],
+    "rules_explanation": "The druid is asking if the creatures are considered grappled by the Wind Wall. The DM rules that the creatures are not grappled."
+  },
+  {
+    "question": "A level 9 fighter asks, \"It does get its Whirlwind recharged, but it's not going to use it. It's going to slam attack you twice, Percival.\" Is it correct the the creature has advantage on attack rolls against Percy because he is currently prone in the sand.",
+    "answer": "Yes, the maelstrom has advantage on attack rolls against you because you are currently prone in the sand.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The maelstrom has advantage on attack rolls against prone creatures."
+  },
+  {
+    "question": "A level 9 fighter asks, \"I also assume it gets an attack of opportunity on me if I leave its radius.\" Is this correct?",
+    "answer": "Yes, if you leave its radius, it gets an attack of opportunity on you.",
+    "rules": [
+      "Combat > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "When you leave a hostile creatures reach, you provoke an opportunity attack from that creature."
+  },
+  {
+    "question": "Level 9 fighter states, \"Okay. I'm going to pull my sword and, technically speaking, I'm perfectly fine to just back and slash on this thing right now, right?\"",
+    "answer": "Yes! You stand up, using half your movement.",
+    "rules": [
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "Standing up from prone uses half of your movement. Since the fighter stood up, they used their movement to do so."
+  },
+  {
+    "question": "Level 9 fighter asks, \"On land it's considered rough terrain. Or, can I go full speed but I'll take damage for every five feet I move full speed. Glass, it sucks.\" Is this correct?",
+    "answer": "Or, you can go full speed but you'll take damage for every five feet you move full speed. Glass, it sucks.",
+    "rules": [],
+    "rules_explanation": "The DM describes a consequence of moving over the broken glass, which is not covered by the core rules of the game. No rules are applied here."
+  },
+  {
+    "question": "Level 9 fighter Squawks, looks over at Scanlan, and says, \"Can I hold my movement until Scanlan moves?\" So I'll take us both over there is my intention.",
+    "answer": "You can't hold your movement, unfortunately.",
+    "rules": [],
+    "rules_explanation": "Players can not 'hold' their movement, only their actions."
+  },
+  {
+    "question": "Level 9 fighter asks, \"can we go 100 yards past the tree line and into more of the forest, just to see what's there?\"",
+    "answer": "Okay, yeah. You coast up and begin pushing through and down below, you can see occasional breaks in the treeline here and there where you can– there's heavy brush underneath and the same horrible texture of broken glass jutting out in haphazard patterns. There are certain areas where the glass is aggressively broken, and some more smooth glass. It looks like it depends on at what point this event happened that turned this entire island and how much has been traversed in the time. But you can't make out much more than that from your height.",
+    "rules": [],
+    "rules_explanation": "This is a free description of the area from the DM."
+  },
+  {
+    "question": "Level 9 ranger asks, \"Do I get advantage because of the spyglass?\"",
+    "answer": "The DC will change based on what you're looking for.",
+    "rules": [],
+    "rules_explanation": "The spyglass does not automatically grant advantage, the DM instead states they will adjust the difficulty of the check based on the use of the spyglass."
+  },
+  {
+    "question": "Level 9 paladin, \"The presence of strong evil registers on your senses like a noxious odor.\" Divine Sense. What should I sense?",
+    "answer": "You do not sense any celestials, fiends, or undead.",
+    "rules": [
+      "Class Features > Paladin > Divine Sense"
+    ],
+    "rules_explanation": "The DM states that there are no creatures of the types listed in the divine sense description within range."
+  },
+  {
+    "question": "Given the Wind Wall description, the level 9 paladin states, \"It should only affect ranged attacks. It should only affect ranged attacks and gaseous creatures because I doubled checked that.\"",
+    "answer": "It won't have much of an impact on you. You're fine. Just making sure. Forcing your hand through it.",
+    "rules": [],
+    "rules_explanation": "DM is ruling that the Wind Wall does not prevent the melee attack."
+  },
+  {
+    "question": "In a game that Vex uses Hunter's Mark, she asks, \"Four of them is lightning.\", so should the target take full damage?",
+    "answer": "Right. Four is lightning. So actually, that would be halved. So that would be 21 points of damage.",
+    "rules": [],
+    "rules_explanation": "Given the target has resistance to lightning damage, the DM correctly halves this damage."
+  },
+  {
+    "question": "Given the paladin is attempting to counterspell, the DM states, \"You can add one of our own bardic inspirations to an ability check if you want to. It is technically an ability check.\". Can he add the inspiration die?",
+    "answer": "Yeah, peerless skill. You can add one of our own bardic inspirations to an ability check if you want to. It is technically an ability check.",
+    "rules": [],
+    "rules_explanation": "The bard's level 14 feature Peerless Skill allows them to add their inspiration die to an ability check. The DM rules it applies here to the counterspell."
+  },
+  {
+    "question": "After successfully using the Wind Wall the level 9 druid says, \"Can I now shift away from the guy?\"",
+    "answer": "It'll still get an attack of opportunity as soon as you break from combat, but you can still move away.",
+    "rules": [
+      "Combat > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "The druid will provoke an attack of opportunity by moving away from the creature."
+  },
+  {
+    "question": "A level 9 paladin says, \"I'm perfectly fine to just back and slash on this thing right now, right?\"",
+    "answer": "Yep! You stand up, using half your movement.",
+    "rules": [
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "Standing up from prone uses half of your movement."
+  },
+  {
+    "question": "The level 9 barbarian wants to fly down to a spot and asks, \"if hopefully I wanted him to lift the form, would I hold my action?\"",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Actions > Ready"
+    ],
+    "rules_explanation": "The barbarian can hold their action until the trigger condition is met."
+  },
+  {
+    "question": "The DM says, \"Well, I can't do much now because if I do anything, he'll break his eagle form.\" But what is the level 9 druid in the eagle form takes damage?",
+    "answer": "Well, you take damage and then whatever damage that you take that is carried over into your real form.",
+    "rules": [],
+    "rules_explanation": "The DM is explaining the rules of taking damage in Polymorph for the eagle."
+  },
+  {
+    "question": "Level 9 bard asks, \"Is that a futzed roll? I need a judgment.\"",
+    "answer": "Okay.",
+    "rules": [],
+    "rules_explanation": "This is a humorous moment but not a rules question."
+  },
+  {
+    "question": "The level 9 paladin asks, \"Normally when I attack one character, one attack gets sneak attack, but can I sneak attack the one behind me and attack the other one that's by Keyleth? I've got friends around both.\"",
+    "answer": "You can attack them both, but you only can sneak attack once per round.",
+    "rules": [
+      "Class Features > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "A rogue can only deal sneak attack damage once per round, regardless of the number of attacks made."
+  },
+  {
+    "question": "Level 9 ranger asks, \"Do I get advantage because of the spyglass?\"",
+    "answer": "The DC will change based on what you're looking for.",
+    "rules": [],
+    "rules_explanation": "The spyglass does not automatically grant advantage, the DM instead states they will adjust the difficulty of the check based on the use of the spyglass."
+  },
+  {
+    "question": "The level 9 barbarian is asked \"can I fly down to the one that's right next to Vax with Scanlan on my booty?\"",
+    "answer": "Yes you can. (caws) Right next to him.",
+    "rules": [],
+    "rules_explanation": "The DM allows the movement. Grog's movement is sufficient to reach the location."
+  },
+  {
+    "question": "If a level 9 paladin uses Diplomacy to attack, are they able to use their Charisma modifier?",
+    "answer": "No, roll a d20. You add your proficiency bonus of five, plus your strength modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To attack the character has to roll to hit which is based on their strength modifier. That is a DC 22, and the strike hits, he's currently shocked."
+  },
+  {
+    "question": "After a point blank fireball the DM states, \"The twins in.\" About who noticed something, a player then states \"Oh, we both get it.\". Is it correct that they both do?",
+    "answer": "Yeah, we both get it.",
+    "rules": [
+      "Using Ability Scores > Group Checks"
+    ],
+    "rules_explanation": "Everyone must roll for group ability checks, and since each player is half-elf and successful it's determined that 'we all get it'."
+  },
+  {
+    "question": "The paladin is hit with an attack and asks, \"Am I taking a penalty?\"",
+    "answer": "You now, Percy.",
+    "rules": [
+      "Magic Items > Sentinel Magic Items"
+    ],
+    "rules_explanation": "The DM is using his own judgment and it cannot be answered by using SRD document."
+  },
+  {
+    "question": "The level 9 paladin asks, \"Can I use my bonus to have a greater potion?\".",
+    "answer": "That's fine. For the rest of my action, I'm going to, after that, two slashes with the sword to finish it up, and then hop down.",
+    "rules": [],
+    "rules_explanation": "The player is asking if they can administer a healing potion as a bonus action. The DM says that this is allowable."
+  },
+  {
+    "question": "The eagle carrying Scanlan is plummeting downwards, the level 9 barbarian asks can I double my speed get around the target?\"",
+    "answer": "You'll have to move to push her.",
+    "rules": [],
+    "rules_explanation": "The question is not fully stated in this turn so there no rules in this part."
+  },
+  {
+    "question": "The level 9 barbarian asks, \"You'll have to move to push her. Can I move?\"",
+    "answer": "Yeah, you shift around that way. You'd get an attack of opportunity from the rogue.",
+    "rules": [],
+    "rules_explanation": "The DM's reply involves no rules information, but the fact of AoO does."
+  },
+  {
+    "question": "When the rogue makes an attack of opportunity, the level 9 barbarian asks, \"That's all right. So you're aware, usually it's like when you go into a rage you choose to frenzy rage, but I've always liked the idea of you going into a frenzy if you want to. I don't think it takes an action to do so.\" Is it a bonus action?",
+    "answer": "It's a bonus action to rage.",
+    "rules": [
+      "Class Features > Barbarian > Rage"
+    ],
+    "rules_explanation": "The DM clarifies that Rage is activated as a bonus action."
+  },
+  {
+    "question": "A character states, \"As you fall, the shadow around Ripley flares and you hear a voice go, 'Yes!' She aims and takes another shot at you.\", the group notes her actions, so can an attack be made at this time?",
+    "answer": "No, the gunners go next.",
+    "rules": [
+      "Combat > The Order of Combat"
+    ],
+    "rules_explanation": "The DM is indicating that it is not Ripley's turn to act."
+  },
+  {
+    "question": "A character's death has just been averted, and a player states, \"What are you at?\" Another player replies, \"For this, you are unconscious. Let me see this real fast.\" Should the characters armor change?",
+    "answer": "Okay. So are you unconscious?",
+    "rules": [
+      "Appendix PH-A: Conditions > Unconscious"
+    ],
+    "rules_explanation": "The DM needs to determine if the character is considered unconscious or not in order to apply the appropriate penalties/bonuses. This hinges on wether the hit was the one that took them to 0 hitpoints, or a second instance while already at 0."
+  },
+  {
+    "question": "The question from Laura is, \"Ashley's asking to bamf in. Would she have felt anything because her necklace went off?\" is she referring to the barbarian? ",
+    "answer": "Basically, nothing there.",
+    "rules": [],
+    "rules_explanation": "The DM is using his own judgment and it cannot be answered by using SRD document."
+  },
+  {
+    "question": "Scanlan casts a spell on two creatures, can he use Cutting Words to make them have disadvantage on the spell. Is this okay?",
+    "answer": "The effect was not that good it doesn't effect both.",
+    "rules": [],
+    "rules_explanation": "The player is using the 'Cutting Words' class feature to decrease saving throws to the spell that has been cast. A die roll of 12, plus a roll from himself did not hit to have the advantage of both."
+  }
+]

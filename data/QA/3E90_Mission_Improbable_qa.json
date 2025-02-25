@@ -1,0 +1,303 @@
+[
+  {
+    "question": "The level 3 Circle of the Land Druid casts *barkskin* as part of their plan, the level 1 Warlock responds with: It's Permanent? Is *Stone Shape* just a one thing? The Dungeon Master responded with Yes. Is it just a one thing?",
+    "answer": "Yes, The spell *Stone Shape* is instantaneous and permanent. Once the stone is shaped, it remains shaped.",
+    "rules": [
+      "Spellcasting > Duration > Instantaneous",
+      "Spell Lists > Druid Spells > 4th Level > Stone Shape"
+    ],
+    "rules_explanation": "The spell description indicates the duration of *Stone Shape*, when a spell has a duration of Instantaneous it occurs once and has an immediate permanent effect."
+  },
+  {
+    "question": "The player casts *speak with animals*. Does the spell require verbal, somatic, or material components?",
+    "answer": "The *speak with animals* spell requires verbal and somatic components, but no material components.",
+    "rules": [
+      "Spell Lists > Druid Spells > 1st Level > Speak with Animals"
+    ],
+    "rules_explanation": "The components line in the spell description lists 'V, S' as components so the spell requires Verbal and Somatic components. There is no 'M' listed, so the spell does not require a material component."
+  },
+  {
+    "question": "The player asks if Speak with Animals stack (with another casting of Speak with Animals), the DM responded, \"that they can stack.\" Does *Speak with Animals* have a restriction that states they cannot stack?",
+    "answer": "The description for the spell *Speak with Animals* has no restriction on multiple castings stacking.",
+    "rules": [
+      "Spell Lists > Druid Spells > 1st Level > Speak with Animals"
+    ],
+    "rules_explanation": "Since the *Speak with Animals* spell does not specify that it cannot be cast on the same target multiple times there is no rules restriction to prevent multiple casting stacking."
+  },
+  {
+    "question": "The level 4 warlock casts Command and asked, \"Command is Wisdom 16?\" What is the saving throw for the Command Spell?",
+    "answer": "The saving throw DC for *Command* is 8 + the spellcasting ability modifier + the proficiency bonus. It is not necessarily 16.",
+    "rules": [
+      "Spellcasting > Spell Save DC"
+    ],
+    "rules_explanation": "The spell save DC is based on the character's proficiency bonus and charisma modifier, and only equals 16 if those values sum to 8."
+  },
+  {
+    "question": "The invisible team is sneaking around, a 100 foot rope is given to the rogue. The warlock is holding the rope. Does it stay invisible between you passing it over?",
+    "answer": "Yes, anything the target is wearing or carrying is invisible as long as it's on the target.",
+    "rules": [
+      "Spell Descriptions > Invisibility"
+    ],
+    "rules_explanation": "The Invisibility spell explicitly states that anything that the target is wearing or carrying is also invisible as long as it's on the target's person. Thus, so long as the item in question, the 100-foot rope, is on the person of an invisible character, it is invisible, and this is true in the case of the character who is now holding it."
+  },
+  {
+    "question": "A character climbing on a wall using Spider Climb is passing a rope to characters below. What is the status of the rope as it is unwound, is it invisible?",
+    "answer": "As the character holding it no longer carries it it becomes something you're just holding. Like a part of the terrain.",
+    "rules": [
+      "Spell Descriptions > Invisibility",
+      "Combat > Movement and Position"
+    ],
+    "rules_explanation": "A character holding a rope is considered as the environment, anything the character climbs would not become invisible as the unwinding rope would not be carried by the target"
+  },
+  {
+    "question": "A player with advantage because of a mark from a wildmother card draws two 2's, is it a critical fail? Is it two ones?",
+    "answer": "No, that is not a critical fail. Two 2's are not a critical failure in Dungeons and Dragons.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Using Ability Scores > Rolling 1 or 20"
+    ],
+    "rules_explanation": "Rolling two ones on a roll with disadvantage is not a critical failure. Rolling a one on the d20 for an attack is a miss regardless of any modifiers that would be added"
+  },
+  {
+    "question": "A Wildfire druid casts *Speak with Animals*. Are they able to use Sleight of Hand to mask the movements of casting the spell?",
+    "answer": "If the player is using Sleight of Hand to mask the movements of the spellcasting then the proper check is dexterity with the sleight of hand skill.",
+    "rules": [
+      "Skills"
+    ],
+    "rules_explanation": "The description of the skills describes what check to use with each skill."
+  },
+  {
+    "question": "The DM casts Polymorph on a Juggernaut, Can it still alert others?",
+    "answer": "A dominated Juggernaut would not have the capability to alert others telepathically. But it would retain the ability to alert others physically.",
+    "rules": [
+      "Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "When a dominated character is polymorphed their statistics are replaced. However, they still retain their personality. This means they know that they're supposed to be alerting others, and they could try to use nontelepathic means of communication such as sounds or gestures if the new form is capable."
+  },
+  {
+    "question": "A player casts *Passwall*. Does this tunnel disappear once the spell is over, or does it stay?",
+    "answer": "The openings disappear when it's done, it lasts for an hour or you can end it prematurely if you wanted.",
+    "rules": [
+      "Spell Descriptions > Passwall"
+    ],
+    "rules_explanation": "The duration section of the spell indicates what amount of time it lasts."
+  },
+  {
+    "question": "Player asked about Passwall, \"Can I dispel it?\" What are the rules for dispelling a spell?",
+    "answer": "You can end it prematurely if you wanted.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "You can end concentration at any time (no action required)."
+  },
+  {
+    "question": "If the players dispel Passwall and are still inside, what happens?",
+    "answer": "As you all dart through this opening through the temporary tunnel 15 feet through, you emerge from the opposite side",
+    "rules": [
+      "Spell Descriptions > Passwall"
+    ],
+    "rules_explanation": "The spell states 'When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.'"
+  },
+  {
+    "question": "A player casts speak with animals, what is the action to command it, bonus action, action, or what?",
+    "answer": "There is no further action needed.",
+    "rules": [
+      "Spell Descriptions > Command"
+    ],
+    "rules_explanation": "The description for the Command spell states that a target must make a Wisdom Saving Throw or follow the command on its next turn. Since there is no further direction, the target follows it in this particular order with no need to use any player action to make this spell work."
+  },
+  {
+    "question": "When a player fails a save, can they take half damage? (In regards to wall of fire).",
+    "answer": "On a successful save, the creature takes half as much damage.",
+    "rules": [
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "Taking half damage on a successful save against a spell is the default. Some monster abilities and spell effects alter this."
+  },
+  {
+    "question": "The player is invisible and about to use Spider Climb. Can the invisibility spell be recast without being seen?",
+    "answer": "Yes. You cast Spider Climb and for that brief instant that you appear in that shadow, you also appear next to her to cast your spell.",
+    "rules": [
+      "Spell Descriptions > Invisibility"
+    ],
+    "rules_explanation": "There is nothing in the description of Invisibility that specifies a player cannot be seen when recasting an invisibility spell while in darkness. Therefore, there is nothing preventing the player from recasting this spell."
+  },
+  {
+    "question": "Is the group getting advantage on stealth checks because they are invisible?",
+    "answer": "Yes, invisibility gives you advantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "If a special ability or spell grants advantage on an ability check, this rule is triggered."
+  },
+  {
+    "question": "What happens if someone rolls two 2's with advantage?",
+    "answer": "You use 2",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage"
+  },
+  {
+    "question": "With the aid of the Wall of Force spell, can one reach up and grab a wall?",
+    "answer": "Yes, you can reach up and grab it",
+    "rules": [
+      "Spell Descriptions > Wall of Force"
+    ],
+    "rules_explanation": "The rules for Wall of Force only specify that nothing can pass through the wall, and that it can be free-floating. Therefore, one can grab a wall and use that as leverage to get up."
+  },
+  {
+    "question": "The player is planning to help look around with Perception, does the game system rules say I or Laura has the hole anymore?",
+    "answer": "Fearne, can you come take a look at this?",
+    "rules": [
+      "Combat > Actions > Help"
+    ],
+    "rules_explanation": "According to the help action: You can lend your aid to another creature in the completion of a task. When you take the Help action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with"
+  },
+  {
+    "question": "Regarding Zathuda not getting a choice to flee at the barracks, why? is it a special spell or is there no effect?",
+    "answer": "You cast Speak with Animals on yourself and then cast Command Git on a creature of type avadon",
+    "rules": [
+      "Spell Descriptions > Speak with Animals",
+      "Spell Descriptions > Command"
+    ],
+    "rules_explanation": "Command is a single word spell so only a specific command can be given with the Command spell"
+  },
+  {
+    "question": "The wizard asks if they can listen through doors, do they need a perception check?",
+    "answer": "Yes, make a perception check for me",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An ability check tests a character's or monster's innate talent and training in an effort to overcome a challenge. In this case, listening through a door"
+  },
+  {
+    "question": "The player cast Invisibility and the target is wearing something in their clothing. If the character removes what is being worn, what happens, does it stay invisible?\"",
+    "answer": "Let me look into it",
+    "rules": [
+      "Spell Descriptions > Invisibility"
+    ],
+    "rules_explanation": "Does not give enough information, and is unanswerable due to what would happen being unknown at this point."
+  },
+  {
+    "question": "Are the Reiloran near other ones so their weapons light up?",
+    "answer": "Those weapons are currently lit because they are also near other ones, yes.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Does not reference any specific game rules."
+  },
+  {
+    "question": "What is the Sunder King's Name?",
+    "answer": "Sunder King Cruth, the head of the Dominion of Cruth.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Does not reference any specific game rules."
+  },
+  {
+    "question": "The Level 1 cleric asks if the spell Fast Friends can be cast on animals if they can talk to them?",
+    "answer": "Probably.",
+    "rules": [
+      "Spell Descriptions > Fast Friends"
+    ],
+    "rules_explanation": "This is based on interpretation of the Fast Friends spell and is up to the DM."
+  },
+  {
+    "question": "The Dungeon Master asks: Is it Verbal, Somatic, Material?, and what is asked is Speak with Animals has Is it verbal, somatic, material?",
+    "answer": "It is verbal, somatic.",
+    "rules": [
+      "Spell Descriptions > Speak with Animals"
+    ],
+    "rules_explanation": "The Components line in a spell description gives all components for that spell."
+  },
+  {
+    "question": "If there are no magic light in their area, what is the light level there?",
+    "answer": "Even though it's low light over here, low light, dim light?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Does not reference any specific game rules."
+  },
+  {
+    "question": "The level 1 wizard casts a spell on the 3rd level fighter. The 3rd Level Fighter is running around as a werewolf, who is able to deliver dialogue?",
+    "answer": "Adam West Batman-ing this",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Does not reference any specific game rules."
+  },
+  {
+    "question": "What saving throw do you make to avoid the effect of the thunderwave spell?",
+    "answer": "Each creature in a 15-foot cube originating from you must make a Constitution saving throw.",
+    "rules": [
+      "Spell Descriptions > Thunderwave"
+    ],
+    "rules_explanation": "The text of Thunderwave specifies the type of saving throw required to resist its effects"
+  },
+  {
+    "question": "Can a dazed person tell who is there?",
+    "answer": "No.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Does not reference any specific game rules."
+  },
+  {
+    "question": "Someone is casting invisibility to get close to a subject. Once near, the invisibility is lifted. What happens?",
+    "answer": "They watch as you approach. They don't question.",
+    "rules": [
+      "Spell Descriptions > Command"
+    ],
+    "rules_explanation": "The spell description specifies no further reaction from the subject other than to complete the task."
+  },
+  {
+    "question": "The player asked what they were saving against for stinking cloud and the DM said constitution saves all around.",
+    "answer": "Each creature that is completely within the cloud at the start of its turn must make a Constitution saving throw against poison.",
+    "rules": [
+      "Spell Descriptions > Stinking Cloud"
+    ],
+    "rules_explanation": "The description of the spell specifies the type of saving throw and what the saving throw is to resist."
+  },
+  {
+    "question": "If Invisibility is being used, what happens to what they are touching?",
+    "answer": "If there is an object that you are wearing that contains Gona, she will also vanish.",
+    "rules": [
+      "Spell Descriptions > Invisibility"
+    ],
+    "rules_explanation": "The spell description indicates that anything you're wearing or carrying goes with you, not just worn. Anything touching what is on the player would not trigger a second casting of Invisibility."
+  },
+  {
+    "question": "What kind of check is required on the spell Passwall?",
+    "answer": "There is no check from the player to cast passwall, just following the rules of duration.",
+    "rules": [
+      "Spell Descriptions > Passwall"
+    ],
+    "rules_explanation": "The spell has a duration, and components, as long as those parameters are met, the spell can be cast with no additional checks."
+  },
+  {
+    "question": "If the character casts spider climb, how does invisibility interact? How long does it last?",
+    "answer": "Spider Climb requires a new Invisibility spell, and Invisibility lasts for an hour.",
+    "rules": [
+      "Spell Descriptions > Invisibility",
+      "Spell Descriptions > Spider Climb"
+    ],
+    "rules_explanation": "Spider Climb is not permanent, and has no affect on other players. As such, Invisibility needs to be recasted."
+  },
+  {
+    "question": "The player cast Speak with Animals after that fact, without trying to hide it, what happens?",
+    "answer": "You also just cast a spell. Without trying to hide it, as a tiny myceit.",
+    "rules": [
+      "Spell Descriptions > Speak with Animals"
+    ],
+    "rules_explanation": "Does not reference any specific game rules."
+  },
+  {
+    "question": "If the player is throwing a d10 weapon and it's a crit, what happens?",
+    "answer": "Roll the first crit damage.",
+    "rules": [
+      "Damage and Healing > Critical Hits"
+    ],
+    "rules_explanation": "Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal.  "
+  }
+]

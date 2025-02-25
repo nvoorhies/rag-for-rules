@@ -1,0 +1,313 @@
+[
+  {
+    "question": "The level 6 Bard made a Charisma saving throw with a +6 bonus and rolled a 13, for a total of 19. What happens?",
+    "answer": "With a 19 on the Charisma saving throw, the eyes of the level 6 Bard trail back to the window and that uninterrupted blue on blue of sky and sea. You're able to put it away, that fear, that worry for the unknown. You're a little stronger now, a little braver, a little bolder, a little smarter than when you left.",
+    "rules": [
+      "Combat > Saving Throws"
+    ],
+    "rules_explanation": "The character is making a Charisma saving throw to resist an effect. The rules state that the character rolls a d20 and adds the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the DC (not specified), the saving throw is a success."
+  },
+  {
+    "question": "A level 5 Monk is making a perception check with disadvantage. What value does the check require?",
+    "answer": "The level 5 Monk makes a perception check with disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Character has to make a perception check. The rules indicate they must roll the check with disadvantage."
+  },
+  {
+    "question": "Does a performance check allow the character to get a bartender's attention?",
+    "answer": "Yes. The game master called for a performance check to get a bartender's attention.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The game master called for a performance check to get a bartender's attention. The mechanics for checks to perform specific actions not explicitly included in the rules are at the discretion of the game master."
+  },
+  {
+    "question": "What is a performance check?",
+    "answer": "A performance check is a charisma based skill check that measures how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Charisma > Performance"
+    ],
+    "rules_explanation": "Charisma > Performance states 'Your Charisma (Performance) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.'"
+  },
+  {
+    "question": "A Lagomore History check is rolled with a score of eight. What does the character know?",
+    "answer": "With an eight, the name Dariax is strange. You've not heard it many times, but it does ring a bell.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Intelligence > History"
+    ],
+    "rules_explanation": "The roll determines the information that character knows."
+  },
+  {
+    "question": "A Lagomore makes a performance check with advantage to make bread. She rolls 18, and 6, for a total of 21. What is her check value?",
+    "answer": "Her check value is 21.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When you have advantage or disadvantage and something in the game, lets you reroll the d20, you can reroll only one of the dice. You choose which one. In this case, the highest value is kept, but no modifiers change the highest value."
+  },
+  {
+    "question": "Does a player have to tell the game master when they roll a natural one on a die?",
+    "answer": "You have to tell me if it's a natural one.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question, but a meta-game ruling by the DM for this campaign."
+  },
+  {
+    "question": "If a Bard casts Bardic Inspiration on another character, what die is rolled for the Bardic Inspiration by a 6th level Bard?",
+    "answer": "The Bardic Inspiration die is a d8 at 5th level and higher.",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "The Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level."
+  },
+  {
+    "question": "As a warlock of at least level 2, are we allowed to talk about spells and things that we have?",
+    "answer": "Yes.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question."
+  },
+  {
+    "question": "Can a warlock, class level at least two, use mage hand of legerdemain to steal a key off of a person?",
+    "answer": "A 2nd level warlock has the 'Eldritch Invocations' class feature.  It is up to the player to have selected the correct invocation to perform the action in question.",
+    "rules": [
+      "Warlock > Class Features > Eldritch Invocations"
+    ],
+    "rules_explanation": "The warlock class feature 'Eldritch Invocations' allow the selection of specific abilities which can enable this action to be possible.  Without a selected ability, the listed action is not possible."
+  },
+  {
+    "question": "If a level 6 character makes an attack with disadvantage and one result is a natural 20 and the other is a four, what is the attack roll's success?",
+    "answer": "The natural 20 is ignored. The attack roll succeeds only if four + modifiers equals or exceeds the target AC.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage",
+      "Combat > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "The rules state that when you have disadvantage, you use the lower roll. The rule that a natural 20 always hits is superseded by disadvantage."
+  },
+  {
+    "question": "If the rogue has rolled 17 for a deception check, can she use inspiration to make it a better number?",
+    "answer": "Yes.",
+    "rules": [
+      "Using Ability Scores > Inspiration"
+    ],
+    "rules_explanation": "Spending your inspiration gives you advantage on that roll"
+  },
+  {
+    "question": "What is a green room?",
+    "answer": "This term does not appear in the core rules.",
+    "rules": [],
+    "rules_explanation": "The SRD does not contain any mention of a green room."
+  },
+  {
+    "question": "How does Bardic Inspiration interact with concentration checks?",
+    "answer": "Bardic Inspiration does not affect concentration checks.",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "Bardic inspiration only applies to \"one ability check, attack roll, or saving throw\" and does not explicitly affect concentration checks."
+  },
+  {
+    "question": "Can the Gift be used to find one's sibling?",
+    "answer": "The game master adjudicates if The Gift can be used to find one's sibling.",
+    "rules": [],
+    "rules_explanation": "The Gift is a campaign specific ability. Therefore, the question cannot be answered using the SRD."
+  },
+  {
+    "question": "Can you Dash without Ki?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Actions in Combat > Dash"
+    ],
+    "rules_explanation": "Dashing is a base action, and therefore doesn't require Ki."
+  },
+  {
+    "question": "Can I dash without being in combat",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Actions in Combat > Dash"
+    ],
+    "rules_explanation": "This is not a rules question, but a DM ruling. The rules for Dash do not specify needing to be in combat."
+  },
+  {
+    "question": "If a character has a normal speed of 45, and takes the Dash action, how far can they move?",
+    "answer": "The character can move 90 feet.",
+    "rules": [
+      "Combat > Movement and Position"
+    ],
+    "rules_explanation": "If you take the Dash action, you gain extra movement for the current turn. The increase equals your speed."
+  },
+  {
+    "question": "Is it against the rules to say something like, 'Bromance? What is that?'",
+    "answer": "This is not against any rules.",
+    "rules": [],
+    "rules_explanation": "Roleplaying a character to provide information or express a lack of knowledge is not against any rules."
+  },
+  {
+    "question": "What happens when a character runs into the woman whose bolero you stole while at disadvantage",
+    "answer": "The character makes a persuasion check with disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The character attempts a persuasion check. The circumstances impose disadvantage on the check"
+  },
+  {
+    "question": "Are you able to catch up to this person with a natural 20, plus six?",
+    "answer": "With a natural 20, you're able to catch up to this person.",
+    "rules": [
+      "Combat > Movement and Position"
+    ],
+    "rules_explanation": "You're able to catch up to this person because it was a natural 20. The modifier is not important."
+  },
+  {
+    "question": "Does Vicious Mockery do physical damage?",
+    "answer": "This rules question cannot be answered using only the information in the SRD.",
+    "rules": [],
+    "rules_explanation": "The answer requires information about the specific spell which is not provided."
+  },
+  {
+    "question": "Is there a way to gain money by not rolling dice?",
+    "answer": "This is not a rules question",
+    "rules": [],
+    "rules_explanation": "This is not a rules question."
+  },
+  {
+    "question": "Can we stop saying heist?",
+    "answer": "There are no rules prohibiting the use of the word 'heist.'",
+    "rules": [],
+    "rules_explanation": "There is no rule that prohibits using the word 'heist'."
+  },
+  {
+    "question": "Are we allowed to talk about spells and things that we have?",
+    "answer": "Yes, speak, go ahead.",
+    "rules": [],
+    "rules_explanation": "Not a rules question."
+  },
+  {
+    "question": "Are we allowed to talk about spells and things that we have, what does that-- the ability of what I have to do?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question."
+  },
+  {
+    "question": "Does Bardic Inspiration require a wisdom saving throw?",
+    "answer": "No.",
+    "rules": [
+      "Bard > Class Features > Bardic Inspiration"
+    ],
+    "rules_explanation": "Bardic Inspiration does not call for a saving throw."
+  },
+  {
+    "question": "Can a familiar crawl under a door frame?",
+    "answer": "It depends on the width of the door frame and size of the familiar",
+    "rules": [
+      "Creatures > Size"
+    ],
+    "rules_explanation": "You did not specify the size of the familiar, or the size of the gap under the door. However, it is assumed that an creature can fit through a space with is equivalent to their space. To fit though a door frame, the familiars size must be small enough."
+  },
+  {
+    "question": "As Mor, a race that is Medium or smaller, if the two of us were being grappled, is that okay to walk through",
+    "answer": "It is permissible to walk through the grappled character's space, but it is difficult terrain.",
+    "rules": [
+      "Combat > Movement and Position > Moving Around Other Creatures"
+    ],
+    "rules_explanation": "You can move through a nonhostile creature's space. In contrast, you can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you. Remember that another creature's space is difficult terrain for you."
+  },
+  {
+    "question": "Is there a limit on the number of spells I can prepare?",
+    "answer": "Yes. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.",
+    "rules": [
+      "Cleric > Class Features > Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots."
+  },
+  {
+    "question": "If a bard has been given a mandolin, are there effects if they're not attuned to it?",
+    "answer": "This rules question cannot be answered using only the information in the SRD.",
+    "rules": [],
+    "rules_explanation": "Without knowing more specifics about the instrument there is not an answer."
+  },
+  {
+    "question": "If a character has Advantage on a Stealth check can they cancel the Advantage to avoid alerting other players in-character?",
+    "answer": "No.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When you have advantage, you roll two dice. You cannot roll a single die with advantage."
+  },
+  {
+    "question": "If a warlock is hit and goes down to zero hit points, what happens?",
+    "answer": "This rules question cannot be answered using only the information in the SRD.",
+    "rules": [],
+    "rules_explanation": "The rules of the warlock do not inherently specify what happens when they hit zero hit points. Depending on several conditions, they can fall unconscious or die outright."
+  },
+  {
+    "question": "Can I see through Ted 2's eyes?",
+    "answer": "Yes, you can absolutely look through Ted's eyes. You can work into your spider.",
+    "rules": [],
+    "rules_explanation": "This is a rule judgement by the DM. It is not in the SRD."
+  },
+  {
+    "question": "After giving a bonus to someone to bless them what is left to do",
+    "answer": "This rules question cannot be answered using only the information in the SRD.",
+    "rules": [],
+    "rules_explanation": "The question is ambiguous without a given ruleset. A skill with bless already activated may not be obvious, so a general 'what do I do next' is not inherently defined."
+  },
+  {
+    "question": "If I dismiss Disguise Self, does my actual outfit materialize?",
+    "answer": "Love it.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question. DM approves the action"
+  },
+  {
+    "question": "Can I use a familiar to touch someone that I don't want to touch?",
+    "answer": "This rules question cannot be answered using only the information in the SRD.",
+    "rules": [],
+    "rules_explanation": "It depends on the parameters of the magic used to create the familiar, but the SRD does not discuss this."
+  },
+  {
+    "question": "What do the rules say about interparty conflict",
+    "answer": "The SRD describes contests, where characters' or monsters' efforts are directly opposed to each other.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Contests"
+    ],
+    "rules_explanation": "The srd describe rules for the contests check type."
+  },
+  {
+    "question": "If a room is being broken into at the top of the stairs, do the party members at the bottom know immediately",
+    "answer": "This rules question cannot be answered using only the information in the SRD.",
+    "rules": [],
+    "rules_explanation": "This depends on too many circumstances not mentioned in the document."
+  },
+  {
+    "question": "Can I attune to an item in 20 minutes?",
+    "answer": "No. Attuning to an item requires a creature to spend a short rest focused on only that item while being in physical contact with it. A short rest is at least 1 hour long.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "Attuning to an item requires a creature to spend a short rest focused on only that item while being in physical contact with it... A short rest is a period of downtime, at least 1 hour long."
+  },
+  {
+    "question": "How long can I sleep",
+    "answer": "This rules question cannot be answered using only the information in the SRD.",
+    "rules": [],
+    "rules_explanation": "This depends on the race of the character. All characters need to rest to regain spell slots"
+  },
+  {
+    "question": "Does this place have an elevator?",
+    "answer": "No, it's stairs, because again, technology.",
+    "rules": [],
+    "rules_explanation": "The game world does not have elevators. Elevators are a technological object. They are not in a medieval world."
+  },
+  {
+    "question": "If a spell requires a down time and you're in a location where that time is altered or not working properly, what happens?",
+    "answer": "This rules question cannot be answered using only the information in the SRD.",
+    "rules": [],
+    "rules_explanation": "Requires information about an imaginary location which is specific to the campaign."
+  },
+  {
+    "question": "Does the Fur Bolero glitched out?",
+    "answer": "Yeah. Maybe the visual goes-- glitches a little bit. She still, I mean, Opal now has permanently stained, goopy hands.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question. It is up to the DM to decide if something glitches a little bit"
+  }
+]

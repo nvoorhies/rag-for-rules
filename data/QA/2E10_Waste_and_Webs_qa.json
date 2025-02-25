@@ -1,0 +1,284 @@
+[
+  {
+    "question": "The Level 4 Warlock asks, \"Perception check.\"",
+    "answer": "The Warlock makes a Wisdom(Perception) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Wisdom > Wisdom Checks",
+      "Using Ability Scores > Wisdom > Wisdom > Skills"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Wisdom, and if the player is proficient with Perception, then add their Proficiency bonus."
+  },
+  {
+    "question": "The Level 4 Warlock asks, \"Make a perception check.\"",
+    "answer": "The Warlock makes a Wisdom(Perception) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Wisdom > Wisdom Checks",
+      "Using Ability Scores > Wisdom > Wisdom > Skills"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Wisdom, and if the player is proficient with Perception, then add their Proficiency bonus."
+  },
+  {
+    "question": "The Level 4 Warlock asks, \"Do I recall exactly?\"",
+    "answer": "The DM rules if the Level 4 Warlock recalls the information.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks"
+    ],
+    "rules_explanation": "Whether a character recalls something exactly, such as information from their past, is not covered by the rules. The DM adjudicates the result based on the known information."
+  },
+  {
+    "question": "The Level 4 Warlock asks, \"Make a perception check.\"",
+    "answer": "The Level 4 Warlock makes a Wisdom(Perception) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Wisdom > Wisdom Checks",
+      "Using Ability Scores > Wisdom > Wisdom > Skills"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Wisdom, and if the player is proficient with Perception, then add their Proficiency bonus."
+  },
+  {
+    "question": "The Level 4 Warlock asks, \"Make an investigation check for you as you guys travel and traverse the city.\"",
+    "answer": "The Level 4 Warlock makes an Intelligence(Investigation) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Intelligence > Intelligence Checks",
+      "Using Ability Scores > Intelligence > Intelligence Checks > Skills"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Intelligence, and if the player is proficient with Investigation, then add their Proficiency bonus."
+  },
+  {
+    "question": "The Level 4 Warlock asks, \"Make a perception check.\"",
+    "answer": "The Level 4 Warlock makes a Wisdom(Perception) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Wisdom > Wisdom Checks",
+      "Using Ability Scores > Wisdom > Wisdom > Skills"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Wisdom, and if the player is proficient with Perception, then add their Proficiency bonus."
+  },
+  {
+    "question": "The Level 5 Monk asks, \"Do we know where that guy is?\"",
+    "answer": "The DM determines if they know where he is.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks"
+    ],
+    "rules_explanation": "Whether they know the location of the guards is not covered by the rules. The DM adjudicates the result based on the known information."
+  },
+  {
+    "question": "The Level 4 Warlock asks, \"Make a perception check.\"",
+    "answer": "The Level 4 Warlock makes a Wisdom(Perception) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Wisdom > Wisdom Checks",
+      "Using Ability Scores > Wisdom > Wisdom > Skills"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Wisdom, and if the player is proficient with Perception, then add their Proficiency bonus."
+  },
+  {
+    "question": "The Level 1 Barbarian asks, \"Make a perception check.\"",
+    "answer": "The Level 1 Barbarian makes a Wisdom(Perception) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Wisdom > Wisdom Checks",
+      "Using Ability Scores > Wisdom > Wisdom > Skills"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Wisdom, and if the player is proficient with Perception, then add their Proficiency bonus."
+  },
+  {
+    "question": "The Level 1 Barbarian asks, \"Make a perception check.\"",
+    "answer": "The Level 1 Barbarian makes a Wisdom(Perception) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Wisdom > Wisdom Checks",
+      "Using Ability Scores > Wisdom > Wisdom > Skills"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Wisdom, and if the player is proficient with Perception, then add their Proficiency bonus."
+  },
+  {
+    "question": "The Level 4 Rogue asks, \"Make an investigation check.\"",
+    "answer": "The Level 4 Rogue makes a Intelligence(Investigation) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Intelligence > Intelligence Checks",
+      "Using Ability Scores > Intelligence > Intelligence Checks > Skills"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Intelligence, and if the player is proficient with Investigation, then add their Proficiency bonus."
+  },
+  {
+    "question": "The Level 1 Barbarian asks, \"Make a perception check.\"",
+    "answer": "The Level 1 Barbarian makes a Wisdom(Perception) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Wisdom > Wisdom Checks",
+      "Using Ability Scores > Wisdom > Wisdom > Skills"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Wisdom, and if the player is proficient with Perception, then add their Proficiency bonus."
+  },
+  {
+    "question": "The Level 4 Rogue asks, \"Make a stealth check.\"",
+    "answer": "The Level 4 Rogue makes a Dexterity(Stealth) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Dexterity > Dexterity Checks",
+      "Using Ability Scores > Dexterity > Dexterity Checks > Skills"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Dexterity, and if the player is proficient with Stealth, then add their Proficiency bonus."
+  },
+  {
+    "question": "The Level 4 Warlock asks, \"Can we see a past that into any further clumps of webbing?\"",
+    "answer": "A Wisdom(Perception) check with disadvantage is made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Wisdom > Wisdom Checks",
+      "Using Ability Scores > Wisdom > Wisdom > Skills",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Wisdom, and if the player is proficient with Perception, then add their Proficiency bonus. The check has disadvantage because it does beyond the torch threshold."
+  },
+  {
+    "question": "The Level 4 Warlock asks, \"Make a perception check.\"",
+    "answer": "The Level 4 Warlock makes a Wisdom(Perception) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks",
+      "Using Ability Scores > Wisdom > Wisdom Checks",
+      "Using Ability Scores > Wisdom > Wisdom > Skills"
+    ],
+    "rules_explanation": "The rules state to make an Ability check roll 1d20 and add the relevant ability modifier. The DM is calling for a skill check, so the roll is considered to use Wisdom, and if the player is proficient with Perception, then add their Proficiency bonus."
+  },
+  {
+    "question": "The level 4 warlock asks, \"It does get a surprise strike on you, which has advantage. Disadvantage thanks to your last ability, so it's just a straight attack roll.\"",
+    "answer": "Determine if the attack hits with a straight d20 roll and the appropriate modifiers to the roll and damage.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Combat > Making an Attack > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The attack has advantage due to the surprised condition of the target, but disadvantage due to the attacker's last ability, negating each other. The rules state that when this is the case, neither are applied and it is a straight d20 attack roll."
+  },
+  {
+    "question": "Level 9 Fighter/Warlock asks, \"With my bonus action, can I cast Hexblade's Curse on the spider?\"",
+    "answer": "You can cast Hexblade's Curse as a bonus action on the spider.",
+    "rules": [
+      "Spellcasting > Bonus Action"
+    ],
+    "rules_explanation": "The text specifies that Hexblade's Curse is applied as a bonus action."
+  },
+  {
+    "question": "The Level 9 Fighter/Warlock asks, \"With the fucking glove of blasting, that we took off the thing, can I go (grunting) and fire all three of the Scorching Ray balls at the spider?\"",
+    "answer": "Make three ranged spell attack rolls with disadvantage.",
+    "rules": [
+      "Spellcasting > Actions",
+      "Combat > Making an Attack > Ranged Attacks",
+      "Combat > Making an Attack > Ranged Attacks > Ranged Attacks in Close Combat",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Scorching Ray has a casting time of 1 action, so that's what it takes to use it with the glove. It is a ranged spell attack, so it is made as a spell attack. The disadvantage arises due to the close range. The rules for ranged attacks specify that you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated."
+  },
+  {
+    "question": "Level 5 Monk asks, \"Can I hold a ki point action? Or can I hold an attack? Or can I hold an attack and then decide I want it to be a flurry of blows?\"",
+    "answer": "The rules determine if Flurry of Blows is an allowed action with a Held Attack, or it is not.",
+    "rules": [
+      "Combat > Actions > Ready",
+      "Monk > Ki > Flurry of Blows",
+      "Player's Handbook > Combat > Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "The rules specify that you have to pick the action in advance, so the final conditional phrasing does not apply. Flurry of Blows has a cost of 1 ki point, which can be done as an Attack Action. Because Flurry of Blows is a Bonus Action, it is not available as part of the Held Action."
+  },
+  {
+    "question": "Level 5 Monk asks, \"Can I take the bonus attack now, to do the ki point and hold it?\"",
+    "answer": "You can hold an action with all the costs paid, but if the action is not triggered, the costs are lost.",
+    "rules": [
+      "Combat > Actions > Ready"
+    ],
+    "rules_explanation": "The rules state that you must declare what action you are Readying and any costs associated with it. You would pay the Ki points as part of Readying the Flurry of Blows action, but if the condition to trigger the Bonus action is not met, then the Ki points are lost."
+  },
+  {
+    "question": "The Level 9 Fighter/Warlock asks, \"Is it down here! It's rats, we're not using that shit.\"",
+    "answer": "It is the DM's purview to determine the circumstances under which supplies are required.",
+    "rules": [
+      "Equipment",
+      "Combat > Actions"
+    ],
+    "rules_explanation": "The description of a situation in the dungeon where a purchase of supplies was not required is not a rules call. It is simply a description of the circumstances. However, the rules on equipment do outline when supplies are used."
+  },
+  {
+    "question": "Level 8 Druid/Rogue asks, \"With my 40 foot movement?\"",
+    "answer": "The DM adjudicates if she can close the distance given the stated movement and situation.",
+    "rules": [
+      "Combat > Movement and Position > Speed"
+    ],
+    "rules_explanation": "It is the DM's purview to adjudicate movement during the combat and given the known restrictions of the terrain."
+  },
+  {
+    "question": "The Level 8 Druid/Rogue asks, \"I'm going to do that lean up against the wall thing over the top of him.\"",
+    "answer": "The DM determines the requirements to lean against the wall over the top of him based on the current situation.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks"
+    ],
+    "rules_explanation": "Whether she is able to lean over the top of him is not covered by any specific rules, so it is up to the DM to decide."
+  },
+  {
+    "question": "Level 8 Druid/Rogue asks, \"Can I like help him out, see if I spot anything? Give him an assisted roll?\"",
+    "answer": "Another character may assist the search, granting them advantage on the roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The rules on working together state that the character who's leading the effort can make an ability check with advantage, reflecting the help provided by the other characters."
+  },
+  {
+    "question": "Level 8 Druid/Rogue asks, \"If they don't allow the criminals in, then they'd be real easy to pickpocket, because no one would expect it.\"",
+    "answer": "The DM determines whether the lack of criminals would make it easier to pickpocket there.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Ability Checks"
+    ],
+    "rules_explanation": "While she is saying what she *thinks* is the best way to approach a specific activity, this is not a specific rules question. The DM would determine how this affects any appropriate rolls, as well as whether or not this statement is correct."
+  },
+  {
+    "question": "Level 4 Warlock asks, \"So I'm blurry and there's an invisible guy right above me.\"",
+    "answer": "The mechanics and implications of that arrangement are not specified by the rules, so the DM determines any resulting consequences, restrictions, or advantages.",
+    "rules": [],
+    "rules_explanation": "Given the statements of where the characters are it is not a rules question as to what happens and how those arrangements affect the world and characters."
+  },
+  {
+    "question": "Level 4 Rogue asks, \"OK, but how do we know where we're going, though? How will we choose?\"",
+    "answer": "The DM describes the directions that they are going.",
+    "rules": [],
+    "rules_explanation": "The DM is being asked about in-game information that does not involve the application of any specific rules."
+  },
+  {
+    "question": "The level 1 Barbarian asks \"are we considered poisoned if we got bit, right?\"",
+    "answer": "Determine if they are poisoned based on the stat block of the monster and if they succeded on the saving throw.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Types",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "If they are required to make a saving throw after being bitten by the monster and they failed, then they are poisoned. If there's no saving throw, they consult the stat block to determine whether it causes a poisoned effect, and for how long."
+  },
+  {
+    "question": "The Level 4 Warlock asks, \"What's the casting time on Identify again?\"",
+    "answer": "The casting time of Identify is 1 minute, and it has the ritual tag.",
+    "rules": [
+      "Spellcasting > Rituals"
+    ],
+    "rules_explanation": "The spell description for Identify states that it's casting time is 1 minute, and that it has the ritual tag."
+  },
+  {
+    "question": "The Level 4 Warlock asks, \"Do I have to stay within 60 feet of Schmidt?\"",
+    "answer": "Yes, Schmidt, the unseen servant, has a range of 60 feet from you.",
+    "rules": [],
+    "rules_explanation": "This is a question about an in-game element, so the DM provides an answer based on the description and facts already given, not a specific rule."
+  },
+  {
+    "question": "Level 4 Rogue asks, \"Can I get my handaxe back?\"",
+    "answer": "The Dungeon Master determines if can get it back.",
+    "rules": [],
+    "rules_explanation": "Whether can retrieve it depends on the situation. There are no rules around retrieving weapons under duress."
+  },
+  {
+    "question": "The level 4 rogue asks, \"Does it look dark?\"",
+    "answer": "Yes, it looks dark.",
+    "rules": [],
+    "rules_explanation": "DM decides on the look and feel of the world the actions exist within."
+  }
+]

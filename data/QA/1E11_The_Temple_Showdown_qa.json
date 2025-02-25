@@ -1,0 +1,343 @@
+[
+  {
+    "question": "Should the level 6 ranger apply their favored terrain bonus to this roll, and if so what adjustment applies?",
+    "answer": "Yes, apply a bonus to the roll.",
+    "rules": [
+      "Races Racial Traits > Favored Terrain"
+    ],
+    "rules_explanation": "The character is a ranger, rangers gain the ability Favored Terrain at level 1, that grants a specific bonus while in a Favored Terrain"
+  },
+  {
+    "question": "As a character is making a 15 foot drop, is this a Dexterity (Acrobatics) check, and if so, what DC applies?",
+    "answer": "The SRD does not specify a check to be made for falling, though it is possible to modify checks, with GM permission.",
+    "rules": [],
+    "rules_explanation": "There is no rule that specifies an acrobatics check is required when falling from a low height."
+  },
+  {
+    "question": "Does a natural 1 on a d20 attack roll cause an automatic miss, regardless of modifiers?",
+    "answer": "Yes, a natural 1 on the d20 attack roll causes an automatic miss, regardless of modifiers.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "Rolling a 1 on the d20 attack roll causes an automatic miss, regardless of modifiers."
+  },
+  {
+    "question": "If he succeeds in casting a spell, can the Huge size monster be grappled by the Bigby's Hand spell?",
+    "answer": "The target creature can be Huge or smaller.",
+    "rules": [
+      "Class Features > Sorcerer > Spellcasting",
+      "Spell Descriptions > Bigby's Hand"
+    ],
+    "rules_explanation": "Bigby's Hand can grapple a creature that is Huge or smaller."
+  },
+  {
+    "question": "What is added to a Grapple Check using Bigby's Hand?",
+    "answer": "Add the hand's strength score to the roll.",
+    "rules": [
+      "Spell Descriptions > Bigby's Hand"
+    ],
+    "rules_explanation": "The spell description for Bigby's Hand states to use the hand's strength score to resolve the grapple."
+  },
+  {
+    "question": "Does the damage of a critical hit get multiplied before or after the addition of static modifiers to damage?",
+    "answer": "The dice are multiplied before the static modifiers are added.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "The rule states to roll all of the attack's damage dice twice and add them together, *then* add any relevant modifiers as normal."
+  },
+  {
+    "question": "When an arrow is multiplied on a critical hit, can the bracer modifier be added to each dice?",
+    "answer": "The bracers damage bonus is not added to each die, but is added once to the total.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "The bracer is not part of the dice to be rolled, it is a modifier to damage."
+  },
+  {
+    "question": "When a Sleep arrow does damage, how many d8 are rolled to see how many hit points it can affect if it was going to put him to sleep? and how is it calculated?",
+    "answer": "Normally, you would roll 5d8 to see how many hit points it can affect.",
+    "rules": [
+      "Spell Descriptions > Sleep"
+    ],
+    "rules_explanation": "The spell Sleep states to roll 5d8; the total is how many hit points of creatures this spell can affect."
+  },
+  {
+    "question": "If a Sleep arrow does a critical hit, how many d8 are rolled to see how many hit points it can affect, and how is it calculated?",
+    "answer": "In the case of a critical hit you would roll 10d8 to see how many hit points it can affect.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "You would roll 10d8 because it is 5d8 and a critical hit doubles dice rolled."
+  },
+  {
+    "question": "Can a creature that has a speed of zero take any actions?",
+    "answer": "A creature with a speed of zero can still take actions.",
+    "rules": [],
+    "rules_explanation": "Having a speed of zero only affects movement, not the ability to take actions"
+  },
+  {
+    "question": "Is using Hide a stealth ability that a rogue can use as a bonus action?",
+    "answer": "A rogue can use their bonus action to attempt to Hide.",
+    "rules": [
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "Hide is an option granted via the Cunning Action class feature that can be used as a bonus action"
+  },
+  {
+    "question": "What are the effects of Aqua Sphere on Huge creatures?",
+    "answer": "A Huge or larger creature automatically succeeds on the saving throw.",
+    "rules": [
+      "Spell Descriptions > Watery Sphere"
+    ],
+    "rules_explanation": "Watery Sphere's description states that a Huge or larger creature automatically succeeds on the saving throw."
+  },
+  {
+    "question": "What is the Persuasion roll penalty from disadvantage?",
+    "answer": "The roll is made twice, and the lower result is used.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When you have disadvantage on a roll, you roll a second d20 when you make the roll and use the lower result."
+  },
+  {
+    "question": "What is the volume of liquid, and what is the weight, of one cask of ale?",
+    "answer": "This information is not specified in the SRD.",
+    "rules": [],
+    "rules_explanation": "The SRD provides prices and weights for a water skin and a flask, it does not specify this information for a cask."
+  },
+  {
+    "question": "You may or may not be stealthed if you attempt stealth. What ability check is called for to determine the stealth?",
+    "answer": "Make a Dexterity (Stealth) check.",
+    "rules": [
+      "Using Ability Scores > Skills > Dexterity > Stealth"
+    ],
+    "rules_explanation": "The description for Stealth skill states \"Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies\""
+  },
+  {
+    "question": "When making a medicine check to apply healing, does medicine require a spell and what kind of healing is applied?",
+    "answer": "Healing does not require a spell. One dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 hit points, ceases to be poisoned, and is cured of any disease.",
+    "rules": [
+      "Equipment > Adventuring Gear > Restorative Ointment"
+    ],
+    "rules_explanation": "The rules for Restorative Ointment provide the requested information about healing."
+  },
+  {
+    "question": "If a spell grants a bonus to dexterity checks and skills that are dexterity-based, does stealth have an advantage for being a skill that is dexterity-based?",
+    "answer": "Yes, stealth checks are dexterity-based and thus would be rolled with advantage.",
+    "rules": [
+      "Spell Descriptions > Enhance Ability",
+      "Using Ability Scores > Skills > Dexterity > Stealth"
+    ],
+    "rules_explanation": "The Enhance Ability spell description says the target has advantage on Dexterity checks, which includes Dexterity (Stealth) checks."
+  },
+  {
+    "question": "When a spell requires a Wisdom saving throw for someone that is charmed does the affect target have advantage? And can you have the effect, and what can it do?",
+    "answer": "A charmed creature is not specified as having advantage on Wisdom saving throws. The charmed condition prevents attacking or targeting the charmer with harmful abilities or magical effects, and the charmer has advantage on any ability check to interact socially with the creature.",
+    "rules": [
+      "Appendix PH-A: Conditions > Charmed"
+    ],
+    "rules_explanation": "The description of the charmed condition does not grant advantage on saving throws."
+  },
+  {
+    "question": "Can you cause a reaction to occur at any time in the game?",
+    "answer": "Reactions can be used when certain triggers happen.",
+    "rules": [],
+    "rules_explanation": "A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's."
+  },
+  {
+    "question": "When a sorcerer is casting, can you cast the spells that only affect one target to more than one by spending more of his magic power?",
+    "answer": "A spell can only be cast on more than one target if the spell specifically allows it, or a feat is used to allow it.",
+    "rules": [],
+    "rules_explanation": "Spells can only affect a single target unless specified in the spell."
+  },
+  {
+    "question": "does there exist a general rule that prevents a charm spell from being placed on someone who is already being mind controlled?",
+    "answer": "No, the general rule is that a spell that is already on a target can be affected by a new spell.",
+    "rules": [],
+    "rules_explanation": "The SRD does not specify a rule against casting charm spells on mind controlled targets, it just refers to stacking the effects."
+  },
+  {
+    "question": "Can you determine if you are immune to something in the game?",
+    "answer": "The character knows the game rules so they can use the game rules to figure out if they are immune to the spell",
+    "rules": [],
+    "rules_explanation": "Knowing the game rules is a basic premise of the game for players."
+  },
+  {
+    "question": "Does it take time to attune to an item in the game or any other action?",
+    "answer": "Attuning to an item requires a short rest.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "Attuning to an item requires a creature to spend a short rest focused on only that item while being in physical contact with it"
+  },
+  {
+    "question": "Are there spells that require some one to be skilled to use this spell?",
+    "answer": "Yes, and you have to have the tool to do a spell, a example of a crafting spell would be mend. ",
+    "rules": [
+      "Spell Descriptions > Mending"
+    ],
+    "rules_explanation": "You have to have the material to do the mend and it must be to a object."
+  },
+  {
+    "question": "If a target is under both Geas and Dominate effects at once, which takes effect?",
+    "answer": "The general effects of multiple spells that do not create a condition are determined by the GM.",
+    "rules": [],
+    "rules_explanation": "The multiple effect combination of Geas and Dominate are not in the SRD, and as they do not impose a condition there is no rule for stacking. This would be decided by the GM."
+  },
+  {
+    "question": "What is the range of each of these cantrips, Dancing Lights and Light?",
+    "answer": "Dancing Lights has a range of 120 feet and Light has a range of Touch.",
+    "rules": [
+      "Spell Descriptions > Dancing Lights",
+      "Spell Descriptions > Light"
+    ],
+    "rules_explanation": "The ranges are listed in the spell descriptions"
+  },
+  {
+    "question": "Does making an acrobatics check reduce falling damage?",
+    "answer": "No, this is not indicated in the SRD.",
+    "rules": [],
+    "rules_explanation": "Acrobatics and falling is not in the SRD rules."
+  },
+  {
+    "question": "After you're knocked down and getting up can you attack in the same turn?",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "Standing up uses half your movement, which leaves the action free to be used for other options like Attack."
+  },
+  {
+    "question": "Does Bardic Inspiration and other dice adding mechanics effect AC at all?",
+    "answer": "No, they only affect ability checks, attack rolls, or saving throws.",
+    "rules": [
+      "Class Features > Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "The description of Bardic Inspiration states: \"the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes.\""
+  },
+  {
+    "question": "Does it take a bonus action or is it a bonus to movement that gives the ability to scurry over the wall and go stealth?",
+    "answer": "It takes a bonus action to attempt to Hide.",
+    "rules": [
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "Taking the Hide action uses a bonus action for the Rogue."
+  },
+  {
+    "question": "Can you remember the events during combat or the past?",
+    "answer": "Yes, there is no rule against remembering previous events.",
+    "rules": [],
+    "rules_explanation": "The rules assume the characters have a memory of past events."
+  },
+  {
+    "question": "Does anyone have knowledge of his race and his species? Any of his weaknesses or strengths? Can I do a history check?",
+    "answer": "You can do a Nature check.",
+    "rules": [
+      "Using Ability Scores > Skills > Intelligence > Nature"
+    ],
+    "rules_explanation": "The description for Nature skill states \"Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.\""
+  },
+  {
+    "question": "Does everyone have an ability to see what the terrain is doing around them?",
+    "answer": "Unless blinded, everyone has the ability to perceive their terrain through normal vision.",
+    "rules": [],
+    "rules_explanation": "The rules assume creatures can perceive terrain."
+  },
+  {
+    "question": "For long journeys, a scale of days works best. Following the road from Baldur's Gate to Waterdeep. How fast or how long does it take to get from the beginning to end? What is your base walking speed?",
+    "answer": "I can use minutes to follow down to each and ever turn, that is not here, and it is just used a reference.",
+    "rules": [],
+    "rules_explanation": "The SRD describes a scale of days for long journeys."
+  },
+  {
+    "question": "After the Sleep spell wears off, does he wake up or resist",
+    "answer": "The target must succeed on a Wisdom saving throw or be charmed by you for the duration. In this case that is being determined by a Geas spell.",
+    "rules": [
+      "Spell Descriptions > Sleep"
+    ],
+    "rules_explanation": "Creatures affected by sleep are in the condition unconscious and can be awakened."
+  },
+  {
+    "question": "what ability check is made to know drow poison?",
+    "answer": "Make a nature roll.",
+    "rules": [
+      "Using Ability Scores > Skills > Intelligence > Nature"
+    ],
+    "rules_explanation": "The description for Nature skill states \"Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.\""
+  },
+  {
+    "question": "How long does Geas take to cast?",
+    "answer": "Geas has a casting time of 1 minute.",
+    "rules": [
+      "Spell Descriptions > Geas"
+    ],
+    "rules_explanation": "The Casting Time is listed in the spell's description."
+  },
+  {
+    "question": "How does watery sphere impact a Huge creature?",
+    "answer": "A Huge or larger creature automatically succeeds on the saving throw.",
+    "rules": [
+      "Spell Descriptions > Watery Sphere"
+    ],
+    "rules_explanation": "The spell description for Watery Sphere states that a Huge or larger creature automatically succeeds on the saving throw."
+  },
+  {
+    "question": "When using a Medicine check, what spell is being used and what does it do?",
+    "answer": "A Medicine check is not a spell. The description for medicine states \"A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness.\"",
+    "rules": [
+      "Using Ability Scores > Skills > Wisdom > Medicine"
+    ],
+    "rules_explanation": "That skill check can be used to stabilize a dying companion or diagnose an illness."
+  },
+  {
+    "question": "Can a person or a medium sized creature use a flying carpet? If so is there an example.",
+    "answer": "A flying carpet of 3ft x 5ft can hold 200 pounds and be ridden.",
+    "rules": [
+      "Equipment > Wondrous Items > Carpet of Flying"
+    ],
+    "rules_explanation": "The sizes are: 3ft.×5ft, can hold 200 lb."
+  },
+  {
+    "question": "When a player is using Enhance Ability on Stealth, how does it work?",
+    "answer": "The target has advantage on Dexterity checks.",
+    "rules": [
+      "Spell Descriptions > Enhance Ability"
+    ],
+    "rules_explanation": "That is the effect stated for Dexterity on the Enhance Ability spell"
+  },
+  {
+    "question": "what happens if you take a sip from a cask of ale?",
+    "answer": "There is no specific rule about taking a sip of ale.",
+    "rules": [],
+    "rules_explanation": "There is no rule on drinking ale."
+  },
+  {
+    "question": "Can you enter a rage and attack, or is that two actions?",
+    "answer": "Raging is a bonus action, attacking is an action, so it is possible to both rage and attack in the same turn.",
+    "rules": [
+      "Class Features > Barbarian > Rage"
+    ],
+    "rules_explanation": "The rules for Rage states \"On your turn, you can enter a rage as a bonus action.\""
+  },
+  {
+    "question": "What is gained when spending 1 Grit Point?",
+    "answer": "The rules for Grit Points are not present in the SRD.",
+    "rules": [],
+    "rules_explanation": "This is a homebrew element and not contained within the SRD"
+  },
+  {
+    "question": "If an area is both heavily obscured and a source is emitting bright light what area is illuminated?",
+    "answer": "The bright light will fill an area, but a heavily obscured area blocks vision entirely.",
+    "rules": [
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "Heavily obscured areas block all vision, so the light will have no effect."
+  },
+  {
+    "question": "What kind of check is it when something falls on you to avoid getting hit by something dropping on you from above?",
+    "answer": "A Dexterity saving throw.",
+    "rules": [],
+    "rules_explanation": "There is no rule for this. Use common sense to determine what check is made"
+  }
+]

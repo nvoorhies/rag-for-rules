@@ -1,0 +1,264 @@
+[
+  {
+    "question": "What intimidation check adjustment should the character with erinyes form make due to their appearance?",
+    "answer": "The character makes an intimidation check with advantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM determines that the situation warrants advantage due to the character's high ranking devil appearance and the general social structure in Dis."
+  },
+  {
+    "question": "Can the Level 12 Druid cast Scrying on a Ring?",
+    "answer": "The Level 12 Druid cannot cast the scrying spell on an object.",
+    "rules": [
+      "Spellcasting > Range",
+      "Spell Descriptions > Scrying"
+    ],
+    "rules_explanation": "The range of the scrying spell is 'See Text', and the description says that the spell is targeted at a creature. As the SRD has no 'Object History' or 'Object Reading' spell, the GM has ruled that the player can not use the scrying spell to use the object to see the former user of the object or a location."
+  },
+  {
+    "question": "Can a level 6 ranger use the Gate Stone to exit the plane?",
+    "answer": "The Gate Stone can only take one person off the plane, and they have to be on the same plane of existence, and the Level 6 Ranger knows this.",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The GM states the character knows the properties of the Gate Stone from the SRD description."
+  },
+  {
+    "question": "After transforming into a tiefling, can the level 12 druid then locate creature?",
+    "answer": "No, using shapechange means that concentration on locate creature is lost.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The SRD states that you cannot concentrate on more than one spell at a time."
+  },
+  {
+    "question": "What kind of check is required to identify a symbol on a signet ring?",
+    "answer": "A religion check is required to identify a symbol on a signet ring.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM determines that knowledge of religious symbols falls under the religion skill."
+  },
+  {
+    "question": "What kind of check is required to determine the importance of the ring?",
+    "answer": "An intelligence check is required to determine the importance of the ring.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM determines that understanding the ring's importance relies on the character's intelligence."
+  },
+  {
+    "question": "How much psychic damage does the level 5 barbarian take for thinking too hard?",
+    "answer": "The level 5 Barbarian takes 3 psychic damage for attempting to think too hard.",
+    "rules": [],
+    "rules_explanation": "This is a GM ruling about a specific situation, rather than application of a general game rule."
+  },
+  {
+    "question": "With the Shapechange spell ending, what actions does the Level 12 Druid take to shapeshift into their regular tiefling form?",
+    "answer": "The Level 12 Druid uses the Alter Self spell to go to tiefling form.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components"
+    ],
+    "rules_explanation": "The player uses the alter self spell to change to tiefling form."
+  },
+  {
+    "question": "What type of check is required to notice the oddities shop?",
+    "answer": "An investigation check is required to notice the oddities shop.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM determines that noticing the oddities shop requires an investigation check."
+  },
+  {
+    "question": "How much psychic damage does the level 5 barbarian take for thinking too hard?",
+    "answer": "The level 5 Barbarian takes 3 psychic damage for attempting to think too hard.",
+    "rules": [],
+    "rules_explanation": "This is a GM ruling about a specific situation, rather than application of a general game rule."
+  },
+  {
+    "question": "A creature is not proficient with a type of armor. What penalties to rolls does this impose?",
+    "answer": "If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells.",
+    "rules": [
+      "Equipment > Armor > Armor Proficiency"
+    ],
+    "rules_explanation": "The SRD lists the penalties for wearing armor without proficiency."
+  },
+  {
+    "question": "Can a Wizard rest in medium armor?",
+    "answer": "While the SRD mentions that a wizard must be proficient with armor to cast a spell, the SRD does not explicitly state that a wizard cannot rest while wearing medium armor.",
+    "rules": [
+      "Spellcasting > Casting in Armor",
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "A Wizard can technically rest in medium armor because the rules only prevent casting a spell when wearing armor the Wizard is not proficient with."
+  },
+  {
+    "question": "Does a Heroes' Feast grant advantage to wisdom saving throws?",
+    "answer": "The SRD doesn't describe what benefits are bestowed by a Heroes' Feast.",
+    "rules": [],
+    "rules_explanation": "The SRD does not contain the text for this spell. Thus, it is not possible to generate an answer about the properties of this spell. "
+  },
+  {
+    "question": "If an enemy creature is within 5 feet, does the pixie have disavantage to its attack roll?",
+    "answer": "No, the SRD has no \"pixie\" entry.",
+    "rules": [],
+    "rules_explanation": "The question cannot be answered because the prompt contains no information about what the creature is. Without knowing what special abilities it possesses, there is no basis for answering the question."
+  },
+  {
+    "question": "Does someone gain any benefits from sharing cover with another character?",
+    "answer": "Cover is derived from obstacles that are not characters. The characters' presence might provide additional benefits to stealth, or assist in other non-combat capacities, but it does not itself provide cover.",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "Per the SRD, cover only comes from obstacles such as walls, trees, and objects."
+  },
+  {
+    "question": "The Whisperers can see through what?",
+    "answer": "Some of the Whisperers can see through invisibility.",
+    "rules": [],
+    "rules_explanation": "This is based on GM information that is not present in the SRD"
+  },
+  {
+    "question": "With a roll of 1 on stealth, what does the character do?",
+    "answer": "Because failing a stealth check does not prevent the character from attempting to hide, they will go and split off from the rest of the party.",
+    "rules": [
+      "Combat > Actions > Hide"
+    ],
+    "rules_explanation": "It is up to the DM or GM to determine the consequences of rolling a one on a check."
+  },
+  {
+    "question": "What is the DC to resist the poison of a touch from a Shambling Mound?",
+    "answer": "Shambling Mounds do not have a poison touch.",
+    "rules": [
+      "Monsters (S) > Shambling Mound"
+    ],
+    "rules_explanation": "There is nothing about that in the shambling mound's entry"
+  },
+  {
+    "question": "What type of check does Yrat make to cause a diversion?",
+    "answer": "As Yrat is throwing black tar, this is a throw and requires a throwing roll.",
+    "rules": [],
+    "rules_explanation": "The player is attempting to hit the flying creature with a projectile, therefore it is a roll for a throw."
+  },
+  {
+    "question": "If someone is invisible, do others have advantage on attack rolls against them?",
+    "answer": "When a creature can't see you, you have advantage on attack rolls against it.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "Advantage on attack rolls is granted in the circumstance that the attacker cannot be seen."
+  },
+  {
+    "question": "If the Herald of Vassalage has been determined to be the one who the group will kill, what information does Greg, who is holding the ring, reveal to the imp?",
+    "answer": "The ring is shown to the individual who is revealed to be unimpressed and describes it as 'a trifle here, but is used on your plane to assert belonging.'",
+    "rules": [],
+    "rules_explanation": "This is GM fiat regarding the imp character's perception, and not about rules related to the ring."
+  },
+  {
+    "question": "Is there a limit on how many characters with the half caster (ranger, paladin) multclass levels can be in the party for purposes of determining multiclass spell slots?",
+    "answer": "No limit",
+    "rules": [
+      "Multiclassing > Spellcasting"
+    ],
+    "rules_explanation": "As long as the characters are each following the rules for multiclassing, there is no maximum value to calculating spell slots"
+  },
+  {
+    "question": "When you cast a touch spell using a familiar, do you use the familiar's reach or your own?",
+    "answer": "You use the familiar's reach.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range",
+      "Spellcasting > Familiars"
+    ],
+    "rules_explanation": "The range of a touch spell is touch, and the familiar has to be within 100 feet of you and have to use it's reaction to deliver the spell."
+  },
+  {
+    "question": "What are the chances of success of an attack where something that will occur does not?",
+    "answer": "The text does not describe the likelihood of hitting an unintended target",
+    "rules": [],
+    "rules_explanation": "Since the result of the roll depends entirely on the GM’s discretion, there is no relevant SRD text to use."
+  },
+  {
+    "question": "Can the effects of a spell with a short casting time that has an effect that would only be good or bad after a long time be stopped after the fact?",
+    "answer": "It depends on whether the effect is instantaneous or has some duration.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Duration > Instantaneous"
+    ],
+    "rules_explanation": "If the effects were Instantaneous, the results are not reversible without additional magic. If the effects have a duration of time, they can be reversed by certain magical effects."
+  },
+  {
+    "question": "What does it cost a spellcaster to spend his/her downtime copying a spell from a spell scroll into the spellbook?",
+    "answer": "Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.  For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.",
+    "rules": [
+      "Equipment > Adventuring Gear > Spellbook",
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.  Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.  For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it."
+  },
+  {
+    "question": "Can I touch the ground to determine whether there is an advantage?",
+    "answer": "There is no ability check granted to that action.",
+    "rules": [],
+    "rules_explanation": "The specific action is not possible as written within the SRD rules."
+  },
+  {
+    "question": "Is it possible to sneak by this pit friend while hiding?",
+    "answer": "I am unable to respond because I do not have any context or know to whom you are referring.",
+    "rules": [],
+    "rules_explanation": "You must provide me with what kind of creature the pit friend is and what traits or stats it possesses in order to formulate an answer."
+  },
+  {
+    "question": "Can you get through a wall with the ethereal spell that you can still see?",
+    "answer": "While on the Ethereal Plane, you can only affect and be affected by other creatures on that plane and ignore all objects and effects that aren't on the Ethereal Plane, allowing you to move through objects you perceive on the plane you originated from",
+    "rules": [
+      "The Planes of Existence > Beyond the Material > Transitive Planes > The Ethereal Plane"
+    ],
+    "rules_explanation": "The Ethereal Plane is where the effects of the etherealness spell exist. The border Ethereal plane overlaps both the Material Plane and the Inner Planes"
+  },
+  {
+    "question": "Can the Level 8 Paladin do multiple attacks with the same action?",
+    "answer": "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.",
+    "rules": [
+      "Paladin > Class Features > Extra Attack"
+    ],
+    "rules_explanation": "The SRD shows that with the Extra Attack Feature, at level 5 the character may attack twice with his action."
+  },
+  {
+    "question": "After using a bonus action, can the user then make a spear attack?",
+    "answer": "You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The SRD states that a character can use a bonus action if specified, and can use the Attack action to make a spear attack. If the character did not have a special bonus action (such as from a class feature), they cannot."
+  },
+  {
+    "question": "What happens to people in a location when you use the alarm spell, but you are unable to specify who it will go off for?",
+    "answer": "When you cast the spell, you can designate creatures that won't set off the alarm.",
+    "rules": [
+      "Spell Descriptions > Alarm"
+    ],
+    "rules_explanation": "If you are unable to specify who to set the alarm to, then the trap goes off for everyone."
+  },
+  {
+    "question": "What are the rules about objects being used for material components?",
+    "answer": "Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a component pouch or a spellcasting focus (found in \"Equipment\") in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.  If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.",
+    "rules": [
+      "Spellcasting > Components > Material (M)"
+    ],
+    "rules_explanation": "Material components for spellcasting are governed by these rules."
+  },
+  {
+    "question": "For the purposes of invisibility, does a potion affect another creature or just the imbiber?",
+    "answer": "When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell.",
+    "rules": [
+      "Magic Items > Potion of Invisibility"
+    ],
+    "rules_explanation": "The text of Potion of Invisibility states that what you wear and carry is invisible, but does not reference anyone but the drinker."
+  },
+  {
+    "question": "What is the name of the bonus for siege from a level 5 Barbarian?",
+    "answer": "The SRD does not have that listed as a barbarian trait.",
+    "rules": [],
+    "rules_explanation": "There are no class features in the SRD that has the name siege"
+  }
+]

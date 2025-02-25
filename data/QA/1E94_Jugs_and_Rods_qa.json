@@ -1,0 +1,114 @@
+[
+  {
+    "question": "Level 4 Race Class with Strength 13 asks: When I do an insight check against a creature's honesty or deception, does the target roll against it?",
+    "answer": "No, the target does not roll.  The GM uses the target's Persuasion skill bonus (if the target is honest) or Deception skill bonus (if the target is lying) as the DC to determine the success of the insight check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An ability check is made by a single character or creature. An ability check is against a DC which is set in the rules or by the GM. This is not a contested action, so the second creature does not make a check or saving throw."
+  },
+  {
+    "question": "Level 3 Warlock casts I want to be on you on the barmaid, what check is used?",
+    "answer": "The Charisma (Persuasion) check is used if the character is honest in the intent and description if their desire.  The Charisma (Deception) check is used if the character does not honestly want to be with the target in the intended, or described manner.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "There is no roll specified by the rules, so the gamemaster can determine what skill applies to a roll. The GM has determined either a Persuasion or a Deception check.  Persuasion applies if being honest in the intent and description, and Deception applies if not."
+  },
+  {
+    "question": "The GMsays make a persuasion check. The level 3 persuasion check for I want to be on you is a 26, is that high?",
+    "answer": "The check is a success if the roll is equal to or higher than the DC, and not otherwise.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules state that you need to equal or exceed the DC to be successful. No further interpretation of success is possible"
+  },
+  {
+    "question": "Level 1 Barbarian with Strength 16, rolls a two. What does this add to it?",
+    "answer": "Add the characters Strength modifier which is +3 and any other modifiers which apply to the roll.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The Ability Scores and Modifier table is used to find the appropriate modifier for a given ability score. The Dexterity of 16 yields a modifier of +3"
+  },
+  {
+    "question": "A level 1 barbarian attempts to persuade a barmaid to ignore everything and make an advance on him. He rolled a natural two. What adjustments are possible?",
+    "answer": "The roll can be adjusted by any appropriate bonuses to the roll. The persuasion roll could be given disadvantage depending on the situation. A zero modifier is applied to the roll from the Charisma score.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "There is no roll specified by the rules, so the gamemaster can determine what skill applies to a roll and if advantage or disadvantage applies to the roll. The barbarian does not have a skill that allows them to modify the roll further. The Charisma score is used as the influencing ability but it provides zero modifier."
+  },
+  {
+    "question": "If there are no other rules, what kind of action do you have to take to make a deception check?",
+    "answer": "There is no action to take to make a deception check unless a feature or situation specified a particular type of action is necessary. For example, you could lie as part of a conversational turn, or create a diversion by lying.",
+    "rules": [
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "You need to determine the applicable rules to know what actions may or may not apply. No general rule is applied here in combat. If out of combat, there is no explicit action, so lying is implied to take no time."
+  },
+  {
+    "question": "The level 6 Cleric, level 1 Rogue is in character, and wants to know if the level 1 Ranger is telling the truth. How does the GM determine that?",
+    "answer": "The GM will determine the applicable DC based on the ranger's deception or if the ranger is telling the truth.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An ability check is made by a single character or creature. An ability check is against a DC which is set in the rules or by the GM."
+  },
+  {
+    "question": "Level 6 Cleric, Level 1 Rogue wants to use his action to gain insight about the level 1 Ranger. What roll is needed?",
+    "answer": "The cleric, rogue needs to roll a wisdom (insight) check. The gamemaster needs to determine the DC. The DC will be determined based on the level 1 Ranger's skill in Deception or Persuasion if honest.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To use insight, you need to make a check using wisdom and adding the appropriate skill. The difficulty class is set by the ranger's skill as set by the GM."
+  },
+  {
+    "question": "If the level 1 Ranger has an insight of 5, and rolled a 3 what is the result?",
+    "answer": "The Insight ability check for the Ranger is a total of 8.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The ability modifier is found to be 1 for a Wisdom score of 13.  The proficient bonus is found from the Proficiency Bonus by Challenge Rating table to be +2.  The total is the roll plus modifiers"
+  },
+  {
+    "question": "If level 1 rogue / level 6 cleric rolls a 5 on an insight check, does that have a skill proficiency bonus added to it?",
+    "answer": "It depends. If the rogue/cleric is proficient in the Insight skill, add the proficiency bonus. If the rogue/cleric is not proficient in the Insight skill, do not add the proficiency bonus",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules state that 'proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.'"
+  },
+  {
+    "question": "What is the name of the mechanical contrivance Percy wants to scry with?",
+    "answer": "The mechanical contrivance is a scrying eye.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The device is a scrying eye and does not appear in the SRD. This means that it has no associated rules"
+  },
+  {
+    "question": "For an intelligence roll, can a character use their resolve?",
+    "answer": "No, a character cannot use resolve for an Intelligence check, because resolve is for a saving throw, not an ability check.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The word resolve does not appear in the SRD, however, it refers to an ability to improve the result of a saving throw which is not what is being attempted here. An intelligence roll is a ability check."
+  },
+  {
+    "question": "Does the scrying eye require attunement?",
+    "answer": "No, the scrying eye does not require attunement",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules about the item say that it doesn't require attunement. If it did there would be language about attunement in the item's rules"
+  },
+  {
+    "question": "If a character rolls a 7 for their intelligence roll, what does the character do?",
+    "answer": "The character performs their task and the gamemaster determines the result",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An ability check tests a character's or monster's innate talent and training in an effort to overcome a challenge. The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results."
+  }
+]

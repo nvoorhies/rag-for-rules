@@ -1,0 +1,100 @@
+[
+  {
+    "question": "What check does a character make to determine if they know the answer to a arcana?",
+    "answer": "A history check is made to determine arcana history",
+    "rules": [
+      "Ability Checks > Skills > Using Each Ability > Intelligence > History"
+    ],
+    "rules_explanation": "The character is attempting to recall information about history. According to \"Using Each Ability > Intelligence > History\": Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations."
+  },
+  {
+    "question": "If the character's level, class, and race wants to look for a bite mark, what kind of check is needed?",
+    "answer": "A perception or medicine check is made to look for a bite mark.",
+    "rules": [
+      "Ability Checks > Skills > Using Each Ability > Wisdom > Perception",
+      "Ability Checks > Skills > Using Each Ability > Wisdom > Medicine"
+    ],
+    "rules_explanation": "The character is looking for a physical wound, but it is also difficult to distinguish from other wounds and marks, so either perception or medicine could be used. According to the rules: \n\n \"Using Each Ability > Wisdom > Perception\": Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses\n\n\"Using Each Ability > Wisdom > Medicine\": A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness."
+  },
+  {
+    "question": "What check is made to see the energy of the space by the level, class, race, abilities and skills",
+    "answer": "An insight check is made to gather the energy of a space.",
+    "rules": [
+      "Ability Checks > Skills > Using Each Ability > Wisdom > Insight"
+    ],
+    "rules_explanation": "According to \"Using Each Ability > Wisdom > Insight\": Your Wisdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone's next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms."
+  },
+  {
+    "question": "If a level, class, race, abilities and skills is checking a location to pick up discussions or concerns or things that might pique anything that they're aware of, what check should they make?",
+    "answer": "A stealth check should be made to avoid being detected while attempting to listen for pertinent information.",
+    "rules": [
+      "Ability Checks > Skills > Using Each Ability > Dexterity > Stealth"
+    ],
+    "rules_explanation": "According to \"Using Each Ability > Dexterity > Stealth\": Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard."
+  },
+  {
+    "question": "To determine the distance and direction when traveling through the streets following a person leading the party, and it sounds like the leader of this location with a lot of ambient noises, what kind of check should the level, class, race, abilities and skills do?",
+    "answer": "A perception check should be made to listen out for any noises of note.",
+    "rules": [
+      "Ability Checks > Skills > Using Each Ability > Wisdom > Perception"
+    ],
+    "rules_explanation": "According to \"Using Each Ability > Wisdom > Perception\": Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses"
+  },
+  {
+    "question": "If a level, class, race, abilities and skills in the current location, checks around the room to spot and understand what kind of person used it, or a office or place of import, what check are they making?",
+    "answer": "A perception check is made to spot and understand what kind of person would use the space.",
+    "rules": [
+      "Ability Checks > Skills > Using Each Ability > Wisdom > Perception"
+    ],
+    "rules_explanation": "According to \"Using Each Ability > Wisdom > Perception\": Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses"
+  },
+  {
+    "question": "When someone opens the door after the party had been waiting a while, what check does a person make if they are feigning to be scholars or acting like a travelling professor",
+    "answer": "A deception check should be made.",
+    "rules": [
+      "Ability Checks > Skills > Using Each Ability > Charisma > Deception"
+    ],
+    "rules_explanation": "According to \"Using Each Ability > Charisma > Deception\": Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies."
+  },
+  {
+    "question": "For the level, race, class, skills, and abilities: do I see the very obvious bite mark on my friend",
+    "answer": "Make a perception or medicine check to see the bite mark",
+    "rules": [
+      "Ability Checks > Skills > Using Each Ability > Wisdom > Perception",
+      "Ability Checks > Skills > Using Each Ability > Wisdom > Medicine"
+    ],
+    "rules_explanation": "The character is looking for a physical wound, but it is also difficult to distinguish from other wounds and marks, so either perception or medicine could be used. According to the rules: \n\n \"Using Each Ability > Wisdom > Perception\": Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses\n\n\"Using Each Ability > Wisdom > Medicine\": A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness."
+  },
+  {
+    "question": "If an exhausted character is looking around, do they roll a perception check?",
+    "answer": "Yes, make a perception check.",
+    "rules": [
+      "Ability Checks > Skills > Using Each Ability > Wisdom > Perception"
+    ],
+    "rules_explanation": "According to \"Using Each Ability > Wisdom > Perception\": Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses."
+  },
+  {
+    "question": "does Bless help with ability checks?",
+    "answer": "No, Bless grants the ability to roll a d4 and add it to an attack roll or saving throw",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": " Bless does not grant a bonus to ability checks, it only adds the roll of a d4 to an attack roll or a saving throw."
+  },
+  {
+    "question": "As the level, class, race, skills and abilities of race and class travels on a chain, what kind of check do they perform to keep safe passage?",
+    "answer": "Acrobatics check is made for balance and safety.",
+    "rules": [
+      "Ability Checks > Skills > Using Each Ability > Dexterity > Acrobatics"
+    ],
+    "rules_explanation": "According to \"Using Each Ability > Dexterity > Acrobatics\": Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck."
+  },
+  {
+    "question": "If a level, class, race, abilities and skills is trying to get a sense of what something is reacting to, what kind of check are they making?",
+    "answer": "An insight check is made to gauge what it is reacting to.",
+    "rules": [
+      "Ability Checks > Skills > Using Each Ability > Wisdom > Insight"
+    ],
+    "rules_explanation": "According to \"Using Each Ability > Wisdom > Insight\": Your Wisdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone's next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms."
+  }
+]

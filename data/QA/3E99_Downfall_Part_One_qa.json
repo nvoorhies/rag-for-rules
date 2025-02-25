@@ -1,0 +1,51 @@
+[
+  {
+    "question": "A player wants to cast Lesser Restoration on an old man who is gripped by a cough, and the GM asks for a medicine check. Can another player assist with the roll?",
+    "answer": "Yes, the other player can use the Help action.",
+    "rules": [
+      "Combat > Actions in Combat > Help"
+    ],
+    "rules_explanation": "The rules text for the Help action state 'A character can only provide help if the task is one that he or she could attempt alone.' The act of performing a Medicine check does not require a specific feat, race, or other distinguishing ability, so another player can assist the one performing the check."
+  },
+  {
+    "question": "The GM asks all characters in the Chamber where the Torian guard casts Zone of Truth to make a charisma saving throw. Is the Level 10 Paladin's Aura of Protection applicable, and what will that roll be if they rolled a 17?",
+    "answer": "Yes, the paladin's Aura of Protection applies. All creatures within 10 feet of the paladin gain a +5 bonus to their charisma saving throws.  Therefore, 17+5 = 22.",
+    "rules": [
+      "Classes > Paladin > Class Features > Aura of Protection",
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The Aura of Protection grants a bonus to all saving throws to allies with 10 feet, the roll is the sum of the die and applicable modifiers."
+  },
+  {
+    "question": "A character casts Suggestion and tries to deceive the target into thinking they did not cast it. The GM says the DC to beat is 14. The question is, should they add the +5 to their Saving Throws?",
+    "answer": "No, the character should not add +5 to their saving throws because deception is a skill check, not a saving throw.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Saving throws and skill checks are different. Charisma bonus to saving throws only apply to saving throws"
+  },
+  {
+    "question": "A character is trying to get past a Latimus Princeps which is an arcane ward. SILAHA gave them amulets to protect them as they pass. Should all the players have proficiency bonus to this arcane ward?",
+    "answer": "No, proficiency bonus can't be added since it is an effect of the amulets rather than a proficiency.",
+    "rules": [
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "Per the rules, if a feature or effect allows you to multiply your proficiency bonus when making an ability check that wouldn't normally benefit from your proficiency bonus, you still don't add the bonus to the check."
+  },
+  {
+    "question": "A PC is standing on a train and wants to lift a necklace off an NPC. What type of check should they use?",
+    "answer": "The PC should make a Dexterity (Sleight of Hand) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Dexterity"
+    ],
+    "rules_explanation": "The SRD States: 'Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check.'"
+  },
+  {
+    "question": "What is the rule on multi-class characters and spell casting when a druid is also a paladin?",
+    "answer": "Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes.",
+    "rules": [
+      "Multiclassing > Spellcasting"
+    ],
+    "rules_explanation": "The SRD states 'Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, you follow the rules as described in that class.'"
+  }
+]

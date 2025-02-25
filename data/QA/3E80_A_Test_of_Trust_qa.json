@@ -1,0 +1,167 @@
+[
+  {
+    "question": "Can a sorcerer use sorcery points to turn Inflict Wounds into a 30 foot range spell with a Twinned Spell?",
+    "answer": "No, the Sorcerer cannot use sorcery points to perform both of those metamagic effects on a single spell. The Quicken metamagic option requires a cantrip.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Bonus Action",
+      "Classes > Sorcerer > Metamagic > Twinned Spell"
+    ],
+    "rules_explanation": "The quickened spell metamagic option allows you to cast a spell with casting time 1 action using a bonus action instead. As a sorcerer can only select metamagic options from the sorcerer class feature, they may not use Twinned Spell and another bonus action spell in the same turn."
+  },
+  {
+    "question": "Does difficult terrain prevent the Earth Walk ability from working?",
+    "answer": "The Earth Walk ability to ignore difficult terrain made of earth or stone removes the penalty for moving across such terrain.",
+    "rules": [
+      "Adventuring > Movement > Difficult Terrain",
+      "Classes > Barbarian > Path of the Totem Warrior > 6th Level Feature"
+    ],
+    "rules_explanation": "The Earth Walk ability specifically ignores the rules for difficult terrain penalties when the terrain consists of earth or stone."
+  },
+  {
+    "question": "Can a restrained character make an investigation check with disadvantage?",
+    "answer": "There is nothing in the restrained condition that applies disadvantage to investigation checks.",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "The restrained condition imposes a speed of 0, and advantage on attack rolls against the creature, and disadvantage on Dexterity saving throws, but does not affect ability checks."
+  },
+  {
+    "question": "The text mentions strength checks - how does Pâté make a strength check?",
+    "answer": "There is no general rule for how familiars use ability checks - you'll have to ask the GM. The check is for Paté to grapple a smaller humanoid",
+    "rules": [],
+    "rules_explanation": "There are no rules in the SRD that explain how familiars should interact with the game. This relies on the GM adjudicating as described in the introduction to the document."
+  },
+  {
+    "question": "If an item can be used by casting a spell, and no class is specified, what ability modifier and proficiency is used for the spell attack?",
+    "answer": "If a magic item allows you to cast a spell and you don't have a spellcasting ability (perhaps you're a rogue with the Use Magic Device feature) your spellcasting ability modifier is +0 for the item and your proficiency bonus does apply.",
+    "rules": [
+      "Magic Items > Activating an Item > Spells"
+    ],
+    "rules_explanation": "If a magic item allows the user to cast a spell but does not have a spellcasting ability itself, the user of the item must have a spellcasting modifier in order to have a bonus to spell attacks. If the user does not have one due to their class, use the spellcasting bonus of 0. Your proficiency bonus is still added to your total attack bonus, but not the spellcasting modifier."
+  },
+  {
+    "question": "Does a creature under the effects of Hold Person require sight to be affected by this feature?",
+    "answer": "The Hold Person feature does not require sight for an investigator to be affected.",
+    "rules": [
+      "Spell Descriptions > Hold Person"
+    ],
+    "rules_explanation": "Because the effect is not a spell, the normal rules for breaking line of sight during spellcasting do not apply."
+  },
+  {
+    "question": "How do you find a creature who has proficiency in the stealth skill?",
+    "answer": "To determine if a creature is hidden you need to compare the Dexterity (Stealth) check with the passive Wisdom (Perception) score of the creature attempting to locate the hidden creature.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Hiding"
+    ],
+    "rules_explanation": "Hiding is achieved by making a Dexterity(Stealth) check and comparing that value to the Wisdom (Perception) scores of creatures attempting to observe or locate the hidden creature."
+  },
+  {
+    "question": "If you have proficiency in a skill, can you use a cantrip to give a bonus to a roll?",
+    "answer": "Yes, Guidance can be used to add 1d4 to any ability check and it can be cast by someone who has proficiency in the skill being used for the ability check",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Spell Descriptions > Guidance"
+    ],
+    "rules_explanation": "The Guidance cantrip can be used to add 1d4 to an ability check of any kind including skills, it is available to the Cleric and Druid and there are no other limitations."
+  },
+  {
+    "question": "If a sorcerer casts Detect Thoughts can it use sorcery points to also cast Scorching Ray or any other leveled spell?",
+    "answer": "No, the Sorcerer cannot use sorcery points to also cast Scorching Ray while also casting Detect Thoughts because Scorching Ray is not a cantrip",
+    "rules": [
+      "Spellcasting > Casting a Spell > Bonus Action",
+      "Classes > Sorcerer > Metamagic > Quickened Spell"
+    ],
+    "rules_explanation": "The quickened spell metamagic option allows you to cast a spell with casting time 1 action using a bonus action instead. A sorcerer can only select metamagic options from the sorcerer class feature and must therefore abide by this restriction"
+  },
+  {
+    "question": "What does the Con Save for the bloodhunter Blood Maledictiion blood curse Bloated Agony do? Does it do acid damage?",
+    "answer": "There is no damage associated with the Bloated Agony blood curse of binding blood malediction",
+    "rules": [
+      "Talent > Class Features > blood malediction"
+    ],
+    "rules_explanation": "A blood malediction is a unique ability possessed by the blood hunter class, and Bloated Agony is a specific type of blood malediction. There are no saves that do acid damage."
+  },
+  {
+    "question": "A character has multiattack, how many bonus actions do they have per turn?",
+    "answer": "A character has one bonus action per turn",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "Regardless of the number of attacks a character has, or other actions the character takes, a character can only perform 1 bonus action during their turn."
+  },
+  {
+    "question": "For Touch based spells, what does range mean for multi-classing?  Can you use metamagic to use a touch spell at range?",
+    "answer": "For touch based spells the caster needs to be within reach. The metamagic option Distant Spell may be used to increase the range of a touch spell to 30 feet",
+    "rules": [
+      "Spellcasting > Components > Range",
+      "Magic Items >  > Magic > Magic Items A-Z",
+      "Classes > Sorcerer > Metamagic > Distant Spell"
+    ],
+    "rules_explanation": "For a spell to work, the target has to be in range. You can use meta magic with the Sorcerer's Distant Spell to modify touch range spells to be performed from 30 feet."
+  },
+  {
+    "question": "Is there an action to put the branch in the pool?",
+    "answer": "Because the object is being placed by hand it is assumed that to place the branches into the pool requires an action.",
+    "rules": [],
+    "rules_explanation": "There is no specific entry for the amount of time it takes to place a branch in the pool. The GM must determine this."
+  },
+  {
+    "question": "Can you use two effects that cost a sorcery point at the same time?",
+    "answer": "Yes, it is possible to use two effects in the same turn.",
+    "rules": [
+      "Classes > Sorcerer > Font of Magic"
+    ],
+    "rules_explanation": "If a sorcerer has the points to do so, it's possible to use two different metamagic options during the casting of a spell in the same turn.  As long as a metamagic option doesn't prohibit it, the number of options that can be used is limited only by available sorcery points and the ability to apply the effects given the spell currently being cast. For instance, you couldn't twin a spell that effects an area."
+  },
+  {
+    "question": "What happens if there are multiple sources for the same condition?",
+    "answer": "If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.",
+    "rules": [
+      "Appendix PH-A: Conditions > General Rules"
+    ],
+    "rules_explanation": "A creature can have multiple conditions that affect it, but only one effect of each particular condition affects the creature."
+  },
+  {
+    "question": "The text mentions the Blood Curse of Binding, how does this work?",
+    "answer": "There is no general rule, blood curses are unique to the Blood Hunter class - you need to find the blood hunter's specific list of known blood curses.",
+    "rules": [],
+    "rules_explanation": "Blood curses are unique abilities specific to the Blood Hunter class. The SRD does not contain information about how to apply non-SRD content."
+  },
+  {
+    "question": "Are there rules for what happens after 20th level?",
+    "answer": "There are no general rules listed for character levels above 20th level.",
+    "rules": [],
+    "rules_explanation": "There are no rules in the SRD that apply to a character's progression beyond 20th level. The SRD only specifies character progression for levels 1-20."
+  },
+  {
+    "question": "Does having the ability to cast a spell through an item cause loss of concentration on another previously cast spell?",
+    "answer": "Yes, concentration is required as normal to maintain a spell from a magic item.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Duration > Concentration",
+      "Magic Items > Activating an Item > Spells"
+    ],
+    "rules_explanation": "If a magic item allows the user to cast a spell and that spell requires concentration, the user is required to concentrate in the same way that one would to maintain a spell cast using their own spell slots."
+  },
+  {
+    "question": "Can you use two short actions in one turn if a spell ends?",
+    "answer": "A character does not have two bonus actions if a spell ends",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "Regardless of anything that occurs, such as a spell ending, a character only receives one bonus action on their turn, the only exceptions would be if class features specifically provide one."
+  },
+  {
+    "question": "Does the blood hunter's time stop effect end after casting only the first time?",
+    "answer": "The description given does not allow you to maintain Time for a long duration - it must end at some point. That's not right",
+    "rules": [],
+    "rules_explanation": "There's no time stop effect in the Player's handbook"
+  },
+  {
+    "question": "Is it possible to know what school of magic a spell is without reading it or seeing the item that casts it or performing the actions involved in the spell?",
+    "answer": "The detect magic spell identifies the school of magic.",
+    "rules": [
+      "Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "The Identify spell or casting of Detect Magic allows you to view what school of magic an item comes from and what spells or magical aura something exudes."
+  }
+]

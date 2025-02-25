@@ -1,0 +1,236 @@
+[
+  {
+    "question": "Can the character with the Pass Without a Trace spell still maintain concentration on it?",
+    "answer": "Yes, the transcription indicates the character hasn't lost concentration on it.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "Pass Without Trace has a duration of \"Concentration, up to 1 hour\", so can be maintained for an hour so long as the caster concentrates on the spell and does not lose concentration as defined in the rules. As the character hasn't lost concetration the spell is still active."
+  },
+  {
+    "question": "The GM asked for an investigation or a nature check to determine if an underground tunnel was carved out by man, which check should the character make?",
+    "answer": "The character should make an Investigation check.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The GM stated that this would not be a nature check."
+  },
+  {
+    "question": "What is the range, both normal and long, for a longbow?",
+    "answer": "The longbow's range is 150/600 ft.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Range"
+    ],
+    "rules_explanation": "The longbow is a ranged weapon, and the rules say that ranged weapon properties will have two ranges in feet after the thrown or ammunition quality, the first the normal, the second the long."
+  },
+  {
+    "question": "If the target is next to a rogue's ally, does the rogue get sneak attack?",
+    "answer": "Yes, the rogue gets sneak attack because the target is within 5 feet of an ally of the rogue and the rogue doesn't have disadvantage on the attack roll.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The Rogue's Sneak Attack feature states that the Rogue deals extra damage when it hits a target with a weapon attack when the target is within 5 feet of an ally of the rogue that isn't incapacitated and the rogue doesn't have disadvantage on the attack roll."
+  },
+  {
+    "question": "Can the character take a reaction against the creature as it moves into the wall for cover?",
+    "answer": "The reaction is an attack of opportunity that can only be made when a hostile creature moves out of your reach, not into it.",
+    "rules": [
+      "Combat > Actions in Combat > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "The combat action for an opportunity attack is only triggered when a hostile creature moves out of your reach, not when it moves in or adjacent. The description of the Cover action has no special exception"
+  },
+  {
+    "question": "Is the barbarian allowed to take a retaliation strike against the creature who attacked him?",
+    "answer": "Yes, because he hasn't already used his reaction.",
+    "rules": [
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "The rules state: \"When you take a reaction, you can't take another one until the start of your next turn.\" Since he hasn't taken one, he can."
+  },
+  {
+    "question": "Can the archdruid cast Thunderwave while in earth elemental wild shape?",
+    "answer": "Yes, because the spell has verbal and somatic components, but does not use materials.",
+    "rules": [
+      "Classes > Druid > Wild Shape",
+      "Spellcasting > Components"
+    ],
+    "rules_explanation": "The druid can cast spells with verbal and somatic components while in Wild Shape. A material component is an object or substance that is consumed or that bears a cost, neither of which apply here."
+  },
+  {
+    "question": "Can the character with the broom of flying shoot with arrows as a reaction while an earth elemental rises up to attack Pike?",
+    "answer": "No, because the attack by the earth elemental happens before she is in melee range, so can't be the target of an attack of opportunity.",
+    "rules": [
+      "Combat > Actions in Combat > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "An attack of opportunity can only occur when a creature moves out of your reach. However, this special attack is a Dexterity saving throw from an area effect, so the target creature doesn't move, it just suddenly attacks with an area effect. Since the effect occurs without movement, it doesn't trigger an attack of opportunity."
+  },
+  {
+    "question": "Can she attack the creature with arrows as it sinks into the ground?",
+    "answer": "No, because that's a melee attack.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The statement \"that's a melee attack\" implies that it is not possible to make a ranged attack"
+  },
+  {
+    "question": "With the player controlling Pike, can she attack before the creature's turn, since she was holding her action?",
+    "answer": "Yes, because her held action triggers before its turn begins.",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "A readied action can be used any time before the start of your next turn, even before the beginning of a creature's turn. As long as the conditions are met, the readied action will trigger before that creature's turn."
+  },
+  {
+    "question": "Is it possible to get advantage on a War Caster opportunity attack?",
+    "answer": "Yes, War Caster allows a single spell to be cast as a reaction, but does not change the rules about advantage or disadvantage on the casting.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Given that the War Caster feat is not used in any way it does not affect the outcome."
+  },
+  {
+    "question": "Does the earth elemental have a reach of 10 feet?",
+    "answer": "Yes, the player stated its reach is 10 feet.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The player states its range: \"Range: ten feet! It does say range: ten feet.\""
+  },
+  {
+    "question": "If the oathbow attack hits, do the creatures have to make a Dexterity saving throw, or can she just mark a target?",
+    "answer": "The Hunter can't Hunters Mark an enemy using a held action, the hunters mark action must be taken on their turn.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The question is about an action (Hunter's Mark) that is taken on their turn, not something they are reacting to."
+  },
+  {
+    "question": "Can a bonus action be used to self-heal with a potion after turning invisible?",
+    "answer": "A potion requires the Use An Object action, not a bonus action.",
+    "rules": [
+      "Combat > Actions in Combat > Use an Object"
+    ],
+    "rules_explanation": "The character is wanting to heal themselves using a potion, therefore they need to use the Use an Object action, but it is not possible to take any actions after turning invisible."
+  },
+  {
+    "question": "If you use the bonus action to cast Healing Word, can you then take the Hide action, which requires movement?",
+    "answer": "After casting Healing Word as a bonus action, an action can still be taken.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The rules state, \"You can take only one bonus action on your turn.\" There is nothing to indicate that once a bonus action is taken you can't take an action, therefore it is possible."
+  },
+  {
+    "question": "What is the range of the earth elemental's fists?",
+    "answer": "The reach of the earth elemental's fist is ten feet.",
+    "rules": [
+      "Player's Handbook > Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": " The player states its range: \"Range: ten feet! It does say range: ten feet.\""
+  },
+  {
+    "question": "When the paladin is using the attack action, does it take a bonus action to activate Divine Strike?",
+    "answer": "No. As a War Priest, a bonus action can be used for another attack.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The cleric class feature Divine Strike does not take an action or a bonus action, but just improves the damage of one weapon attack each turn. It is the War Priest feature that grants another attack for a bonus action."
+  },
+  {
+    "question": "Can the Keyleth (Druid/Earth Elemental) take an action while holding Pike?",
+    "answer": "The current turn order means it is Pike's turn, not Keyleth's.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn"
+    ],
+    "rules_explanation": "The turn order states that Pike's turn has begun, and Keyleth's turn cannot happen until later. All she can do at this point is a reaction."
+  },
+  {
+    "question": "Can he use it before attuning to it?",
+    "answer": "The black metallic hammer requires attunement to use its effect or power.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The DM states \"It does require attunement to use its effect or power.\""
+  },
+  {
+    "question": "Can Grog do a bonus action since he used reckless?",
+    "answer": "Yes, using the reckless attack feature has no impact on taking a bonus action.",
+    "rules": [
+      "Classes > Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "Using reckless attack has no impact on taking a bonus action. The text states \"When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.\""
+  },
+  {
+    "question": "Can the player use divine sense while under the effects of Pass Without Trace?",
+    "answer": "Yes. Divine Sense is not blocked by Pass Without Trace.",
+    "rules": [
+      "Classes > Paladin > Divine Sense",
+      "Spells > Pass Without Trace"
+    ],
+    "rules_explanation": "Divine Sense is not an action, spell, or ability that requires noise or detection to be used, and Pass Without Trace only hides creatures from being detected, it doesn't affect their abilities or actions."
+  },
+  {
+    "question": "When reading the runes, do the players lose their invisibility spell?",
+    "answer": "They lose the invisibility from Pass Without Trace as it requires concentration and they are taking a short rest to read the runes.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The rules state, \"If you lose concentration, such a spell ends.\" A short rest requires concentration to be lost."
+  },
+  {
+    "question": "Does the bonus hit points from the speech heal back at the short rest?",
+    "answer": "No, because they are temporary hit points, not bonus hit points.",
+    "rules": [
+      "Combat > Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "Temporary hit points are a buffer against damage, not actual hit points that are gained back during a short rest."
+  },
+  {
+    "question": "Can Pike and Vax both work together to increase her strength check for opening the door?",
+    "answer": "Yes, both characters (Pike and Vax) can contribute to increasing the Strength check.",
+    "rules": [
+      "Player's Handbook > Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "It can reasonably be assumed that opening the door can be done with advantage because two characters are working together."
+  },
+  {
+    "question": "Is the radiant damage from Divine Smite doubled during a critical hit?",
+    "answer": "Yes, it is. All damage dice are doubled on a critical hit",
+    "rules": [
+      "Combat > Making an Attack > Damage Rolls > Critical Hits"
+    ],
+    "rules_explanation": "The rules state, \"When you score a critical hit, you get to roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal.\""
+  },
+  {
+    "question": "Does the side of the doors effect the damage of titanstone knuckle?",
+    "answer": "Yes, you get double damage with Titanstone Knuckles.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "They had previously mentioned that titanstone knuckle gave double damage, and not that it would be ignored when attacking this door."
+  },
+  {
+    "question": "Does a character have to be trained in arcana to identify something?",
+    "answer": "Yes, for the most part.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Dungeon Master states \"I would say for the most part, yeah.\""
+  },
+  {
+    "question": "If an earth elemental attempts an attack of opportunity, does it have a 5-foot or 10-foot range for that attack?",
+    "answer": "The slam attack has a range of 10 feet, so the attack of opportunity has the same range.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is referencing back to the character having a reach of 10 feet previously."
+  },
+  {
+    "question": "Is it correct that she only gets three attacks on her turn as a fighter?",
+    "answer": "No, the fighter in the game only has two attacks.",
+    "rules": [
+      "Classes > Fighter > Extra Attack"
+    ],
+    "rules_explanation": "A fighter gains a third attack at level 11, but the fighter is not 11th level."
+  }
+]

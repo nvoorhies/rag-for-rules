@@ -1,0 +1,355 @@
+[
+  {
+    "question": "After the druid disappears into the stairs above, can the level 1 barbarian use their action to roll for stealth?",
+    "answer": "The rules contain no explicit way to make this determination, as the rules describe specific special abilities not the use of action to develop them. In general, the GM is free to decide if it would allow the level 1 barbarian to roll for stealth.",
+    "rules": [
+      "Section > Ability Scores > Ability Checks",
+      "Section > Combat > Actions"
+    ],
+    "rules_explanation": "The question requires a judgement call on whether an action can be used to roll for stealth. This will require the DM's judgement and the rules offer no explicit support for such a determination."
+  },
+  {
+    "question": "When the level 5 druid casts Pulinpa on the soldier, and the soldier fails the saving throw, may the druid chose to either blind or deafen the target?",
+    "answer": "The description for Pulinpa is not in the SRD, so no determination about the effects of the spell can be made.",
+    "rules": [],
+    "rules_explanation": "The spell Pulinpa is not in the SRD, thus the effect of the spell is not defined so no answer can be found."
+  },
+  {
+    "question": "If the level 4 cleric Goddess has a 17 to hit a soldier, and the Game Master says it will for sure strike the first one, should the damage for that soldier be rolled?",
+    "answer": "Yes. If the Game Master has determined that the attack roll is enough to hit the target's Armor Class, then damage must be rolled.",
+    "rules": [
+      "Section > Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "If the roll plus modifiers equals or exceeds the target's AC, the attack hits and damage should be rolled. The GM has declared it exceeds, therefore damage must be rolled."
+  },
+  {
+    "question": "When the level 4 cleric, Goddess, spears a soldier to 0 hit points, can she attempt to spear the soldier behind it, and what modifiers apply to that roll?",
+    "answer": "The arrow will not automatically pierce a creature and strike the creature behind it. A roll is needed to determine if the arrow continues through a slain enemy and the DM will determine if the Goddess can add her modifier to the roll.",
+    "rules": [],
+    "rules_explanation": "The rules for this action are not explicit. A DM's judgement is needed to determine if a modifier should be added to the roll"
+  },
+  {
+    "question": "The non-identified NPC mentions that the Party Crashers can hide behind creates. How does an attack behind the crates work?",
+    "answer": "Being behind crates provides partial cover from attacks.",
+    "rules": [
+      "Section > Combat > Cover"
+    ],
+    "rules_explanation": "Crates are objects that provide partial cover."
+  },
+  {
+    "question": "What is the process for determining attack and skill modifiers for Little Miss's third attack?",
+    "answer": "The rules to not provide information about Little Miss. This information would need to be provided by the Dungeon Master.",
+    "rules": [],
+    "rules_explanation": "The skills and attack modifiers for the persona Little Miss is not specified in the SRD so the DM must provide the details."
+  },
+  {
+    "question": "The level 4 computer science major states that his character Zeke, also known as Nexus, will assist a teammate in their perception check. What is the effect of this action?",
+    "answer": "The lead character can roll 2d20 and choose the higher of the two.",
+    "rules": [
+      "Section > Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "When a character assists on an ability check, the lead character makes the check with advantage."
+  },
+  {
+    "question": "Can the level 4 computer science major's character Zeke, known as Nexus, use a reaction to regain temporary hit points?",
+    "answer": "The character can use a class ability or feat that allows for a reaction to regain temporary hit points but there is no generic reaction to regain temporary hit points.",
+    "rules": [
+      "Section > Combat > Reactions"
+    ],
+    "rules_explanation": "There is no generic reaction to regain temporary hit points."
+  },
+  {
+    "question": "The woman Strike casts Zionga on the big guy. Since the target passed the save, is that wasted, or is there still some effect?",
+    "answer": "On a successful save, the target takes some effect as described in the Zionga spell description.",
+    "rules": [],
+    "rules_explanation": "The exact effects of a saving throw are found in the description of the spell in question. As Zionga is not defined in the SRD, we cannot say whether it will be effective after a successful saving throw or not."
+  },
+  {
+    "question": "If the level 5 barbarian runs 30 feet to come face to face with an opponent, can the DM have the enemy take a shot, and what attack modifiers would they have?",
+    "answer": "Yes, but the archer has disadvantage on the attack roll if they are within 5 feet of the barbarian.",
+    "rules": [
+      "Section > Combat > Making an Attack > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated."
+  },
+  {
+    "question": "If the group wants to move to a different location, and are trying to determine if they should go stealthily, what should be done?",
+    "answer": "A Dexterity (Stealth) check must be made to move stealthily.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks > Dexterity"
+    ],
+    "rules_explanation": "The Stealth skill is described under Dexterity as the skill that is used when you attempt to conceal yourself from enemies"
+  },
+  {
+    "question": "For the roll off between Xanthe and Jared, who is also a level 1 player, what die is used and what adjustments can be made to the roll?",
+    "answer": "Each player uses a d20, and the player with the highest total wins. No adjustments can be made to the roll.",
+    "rules": [],
+    "rules_explanation": "No adjustments to the roll can be made unless a specific class feature or spell is used."
+  },
+  {
+    "question": "Can the level 5 barbarian use inspiration given to them for a check, and what options does it give?",
+    "answer": "Yes, inspiration can be used on an ability check, and allows the player to add 1d6 to the roll.",
+    "rules": [
+      "Section > Using Ability Scores > Inspiration"
+    ],
+    "rules_explanation": "You can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll."
+  },
+  {
+    "question": "The level 5 barbarian wants to use their bonus action. What actions may be used?",
+    "answer": "They can enter a rage.",
+    "rules": [
+      "Section > Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "On your turn, you can enter a rage as a bonus action."
+  },
+  {
+    "question": "With Kensei, level 5 barbarian's, action, are there any limits or are all types of attacks allowed?",
+    "answer": "A melee weapon attack using Strength is used with melee weapons.",
+    "rules": [
+      "Section > Combat > Actions > Attack > Melee Attacks"
+    ],
+    "rules_explanation": "Used in hand-to-hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, a warhammer, or an axe."
+  },
+  {
+    "question": "Can the level 4 computer science major and level 1 student complete their short rest, and what is the process?",
+    "answer": "You can have your short rest. They must be 1 hour long, and characters can choose to spend one or more Hit Dice at the end of a short rest, up to their level, to regain hit points.",
+    "rules": [
+      "Section > Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The party can take a short rest, and spend hit dice"
+  },
+  {
+    "question": "If all have been done moving to different rooftops, what do players have to roll to jump into another rooftop and how far can they jump with this roll?",
+    "answer": "A Strength (Athletics) check is needed to make a jump.",
+    "rules": [
+      "Section > Adventuring > Movement > Special Types of Movement > Jumping"
+    ],
+    "rules_explanation": "The rule for long jump is that the distance you cover on a jump is your Strength score if you move at least 10 feet on foot immediately before the jump. A Strength (Athletics) check may be required at the DM's option"
+  },
+  {
+    "question": "What occurs to the level 5 barbarian if the kitty has an allergy reaction?",
+    "answer": "The rules do not include the case of allergies. What occurs is up to the DM",
+    "rules": [],
+    "rules_explanation": "Nothing specific in rules about allergies, so DM would need to make a judgement call"
+  },
+  {
+    "question": "If a level 5 barbarian's character has 24 hit points, are there any dice to roll and modifiers to add to recover more hit points?",
+    "answer": "Yes, at the end of a short rest, you can choose to spend one or more Hit Dice. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier to it.",
+    "rules": [
+      "Section > Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The level 5 barbarian can expend hit dice to recover health. The amount is d12 + the character's Con modifier for each die used."
+  },
+  {
+    "question": "Once the Party is in the house, can they investigate, and what are their chances of discovery?",
+    "answer": "You can investigate by taking the Search action. What is found and any dice rolls are to be determined by the GM.",
+    "rules": [
+      "Section > Combat > Actions > Search"
+    ],
+    "rules_explanation": "Depending on what the players are trying to accomplish, the DM may have them roll. How well they do depends on the roll"
+  },
+  {
+    "question": "Can the abilities from Personas still be used as a bonus action?",
+    "answer": "That is not specified.",
+    "rules": [],
+    "rules_explanation": "The persona abilities are not present within the SRD, so no additional information can be extracted."
+  },
+  {
+    "question": "If characters want to be stealthy, what do they need to roll?",
+    "answer": "They will need to roll a Dexterity (Stealth) check.",
+    "rules": [
+      "Section > Using Ability Scores > Skills > Dexterity"
+    ],
+    "rules_explanation": "When you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard, make a Dexterity (Stealth) check."
+  },
+  {
+    "question": "How many feet can the transformed weeb run?",
+    "answer": "If in an area with no difficult terrain the character will be able to move 30 feet",
+    "rules": [
+      "Section > Adventuring > Movement > Speed"
+    ],
+    "rules_explanation": "The distance you can move on your turn is a distance up to your speed, there are some effects that limit your range."
+  },
+  {
+    "question": "What does it mean for an attack roll to have advantage?",
+    "answer": "When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage",
+    "rules": [
+      "Section > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage"
+  },
+  {
+    "question": "In the middle of the fight, the narrator mentions that an ally can be healed by the character Nexus. What checks must be made to succeed?",
+    "answer": "A check isn't needed to be made, but depending on the method used for healing, a range might be required.",
+    "rules": [],
+    "rules_explanation": "It is not possible to answer this question without more information. Different healing actions will have different requirements. Some may be melee range, and others could be a touch"
+  },
+  {
+    "question": "What kind of damage is the leader, or 'Big Guy', immune to?",
+    "answer": "There is not enough information from what is described to answer that question.",
+    "rules": [],
+    "rules_explanation": "There are not any descriptions of what resistance or immunities the big guy has, and thus cannot answer it."
+  },
+  {
+    "question": "Who is making the next check and what should be rolled?",
+    "answer": "A Constitution saving throw, but by whom is not specified",
+    "rules": [
+      "Section > Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "It is specified that a Constitution saving throw is what is needed to be rolled but who is rolling it is not clear."
+  },
+  {
+    "question": "After a bullet is fired, and is stated that it hit the character Nexus, what action or check is needed to recover, and from what is used to deal this, or have access to that?",
+    "answer": "If a class feature or magic item causes the absorption of the bullet that hit Nexus, a check may be needed, but without the specification, this can't be answered fully.",
+    "rules": [],
+    "rules_explanation": "Need to know what causes the absorption before deciding on the appropriate modifier to use."
+  },
+  {
+    "question": "After the bullets are fired, and the bullets hit Strike and her glock gets destroyed, what should the player do?",
+    "answer": "The rules do not contain information on this situation.",
+    "rules": [],
+    "rules_explanation": "There is nothing defined in the rules about this circumstance."
+  },
+  {
+    "question": "After it gets back to Goddess, where all she is going to be, what actions may she take?",
+    "answer": "Some possible actions are to Dash, Disengage, or Dodge.",
+    "rules": [
+      "Section > Combat > Actions"
+    ],
+    "rules_explanation": "These are listed in the SRD as some of the possible actions that any player or monster could take"
+  },
+  {
+    "question": "If she plans to attack, can she do it right now, or what preparations does she have to take?",
+    "answer": "To attack, she can perform the attack action.",
+    "rules": [
+      "Section > Combat > Actions > Attack"
+    ],
+    "rules_explanation": "A melee attack is described within the Actions section as follows. The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists."
+  },
+  {
+    "question": "With there being a single soldier left, what kind of movement can be performed?",
+    "answer": "A creature can Crawl, Dash, or Disengage, depending on the situation. The creature can move a distance up to its speed.",
+    "rules": [
+      "Section > Combat > Movement and Position"
+    ],
+    "rules_explanation": "With a speed given, you are allowed to do that in this environment. It then depends on the area for difficult terrain"
+  },
+  {
+    "question": "The goddess moves towards a quivering soldier and whispers the action's name. What happens?",
+    "answer": "If the goddess has a feature that allows them to effect the soldier via an action's name, then the goddess may use that action. There is not enough information about the actions's effect to determine what happens next.",
+    "rules": [
+      "Section > Combat > Actions"
+    ],
+    "rules_explanation": "The specific action that has been used has not been defined, so we do not know the details of the rules around it"
+  },
+  {
+    "question": "With everything that occurs around the final enemy, and Kensei is up again, and can see the soldier, with the advantage of being able to control their own eye flaps, what has to occur for his attack to work?",
+    "answer": "You must make an attack roll. If the roll plus any modifiers equals or exceeds the target's AC, the attack hits.",
+    "rules": [
+      "Section > Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The rule states \"To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Armor Class  (AC), the attack hits.\""
+  },
+  {
+    "question": "During the roll of 1 and 22, is there still a bonus from being in close combat or anything added to the roll to attack with the katana?",
+    "answer": "Not necessarily. The roll would only include the +5 proficiency bonus, which would create the 22.",
+    "rules": [
+      "Section > Combat > Making an Attack > Attack Rolls > Modifiers to the Roll"
+    ],
+    "rules_explanation": "Since there are no rules indicating that a circumstance gives a bonus, the base modifier is only the character's proficiency bonus."
+  },
+  {
+    "question": "After the enemies are taken care of, and the next step is to enter the house, can each player recover health by using hit dice?",
+    "answer": "Yes, the characters can choose to spend Hit Dice and recover health during a short rest.",
+    "rules": [
+      "Section > Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "During a short rest, characters can choose to spend hit dice to recover hit points."
+  },
+  {
+    "question": "Before they go help Erina, and now that they know that they can heal with hit die, are there abilities or dice to roll to recover health?",
+    "answer": "Characters can choose to spend Hit Dice at the end of the rest to recover hit points.",
+    "rules": [
+      "Section > Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "They can recover hit points by using hit dice"
+  },
+  {
+    "question": "The level 6 TTRPG noob asks, \"Each square is how many of them we have?\"",
+    "answer": "This seems to be a question about spell slots, with the player asking if each square is the amount of spells.",
+    "rules": [],
+    "rules_explanation": "There are mentions that there are squares on the character sheets, and thus is a assumption that these squares refer to the amount of spells."
+  },
+  {
+    "question": "The level 6 TTRPG noob also asks \"Plus three, it's 11. You maxed me out.\" Can you tell if it's a lie and that they are actually 11 hitpoints",
+    "answer": "It is not possible to tell from the available information if this statement is true or false.",
+    "rules": [],
+    "rules_explanation": "There is not sufficient information to tell whether the target is actually telling the truth."
+  },
+  {
+    "question": "One of the players say \"Our Persona abilities reset after a battle, is that correct? But do our unique abilities?\" and the response is No. Is that correct?",
+    "answer": "The abilities of a Persona is undefined. A persona is a type of summon or creature brought forth by another party (in this case, the character), and they disappear after the battle, which then enables the character to do more and bring forth other things.  The unique abilites, such as 'The Power of Sub Only', those do not reset",
+    "rules": [],
+    "rules_explanation": "The party is not explicit or can't be verified within SRD."
+  },
+  {
+    "question": "To traverse along the rooftops and perform any checks, what dice should be used?",
+    "answer": "It depends. To move along rooftops, a check is not needed, unless the ground is difficult to traverse, or other specific events.",
+    "rules": [
+      "Section > Adventuring > Movement > Special Types of Movement > Climbing, Swimming, and Crawling"
+    ],
+    "rules_explanation": "While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the GM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check."
+  },
+  {
+    "question": "The GM states for each of the 4 (strike) 5 (krystina), 9 (robbie), and 6 (matt) are making a stealth check, how do you handle each of these checks?",
+    "answer": "Each character rolls a d20 and adds the character's Dexterity modifier and proficiency bonus (if applicable).",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC."
+  },
+  {
+    "question": "After Kensei says the word \"Persona!\", the narrator remarks: \"As he shouts, you hear in the distance, 'Did you hear that?'\" How does this check work?",
+    "answer": "To make a Perception check, you will need to roll a d20 and check if the total exceeds the set number or not.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks > Wisdom"
+    ],
+    "rules_explanation": "Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses."
+  },
+  {
+    "question": "Since the persona Otakemaru used agi, a fire spell, and struck a target wall, is this considered magical fire, and what AC is associated with this wall?",
+    "answer": "The wall was described as a plant, and does not have an AC score.",
+    "rules": [],
+    "rules_explanation": "ACs do not have a set score. The DM would have to determine an appropriate value."
+  },
+  {
+    "question": "Which of the checks should be used to stop an intoxicated person from coming closer?",
+    "answer": "A Strength (Athletics) check may be used to keep someone at a distance.",
+    "rules": [
+      "Section > Using Ability Scores > Ability Checks > Strength"
+    ],
+    "rules_explanation": "When used to push, pull, or break, a Strength check is needed."
+  },
+  {
+    "question": "In the second initiative, when a character is stated \"Oh, is that a one. All right, so all three of you are rolling total of 1, what is the outcome?",
+    "answer": "The players must re-roll as if they hadn't rolled at all.",
+    "rules": [
+      "Section > Races > Halfling > Lucky"
+    ],
+    "rules_explanation": "Lucky. When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+  },
+  {
+    "question": "When it gets to Goddess, the 14 of 25 is for an ability hit right",
+    "answer": "It is not known which roll is being referenced, but a check to see if Goddess hits typically would be a check against a save DC for the ability.",
+    "rules": [],
+    "rules_explanation": "There is no previous mention to what an ability is being used, and thus cannot assume. But there is an ability and there is no number tied to check as to what the other modifier is, then it is assumed that it is checking a DC against save. If there was a number then you should not follow this."
+  },
+  {
+    "question": "As the team is looking and traveling to the end with the stone structure is there something specific they need to roll in general as they are not seeing",
+    "answer": "A Wisdom (Perception) may be used to try to see hidden things",
+    "rules": [
+      "Section > Using Ability Scores > Skills > Wisdom"
+    ],
+    "rules_explanation": "Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses."
+  }
+]

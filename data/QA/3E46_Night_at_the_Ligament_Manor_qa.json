@@ -1,0 +1,116 @@
+[
+  {
+    "question": "Does the level 1 FCG taste the Harrowcall special?",
+    "answer": "The level 1 FCG tasted the Harrowcall special like it tastes anything else.",
+    "rules": [
+      "Introduction > What Is a Spell? > Targets"
+    ],
+    "rules_explanation": "While the SRD does not describe the specifics of how constructs taste things, it states a target of an effect must have senses to experience that effect. The construct tasted it like anything else, which is nothing."
+  },
+  {
+    "question": "level 1 barbarians of any race are attempting to make a group persuasion check. What is the formula for this check?",
+    "answer": "To make a group ability check, each character makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "In a group check, every character attempting the skill check makes the check. If at least half the group succeeds, the check as a whole is a success."
+  },
+  {
+    "question": "How long does Darkvision provided by the Moonlight Glycerin last?",
+    "answer": "Darkvision provided by the Moonlight Glycerin lasts for the next eight hours.",
+    "rules": [],
+    "rules_explanation": "This is a special property of the Moonlight Glycerin."
+  },
+  {
+    "question": "A level 1, any race is reading the surface thoughts of the sun bear. Which surface thought does the level 1, any race actually get?",
+    "answer": "The surface thought the level 1, any race gets is, \"I want to get back to that bowl of oats. They interrupted me, but I don't want the flies to get to it.\"",
+    "rules": [],
+    "rules_explanation": "This is the specific surface thought in the mind of the sun bear at that moment."
+  },
+  {
+    "question": "A level 12 barbarian is trying to determine the distance to a glowing red orb with survival or perception check. What is the correct skill to use?",
+    "answer": "The GM determines whether to use a Survival or Perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Determining what ability check is required is up to the GM."
+  },
+  {
+    "question": "Is a critical success on an ability check an automatic success?",
+    "answer": "No, a crit success on an ability check is not an automatic success, but it often gives you a little boost on it.",
+    "rules": [],
+    "rules_explanation": "This is a rules clarification, it is not in the SRD."
+  },
+  {
+    "question": "A persuasion check with modifier 14 is required. Does a roll of 20 automatically pass the check?",
+    "answer": "No. A roll of 20 is added to the modifier, for a result of 34.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The total must meet or exceed the target number."
+  },
+  {
+    "question": "If an area has difficult terrain due to the entangle spell and a character has earth walk, can they move through the difficult terrain?",
+    "answer": "No. Earth Walk means you ignore difficult terrain composed of earth or stone.",
+    "rules": [],
+    "rules_explanation": "There is no specific rule about earth walk."
+  },
+  {
+    "question": "What is the benefit to making a Pass Without Trace cast?",
+    "answer": "Pass Without a Trace gives you benefits to stealth.",
+    "rules": [],
+    "rules_explanation": "This is a simplification of the spell, but true."
+  },
+  {
+    "question": "If we are casting group spells, can we target a creature to put at disavantage to saving throws with the Bane spell?",
+    "answer": "Yes. The Bane spell affects three creatures.",
+    "rules": [
+      "Spellcasting > Targets"
+    ],
+    "rules_explanation": "There is no limitation stated in the SRD that prevents you from casting on a given target."
+  },
+  {
+    "question": "What happens on a successful saving throw against the sacred flame spell?",
+    "answer": "There is no damage on a successful saving throw against the sacred flame spell.",
+    "rules": [],
+    "rules_explanation": "There is no language saying a successful save yields any damage."
+  },
+  {
+    "question": "Does temporary HP stack?",
+    "answer": "Temporary hit points do not stack. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones.",
+    "rules": [
+      "Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "The rules explicitly state that temporary hit points do not stack."
+  },
+  {
+    "question": "Does the shared dream spell have a Material component?",
+    "answer": "No, the Shared Dream spell doesn't have a material component.",
+    "rules": [],
+    "rules_explanation": "The description of Shared Dream is not in the SRD."
+  },
+  {
+    "question": "What happens when you long rest in the Fey Realm?",
+    "answer": "When you do sleep for the evening you achieve a long rest.",
+    "rules": [
+      "Resting > Long Rest"
+    ],
+    "rules_explanation": "The rules for long rest applies in all dimensions."
+  },
+  {
+    "question": "If you have long rest and wake up with exhaustion, what happens?",
+    "answer": "When you do sleep for the evening you achieve a long rest, but you wake up with a point of exhaustion.",
+    "rules": [
+      "Resting > Long Rest"
+    ],
+    "rules_explanation": "The rules for long rest applies in all dimensions, but the exhaustion is a special effect of the dimension."
+  },
+  {
+    "question": "If a character has a 4th level spell slot available, can they use that to cast Detect Thoughts?",
+    "answer": "Yes, the Detect Thoughts spell can be cast using a 4th-level spell slot",
+    "rules": [
+      "Spellcasting > Casting a Spell at a Higher Level"
+    ],
+    "rules_explanation": "The Detect Thoughts is 2nd-level spell and can be cast using a slot of the spell's level or higher."
+  }
+]

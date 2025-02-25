@@ -1,0 +1,129 @@
+[
+  {
+    "question": "The goristro- Keyleth level 20 druid in pit fiend-form uses Healing Word on Sir Bertrand Bell death saving throws failure 2/3 Success 1/3. Is Keyleth able to add wisdom modifier?",
+    "answer": "Yes, Keyleth can add her Wisdom modifier to the healing from Healing Word.",
+    "rules": [
+      "Classes > Druid > Spellcasting > Spellcasting Ability: Wisdom is your spellcasting ability for your druid spells. You use your Wisdom whenever a spell refers to your spellcasting ability.",
+      "Spells > Healing Word: ...A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier..."
+    ],
+    "rules_explanation": "The Healing Word spell description states that the spellcasting ability modifier is added to the hit points regained, and for the Druid class that spellcasting modifier is Wisdom."
+  },
+  {
+    "question": "Bertrand Bell, who's still unconscious, has death saving throws with failure 2/3 Success 1/3, Can he use his stone's endurance to reduce the damage?",
+    "answer": "The rules do not support using the Stone's Endurance feature to affect death saving throws.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points: Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life.  Unlike other saving throws, this one isn't tied to any ability score. "
+    ],
+    "rules_explanation": "Death saving throws are special saving throws without an ability score associated with them. Therefore, since Stone's Endurance applies to reducing damage, not affecting saving throws in general, it cannot apply to a death saving throw."
+  },
+  {
+    "question": "Can percival level 20 fighter use the spider climb boots and also use pass without trace?",
+    "answer": "Yes, a fighter can concentrate on the Pass Without Trace spell while using spider climb boots",
+    "rules": [
+      "Section does not contain the specific rules",
+      "but spell concentration and wearing boots do not impede each other, the GM can make a ruling about the ability to multi task"
+    ],
+    "rules_explanation": "The rules for spider climb boots do not state that they prevent casting spells or prevent concentration. The description for Pass Without Trace does not state anything preventing the wearer of spider climb boots from using it or preventing concentration."
+  },
+  {
+    "question": "When Keyleth fails to catch Vox Machina level 20 Druid party member after changing them into birds and dropping them, and they fall 10 feet, how much bludgeoning damage do they take?",
+    "answer": "Each character takes 5 bludgeoning damage",
+    "rules": [
+      "Combat > The Environment > Falling: At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6."
+    ],
+    "rules_explanation": "If the charcters fall 10 feet, they take 1d6 bludgeoning damage. The average damage from a d6 roll is 3.5, rounded up to 4, so they take 4 bludgeoning damage. You can roll to determine the actual ammount."
+  },
+  {
+    "question": "For Lieve'tel level 20 cleric, can she use Rod of Alertness and also use Guidance?",
+    "answer": "Yes, Lieve'tel can use Guidance from her Rod of Alertness",
+    "rules": [
+      "Section does not contain the specific rules",
+      "A character can take a reaction and bonus action every turn if there is a way"
+    ],
+    "rules_explanation": "There is no rule that says a character cannot cast Guidance using Rod of Alertness and take a reaction every turn"
+  },
+  {
+    "question": "For this Wisdom saving throw, after the Persuasion check, Bertrand Bell has one point of exhaustion, which means what on a Wisdom Saving throw?",
+    "answer": "With one level of exhaustion, Bertrand Bell would not be affected, and the roll would proceed as normal. The roll would have disadvantage with three levels of exhaustion",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion: A creature suffers the effect of its current level of exhaustion as well as all lower levels. Level 1: Disadvantage on ability checks"
+    ],
+    "rules_explanation": "Bertrand Bell is at level 1 of exhaustion, which imposes disadvantage only on ability checks, not saving throws. As a result, he would make the saving throw as normal."
+  },
+  {
+    "question": "Keyleth level 20 Druid, what is she able to do on the outside of these walls that's happening all around, wind and rain?",
+    "answer": "Does not compute, question requires more details.",
+    "rules": [],
+    "rules_explanation": "This question is too vague. The GM can improvise and do whatever she's thinking of, there's no way to answer."
+  },
+  {
+    "question": "During a chase in Pandemonium with a Wisdom Saving Throw, after the failed persuasion and poop, can Scanlan level 20 bard's Cutting Words be used to reduce the Sarenrae die?",
+    "answer": "Yes, Scanlan can use cutting words",
+    "rules": [
+      "Classes > Bard > Bard College > Cutting Words: When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll."
+    ],
+    "rules_explanation": "Creature rolling the save is the condition to use Cutting Words."
+  },
+  {
+    "question": "Does Keyleth level 20 druid need to have anything fancy for Animal Shapes?",
+    "answer": "No, Animal Shapes only requires somatic components.",
+    "rules": [
+      "Spells > Animal Shapes: V, S"
+    ],
+    "rules_explanation": "Spells > Animal Shapes description indicates it only needs a verbal and somatic component, and does not require a material component."
+  },
+  {
+    "question": "If an action isn't detailed elsewhere in the rules what do you do?",
+    "answer": "When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.",
+    "rules": [
+      "Combat > Actions in Combat: When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure."
+    ],
+    "rules_explanation": "The rule quoted is the correct way to handle improvising."
+  },
+  {
+    "question": "If you have one point of exhaustion, does that mean it's disadvantage on initiative?",
+    "answer": "No, one level of exhaustion imposes disadvantage on ability checks. It takes three levels of exhaustion to have disadvantage on saving throws.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion: Level 1: Disadvantage on ability checks",
+      "Appendix PH-A: Conditions > Exhaustion: Level 3: Disadvantage on attack rolls and saving throws"
+    ],
+    "rules_explanation": "The description of the exhaustion condition dictates which effects occur at which exhaustion levels."
+  },
+  {
+    "question": "Lieve'tel level 20 cleric used Mass Healing Word. Does that go back up to the temporary hit points also or no?",
+    "answer": "Mass Healing Word doesn't give temporary hit points, but instead restores hit points. Restored hit points are added to a creature's current hit points, but a creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost.",
+    "rules": [
+      "Spells > Mass Healing Word: A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures of your choice that you can see within range. Each target regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+      "Combat > Damage and Healing > Healing: When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost."
+    ],
+    "rules_explanation": "The text for the spell Mass Healing Word only describes healing, not the granting of temporary hit points. Additionally, you can't exceed your max hp."
+  },
+  {
+    "question": "Does that mean for someone with Avatar of Battle, that Keyleth's wall of stone is still in effect?",
+    "answer": "Does not compute, requires further information about the scenario to determine if the conditions are met for the armour or not.",
+    "rules": [],
+    "rules_explanation": "Not enough information to determine, need target for this effect and the other abilities active on the player"
+  },
+  {
+    "question": "If you are a wizard and were hit with a melee attack, and use absorb elements to absorb the damage, are you able to then do opportunity attack?",
+    "answer": "Does not compute, missing information from scenario to compute",
+    "rules": [],
+    "rules_explanation": "If an attack that triggers Absorb Elements is a melee attack from an enemy, you need to know the ability to react, if there is an effect, or if that uses their entire turn to come up with the correct answer."
+  },
+  {
+    "question": "If Vex casts the spell Hunter's Mark on titan, would that work?",
+    "answer": "Yes, Vex can cast Hunter's Mark on the stone golem titan.",
+    "rules": [
+      "Spells > Hunter's Mark: You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it."
+    ],
+    "rules_explanation": "The Hunter's Mark spell description allows the caster to choose *a creature* not something of specific level or type."
+  },
+  {
+    "question": "If someone is resistant to piercing but is also a dragonborn, does it stack?",
+    "answer": "Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability: Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance."
+    ],
+    "rules_explanation": "Both Dragonborn and having resistance are both resistances."
+  }
+]

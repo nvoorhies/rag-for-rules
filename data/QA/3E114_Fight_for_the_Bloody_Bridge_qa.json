@@ -1,0 +1,153 @@
+[
+  {
+    "question": "When Lieve'tel, a level 20 cleric casts *holy aura*, what kind of light is shed in a 5-foot radius?",
+    "answer": "Dim light is shed in a 5-foot radius.",
+    "rules": [
+      "Spellcasting > Spell Description > Duration > Concentration",
+      "Spellcasting > What is a Spell? > Spell Level",
+      "Creatures > Actions"
+    ],
+    "rules_explanation": "The description for the *holy aura* spell states \"Creatures of your choice in that radius when you cast a spell, shed dim light in a five-foot radius.\""
+  },
+  {
+    "question": "The earth elemental form the level 20 druid is using grants her what modifier on a stealth check?",
+    "answer": "There is no modification to the stealth check described in this part of the transcript, it is a straight stealth check.",
+    "rules": [
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A stealth check is an ability check that may have modifications from spells or abilities. It does not inherently have any bonus modifier."
+  },
+  {
+    "question": "The DM states that the ranger, Vex'ahlia, can shoot 600 feet \"without disadvantage.\" What rule is he referencing?",
+    "answer": "The DM is referencing the Sharpshooter feat, which removes disadvantage on long range weapon attacks.",
+    "rules": [
+      "Feats > Sharpshooter",
+      "Combat > Making an Attack > Ranged Attacks > Range"
+    ],
+    "rules_explanation": "The Sharpshooter feat removes the disadvantage imposed by attacking with a ranged weapon at long range."
+  },
+  {
+    "question": "What type of saving throw is imposed by the Lightning Arrow spell?",
+    "answer": "The Lightning Arrow spell requires a Dexterity saving throw.",
+    "rules": [
+      "Spellcasting > What is a Spell? > Spell Level",
+      "Creatures > Actions"
+    ],
+    "rules_explanation": "The description for the *lightning arrow* spell specifies that the target must make a Dexterity saving throw."
+  },
+  {
+    "question": "If Vex'ahlia, a level 20 ranger with the benefit of a Holy Aura takes acid damage what happens?",
+    "answer": "Vex'ahlia takes half damage and the attacker makes a Constitution saving throw or becomes blinded.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Holy Aura",
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The Holy Aura spell grants advantage on saving throws, but unfortunately Vex still failed her saving throw, then she is allowed to take half damage as a Rogue with the Uncanny Dodge Feature, and the attacker must make a Constitution saving throw or become blinded."
+  },
+  {
+    "question": "If a character fails a dexterity save against a corroding spray spell and is a rogue with uncanny dodge, what happens?",
+    "answer": "The character takes half damage from the corroding spray.",
+    "rules": [
+      "Classes > Rogue > Uncanny Dodge",
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The Uncanny Dodge feature of the rogue class allows for the rogue to use a reaction to only take half damage."
+  },
+  {
+    "question": "When the Sunder King is hit with an attack while within 10 feet of a Falconer as a result of the Conjure Animals spell do the conditions of the conjured animal spell apply and force him to make a dexterity saving throw?",
+    "answer": "Yes, the text of the Conjure Animals spell would force the Sunder King to make the check, and the presence or absence of movement for the caster does not change that the effect occurs when a pack is within 10 feet of a creature or ends its turn there.",
+    "rules": [
+      "Spellcasting > What is a Spell? > Spell Level",
+      "Creatures > Actions"
+    ],
+    "rules_explanation": "The conditions for the conjured animal spell include that creatures must make a dexterity saving throw when an animal is within 10 feet of them, and the game master has not created any exception to this rule in this case."
+  },
+  {
+    "question": "If a creature fails a save against Pike Trickfoot's Sunburst spell, what happens?",
+    "answer": "The creature is blinded for one minute.",
+    "rules": [
+      "Spellcasting > What is a Spell? > Spell Level",
+      "Creatures > Actions"
+    ],
+    "rules_explanation": "The description for the *sunburst* spell includes that creatures that fail a Constitution saving throw against it are blinded for one minute."
+  },
+  {
+    "question": "Scrag is targeted with a sunburst spell. Does it take any damage and is there a saving throw?",
+    "answer": "Yes, Scrag must make a Constitution saving throw or take 32 points of radiant damage, and he is blinded for one minute.",
+    "rules": [
+      "Spellcasting > What is a Spell? > Spell Level",
+      "Creatures > Actions"
+    ],
+    "rules_explanation": "The description for the *sunburst* spell details that the target creature takes radiant damage and must pass a saving throw or become blinded."
+  },
+  {
+    "question": "What actions can Ozo Cruth take when Pike uses Sunburst and makes Scrag become blinded?",
+    "answer": "Ozo Cruth can use his turn, action, and movement as normal. When it is Pike's turn, then Ozo Cruth uses a legendary action to have Scrag make an immediate melee attack because he is on top of it.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn > Action",
+      "Creatures > Actions",
+      "Creatures > Legendary Creatures > Legendary Actions"
+    ],
+    "rules_explanation": "Ozo Cruth can take actions as normal on his turn and the Sunburst spell does not interfere with this, but Ozo can use a legendary action at the end of Pike's turn to command Scrag to make an attack."
+  },
+  {
+    "question": "What dice are rolled for piercing damage from Scrag's razor mandibles?",
+    "answer": "The damage roll for Scrag's razor mandibles is 3d12.",
+    "rules": [
+      "Monsters"
+    ],
+    "rules_explanation": "The description of the Scrag's razor mandibles attack lists the damage as 3d12."
+  },
+  {
+    "question": "What is advantage?",
+    "answer": "When you have advantage on an attack roll, ability check, or saving throw, you roll a second d20 when you make the roll. Use the higher of the two rolls.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The core rules of the game specify that advantage is to roll a second d20 and use the higher roll."
+  },
+  {
+    "question": "What saving throw must a creature make against Forceful Shot and what happens on a failure?",
+    "answer": "The target must make a Strength saving throw against a DC 20. On a failure, he takes 8 points of damage and is pushed 15 feet back.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks",
+      "Creatures > Actions"
+    ],
+    "rules_explanation": "The roll must meet or exceed the DC to succeed. On a failure, the target is pushed 15 feet away, and is damaged."
+  },
+  {
+    "question": "What are the conditions for sneak attack?",
+    "answer": "You can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.\n\nYou don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.",
+    "rules": [
+      "Classes > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The basic rules for sneak attack are specified in the rules from the Sneak Attack feature of the rogue class."
+  },
+  {
+    "question": "If Ozo Cruth's glass sword Carnage hits Vex'ahlia, what are the effects?",
+    "answer": "Vex'ahlia takes 24 piercing damage and Ozo Cruth takes 17 radiant damage and is knocked prone.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Divine Word",
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The description for the Blessing of the Dawnfather, which Vex'ahlia currently has, details that any enemy attack that hits her triggers a pulse of radiant energy and knocks the attacker prone."
+  },
+  {
+    "question": "How does the misfire mechanic work for Percival Fredrickstein Von Musel Klossowski de Rolo III, a level 20 fighter?",
+    "answer": "On a misfire, Percival rolls a 1. He must then use a bonus action and make a Tinker roll at DC 11. Success allows him to continue firing. Failure means he has to wait until he is able to attempt the repair again.",
+    "rules": [
+      "Classes > Fighter > Martial Archetypes > Gunslinger > Misfire",
+      "Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The description of the misfire mechanic is specific to the Gunslinger subclass, and includes a tinker check."
+  },
+  {
+    "question": "What level are sunbeam and daylight spells?",
+    "answer": "Sunbeam is a 6th-level spell. Daylight is a 3rd-level spell.",
+    "rules": [
+      "Spell Lists > Warlock Spells",
+      "Spell Lists > Cleric Spells"
+    ],
+    "rules_explanation": "These spells are of these levels on both the cleric and warlock class spell lists."
+  }
+]

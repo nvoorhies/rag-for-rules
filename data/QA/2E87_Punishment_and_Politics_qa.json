@@ -1,0 +1,106 @@
+[
+  {
+    "question": "The group are about to roll initiative. What SRD rules govern this activity?",
+    "answer": "Combat > The Order of Combat > Initiative: When combat starts, every participant makes a Dexterity check to determine their place in the initiative order.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The players are told to roll initiative, so the section describing the rules governing initiative is the applicable one."
+  },
+  {
+    "question": "The player character, Nott, a Level N Rogue, is disengaging as a bonus action. Is this a valid action?",
+    "answer": "Yes, this is a valid action. Rogues gain the ability to take the disengage action as a bonus action at level 2. Gameplay transcript > Part I > rogue 2, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.",
+    "rules": [
+      "Rogue > Class Features > Cunning Action"
+    ],
+    "rules_explanation": "The rogue class features, cunning action, allows a rogue to take the disengage action as a bonus action. Since the character is at least level 2, this is allowed."
+  },
+  {
+    "question": "The player character, Fjord, a Level N Warlock, is moving away from an enemy, and that enemy attempts to take an attack. Can the character Beauregard, a level N Monk, use sentinel to attack this enemy as a reaction?",
+    "answer": "Yes, the level N Monk can take an attack of opportunity against the enemy, if the enemy moves out of a Monk's reach, Sentinel would not nullify this attack of opportunity because the Monk did not attack the enemy using an attack of opportunity to attack an ally.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "If an enemy moves out of a Monk's reach, Sentinel would not nullify this attack of opportunity because the Monk did not attack the enemy using an attack of opportunity to attack an ally."
+  },
+  {
+    "question": "Caduceus is concentrating on Bless and takes damage, what DC and rules are used to determine if concentration is lost?",
+    "answer": "The character must make a DC 10 Constitution saving throw, or half the damage taken, whichever is higher.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The rules governing concentration checks when taking damage state that a DC 10 Constitution saving throw is required, or half the damage taken whichever is higher."
+  },
+  {
+    "question": "A bless spell has been cast. Does it provide any bonus on death saving throws?",
+    "answer": "Yes, bless allows a creature to add a d4 to a saving throw.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Bless states that it adds a d4 to saving throws, death saving throws are saving throws, so bless applies."
+  },
+  {
+    "question": "Caduceus cast Cure Wounds on Caleb while he is unconscious. Does Caduceus automatically maximize the healing die rolls from the Cure Wounds spell?",
+    "answer": "Yes, Caduceus can maximize the healing, due to their Grave Domain ability.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Due to the Grave Domain ability, Caduceus can maximize the healing done to Caleb"
+  },
+  {
+    "question": "Caduceus wants to use a bonus action and the rest of their movement to move Caleb away from an enemy. Is this allowed?",
+    "answer": "The GM can allow it, but there are no general rules governing this specific action. Therefore it's a GM judgement call.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There are no specific rules on the SRD that govern this sort of action, so it is a GM ruling."
+  },
+  {
+    "question": "The spell Ray of Enfeeblement has been cast. Does the caster need to roll to hit?",
+    "answer": "Yes, ranged spells require a ranged spell attack roll against the target.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Most ray spells, as part of the rays, you still have to aim to fire, so."
+  },
+  {
+    "question": "Yasha has a greatsword that does extra acid damage. Is there a bonus action cost to engage that bonus damage?",
+    "answer": "Yes, the sword requires a bonus action and a point of exhaustion to empower the blade.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Looking at the weapon. It's the 19, 20 critical I think is when it's engaged its ability. How long does that ability last for?\" \nASHLEY: (reading quickly) Ah, okay, so \"while attuned to this greatsword, you can use your bonus action and take a point of exhaustion to empower this blade. For one minute, all attacks with this greatsword do an additional 1d8 acid damage, and it critically hits on a roll of 19 or 20.\""
+  },
+  {
+    "question": "The character Beau is blind and attacking. Does she have disadvantage on her attack rolls?",
+    "answer": "Yes, being blind gives the character disadvantage on attack rolls.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "She's going to march right in there.\nMATT: Okay.\nASHLEY: And try to feel around for the squishy. Walking with one hand forward.\nMATT: I'll say it takes all your movement to get up to it, but you can.\nASHLEY: Okay.\nMATT: I'll allow that, because you're moving around, feeling out, blade in one hand, pushing past Caduceus for a second, making sure, you know, Caduceus isn't the creature. Hearing the sounds and following your way there, so I'll say half speed you get there, but you do.\nASHLEY: So I'd like to make an attack.\nMATT: Okay. Now, are these reckless or not? Because you have disadvantage on this, because you are blinded within the radius.\""
+  },
+  {
+    "question": "A Ray of Enfeeblement spell has been cast, reducing the target's damage with Strength attacks by half. Does that effect piercing damage?",
+    "answer": "The spell causes the target to deal half damage for attacks that use strength.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "TALIESIN: So Ray of Enfeeblement would technically work here, then.\nMATT: It would. As a ray, you still have to roll to hit, correct?\nTALIESIN: No, it's a con save.\nMATT: Hmm, I thought ray spells, all right.\nTALIESIN: Yeah, you'd think.\nMATT: Okay. Is this a grave cleric thing, too?\nTALIESIN: That I cannot tell you.\nMATT: No, \"make a ranged spell attack against the target.\" It is.\nTALIESIN: Okay, because it says \"attack save: con 17.\"\nMATT: Right, at the end of each of its turns, it makes a save to resist the effect.\nLAURA and TALIESIN: Oh.\nMATT: I remember you forgot that last time.\nLAURA: Okay, okay.\nMATT: Yeah, most ray spells, as part of the rays, you still have to aim to fire, so.\nTALIESIN: Okay, well in that case--\nLAURA: But you're right in front of him, you know he just pulled you to him.\nTALIESIN: Yeah, but I don't know if that's--\nMATT: You still have disadvantage on the strike.\nTALIESIN: Yeah.\nLAURA: Has Yasha gone yet?\nMATT: Though Yasha hasn't gone yet, so you would have advantage, so it would just be a single roll, so it's up to you.\nTALIESIN: Yeah, let's do it. Let's Ray of Enfeeblement, because this'll help shit a lot if this works well. What do I add to this? Is this just my spell?\nMATT: You add your spell attack modifier.\nTALIESIN: So it's just a five. Oh, spell attack, nine, okay, there we go. Oh, come on.\nLAURA: Here we go, here we go, here we go.\nTALIESIN: Ah, 18.\nMATT: 18 hits.\nSAM: Nice.\nTALIESIN: So you're half damage.\nMATT: Half damage for attacks that use?\nTALIESIN: Strength.\nMATT: Strength? You got it."
+  },
+  {
+    "question": "If a cleric casts a verbal somatic spell while blinded, is it automatically unsuccessful?",
+    "answer": "No. Verbal and somatic components can be performed in blindness unless the spell requires seeing the target.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "If the spell says \"a creature you can see.\"\nTALIESIN: \"Creature within range,\" no.\nMATT: Then you can just cast it in that direction.\nLAURA: Fuck yeah.\nTALIESIN: Okay.\nMATT: Yeah, certain spells require you to see the target, in which case the blindness would prevent you from--"
+  },
+  {
+    "question": "What is the range of the message spell?",
+    "answer": "The spell has a range of 100 feet.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The question relates to the range of the message spell. This is 100 feet. I'll point up in the direction of Pumat and whisper into a wire, Pumat, if you're alive, please, respond to this message.\nMATT: What's the range on it?\nSAM: I think it's 100 feet."
+  }
+]

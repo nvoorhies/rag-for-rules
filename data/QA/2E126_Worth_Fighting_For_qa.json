@@ -1,0 +1,263 @@
+[
+  {
+    "question": "Can a level 5 Transmutation Wizard add his Intelligence modifier to the damage roll with a fire spell cast from the Wand of Fireballs?",
+    "answer": "The Wand of Fireballs allows casting of fireballs using the wand and your spell save DC, but the rules state that you use your intelligence when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one. There is no indication that this property also adds the Wizards Intelligence bonus to the damage roll in the SRD.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The rules for the spellcasting attribute, spell attack bonus, and save DC are the wizard's Intelligence. The rules don't state any changes to damage rolls when casting spells from the wand, only the calculation for spell save DC and attack bonus."
+  },
+  {
+    "question": "A level 5 transmuter is being targeted by an attack. If the target has 5 temporary hit points and takes 7 damage, how much damage is applied to the regular hit points?",
+    "answer": "The temporary hit points are lost first and any left over damage is applied to regular hit points, so the creature will take 2 damage to their regular hit points.",
+    "rules": [
+      "Combat > Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "Temporary hit points absorb damage before regular hit points."
+  },
+  {
+    "question": "If someone is proficient in Sleight of Hand and attempts to manifest a hat, does that allow them to?",
+    "answer": "There is nothing in the rules that explains how to make something out of nothing using sleight of hand",
+    "rules": [],
+    "rules_explanation": "The DM controls the action and decides if what was attempted can succeed."
+  },
+  {
+    "question": "A level 14 wizard casts *Commune*. Does the deity speak to the other characters, or just to the caster?",
+    "answer": "The spell description does not specify who receives the communication, but the spell requires the caster to ask the questions, therefore, the spell is intended for just the caster to hear the answers. ",
+    "rules": [
+      "Spellcasting > What Is a Spell? > Targets"
+    ],
+    "rules_explanation": "The spell is cast on the caster. As the target, the caster can ask questions and receive answers."
+  },
+  {
+    "question": "A level 1 Fighter with the Defense fighting style is wearing full plate armor, what is their AC?",
+    "answer": "The AC would be 19. A character wearing plate armor has an AC of 18, and the Defense fighting style provides an additional +1 to AC when wearing armor.",
+    "rules": [
+      "Equipment > Armor > Armor Class (AC)",
+      "Fighter > Class Features > Fighting Style > Defense"
+    ],
+    "rules_explanation": "The AC from armor and fighting styles stack to create the total armor class."
+  },
+  {
+    "question": "If a Medium character makes a Dexterity check to avoid falling prone in difficult terrain, what is the DC?",
+    "answer": "The DC is 10. ",
+    "rules": [
+      "Adventuring > Movement > Jumping"
+    ],
+    "rules_explanation": "The text references falling in difficult terrain"
+  },
+  {
+    "question": "A level 1 Barbarian rages and then finds that he is 70 feet away from a hostile creature. What can he do?",
+    "answer": "According to the rage description the rage ends if the turn ends and the raging character has neither attacked a hostile creature nor taken damage. The SRD does not state any other requirements. If the turn ends at 70 feet, the rage will end.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "The rules outline attacking a hostile creature or taking damage to maintain Rage, regardless of distance between the character and the target."
+  },
+  {
+    "question": "If a level 1 Monk makes a successful unarmed strike, what damage does he do?",
+    "answer": "He does 1d4 damage.",
+    "rules": [
+      "Monk > Class Features > Martial Arts"
+    ],
+    "rules_explanation": "The martial arts die at first level is a d4."
+  },
+  {
+    "question": "A level 1 character multi-classes into bard. Can they start with 3 proficiencies from skills?",
+    "answer": "No. When you gain your first level in a class other than your initial class, you gain only some of new class's starting proficiencies. You only get one skill from the Bard's class list during multi-classing.",
+    "rules": [
+      "Beyond 1st Level > Multiclassing > Proficiencies"
+    ],
+    "rules_explanation": "The multi-classing rules for proficiencies state the restrictions on new skill proficiencies when adding a level of a new class after character creation."
+  },
+  {
+    "question": "A level 1 Human Monk is standing next to the new Barbarian. If the Barbarian slaps the Monk, does the Monk take damage? What if they are raging?",
+    "answer": "There are no rules that specifically cover an ally slapping another character. It would be up to the DM to determine whether the attack was possible and what damage should be dealt. ",
+    "rules": [],
+    "rules_explanation": "The rules do not cover how and when PCs are allowed to damage other PCs, only the combat rules."
+  },
+  {
+    "question": "If a level 1 character multi-classes into fighter and already has a fighting style, can they choose another fighting style?",
+    "answer": "No. You can't take a Fighting Style option more than once, even if you later get to choose again.",
+    "rules": [
+      "Fighter > Class Features > Fighting Style"
+    ],
+    "rules_explanation": "The text states that the style cannot be taken more than once."
+  },
+  {
+    "question": "What happens when the two characters are in the same space?",
+    "answer": "The rules state that the swarm can occupy another creature's space and vice versa. and the swarm can move through any opening large enough for a Tiny beast.",
+    "rules": [
+      "Monsters > Swarm of Ravens > Swarm",
+      "Combat > Movement and Position > Moving around Other Creatures"
+    ],
+    "rules_explanation": "For the specific case of the swarm of ravens, the rules for moving around other creatures are ignored."
+  },
+  {
+    "question": "The character is a level 3 Fighter and has 16 in Strength but used a club for roleplaying reasons. Can I give it advantage on a Strength check?",
+    "answer": "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.",
+    "rules": [
+      "Equipment > Adventuring Gear > Crowbar",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This depends on the item and the situation."
+  },
+  {
+    "question": "If a level 1, non-variant human has 10 levels of exhaustion, what happens?",
+    "answer": "The character dies.",
+    "rules": [
+      "Appendix PH-A: Conditions > Exhaustion"
+    ],
+    "rules_explanation": "A character with 6 levels of exhaustion dies."
+  },
+  {
+    "question": "If a Small Halfling is making a melee attack with a heavy weapon, does it have disadvantage on the attack roll?",
+    "answer": "Yes, Small characters have disadvantage on attack rolls with heavy weapons.",
+    "rules": [
+      "Races > Racial Traits > Size",
+      "Equipment > Weapons > Weapon Properties > Heavy"
+    ],
+    "rules_explanation": "The rules for heavy weapons say small creatures have disadvantage, and the Size trait in racial traits points to that rules entry."
+  },
+  {
+    "question": "A 2nd level Wizard casts the spell *message*. Can they transmit the message through a lead lined door?",
+    "answer": "No, according to the spell description, lead blocks the spell.",
+    "rules": [
+      "Spell Descriptions > Message"
+    ],
+    "rules_explanation": "The spell description contains specific limits on range and what can block the spell."
+  },
+  {
+    "question": "A level 1 Barbarian is raged and has taken 15 slashing damage. Does this end their rage?",
+    "answer": "The barbarian's rage doesn't end from taking damage. The rage only ends if their turn ends and they have neither attacked a hostile creature since their last turn nor taken damage since then.",
+    "rules": [
+      "Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The rule details the requirements for the end of Rage."
+  },
+  {
+    "question": "How often can a level 1 barbarian use rage?",
+    "answer": "According to the Rage column in the Barbarian table, a 1st-level barbarian can rage twice between long rests.",
+    "rules": [
+      "Barbarian > The Barbarian table",
+      "Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The number of rages is explicitly stated in the table, and the rule for Rage specifies that expended rages are recovered on a long rest."
+  },
+  {
+    "question": "Is an object with vulnerability to fire damage immune to being ignited?",
+    "answer": "No, Objects are not explicitly immune to being ignited. Some of the spells say whether the object will be ignited or not.",
+    "rules": [
+      "Adventuring > Objects"
+    ],
+    "rules_explanation": "The vulnerability and immunities of objects is discussed."
+  },
+  {
+    "question": "A level 1 Aasimar Paladin casts bless on themself and two party members. How long does this bonus last?",
+    "answer": "The duration is up to 1 minute. The Paladin must maintain concentration on the spell.",
+    "rules": [
+      "Spell Descriptions > Bless",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The duration of Bless says it lasts 'Concentration, up to 1 minute'. Spells that require concentration require the caster to 'maintain concentration in order to keep their magic active'. "
+  },
+  {
+    "question": "What happens to the bodies of creatures that a 6th level necromancer causes to become ghouls with the create dead spell?",
+    "answer": "The spell states that the 'Each corpse becomes a ghoul under your control'. Therefore, the bodies are transformed.",
+    "rules": [
+      "Spell Descriptions > Create Undead"
+    ],
+    "rules_explanation": "The spell's description spells out what happens to the corpses."
+  },
+  {
+    "question": "What's 8 silver pieces in copper pieces?",
+    "answer": "80 copper pieces.",
+    "rules": [
+      "Equipment"
+    ],
+    "rules_explanation": "1 silver piece is worth 10 copper pieces. The rules for equipment lists the values of the coins."
+  },
+  {
+    "question": "If a character is the target of two simultaneous fireballs, do they make two saving throws, or just one? And if both are failed, do they take damage from both?",
+    "answer": "The character makes separate saving throws and takes damage from both.",
+    "rules": [
+      "Spellcasting > Combining Magical Effects",
+      "Combat > Making an Attack > Resolve the attack"
+    ],
+    "rules_explanation": "Multiple effects are combined, and for each attack, a saving throw must be made. The outcomes of the dice rolls are separate."
+  },
+  {
+    "question": "If the players take a one-hour short rest, do they automatically get another 5 hit points?",
+    "answer": "No, spending one or more Hit Dice at the end of a short rest is required for Hit Point recovery.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The text details the requirements for short rests and healing. "
+  },
+  {
+    "question": "A 1st-level character has 2 spell slots. Can they cast a 2nd-level spell?",
+    "answer": "No, to cast a spell, the character must expend a slot of the spell's level or higher. Since the character does not have a second level spell slot, they cannot cast the spell at that level.",
+    "rules": [
+      "Spellcasting > Spell Slots"
+    ],
+    "rules_explanation": "To cast a spell of a specific level, a character needs a spell slot of that level, and the spell must be in the set of prepared spells."
+  },
+  {
+    "question": "Can you use a reaction after the effect?",
+    "answer": "A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's.",
+    "rules": [
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "The use of a reaction occurs when a trigger is activated."
+  },
+  {
+    "question": "If a large creature with a reach of 10 ft is making melee attacks against two adjacent medium creatures, can it target a point in between them?",
+    "answer": "The target of a melee or ranged attack is usually either one creature or one target, the difference being that a \"target\" can be a creature or an object.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks",
+      "Combat > Making an Attack > Ranged Attacks"
+    ],
+    "rules_explanation": "A point in space would be considered the attack of an object as opposed to that of a creature."
+  },
+  {
+    "question": "If a warlock is at level 2, can that warlock choose the feat Polearm Master?",
+    "answer": "Feats are not class features. You can forgo taking the Ability Score Improvement feature to take a feat of your choice instead. The choice is made at 4th level, and again at 8th, 12th, 16th, and 19th level.",
+    "rules": [
+      "Beyond 1st Level > Feats",
+      "Warlock > Warlock Level table"
+    ],
+    "rules_explanation": "A feat is not a class feature, but an alternative to Ability Score Improvement."
+  },
+  {
+    "question": "If a Wizard casts Minor Illusion and makes a cartoony Napoleon hat on Beau's head, is it there forever? Is it a solid, cartoony, real-world thing, or is it an illusion?",
+    "answer": "Physical interaction with the image reveals it to be an illusion, because things can pass through it.",
+    "rules": [
+      "Spell Descriptions > Minor Illusion"
+    ],
+    "rules_explanation": "The hat looks like a real hat but is an intangible image. You can choose to create a smell or light, but the object remains an illusion. "
+  },
+  {
+    "question": "If a level 5 character has Darkvision 60 ft and wears Goggles of Night, what is their Darkvision range?",
+    "answer": "The distance increases to 120 feet.",
+    "rules": [
+      "Equipment > Wondrous Items > Goggles of Night"
+    ],
+    "rules_explanation": "The goggles add to your pre-existing darkvision radius."
+  },
+  {
+    "question": "Can a halfling rogue who is hidden behind a medium creature make ranged attacks without revealing their position?",
+    "answer": "A lightfoot halfling can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.",
+    "rules": [
+      "Races > Halfling > Lightfoot > Naturally Stealthy"
+    ],
+    "rules_explanation": "Whether or not remaining hidden also requires that the medium creature provide at least half cover is up to the DM to decide."
+  },
+  {
+    "question": "Does the ritual casting time stack with the Casting Time to cast Teleportation Circle?",
+    "answer": "Yes, a ritual adds 10 minutes to the normal casting time, so the casting time becomes 11 minutes.",
+    "rules": [
+      "Spellcasting > Rituals"
+    ],
+    "rules_explanation": "The rules state that, 'The ritual version of a spell takes 10 minutes longer to cast than normal.'"
+  }
+]

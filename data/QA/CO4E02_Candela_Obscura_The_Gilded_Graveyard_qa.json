@@ -1,0 +1,19 @@
+[
+  {
+    "question": "A character with control of a fire elemental casts cone of cold targeting their own elemental. The target has fire immunity and cold vulnerability. How is damage calculated?",
+    "answer": "The target is immune to the fire damage and vulnerable to the cold damage. Calculate the damage normally, halving the fire damage to zero and doubling the cold damage.",
+    "rules": [
+      "Spellcasting > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The general damage rules state the vulnerabilities and resistance are applied after other adjustments so the fire immunity is applied to the cone of cold, followed by the cold vulnerability."
+  },
+  {
+    "question": "A character with a strength of 10 is attuned to Gauntlets of Ogre power. Their strength is replaced by 19. If another effect reduces the character's ability score by 5, what is the character's strength?",
+    "answer": "The character's Strength score would be 14. Since the Gauntlets of Ogre Power set the strength to a new value rather than granting a bonus the new value is effected by ability reductions unless there is another rule specifying this is not allowed.",
+    "rules": [
+      "Magic Items > Attunement",
+      "Using Ability Scores > Ability Scores and Modifiers"
+    ],
+    "rules_explanation": "The Gauntlets of Ogre Power set the wearer's Strength score to 19. This sets the base value that is modified later by the reduction effect."
+  }
+]

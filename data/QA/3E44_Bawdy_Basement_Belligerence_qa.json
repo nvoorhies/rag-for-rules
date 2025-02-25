@@ -1,0 +1,35 @@
+[
+  {
+    "question": "Can you make a stealth check to get to another character?",
+    "answer": "Yes.  You have to roll a stealth check to get to another character.",
+    "rules": [
+      "Combat > Movement and Position > Moving Around Other Creatures"
+    ],
+    "rules_explanation": "The rules indicate that you can move through another creatures space.  However, since the goal is to reach another character unseen, and there are enemy characters nearby, the DM has ruled that a stealth check must be made."
+  },
+  {
+    "question": "Does Mirror Image work against this kind of effect?",
+    "answer": "No, Mirror Image doesn't work on the bolt of lightning because it is an area effect and not an attack. \"Each time a creature targets you with an attack.\"",
+    "rules": [
+      "Spellcasting > Targets > Areas of Effect",
+      "Spell Descriptions > Mirror Image"
+    ],
+    "rules_explanation": "The spell description for mirror image states that it works only when a creature targets you with an attack. An area of effect like a lightning bolt is not an attack."
+  },
+  {
+    "question": "Can you use Silvery Barbs on a melee attack?",
+    "answer": "Yes, Silvery Barbs can be used on any d20 roll.   It is not a natural 20 because the target rerolled the attack.",
+    "rules": [
+      "Spell Descriptions > Silvery Barbs"
+    ],
+    "rules_explanation": "The question of whether the spell can be cast is ambiguous.  The rules state \"When another creature you can see within 60 feet of you makes an attack roll, an ability check, or a saving throw, you can use your reaction to impose disadvantage on the roll, and you choose one creature other than the one that made the roll to have advantage on the next attack roll, ability check, or saving throw it makes before the end of your next turn.\"  The casting requirements are met.  The spell will work."
+  },
+  {
+    "question": "How many attacks are allowed on this type of enemy?",
+    "answer": "Attack, attack, bonus action attack.",
+    "rules": [
+      "Classes > Rogue > Cunning Action"
+    ],
+    "rules_explanation": "Cunning Action grants a bonus action to Dash, Disengage, or Hide. As a Rogue, unless there's a special ability, there's normally one Attack that can be made."
+  }
+]

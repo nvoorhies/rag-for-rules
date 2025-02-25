@@ -1,0 +1,91 @@
+[
+  {
+    "question": "A level 8 Observer wizard with the Observant feat is trying to read lips in low light at a distance. Does being in low light impose disadvantage on the perception check? If so, what adjustments need to be made?",
+    "answer": "Yes, low light conditions impose disadvantage on perception checks. To account for this, the wizard will roll a perception check with disadvantage.",
+    "rules": [
+      "Adventuring > Vision and Light > Dim Light",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Dim light imposes disadvantage on Wisdom (Perception) checks that rely on sight. The player must roll the check with disadvantage, using the lower of the two d20 rolls."
+  },
+  {
+    "question": "A character at level 4 casts *telekinesis* at a level 1 NPC and attempts to throw the NPC into a snowdrift. What saving throw does the NPC make?",
+    "answer": "The NPC must make a Strength saving throw.",
+    "rules": [
+      "Spell Descriptions > Telekinesis"
+    ],
+    "rules_explanation": "The *telekinesis* spell says the target must make a saving throw using its Strength stat."
+  },
+  {
+    "question": "A character is using telekinesis to move a target, and another player wants to assist. Does the helping character grant advantage on the roll, or something else?",
+    "answer": "An ability check made using Telekinesis is not an action which another player can assist.",
+    "rules": [
+      "Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "Characters are allowed to assist each other with an ability check to perform a task. However, the use of telekinesis for combat reasons or moving a person against its will in this manner, there is no opportunity for another character to provide assistance."
+  },
+  {
+    "question": "The party is considering teleporting away from their current location to a spot described as a 'dangerous roll of the dice'. What specifically are the dangers of teleporting in this situation?",
+    "answer": "Sometimes it can send you to a place you have no idea where it intended to bring you. It could drop you in the middle of nowhere or it can tear you apart.",
+    "rules": [],
+    "rules_explanation": "Matt simply describes what COULD happen but does not use a rules citation to do so, nor does he tell us which spell they are using for Teleportation (or what effect might be causing the chance of failure.)"
+  },
+  {
+    "question": "A character casts See Invisibility. What check if any is required to see something?",
+    "answer": "A perception check is required.",
+    "rules": [
+      "Spell Descriptions > See Invisibility"
+    ],
+    "rules_explanation": "The character may need to take a perception check, as Matt requires, to see something with invisibility even though it is cast."
+  },
+  {
+    "question": "Can the party benefit from both guidance and enhanced ability if they are both concentration spells?",
+    "answer": "No, only one concentration spell can be in effect at any given time.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The spellcasting rules state that a character can only concentrate on one spell at a time. Casting another spell that requires concentration will end the concentration on the first spell."
+  },
+  {
+    "question": "The group is in an encampment controlled by the Cerberus Assembly. Can they simply take equipment and lodging?",
+    "answer": "Yes, the Cerberus Assembly is paying for the outpost.",
+    "rules": [],
+    "rules_explanation": "This is a world/plot fact."
+  },
+  {
+    "question": "At level 14, can a paladin multi-class into another class without issue?",
+    "answer": "Yes, as long as the paladin meets the ability score requirements for both the paladin class, and the desired class.",
+    "rules": [
+      "Multiclassing > Prerequisites"
+    ],
+    "rules_explanation": "The Mutliclassing rules say that a character can add a level to a class as long as they meet the ability requirements."
+  },
+  {
+    "question": "A level 14 paladin casts Major Image to appear as someone else, does the image sound like the paladin or does it copy someone else's voice?",
+    "answer": "The image doesn't make any sound.",
+    "rules": [
+      "Spell Descriptions > Major Image"
+    ],
+    "rules_explanation": "The Major Image spells states it seems completely real, including sounds, smells, and temperature appropriate to the thing depicted."
+  },
+  {
+    "question": "A level 4 spell can be cast from the ring but a bonus action is required to use this feature, but is it still considered the paladin’s per diem?",
+    "answer": "Per Diem does not appear in any of the core rules for dnd.",
+    "rules": [],
+    "rules_explanation": "Per diem is not a rule from dnd 5e SRD"
+  },
+  {
+    "question": "If a 20th level Storm Sorcerer succeeds on an intimidation check, what is the likely result?",
+    "answer": "The rules for Intimidation checks do not vary depending on the level of the character, but rather it depends on the circumstances.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules are the same to roll intimidation for any level 20 as it would be at level 1."
+  },
+  {
+    "question": "What if I just rub a thumb on an injury that is not superficial?",
+    "answer": "The rules do not state that rubbing an injury will help it or hurt it. However, there are some injuries like if they are poisoned or diseased, they are now being removed.",
+    "rules": [],
+    "rules_explanation": "The book states to find any medical rule here to show how to role play. It would be the discretion of the DM to have this occur."
+  }
+]

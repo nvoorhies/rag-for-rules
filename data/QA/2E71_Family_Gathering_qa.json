@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Can the level 6, level 1, level 1, level 1, level 1, level 1, level 1 level 8  class character make a Persuasion check, and if so, what ability modifier is used?",
+    "answer": "A Persuasion check uses a Charisma modifier. The prompt lacks the Charisma modifier.",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question is asking the mechanics of ability checks. The SRD provides that any ability check uses the appropriate ability modifier of the character making the check. I am including a disclaimer because the prompt does not specify what that modifier is."
+  },
+  {
+    "question": "What happens on a Persuasion check with a roll of eight?",
+    "answer": "If the roll is a eight the character will have to rely on their ability modifier and any other bonuses to exceed the target DC. If the total is equal to or exceeds the Difficulty Class, the ability check is a success",
+    "rules": [
+      "Ability Scores > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question is asking the mechanics of ability checks. The SRD provides that any ability check uses the appropriate ability modifier of the character making the check, and success is determined by comparing the final result to a target value."
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "question": "A level 4 character makes a nature check, or a perception check, or survival check, to estimate distance, which is appropriate?",
+    "answer": "It depends on the GM to assess whether Section > Subsection > Ability Checks is called for. Given the need to assess distance from observations of terrain features, a Perception check is appropriate. The GM might also allow a Nature check",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM determines which ability check is appropriate for the task."
+  },
+  {
+    "question": "How does Teleport work?",
+    "answer": "The rules for teleport spells are specified in each spell description. The rules generally cover a number of targets, range, casting times, and effects of a successful or failed teleport. It may or may not specify the nature of required familiarity",
+    "rules": [
+      "Spellcasting > What is a Spell?",
+      "Spell Descriptions > Teleport",
+      "Spell Descriptions (and other teleport-related spells)"
+    ],
+    "rules_explanation": "The question asks for a general description of the Teleport spell, this information is found in the Spellcasting section and the descriptions for spells such as Teleport"
+  },
+  {
+    "question": "What size is a large beast, a Giant Toad?",
+    "answer": "A large beast occupies a space of 10 feet by 10 feet.",
+    "rules": [
+      "Monsters > Size",
+      "Monsters > Size Categories"
+    ],
+    "rules_explanation": "The entry for size categories details how much space a creature of each size occupies."
+  },
+  {
+    "question": "What is the range and damage of the Chill Touch cantrip?",
+    "answer": "The specific effects of this cantrip are not stated in the SRD. The caster should reference the full spell description, to determine range and damage.",
+    "rules": [
+      "Spellcasting > What is a Spell?",
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "The question requests details of a spell which should be specified in the spell's description"
+  },
+  {
+    "question": "What are the rules for casting Pass Without a Trace?",
+    "answer": "The specific rules for this spell are not stated in the SRD. The caster should reference the full spell description, to determine range, duration, and if the spell requires Concentration.",
+    "rules": [
+      "Spellcasting > What is a Spell?",
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "The question requests details of a spell which should be specified in the spell's description"
+  },
+  {
+    "question": "What is the difficulty class for an athletics check to try and swim to the shore in a river with a current?",
+    "answer": "The GM determines the Difficulty Class for an ability check. It is determined by the difficulty of the task.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question asks about the DC of a contested action, this is up to the GM's discretion and is not set by a hard rule."
+  },
+  {
+    "question": "If a level 12 character has an acrobatics score of +2 and rolls a seven, what is the result of the check?",
+    "answer": "The result of the ability check is 9.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To resolve an ability check, you roll a d20 and add the relevant ability modifier and proficiency bonus. The character does not say if they are proficient in acrobatics so the score is 7 + 2 = 9"
+  },
+  {
+    "question": "How does Speak With Animals work?",
+    "answer": "The specific rules for this spell are not stated in the SRD. The caster should reference the full spell description, to determine range, duration, and if the spell requires Concentration.",
+    "rules": [
+      "Spellcasting > What is a Spell?",
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "The question requests details of a spell which should be specified in the spell's description"
+  },
+  {
+    "question": "What are the rules for Turn Undead?",
+    "answer": "The rules for this ability are specified in the description for Channel Divinity > Turn Undead.",
+    "rules": [
+      "Cleric > Class Features > Channel Divinity > Turn Undead"
+    ],
+    "rules_explanation": "Turn Undead is a Channel Divinity feature. The rules for this feature are found under the Channel Divinity rules."
+  },
+  {
+    "question": "If a Warlock is level 13, how many eldritch blasts can the warlock fire?",
+    "answer": "The number of beams from the Eldritch Blast cantrip is governed by the character's level. At level 11, the warlock can fire 3 beams. At level 17, the warlock can fire 4 beams. Therefore at level 13, they can fire 3 beams.",
+    "rules": [
+      "Warlock > Pact Magic",
+      "Spell Descriptions > Eldritch Blast"
+    ],
+    "rules_explanation": "The number of blasts fired by the Eldritch Blast cantrip is determined by the Warlock level."
+  },
+  {
+    "question": "Can a Warlock use a ranged spell attack to perform Chill Touch?",
+    "answer": "The details of this spell effect are not stated in the SRD and are governed by the spell description. If the spell has the melee tag it would not be usable at range. If it has the ranged tag it would be usable at range. If it has neither, the GM may make a ruling.",
+    "rules": [
+      "Spellcasting > What is a Spell?",
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "What a roll is tagged as determines how it is resolved using standard rules."
+  },
+  {
+    "question": "If a character takes 9 points of necrotic damage while sleeping, is that necrotic damage reduced by being a Hollow One?",
+    "answer": "If a creature has resistance to a damage type, damage of that type is halved against it.",
+    "rules": [
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "Resistance is defined as halving damage."
+  },
+  {
+    "question": "If a character has 91 hit points and takes 9 necrotic damage and gains +8, what is the remaining hit point total?",
+    "answer": "The character would have 90 hit points, 91+8-9=90",
+    "rules": [
+      "Damage and Healing > Hit Points"
+    ],
+    "rules_explanation": "Gaining Temporary Hit Points: If you have temporary hit points and take damage, the temporary hit points are lost first, and any leftover damage carries over to your normal hit points"
+  },
+  {
+    "question": "What happens when characters end their watch?",
+    "answer": "The rule is not explained in the SRD, it depends on the GM.",
+    "rules": [],
+    "rules_explanation": "This event is up to the GM, and there are no explicit rules associated with this event."
+  },
+  {
+    "question": "How do you assist another character in D&D?",
+    "answer": "When two or more characters team up to attempt a task, the character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "This section describes how one character can assist another"
+  },
+  {
+    "question": "Can you use Eyes of the Runekeeper to read a certain kind of language?",
+    "answer": "The specifics of Eldritch invocations are not available in the SRD and are governed by the spell description. You can only read those languages that the invocation allows.",
+    "rules": [
+      "Spellcasting > What is a Spell?",
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "The features of invocations are defined in their spell descriptions."
+  },
+  {
+    "question": "Given the distances of the journey, how much time should remain before sunlight?",
+    "answer": "There are no rules about the time remaining before sunlight. This is for the GM to decide and narrate to the players.",
+    "rules": [],
+    "rules_explanation": "This event is up to the GM, and there are no explicit rules associated with this event."
+  },
+  {
+    "question": "What do you roll when people clamber across a fixed rope?",
+    "answer": "Because of the affixed rope at the two points, it's a far lower DC, so you're all rolling athletics.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM determines which ability check is appropriate for the task"
+  },
+  {
+    "question": "When casting a spell, is it possible to fail while falling?",
+    "answer": "Concentration spells in extremely dire circumstances, like being buffeted by heavy winds from a fall might require concentration checks",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "This is from the area concentration. The GM could request that you roll a concentration check if the circumstances are dire."
+  },
+  {
+    "question": "Do you need line of sight to use telekinetic pull?",
+    "answer": "The details of this spell effect are not stated in the SRD and are governed by the spell description. The description should specify if line of sight is required.",
+    "rules": [
+      "Spellcasting > What is a Spell?",
+      "Spell Descriptions"
+    ],
+    "rules_explanation": "The need for line of sight is defined in the specific spell's rules description."
+  },
+  {
+    "question": "What is a d4?",
+    "answer": "A d4 is a four-sided die, used to generate a random number from 1 to 4.",
+    "rules": [],
+    "rules_explanation": "This is part of the assumed knowledge of using dice to roll a value between 1 and 4."
+  },
+  {
+    "question": "Does Guidance use a d4, d6, or d8?",
+    "answer": "Guidance is a d4",
+    "rules": [],
+    "rules_explanation": "This is part of the assumed knowledge of using dice to roll a value between 1 and 4."
+  },
+  {
+    "question": "What kind of damage is a ball bearing?",
+    "answer": "A ball bearing is a Thrown weapon that uses the ammunition property, the type of damage is for the GM to decide. The GM assigns a damage type appropriate to the object.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Ammunition",
+      "Equipment > Weapons > Improvised Weapons"
+    ],
+    "rules_explanation": "A ball bearing is ammunition for a sling. However, the rule is, if you use a ranged weapon to make a melee attack, it also deals 1d4 damage, and the GM assigns a damage type appropriate to the object."
+  },
+  {
+    "question": "What is the check for investigating what kind of fish has been caught?",
+    "answer": "Investigation or nature, your choice.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM determines which ability check is appropriate for the task"
+  },
+  {
+    "question": "Is it possible to discern the age of an object based on how long it's been sedentary?",
+    "answer": "Make an investigation check, if you want to take a look at it. What its age may be.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM determines which ability check is appropriate for the task"
+  },
+  {
+    "question": "To find the right way, technically, is Find the Path the path of least resistance?",
+    "answer": "Technically.",
+    "rules": [],
+    "rules_explanation": "This is a role-play answer"
+  },
+  {
+    "question": "What dice do you roll when you use the spellcraft Telekinetic Pull?",
+    "answer": "Roll a d20, add your spellcraft modifier or your spell.",
+    "rules": [],
+    "rules_explanation": "That was a ruling made by the GM in this context."
+  },
+  {
+    "question": "The two characters are leading the troop, can the character still assist",
+    "answer": "Yes",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "Two or more characters team up to attempt a task. The character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action."
+  },
+  {
+    "question": "Can a plus five hit and move at a regular speed using a Pass Without a Trace?",
+    "answer": "So you still make sound as you go, but if you choose to be stealthy, then you get the bonus to your stealth check. You also don't leave tracks, which is helpful for not being tracked, but you have to actively be stealthing in order to gain the bonus of additional stealth check.",
+    "rules": [],
+    "rules_explanation": "That was the GM's ruling in this context."
+  },
+  {
+    "question": "To discern the kinds of birds should you do a nature check?",
+    "answer": "Nature.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM determines which ability check is appropriate for the task"
+  },
+  {
+    "question": "If we find one large tree where it looks like it was either struck by lightning or something split it partway down, should we roll a survival or nature check?",
+    "answer": "Roll a survival or nature check to look for one that could possible.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM determines which ability check is appropriate for the task"
+  },
+  {
+    "question": "A character rolls a 14, what happens?",
+    "answer": "This is unknown without further context.",
+    "rules": [],
+    "rules_explanation": "This is unknown without further context, such as what check is being made."
+  },
+  {
+    "question": "Can anyone assist someone?",
+    "answer": "Yes",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "Two or more characters team up to attempt a task. The character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action."
+  },
+  {
+    "question": "When is it better to take investigation versus survival?",
+    "answer": "It depends on what you are attempting to find. Perception is for being alert to your surroundings. Investigation is for looking around for clues and making deductions based on those clues. Survival is for finding tracks and to follow tracks, but you have to actively be stealthing in order to gain the bonus of additional stealth check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "It depends on the context and what the character is trying to find or accomplish."
+  },
+  {
+    "question": "After the spell was used the question was asked \"Can you see in the dark?\" What was the purpose of the question?",
+    "answer": "The details are not stated in the SRD. It is not possible to tell from the context.",
+    "rules": [],
+    "rules_explanation": "The details are not stated in the SRD. It is not possible to tell from the context."
+  },
+  {
+    "question": "You're a large creature with a large wingspan, does that mean you have advantage on acrobatics?",
+    "answer": "The details are not stated in the SRD. It is not possible to tell from the context.",
+    "rules": [],
+    "rules_explanation": "There is nothing in the SRD that specifies this case."
+  },
+  {
+    "question": "If we are using the ring right now, you activate it, what can we do with it?",
+    "answer": "The rules for the ring are not stated in the SRD. A description for a ring that allows the wearer to lift up to a certain weight is not detailed, and it depends on the GM.",
+    "rules": [
+      "Magic Items > Rings",
+      "Magic Items > Specific Magic Items"
+    ],
+    "rules_explanation": "There is nothing in the general magic item description or specific magic item descriptions relating to such a ring, but such rings can be created by a GM with the effects specified."
+  },
+  {
+    "question": "Does necrotic damage stay gone?",
+    "answer": "It heals up with your morning time.",
+    "rules": [
+      "Damage and Healing > Hit Points"
+    ],
+    "rules_explanation": "A creature that has died can't regain hit points until magic has restored it to life"
+  },
+  {
+    "question": "What kind of save do you do if something shoots you?",
+    "answer": "It depends on the attack, the rules are specified in the spell or ability description.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "For effects other than spells, the description that causes the saving throw specifies which ability it uses."
+  },
+  {
+    "question": "I'm going to use Find the Path, but I think technically, the spell says we have to have something from the place that we're going. Should I use the blood of someone?",
+    "answer": "A spell's components are the physical requirements you must meet in order to cast it. Each spell's description indicates whether it requires verbal (V), somatic (S), or material (M) components. If you can't provide one or more of a spell's components, you are unable to cast the spell.",
+    "rules": [
+      "Spellcasting > Components"
+    ],
+    "rules_explanation": "The rules say that to cast it, you need the material object"
+  }
+]

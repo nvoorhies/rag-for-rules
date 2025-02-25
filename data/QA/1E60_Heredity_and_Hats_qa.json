@@ -1,0 +1,154 @@
+[
+  {
+    "question": "The level 8 Ranger (Vex'ahlia) has a 27 on an insight check to determine if the NPC (Syldor) is lying.  Is this a successful check?",
+    "answer": "The rules do not determine whether a check is successful or not.  This is a DM determination, based on the DC. The rules specify what is added to the roll, and what determines advantage or disadvantage. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM determines whether the total of the roll plus modifiers equals or exceeds the DC of the check."
+  },
+  {
+    "question": "The level 3 Barbarian (Grog) rolled a 19 on a Perception check.  How does this affect whether he sees the bedroom that the High Warden may have been in?",
+    "answer": "The rules do not determine whether a check is successful or not.  This is a DM determination, based on the DC. The rules specify what is added to the roll, and what determines advantage or disadvantage. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM determines whether the total of the roll plus modifiers equals or exceeds the DC of the check."
+  },
+  {
+    "question": "The level 4 druid (Keyleth) did a 'little gust cantrip from behind the door to make her hair blow in the wind'. Is this allowed?",
+    "answer": "There are no rules about acting to make someone else's hair blow in the wind. Rules covering this would need to address visibility and area of effect of the spell.",
+    "rules": [
+      "Spellcasting > Range",
+      "What is a spell?"
+    ],
+    "rules_explanation": "This would depend on the range of the chosen spell and the conditions of who it targets and whether it targets a point within range. If no target is picked, then no roll is made and it is up to DM interpretation whether the action has any effect."
+  },
+  {
+    "question": "The level 8 gunslinger (Percival) and level 4 druid (Keyleth) are investigating, what is the result if his roll is a 9, and hers is a natural 1 with an adjusted total of 28?",
+    "answer": "The rules do not determine whether a check is successful or not.  This is a DM determination, based on the DC. The rules specify what is added to the roll, and what determines advantage or disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM determines whether the total of the roll plus modifiers equals or exceeds the DC of the check."
+  },
+  {
+    "question": "The level 8 gunslinger (Percival) has a plan. It's not fake, it's a good plan. He says schedulable! The level 4 druid (Keyleth) does a little gust cantrip from behind the door to make her hair blow in the wind. Is this allowed?",
+    "answer": "There are no rules about acting to make someone else's hair blow in the wind. Rules covering this would need to address visibility and area of effect of the spell.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "This would depend on the range of the chosen spell and the conditions of who it targets and whether it targets a point within range. If no target is picked, then no roll is made and it is up to DM interpretation whether the action has any effect."
+  },
+  {
+    "question": "The level 8 Ranger (Vex'ahlia) rolled a 1 on a perception check looking for markings. What happens?",
+    "answer": "The rules do not determine whether a check is successful or not.  This is a DM determination, based on the DC. The rules specify what is added to the roll, and what determines advantage or disadvantage. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM determines whether the total of the roll plus modifiers equals or exceeds the DC of the check."
+  },
+  {
+    "question": "The level 4 druid (Keyleth) is trying to do a nature check on one of the bones to see if she can identify where it came from. If she rolls a 28 what is the result?",
+    "answer": "The rules do not determine whether a check is successful or not.  This is a DM determination, based on the DC. The rules specify what is added to the roll, and what determines advantage or disadvantage. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM determines whether the total of the roll plus modifiers equals or exceeds the DC of the check."
+  },
+  {
+    "question": "The level 4 Ranger (Vex'ahlia) is falling, is she able to use the broom of flying to stop it?",
+    "answer": "Whether or not a character can use an object in a particular way is a DM ruling. Using an object requires an action. You can use a reaction to stop falling.",
+    "rules": [
+      "Combat > Your Turn > Other Activity on Your Turn",
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "An object is a discrete, inanimate item. An object's hit points measure how much damage it can take before losing its structural integrity. Some objects require actions to use, such as the Use and Object action."
+  },
+  {
+    "question": "The level 4 ranger (Vex'ahlia) makes a strength check and rolls a 5, does that allow her to keep hold of the broom of flying?",
+    "answer": "The rules do not determine whether a check is successful or not.  This is a DM determination, based on the DC. The rules specify what is added to the roll, and what determines advantage or disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM determines whether the total of the roll plus modifiers equals or exceeds the DC of the check."
+  },
+  {
+    "question": "The level 4 ranger (Vex'ahlia) wants to do an arcana check to see if there's anything magic in the room, how does that roll happen?",
+    "answer": "To make an ability check, roll a d20 and add the relevant ability modifier, plus the proficiency bonus if proficient. Compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success--the creature overcomes the challenge at hand. If the task relates to the Arcana skill the intelligence modifier would be used.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills"
+    ],
+    "rules_explanation": "Arcana is listed as a skill related to the intelligence ability score."
+  },
+  {
+    "question": "The level 4 ranger (Vex'ahlia) does an arcana check to see if there's anything magic in the room and rolls off the table to a total of 16, has she found any magic?",
+    "answer": "The rules do not determine whether a check is successful or not.  This is a DM determination, based on the DC. The rules specify what is added to the roll, and what determines advantage or disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM determines whether the total of the roll plus modifiers equals or exceeds the DC of the check."
+  },
+  {
+    "question": "The level 4 ranger (Vex'ahlia) attempts a deception check, what's the result if she rolls a 10?",
+    "answer": "The rules do not determine whether a check is successful or not.  This is a DM determination, based on the DC. The rules specify what is added to the roll, and what determines advantage or disadvantage. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM determines whether the total of the roll plus modifiers equals or exceeds the DC of the check."
+  },
+  {
+    "question": "The guards want the Lady Vex'ahlia and the level 5 rogue (Scanlan) to make deception checks. If she rolls a 10 and he rolls a natural 20, but the first roll was a 6 and has to be used, what is the final modifier?",
+    "answer": "You can use the higher roll of the two dice, in this case 20. After adding the rogue's charisma modifier, you get the final modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Rogue > Reliable Talent"
+    ],
+    "rules_explanation": "The question requires that the higher of the two numbers is used due to Reliable Talent, so this adjustment is made before calculating the total"
+  },
+  {
+    "question": "Does the faun suffer any disadvantage on the deception check if they didn't sleep last night?",
+    "answer": "Yes, the faun would have disadvantage on the deception check because you didn't sleep.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "If you are in a situation where something gives you a disadvantage, such as not sleeping, you use the lower of the two rolls when making the roll. This roll is a deception check."
+  },
+  {
+    "question": "The level 5 rogue (Scanlan) rolls a natural 20 to deceive the High Warden about hat collecting. Does he succeed?",
+    "answer": "The rules do not determine whether a check is successful or not.  This is a DM determination, based on the DC. The rules specify what is added to the roll, and what determines advantage or disadvantage. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM determines whether the total of the roll plus modifiers equals or exceeds the DC of the check."
+  },
+  {
+    "question": "Does the level 4 ranger (Vex'ahlia) see any markings with a natural roll of 1.",
+    "answer": "The rules do not determine whether a check is successful or not.  This is a DM determination, based on the DC. The rules specify what is added to the roll, and what determines advantage or disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM determines whether the total of the roll plus modifiers equals or exceeds the DC of the check."
+  },
+  {
+    "question": "If damage reduces the level 4 ranger (Vex'ahlia) and the level 4 druid (Keyleth) to zero hit points, can you provide a healing spell and use it?",
+    "answer": "Yes, you can cast the Healing Word spell as a bonus action.",
+    "rules": [
+      "Spellcasting > Casting time > Bonus Action"
+    ],
+    "rules_explanation": "This spell takes a bonus action to cast"
+  }
+]

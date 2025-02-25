@@ -1,0 +1,439 @@
+[
+  {
+    "question": "A 1st-level *[CLASS]* casts *command* on a creature that is made of clay, compelling it to grovel. What saving throw does the target make?",
+    "answer": "The target makes a Wisdom saving throw with a DC of 8 + the *[CLASS]*'s proficiency bonus + the *[CLASS]*'s Charisma modifier.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability",
+      "Cleric > Spellcasting > Spell save DC"
+    ],
+    "rules_explanation": "The *command* spell text dictates that a Wisdom saving throw must be made, and the Cleric rules indicate that the DC for a spell is \"8 + your proficiency bonus + your Wisdom modifier\""
+  },
+  {
+    "question": "A 1st-level *[RACE]* casts *command* on two creatures. The creatures must make what saving throw?",
+    "answer": "The creatures must make a DC 15 Wisdom saving throw.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability",
+      "Cleric > Spellcasting > Spell save DC"
+    ],
+    "rules_explanation": "The players ask about the saving throw that is required by the command spell, and the DM says the DC is 15."
+  },
+  {
+    "question": "If a player has the *command* spell active and wants to know if being attacked would break the spell, what information would be relevant?",
+    "answer": "The spell description describes what happens when the target is attacked. The command spell description says the charmed creature regards you as a friendly acquaintance. The target can repeat the saving throw each time the you or your companions do anything harmful to the target",
+    "rules": [
+      "Spellcasting > Duration",
+      "Appendix PH-A: Conditions > Charmed"
+    ],
+    "rules_explanation": "The question asks what happens when a creature is attacked, so the rules from the Duration section of the command spell are relevant."
+  },
+  {
+    "question": "Does the *command* spell count as a charm, and if so, what effect does that have?",
+    "answer": "That information isn't available in the spell description.",
+    "rules": [
+      "Appendix PH-A: Conditions > Charmed"
+    ],
+    "rules_explanation": "The charmed condition is explained in Appendix A, so looking there would give information about whether or not it applied, however the gamemaster states that all it does is it changes the action they take on their next turn."
+  },
+  {
+    "question": "Does a prone creature have a disadvantage on all attacks?",
+    "answer": "Prone creatures have disadvantage on attack rolls.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The gamemaster checks the text about the prone condition to see if it imposes a general disadvantage on attacks."
+  },
+  {
+    "question": "Does a target have an attack of opportunity if it is prone?",
+    "answer": "Whether an attack of opportunity can be made by a prone target is not covered by the rules for the Prone condition",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "It must be determined by the game master."
+  },
+  {
+    "question": "Does a character have advantage on attack rolls against a prone target?",
+    "answer": "Attack rolls against a prone creature within 5 feet have advantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The rules for the prone condition say that attack rolls against the creature have advantage if the attacker is within 5 feet of the creature."
+  },
+  {
+    "question": "Do prone creatures have a disadvantage on ranged attacks?",
+    "answer": "There is no disadvantage applied to ranged attacks by a prone creature.",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The DM reads the definition of the prone condition."
+  },
+  {
+    "question": "Can a bonus action be used for mister's Flame Seed?",
+    "answer": "It must be determined by the game master",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for getting and using Mister are being determined by the game master at that time."
+  },
+  {
+    "question": "Does sympathetic binding use temporary hitpoints?",
+    "answer": "The bonded creature receives temporary hit points.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The description of the effect is being determined by the game master."
+  },
+  {
+    "question": "With temporary hit points, do additional applications stack?",
+    "answer": "Temporary hit points do not stack.",
+    "rules": [
+      "Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "The rules specify: Temporary hit points are a buffer against damage. Healing can't restore temporary hit points, and they can't be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones."
+  },
+  {
+    "question": "Does an effect such as Blinded impose a 10 foot range?",
+    "answer": "The text of that condition should be checked.",
+    "rules": [
+      "Appendix PH-A: Conditions > Blinded"
+    ],
+    "rules_explanation": "While some special senses such as Blindsight have a stated range, the range of the blinded condition must be checked by reading the text.  The DM must have the rule present to confirm and answer the question."
+  },
+  {
+    "question": "Is that an action or a bonus action?",
+    "answer": "That information should be in the description of the ability.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This question has to do with the particulars of a game-master-created ability or homebrew rules, which will be the basis for determining the nature of the action required."
+  },
+  {
+    "question": "What happens to Rage if the character does not do damage?",
+    "answer": "If the character does not take damage or deal damage, they drop rage.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "The rules state, \"Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then.\""
+  },
+  {
+    "question": "Does Dispel Magic temporarily dispel a magical item?",
+    "answer": "Magical items themselves technically cannot be dispelled. Their general effect and nature cannot be dispelled. But if a spell casts, like, fog cloud, you can dispel the fog cloud that it creates.",
+    "rules": [
+      "Spell Descriptions > Dispel Magic"
+    ],
+    "rules_explanation": "The rules for Dispel Magic are used to clarify what it affects."
+  },
+  {
+    "question": "In situations where a character doesn't know if the space they're walking into is dangerous, can the party choose to not check for traps until afterwards?",
+    "answer": "It must be determined by the game master, depending on their decision about the world and how it works.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Because the question has to do with in-game events, the game master will have to make a judgement call about it."
+  },
+  {
+    "question": "Does the 10 feet of range from Sympathetic Binding allow FCG to be right next to the other character?",
+    "answer": "The sympathetic Binding does not imply melee or adjacent distances. A 10 foot distance applies.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The gamemaster is stating rules about his own creation, and they are not explicit in the rules."
+  },
+  {
+    "question": "Because the recklessly attacking character has advantage, do creatures 10ft away get a D4 to hit?",
+    "answer": "10 feet applies a d4 to attacks.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A player is trying to see if some game master created rules still apply after taking the attack action."
+  },
+  {
+    "question": "What does the Grovel command spell say specifically?",
+    "answer": "\"The target falls prone and then ends its turn.\"",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The description of a spell is referenced to understand the exact details."
+  },
+  {
+    "question": "If a character is knocked down but catches himself, does that reaction still count?",
+    "answer": "No",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The specific rules of how this monster trait is determined by the game master."
+  },
+  {
+    "question": "What does the Dodge action do?",
+    "answer": "When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.",
+    "rules": [
+      "Combat > Actions in Combat > Dodge"
+    ],
+    "rules_explanation": "A character is determining the utility of an action, so the dodge rule is used."
+  },
+  {
+    "question": "With a monster that is 8ft wide, can it move through a doorway that is smaller? Or can the T-1000 squeeze through?",
+    "answer": "The doorway is large enough for two people to squeeze past. It's about an eight/nine foot space. They're a bit wider than that, but you've seen the way their physicality shifts. They can probably squeeze through.",
+    "rules": [
+      "Movement and Position > Squeezing into a Smaller Space"
+    ],
+    "rules_explanation": "The game master has to decide whether the monsters can fit or not. It's likely that they are using the rule for Small Spaces on page 192 of the Player's Handbook:  \"A creature can squeeze through a space that is large enough for a creature one size smaller than it.\""
+  },
+  {
+    "question": "If they're in the doorway, do they not take an attack of opportunity on me, or no?",
+    "answer": "No, they would. Yeah. So it's going to be at disadvantage for both of them.",
+    "rules": [
+      "Combat > Making an Attack > Opportunity Attacks",
+      "Appendix PH-A > Conditions > Prone"
+    ],
+    "rules_explanation": "Because they are prone, opportunity attacks are made at disadvantage. Also, moving into a space that's in reach of the monsters can provoke opportunity attacks."
+  },
+  {
+    "question": "With a Sorcery Point can Imogen Misty Step to the other side?",
+    "answer": "Misty Step is a bonus action spell, so it could be taken during her turn. Because it was not part of an action she can move",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions",
+      "Spell Descriptions > Misty Step"
+    ],
+    "rules_explanation": "Characters may take one bonus action on each of their turns. The Misty Step spell's description in the spell section of the SRD gives it a bonus action casting time"
+  },
+  {
+    "question": "What does Sacred Chariot have to use the magic?",
+    "answer": "Yes.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The specifics of homebrew rules must be stated and known by the DM to correctly make calls."
+  },
+  {
+    "question": "While prone, are they big enough that they wouldn't be able to fit through the door, or are they--",
+    "answer": "The doorway is large enough for two people to squeeze past. Like Ashton just did with Chetney. It's about an eight/nine foot space. They're a bit wider than that, but you've seen the way their physicality shifts. They can probably squeeze through.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master decides how easy it would be for a group to run through."
+  },
+  {
+    "question": "Is it possible to Dispel the rod?",
+    "answer": "It's different from dispelling a magical item or dispelling a magical effect that an item creates. Magical items themselves technically cannot. Their general effect and nature cannot be dispelled. But if like-- if a spell casts, like, fog cloud, you can dispel the fog cloud that it creates.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The question references an interpretation of Dispel Magic, and the game master clarifies the interpretation."
+  },
+  {
+    "question": "They're taking their reaction right now?",
+    "answer": "They have not used their reactions.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "It has to be known if the players used their reactions already before proceeding."
+  },
+  {
+    "question": "If you’re using as an action, can you dash?",
+    "answer": "You can dash as an action.",
+    "rules": [
+      "Combat > Actions in Combat > Dash"
+    ],
+    "rules_explanation": "Dash action allows you to move your movement speed again. The players needs to figure out what he can do and how it effects his movement"
+  },
+  {
+    "question": "Since Chetney is carrying more than his standard weight, you will have to make an athletics check to make this jump, but I believe you might have advantage on this one in your wolf form, so roll an athletics check.?",
+    "answer": "When carrying extra weight, you will need to make an Athletics Check to do your jump.",
+    "rules": [
+      "Using Ability Scores > Strength > Lifting and Carrying"
+    ],
+    "rules_explanation": "The DM states the rules about checking for jumping."
+  },
+  {
+    "question": "What do we do here? Do they not take an attack of opportunity on me, or no?",
+    "answer": "No, they would. Yeah. So it's going to be at disadvantage for both of them.",
+    "rules": [
+      "Combat > Making an Attack > Opportunity Attacks"
+    ],
+    "rules_explanation": "A character is unsure if they can move without drawing an Attack of Opportunity. The rules state an attack of opportunity can be made when a hostile creature leaves your reach, which would occur if the character left the room"
+  },
+  {
+    "question": "At the end of the turn, is it their whole turn or is it just the action that they use? What does the Grovel say, specifically?",
+    "answer": "\"The target falls prone and then ends its turn.\"",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The end of a round requires some action, so a rule is referred to and clarified."
+  },
+  {
+    "question": "If you have one action and the double jump with action surge, can you only do one?",
+    "answer": "It must be determined by the game master or the rules.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "If two abilities don't mix according to the rules, then the game master decides. This is not answered because the ruling has not been made yet."
+  },
+  {
+    "question": "Bonus action with Mister? Is it an action or a bonus action?",
+    "answer": "It is a bonus action for Flame Seed.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Determining if an action is a bonus action, a rule must be reviewed."
+  },
+  {
+    "question": "Advantage? Disadvantage with a ranged attack on prone targets.",
+    "answer": "Disadvantage with a ranged attack on prone targets",
+    "rules": [
+      "Appendix PH-A: Conditions > Prone"
+    ],
+    "rules_explanation": "The presence of advantage has to be reviewed and then compared to the conditions of another rule"
+  },
+  {
+    "question": "I have four temporary hit points? Yeah, but does it stack?",
+    "answer": "It does not stack, it just--",
+    "rules": [
+      "Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "The rules state: Healing can't restore temporary hit points, and they can't be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones."
+  },
+  {
+    "question": "Now, because you are carrying more than your standard weight, you will have to make an athletics check to make this jump, but I believe you might have advantage on this one in your wolf form, so roll an athletics check.?",
+    "answer": "When carrying more than your standard weight, you will have to make an athletics check to make this jump, but I believe you might have advantage on this one in your wolf form, so roll an athletics check.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The specifics of a state has to be determined with a reference of another ability or rule."
+  },
+  {
+    "question": "Okay, all right, well-- I'm going to step up and I'm going to get up.",
+    "answer": "The act of getting up uses half movement.",
+    "rules": [
+      "Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "The DM states the rules about getting up from prone."
+  },
+  {
+    "question": "Misty Step, I think it's a--",
+    "answer": "No, that's a bonus action!",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules state that misty step is a bonus action."
+  },
+  {
+    "question": "Okay, so Orym was prepared to be the last one holding them off and sees everyone now reversing direction just says: Fuck this haunted house. And he jumps down through Ashton's legs, through Fearne's legs and you tell me if this is possible--",
+    "answer": "This is an acrobatics check. This is a very particular--",
+    "rules": [
+      "Movement and Position > Moving Around Other Creatures"
+    ],
+    "rules_explanation": "The Dungeon Master explains a ruling based on the circumstances that are occurring."
+  },
+  {
+    "question": "What do you know about the door? Does it lock when we closed it?",
+    "answer": "It's not budging.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The specific properties have to be stated by the DM."
+  },
+  {
+    "question": "What does it say about dispelling a magical item or dispelling a magical effect that an item creates?",
+    "answer": "Magical items themselves technically cannot. Their general effect and nature cannot be dispelled. But if like-- if a spell casts, like, fog cloud, you can dispel the fog cloud that it creates.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The definition of dispelling is clarified. This is not specified in the spells and magic rules section. It is only done with game master interpretation."
+  },
+  {
+    "question": "So what are you all the way?",
+    "answer": "Check if the players can use line of sight.  See the section about a clear path to the target.",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "Characters are trying to figure out a line of sight between themselves."
+  },
+  {
+    "question": "We've got 24 hours to get the earring, right?",
+    "answer": "We have until sunup.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "It must be clarified what the duration for the object is."
+  },
+  {
+    "question": "Yeah, I'm going to carefully inspect from the doorway, place of safety-- the floor.",
+    "answer": "All right, so you got Guidance. You can make a perception or investigation check. Your choice.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "When trying to determine a potential course of action, the rules say a player makes a choice between a certain action."
+  },
+  {
+    "question": "Can you tell us whether you're under the effect of any spells?",
+    "answer": "For the purposes of any effects or abilities, such as this character's Divine Sense, these creatures do not register as a magical effect or possessing that inherent magical nature.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A specific interaction must be decided by the dungeon master."
+  },
+  {
+    "question": "If she's in it, can she be seen with True Sight?",
+    "answer": "Can't be targeted with divination spells.",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "They review the text to determine whether or not it can be viewed by certain effects or magic."
+  },
+  {
+    "question": "With FCG, what spell was I trying to cast?",
+    "answer": "FCG will make a quick and easy scan of the area with Spare The Dying, focusing mostly on the unconscious, and I suppose",
+    "rules": [
+      "Spell Descriptions > Spare the Dying"
+    ],
+    "rules_explanation": "This reviews the spell text to determine details."
+  },
+  {
+    "question": "When the magnets magnetize, what is magnetic?",
+    "answer": "The gold would not be considered magnetic, but you are indeed magnetic.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Based on the properties of the homebrew magnets, an object is now either magnetized or not."
+  },
+  {
+    "question": "I will take a swing from the lion.  Full-on bend down and kick off forward, holding on. Claws out. Ashton, you duck down.  Roll an athletics check for me.",
+    "answer": "Check is made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM rules that the player must make an ability check before proceeding."
+  },
+  {
+    "question": "Does that throw Orym at disadvantage?",
+    "answer": "Technically he's part of the attack. So I would say it counts.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Determining if the character is an attacker or not will determine the effects of the rule."
+  },
+  {
+    "question": "If he moves one this way, he can get--",
+    "answer": "So you get advantage without having to do a reckless.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "By position and stance, and some choices, the player can determine how to use an ability."
+  },
+  {
+    "question": "I just roll 8d6 and halve it or just roll four?",
+    "answer": "No, roll 8d6 and halve it.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The question asks for a clarification on how to apply math to a spell."
+  },
+  {
+    "question": "Is it an action or a bonus action?",
+    "answer": "That's a bonus action for--",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Determining if an action is a bonus action, a rule must be reviewed."
+  }
+]

@@ -1,0 +1,358 @@
+[
+  {
+    "question": "A Level 1 Rogue is attempting to fashion three explosive arrowheads. The character has tinker's tools, and already has gunpowder. A roll adding dexterity modifier is required three times to create the casing and a means of detonation.  What proficiencies determine the modifier that should be used for the roll?",
+    "answer": "The Level 1 Rogue should use the proficiency bonus for Tinker's Tools if proficient. Otherwise, they add their dexterity modifier to the roll, and their roll is not considered to be proficient.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The level 1 rogue is attempting a tinker's tools check to craft arrowheads. If proficient, the proficiency bonus is added to the roll. Otherwise only the dexterity modifier is used. This check assumes the standard assumption that rolls that can be used with proficiency rely on proficiency."
+  },
+  {
+    "question": "A Level 1 Rogue with Evasion is subjected to an area effect attack where the Rogue must make a dexterity saving throw, and is said to 'fail'. How much damage is taken by the Rogue if the attack deals 13 fire damage?",
+    "answer": "The Level 1 Rogue will take 6 fire damage due to the Evasion ability, which allows the Rogue to take only half damage on a failed Dexterity Saving Throw.",
+    "rules": [
+      "Conditions > Evasion"
+    ],
+    "rules_explanation": "Evasion allows the Rogue to take half damage instead of full damage when failing a dex save. Applying this means 13 damage becomes 6 (rounding down)."
+  },
+  {
+    "question": "A Level 1 Cleric attempts to use identify on an object and the DM says that the information transitions to the character, then immediately says that it fails. How would you characterize the object?",
+    "answer": "The object would be characterized as non-magical, since the identify spell would identify it as such",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The Identify spell reveals if an object is magic or not. If the Identify spell \"fails to transition\", this reveals that the object is not magical."
+  },
+  {
+    "question": "A Level 1 Wizard casts Suggestion on a character that has advantage on Wisdom saving throws. The character rolls a 14 and a 1. What is the result of the roll?",
+    "answer": "The wisdom saving throw result is 16.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Spell Descriptions > Suggestion"
+    ],
+    "rules_explanation": "The character has advantage on the save so the roll of 14 is kept, and a wisdom modifier of 2 is added, leading to a total result of 16."
+  },
+  {
+    "question": "A Medium size creature succeeds on a dexterity saving throw against a thunderwave spell. How far are they pushed?",
+    "answer": "The creature is pushed 0 feet.",
+    "rules": [
+      "Spell Descriptions > Thunderwave"
+    ],
+    "rules_explanation": "A creature that succeeds on its saving throw against thunderwave is not pushed"
+  },
+  {
+    "question": "A spellcaster uses prestidigitation to change the appearance of a pirate hat. A character examines the hat. What Intelligence skill is needed to determine if the hat is real or not?",
+    "answer": "The Intelligence (Investigation) skill is required.",
+    "rules": [
+      "Spell Descriptions > Prestidigitation"
+    ],
+    "rules_explanation": "The spell description specifies that Investigation can reveal it is an illusion."
+  },
+  {
+    "question": "A Level 1 Wizard touches a nonmagical staff and casts Comprehend Languages on it to see if it says anything. What is the result?",
+    "answer": "There will be no effect because Comprehend Languages affects languages and not objects.",
+    "rules": [
+      "Spell Descriptions > Comprehend Languages"
+    ],
+    "rules_explanation": "The language must be inscribed somewhere, not innate to the staff."
+  },
+  {
+    "question": "A character is benefiting from a reroll via the Fragment of Possibility. The character makes an attack roll, an ability check, or a saving throw. The character rolls a 3 and a 17. Which roll is chosen?",
+    "answer": "The player can choose to use either 3 or the 17.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Fragment of Possibility allows to character to pick whichever d20 roll the player chooses."
+  },
+  {
+    "question": "A Level 9 Warlock casts Hideous Laughter against a wizard, who rolls an 18 for their saving throw. What is the result of this roll?",
+    "answer": "A saving throw of 18 leads to the wizard not being affected by Hideous Laughter.",
+    "rules": [
+      "Spell Descriptions > Hideous Laughter",
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "If the wizard's roll plus wisdom modifier equal or exceed the spell save DC from Hideous Laughter, the character will not be affected by the spell."
+  },
+  {
+    "question": "Caleb casts Identify on an object that is made of clockwork and magic and contains a conjuration glyph. What kind of item would that be?",
+    "answer": "The Identify spell will reveal information about the object as long as it is not being blocked by something.",
+    "rules": [
+      "Spell Descriptions > Identify"
+    ],
+    "rules_explanation": "The Identify spell can tell whether or not the item is of magical type."
+  },
+  {
+    "question": "A character casts suggestion on a creature with the sentence \"You should share any strange or unique or arcane objects or things even that are of threat with me just so I know that we are safe.\". What is the maximum length of time that is in effect?",
+    "answer": "Suggestion has a duration of 8 hours of concentration, however it is also dependent on if she has fulfilled the directed activity.",
+    "rules": [
+      "Spell Descriptions > Suggestion",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The duration of suggestion is for 8 hours as long as she stays on the same path"
+  },
+  {
+    "question": "A Level 4 Fighter takes the dodge action. What saving throws have advantage?",
+    "answer": "The Level 4 Fighter gets advantage on dexterity saving throws.",
+    "rules": [
+      "Combat > Actions in Combat > Dodge"
+    ],
+    "rules_explanation": "The Dodge action imposes disadvantage on attack rolls against the character and gives the character advantage on Dexterity saving throws."
+  },
+  {
+    "question": "A Level 9 Paladin casts Comprehend Languages on writing on a coat. What ability modifier should be used to make the History check?",
+    "answer": "No ability check needs to be made because comprehend languages automatically translates the writing.",
+    "rules": [
+      "Spell Descriptions > Comprehend Languages"
+    ],
+    "rules_explanation": "Casting Comprehend Languages allows you to understand language, no ability check required."
+  },
+  {
+    "question": "A stone wall is destroyed. What is required to travel into the empty space in this section from 20 feet away?",
+    "answer": "The area would be considered difficult terrain until cleared.",
+    "rules": [
+      "Combat > Movement and Position > Difficult Terrain"
+    ],
+    "rules_explanation": "The text refers to the area as rubble-filled which means that area will be difficult terrain."
+  },
+  {
+    "question": "A character is standing close to another humanoid that is being thrown off balance by a spell. Which player or character chooses to use Spirit Guardians or another reaction spell?",
+    "answer": "The choice to cast the spell is up to the player with the spell.",
+    "rules": [
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "Reactions are taken when triggered and have no effect on the other player involved."
+  },
+  {
+    "question": "A fighter character is within the range of a fragment of possibility and is subject to the petrified condition. Which die is the reroll opportunity applied to?",
+    "answer": "The reroll opportunity is applied to the saving throw to resist petrification.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The description for Fragment of Possibility states:  'anytime you have to make an attack roll, an ability check, or a saving throw, any roll with a d20, essentially, you get to reroll it'"
+  },
+  {
+    "question": "A stone structure collapses on a character. Which ability score should the character use to reduce the damage?",
+    "answer": "Dexterity is used for the saving throw to avoid damage from falling objects.",
+    "rules": [
+      "Combat > The Environment > Falling"
+    ],
+    "rules_explanation": "In that instant, you see a shape move through the center of the galley."
+  },
+  {
+    "question": "A character with a strong connection to the world finds themself in a triangular shaped room. Which ability is relevant to taking in their surroundings?",
+    "answer": "Wisdom is associated with taking in ones surroundings through perception",
+    "rules": [
+      "Using Ability Scores > Wisdom"
+    ],
+    "rules_explanation": "A Wisdom check might reflect an effort to read body language, understand someone's feelings, notice things about the environment, or care for an injured person."
+  },
+  {
+    "question": "The rogue (a sneaky type) with proficiency in stealth is sent to scope out the layout of a room (by themselves). What ability check is relevant?",
+    "answer": "A perception check is relevant in scoping out the layout of the room.",
+    "rules": [
+      "Using Ability Scores > Wisdom",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "Perception is associated with taking in one's surroundings. Because the rogue is being sneaky, they are likely looking for hidden dangers."
+  },
+  {
+    "question": "What senses can determine if there is an arcane object on a person?",
+    "answer": "The Detect Magic spell is used to find magic objects or spells on a person.",
+    "rules": [
+      "Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "The spell description notes its ability to sense magical objects and creatures."
+  },
+  {
+    "question": "A party of adventurers has traveled to a room that appears to be extraplanar in nature. What is the effect of a Leomund's Tiny Hut?",
+    "answer": "Leomund's Tiny Hut creates a immobile dome that will protect the adventures, unless they leave the hut.",
+    "rules": [
+      "Spell Descriptions > Leomund's Tiny Hut"
+    ],
+    "rules_explanation": "Leomund's Tiny Hut creates a dome to protect the adventures, as long as they stay within it."
+  },
+  {
+    "question": "The party have used Identify on an object that is pre-Calamity. How long ago did the Calamity take place?",
+    "answer": "The Calamity took place 800 years ago.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The text states 'Pre-Calamity is 800 years...'"
+  },
+  {
+    "question": "A player used magic paint on a hat to make a new hat appear. What ability is relevant to making it a physical object representative of what was drawn?",
+    "answer": "The player is using the creation spell to create the hat from the drawing.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The player is making use of magical power"
+  },
+  {
+    "question": "A character steps into a portable hole. What plane of existence is the character now on?",
+    "answer": "The character is now on a different plane, the destination is a dimension.",
+    "rules": [
+      "Spell Descriptions > Portable Hole"
+    ],
+    "rules_explanation": "That's where we're going to go to break."
+  },
+  {
+    "question": "A wizard has the opportunity to create a wall to block off a doorway. What are the dimension limits?",
+    "answer": "When using Wall of Stone, one can make a wall 6 inches thick and is composed of ten 10-foot-by-10-foot panels.",
+    "rules": [
+      "Spell Descriptions > Wall of Stone"
+    ],
+    "rules_explanation": "The spell dictates the maximums and limitations of the wall."
+  },
+  {
+    "question": "A 7th level character has just seen a vision in a pool of stars in the astral plane. On returning to his companions, can he relate what he has seen with the language of his choice to someone else?",
+    "answer": "Yes, because Tongues allows the target to speak and be understood by any creature. The Telepathic Bond spell might have also worked, if they were linked to the person while there.",
+    "rules": [
+      "Spell Descriptions > Tongues",
+      "Spell Descriptions > Telepathic Bond"
+    ],
+    "rules_explanation": "Caleb, as you finish the ritual, your vision crystallizes on the object. As part of the Identify, the information that would transition to you fails."
+  },
+  {
+    "question": "A character with the skill Stealth is inside Leomund's Tiny Hut and wants to sneak away to the statue to investigate it. What must the character to in order to use the skill?",
+    "answer": "The character has to exit the dome created by Leomund's Tiny Hut.",
+    "rules": [
+      "Spell Descriptions > Leomund's Tiny Hut"
+    ],
+    "rules_explanation": "The feat can't extend through the boundaries."
+  },
+  {
+    "question": "A player wants to throw a torch into an endless black hole. What happens?",
+    "answer": "If the torch is dropped into the black hole it will be consumed.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Dropping something into a black hole will make it go away."
+  },
+  {
+    "question": "A character has cast a spell and it opens a portal for the player. After some time and consideration, the party decides to enter the portal. After the last player enters, what action can be taken?",
+    "answer": "You can't close a portable hole by magic, only physically. You can only cause a portable hole to close by taking hold of the edges of the cloth and folding it up, using an action.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "You don't need that hand, you got another one."
+  },
+  {
+    "question": "After entering a portal, a fighter has a sword that is metallic, but is damaged enough to be considered non magical. The metal has a strength of 24, and the sword is a great sword. Which ability score is used for the strength check?",
+    "answer": "Strength is still used because it is a check that relies on being physically strong.",
+    "rules": [
+      "Using Ability Scores > Strength Checks"
+    ],
+    "rules_explanation": "Can't remember. But I think I might be like this because of him."
+  },
+  {
+    "question": "After arriving on a new plane, the party is greeted by a giant. Which actions can the party take to not be harmed by the giant's presence?",
+    "answer": "Make some friends. Maybe the giant is just lonely.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "I honestly think we need to feed you something that isn't chocolate."
+  },
+  {
+    "question": "An honorary member of the party has earned trust and is acting as part of the group. This character is then questioned about their true nature. What skill is applied?",
+    "answer": "Insight would be used to detect deception and determine general vibe. Persuasion would be used to change the course of the discussion",
+    "rules": [
+      "Using Ability Scores > Wisdom",
+      "Using Ability Scores > Charisma"
+    ],
+    "rules_explanation": "You're doing great, then. But there's a direction, a cardinal direction that you're making these friends in, or do you--?"
+  },
+  {
+    "question": "A storm giant and his companions have entered a plane that does not have weather. After they adjust to the environment and regain their senses, which actions can they take to affect those around them?",
+    "answer": "After seeing there are no clouds, use powers of lightning to make the enemies pay.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "You just have to tinker with it a little bit. Holy cats."
+  },
+  {
+    "question": "What is the action required to drop a small object into a hole and a flask into that hole?",
+    "answer": "The first action would be to drop it which doesn't require an action. The second action depends on the object.",
+    "rules": [
+      "Combat > Your Turn > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "From that place where you had it, you find one of the other grinding bands-- it felt like sandpaper when you tried to move it-- is now moving smooth, like it has no resistance, so you twist that one around and as you do, you hear this clicking sound."
+  },
+  {
+    "question": "It is the end of a three day sea journey. Is it possible to change from one class to a new one?",
+    "answer": "One cannot change their class once they've picked it. You can however multiclass to pick a new one if the requirements are met.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "At this point, around the side, Marius LePual has walked down into the center of the ship and is standing there. “Who the fuck is that?”"
+  },
+  {
+    "question": "In an extraplanar room the only known light comes from the material of a staff. What is the visibility of light in the chamber?",
+    "answer": "The text says 'the light seems to be crushed down to where you can see the faint bit of it there, but there's something about this hallway that's swallowing the light or at least compressing it to where it's not giving off much of a radius while you are standing in it.'",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Yeah. I'm going to go double-check these bodies for things before we go. If anyone wants to help me with an investigation check--"
+  },
+  {
+    "question": "A group of adventurers are battling with a magic cabinet. It has just been defeated. Now what actions can the adventurers take?",
+    "answer": "Take the cabinet apart and steal its components to find out what they are."
+  },
+  {
+    "question": "A level 7 character has spent most of the day below decks and is not on watch but now a large disturbance causes him to leave to his quarters and head to the main deck to investigate. Describe that activity in the game rules.",
+    "answer": "The character can simply use his move to reach the deck.",
+    "rules": [
+      "Combat > Movement and Position"
+    ],
+    "rules_explanation": "Maybe they don't need us any more."
+  },
+  {
+    "question": "An Ancient Red Dragon finds itself out of breath and unable to use the action to exhale it's flame, what action can it choose and what range?",
+    "answer": "It could chose to attack with its reach as a melee action. A bite would be 15 ft, tail would be 20 ft and Claw at 10 ft",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "We did just cause a giant lightning thing. I feel like our presence has been announced."
+  },
+  {
+    "question": "A character is exploring a new cavern with an odd gravitational effect. Which ability is most useful in determining the nature of the location and gravity?",
+    "answer": "If it is an arcane effect, Arcana is the right skill for the ability check. If extraplanar then the description will reveal it.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "I have an idea. I can make a magical hut that nothing can pass through."
+  },
+  {
+    "question": "What is the best action a character can take if he/she does not know where an opponent is and feels as if they are walking in a death trap?",
+    "answer": "The best action would be to retreat to safety. As for an action to use, the most logical would be Hide.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is impervious to-- yeah."
+  },
+  {
+    "question": "A character who is very young steps outside and can't understand any of their surroundings. Which ability check is the relevant way to engage with the area?",
+    "answer": "Perception should be used in this situation.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Right. I'll definitely won't lead to anything."
+  },
+  {
+    "question": "A character has lost something of great value and is in the middle of a tense stand off. What skill is needed to see if their item is nearby?",
+    "answer": "Arcana skill should be used to determine whether the lost object is of magical nature.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "As soon as it pulls behind, it reveals to be a statue that is embedded in the wall behind it. Up on hind legs with claws in front, you see a dragon made of stone, carved, wings blending up into the stone behind it. Its mouth open, its eyes these very bright sapphires embedded in its head. Immediately as it opens up, the mouth lights up blue. Make a dexterity saving throw. And Caleb and Nott. "
+  },
+  {
+    "question": "What bonuses and penalties apply when a medium creature makes an attack with a heavy weapon?",
+    "answer": "A small or tiny creature has disadvantage on attack rolls with heavy weapons.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Heavy",
+      "Races > Size"
+    ],
+    "rules_explanation": "That says that the door is trapped, not necessarily that the door is unopenable."
+  }
+]

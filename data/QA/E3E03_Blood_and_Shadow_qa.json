@@ -1,0 +1,266 @@
+[
+  {
+    "question": "A character with [Perception bonus +6] makes a perception check against DC 25. How many figures does the character perceive?",
+    "answer": "The character perceives four figures.",
+    "rules": [
+      "Combat > Making an Attack > Cover",
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Passive Checks"
+    ],
+    "rules_explanation": "The game transcript specifies that a roll was made against DC 25, so that the DC was overcome and the number of figures that were perceived was revealed."
+  },
+  {
+    "question": "A [Level 4, Abjuration Wizard, Psychic Resistance] is attacked for 17 slashing damage and 32 psychic damage. Can the character use Uncanny Dodge to halve the psychic damage?",
+    "answer": "Yes, the character can use Uncanny Dodge to halve the psychic damage",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "The narrative implies that the halving of psychic damage due to Uncanny Dodge is possible."
+  },
+  {
+    "question": "If a [Level 4, Abjuration Wizard, Psychic Resistance] has Armor of Psychic Resistance, and is attacked for 17 slashing damage and 32 psychic damage. How much of the 32 psychic damage does the character take before and after using uncanny dodge.",
+    "answer": "The character will take 16 psychic damage after resistance to psychic damage is applied, and then halves the result to 8 psychic damage.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability",
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "Psychic resistance reduces psychic damage by half, Uncanny Dodge is used as a reaction to reduce the halved value by half again."
+  },
+  {
+    "question": "A [Level 4, Abjuration Wizard, Psychic Resistance] is asked: Am I allowed to use Misty Step as a bonus action because I've already cast a spell?",
+    "answer": "No, you may not cast Misty Step as a bonus action after already casting a spell.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "Since Misty Step is a spell (not a cantrip) that uses a bonus action to cast, it cannot be cast in the same turn as another spell."
+  },
+  {
+    "question": "A creature has Nydas' aura which grants +5 to Dexterity saving throws, and is making two dexterity saving throws against a spell. Does the creature roll at disadvantage?",
+    "answer": "No, the creature does not roll at disadvantage.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Disadvantage is separate from having a negative modifier, so unless there is a separate rule giving the character disadvantage, they do not have it."
+  },
+  {
+    "question": "A [Level 4, Abjuration Wizard, Psychic Resistance] has resistance to spell damage. Does the character get to halve the 34 fire damage twice from two fireballs after succeeding on their save?",
+    "answer": "Yes, the character halves the damage of each fireball separately and receives 17 damage, and then halves it again to 8.5 per fireball. The character then rounds down each result to 8, and then sums both results together to receive 16 fire damage total",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The spell damage is halved twice, resulting in the correct damage calculation."
+  },
+  {
+    "question": "Can the [Level 12 Paladin, Str 29] griffon attack?",
+    "answer": "Yes, the griffon can attack.",
+    "rules": [],
+    "rules_explanation": "The SRD provides no explicit rules preventing a griffon companion from attacking and the game master has stated, earlier in the text, that it can. "
+  },
+  {
+    "question": "A [Level 12 Paladin, Str 29] is shouting at a spell guard. Is my intimidate check affected by the fact that he is at deaths door?",
+    "answer": "Yes. This is a rules adjudication that will affect the DC for the intimidate check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This is a gamemaster descision and no SRD rules apply."
+  },
+  {
+    "question": "Can inspiration be used on Tempus' (A griffon's) attack roll?",
+    "answer": "No. Inspiration can only be used on a player character's roll.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "Inspiration is a personal resource and cannot be transferred to or used by a non-player character."
+  },
+  {
+    "question": "What is the saving throw for Dominate Person?",
+    "answer": "The saving throw for Dominate Person is a Wisdom saving throw.",
+    "rules": [
+      "The Planes of Existence > Magic"
+    ],
+    "rules_explanation": "The question can be answered using only the provided text, which includes the line 'What is the saving throw on Dominate Person?'"
+  },
+  {
+    "question": "A [Level 4, Abjuration Wizard, Psychic Resistance] casts reverse gravity, DC 20, and asks: Does a reaction reset at the top of the round, or top of my turn?",
+    "answer": "A reaction resets at the top of your turn.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "The SRD defines the use and refreshing of reactions."
+  },
+  {
+    "question": "A [Level 4, Abjuration Wizard, Psychic Resistance] cast reverse gravity, DC 20. Is Athletics check sufficient to stay on the back of Shak.",
+    "answer": "No. Athletics check cannot be used instead of a dexterity saving throw.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "The description of Reverse Gravity describes the method for saving against the effect and doesn't allow for different methods."
+  },
+  {
+    "question": "A [Level 4, Abjuration Wizard, Psychic Resistance] cast reverse gravity, DC 20. What is DC for Nydas athletics check?",
+    "answer": "Athletics check is not relavent.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "There's no athletics check in the spell's description."
+  },
+  {
+    "question": "The [Level 6, Oath of Devotion Paladin, Str 29] makes a melee attack at advantage against Findras Lightbreaker, Spellsword of the Tribunal with a 29 to hit, that it is not a fiend or is he undead. Do I get that, but I do get my weapon and I double that, and I get my Improved Divine Smite and I double that. I'm going to burn a 2nd-level spell. so that's these, I'm rolling this twice.",
+    "answer": "The paladin adds a 2nd level divine smite and then double it. The character does not get to double the weapon damage, or Improved Divine Smite due to a natural 20.",
+    "rules": [
+      "Combat > Making an Attack > Critical Hits",
+      "Spellcasting > Divine Smite"
+    ],
+    "rules_explanation": "The character will roll the weapon damage, then roll the dice for Divine Smite and double it. Critically hitting will not cause the dice to be doubled."
+  },
+  {
+    "question": "Is this a spell or a magical effect that she utters? I'm going to need two dexterity saving throws from Zerxus, Tempus, Laerryn, and Loquatius",
+    "answer": "This is a spell.",
+    "rules": [],
+    "rules_explanation": "The question and subsequent text indicates that two saving throws must be made against the effect of a spell."
+  },
+  {
+    "question": "What does the Mounted Combatant feat allow?",
+    "answer": "With the Mounted Combatant feat, if the mount makes a dexterity saving throw, it doesn't take any damage.",
+    "rules": [],
+    "rules_explanation": "The player description is assumed to be correct."
+  },
+  {
+    "question": "Can I get to move my ally 30 feet towards the girls?",
+    "answer": "That is not possible, because I can't bonus action Misty Step because I've already done a spell.",
+    "rules": [
+      "Spellcasting > Bonus Action"
+    ],
+    "rules_explanation": "Can't cast Misty Step because it is a spell and you have used your action to cast a spell already."
+  },
+  {
+    "question": "You know, I've always wanted to do this. Brennan, how do you want to do this? ",
+    "answer": "The Gamemaster determines how the death will occur",
+    "rules": [],
+    "rules_explanation": "There are no rules associated with the death of this NPC."
+  },
+  {
+    "question": "Does a reaction reset at the top of the round, or--?",
+    "answer": "Top of your turn",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "The description of the reactions rules specify that you get 1 reaction per turn."
+  },
+  {
+    "question": "I'm going to drop two sorcery points for Quicken Spell Summoning Draconic Spirit. Is this a legal move?",
+    "answer": "Yes this is possible.",
+    "rules": [
+      "Sorcerer > Class Features > Font of Magic"
+    ],
+    "rules_explanation": "Quicken Spell is an available Metamagic option that costs two sorcery points to cast."
+  },
+  {
+    "question": "I'm going to hop on its back, and we're together going to ride at Miles' friend. It has a fly speed of 60. I also take one of its resistances when it's summoned. So I will now have resistance to necrotic damage. Or unless you'll let me attack from dragon back?",
+    "answer": "You can attack from the back of a dragon",
+    "rules": [],
+    "rules_explanation": "The DM allows it, but no rules govern this decision."
+  },
+  {
+    "question": "I got to paladin the paladin, so, yep. I use the bags. Is Loquatius within 10 feet of me? Because I was hovering above the front line.",
+    "answer": "The DM adjudicates the distance and the possibility of being able to use the bags based on positioning of the characters.",
+    "rules": [],
+    "rules_explanation": "The description indicates that the DM will adjudicate this detail."
+  },
+  {
+    "question": "Can he use his Uncanny Dodge to halve that 32 psychic?",
+    "answer": "Yes. Alternatively, he can use Armor of Psychic Resistance, which would apply.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "Both resistance to a damage type and uncanny dodge can be used to reduce the damage done by an attack."
+  },
+  {
+    "question": "Is this a spell or a magical effect? that I cast Quicken Spell Freedom of Movement.",
+    "answer": "Freedom of Movement is a legal move. Yes that will free you from this restraint.",
+    "rules": [],
+    "rules_explanation": "The freedom of movement will free from restraint."
+  },
+  {
+    "question": "I'll roll for Mirror Image but I'm going to roll with disadvantage. Still one through five?",
+    "answer": "Yes. that's how we're going to adjudicate that. Still one through five means you hit the actual person.",
+    "rules": [],
+    "rules_explanation": "One through five means you hit the actual person."
+  },
+  {
+    "question": "Can we use my movement for us because I'm mounted?",
+    "answer": "No, I will make you stick to the dragon's movement.",
+    "rules": [],
+    "rules_explanation": "The DM adjudicates the amount of movement that the player can make"
+  },
+  {
+    "question": "Do I need to know to hit a 24 AC thing in a grapple?",
+    "answer": "I need you to roll a d20. I think here, hold on one second. Yeah, you-- Or actually she's going to roll, but I'll roll in front of the board to keep it safe. You want a one through a five on this die right here.",
+    "rules": [],
+    "rules_explanation": "Roll a d20,you want a one through a five."
+  },
+  {
+    "question": "Do I get advantage on these stabs?",
+    "answer": "No, you do not have advantage.",
+    "rules": [],
+    "rules_explanation": "The grapple [inaudible]. No, you do not have advantage."
+  },
+  {
+    "question": "I want to add a thing or not. I can't cast a spell on her if she's planar, right?",
+    "answer": "Can't cast spell if she's on another plane.",
+    "rules": [
+      "Spellcasting > Range > A Clear Path to the Target"
+    ],
+    "rules_explanation": "Because she was out of line of sight from the target, no spell can reach them."
+  },
+  {
+    "question": "The mage on the rampart, all he's doing is funneling ether to his friend to give you disadvantage on the spell that comes next. Is that a legal action?",
+    "answer": "The DM doesn't say whether this is legal, but the mages go on with this plan.",
+    "rules": [],
+    "rules_explanation": "Whether or not the mage was legally able to give advantage is never said, only that they are trying to do so."
+  },
+  {
+    "question": "Can that be Counterspelled, after she blinks out?",
+    "answer": "Unfortunately not, because it is an effect of a spell that has already been cast.",
+    "rules": [
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "It cannot be countered as it isn't a spell being cast any longer."
+  },
+  {
+    "question": "Can you Counterspell a Counterspell?",
+    "answer": "Yes",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The SRD supports counterspelling."
+  },
+  {
+    "question": "Can I use Mage Slayer against his spell if I've already used my reaction for Uncanny Dodge?",
+    "answer": "No",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "You can't use it since you already used your reaction for Uncanny Dodge."
+  },
+  {
+    "question": "Can I have advantage? Can I rock around him to the other side without leaving his melee.",
+    "answer": "Okay. I will say, because you have so effectively dropped this dude's concentration, he will not get attacks of opportunity on you if you move.",
+    "rules": [],
+    "rules_explanation": "The effectively dropping concentration part, he will not get attacks of opportunity on you if you move."
+  },
+  {
+    "question": "I'm a mounted combatant, so I get to attack at advantage on that motherfucker?",
+    "answer": "Attacks on a prone character are made at advantage.",
+    "rules": [
+      "Player's Handbook > Combat > Making an Attack > Unseen Attackers and Targets > Prone"
+    ],
+    "rules_explanation": "Attacks on a prone character are made at advantage, which a critical attack will also double."
+  },
+  {
+    "question": "Can I get into that little room?",
+    "answer": "You may absolutely rush in to join Patia.",
+    "rules": [],
+    "rules_explanation": "DM's adjudication"
+  }
+]

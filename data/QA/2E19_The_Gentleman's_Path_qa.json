@@ -1,0 +1,43 @@
+[
+  {
+    "question": "Can level 1 Jester cast Inflict Wounds at 1st level, using a punch as the delivery method for the spell. Will the punch cause any actual punch damage?",
+    "answer": "Jester can cast Inflict Wounds using a melee spell attack for a die roll plus adjustments vs AC. The punch itself does no additional punch damage.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range",
+      "Spells Listing > Inflict Wounds"
+    ],
+    "rules_explanation": "The rules for Casting a Spell > Range, state that a spell has a range, and the target of a spell must be within the spell's range. A melee spell has a range of touch and requires the caster to make a melee spell attack. The inflict wounds spell description defines its range, casting time, componets and effects"
+  },
+  {
+    "question": "If a Haste spell is cast on Level 3 Beauregard, and she uses Stunning Strike, does that Stunning Strike use her Bonus Action?",
+    "answer": "No, the stunning strike does not use Beauregard's bonus action.",
+    "rules": [
+      "Classes > Monk > Stunning Strike"
+    ],
+    "rules_explanation": "The monk Stunning Strike class feature does not specify that it uses the Bonus Action and has no other action specified, so we can asume it does not consume either action or bonus action."
+  },
+  {
+    "question": "A Haste spell is cast on a character. Does the haste spell give a fourth attack?",
+    "answer": "No, haste does not give a fourth attack. Haste gives an extra action which can be used for an attack action.",
+    "rules": [
+      "Spells Listing > Haste"
+    ],
+    "rules_explanation": "The haste spell description specifies what actions the additonal action provided by the spell may be used for."
+  },
+  {
+    "question": "When the Haste spell ends, do you get a point of exhaustion? Or, what is the effect when a Haste spell ends?",
+    "answer": "When Haste ends, the target can't move or take actions until after its next turn.",
+    "rules": [
+      "Spells Listing > Haste"
+    ],
+    "rules_explanation": "The haste spell's description contains the full effect of the spell, including its ending effects."
+  },
+  {
+    "question": "If perception checks are made at night, what adjustments apply to the roll?",
+    "answer": "At night, visibility can be lightly or heavily obscured, imposing disadvantage on perception checks that rely on sight.",
+    "rules": [
+      "Adventuring > The Environment > Vision and Light"
+    ],
+    "rules_explanation": "The rules for Vision and Light in the Adventuring section specify the impact of areas of dim light or darkness."
+  }
+]

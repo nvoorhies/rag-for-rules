@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Can the Level 11 bard use the 'Resolve' ability to re-roll a saving throw?",
+    "answer": "Yes, you may.",
+    "rules": [
+      "Gameplay > Combat > Saving Throws"
+    ],
+    "rules_explanation": "The character has a thing called resolve, which allows the character to re-roll a saving throw."
+  },
+  {
+    "question": "Does a Level 11 bard's 'Modify Memory' spell count as a magical effect?",
+    "answer": "Yes, it is a magical effect.",
+    "rules": [
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "The question asks if the effect would be magic and the GM adjudges it to be so."
+  },
+  {
+    "question": "What are the range and time limitations of a Level 11 bard's 'Modify Memory' spell?",
+    "answer": "At level seven, the Modify Memory spell can alter memories of an event up to seven days ago, but can only modify ten minutes of it.",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The GM states the time limitations of the modify memory spell."
+  },
+  {
+    "question": "If a Level 5 barbarian makes an intelligence check to find a specific item in their bag of holding and rolls a 11, is that enough to find the statuette?",
+    "answer": "Unfortunately, your lack of imagination is finding it difficult based on the words you were given to formulate enough of a solid creative thought.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "GM arbitrates the use of the intelligence check roll."
+  },
+  {
+    "question": "After casting Primeval Awareness can a level 11 druid sense a dragon within six miles?",
+    "answer": "Yeah. I would say as part of your Primeval Awareness… you have no sense of dragons in that direction or anything.",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The Dungeon Master states that the character does not sense any dragons with the spell within the range based on the character's abilities"
+  },
+  {
+    "question": "Can a level 11 bard's Seeming spell make the party look like lizard army members?",
+    "answer": "SAM: We could be lizard people, for sure.",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The GM does not describe an actual limitation of the spell, and the player confirms it is possible."
+  },
+  {
+    "question": "Can plane shift be used to teleport to a location on the same plane of existence?",
+    "answer": "As far as I know, Plane Shift can't teleport you on the same plane. It brings you specifically to another plane of existence.",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The GM specifies that Plane Shift will only transport between planes."
+  },
+  {
+    "question": "Does Pass Without Trace help with Stealth in a tree?",
+    "answer": "Yes, that's a good idea.",
+    "rules": [
+      "Skills > Dexterity > Stealth"
+    ],
+    "rules_explanation": "The GM does not express a limitation on this application of the spell."
+  },
+  {
+    "question": "While under the effect of Greater Restoration, does a creature remember being under the effect of Modify Memory?",
+    "answer": "You would remember the spell being cast. You remember the fake memory, but you're aware that it's fake.",
+    "rules": [
+      "Spellcasting > What Is a Spell?"
+    ],
+    "rules_explanation": "The Dungeon Master makes a judgement about the interaction of the two spell effects."
+  }
+]

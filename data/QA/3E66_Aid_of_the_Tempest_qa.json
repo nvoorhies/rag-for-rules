@@ -1,0 +1,219 @@
+[
+  {
+    "question": "What kind of check do level 4 fighter make to see if there are scents on the winds?",
+    "answer": "The level 4 fighter makes a Wisdom (Perception) check.",
+    "rules": [
+      "Ability Scores > Using Each Ability > Wisdom > Wisdom Checks",
+      "Ability Scores > Skills"
+    ],
+    "rules_explanation": "The general act of smelling something is a Wisdom (Perception) check. This is further confirmed by the question referencing scents on the wind."
+  },
+  {
+    "question": "What kind of saving throw is required when a massive gust of wind slams into the group?",
+    "answer": "A Strength saving throw is required.",
+    "rules": [
+      "Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Matt specifies that the players need to make a strength saving throw against a gust of wind. "
+  },
+  {
+    "question": "The level 4 Monk asks the GM to check if she can tell that the Tempest was eyeing level 5 wild magic barbarian. What check is made to determine this?",
+    "answer": "A Wisdom (Insight) check is made.",
+    "rules": [
+      "Ability Scores > Using Each Ability > Wisdom > Wisdom Checks",
+      "Ability Scores > Skills"
+    ],
+    "rules_explanation": "The PC is trying to determine the thoughts and motives of another character, which falls under the Insight skill (Wisdom)."
+  },
+  {
+    "question": "What type of check can level 10 fighter make to see if Alma has always been Derrig's father?",
+    "answer": "A Wisdom (Perception) check or an Intelligence (Investigation) check can be made.",
+    "rules": [
+      "Ability Scores > Using Each Ability > Wisdom > Wisdom Checks",
+      "Ability Scores > Using Each Ability > Intelligence > Intelligence Checks",
+      "Ability Scores > Skills"
+    ],
+    "rules_explanation": "Given the context of physical appearance, it could either be a perception (reading facial features) or investigation (examining bone structures)"
+  },
+  {
+    "question": "As the party approaches the Grey Valley, level 5 cleric uses Divination. What question can level 5 cleric ask?",
+    "answer": "What action would the Changebringer recommend?",
+    "rules": [
+      "Spellcasting > What is a Spell > Spells and other magical effects"
+    ],
+    "rules_explanation": "The Player asks a question of his divine being, then states the name of the spell he is going to cast, indicating what kind of interaction is expected."
+  },
+  {
+    "question": "What is the range of the spell Divination?",
+    "answer": "Range: Self",
+    "rules": [
+      "Spellcasting > What is a Spell > Range"
+    ],
+    "rules_explanation": "A range of 'Self' is defined as the area within which the origin point for a spell is valid"
+  },
+  {
+    "question": "Level 5 fighter is suspicious about the hemisphere and investigates to make sure it isn't a trap. Which check is most appropriate?",
+    "answer": "An Intelligence (Investigation) check is made.",
+    "rules": [
+      "Ability Scores > Using Each Ability > Intelligence > Intelligence Checks",
+      "Ability Scores > Skills"
+    ],
+    "rules_explanation": "Intelligence (Investigation) is used for gathering clues and making deductions based on those clues."
+  },
+  {
+    "question": "As the level 5 fighter is investigating and trying to find a trap, level 1 Paladin casts Guidance. What type of check would be at advantage as a result of that effect?",
+    "answer": "Any ability check",
+    "rules": [
+      "Spellcasting > Guidance"
+    ],
+    "rules_explanation": "Guidance applies to any ability check"
+  },
+  {
+    "question": "An hour has passed, and the group is no longer covered by Pass Without Trace. Laudna, a level 5 warlock, is holding onto Imogen. To renew the effect, who needs to cast the spell?",
+    "answer": "Ashton needs to cast the spell",
+    "rules": [
+      "Spellcasting > What is a Spell > Range"
+    ],
+    "rules_explanation": "Pas Without a Trace has a range of self, and thus, does not allow effects to be cast at range on other players."
+  },
+  {
+    "question": "After arriving at the black trees, level 11 fighter is attempting to determine if the trees were set on fire or if they are fiendish trees. What kind of check should the level 11 fighter make?",
+    "answer": "A Wisdom (Survival) check or Religion check is made.",
+    "rules": [
+      "Ability Scores > Using Each Ability > Wisdom > Wisdom Checks",
+      "Ability Scores > Using Each Ability > Intelligence > Intelligence Checks",
+      "Ability Scores > Skills"
+    ],
+    "rules_explanation": "This question can be interpreted in two ways - are the trees natural in origin (in which case Nature is used), or are they an effect of religion/the planes (in which case Religion is used)"
+  },
+  {
+    "question": "For the next leg of their journey, level 5 Cleric has determined there are two paths the party can take, but they cannot decide which one to take. Level 11 fighter does not think he can assist, however level 5 cleric says \"Let me show you a better way! I know a spell that will allow you to choose a better path.\" What action does level 5 cleric take?",
+    "answer": "That depends on the spell they use and their action, but in this instance, it would take her action to cast Mass Cure Wounds",
+    "rules": [
+      "Spellcasting > What is a Spell > Casting Time"
+    ],
+    "rules_explanation": "The cleric says he'll take one action, and then references the Mass Cure Wounds Spell, indicating he's talking about the Casting Time of a particular spell."
+  },
+  {
+    "question": "The BBEG is known to be a large sized creature. When the aoe lightning attack happens, the large sized creature's DEX check determines what? What would a DEX check mean for a gargantuan creature in the same situation?",
+    "answer": "Success or failure determines how much damage the target takes. A dex check for gargantuan creature has no implications as aoe is a specific case against the monster that just uses its action, thus Gargantuan does not apply.",
+    "rules": [
+      "Spellcasting > What is a Spell > Saving Throws"
+    ],
+    "rules_explanation": "All that the dexterity saving throw determines is damage taken, but due to the specifics of the action, the target was always in range, irrespective of target size. I have removed a misunderstanding in the original transcription to make an unambiguous answer."
+  },
+  {
+    "question": "Laudna's player, a level 11 warlock, says she is casting Silvery Barbs! but a monster has not rolled a saving throw yet. Is this valid action?",
+    "answer": "No. It is not a valid action at this stage of play.",
+    "rules": [
+      "Spellcasting > What is a Spell > Reactions"
+    ],
+    "rules_explanation": "Silvery Barbs requires using reaction to another creature's roll. If there are no triggers, a spell cannot be cast."
+  },
+  {
+    "question": "It is the level 11 Fighter's turn. The effect is on himself for whom the saving throw has been called. The DC 15 Consitution saving throw roll was equal to eight. The effect was of something about to lower hit points. What reaction could be called?",
+    "answer": "In the scenario presented, level 11 fighter cannot call a reaction to avoid the hit point reduction",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "In the description as provided, the level 11 fighter does not have access to any reaction abilities that negate the hit point reduction effect at play here. His turn has already concluded, and he cannot retroactively apply a change."
+  },
+  {
+    "question": "After getting a bit of info about that, level 10 Druid is attacked by a monster while casting a spell. He makes to do a check. What should he roll and what should he score more than for it to be a success?",
+    "answer": "The level 10 Druid has to make a Consitution saving throw with a DC of 10 or half the damage taken, whichever is higher.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "Taking damage while concentrating triggers a Consitution Saving throw to maintain concentration or the spell will end."
+  },
+  {
+    "question": "A creature is a level 14 Fighter but has a level 5 Cleric in the party. A creature casts Fireball at the level 14 Fighter. What is a useful spell that a level 5 Cleric can cast on the level 14 Fighter?",
+    "answer": "Aura of Life can be cast",
+    "rules": [
+      "Classes > Cleric > Spells > Aura of Life"
+    ],
+    "rules_explanation": "Aura of Life grants resistance to necrotic and is a very useful support spell."
+  },
+  {
+    "question": "During combat with an creature, level 5 automaton cleric cast Compulsion, but states he does have any bonus actions to use. However, the creature says that he can, but not that he has to, with a limited ability. Is level 5 automaton cleric able to use his bonus action and why?",
+    "answer": "The turn proceeds, and the decision to use it depends on player's character story decision on using a bonus action.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "Characters don't automatically use every action available to them and need to decide for themselves the story relevance of these actions"
+  },
+  {
+    "question": "An large number of ashari warriors are holding what appears to be swords in the area, as well as having similar skill. What is the explanation for that?",
+    "answer": "This implies that the entire regiment or whatever regiment is present are practiced with the same art of the blade.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "If two or more actors have identical attacks and bonuses to hit, this implies shared training or origin."
+  },
+  {
+    "question": "Pâté has been instructed to scout ahead, and that they are looking for Blue Perennem flowers. What is a spell a level 5 cleric can cast to assist, but didn't prepare?",
+    "answer": "Level 5 Cleric can prepare a spell with a 1 action casting time that is level 3 or lower during a short rest. The number of cleric spells equal to the level 5 + Wisdom Mod (minimum of one spell) for the effect to be helpful and have access to a 1-action version of it, and that is useful to seeing if any Blue Perennem flowers are nearby to assist the others, even with Pâté there.",
+    "rules": [
+      "Spellcasting > Preparing and Casting Spells > the spell level be equal to for which you have spell slots"
+    ],
+    "rules_explanation": "Since they took a short rest, level 5 cleric can switch spells around, but they will still need a way for him/her to be helpful with a spell and ability to act quick with it if necessary."
+  },
+  {
+    "question": "At the beginning of combat, level 11 fighter and level 5 Cleric, ask the GM to make a saving throw after an effect that consumed all the area. In this case, what kind of saving throw is involved, and what are the minimums?",
+    "answer": "Based on the transcript, the effect described is 'Soul Rend vortex,' for which the text indicates that a Constitution saving throw is required.",
+    "rules": [
+      "Spellcasting > What is a Spell > Saving Throw",
+      "Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The relevant effects are found in the spell or action that invokes the check."
+  },
+  {
+    "question": "During a group check in a combat scene, what happens if there is an odd number amount of players, and most of the team fails? Which way does the pendulum swing and is it random?",
+    "answer": "The pendulum swings for a failure.",
+    "rules": [
+      "Ability Scores > Ability Checks > Group Checks"
+    ],
+    "rules_explanation": "The SRD states, 'To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.'"
+  },
+  {
+    "question": "Level 17 Barbarian is surrounded, rage, and has to make a check. What benefits does being with at least 1 health in the party and making a Consitution save get him?",
+    "answer": "Level 17 barbarian rage keeps him fighting with 1+ health, and also has benefits that apply against being charmed or frightened. However, none of those traits directly affect saving throws to reduce the damage.",
+    "rules": [
+      "Classes > Barbarian > Class Features",
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "At 11th level, a Barbarian's rage can be kept going even at low health, but there is nothing about affecting damage directly. At 6th level, the Barbarian receives Mindless Rage, meaning that the Barbarian can't be charmed or frightened, and the barbarian has resistance to bludgeoning, piercing, and slashing damage."
+  },
+  {
+    "question": "A big ghoul says that the name on a ring says there are two, where does that take from?",
+    "answer": "That is not related to game rules.",
+    "rules": [],
+    "rules_explanation": "Rules related to game character has nothing to with name engravings on magic item on other characters"
+  },
+  {
+    "question": "After seeing a figure that's 20 ft, the area of effect of daylight is how far?",
+    "answer": "A 60-foot-radius sphere of light spreads out",
+    "rules": [
+      "Spellcasting > What is a Spell > Spell Descriptions > Daylight"
+    ],
+    "rules_explanation": "The Daylight spell creates a 60 foot area of bright light."
+  },
+  {
+    "question": "A group contains level 4 fighter (Chetney), level 5 cleric, level 7 wild magic barbarian, 10 druid, 9 bard, level 11 warlock, a wolf, and has the BBEG with them. The aoe has been defined and locked, and the wolf did not take lightning and did not attempt to resist, while level 4 fighter (Chetney) doesn't do his saving throw and attempts to flee, but is knocked down. With a success, what takes effect to happen at the end?",
+    "answer": "All members besides Chet (level 4 Fighter) are able to flee, as per the rules.",
+    "rules": [],
+    "rules_explanation": "There is no ability to discern rules about what any member of the group is capable of from the circumstances described."
+  },
+  {
+    "question": "The level 4 fighter (Chetney) is grappled, and a bonus ability states for you to hit in the area to remove one's effects on being in another area. It is a natural roll. Which ability is used for what action?",
+    "answer": "There are no rules in D&D related to automatically countering grapples, and no bonus actions are available.",
+    "rules": [],
+    "rules_explanation": "Unless a spell, action, or item is used, there is no ability in 5th edition D&D that has that effect. Furthermore, characters cannot interrupt the actions of others unless a particular mechanic allows them to"
+  },
+  {
+    "question": "Is FCG within Leeta, Maeve, Thollo, and Shendunei?",
+    "answer": "No, FCG is not related to any of those entities.",
+    "rules": [],
+    "rules_explanation": "The entities are characters introduced into the campaign, but are not part of his makeup."
+  }
+]

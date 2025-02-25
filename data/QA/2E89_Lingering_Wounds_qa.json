@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Can the level 9 Bard take the Commune spell given their current class level?",
+    "answer": "I do not know enough about the character's class features to answer that question. The rules provide information about known spells and cantrips for bards according to the class level, but there is no information about class features or any effects of those on the spells known or taken.",
+    "rules": [
+      "Class Features > Spellcasting > Spells Known and Prepared",
+      "Bard > Class Features > The Bard table"
+    ],
+    "rules_explanation": "The answer to this question needs the bard levels (which this character does have) to be compared to the Bard spells and the requirements. However, this comparison also depends on what features have been taken by the character. I do not have a specific answer for that."
+  },
+  {
+    "question": "If a character takes a point of exhaustion, how long do they get to spend reading?",
+    "answer": "It depends on the situation, the DM is responsible for setting the appropriate effect on the character.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "Resting during downtime, the amount of time available depends on the DM."
+  },
+  {
+    "question": "How does the scry spell work if the location is a thing? Can you scry on a thing?",
+    "answer": "I am unable to answer this question. The rules specify that a creature or location can be scryed upon but do not explain if an object can be scryed upon.",
+    "rules": [
+      "Spellcasting > Targets",
+      "Spell Descriptions > Scrying"
+    ],
+    "rules_explanation": "The rules say that the scry spell can choose a creature or location, implying that they are the only valid targets, but this cannot be fully verified by the SRD without more information about the spell."
+  },
+  {
+    "question": "If the character is adding to a skill that is not proficient, do you still add the new dice to the modifier?",
+    "answer": "No. There is no roll or rules in the spell that allows you to add dice to the total, so only the modifiers are added. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The game character is attempting an investigation roll and the statement alludes to a new benefit associated with their new class level, which does not exist in the SRD."
+  },
+  {
+    "question": "Can the character scry on something if that is not on the same plane of existence?",
+    "answer": "The spell can connect you to a creature on the same plane of existence as you, so the spell will fail if the target is on a different plane.",
+    "rules": [
+      "Spell Descriptions > Scrying"
+    ],
+    "rules_explanation": "The scrying spell specifics a limitation that the target is on the same plane of existence as you."
+  },
+  {
+    "question": "What level spell is Scry?",
+    "answer": "5th level.",
+    "rules": [
+      "Spell Descriptions > Scrying"
+    ],
+    "rules_explanation": "A statement of spell level."
+  },
+  {
+    "question": "Can the scry spell target a location the caster has seen before?",
+    "answer": "Yes.",
+    "rules": [
+      "Spell Descriptions > Scrying"
+    ],
+    "rules_explanation": "The scrying spell says, in part: \"You can see and hear a particular creature you choose that is on the same plane of existence as you... Instead of targeting a creature, you can choose a location you have seen before as the target of this spell.\""
+  },
+  {
+    "question": "What does reliable talent do?",
+    "answer": "When you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.",
+    "rules": [
+      "Rogue > Class Features > Reliable Talent"
+    ],
+    "rules_explanation": "Copy/paste of the rule."
+  },
+  {
+    "question": "What should be rolled to find a fighting pit and which skill applies?",
+    "answer": "The GM can ask for a history check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The GM can determine which ability to use for an ability check."
+  },
+  {
+    "question": "How does helping with an investigation check affect advantage?",
+    "answer": "The character attempting the check would roll two dice and use the higher roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The helping character grants the main character advantage which means the main character can roll two dice instead of one."
+  },
+  {
+    "question": "Does taking an action to attack a creature count as not sleeping for the exhaustion rules?",
+    "answer": "No. If you're taking a point of exhaustion for a night of no sleep, then the amount of time that can be spent on other activities depends on the DM's discretion.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "Long rest and the DM discretion."
+  },
+  {
+    "question": "How does it work to take a point of exhaustion?",
+    "answer": "I am unable to provide an exact definition. The SRD rules state, \"If you are able to cast spells, you can't cast them or concentrate on them while raging.\" This does not provide an exact meaning for the game, therefore I am unable to complete the request.",
+    "rules": [
+      "Races > Racial Traits > Age",
+      "Adventuring > Resting > Long Rest",
+      "Appendix PH-A > Conditions > Exhaustion"
+    ],
+    "rules_explanation": "A list of rules associated with exhaustion in the document."
+  },
+  {
+    "question": "After polymorphing into a beast, can a character retain the use of some class feature?",
+    "answer": "Yes, retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so.",
+    "rules": [
+      "Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "A copy/paste of the appropriate rule."
+  },
+  {
+    "question": "How do you determine if an individual should be chosen in a random selection?",
+    "answer": "An individual is determined by rolling a dice.",
+    "rules": [
+      "Spell Descriptions > Globe of Invulnerability"
+    ],
+    "rules_explanation": "An example from Globe of Invulnerability of how a target might be chosen, using a dice."
+  },
+  {
+    "question": "How does the exhaustion point effect the exhaustion effects?",
+    "answer": "The character has disadvantage on ability checks, speed halved, disadvantage on attack rolls and saving throws, hit point maximum halved, and speed reduced to 0 at each stage.",
+    "rules": [
+      "Appendix PH-A > Conditions > Exhaustion"
+    ],
+    "rules_explanation": "Copy/paste of the Exhaustion rule."
+  },
+  {
+    "question": "How does Armor of Agathys work?",
+    "answer": "I cannot answer the question. The Armor of Agathys spell cannot be found in the SRD.",
+    "rules": [],
+    "rules_explanation": "The Armor of Agathys spell is not a part of the SRD, therefore I cannot explain how it functions."
+  },
+  {
+    "question": "What does Armor of Agathys do? What happens if Armor of Agathys is depleted?",
+    "answer": "I cannot answer the question. The Armor of Agathys spell cannot be found in the SRD.",
+    "rules": [],
+    "rules_explanation": "The Armor of Agathys spell is not a part of the SRD, therefore I cannot explain how it functions."
+  },
+  {
+    "question": "Is the Touch spell blocked if illusioned as a person?",
+    "answer": "In order to cast a spell on someone you must have clear line of sight, and the target must not have total cover from you. You must also be able to touch them.",
+    "rules": [
+      "Spellcasting > Targets > A Clear Path to the Target"
+    ],
+    "rules_explanation": "Need clear line of sight in order to cast a spell and must be able to touch them."
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "question": "What ability is used to make a Dexterity saving throw against the fleshy puddle?",
+    "answer": "A Dexterity saving throw uses Dexterity.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "This is a direct statement of the rule."
+  },
+  {
+    "question": "If a warlock uses Counterspell on a 4th-level spell, what is the DC of the ability check using his spellcasting ability?",
+    "answer": "To counter a 4th level spell the warlock must roll a d20 + his Charisma modifier against a DC of 14",
+    "rules": [
+      "Spellcasting > Counterspell"
+    ],
+    "rules_explanation": "If the warlock casts counterspell at 5th level, it automatically succeeds. If they cast counterspell at 3rd level, they must succeed on a check with a DC equal to 10 + the spell's level (SRD Counterspell)."
+  },
+  {
+    "question": "Does temporary hit points revive a character?",
+    "answer": "No, temporary hit points do not revive a character",
+    "rules": [
+      "Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "Temporary hit points are a buffer against damage and are separate from actual hit points, so they can't restore consciousness (SRD Temporary Hit Points)."
+  },
+  {
+    "question": "If a creature is reduced to zero hit points by a Hexblade's Curse does the person who cast the curse heal?",
+    "answer": "The transcript doesn't define the specific Hexblade's Curse ability being used, but many possibilities could heal the user.",
+    "rules": [],
+    "rules_explanation": "Without the players handbook, the healing ability of hexblade's curse cannot be ascertained."
+  },
+  {
+    "question": "With Relentless Hex, up to how far can the warlock teleport?",
+    "answer": "The warlock can teleport up to 30 feet.",
+    "rules": [],
+    "rules_explanation": "This assumes the Relentless Hex ability allows them to magically teleport up to 30 feet."
+  },
+  {
+    "question": "What type of saving throw is required to resist Hold Monster?",
+    "answer": "The targeted creature must make a Wisdom saving throw.",
+    "rules": [],
+    "rules_explanation": "Assuming the caster is Essek, who is a wizard, the spell is a standard version of Hold Monster from the wizard spell list, which requires the target to make a Wisdom saving throw."
+  },
+  {
+    "question": "When does Channel Divinity recharge?",
+    "answer": "Channel Divinity recharges after a short or long rest.",
+    "rules": [
+      "Cleric > Channel Divinity"
+    ],
+    "rules_explanation": "This is a direct statement of the rule."
+  },
+  {
+    "question": "If the claws attack of the monsters misses, can Shield of Retribution be used?",
+    "answer": "If the claws attack missed, then the triggered condition is met. Check other rules for casting such as reaction available and spell requirements.",
+    "rules": [],
+    "rules_explanation": "Requires the spell description"
+  },
+  {
+    "question": "If a warlock can cast counterspell as a reaction, what roll needs to be made?",
+    "answer": "If the creature is casting a spell of 4th level or higher, you make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. Otherwise, it automatically counters the spell.",
+    "rules": [
+      "Spellcasting > Counterspell"
+    ],
+    "rules_explanation": "This is a direct application of the counterspell rules. Since the counterspell is cast at 5th level it would automatically succeed"
+  },
+  {
+    "question": "Does rage reduce slashing damage?",
+    "answer": "Yes, rage grants resistance to bludgeoning, piercing, and slashing damage.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "This is a direct statement of the rules for Rage."
+  },
+  {
+    "question": "How long does rage last?",
+    "answer": "Rage lasts for 1 minute.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "This is a direct statement of the rules for Rage."
+  },
+  {
+    "question": "If a character casts Disintegrate on a stone what happens?",
+    "answer": "As you go ahead and hit the side of the stone, you watch as-- You're used to seeing stone just turn to dust. Instead, you see flesh wither black, the ceiling suddenly curling like a wound that immediately festers. And you can see the stone and the room around you begins to twitch and shift in pain.",
+    "rules": [],
+    "rules_explanation": "The rules of disintegration are being changed by the DM's choice."
+  },
+  {
+    "question": "Does being ankle deep in a weird, doughy surface prevent a bonus action?",
+    "answer": "Being ankle deep in a weird doughy surface reduces your movement to zero.",
+    "rules": [],
+    "rules_explanation": "Being ankle deep reduces your movement to zero and does not affect bonus actions."
+  },
+  {
+    "question": "If Jester uses Polymorph to become a giant ape can she use her strength modifier?",
+    "answer": "Yes, but her game statistics are replaced by the statistics of the beast, but she retains her alignment, personality, and Intelligence, Wisdom, and Charisma scores. She also retains all of her skill and saving throw proficiencies, in addition to gaining those of the creature.",
+    "rules": [],
+    "rules_explanation": "This rule is found in the Polymorph spell description."
+  },
+  {
+    "question": "Can a rogue use sneak attack if they have the hidden condition?",
+    "answer": "Yes, you can deal sneak attack if you have advantage on the attack roll.",
+    "rules": [],
+    "rules_explanation": "This is a direct application of the Sneak Attack rules (PHB)."
+  },
+  {
+    "question": "How many dice can a rogue add to sneak attack?",
+    "answer": "The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.",
+    "rules": [
+      "Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "This is a direct statement of the rule."
+  },
+  {
+    "question": "Does temporary hit points heal a character?",
+    "answer": "No, temporary hit points are a buffer against damage and are separate from actual hit points, so they don't provide any healing.",
+    "rules": [
+      "Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "This is a restatement of the rule."
+  },
+  {
+    "question": "Does the stunned condition allows for a damage die?",
+    "answer": "No.",
+    "rules": [
+      "Appendix PH-A > Conditions > Stunned"
+    ],
+    "rules_explanation": "The stunned condition incapacitates a creature and doesn't allow for any specific damage die."
+  },
+  {
+    "question": "Can Shield of Retribution be used against melee attack?",
+    "answer": "Yes, you can use Shield of Retribution on that, if it's in your imagination.",
+    "rules": [],
+    "rules_explanation": "Caduceus, right in the center of the clavicle, on the chest, there is a red eye."
+  },
+  {
+    "question": "Does Hexblade's Curse add more hit points.",
+    "answer": "The transcript doesn't define the specific Hexblade's Curse ability being used, but many possibilities could heal the user.",
+    "rules": [],
+    "rules_explanation": "Without the players handbook, the healing ability of hexblade's curse cannot be ascertained."
+  },
+  {
+    "question": "Can someone assist an investigation check?",
+    "answer": "It depends. There isn't a general rule that allows you to assist another creature on an ability check. Only when working together could actually be productive.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "When a number of individuals are trying to accomplish something as a group, the GM might ask for a group ability check."
+  },
+  {
+    "question": "What is required to create a regeneration capsule?",
+    "answer": "A crystal from one of the devices in Aeor is required to create the effect.",
+    "rules": [],
+    "rules_explanation": "Essek: \"We robbed one crystal from one of the devices there and took it with us.\""
+  },
+  {
+    "question": "Is Truesight a power that Jester has?",
+    "answer": "No, truesight is not one of the listed powers.",
+    "rules": [],
+    "rules_explanation": "Caleb and Beau have Darkvision and telepathy not truesight."
+  },
+  {
+    "question": "How are the checks rolled when you take an action to break free from Hungry Tendrils?",
+    "answer": "You make a strength check with advantage with fjord clearing the way."
+  },
+  {
+    "question": "While raging, can I still check something?",
+    "answer": "Yeah, it is because you're raging.",
+    "rules": [
+      "Barbarian > Rage"
+    ],
+    "rules_explanation": "While raging, you gain the following benefits if you aren't wearing heavy armor: resistance to bludgeoning, piercing, and slashing damage."
+  },
+  {
+    "question": "How high is a giant ape?",
+    "answer": "A giant ape is about 15 feet.",
+    "rules": [],
+    "rules_explanation": "They're about 15 feet."
+  },
+  {
+    "question": "What's the DC for Calm Emotions?",
+    "answer": "The spell save DC is 18. ",
+    "rules": [
+      "Cleric > Spellcasting > Spell save DC",
+      "Using Ability Scores > Ability Checks > Difficulty Classes"
+    ],
+    "rules_explanation": "Spell save DC = 8 + your proficiency bonus + your Wisdom modifier"
+  },
+  {
+    "question": "does it count as a melee attack, right?",
+    "answer": "No, it's reflexively from taking melee hits.",
+    "rules": [
+      "Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "It's reflexively from taking melee hits."
+  },
+  {
+    "question": "when do I get temporary hit points from Armor of Aeorian Protective Chestplate?",
+    "answer": "For the next minute you gain five temporary hit points at the start of your turn.",
+    "rules": [],
+    "rules_explanation": "It said, \"For the next minute you gain five temporary hit points at the start of your turn.\""
+  },
+  {
+    "question": "Can the temporary hit points from Armor of Aeorian Protective Chestplate stack?",
+    "answer": "Mind you, they don't stack.",
+    "rules": [
+      "Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "But it is just essentially a regenerating buffer."
+  },
+  {
+    "question": "If a character has un-used reactions when an opportunity is given, can the reaction be used.",
+    "answer": "Yes.",
+    "rules": [
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "So those of you who have not, you can attack, if you want to."
+  },
+  {
+    "question": "Is it 10 minutes or an hour?",
+    "answer": "Polymorph is for one hour.",
+    "rules": [
+      "7008 > Polymorph"
+    ],
+    "rules_explanation": "Duration: Concentration, up to 1 hour"
+  },
+  {
+    "question": "Can I Plane Shift with that too?",
+    "answer": "We're not going to Plane Shift to Aeor, we're going to Plane Shift to Exandria.",
+    "rules": [
+      "Magic > Plane Shift"
+    ],
+    "rules_explanation": "Range: Touch"
+  },
+  {
+    "question": "If someone is blind from blindness/deafness, do they have advantage or disadvantage on attack rolls?",
+    "answer": "Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.",
+    "rules": [
+      "Appendix PH-A > Conditions > Blinded"
+    ],
+    "rules_explanation": "This is a direct statement of the effect of the blinded condition."
+  },
+  {
+    "question": "Is it heavy or medium?",
+    "answer": "That'd be medium, I believe.",
+    "rules": [],
+    "rules_explanation": "That'd be medium, I believe."
+  },
+  {
+    "question": "Can Caleb freeze time.",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "Can you freeze time?"
+  },
+  {
+    "question": "Is it 10 minutes?",
+    "answer": "No, it's an hour. I could stay an ape for a long time, but... Huh?",
+    "rules": [
+      "Magic > Polymorph"
+    ],
+    "rules_explanation": "Duration: Concentration, up to 1 hour"
+  },
+  {
+    "question": "Is the Cat's Ire still up?",
+    "answer": "Yes, I still have Cat's Ire up.",
+    "rules": [],
+    "rules_explanation": "The Cat's Ire claw hovering, a massive blue ape that is cradling a very tired Caleb"
+  },
+  {
+    "question": "What does a wisdom saving throw involve?",
+    "answer": "Roll a d20 and add the Wisdom modifier.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "To make a saving throw, roll a d20 and add the appropriate ability modifier. For example, you use your Dexterity modifier for a Dexterity saving throw."
+  },
+  {
+    "question": "What is the range on the blight spell?",
+    "answer": "The range on Blight is 30 feet.",
+    "rules": [
+      "Spells > Blight"
+    ],
+    "rules_explanation": "Range: 30 feet"
+  },
+  {
+    "question": "Does this thing get to make a save, does it?",
+    "answer": "Okay, constitution save.",
+    "rules": [
+      "Spells > Blight"
+    ],
+    "rules_explanation": "Save: Constitution"
+  },
+  {
+    "question": "How does the Shield of Retribution work?",
+    "answer": "Can I use my Shield of Retribution on that?",
+    "rules": [],
+    "rules_explanation": "You're blasting the tendril as it swings past and doesn't quite get purchase or it grabs the shield and you use the shield to (crunch) blast it back."
+  },
+  {
+    "question": "Can someone attack him now.",
+    "answer": "Indeed, you can attack, if you want to.",
+    "rules": [],
+    "rules_explanation": "Because he's looking real bad, yeah?"
+  },
+  {
+    "question": "Is the gem back all the way up?",
+    "answer": "The gem has now been drawn back up into the space and you get the sense you have one more shot at this before it, it now has sensed danger around it.",
+    "rules": [],
+    "rules_explanation": "Last one. "
+  },
+  {
+    "question": "What's that do?",
+    "answer": "There's a little shimmer on Cree, so.",
+    "rules": [],
+    "rules_explanation": "We're Jazz-manning this."
+  },
+  {
+    "question": "Am I still stuck in the goop?",
+    "answer": "You still have a speed of zero and I need you to make a wisdom saving throw.",
+    "rules": [],
+    "rules_explanation": "Am I still stuck in the goop?"
+  },
+  {
+    "question": "I assume that I can target this thing with a Blight spell, right?",
+    "answer": "Hold on, I need to grab ",
+    "rules": [
+      "Spells > Blight"
+    ],
+    "rules_explanation": "I'm going to do a quick eyeball check."
+  },
+  {
+    "question": "Would I be able to climb up my giant blue friend and get within touching range of this thing?",
+    "answer": "If you were to get to the top of her, you could probably reach it.",
+    "rules": [],
+    "rules_explanation": "Would I be able to climb up my giant blue friend and get within touching range of this thing?"
+  },
+  {
+    "question": "Would that be my action?",
+    "answer": "If you don't want to use your action to do it, it's going to take a check with disadvantage because you're kind of winging it.",
+    "rules": [],
+    "rules_explanation": "Well, she was using her turn to pull it down as opposed to helping you up, so you have to actually physically climb it. "
+  },
+  {
+    "question": "Is it a breastplate?",
+    "answer": "Yeah, it's considered a breastplate.",
+    "rules": [],
+    "rules_explanation": "This armor is probably not good for me, but follows the same rules for basic chestplate?"
+  },
+  {
+    "question": "Do you have to attune to it?",
+    "answer": "It does not seem so, no.",
+    "rules": [],
+    "rules_explanation": "It does not seem so, no."
+  },
+  {
+    "question": "Can you help?",
+    "answer": "Guiding helps.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "All right, gather close."
+  },
+  {
+    "question": "Does it matter that you have a super psychic connection.",
+    "answer": "You didn't hear it.",
+    "rules": [],
+    "rules_explanation": "Jester, and Yasha"
+  },
+  {
+    "question": "I assume that I can target this thing with a Blight spell, right?",
+    "answer": "I'm going to do a quick eyeball check.",
+    "rules": [
+      "Casting A Spell > Range"
+    ],
+    "rules_explanation": "You still have to get somewhat near the center to do it, just because it is about 20, 25 feet up."
+  },
+  {
+    "question": "It doesn't get to make a save, does it?",
+    "answer": "Okay, constitution save.",
+    "rules": [
+      "Spells > Blight"
+    ],
+    "rules_explanation": "Rolled super low. No, that's like a 15, yeah. Even with its crazy bonuses for being Cognouza."
+  },
+  {
+    "question": "Have you used your reaction?",
+    "answer": "I did already use my reaction, never mind.",
+    "rules": [],
+    "rules_explanation": "Oh shit. I can't do it then, never mind."
+  },
+  {
+    "question": "Is that from",
+    "answer": "As far as we know",
+    "rules": [],
+    "rules_explanation": "But in Aeor."
+  },
+  {
+    "question": "is a person that has the ability to cast spells.",
+    "answer": "Charisma is your spellcasting ability for your bard spells.",
+    "rules": [
+      "Bard>Spellcasting"
+    ],
+    "rules_explanation": "This is a direct application of the Bard spellcasting rules."
+  },
+  {
+    "question": "Does Essek know what it can do or will I find that in my equipment somewhere?",
+    "answer": "You'll find it if you look for the object, it should be there.",
+    "rules": [],
+    "rules_explanation": "That's right"
+  },
+  {
+    "question": "does identify help too?",
+    "answer": "Mm-hmm.",
+    "rules": [
+      "Spells>Identify"
+    ],
+    "rules_explanation": "\"I do have Identify.\""
+  },
+  {
+    "question": "Will those give an HP boost.",
+    "answer": "You'll get a plus one to your AC and then a little extra HP juice once a day.",
+    "rules": [],
+    "rules_explanation": "You'll get a plus one to your AC and then a little extra HP juice once a day."
+  },
+  {
+    "question": "we didn't learn anything about blood magic, right?",
+    "answer": "Make a religion check.",
+    "rules": [],
+    "rules_explanation": "What books you be reading?"
+  },
+  {
+    "question": "we didn't learn anything about blood magic, right?",
+    "answer": "Make a religion check.",
+    "rules": [],
+    "rules_explanation": "What books you be reading?"
+  },
+  {
+    "question": "Can I give her Guidance to--?",
+    "answer": "Sure.",
+    "rules": [],
+    "rules_explanation": "Okay, you got it."
+  },
+  {
+    "question": "Does anybody want to wear it?",
+    "answer": "Shit's weird.",
+    "rules": [],
+    "rules_explanation": "You said that the eyes lit up on Cree before she transformed into that thing."
+  },
+  {
+    "question": "Are we trying to kill her still?",
+    "answer": "Yeah, just-- probably.",
+    "rules": [],
+    "rules_explanation": "Are we trying to kill her still?"
+  },
+  {
+    "question": "What's that do?",
+    "answer": "You'll see.",
+    "rules": [],
+    "rules_explanation": "You'll see. There's a little shimmer on Cree, so."
+  },
+  {
+    "question": "Can't get what.",
+    "answer": "I can't die.",
+    "rules": [],
+    "rules_explanation": "I can't really die."
+  },
+  {
+    "question": "What's your highest currently available spell slot?",
+    "answer": "High? Oh, not that high. 5th.",
+    "rules": [],
+    "rules_explanation": "What's your highest currently available spell slot?"
+  },
+  {
+    "question": "Is it adding arcana or anything, or it's just a d20 plus--",
+    "answer": "Plus the power of the spell that you are power this with.",
+    "rules": [],
+    "rules_explanation": "Is it adding arcana or anything, or it's just a d20 plus--"
+  },
+  {
+    "question": "Everyone feel all right?",
+    "answer": "Make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Perception"
+    ],
+    "rules_explanation": "Checking like, \"Everyone feel all right?\""
+  },
+  {
+    "question": "so I'm going to do it. So that means I roll again? If you assist?",
+    "answer": "Yeah.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "I'll assist you"
+  },
+  {
+    "question": "Just from being close?",
+    "answer": "Correct.",
+    "rules": [
+      "Combat > Movement and Position > Difficult Terrain"
+    ],
+    "rules_explanation": "Could you make a dexterity saving throw for me, please?"
+  },
+  {
+    "question": "Are my arms free to cast?",
+    "answer": "Yeah. It's just your ankles and legs. You got dragged in and you're still standing, you're just ankle deep in skin.",
+    "rules": [],
+    "rules_explanation": "It's just your ankles and legs. You got dragged in and you're still standing, you're just ankle deep in skin."
+  },
+  {
+    "question": "And as you do, your vision comes back from darkness. It's like you've been holding your breath forever and you all begin to cough a little bit, just instinctually from the period that you were-- undetermined time.",
+    "answer": "You get a long rest.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "Yeah, you get a long rest."
+  },
+  {
+    "question": "Okay, that's what she was using to bamf.",
+    "answer": "Yeah.",
+    "rules": [],
+    "rules_explanation": "You also find a Cape of the Mountebank."
+  },
+  {
+    "question": "Well, you've already said you're trying it. Go ahead and roll a d20. Add your wisdom modifier and add a bonus for each eye that you carry.",
+    "answer": "Plus the power of the spell that you are power this with.",
+    "rules": [],
+    "rules_explanation": "The dice rolls."
+  },
+  {
+    "question": "Is this technically a melee attack?",
+    "answer": "It is. It's not next to you, but yeah, I'll allow it.",
+    "rules": [],
+    "rules_explanation": "That's up to the DM."
+  },
+  {
+    "question": "I don't think that did what you think it was going to do.",
+    "answer": "Yeah. There is no response.",
+    "rules": [],
+    "rules_explanation": "I messed with the medallion before, but now that we've rested and I have an 8th-level spell slot, I'm going to cast Mind Blank."
+  },
+  {
+    "question": "Bonus action, cast Brenatto's Voltaic Bolt on my bolt.",
+    "answer": "You've got it.",
+    "rules": [],
+    "rules_explanation": "Okay."
+  }
+]

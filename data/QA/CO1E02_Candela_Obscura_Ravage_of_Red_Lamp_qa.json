@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What kind of roll should Level 4, Class: Druid's player make to identify what he's trying to hide?",
+    "answer": "The Level 4, Class: Druid makes a Read test.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The DM requested a \"Read Test\" in order to determine what the NPC was attempting to hide. Read is an action relating to the skill 'Insight' from the abilities scores in the SRD"
+  },
+  {
+    "question": "What kind of roll should Level 4, Class: Druid's player make to glimpse what the NPC has under his arm?",
+    "answer": "The Level 4, Class: Druid makes a Survey test.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The DM requested a \"Survey Test\" in order to glimpse the sack under the NPC's arm. Survey is a check related to the Intuition ability from the abilities scores in the SRD"
+  },
+  {
+    "question": "What kind of test is required for the 3rd level, Class: Slink to attempt to sneak past the guard?",
+    "answer": "A Hide test is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The DM requested a \"Hide Test\" in order to sneak past the guard. Hide is an action relating to the skill 'Stealth' from the abilities scores in the SRD"
+  },
+  {
+    "question": "Is this a high stakes roll? For the question, \"I need you to make a Control test right now. As this is now slowly burrowing its way into the top of your hand.\" The player said \"and am going to, because I'm Cool Under Pressure, I'm assuming this is a high stakes roll?\"",
+    "answer": "Yes, this is a high stakes roll.",
+    "rules": [
+      "SRD doesn't specify the definition of high stakes roll, this is DM judgement"
+    ],
+    "rules_explanation": "The rules for the game being played do not define \"high stakes roll\", this is up to the DM. The DM determined that it was a high stakes roll in this case."
+  },
+  {
+    "question": "Is this Control roll a high stakes roll? Anjali: \"Okay, and am going to, because I'm Cool Under Pressure, I'm assuming this is a high stakes roll?\"",
+    "answer": "This would be relatively, yes.",
+    "rules": [
+      "This is a DM judgement about how seriously to apply any rule, not the application of any particular rule"
+    ],
+    "rules_explanation": "The game master is making a qualitative judgement about how the rules should be applied"
+  },
+  {
+    "question": "As the 3rd level, Class: Slink of the group is patting the Periphery officer, can she try to take his badge from him? And what kind of check would that be?",
+    "answer": "She may make a Hide test or Control test to swipe the badge.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The DM is allowing either a Hide or Control check, both are skills under the abilities score from the SRD"
+  },
+  {
+    "question": "What kind of check should the group's doctor make to help sell \"He slipped and fell.\"?",
+    "answer": "The group should make a Sway test.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The DM requested a \"Sway test\" in order to convince the Periphery officer that the Doctor had slipped and fell. Sway is an action relating to the Charisma skill from the abilities scores in the SRD"
+  },
+  {
+    "question": "As a practitioner of the entertainment art of magick, I will reach into my pocket, and I pull out a hand of- A handful of flash powder. What roll needs to be made and what is the goal?",
+    "answer": "Make a Control test to see if you can manage to hit in just a way that it's going to throw him off.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The DM requested a \"Control test\" to attempt to knock off Aaron, in order to see if she can manage to hit in just a way that it's going to throw him off. Control is an action relating to the Nerve ability from the abilities scores in the SRD"
+  },
+  {
+    "question": "The Lightkeeper asked, \"on any high stakes roll, you may always spend Cunning instead of the Drive the roll would normally use.\" and she is told, \"Right, this would not be considered high stakes.\"",
+    "answer": "Correct.",
+    "rules": [
+      "Again, the SRD does not specify the definition of high stakes roll, this is DM judgement"
+    ],
+    "rules_explanation": "The ruling specifies that using Cunning over another Drive to determine dice number is contingent on the roll being determined as \"high stakes\" by the DM."
+  },
+  {
+    "question": "What kind of test should be made to peruse the information, We're looking for anything that might pertain specifically to what you're seeking.",
+    "answer": "Make a Focus test",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The DM requested a \"Focus test\" to go through the newspaper. Focus is an action relating to the Intuition ability from the abilities scores in the SRD"
+  }
+]

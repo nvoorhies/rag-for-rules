@@ -1,0 +1,36 @@
+[
+  {
+    "question": "Can Jester, a Level 9 Cleric/Bard, cast Sending?",
+    "answer": "The Level 9 Cleric/Bard can cast Sending because it is within the spell list for the Bard.",
+    "rules": [
+      "Spellcasting > Spells Known and Prepared"
+    ],
+    "rules_explanation": "Because the character is multiclassed and 9th level overall, the question specifies both class and character level.  The rules for multiclassing allows using the classes own spells and rules."
+  },
+  {
+    "question": "If a Barbarian, can succeed on a DC 10 Constitution saving throw, to drop to 1 hit point instead of 0.",
+    "answer": "Yes, with the Relentless Rage feature.",
+    "rules": [
+      "Barbarian > Class Features > Relentless Rage"
+    ],
+    "rules_explanation": "The Relentless Rage feature states the barbarian drops to 0 hit points instead of 1 with a successful save. It describes the DC and action needed."
+  },
+  {
+    "question": "if the book Rusan was reading that Nott saw when he saw the back of my DM's screen.",
+    "answer": "It's called Hireling, ",
+    "rules": [],
+    "rules_explanation": "The DM states the name, there are no specific rules being referenced."
+  },
+  {
+    "question": "If Jester uses polymorph, can I use it to bring Frumpkin with me",
+    "answer": "No, the player is in the process of walking through a magical door before asking the question about what happens during polymorphing, so the rules question is not applicable.",
+    "rules": [],
+    "rules_explanation": "Although the mechanics for Polymorphing are listed in the SRD, the timing of the action renders the question moot."
+  },
+  {
+    "question": "Can Caleb use his library ink to make normal paper have the characteristics of 500 gold worth of presentation paper?",
+    "answer": "Correct, yes. So he can by basic paper.",
+    "rules": [],
+    "rules_explanation": "There are no relevant rules to link here, the DM simply confirms a player's recollection of something that occurred earlier and states that this action is permitted. No roll is made."
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "question": "What is the range on the Beacon of Hope spell?",
+    "answer": "The range on the Beacon of Hope spell is 30 feet.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Beacon of Hope > Range"
+    ],
+    "rules_explanation": "The question directly asked the range of the Beacon of Hope spell, which is specified under the Range property in the spell's description."
+  },
+  {
+    "question": "For Initiative, do you add a proficiency bonus in addition to the dexterity bonus?",
+    "answer": "No, for initiative you only add your dexterity bonus.",
+    "rules": [
+      "Combat > Initiative > General Initiative Rules",
+      "Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The response clarifies that only the dexterity modifier is added to initiative rolls and that initiative is not a skill. Proficiency bonus is only added to a skill check if the character has proficiency in the chosen skill."
+  },
+  {
+    "question": "The level 11 level race and class character, attacking an creature that hasn't had a turn, and throwing three daggers, would like to know if all attacks get advantage or just the first two, and if he can add the additional ten per attack from the sharpshooter feat.",
+    "answer": "All attacks gain advantage from the Assassinate ability. Sharpshooter feat applies to all attacks, but you destroyed the egg with the initial attacks. The question of additional damage with Sharpshooter does not apply because the initial thrown daggers destroyed the egg.",
+    "rules": [
+      "Rogue > Assassinate > Assassinate",
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Feats > Sharpshooter"
+    ],
+    "rules_explanation": "Since the rogue is attacking before the enemy has had a turn in combat, he has advantage on all attack rolls due to the Assassinate ability. The sharpshooter bonus can apply to any ranged weapon attacks. However, due to the SRD mentioning a need for care while applying damage, the text mentions in this specific instance the feat no longer applies. Due to the egg's destruction, no further attacks were possible. Only the hit with sneak attack applied to a single egg."
+  },
+  {
+    "question": "When determining the effect of Radiant Consumption, does the damage that character with maximum HP need to do to Raishan have to be higher than her total hit points?",
+    "answer": "The description requires beating Raishan's hit points. Sleep arrow requires beating a total number of HP, which will be tough given her HP and regeneration.",
+    "rules": [
+      "Magic Items > Rods > Talismans > Spell Descriptions > Magic Missile, Cure Wounds",
+      "Conditions > Unconscious"
+    ],
+    "rules_explanation": "The answer clarifies that to put Raishan to sleep, her HP must be reduced below zero and she is an enemy combatant. It relies on the total remaining HP of the dragon and the effects of the appropriate spell."
+  },
+  {
+    "question": "With a grit reroll, does this cancel out disadvantage with an invisible target for a sharpshooter shot?",
+    "answer": "A grit reroll will cancel out the disadvantage and allow a normal attack roll.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Feats > Sharpshooter"
+    ],
+    "rules_explanation": "The rules state that attacking an unseen target results in disadvantage. Using a reroll feature allows for a single roll to be made rather than 2 rolls (due to the disadvantage.) Grit does not affect the damage or result of the sharpshooter feat."
+  },
+  {
+    "question": "Was she switching forms even with disadvantage on her strength check on that one?",
+    "answer": "She is still restrained. She can't move anywhere, because she's restrained.",
+    "rules": [
+      "Conditions > Restrained"
+    ],
+    "rules_explanation": "A creature that is restrained has its speed set to zero, and it can't benefit from bonuses to movement."
+  },
+  {
+    "question": "I have 59 points of damage, okay. So I'm going to add 59 hitpoints to that [referring to Cabal's Ruin].",
+    "answer": "The cloak adds the charges equal to the spell's level to it, but not hit points from the spell.",
+    "rules": [
+      "Magic Items > Wondrous Items > Cabal's Ruin"
+    ],
+    "rules_explanation": "The player is conflating adding hit points to his character with gaining charges on the weapon. The rules are explained to the player in this instance."
+  },
+  {
+    "question": "She's going to start casting Disintegrate once something attempts to move by... Is that like a hand-grenade where you fall and--",
+    "answer": "Not so much. A held spell is maintained until the trigger conditions are met. If the initial caster loses consciousness before the trigger occurs, the spell is lost. The target must also come into range before the spell is released.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Reactions",
+      "Conditions > Unconscious",
+      "Spellcasting > Range",
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "The DM describes that as a readied action, the spell requires to see something come through to cast Allura's turn occurs before she saw something move through in order to target with her readied Disintegrate spell. The held action has no further effect."
+  },
+  {
+    "question": "Does it being a staff of Melora do anything? Matt: No, other than the mention of the name caused the sound of growling in the distance.",
+    "answer": "Outside of invoking the presence of the deity that is attached to the instrument, the weapon has no known direct magical effects.",
+    "rules": [
+      "Magic Items > Staves",
+      "Cleric > Divine Domain > General description"
+    ],
+    "rules_explanation": "This follows the general rule that implements of faith have no explicit magical effects as determined by the SRD documents. Divine intervention and other divine actions are up to the discretion of the DM."
+  },
+  {
+    "question": "Now, with the boots of haste, one of the extra actions has to be for an attack, right? I couldn't do--",
+    "answer": "Correct. the extra action can be used to attack, dash, disengage, or hide.",
+    "rules": [
+      "Magic Items > Wondrous Item > Boots of Haste",
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "This uses the item description for the Boots of Haste to clarify the types of actions that the player can take while using the item."
+  },
+  {
+    "question": "Did she-- even with disadvantage on her strength check on that one?",
+    "answer": "Well, she can't move anywhere, because she's restrained.",
+    "rules": [
+      "Conditions > Restrained"
+    ],
+    "rules_explanation": "This uses the definition for the Restrained condition. A creature's speed is zero while restrained."
+  },
+  {
+    "question": "Can I not have gone back behind the stalagmite, I want to go around the corner. Yeah, like that.",
+    "answer": "That's as far as you can get, unfortunately.",
+    "rules": [
+      "Movement and Position > Range"
+    ],
+    "rules_explanation": "This applies the general rule that a character can move up to their speed and applies DM judgement to the range available from her starting position."
+  },
+  {
+    "question": "What is it, are you Frenzied or not? What kind of rage is Grog using?",
+    "answer": "Frenzied Rage, so make your bonus attack strike now.",
+    "rules": [
+      "Barbarian > Primal Path > Path of the Berserker > Frenzy",
+      "Barbarian > Class Features > Rage > Rage"
+    ],
+    "rules_explanation": "The player is asked which rage effect is currently being used and how that effects the current set of actions to take."
+  },
+  {
+    "question": "Does the Cutting Word-- how long does that last?",
+    "answer": "Just the next saving throw.",
+    "rules": [
+      "Bard > Bard College > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "This uses the definition from the bard's Cutting Words ability. The power only effects a single save made by an enemy."
+  },
+  {
+    "question": "For the item, what does it say? Is it a saving throw at the end of the turn, or is it has to use an action to break free?",
+    "answer": "The restrained target can repeat the saving throw at the end of each of its turns.",
+    "rules": [
+      "Spellcasting > Duration > Concentration",
+      "Conditions > Restrained"
+    ],
+    "rules_explanation": "This refers to the properties of the specific spell being used to restrain the target. The spell description defines when the check can be reattempted. It can be found in the rules for the given magic item."
+  },
+  {
+    "question": "Now, with the boots of haste, one of the extra actions has to be for an attack, right? I couldn't do--",
+    "answer": "Correct. Well, it's attack, disengage, or dash, I think. It should say on the card.",
+    "rules": [
+      "Magic Items > Wondrous Items > Boots of Haste",
+      "Combat > Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "This uses the item description for the Boots of Haste to clarify the types of actions that the player can take while using the item. The card referenced by the player contains the same information."
+  },
+  {
+    "question": "Oh, she's not visible, she's--... So I still have disadvantage so I still need to--",
+    "answer": "You do.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The DM is confirming that because Raishan is invisible, Percy still has disadvantage on his attack rolls."
+  },
+  {
+    "question": "Does Cabal's absorb it?",
+    "answer": "What's it say for Cabal?",
+    "rules": [
+      "Magic Items > Wondrous Items > Cabal's Ruin",
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "Since there are 2 sources of area damage which Keyleth is saving against, it must be determined which effect is being triggered."
+  },
+  {
+    "question": "Didn't those cancel out when she attacked?",
+    "answer": "She's invisible, though.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Conditions > Restrained"
+    ],
+    "rules_explanation": "The invisible assailant cancels out any attack benefit, but doesn't remove that she is restrained, which could provide other benefits."
+  },
+  {
+    "question": "When Invisibility goes off, is my displacer cloak still in effect? Do those things layer or--",
+    "answer": "Yeah, they're still in effect.",
+    "rules": [
+      "Magic Items > Wondrous Items > Cloak of Displacement",
+      "Magic Items > Ring of Invisibility",
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "This relies on DM judgement as to how these effects stack (which is not found in the SRD). The item does not lose its benefits, but the other conditions may change and benefit or hinder the creature."
+  },
+  {
+    "question": "If I was invisible and displaced, if they can detect invisible do they see me displaced?",
+    "answer": "But if you were invisible, the invisibility would take over, they'd have disadvantage against attacking you anyway, but they'd have to know where you were to even try and make an attack, is how it would work.",
+    "rules": [
+      "Conditions > Invisible",
+      "Magic Items > Wondrous Item > Cloak of Displacement",
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "This uses the rules on invisibility, displacement, and how to target creatures you can't see."
+  },
+  {
+    "question": "Can I shift it over to her? [referring to Hunter's Mark]",
+    "answer": "You can, technically, yeah.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Hunter's Mark",
+      "Bonus Action",
+      "Combat > Range"
+    ],
+    "rules_explanation": "Hunter's Mark allows the player to choose a new target, and cast it. If you have a bead on where she is, yes. I've never played D&D before but I love this game."
+  },
+  {
+    "question": "If it was cocked, then it doesn't count.",
+    "answer": "It's still a roll, it's fine.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "DM ruling on whether a dice roll counts based on if it was considered a legitimate roll or not. This is an implicit rule, and must be adjudicated at the discretion of the DM. However, it has no effect in this instance."
+  },
+  {
+    "question": "Are you still at disadvantage for invisible plus restrained?",
+    "answer": "Invisible gives you disadvantage, but because she is currently restrained, that gives you advantage, so it's just a straight roll.",
+    "rules": [
+      "Combat > Making an Attack > Advantage and Disadvantage",
+      "Conditions > Restrained"
+    ],
+    "rules_explanation": "The DM clarifies that advantage and disadvantage cancel out, which results in a straight roll. The invisible condition gives attacker disadvantage, the restrained gives attacker advantage, those cancel out."
+  },
+  {
+    "question": "Well, she can't move anywhere, because she's restrained.",
+    "answer": "Correct.",
+    "rules": [
+      "Conditions > Restrained"
+    ],
+    "rules_explanation": "The DM is confirming that a creature that is restrained can't move."
+  },
+  {
+    "question": "Now, with the boots of haste, one of the extra actions has to be for an attack, right? I couldn't do--",
+    "answer": "Correct. Well, it's attack, disengage, or dash, I think. It should say on the card.",
+    "rules": [
+      "Magic Items > Wondrous Items > Boots of Haste",
+      "Actions in Combat > The Attack Action",
+      "Actions in Combat > The Disengage Action",
+      "Actions in Combat > The Dash Action"
+    ],
+    "rules_explanation": "This uses the item description for the Boots of Haste to clarify the types of actions that the player can take while using the item. The card referenced by the player contains the same information."
+  },
+  {
+    "question": "What do you do with advantage but then roll a six and",
+    "answer": "So the first one gets 18, then I'll use one Luck",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The player is reminded that Luck has to be used before knowing the results of the rolls."
+  },
+  {
+    "question": "She's switching form? She's still restrained?",
+    "answer": "She's still restrained.",
+    "rules": [
+      "Conditions > Restrained"
+    ],
+    "rules_explanation": "The DM is reminding the player that the restrained condition is still in effect."
+  },
+  {
+    "question": "Oh wait, no, it's not a concentration. No.",
+    "answer": "Yeah, that's still around. Spiritual Weapon's still up?",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Spiritual Weapon"
+    ],
+    "rules_explanation": "This is a determination about a spell's status, based on its properties, not about resolving a die roll. The spell lasts for one minute, and does not require concentration. "
+  },
+  {
+    "question": "Am I still-- if I try to disengage right now, would I get attacked?",
+    "answer": "Yes. You are in melee.",
+    "rules": [
+      "Combat > Making an Attack > Opportunity Attacks",
+      "Actions in Combat > Disengage"
+    ],
+    "rules_explanation": "The DM clarifies that Percy is within the range of a melee attacker, so he would provoke an opportunity attack if he tried to disengage."
+  },
+  {
+    "question": "Does it taste like anything you've had recently?",
+    "answer": "Asparagus. That's me.",
+    "rules": [
+      "Alchemy"
+    ],
+    "rules_explanation": "This is not a rule. It is flavor. Though with more game information, it could be added. The joke is that one can often detect the taste of asparagus in urine."
+  },
+  {
+    "question": "For Raishan, get's attack of opportunity against the departing, what kind of modifier will it use.",
+    "answer": "That is a 15. Yeah, that hits.",
+    "rules": [
+      "Magic Items",
+      "Conditions > Prone"
+    ],
+    "rules_explanation": "The player moves to support to the downed and damaged party member, resulting in attack opportunity damage calculation. An 18 is rolled, so the effect occurs."
+  },
+  {
+    "question": "Do I get to reroll it again? [A one on damage from the staff of Melora]",
+    "answer": "So you get to reroll it, yeah.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "They do not mention the relevant staff in the SRD documents. Thus, the application of this rule is outside of the SRD standard."
+  },
+  {
+    "question": "Am I good with my Hunter's Mark?",
+    "answer": "You didn't take any damage, so you're fine.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "This refers to concentration being broken by taking damage. Since Vax took no damage, his concentration is not broken."
+  },
+  {
+    "question": "She didn't show up, did I-- Allura, wasn't she preparing Disintegrate?",
+    "answer": "She never saw something come through. So that--",
+    "rules": [
+      "Combat > Actions in Combat > Ready",
+      "Combat > Trigger"
+    ],
+    "rules_explanation": "This is regarding Allura's readied action. Since the trigger condition never occurred, the action was not taken, so there is no effect to resolve."
+  },
+  {
+    "question": "Does the necklace count, or does the necklace not count?",
+    "answer": "The necklace does not count.",
+    "rules": [
+      "Conditions > Unconscious",
+      "Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "The necklace references here has to do with bypassing the effects of 0 HP by a property of an item that is not described here and would be determined by the DM."
+  },
+  {
+    "question": "Now, with the boots of haste, one of the extra actions has to be for an attack, right?",
+    "answer": "Correct. Well, it's attack, disengage, or dash, I think. It should say on the card.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "This ruling relies on a card or item description that is not part of the SRD document, as all of its items do not have descriptions of actions with them."
+  },
+  {
+    "question": "Can I not have gone back behind the stalagmite, I want to go around the corner.",
+    "answer": "That's as far as you can get, unfortunately.",
+    "rules": [
+      "Movement and Position > Range"
+    ],
+    "rules_explanation": "Based on her current position, the DM is limiting the total amount of movement she can perform based on the game map."
+  },
+  {
+    "question": "And that will not affect the Cabal's Ruin damage I was going to add to it, because that's a different thing, right?",
+    "answer": "Yeah, adding that to a crit is a little intense. I'd say no.",
+    "rules": [
+      "Combat > Damage and Healing > Critical Hits"
+    ],
+    "rules_explanation": "This is a judgement call by the DM. There is no official rule to prevent this but in order to maintain game balance, the DM rules that this ability is not multiplied on a critical hit."
+  },
+  {
+    "question": "You've got to make your concentration saving throw on this, because of the sheer amount of damage you took.",
+    "answer": "Constitution.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Concentration",
+      "Spellcasting"
+    ],
+    "rules_explanation": "The rules for concentration explicitly state that a Constitution saving throw must be made to maintain concentration when a character takes damage."
+  },
+  {
+    "question": "Is it a saving throw at the end of the turn, or is it has to use an action to break free?",
+    "answer": "The restrained target can repeat the saving throw at the end of each of its turns.",
+    "rules": [
+      "Conditions > Restrained",
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The specific condition from the spell that has a range"
+  },
+  {
+    "question": "Now, is it-- do I halve the bludgeoning because of raging?",
+    "answer": "You know what? I believe you do, yes. So you actually suffer the same, eighty--",
+    "rules": [
+      "Barbarian > Class Features > Rage > Rage"
+    ],
+    "rules_explanation": "The rules for the Barbarian rage ability state that the Barbarian has resistance to bludgeoning damage, which halves the damage taken."
+  },
+  {
+    "question": "Now, with the boots of haste, one of the extra actions has to be for an attack, right?",
+    "answer": "Correct. Well, it's attack, disengage, or dash, I think. It should say on the card.",
+    "rules": [
+      "Magic Items > Wondrous Items > Boots of Haste",
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "This uses the item description for the Boots of Haste to clarify the types of actions that the player can take while using the item. The card referenced by the player contains the same information."
+  },
+  {
+    "question": "I want to keep where I'm shooting in my line of sight, but I just want to get there. Yeah, and still on the wall.",
+    "answer": "Okay, gotcha. That ends your turn.",
+    "rules": [
+      "Conditions > Rules as Written",
+      "Combat > Line of Sight (DM Judgement)"
+    ],
+    "rules_explanation": "The player is making a judgement call for a move, and DM agrees with that statement."
+  },
+  {
+    "question": "I want to try and detect-- did I detect which direction el dragon flew in?",
+    "answer": "Roll a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Perception Skill"
+    ],
+    "rules_explanation": "The DM is asking for a check in order to determine the outcome of the player's action."
+  },
+  {
+    "question": "What does that mean, if I use luck? Disadvantage, and then I rolled a six and--",
+    "answer": "Your Vow of Enmity gives it advantage, though, doesn't it? That's right, it does. So that cancels out. So the first one-- but I'm still using Luck, so the first one was a six, the second one was a 31.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Hexblade Paladin > Vow of Eminty",
+      "Variant Human > Luck Feat"
+    ],
+    "rules_explanation": "The DM is explaining that the player rolls two dice and picks one due to having advantage, but before he reveals the result, he uses Luck to reroll it again."
+  },
+  {
+    "question": "Can I leap any further? Does Allura have any more movement?",
+    "answer": "To what? All of her, well no, she got out with a bonus action on it. From where you were? No, that's as far as you can go, unfortunately, yeah.",
+    "rules": [
+      "Actions in Combat > Action",
+      "Movement and Position > Movement > Range"
+    ],
+    "rules_explanation": "It is defined by where the characters are on the map."
+  },
+  {
+    "question": "Are you good with your Hunter's Mark?",
+    "answer": "You haven't tagged her with it yet, but you've still got it up.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Concentration",
+      "Spellcasting > Spell Descriptions > Hunter's Mark"
+    ],
+    "rules_explanation": "Since the rogue has not taken damage and has maintained his concentration, the spell is still in effect"
+  },
+  {
+    "question": "You can get a movement to where I can get over here and see her? Keep going, keep going.",
+    "answer": "You can see her there.",
+    "rules": [
+      "Combat > Line of Sight (DM Judgement)"
+    ],
+    "rules_explanation": "The DM is determining whether or not Keyleth has line of sight to Raishan based on their positions on the game map."
+  },
+  {
+    "question": "Okay. She's not possessing Thordak, is she? She's speaking through him--",
+    "answer": "No, the paladin checked for undead.",
+    "rules": [
+      "Class Features > Paladin > Divine Sense",
+      "General Character Class > Paladin"
+    ],
+    "rules_explanation": "The paladin's earlier use of Divine Sense established that Thordak's corpse is not undead. This does not preclude it from being an illusion or golem."
+  },
+  {
+    "question": "Wait. That's the dead body of Thordak, right?",
+    "answer": "Correct.",
+    "rules": [
+      " "
+    ],
+    "rules_explanation": "A simple answer."
+  },
+  {
+    "question": "Before you do that, you still have Hunter's Mark up.",
+    "answer": "Oh yeah! It's concentration. Okay-- Bramble Shot isn't concentration, though. Can I shift it over to her?",
+    "rules": [
+      "Spellcasting > Casting a Spell > Concentration"
+    ],
+    "rules_explanation": "The DM reminds the player of the concentration requirement on Hunter's Mark, implying that it was still active. Then a question is raised whether the spell can be cast."
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "question": "Can the level 4, race, class, wartime documentarian turned experimental filmer, who is attempting to use a basic travel crank camera to get a little bit of photography, use a Control roll for this?",
+    "answer": "Yes, the level 4, race, class, wartime documentarian turned experimental filmer makes a Control roll.",
+    "rules": [
+      "Part I > Game Play > Ability Checks"
+    ],
+    "rules_explanation": "The GM has asked for an ability check. The rules say they can choose which ability is appropriate for the situation."
+  },
+  {
+    "question": "Can a level 4, race, class celebrity, who is approaching a body, substitute a Sway roll for a Focus roll using the ability 'Fake It 'Til You Make It'?",
+    "answer": "Yes, the level 4, race, class celebrity, who is approaching a body can spend a Cunning resistance to use a stat other than the one they would normally use for the roll, and use a Sway roll instead of a Focus roll. ",
+    "rules": [
+      "Part I > Game Play > Ability Checks",
+      "Part I > Game Play > Special Abilities"
+    ],
+    "rules_explanation": "The level 4, race, class celebrity is using a game play skill that allows them to substitute one ability for another for the roll."
+  },
+  {
+    "question": "The long arm of the Level 4, Race, Chey Tanii class, who is tapping on a wall, has a Sway roll. Explain what happens if they succeed, fail, or partially succeed",
+    "answer": "The Level 4, Race, Chey Tanii class makes a Sway roll. The game master must evaluate the results of the die and determine if a full success, mixed success, or failure has occurred. What happens from that point is determined by the outcome and is a matter of game play, and not rules",
+    "rules": [
+      "Part I > Game Play > Ability Checks"
+    ],
+    "rules_explanation": "The GM has requested a skill check with which the player is proficient. The rules in the SRD tell the player to roll and apply their proficiency, but the outcome is based on their roll and the GM adjudication."
+  },
+  {
+    "question": "When the level 4, race, class, celebrity approaches the body in the basement and touches it, should they take a point of bleed?",
+    "answer": "Yes, upon touching the body, the level 4, race, class, celebrity must take a point of bleed",
+    "rules": [
+      "Part I > Game Play > Lightkeeper Abilities"
+    ],
+    "rules_explanation": "The GM has adjudicated that a certain character action must cause a character to take a point of bleed."
+  },
+  {
+    "question": "When the Long Arm's player fails a sense roll and takes bleed, can they immediately use it with the 'Let Them In' ability?",
+    "answer": "Yes, when Long Arm takes bleed they can also gain additional information about the phenomenon that harmed them using the 'Let Them In' ability.",
+    "rules": [
+      "Part I > Game Play > Lightkeeper Abilities"
+    ],
+    "rules_explanation": "The GM has confirmed that a certain character has the ability. Let Them In. The details of how that ability triggers is provided in the SRD."
+  },
+  {
+    "question": "When the Level 4, Race, Chey Tanii class, grabs the professor's neck and asks where their car is, can the Level 4, Race, Chey Tanii class, use their intimidate skill to scare him?",
+    "answer": "No question has been asked that would cause the GM to indicate that a check or saving throw is appropriate",
+    "rules": [
+      "Part I > Game Play > Actions in Social Situations"
+    ],
+    "rules_explanation": "The DM may call for a check in a social situation. The player has not asked if the class can attempt to influence the NPC, nor has the GM called for a check to make it so. "
+  },
+  {
+    "question": "As the projections start, what happens if Level 4, Race, Jackie spends a drive for another die?",
+    "answer": "Not rules relevant, the GM has declared the roll to have already occurred and given the player a failure adjudication.",
+    "rules": [
+      "Part I > Game Play > Actions in Social Situations"
+    ],
+    "rules_explanation": "There are no rules relevant for this action"
+  },
+  {
+    "question": "As the level 4, race, class, celebrity walks forward to try to calm a frantic NPC, what roll does she make?",
+    "answer": "As the level 4, race, class, celebrity walks forward to try to calm a frantic NPC she makes a Sway roll.",
+    "rules": [
+      "Part I > Ability Checks > Social Situations"
+    ],
+    "rules_explanation": "The GM is requesting a roll of Sway, indicating she wants to see how the celebrity talks to the NPC"
+  },
+  {
+    "question": "As the level 4, race, class, celebrity attempts to get there before the NPC what roll does she make?",
+    "answer": "The level 4, race, class, celebrity has to make a Move roll",
+    "rules": [
+      "Part I > Ability Checks > Basic Checks"
+    ],
+    "rules_explanation": "She is attempting to do something quickly, so the GM calls for an appropriate Move roll"
+  }
+]

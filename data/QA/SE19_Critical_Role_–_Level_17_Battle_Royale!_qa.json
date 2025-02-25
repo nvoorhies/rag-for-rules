@@ -1,0 +1,139 @@
+[
+  {
+    "question": "Can the level 17 ranger/rogue/fighter cast or prepare anything they want to, an action or movement or bonus, that doesn't attack or assault another person, for the first round?",
+    "answer": "Yes, the level 17 ranger/rogue/fighter can cast or prepare anything they want to, an action or movement or bonus, that doesn't attack or assault another person, for the first round.",
+    "rules": [
+      "Combat > The Order of Combat > Your Turn > Bonus Actions",
+      "Spellcasting > Casting a Spell > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "This refers to a ruling about what a character is permitted to do within the first six seconds of the match. This relates to the rules of bonus actions and spellcasting times."
+  },
+  {
+    "question": "If the level 17 fighter/barbarian makes a shove attack, is the roll an athletics contested by strength, or athletics contested by athletics?",
+    "answer": "The level 17 fighter/barbarian's athletics check is contested by the target's athletics check.",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack > Melee Attacks > Shoving a Creature"
+    ],
+    "rules_explanation": "The rules for shoving state that the attacker makes a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use)."
+  },
+  {
+    "question": "Does 'prone' change a character's dexterity saving throw?",
+    "answer": "No, being prone does not change a character's Dexterity saving throw.",
+    "rules": [],
+    "rules_explanation": "Being prone imposes disadvantage on attack rolls, but does not in itself modify saving throws."
+  },
+  {
+    "question": "Does Sanctuary stay on Doty now, or does it go away when he is hit?",
+    "answer": "Sanctuary lasts a minute until the warded creature attacks.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Sanctuary"
+    ],
+    "rules_explanation": "This rule is found in the description of the Sanctuary spell in the SRD."
+  },
+  {
+    "question": "For the 5th level druid's Flaming Sphere, do I have to make a wisdom saving throw?",
+    "answer": "Yes, the 5th level druid makes a Wisdom saving throw because it says \"target with a harmful spell.\"",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Sanctuary"
+    ],
+    "rules_explanation": "The warded creature must make a saving throw if it is targeted with a harmful spell. The spell is targeting the the construct Doty with a harmful spell, so it must make the saving throw."
+  },
+  {
+    "question": "If the level 17 ranger/rogue/fighter has skirmisher stealth, do I have to roll if I've got skirmisher stealth? Or do I just continue to hide?",
+    "answer": "At the start of your turn, you pick a creature to remain hidden from, not a general hiding.",
+    "rules": [],
+    "rules_explanation": "This is a question about how the Ranger's Skirmisher stealth ability works. At the start of your turn, you pick a creature to remain hidden from, not a general hiding."
+  },
+  {
+    "question": "If the level 17 ranger/rogue/fighter is hidden from Percy for skirmisher stealth, and then I make the hide action, do I just continue to hide, or do I roll for stealth to hide from everybody else?",
+    "answer": "If you wanted to make the hide action, you would roll for stealth to hide from everybody else.",
+    "rules": [
+      "Combat > Actions in Combat > Hide"
+    ],
+    "rules_explanation": "If you wanted to make the hide action, you would roll for stealth to hide from everybody else."
+  },
+  {
+    "question": "If Percival has Sharpshooter, and Vex is hidden with half-cover, does Sharpshooter negate half-cover?",
+    "answer": "Yes, because Percival has Sharpshooter, he ignores three-quarters cover.",
+    "rules": [],
+    "rules_explanation": "The Sharpshooter feat ignores half cover and three-quarters cover."
+  },
+  {
+    "question": "When the level 17 fighter/barbarian is attacking, does the damage get halved because he is enlarged?",
+    "answer": "No, the level 17 fighter/barbarian does not get piercing damage halved, because he does not have resistance to piercing damage.",
+    "rules": [
+      "Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "Resistance to a damage type halves the damage of that type. If the fighter/barbarian does not have resistance to piercing damage, the damage is not halved."
+  },
+  {
+    "question": "If the Barbarian is raging and the 9th level Artificer has Sanctuary on, does that prevent the Barbarian from attacking?",
+    "answer": "Yes, Doty is a valid target and as the Barbarian has sanctuary on himself, is a valid target, and he can attack the ball, but it does nothing.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Sanctuary"
+    ],
+    "rules_explanation": "Sanctuary forces an attacker to choose a different target. The ball is a valid target, as it is an object."
+  },
+  {
+    "question": "To go down into a trap door, does that require an action or a bonus action?",
+    "answer": "To lift up a trap door that is not locked or anything, is an action.",
+    "rules": [
+      "Combat > Actions in Combat > Use an Object"
+    ],
+    "rules_explanation": "The rules for Use and Object action are to be interpreted to determine if it requires the Use an Object Action."
+  },
+  {
+    "question": "If the character uses Gloves of Missile Snaring, can he reduce the attack damage after he's hit, or does he have to declare that before the attack?",
+    "answer": "The character can use his reaction to reduce the damage by 1d10 + his Dexterity modifier, provided that he has a free hand.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "The Gloves of Missile Snaring use a Reaction, not a Declaration before the Attack Roll"
+  },
+  {
+    "question": "If the Artificer is inside the Bead of Force, does Sanctuary stay on Doty now, or does it go away when I hit him?",
+    "answer": "No, after the flaming sphere damages Doty, Doty has to make a wisdom saving throw, because hers was an area of effect.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Sanctuary"
+    ],
+    "rules_explanation": "The flaming sphere is not an area of effect, you have to make a wisdom saving throw"
+  },
+  {
+    "question": "If the 17th level Fighter/Barbarian is on fire, does he take any extra damage because he didn't put the fire out at the end of the round?",
+    "answer": "No, it's at the top of your round that you take the damage.",
+    "rules": [],
+    "rules_explanation": "Rules adjudication.  Fire damage is applied at the top of the round."
+  },
+  {
+    "question": "How many d4 do you roll for greater healing",
+    "answer": "Greater healing is 4d4 plus four.",
+    "rules": [],
+    "rules_explanation": "Description of the effect of a greater healing potion."
+  },
+  {
+    "question": "Is Diplomacy is a dex-based unarmed melee attack that gets the proficiency bonus?",
+    "answer": "Yes, the attack is dex-based unarmed melee attack and gets the proficiency bonus.",
+    "rules": [],
+    "rules_explanation": "Rules adjudication.  Confirmation of the roll required for a homebrew action from the DM."
+  },
+  {
+    "question": "If the Hex spell goes away, does Wisdom saves also get affected?",
+    "answer": "No, because of Hex? Wisdom saves?",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Hex"
+    ],
+    "rules_explanation": "The Hex spell specifies that it only affects ability checks, not saving throws."
+  },
+  {
+    "question": "The 17th level ranger/rogue/fighter uses skirmisher stealth, can I pick a target? Or I have to be hidden at the top of the turn?",
+    "answer": "At this point, yeah. We're skirting a line, here, of watching you go up and land. You aren't amongst trees in a forest. It's easy to see where you are, vaguely.",
+    "rules": [],
+    "rules_explanation": "Rules Adjudication. There are not any rules to confirm a call from the DM"
+  },
+  {
+    "question": "What modifier gets added to health potions?",
+    "answer": "There is no modifier that is added to health potions.",
+    "rules": [],
+    "rules_explanation": "Adjudication. There is no mention of adding a modifier when using Healing Potions."
+  }
+]

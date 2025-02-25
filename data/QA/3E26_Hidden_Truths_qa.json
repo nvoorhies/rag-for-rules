@@ -1,0 +1,84 @@
+[
+  {
+    "question": "Can the level 6 class, level 14 race, taking the action to remove an object from the level 6 class race's fur, who has a passive perception of 26, be given advantage, since the object is asleep?",
+    "answer": "Yes, because she is asleep, the character will have advantage against their passive perception.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The DM specified they would grant advantage on a roll against passive perception because the target was asleep."
+  },
+  {
+    "question": "A description of the face seen in a dream has been provided, can a +0 modifier character roll to recall more details from the dream, and will the casting of the spell calm emotions affect that roll? Also, can they have guidance cast on them for this recollection?",
+    "answer": "The character can roll a perception check to recall the details of the dream, but guidance won't help, as the roll is for recollection of the dream, not perception.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Spellcasting"
+    ],
+    "rules_explanation": "The rules allow for an ability check to recall details, and the casting of the spell guidance only affects ability checks that are made for a task that is being attempted. Recalling a dream is a mental exercise, which the spell guidance would not directly assist with."
+  },
+  {
+    "question": "If it was determined the kobold's pointing direction could include two level 3 class level races (one class level 4 race), and they both want to determine who it was pointing at, do they each make a perception check?",
+    "answer": "Yes, each character makes a perception check to see who the goblin figure was pointing at.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules for ability checks state that, when the outcome is uncertain, the dice determine the results. Each character is attempting to perceive who the goblin is pointing at, so each makes a perception check."
+  },
+  {
+    "question": "if the perception roll of the level 3 class level race was 17, who was it pointing at?",
+    "answer": "It's pointing in the general direction of the level 3 class level race or the other level 4 race.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The gameplay context indicates that the level 3 class level race would be the actor in this situation. No exact target could be discerned, just a general direction."
+  },
+  {
+    "question": "Can the level 4 class level race make a deception check, and what is the target number.",
+    "answer": "Yes, the level 4 race can make a deception check, but there is no target number given in the provided text.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The provided rules text has no specified target number, since there was not an immediate counter action."
+  },
+  {
+    "question": "Can the level 4 class level race cast Unsettling Presence as a little intimidation situation after another character has thrown an item at the speaker's feet?",
+    "answer": "Yes, the level 4 race can use Unsettling Presence as an intimidation situation.",
+    "rules": [
+      "Class > Bard > Bard College > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "The rules state when a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll.  The rule does not explicitly indicate when you can, it is only a constraint on what you can use the ability on. The current situation falls within these constraints. A little intimidation situation, as explained later, is defined as eye's blackening over. This is a description of the use of the ability, not an effect of the ability. There is no additional detail on when it can be used."
+  },
+  {
+    "question": "Does a check for recalling details of a dream count as a perception check?",
+    "answer": "Yes, the roll to recall the details of a dream is a perception check.",
+    "rules": [
+      "Using Ability Scores > Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "The gameplay context makes clear that, while in the midst of chaos, remembering details is being adjudicated as a perception check by the DM."
+  },
+  {
+    "question": "When the level 4 class is going to try to push into the mind of another creature who is looking back towards you do you push deeper?",
+    "answer": "You have the option to push deeper, but are not forced to.",
+    "rules": [
+      "Spellcasting > Targets > Targeting Yourself",
+      "Spell Descriptions > Detect Thoughts"
+    ],
+    "rules_explanation": "The text does not indicate the spell being used, however one similar is Detect Thoughts. This and similar spells allow targeting yourself, and do not impose a constraint to continue the effect, you are given a choice to push deeper."
+  },
+  {
+    "question": "I cast Detect Thoughts on an eisfuura what is the DC save?",
+    "answer": "The DC is 15.",
+    "rules": [
+      "Spellcasting > Spell save DC"
+    ],
+    "rules_explanation": "The eisfuura DC is 15, determined by the the formula: Spell save DC = 8 + your proficiency bonus + your Wisdom modifier = 8 + 2 + 5 = 15. This is assuming 9th level spellcaster using wisdom."
+  },
+  {
+    "question": "Am I correct in using detect thoughts to try and get into the mind?",
+    "answer": "Yes, this is what the spell is used for.",
+    "rules": [
+      "Spell Descriptions > Detect Thoughts"
+    ],
+    "rules_explanation": "The text indicated that Detect Thoughts is used to hear what someone is thinking. This would generally be referred to as get into their mind."
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "question": "A level 4 Wild Magic Barbarian (Chetney P.) uses Minor Illusion to cast the illusion of glass. What rules apply?",
+    "answer": "Minor Illusion does not appear on the spell list for the Barbarian class. Barbarians also cannot cast spells while raging. A multiclass character could potentially cast it if they have a level in another class, but there is no evidence that Chetney P. has levels in another class.",
+    "rules": [
+      "Classes > Barbarian > Rage",
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "The barbarian class rules state that a barbarian cannot cast spells while raging and the definition of spells states that each class has their own unique spells. For Chetney to cast minor illusion he would have to have a level in another spellcasting class."
+  },
+  {
+    "question": "A level 4 Wild Magic Barbarian (Chetney P.) rolls a 4 on a performance check. What rules apply?",
+    "answer": "A performance check is a Dexterity, Charisma, or Wisdom skill check. The player rolls a d20 and adds any adjustments due to the character's skills and abilities. The DM sets a target number (DC), and if the result is equal to or greater than the DC, the check is a success",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The game master compares the total to the difficulty class (DC). If the total equals or exceeds the DC, the ability check is a success."
+  },
+  {
+    "question": "The Wildfire Druid (Fearne C.) finds a bubble bead, and puts it in her ear for safe keeping. What rules apply?",
+    "answer": "There are no explicit rules for this action in the SRD. The game master can use the general guidance to determine if this action is possible. There is a rule about worn items needing to be adjusted to fit a non-humanoid. So the Game master would adjudicate if this item and ear were able to be connected in this fashion.",
+    "rules": [
+      "Equipment > Wearing and Wielding Items"
+    ],
+    "rules_explanation": "While this doesn't break a specific rule, the passage on Worn and Wielding Items implies some adjudication is needed from the game master. There are some guidelines for non-humanoids."
+  },
+  {
+    "question": "The party is arguing about their plan. A level 4 Wild Magic Barbarian (Chetney P.) is there. When Fearne says 'What are the stats on dynamite?', the player Travis says 'Throw up to 50 feet. Five feet. Awesome.' Is throwing the dynamite up to 50 feet an allowed action and range?",
+    "answer": "The SRD does not have specific rules for dynamite or explosive items, but the Game Master can improvise with existing rules and guidance.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Equipment > Weapons > Weapon Properties > Range"
+    ],
+    "rules_explanation": "If the Game Master has improvised rules for dynamite with a range up to 50 feet, and is treated as a ranged weapon, it will be an allowed range, and the player will follow the standard rules for making a ranged attack."
+  },
+  {
+    "question": "A level 5 ranger is going to head back up and just sort of pretend shop and see if anybody-- I'm going to spend like 15 minutes seeing if anybody is staring at this place or if I recognize-- Roll perception. What are the rules about this action?",
+    "answer": "The player must make a Wisdom (Perception) ability check and add any adjustments due to their skills and abilities. The GM sets a target number (DC), and if the result is equal to or greater than the DC, the check is a success",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules for ability checks state that roll a d20 and add any adjustments due to the character's skills and abilities. The GM sets a target number (DC), and if the result is equal to or greater than the DC, the check is a success"
+  },
+  {
+    "question": "The characters are trying to find a pattern to solve a puzzle in a series of postcards that are in front of them. Laudna has negative intelligence and is not helpful. The woodworker (Chetney P.) has an intelligence of 5. Another character casts Fox's Cunning on them. What rules cover these actions?",
+    "answer": "The character makes an intelligence check. The Fox's Cunning spell gives them advantage on intelligence-based checks. Fox's Cunning does not appear to be a spell. If the character is also given Guidance, then they would also add a d4 to the roll. There is no lower limit mentioned for ability scores.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Spell Descriptions > Enhance Ability"
+    ],
+    "rules_explanation": "Characters make ability checks and guidance adds to that check. The Enhance Ability spell grants Advantage on a chosen skill."
+  },
+  {
+    "question": "A character rolls investigation with advantage and adds a d4. Which skills are used?",
+    "answer": "An Investigation skill check uses Intelligence. To resolve, roll 2 d20 to represent advantage, and add the Intelligence modifier and proficiency bonus if proficient in Investigation. Also add 1d4 if the guidance spell is active.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Spell Descriptions > Enhance Ability"
+    ],
+    "rules_explanation": "Intelligence checks require adding the intelligence modifier. If the character is also proficient in the skill they add their proficiency modifier as well. If they have advantage they roll 2 d20 and take the highest. If they also had the Guidance spell active, they would add 1d4 to the total. "
+  },
+  {
+    "question": "In a scene with a battle, and two players are fighting, one player disarms the other. What roll and rules are involved?",
+    "answer": "There are no rules for disarming. The Game Master can adjudicate the scene by having them roll a contested ability check.",
+    "rules": [
+      "Using Ability Scores > Contests",
+      "Actions in Combat > Melee Attacks"
+    ],
+    "rules_explanation": "The rules for resolving contests state to make ability checks appropriate to their efforts, but instead of comparing the total to a DC, they compare the totals of their two checks, so two melee combatants will be making either a Dexterity or strength check as per the action they are taking. If the contest results in a tie, the situation remains the same as it was before the contest."
+  },
+  {
+    "question": "A character with boots of striding and springing is fighting. The character flees up and I'm going to land one foot on either side of their body and try to bring the wooden sword all the way down and I'm going to come within an inch of their face, and if I fuck it up, I'll-- Well, let's not fuck it up. What rules apply?",
+    "answer": "This would be an improvised attack that requires an attack roll. If a roll is made, this becomes a melee weapon attack where the character will add their strength ability modifier and proficiency bonus if proficient with the improvised weapon. The target can choose to use an action to dodge, causing the attacker to have disadvantage on the attack roll.",
+    "rules": [
+      "Actions in Combat > Attack",
+      "Equipment > Weapons > Improvised Weapons"
+    ],
+    "rules_explanation": "If the character was to make a strength or dexterity check, the game master would adjudicate if an attack roll is necessary"
+  },
+  {
+    "question": "If a player wants to use the acrobatics skill to leap and jump over an opponent, what rule does the GM use?",
+    "answer": "The GM would determine the difficulty class (DC) for an acrobatics check based on the complexity of the jump. If the character succeeds, they will move to the opposite side of the target.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills > Dexterity > Acrobatics"
+    ],
+    "rules_explanation": "A character's acrobatics skill is related to their dexterity modifier and checks their attempt to stay on their feet."
+  },
+  {
+    "question": "A group of level 5 characters are racing skirmishers through a city. What rules exist for the vehicle's?",
+    "answer": "The SRD does not provide specific rules for vehicles, and this is not part of standard D\\&D, so the Dungeon Master will have to improvise using existing rules and guidance.",
+    "rules": [],
+    "rules_explanation": "This question is about content not found in the SRD. Any improvisation would have to be handled using DM adjudication."
+  },
+  {
+    "question": "A character attempts to convince an NPC to allow his monkey to hold a large pepperbox. What rules apply?",
+    "answer": "The character must make a Charisma (Persuasion) ability check. The success of the check is determined by the GM's evaluation of the circumstances and a DC target value that they set.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills > Charisma > Persuasion"
+    ],
+    "rules_explanation": "Ability checks test the characters ability to overcome a challenge with dice used to determine the results."
+  },
+  {
+    "question": "What school of magic is non-magical?",
+    "answer": "I am sorry, that information is not available in the SRD, it seems like this question may be missing some relevant game information.",
+    "rules": [],
+    "rules_explanation": "That information is not available. I am a large language model not a chatbot."
+  },
+  {
+    "question": "One player is a little rat and is underneath Otohan Thull's cloak. What rules apply?",
+    "answer": "The relevant rule is a Dexterity (Stealth) check contested by Otohan Thull's Wisdom (Perception).",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills > Dexterity > Stealth",
+      "Using Ability Scores > Skills > Wisdom > Perception"
+    ],
+    "rules_explanation": "A rat attempting to hide would make a Stealth check. Other characters that can see would make a Perception check"
+  },
+  {
+    "question": "The character that crawled up Otohan Thull's cloak rolled a seven for stealth. She jumps off the side of the woman now. Does the DM call for a skill check for safe travel?",
+    "answer": "There is no mention in the SRD rules that applies to characters trying to jump off of another character, so any actions taken by the character are up to the Game Master to adjudicate.",
+    "rules": [],
+    "rules_explanation": "That information is not available in the SRD"
+  },
+  {
+    "question": "Can my monk walk on fire?",
+    "answer": "There is no rule that states that a monk has any type of natural resistance to fire. Your race or subclass may provide you with the ability to have resistance or immunity to fire.",
+    "rules": [],
+    "rules_explanation": "That information is not available in the SRD, and there are no base class or monk sub-class features that grant that ability."
+  },
+  {
+    "question": "A high elf necromancer has access to the poison spray cantrip. Can the high elf prepare the acid splash cantrip?",
+    "answer": "A high elf necromancer cannot prepare a acid splash. Acid Splash is a conjuration cantrip, and not a necromancy spell.",
+    "rules": [
+      "Classes > Wizard > Spellcasting > Spellbook",
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "Wizards add spells to their spellbook of a level they can cast. A spell's School is listed at the beginning of its description. Acid Splash is Conjuration."
+  },
+  {
+    "question": "A character is knocked prone and has a speed of 30 feet. How much movement does it cost to stand?",
+    "answer": "Standing up costs an amount of movement equal to half the character's speed. Therefore, it costs 15 feet of movement to stand up.",
+    "rules": [
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "The section on being prone includes that standing up costs half the creatures speed."
+  },
+  {
+    "question": "What is the DC for a disarming strike strength save?",
+    "answer": "The DC for a Strength saving throw from the Disarming Attack battle master maneuver is calculated as 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).",
+    "rules": [
+      "Classes > Fighter > Martial Archetype > Battle Master > Maneuvers > Disarming Attack"
+    ],
+    "rules_explanation": "The strength saving throw from the disarming attack maneuver is calculated as specified."
+  },
+  {
+    "question": "What are the rules about flanking?",
+    "answer": "There are no rules for flanking.",
+    "rules": [],
+    "rules_explanation": "The flanking rule is an optional rule that is not in the SRD."
+  },
+  {
+    "question": "If there is a range of five feet, you know, is that enough to trigger an attack of opportunity?",
+    "answer": "The target of an opportunity attack must be a hostile creature that you can see that moves out of your reach. As most creatures have a 5 foot reach, if a creature is within 5 feet of you and then moves out of that area you can use your reaction to attack.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "The definition of opportunity attacks is that they are triggered when a hostile creature moves out of your reach."
+  },
+  {
+    "question": "Can a Druid maintain concentration for one long?",
+    "answer": "There is no set limit to how long a creature can concentrate on a spell. Most spells that require concentration, have a duration. Once that duration is up, the spell will end. If you want a spell to last longer, you can use metamagic options such as Extended Spell.",
+    "rules": [
+      "Spellcasting > Duration > Concentration",
+      "Classes > Sorcerer > Metamagic > Extended Spell"
+    ],
+    "rules_explanation": "There is no explicit limit to concentration. A creature has to make concentration checks when taking damage, but that does not limit the length of a spell."
+  },
+  {
+    "question": "What is truesight?",
+    "answer": "A creature with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.",
+    "rules": [
+      "Monsters > Senses > Truesight"
+    ],
+    "rules_explanation": "I used the monsters > senses > truesight to answer your question. The definition of this effect is that it provides special sight for detecting creatures and objects."
+  },
+  {
+    "question": "Can a druid with spell slots of 6th and lower level maintain concentration on a third level and then 5th level spell at the same time?",
+    "answer": "No. You can't concentrate on two spells at once. If you were concentrating on a spell and then cast another spell that requires concentration, you would lose concentration on the first spell",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The rules for concentration spellcasting state that you cannot maintain concentration on two spells."
+  }
+]

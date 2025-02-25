@@ -1,0 +1,117 @@
+[
+  {
+    "question": "What kind of check is needed to glance for what is assumed to be a portal?",
+    "answer": "A perception check is needed to glance for what is assumed to be a portal.",
+    "rules": [
+      "Ability Scores > Ability Checks > \"The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure.\""
+    ],
+    "rules_explanation": "The Dungeon Master is calling for an ability check, which requires the player to use one of their ability scores."
+  },
+  {
+    "question": "Can the Level 4 Circle of the Moon Druid, with a natural 15 on a Strength check to pull another character out of the water, be guided by magic in animal form?",
+    "answer": "Guidance cannot be cast while in animal form.",
+    "rules": [
+      "Classes > Druid > Wild Shape > \"You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form.\"",
+      "Spells > Guidance"
+    ],
+    "rules_explanation": "The rules for casting spells in animal form states spells cannot be cast by a Druid if the form they are in cannot cast spells.  The Druid also lacks the ability to speak to provide a verbal component to the spell."
+  },
+  {
+    "question": "If the Level 4 Circle of the Moon Druid can't use her action to cast Guidance while in animal form, can she think Guidance?",
+    "answer": "Mentally, you can think it.",
+    "rules": [
+      "Classes > Druid > Wild Shape > \"You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form.\"",
+      "Spells > Guidance"
+    ],
+    "rules_explanation": "The Druid lacks the ability to speak to provide a verbal component to the spell."
+  },
+  {
+    "question": "Can a character with Darkvision roll perception without disadvantage?",
+    "answer": "Yes.",
+    "rules": [
+      "Adventuring > Vision and Light >  Darkvision > \"Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned.\"",
+      "Adventuring > Vision and Light > Vision and Light > \"In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.\""
+    ],
+    "rules_explanation": "In areas of dim light (which is how darkness appears to a creature with darkvision), creatures without darkvision have disadvantage on Wisdom (Perception) checks that rely on sight. A creature with darkvision can see in dim light as if it were bright light, so they would not have disadvantage."
+  },
+  {
+    "question": "Ashton the Level 6 Wildfire Druid receives a 4th-level spell slot from Imogen.  How many sorcery points does Imogen the Level 7 Wild Magic Sorcerer regain when she siphons it off to Ashton?",
+    "answer": "Laura the Level 7 Wild Magic Sorcerer gains an equal amount of sorcery points as you would if you had converted your own 4th-level slot.",
+    "rules": [
+      "Classes > Sorcerer > Font of Magic > Flexible Casting"
+    ],
+    "rules_explanation": "The Sorcerer class has a feature called Font of Magic which allows the conversion of spell slots into sorcery points."
+  },
+  {
+    "question": "A 2nd-level Druid, now full of points, glances around. Is there a place to affix the rope on this side?",
+    "answer": "Glancing around, there aren't any branches or anything like that. At that point, you could maybe tie it around a rock and leave a rock off to the side, taut, off the edge of the water, but there aren't a lot of outcroppings that would be good for that given these surroundings. A lot of the rock around here, at least beneath the water as well, has been smoothed with mineral and heavy water past for a long time.",
+    "rules": [
+      "Ability Scores > Ability Checks > \"The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure.\""
+    ],
+    "rules_explanation": "The Dungeon Master is calling for an ability check, which requires the player to use one of their ability scores. The answer would need to take into account the ability to be used for the skill check."
+  },
+  {
+    "question": "Can Guidance be cast on the Level 2 Circle of the Moon Druid in animal form?",
+    "answer": "You cannot cast Guidance while you're in animal form.",
+    "rules": [
+      "Classes > Druid > Wild Shape > \"You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form.\"",
+      "Spells > Guidance"
+    ],
+    "rules_explanation": "The rules for casting spells in animal form states spells cannot be cast by a Druid if the form they are in cannot cast spells.  The Druid also lacks the ability to speak to provide a verbal component to the spell."
+  },
+  {
+    "question": "If a Halfling and a Medium character are swimming in a river of rushing water, what kind of check do they make to determine if they can grab onto the side?",
+    "answer": "Make a strength check.",
+    "rules": [
+      "Ability Scores > Ability Checks",
+      "Ability Scores > Strength > Strength Checks",
+      "Adventuring > Movement > Special Types of Movement > Climbing, Swimming, and Crawling > \"Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.\""
+    ],
+    "rules_explanation": "There are two ways to interpret the question. As a default check it should be a Strength saving throw as the characters are being acted upon by an outside force (the water). However because they want to grab something it would change to a Strength Check as this is the only time they have control over their actions."
+  },
+  {
+    "question": "Can the rogue use Hunter's Bane to figure out what might have closed-- the portal?",
+    "answer": "Roll Hunter's Bane.",
+    "rules": [
+      "Classes > Ranger > Favored Enemy > You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them."
+    ],
+    "rules_explanation": "Because the situation involves something connected to Favored Enemies it's appropriate to roll Wisdom (Survival)."
+  },
+  {
+    "question": "Can the cleric use a 4th level spell to restore one point of exhaustion on a long rested team member?",
+    "answer": "There is no spell to automatically remove one point of exhaustion.",
+    "rules": [
+      "Spells > Greater Restoration",
+      "Conditions > Exhaustion"
+    ],
+    "rules_explanation": "The 5th level spell Greater Restoration can reduce the target's exhaustion level by one, but there are no Cleric spells that automatically remove one point of exhaustion."
+  },
+  {
+    "question": "I am going to give myself a 4th-level spell back. Okay. Glancing around, I mean, there aren't any branches or anything like that. At that point, you could maybe tie it around a rock and leave a rock off to the side, taut, off the edge of the water, but there aren't a lot of outcroppings that would be good for that given these surroundings. A lot of the rock around here, at least beneath the water as well, has been smoothed with mineral and heavy water past for a long time.",
+    "answer": "Okay.",
+    "rules": [],
+    "rules_explanation": "This statement of fact doesn't trigger any specific SRD rule."
+  },
+  {
+    "question": "If a character is in water that's lightly obscured (mist), do they have disadvantage on perception?",
+    "answer": "It depends.",
+    "rules": [
+      "Adventuring > Vision and Light > Lightly Obscured > \"In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.\""
+    ],
+    "rules_explanation": "Lightly obscured conditions only affect Perception checks relying on sight."
+  },
+  {
+    "question": "Does it take a while, though, if you are not, but based on the roll, this might take a little bit. Investigating the records more.",
+    "answer": "You are not, but based on the roll, this might take a little bit.",
+    "rules": [],
+    "rules_explanation": "This statement of fact doesn't trigger any specific SRD rule."
+  },
+  {
+    "question": "If someone has the keen sight trait, do they still roll with disadvantage in dim light when attempting to perceive something? ",
+    "answer": "Yes, they do.",
+    "rules": [
+      "Adventuring > Vision and Light >  Lightly Obscured > \"In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.\""
+    ],
+    "rules_explanation": "Keen Sight provides advantage on Wisdom (Perception) checks that rely on sight. Advantage and disadvantage cancel each other out, so if a roll has both advantage and disadvantage, you roll one d20."
+  }
+]

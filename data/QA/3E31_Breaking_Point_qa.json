@@ -1,0 +1,497 @@
+[
+  {
+    "question": "When the 14th level character, class, race, and abilities delved into the mind of the Nightmare King with Detect Thoughts, will the target know the source of this effect?",
+    "answer": "Depending on the specific scenario it is possible that the target of detect thoughts may be able to determine that someone is delving into their mind, it is difficult to tell the source.",
+    "rules": [
+      "Spellcasting > Detect Thoughts"
+    ],
+    "rules_explanation": "The SRD description of the Detect Thoughts spell specifies that a target becomes aware that its mind is being read when a caster delves deeper than surface thoughts."
+  },
+  {
+    "question": "Is the Hold Person spell valid against creatures that are not humanoids?",
+    "answer": "The hold person spell only works on humanoids and would fail against non-humanoids.",
+    "rules": [
+      "Spellcasting > Hold Person",
+      "Monsters > Type"
+    ],
+    "rules_explanation": "The spell Hold Person specifies that it can only target humanoids, Hold Person lists its valid targets and excludes non-humanoids."
+  },
+  {
+    "question": "If the level class race attempts to assist another character in checking for traps, can they contribute Guidance?",
+    "answer": "Yes. The effects of Guidance apply to any ability check and checking for traps is an ability check.",
+    "rules": [
+      "Spellcasting > Guidance",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The spell, Guidance, indicates that it applies to any ability check, a character can add Guidance to any skill check."
+  },
+  {
+    "question": "If the glass in the level class race magical item, Weave Lens, was repaired by a Mending spell, would the magical properties of the item return?",
+    "answer": "It depends on the enchantment, but the Mending spell does not restore the magical properties of an item.",
+    "rules": [
+      "Spellcasting > Mending",
+      "Magic Items"
+    ],
+    "rules_explanation": "The SRD rules on the Mending spell only mention it repairing breaks and tears, and not the magical properties of an item. The item's description or the GM may further specify how or if it can be restored."
+  },
+  {
+    "question": "Can a caster use the valley girl accent to cast spells using Verbal components?",
+    "answer": "Yes, it is assumed a character can modify their accent and other character traits at will to suit the needs of the scene.",
+    "rules": [
+      "Spellcasting > Verbal Components"
+    ],
+    "rules_explanation": "The SRD rules on Verbal spell components simply states that the correct sound must be made to satisfy this component."
+  },
+  {
+    "question": "If a barbarian receives Inspiration, do they receive experience points in old D&D rules?",
+    "answer": "No, no such rule exists in the SRD. However, a DM may at their discretion implement such a house rule.",
+    "rules": [],
+    "rules_explanation": "The preceeding game statement is not based on the SRD content."
+  },
+  {
+    "question": "Can a caster use Prestidigitation to create heat to reveal invisible ink on a piece of parchment?",
+    "answer": "The Prestidigitation spell does not indicate that it can be used to reveal invisible ink and would likely have no effect.",
+    "rules": [
+      "Spellcasting > Prestidigitation"
+    ],
+    "rules_explanation": "The SRD indicates the extent of the changes and magical applications of Prestidigitation."
+  },
+  {
+    "question": "If one of the players would like to look at a book from an unknown author with Eyes of the Rune Keeper, what would happen?",
+    "answer": "A creature can use Eyes of the Rune Keeper to read any writing, regardless of the language in which it is written.",
+    "rules": [],
+    "rules_explanation": "The gameplay statement is not based on the SRD content."
+  },
+  {
+    "question": "Can a high level character, class, race, and abilities with Fly cast from another character use their movement to ascend or descend?",
+    "answer": "Yes, the target can change their altitude up to their speed but must use their own movement to do so.",
+    "rules": [
+      "Spellcasting > Fly"
+    ],
+    "rules_explanation": "The Fly spell indicates the recipient can ascend and descend using their speed."
+  },
+  {
+    "question": "Does having Detect Thoughts active on another creature allow the caster to see what has blocked or altered memories?",
+    "answer": "No. You get very, very vague surface thoughts, and then if you want specific elements like that, that's when you have to delve in.",
+    "rules": [
+      "Spellcasting > Detect Thoughts"
+    ],
+    "rules_explanation": "The SRD specifies that the caster only learns surface thoughts unless they delve deeper."
+  },
+  {
+    "question": "When a 15th level character, class, race casts a D20 roll and adds a Charisma saving throw, what happens?",
+    "answer": "Roll a d20 and add your spellcasting modifier, which is your charisma.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Saving throws are ability checks which require that the character adds his or her ability modifier to a roll of a d20."
+  },
+  {
+    "question": "What is the duration of the Detect Thoughts spell?",
+    "answer": "The duration of the Detect Thoughts spell is Concentration, up to 1 minute.",
+    "rules": [
+      "Spellcasting > Detect Thoughts"
+    ],
+    "rules_explanation": "The Spellcasting rules contain information about the duration of spells and Detect Thoughts lists its duration."
+  },
+  {
+    "question": "What is the maximum hit points regained by the healing potion?",
+    "answer": "Potions of healing restore hit points when consumed. The specific number restored is a function of the type of healing potion but cannot exceed the creature's maximum hit points. If the potion restores more than the creature has in missing hit points, the excess is lost.",
+    "rules": [
+      "Equipment > Potion of Healing",
+      "Damage and Healing > Healing"
+    ],
+    "rules_explanation": "The Equipment entry describes the effect of consuming a Potion of Healing.  The Damage and Healing entries discuss what occurs if a creature heals for more hit points than they are missing.  Excess healing is lost."
+  },
+  {
+    "question": "What does the Hold Person spell affect?",
+    "answer": "A humanoid creature must succeed on a Wisdom saving throw or be paralyzed for the duration",
+    "rules": [
+      "Spellcasting > Hold Person"
+    ],
+    "rules_explanation": "The Hold Person spell affects a humanoid."
+  },
+  {
+    "question": "When a character casts a level-appropriate spell, such as Hold Person, using a spell slot of a higher level, such as a 3rd-level or higher slot, what changes about the spell?",
+    "answer": "You can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.",
+    "rules": [
+      "Spellcasting > Casting a Spell at a Higher Level",
+      "Spellcasting > Hold Person"
+    ],
+    "rules_explanation": "For a spell such as Hold Person that allows you to target more creatures when cast at a higher level, the spell's description notes the additional effect."
+  },
+  {
+    "question": "When one's speed is halved, what is the feet of movement per second?",
+    "answer": "This is not defined within SRD, and would be up to the players and DM. In general 1 foot every 2 seconds is the answer.",
+    "rules": [],
+    "rules_explanation": "This answer is derived by dividing a round into six seconds, and each round is the basis of the Speed for characters."
+  },
+  {
+    "question": "What actions or activities cause someone to lose the ability to move?",
+    "answer": "Paralyzed, Restrained, and Prone conditions impact the ability to move.",
+    "rules": [
+      "Appendix PH-A: Conditions"
+    ],
+    "rules_explanation": "The prone condition states \"A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition. A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed. A paralyzed creature ... can't move .."
+  },
+  {
+    "question": "With Detect Thoughts, can specific questions about specific events be asked at the surface?",
+    "answer": "No. Specific elements like that is when you have to delve in.",
+    "rules": [
+      "Spellcasting > Detect Thoughts"
+    ],
+    "rules_explanation": "You initially learn the surface thoughts of the creature—what is most on its mind in that moment. As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind."
+  },
+  {
+    "question": "Can the Light spell target one object at a time or can you target multiple?",
+    "answer": "You touch one object that is no larger than 10 feet in any dimension.",
+    "rules": [
+      "Spellcasting > Light"
+    ],
+    "rules_explanation": "The spell Light can target one object at a time."
+  },
+  {
+    "question": "When you cast Detect Thoughts, can the focus change freely or will it cause the spell to end?",
+    "answer": "As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind.",
+    "rules": [
+      "Spellcasting > Detect Thoughts"
+    ],
+    "rules_explanation": "The duration of Detect Thoughts is concentration, up to 1 minute. You can use your action to focus on another creature without ending the spell."
+  },
+  {
+    "question": "If a creature makes a saving throw with a roll of a fifteen and is also receiving a +2 bonus to the roll, does that succeed?",
+    "answer": "It depends on the DC of the saving throw. If the DC is 17 or lower, it succeeds. If the DC is 18 or higher, it fails.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "A saving throw is successful if the total of the d20 roll plus relevant modifiers equals or exceeds the DC."
+  },
+  {
+    "question": "Can a creature with a 14 charisma be able to roll any sort of skill modifier to the roll of a D20?",
+    "answer": "A charisma of 14 grants a +2 modifier. This modifier is applied to Charisma checks. Charisma checks include skills such as Deception, Intimidation, Performance, and Persuasion",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers",
+      "Using Ability Scores > Skills > Charisma"
+    ],
+    "rules_explanation": "An ability score of 14 grants a +2 bonus to ability checks which use that ability. Charisma checks include the skills Deception, Intimidation, Performance, and Persuasion"
+  },
+  {
+    "question": "Can you attack more than once at the same time when you roll a d20 and add it to a skill attack, which is not related to their level class race?",
+    "answer": "If the character can use more than one reaction, the attacks may be possible.",
+    "rules": [
+      "Combat > Reactions"
+    ],
+    "rules_explanation": "You can take a reaction only when the need or opportunity arises and that you can take only one reaction per round."
+  },
+  {
+    "question": "Is there a limit on the number of long rests characters can take in a certain time frame?",
+    "answer": "A character can't benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "A character can't benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits."
+  },
+  {
+    "question": "Does the detect thoughts spell extend into the feywild?",
+    "answer": "The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you.",
+    "rules": [
+      "Spellcasting > Detect Thoughts"
+    ],
+    "rules_explanation": "According to the spell there are some plane of existence restrictions but not specifically the feywild."
+  },
+  {
+    "question": "If a character casts Calm Emotions and the target was threatened to be killed, would that calm those emotions?",
+    "answer": "Yes, the Calm Emotions spell can be used to attempt to suppress strong emotions in a group of people.",
+    "rules": [
+      "Spellcasting > Calm Emotions"
+    ],
+    "rules_explanation": "Yes, the SRD states the effect of Calm Emotions is to suppress strong emotions in a group of people."
+  },
+  {
+    "question": "Do you have to see the effects of Calm Emotion to feel the effect, or only hear it being cast?",
+    "answer": "Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw.",
+    "rules": [
+      "Spellcasting > Calm Emotions"
+    ],
+    "rules_explanation": "The rules indicate that creatures who are affected must be both seen and heard."
+  },
+  {
+    "question": "Is there a limit on the amount of damage that can be done?",
+    "answer": "For falling damage, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. Other sources of damage do not have similar limitations.",
+    "rules": [
+      "Adventuring > The Environment > Falling"
+    ],
+    "rules_explanation": "Most damage types are determined by specific effects, but falling damage is determined as a function of the distance fallen. There is a specific maximum to falling damage."
+  },
+  {
+    "question": "Can you cast spells on sleeping characters?",
+    "answer": "Depending on the circumstances and the level of the spell, a character can cast spells on other unconscious characters, or use actions to awaken them.",
+    "rules": [
+      "Combat > Actions"
+    ],
+    "rules_explanation": "According to the combat rules a character can cast a spell or help others on an unconscious member."
+  },
+  {
+    "question": "What is the difference between flavor in description and in the rules?",
+    "answer": "This is not defined within the SRD.",
+    "rules": [],
+    "rules_explanation": "This is an opinion based question that cannot be answered with the SRD content."
+  },
+  {
+    "question": "Is there a mechanic where after someone has gotten new memories or new influences that there will be a change in that character? Or do they retain their personal feelings? Are they still them?",
+    "answer": "This is not defined within the SRD and would be up to the DM to decide.",
+    "rules": [],
+    "rules_explanation": "This is an opinion based question that cannot be answered with the SRD content."
+  },
+  {
+    "question": "What does the Heat Metal spell do to the target?",
+    "answer": "Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.\nIf a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.",
+    "rules": [
+      "Spellcasting > Heat Metal"
+    ],
+    "rules_explanation": "The rules specify the full range of potential effects a target creature or object suffers under the Heat Metal spell."
+  },
+  {
+    "question": "What does the Calm Emotions spell do?",
+    "answer": "Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects. You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime. Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.",
+    "rules": [
+      "Spellcasting > Calm Emotions"
+    ],
+    "rules_explanation": "The Calm Emotions spell has two possible effects, only one of which can be applied to targets that fail their initial saving throw."
+  },
+  {
+    "question": "Does removing the Heat Metal spell require physical contact from a caster, what removes Heat Metal?",
+    "answer": "The Heat Metal spell ends if you end concentration.",
+    "rules": [
+      "Spellcasting > Concentration",
+      "Spellcasting > Heat Metal"
+    ],
+    "rules_explanation": "Effects that break concentration as well as a dispel magic would remove Heat Metal."
+  },
+  {
+    "question": "Does the buzzsaw increase or decrease the number of feet someone has available",
+    "answer": "The information presented is not in the document.",
+    "rules": [],
+    "rules_explanation": "There is no rule presented here on a buzzsaw."
+  },
+  {
+    "question": "On a death saving throw of 20 what happens?",
+    "answer": "If you roll a 20 on the d20, you regain 1 hit point.",
+    "rules": [
+      "Combat > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "A roll of a 20 results in the character regaining a hit point."
+  },
+  {
+    "question": "If an attack with advantage rolls a natural one and then rerolls because of the Lucky trait, is the attack roll affected by the advantage?",
+    "answer": "When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The character can only reroll one dice, it is up to the player which one to use."
+  },
+  {
+    "question": "On a natural 20 initiative, the DM gains the upper hand, the action goes to a player, or is initiative decided on a different means?",
+    "answer": "If a tie occurs, the GM decides the order among tied GM-controlled creatures, and the players decide the order among their tied characters. The GM can decide the order if the tie is between a monster and a player character. Optionally, the GM can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "Initiative is the determining factor for who goes first and a natural 20 doesn't supersede that."
+  },
+  {
+    "question": "If a monster is grappled, does that mean they cannot make attacks?",
+    "answer": "The grappled condition doesn't prevent a creature from making attacks unless the effect causing the grapple says otherwise. However, the grappled condition does specify that a creature's speed becomes 0, and it can't benefit from any bonus to its speed, and also attack rolls against the creature have advantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Grappled"
+    ],
+    "rules_explanation": "The grappled condition doesn't impose a condition that prevents the making of attacks."
+  },
+  {
+    "question": "When grappling and applying the effect of Hunger of the Shadow, what can the other target do? It wasn't possible for them to short rest with only two hit points",
+    "answer": "A character's hit points prior to being grappled don't change what the grappled condition allows them to do. Grappled means their speed becomes 0 and they can't benefit from any bonus to their speed and attack rolls against the creature have advantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Grappled"
+    ],
+    "rules_explanation": "The description of grappled specifies what conditions apply to the condition."
+  },
+  {
+    "question": "What effect does the Heat Metal spell have on metal armor, and is there a means of avoiding that?",
+    "answer": "Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.\nIf a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.",
+    "rules": [
+      "Spellcasting > Heat Metal"
+    ],
+    "rules_explanation": "The Heat Metal spell description describes both the direct and secondary effect."
+  },
+  {
+    "question": "What are the hit points of Fresh Cut Grass?",
+    "answer": "That's a question about a specific character, which this tool has been instructed not to answer.",
+    "rules": [],
+    "rules_explanation": "This is a request for character-specific information, which has been excluded by instructions. To determine HP in general, the 'Hit Points' rules section is relevant, as is the 'Leveling Up' section for HP at subsequent levels."
+  },
+  {
+    "question": "What are the options when applying the Touch in the feat Multiattack to one type?",
+    "answer": "That rules reference appears to be incomplete/incorrect, so I cannot answer this question.",
+    "rules": [],
+    "rules_explanation": "I am unable to answer this question."
+  },
+  {
+    "question": "Does a restrained creature need to have the ability to move to take an action?",
+    "answer": "A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.  A restrained creature can still take actions unless the condition says otherwise",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained",
+      "Combat > Actions"
+    ],
+    "rules_explanation": "While restrained imposes limited mobility, it does not directly inhibit the ability to take actions."
+  },
+  {
+    "question": "If Imogen casts Calm Emotions on somebody who is not enthralled by it, can she stop them from moving from their position?",
+    "answer": "The spell, Calm Emotions, does not stop a creature from moving.",
+    "rules": [
+      "Spellcasting > Calm Emotions"
+    ],
+    "rules_explanation": "The spell, Calm Emotions, makes no mention of altering movement or position."
+  },
+  {
+    "question": "Ashton is ready to pass out in the laboratory, what happens if they encounter radiation?",
+    "answer": "This information does not exist in the srd.",
+    "rules": [],
+    "rules_explanation": "The question mentions a location and an effect that are not detailed in the available context."
+  },
+  {
+    "question": "What happens if you are hit by a hammer?",
+    "answer": "There are a number of rules associated with being hit by a hammer based on other conditions.",
+    "rules": [
+      "Combat > Actions",
+      "Equipment > Weapons"
+    ],
+    "rules_explanation": "The damage taken depends on the type of hammer, and it depends on special abilities and actions."
+  },
+  {
+    "question": "Does a short rest heal people?",
+    "answer": "A character can spend one or more Hit Dice at the end of a short rest, up to the character's maximum number of Hit Dice, which is equal to the character's level. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier to it. The character regains hit points equal to the total.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "Characters are able to spend Hit Dice to heal after a short rest."
+  },
+  {
+    "question": "Birdie checks for traps, what rolls are needed?",
+    "answer": "Make a perception check",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The player character checks for traps by making a perception check."
+  },
+  {
+    "question": "Can you do something mean to the dolls made of the characters or their creations?",
+    "answer": "There is no mention of dolls made in the SRD. If you can create a doll, you may do something with it.",
+    "rules": [],
+    "rules_explanation": "There is no reference of the magic doll and what it can or cannot do."
+  },
+  {
+    "question": "What happens if there are two minds melding?",
+    "answer": "There is definitely a give and take with the attention of the mind.",
+    "rules": [],
+    "rules_explanation": "There is no rule about two minds melding only what it could be like."
+  },
+  {
+    "question": "What's the rule with being full with a long rest?",
+    "answer": "Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "The rules mention food as part of a long rest for exhaustion reasons."
+  },
+  {
+    "question": "How many minutes do you have to focus to concentrate on a spell",
+    "answer": "That depends on the casting time and the duration of the spell.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Concentration"
+    ],
+    "rules_explanation": "The spell may have an initial casting time of 1 action, minute, etc. and also has an effect with a duration that involves maintaining concentration."
+  },
+  {
+    "question": "Can you climb on a telescope?",
+    "answer": "This depends on the circumstances.",
+    "rules": [],
+    "rules_explanation": "This is not something that is part of the SRD."
+  },
+  {
+    "question": "What check does the character class race do to move and swing around a telescope?",
+    "answer": "Make an acrobatics check",
+    "rules": [],
+    "rules_explanation": "Based on what they are trying to do."
+  },
+  {
+    "question": "What modifier would you use with Acrobatics?",
+    "answer": "Acrobatics uses the Dexterity modifier",
+    "rules": [
+      "Using Ability Scores > Skills > Dexterity"
+    ],
+    "rules_explanation": "The Dexterity section of the SRD lists Acrobatics as a Dexterity-based skill."
+  },
+  {
+    "question": "What modifier is added to a perception check?",
+    "answer": "Add your Wisdom modifier",
+    "rules": [
+      "Using Ability Scores > Skills > Wisdom"
+    ],
+    "rules_explanation": "The Wisdom section of the SRD lists Perception as a Wisdom-based skill."
+  },
+  {
+    "question": "While flying, what is the maximum feet above ground a character can travel during a round?",
+    "answer": "A character with a flying speed can use all or part of its movement to fly. This is the number of feet that the character or monster can travel.",
+    "rules": [
+      "Adventuring > Movement > Speed"
+    ],
+    "rules_explanation": "Your fly speed determines how far you can fly per turn."
+  },
+  {
+    "question": "What edition is the phrase the amount of experience points awarded for killing creatures at the end of a session relevant to?",
+    "answer": "Unless something tells you otherwise, a monster summoned by a spell or other magical ability is worth the XP noted in its stat block.",
+    "rules": [
+      "Monsters > Challenge > Experience Points"
+    ],
+    "rules_explanation": "You get experience points for fighting creatures, regardless of when you do it. If there are other things that change that would be different but not without it specifically saying."
+  },
+  {
+    "question": "Can a 2nd-level character use a 4th-level spell slot?",
+    "answer": "No.",
+    "rules": [
+      "Spellcasting > Spell Slots",
+      "The Bard",
+      "The Cleric",
+      "The Druid",
+      "The Ranger",
+      "The Sorcerer",
+      "The Wizard"
+    ],
+    "rules_explanation": "The Bard, Cleric, Druid, Ranger, Sorcerer, and Wizard tables show how many spell slots you have to cast your spells of 1st level and higher. A 2nd level character does not have any spell slots higher than level 1."
+  },
+  {
+    "question": "If one character does not want another character around them, what is their options?",
+    "answer": "The rules don't specify a mechanical way to prevent a character from being near another. The DM can make a ruling about whether a character's actions are unwanted and ask that they stop, and can further impose penalties or conditions for unwanted advances.",
+    "rules": [],
+    "rules_explanation": "There is no way to prevent another character to not want around you"
+  },
+  {
+    "question": "Can you take a short rest after a long rest and scout?",
+    "answer": "A short rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "No, there's no rule to have a certain timeframe after a long rest to take a short rest."
+  },
+  {
+    "question": "If they think there was a mistake and ask to use another spell when they're using the wrong action, is that allowed",
+    "answer": "This depends on the specific combination of actions and spells attempted.",
+    "rules": [],
+    "rules_explanation": "There is no rule in the srd to answer this question."
+  },
+  {
+    "question": "If the game has a day ending and the character is at a certain point in their influence, does it still work?",
+    "answer": "That's depends entirely on the spell in question",
+    "rules": [],
+    "rules_explanation": "Each spell or effect with a duration states how that duration interacts with time. In the absence of specific rules, a day ending has no effect on an existing game effect."
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "question": "The level 5, class Druid, Fearne's advantage on perception checks from *Owl's Wisdom* is only for one check, correct?",
+    "answer": "Correct. The level 5, class Druid, Fearne only has advantage on one perception check from the use of the feat Owl's Wisdom.",
+    "rules": [
+      "Class Features > Feats"
+    ],
+    "rules_explanation": "The rule on feats states, in general, Owl's Wisdom gives the use advantage on Wisdom checks, but in this case only one check is stated and only applies when the feat it's used."
+  },
+  {
+    "question": "Can a level 5, Druid use *Wild Shape* to turn into a frog, and can *Detect Thoughts* be used through a form that isn't her own?",
+    "answer": "Yes, a Druid can use *Wild Shape* to turn into a frog as the frog has a challenge rating of 0, which is lower than Fearne's maximum challenge rating. No, because the description for feat is Detect Thoughts cannot be used through her",
+    "rules": [
+      "Druid > Wild Shape"
+    ],
+    "rules_explanation": "When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed."
+  },
+  {
+    "question": "Does it require concentration for a level 5, Druid, Laudna to keep the yarn going?",
+    "answer": "No, keeping the yarn going does not require concentration as it is not a spell.",
+    "rules": [],
+    "rules_explanation": "This is a judgement based on the fact that no source or ability that would cause concentration to be used for this activity was mentioned"
+  },
+  {
+    "question": "Can a level 5, Druid cast *Guidance* on herself?",
+    "answer": "Yes. The rules state that when using Guidance, the the effect is putting it on herself.",
+    "rules": [],
+    "rules_explanation": "When a character is a cleric, they can use a guidance to do herself."
+  },
+  {
+    "question": "Does a level 5 history of a person check allow the person to use a bonus?",
+    "answer": "No. There is no rule or item that is specified that would allow that bonus to be used in this situation.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "There is no explicit permission that a bonus can be used on a history check in the rules."
+  },
+  {
+    "question": "Does casting Guidance on herself as a cleric, allow her to guide herself?",
+    "answer": "Yes, the use of a guidance can guide herself as long as the time, as the situation to where her guide or using it.",
+    "rules": [
+      "Class Features > Spellcasting"
+    ],
+    "rules_explanation": "Clerics get the Guidance cantrip as a class feature, and can use it to aid themselves."
+  },
+  {
+    "question": "If a roll on a d20 for an attack is a 20, does the attack hits?",
+    "answer": "Yes, it does hit.  The attack hits regardless of any modifiers or the target's Armor Class (AC).",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target's AC. This is called a critical hit."
+  },
+  {
+    "question": "If an iphone has any power to break spells?",
+    "answer": "No. There is no mention of an iphone in the spell list.",
+    "rules": [],
+    "rules_explanation": "The rules do not cover devices from the modern world such as an iphone."
+  },
+  {
+    "question": "What type of check is needed for Imogen to know a connection between the moons, and her dreams?",
+    "answer": "A history check would be needed.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The dream and moon information is historical."
+  },
+  {
+    "question": "What is the mechanics of when a creature is considered dead?",
+    "answer": "You either die outright or fall unconscious. You die if the remaining damage equals or exceeds your hit point maximum.",
+    "rules": [
+      "Combat > Damage and Healing > Dropping to 0 Hit Points > Instant Death"
+    ],
+    "rules_explanation": "The rules state that When damage reduces you to 0 hit points and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum."
+  },
+  {
+    "question": "Can Orym take any assistance?",
+    "answer": "Yes Orym can take assistance",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The rules state that Sometimes two or more characters team up to attempt a task. The character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters."
+  },
+  {
+    "question": "what bonuses are applied to investigation or arcana check for this in those items, she is 100 % that they can handle it, the base line,",
+    "answer": "An investigation check is a general check so would not require any bonuses",
+    "rules": [],
+    "rules_explanation": "Rules state that an investigation and arcana check are required to help to identify a check."
+  },
+  {
+    "question": "Can the rouge use Cunning Action to take a bonus action?",
+    "answer": "Yes. Starting at 2nd level, the rougue's quick thinking and agility allow them to move and act quickly and may use a bonus action on each of their turns in combat to take the Dash, Disengage, or Hide action.",
+    "rules": [
+      "Rougue > Class Features > Cunning Action"
+    ],
+    "rules_explanation": "The rules state that Starting at 2nd level, their quick thinking and agility allow them to move and act quickly and may use a bonus action on each of their turns in combat. This action can be used only to take the Dash, Disengage, or Hide action."
+  },
+  {
+    "question": "Can this group do multiple shops at once, or would they have to split up?",
+    "answer": "The shop is a role play moment. The game is for anyone for the other to play that game.",
+    "rules": [],
+    "rules_explanation": "This is up to the GM and the players to decide how to handle the situation."
+  },
+  {
+    "question": "Is the DC for Detect Thoughts being a good one and be used?",
+    "answer": "If she has her DC for detecting thoughts and you to know what it is, and DC is a Wisdom. She would need to get all of their thoughts .",
+    "rules": [
+      "Spells > Detect Thoughts"
+    ],
+    "rules_explanation": "DC is determined by the spellcasting modifier, as well, as, Intelligence that is to have the saving thrown DC"
+  },
+  {
+    "question": "If you see your room number in a inn is 100 feet, is a safe number that's not a problem or is that some problem at all?",
+    "answer": "Given the proximity and the nature the area in which is trying to look for the room that was 100 feet away the number safe.",
+    "rules": [],
+    "rules_explanation": "There is no problem related to seeing a room number 100 feet away in the rules."
+  },
+  {
+    "question": "Can a Ruidusborns have like crazy dreams?",
+    "answer": "The source mention various signs of Ruidusborn is to have like super wild dreams, and other just the same.",
+    "rules": [],
+    "rules_explanation": "This is based on the world building elements and does not have an exact SRD reference"
+  },
+  {
+    "question": "Does the wild soul have advantage and intelligence saving?",
+    "answer": "There is no rule that states \"wild soul\" is a specific status that would grant advantage on Intelligence saving throws",
+    "rules": [],
+    "rules_explanation": "This is based on the world building elements and does not have an exact SRD reference"
+  },
+  {
+    "question": "How is an insight check preformed?",
+    "answer": "To make an insight check, roll a d20 and add the relevant ability modifier, as well as any applicable skill proficiency bonus and other modifiers. Compare the total to a DC. If the total equals or exceeds the DC, the ability check is a success",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success."
+  },
+  {
+    "question": "How is a perception check preformed?",
+    "answer": "To make an perception check, roll a d20 and add the relevant ability modifier, as well as any applicable skill proficiency bonus and other modifiers. Compare the total to a DC. If the total equals or exceeds the DC, the ability check is a success",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success."
+  },
+  {
+    "question": "How is a history check preformed?",
+    "answer": "To make a history check, roll a d20 and add the relevant ability modifier, as well as any applicable skill proficiency bonus and other modifiers. Compare the total to a DC. If the total equals or exceeds the DC, the ability check is a success",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success."
+  },
+  {
+    "question": "How is a deception check preformed?",
+    "answer": "To make a deception check, roll a d20 and add the relevant ability modifier, as well as any applicable skill proficiency bonus and other modifiers. Compare the total to a DC. If the total equals or exceeds the DC, the ability check is a success",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success."
+  },
+  {
+    "question": "How is an intimidation check preformed?",
+    "answer": "To make a intimidation check, roll a d20 and add the relevant ability modifier, as well as any applicable skill proficiency bonus and other modifiers. Compare the total to a DC. If the total equals or exceeds the DC, the ability check is a success",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success."
+  },
+  {
+    "question": "How is a persuasion check preformed?",
+    "answer": "To make a persuasion check, roll a d20 and add the relevant ability modifier, as well as any applicable skill proficiency bonus and other modifiers. Compare the total to a DC. If the total equals or exceeds the DC, the ability check is a success",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success."
+  },
+  {
+    "question": "What is the definition of 'half cover'?",
+    "answer": "A target with half cover has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "A target with half cover has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body."
+  }
+]

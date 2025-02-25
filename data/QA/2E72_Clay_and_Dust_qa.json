@@ -1,0 +1,308 @@
+[
+  {
+    "question": "When making a check, can a player roll twice and take the higher value? Level 5 Cleric and Level 5 Fighter are trying to make a perception check. Charisma 13, Intelligence 16, Strength 14, Wisdom 18, Dexterity 15, and Constitution 16",
+    "answer": "As a general rule, no.  Circumstances may give a character advantage and provide 2 rolls and the higher value is used, or give disadvantage and provide 2 rolls and the lower value is used, but otherwise 1 roll is made and the modifiers are added to the roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The base rules for ability checks allow only for one roll per check. Advantage and disadvantage can cause additional die to be rolled"
+  },
+  {
+    "question": "If the character tastes the smoke in the air to see if its toxic, is a save or check required? Level 5 Cleric. Charisma 13, Intelligence 16, Strength 14, Wisdom 18, Dexterity 15, and Constitution 16",
+    "answer": "A Constitution saving throw is required.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The GM determines when a saving throw is required by a game effect, in this case testing to see if the gas affects the character's constitution."
+  },
+  {
+    "question": "Does the weapon proficency apply if I have the weapon in my hands, trying to break ice? Level 5 Fighter. Charisma 13, Intelligence 16, Strength 14, Wisdom 18, Dexterity 15, and Constitution 16",
+    "answer": "It is not explicitly defined in the rules if the user can use a charisma bonus in place of a strength check for breaking the ice, but the description of strength checks may include similar options, or the DM may make a judgement to determine the appropriate check. Charisma 13, Intelligence 16, Strength 14, Wisdom 18, Dexterity 15, and Constitution 16.",
+    "rules": [
+      "Using Ability Scores > Strength > Strength Checks"
+    ],
+    "rules_explanation": "The rules do not cover situations such as breaking ice, but do suggest using Strength checks for similar attempts to break or force something. The DM has the final say on the type of check required and what modifiers can be used."
+  },
+  {
+    "question": "What is the distance of Detect Undead range? Level 5 Cleric. Charisma 13, Intelligence 16, Strength 14, Wisdom 18, Dexterity 15, and Constitution 16",
+    "answer": "I am sorry, but I cannot answer this. Spells are detailed in the Player's Handbook, not the SRD.",
+    "rules": [],
+    "rules_explanation": "Spell descriptions are not part of the SRD."
+  },
+  {
+    "question": "Does having a spell prepared have any effect on what happens when an intelligent character is turned into an animal using polymorph, and what spell languages they would know or not? Level 5 Wizard",
+    "answer": "It is not possible to answer this question using only the SRD. A spell of that name affects the mental ability scores of the target, along with other statistics, the question depends on the individual creature form what spell languages they would know.",
+    "rules": [
+      "Classes > Wizard > Spellcasting > Preparing and Casting Spells",
+      "Monsters > Types > Shapechanger"
+    ],
+    "rules_explanation": "The rules for spellcasting in this situation depend on the statistics of the target, and the exact interaction of a spell with mental statistics of the new form."
+  },
+  {
+    "question": "What are the rules for a check that lets you imagine that sure, maybe half of them are pitching a tent. Level 5 Fighter. Charisma 13, Intelligence 16, Strength 14, Wisdom 18, Dexterity 15, and Constitution 16",
+    "answer": "There are no rules for this. In a situation where there is a specific ability score or skill that applies to the circumstances, use that skill. Otherwise, the DM determines whether an ability check is required and determines the DC.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The SRD has no rules for making checks related to attraction. The question refers to a scene where the audience is described as eyeless ghosts."
+  },
+  {
+    "question": "Does the druid get to speak in polymorph form if they normally know common, the Auran language?",
+    "answer": "It is not possible to answer this question using only the SRD. Polymorph requires you to have intelligence as the animal and thus cannot understand and communicate with the Auran or common language",
+    "rules": [
+      "Spellcasting",
+      "Monsters > Types > Shapechanger"
+    ],
+    "rules_explanation": "The rules for spellcasting in this situation depend on the statistics of the target, and the exact interaction of polymorph with mental statistics of the new form."
+  },
+  {
+    "question": "If polymorph causes the wisdom score to change, what happens to the skills from the initial form? Giant Eagle stats, plus four to its perception. The wind gets stronger the higher up you go, and want giant eagle details on what is possible or not possible. Level 5 wizard.",
+    "answer": "When you transform, you assume the beast's hit points and Hit Dice, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.",
+    "rules": [
+      "Spellcasting > What is a spell? > Polymorph"
+    ],
+    "rules_explanation": "The statement in polymorph of 'Your game statistics are replaced by the statistics of the beast' includes skill proficiencies. If the bonus is higher in new creature statistics, use those values over original value"
+  },
+  {
+    "question": "Can the eagles technically speak but can understand Common and Auran language? Level 5 Bard and Level 5 wizard",
+    "answer": "No. The spell description of Polymorph in the SRD indicates that the character is limited in actions that they can perform due to their polymorphed shape.",
+    "rules": [
+      "Spellcasting > What is a spell? > Polymorph"
+    ],
+    "rules_explanation": "The SRD Polymorph spell description limits actions based on physical capabilities, but it does not allow for speech capabilities outside what the new form allows."
+  },
+  {
+    "question": "When a wizard multiclasses into another class, is there some way for them to understand everything?.",
+    "answer": "No, the Polymorph spells can be used to change into different forms, but you cannot learn everything at once.",
+    "rules": [
+      "Multiclassing"
+    ],
+    "rules_explanation": "There are no multiclassing feats which would allow a class to fully understand everything and there is no such ability found in the general SRD rules. The statement 'but you can be learned' sounds more like a roleplay aspect than any actual game mechanic or rule."
+  },
+  {
+    "question": "During the Polymorph state, what can the character understand, even without being able to speak? Level 5 Wizard",
+    "answer": "It is not possible to answer this question using only the SRD. Polymorph changes the mental ability scores of the target, which would allow the possibility of understanding language but not speaking. However, the nature and degree of such understanding depends on the specific situation and creature in question.",
+    "rules": [
+      "Spellcasting > What is a spell? > Polymorph"
+    ],
+    "rules_explanation": "The Polymorph spell changes a creature's statistics. The extent to which the new form is able to understand the old languages depends on the new INT and Wisdom, and the GM's discretion."
+  },
+  {
+    "question": "If a character who is size large is being carried by a giant eagle, how does this impact the strength check? Two Level 5 wizards Polymorphed themselves into giant eagles, and want to carry smaller members.",
+    "answer": "When you make an ability check, the two most common modifiers to the roll are an ability modifier and the character's proficiency bonus.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Modifiers to the Roll"
+    ],
+    "rules_explanation": "The size of the character being carried does not affect the roll, but the carrying capacity of the animal form may. I am sorry, but the carrying capacity of the Giant Eagle is not defined in the SRD. "
+  },
+  {
+    "question": "Given a Polymorphed form, how can the DM specify what check is to be made to not fall? Level 5 Bard using Polymorph",
+    "answer": "When a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the fly spell.",
+    "rules": [
+      "Adventuring > Movement > Special Types of Movement > Flying Movement"
+    ],
+    "rules_explanation": "While there is a check to avoid damage when falling, there isn't explicitly one provided for staying in the air if something goes wrong, although effects that take away movement are explained."
+  },
+  {
+    "question": "Does Jester need to use a death save after getting knocked out of the air, and rolled a death save to succeed? How can the DM adjudicate after that? Level 5 Bard",
+    "answer": "The target takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.",
+    "rules": [
+      "Adventuring > The Environment > Falling"
+    ],
+    "rules_explanation": "The fall does not necessarily result in a need for a death save, it depends on the amount of damage that exceeds their current HP. If they have zero hit points but survive the fall and do not gain additional damage, then they start with death saves each turn"
+  },
+  {
+    "question": "If a spellcaster takes certain damage and suffers a death save, do the same conditions apply? Level 5 Fighter with no spell casting capabilities.",
+    "answer": "There is no correlation between spellcasting and death saving throws. If damage reduces you to 0 hit points and fails to kill you, you fall unconscious and then you must begin making a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life.",
+    "rules": [
+      "Damage and Healing > Dropping to 0 Hit Points > Death Saving Throws"
+    ],
+    "rules_explanation": "Whether you are a spellcaster or not has no impact on whether the damage rules require a death saving throw"
+  },
+  {
+    "question": "Is it possible to take actions that is from your level, even if it meant the player did not meet their own spell save DC? Level 5 Fighter",
+    "answer": "I am sorry, but it is not clear what the player meant by that question. The Fighter class does not have any spellcasting abilities according to the SRD, there are action surge feats but they may not be what is intended.",
+    "rules": [],
+    "rules_explanation": "The question is not understandable without additional context, so I am not able to give an answer. Level 5 Fighter has nothing relating to Spellcasting, therefore I'm unable to follow through with the intent of the question."
+  },
+  {
+    "question": "Does a range limit of Teleportation apply to the situation? and if you have more knowledge of that area? A destination you select.",
+    "answer": "It is not possible to answer this question using only the SRD.",
+    "rules": [],
+    "rules_explanation": "The Teleport spell description is not part of the SRD."
+  },
+  {
+    "question": "If it would be possible to get a clue from the place where their family is going after this, or what their plans were? the GM will ask. Level 5 Fighter",
+    "answer": "The Detect Thoughts spell has the following range: 30 feet. For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you.",
+    "rules": [
+      "Spell List > Wizard > 2nd Level > Detect Thoughts"
+    ],
+    "rules_explanation": "This question has the traits of an attempt to Detect Thoughts on other creature. The spell would allow the player to learn more information about where other party members are planning to go."
+  },
+  {
+    "question": "If you find you have to leave this place, you're welcome. what will you do?",
+    "answer": "It is not possible to answer this question using only the SRD. However, depending on what resources are available, the player can try to Persuade Jeramess",
+    "rules": [],
+    "rules_explanation": "This question appears to be a leading question for a future persuasion check"
+  },
+  {
+    "question": "Is there a system of cleaning things after you cremate bodies?",
+    "answer": "Sanitation? It's fucking fire.\"",
+    "rules": [],
+    "rules_explanation": "The response from the NPC provides all the information in this example. There are no rules on this other than DM's discretion."
+  },
+  {
+    "question": "How far is the Savalirwood from where we are right now?",
+    "answer": "It's about 200 miles.",
+    "rules": [],
+    "rules_explanation": "Information provided by the DM."
+  },
+  {
+    "question": "For all the time we're here, we're going to be here overnight maybe?",
+    "answer": "You can have my other son's room for the night. It's probably not the best, but it'll work. At the very least, we'll get you some blankets, and-- though you may not need them, it's not very cold in here.",
+    "rules": [],
+    "rules_explanation": "Information provided by the DM."
+  },
+  {
+    "question": "Does it change anything, can he get a plus point one to all my history rolls?",
+    "answer": "I am sorry, but these elements of the Role-Playing game are not covered in the SRD",
+    "rules": [],
+    "rules_explanation": "I am unable to answer this question as it is subjective to the DM"
+  },
+  {
+    "question": "If I conjured an image of what Vandran looks like, could you send him a message? Fjord is level 5. Charisma 13",
+    "answer": "A character must have a Charisma score of 13 or higher to multiclass in classes such as the Bard, Paladin, Sorcerer, and Warlock classes. Level does not matter for the purposes of spell casting.",
+    "rules": [
+      "Multiclassing > Prerequisites"
+    ],
+    "rules_explanation": "The Charisma score is all that matters for spellcasting checks and bonuses, levels have nothing to do with casting spells."
+  },
+  {
+    "question": "Could you add the name on a familiar to be detected? It will save time on Detect Magic and have different result? Level 5 Bard and Level 5 Wizard, know Polymorph",
+    "answer": "It is not possible to answer this question using only the SRD. The familiar depends on whether it can affect a creature or not, and this will be determined using DM discretion.",
+    "rules": [],
+    "rules_explanation": "This is dependent on DM discretion, and how the monster operates and whether it has any resistances or the like."
+  },
+  {
+    "question": "Does my intelligence go down if the power is left? Level 5 Warlock",
+    "answer": "I need more context to answer this. Do you mean when the duration of a spell ends?",
+    "rules": [],
+    "rules_explanation": "Unable to discern context."
+  },
+  {
+    "question": "Is he going to know what Fjord is",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "This is a call made by the Dungeon Master."
+  },
+  {
+    "question": "You have it that I can do a 15th test in stealth. Can I try again?",
+    "answer": "There is no ability defined in the SRD that lets a level 5 character take a 15th test in stealth or automatically hide. Whether a check can be made again depends on the circumstances.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The SRD has no rule that grants a 15th test on stealth, there is no such test, and in general, a character cannot make checks an unlimited number of times"
+  },
+  {
+    "question": "We have the dome on the side. camping, do you want to go ahead and move on to the next day's activity? Do we get to heal? What is the healing that we get?",
+    "answer": "At the end of a long rest, a character regains all lost hit points.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "During a long rest a character regains all lost hit points"
+  },
+  {
+    "question": "How many uses does the level 5 Bard have for their messages, and did Caduceus talk with the Wildmother?",
+    "answer": "The number of uses for Bardic Inspiration in the SRD is equal to your Charisma modifier (minimum of once). The specific of what the Dungeon Master determines from the god are outside the scope of the SRD.",
+    "rules": [
+      "Classes > Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "The level 5 bard is capable of having the Bardic Inspiration depend on their Charisma modifier. What was said by the wildmother cannot be explicitly answered by using the System Reference Document."
+  },
+  {
+    "question": "Can you ask, like, a favor? If I, like, conjured an image of what Vandran looks like, could you send him a message?",
+    "answer": "It is your Charisma modifier to use that spell.",
+    "rules": [],
+    "rules_explanation": "The caster in question is casting sending. It is to be assumed that they can cast sending, and that is the method being used."
+  },
+  {
+    "question": "If the target is native to a different plane of existence than the one you're on, will the spell work? is on the other side? Level 5 Bard",
+    "answer": "If the target is native to a different plane of existence than the one you're on, the target is banished with a faint popping noise, returning to its home plane.",
+    "rules": [
+      "Spellcasting > Banishment > Targets"
+    ],
+    "rules_explanation": "According to the SRD's description of the spell banishment."
+  },
+  {
+    "question": "Is his heat coming out, how much heat's coming out of this?",
+    "answer": "Judging just at this point, it's not a vast amount of heat. It's warm, and definitely it's comforting based on the chilled atmosphere that is currently growing increasingly less and less serviceable for life as the storm begins to increase in intensity.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master provides the answer."
+  },
+  {
+    "question": "Am I going to drop off the table?",
+    "answer": "I am unable to answer this question as it is subjective and depends on the situation.",
+    "rules": [],
+    "rules_explanation": "This is a role-playing question that I cannot answer. It would also violate the restrictions of being from the SRD material."
+  },
+  {
+    "question": "Given Eagle's Strength, each of you, please, to make a strength check using the eagles' strengths. plus 3. plus whatever. What are the strength bonus?.",
+    "answer": "I am unable to answer due to the limitations in information about Giant Eagle.",
+    "rules": [],
+    "rules_explanation": "The Strength score for a Giant Eagle is not listed within the SRD material."
+  },
+  {
+    "question": "Can I fly after her and try to grab her up?",
+    "answer": "You can certainly try.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master is answering subjectively."
+  },
+  {
+    "question": "Does looking like one of a specific player's faces help you in this game?",
+    "answer": "These legends can be used to enhance and quicken the enchanting process, which is why it's so sought after, and it's a definitive secret of Whitestone.",
+    "rules": [],
+    "rules_explanation": "Whitestone's refined material and secrets are referenced. However, information from a source other than the SRD is required to understand the question fully."
+  },
+  {
+    "question": "With that handful, how much is that residuum that is taken off, how much do you estimate residuum amount, I'm taking a look at it- make an intelligence check, actually? Level 5 Rogue, Wizard makes an attempt.",
+    "answer": "As level 5 rouge, the player has proficiency with the tools that they use. Since it's a direct check, not requiring some sort of action, make an intelligence check.",
+    "rules": [
+      "Classes > Rogue > Expertise"
+    ],
+    "rules_explanation": "This is a check to assess the value of the bag of residuum, so it should be an intelligence check."
+  },
+  {
+    "question": "For any spell, Do I have any components for any spell? Level 5 Rogue and Wizard, make a check",
+    "answer": "You can make a check to replace those materials from your alchemist’s tools.",
+    "rules": [],
+    "rules_explanation": "Wizard is going to roll to find the equivalent"
+  },
+  {
+    "question": "Should we use this stuff? Is there any other catalyst that might make this-- lower melting points of different sort of? I'm going to walk over to the bag",
+    "answer": "There are many catalysts here. For the sake of me not going here and spewing a bunch of incorrect chemical information for all of our chemists who are watching the show who would just destroy me on Twitter, there are a handful that you think of.",
+    "rules": [],
+    "rules_explanation": "DM explains what he will allow to be determined."
+  },
+  {
+    "question": "Can they be a lot, but I definitely vouch for them. Laura, is there anything you want to learn?",
+    "answer": "Make a persuasion check.",
+    "rules": [
+      "Skills"
+    ],
+    "rules_explanation": "The GM is requesting a skill check to influence the NPC's decision to allow Laura to write in the book."
+  },
+  {
+    "question": "Is she decieving us?",
+    "answer": "Make an insight check.",
+    "rules": [
+      "Skills > Wisdom > Insight"
+    ],
+    "rules_explanation": "The DM asked for a skill check to determine if the players can tell if the NPC is decieving them."
+  },
+  {
+    "question": "If there are people down in the lake who want company, can that be the reason they show up as ghost, or is it because it's cold weather?",
+    "answer": "The Cinderrest Sanctum could contain many cremated remains of hundreds of people rolling into the lake and becoming ghosts.",
+    "rules": [],
+    "rules_explanation": "This is a judgement call for the DM"
+  }
+]

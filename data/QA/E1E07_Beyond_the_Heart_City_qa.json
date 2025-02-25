@@ -1,0 +1,211 @@
+[
+  {
+    "question": "The hexblade warlock (level, warlock) made a charisma saving throw and got a 16. What happens?",
+    "answer": "With a 16, you reach inward, and it's not the sense of loss or a hole there, but you can't access that part of your magic that you know is so deeply tied to your connection with Ted.",
+    "rules": [
+      "Spellcasting > Ability Checks"
+    ],
+    "rules_explanation": "The transcript describes the warlock making a saving throw determined by her spellcasting ability modifier (Charisma)."
+  },
+  {
+    "question": "The divine soul sorcerer (level, sorcerer) is going to \"make a roll with your spell attack modifier.\" What does this mean?",
+    "answer": "This requires adding the sorcerer's proficiency bonus to their Charisma modifier and rolling a d20.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability > Spell attack modifier"
+    ],
+    "rules_explanation": "A spell attack modifier is your proficiency bonus + your Spellcasting Ability."
+  },
+  {
+    "question": "The divine soul sorcerer (level, sorcerer) is asked to make an insight check. What does this mean?",
+    "answer": "This requires rolling a d20 and adding their Wisdom modifier and proficiency bonus if proficient in Insight.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "An insight check is a Wisdom ability check. If the character is proficient in insight, add their proficiency bonus."
+  },
+  {
+    "question": "The divine soul sorcerer (level, sorcerer) is asked to make an investigation check. What does this mean?",
+    "answer": "This requires rolling a d20 and adding their Intelligence modifier and proficiency bonus if proficient in Investigation.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "An investigation check is an Intelligence ability check. If the character is proficient in Investigation, add their proficiency bonus."
+  },
+  {
+    "question": "Aabria asks dorian to \"Roll a percent-- just give me a percentile die.\" What does she mean?",
+    "answer": "She is asking for a roll of a d100 using two d10s.",
+    "rules": [],
+    "rules_explanation": "A percentage die is another way to reference a d100 or 100 sided dice using two ten-sided dice."
+  },
+  {
+    "question": "the air genasi bard (level, bard) has just finished a long rest, how many levels of exhaustion do they have?",
+    "answer": "After a long rest, exhaustion is reduced by 1 level, but can never go below 0.",
+    "rules": [
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "Long Rests removes 1 level of exhaustion, but exhaustion can never be reduced below zero with a long rest."
+  },
+  {
+    "question": "The hexblade warlock (level, warlock) is to \"take five temporary hit points\", what does this mean?",
+    "answer": "The warlock's current hit points increase by 5, to a maximum of their hit point maximum.  These are temporary hit points, and any damage is subtracted from temporary hit points before reducing current hit points. Temporary hit points do not stack.",
+    "rules": [
+      "Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "The target gains temporary hit points. Temporary hit points are separate from current hit points and are the first to be reduced by damage."
+  },
+  {
+    "question": "The divine soul sorcerer (level, sorcerer) has touched the crown, what does this entail?",
+    "answer": "If the crown is some sort of magic item then, the divine soul sorcerer would need to make a saving throw if he isn't immune. ",
+    "rules": [],
+    "rules_explanation": "This is setting the stage for a future saving throw or test, but the initial touching isn't covered by a specific rule."
+  },
+  {
+    "question": "The divine soul sorcerer (level, sorcerer) is asked to make a Wisdom saving throw, what does this entail?",
+    "answer": "This requires rolling a d20 and adding their Wisdom modifier, and their proficiency bonus if proficient in Wisdom saves.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "A Wisdom saving throw requires the player to roll a d20, adding any modifiers from the appropriate ability and any other applicable bonuses."
+  },
+  {
+    "question": "The halfling fighter (level, fighter) has a perception check with advantage, what does this entail?",
+    "answer": "This requires rolling two d20s, adding their Wisdom modifier and their proficiency bonus if proficient in Perception, and taking the higher result of the two d20 rolls.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A perception check is a Wisdom ability check. If the character is proficient in perception, add their proficiency bonus. Advantage allows you to roll two dice, and take the highest result."
+  },
+  {
+    "question": "The druid is asked to make an arcana check, what does this entail?",
+    "answer": "This requires rolling a d20 and adding their Intelligence modifier and proficiency bonus if proficient in Arcana.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "An arcana check is an Intelligence ability check. If the character is proficient in arcana, add their proficiency bonus."
+  },
+  {
+    "question": "The druid is asked to make a history check with disadvantage, what does this entail?",
+    "answer": "This requires rolling two d20s, adding their Intelligence modifier and proficiency bonus if proficient in History, and taking the lower result of the two d20 rolls.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A history check is an Intelligence ability check. If the character is proficient in history, add their proficiency bonus. Disadvantage requires you to roll two dice, and take the lowest result."
+  },
+  {
+    "question": "The fighter is making an athletics check to throw a rock. What modifier do they add to the roll?",
+    "answer": "The fighter adds their Strength modifier, and their proficiency bonus if proficient in Athletics.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "An athletics check is a Strength ability check. If the character is proficient in athletics, add their proficiency bonus."
+  },
+  {
+    "question": "The fighter, is asked to make a strength saving throw, what does this entail?",
+    "answer": "This requires rolling a d20 and adding their Strength modifier, and their proficiency bonus if proficient in Strength saves.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "A Strength saving throw requires the player to roll a d20, adding any modifiers from the appropriate ability and any other applicable bonuses."
+  },
+  {
+    "question": "The fighter is asked to make a religion check, what does this entail?",
+    "answer": "This requires rolling a d20 and adding their Intelligence modifier and proficiency bonus if proficient in Religion.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "A religion check is an Intelligence ability check. If the character is proficient in religion, add their proficiency bonus."
+  },
+  {
+    "question": "The druid is asked to make a religion or arcana check, what does this entail?",
+    "answer": "This requires rolling a d20, and adding their Intelligence modifier plus their proficiency bonus if proficient in either Arcana or Religion.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "A check for either Religion or Arcana requires the player to roll a d20, adding any modifiers from the Intelligence and proficiency if proficient in either skill."
+  },
+  {
+    "question": "The air genasi bard (level, bard) is asked to make a performance check with advantage, what does this entail?",
+    "answer": "This requires rolling two d20s, adding their Charisma modifier and proficiency bonus if proficient in Performance, and taking the higher result of the two d20 rolls.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Skills",
+      "Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A performance check is a Charisma ability check. If the character is proficient in performance, add their proficiency bonus. Advantage requires you to roll two dice, and take the highest result."
+  },
+  {
+    "question": "The halfling fighter (level, fighter) failed a wisdom saving throw and is going to reroll it, what does this entail?",
+    "answer": "The fighter must roll a d20 and add their wisdom modifier (and proficiency if proficient in Wisdom saves) and must use the result of the new roll.",
+    "rules": [
+      "Using Ability Scores > Saving Throws",
+      "Races > Halfling > Lucky"
+    ],
+    "rules_explanation": "A wisdom saving throw requires the player to roll a d20, adding any modifiers from the appropriate ability and any other applicable bonuses. The halfling racial feature 'Lucky' forces the halfling to use the new result."
+  },
+  {
+    "question": "The fighter failed a dexterity saving throw, is using their pearl of power to use a 2nd level spell slot, and is benefiting from bless, what saving throw modifiers apply?",
+    "answer": "The fighter can choose to recover the expended spell slot of 2nd level. As he has not stated any feature to allow to cast a spell on that turn in addition to pearl of power, he cannot cast any spells on that turn. The d4 from Bless applies.",
+    "rules": [
+      "Spellcasting > Spell Slots",
+      "Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "The fighter has an expended spell slot of 2nd level and can use their Pearl of Power to cast spells and use spell modifiers."
+  },
+  {
+    "question": "The divine soul sorcerer (level, sorcerer) cast bless but targeted everybody else but themselves. However, do they get to add the bless modifiers as well?",
+    "answer": "The divine soul sorcerer, also gets the effects of bless and applies a d4 to attacks and saving throws.",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "Bless effects all targets, when you cast it, you must be sure to be in the correct space of the targets. For targets to be affected by 'Bless' spell, they must all be within 30ft, which you, the caster can also apply to."
+  },
+  {
+    "question": "The cleric is deciding whether to apply light or heavy with their spear. If they choose light, what benefit do they receive?",
+    "answer": "If the light is chosen they can attack twice as gravity is ameliorated and you can move quicker.",
+    "rules": [],
+    "rules_explanation": "This is a special rule created by the DM for this character and isn't based on a RAW interpretation of the rules. Therefore there is no rule."
+  },
+  {
+    "question": "Is it possible for the hexblade warlock (level, warlock) use a cantrip on the monster, Mind Sliver?",
+    "answer": "Mind Sliver can be cast on one creature that is seen in range.",
+    "rules": [
+      "Spell Descriptions > Mind Sliver"
+    ],
+    "rules_explanation": "Mind sliver cast a disorientating spike of psychic energy, a creature that is seen within range must succeed on an intelligence saving throw."
+  },
+  {
+    "question": "The fighter is trying to jump on the platform, but slips. What happens?",
+    "answer": "The fighter must make a strength saving throw. If it is less than 11 the adventurer fails and does not hoist himself up. If it is greater, it gains the top platform.",
+    "rules": [],
+    "rules_explanation": "This is a dm adjudication and has no raw rule."
+  },
+  {
+    "question": "The halfling fighter (level, fighter) is 30ft away, what can they do on their turn?",
+    "answer": "The fighter can reverse from the diving board, then run off it as a ramp to jump minimum of 20 feet or, can make a roll to go further and can get up there and climb. The turn will require action and movement depending on the dice result roll.",
+    "rules": [
+      "Combat > Movement and Position"
+    ],
+    "rules_explanation": "Depending on the roll by the halfling, there are movement options, halfling may or may not make it up onto the platform, and may require a bonus action to complete that requirement."
+  },
+  {
+    "question": "The winged air genasi bard (level, bard) is thinking of making himself heavier. What rule would help with this.",
+    "answer": "As an air genasi, the interplay between the air around you and the air that sort of attends you is strange. And you see that maybe a meter in front of you the wind sort of pushes the fog away, clearing a path for you to head towards The Observer.  You feel where your eye line is, a welling, a concentration of gravity, and you can control it. Before, when you were standing on the hexagonal shape hole, you felt that sort of relative gravity and now you can decide where it is. You get to choose in which direction gravity moves. And it can be 10 feet over an enemy's head and you can slide towards it. It's a matter of spending an action to choose if you want to realign your personal gravitational pull.",
+    "rules": [],
+    "rules_explanation": "This is a special rule created by the DM for this character and isn't based on a RAW interpretation of the rules. Therefore there is no rule."
+  },
+  {
+    "question": "What happens when you destroy a sphere of annihilation with the portable hole?",
+    "answer": "The sphere is destroyed. It is not the effect when a bag of holding and portable hole combine.",
+    "rules": [],
+    "rules_explanation": "The sphere does not have any information that indicates an interaction with the portable hole. It simply gets destroyed. "
+  }
+]

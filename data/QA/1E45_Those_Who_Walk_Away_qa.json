@@ -1,0 +1,124 @@
+[
+  {
+    "question": "The level 4 ranger Vex'ahlia cast Primeval Awareness. What information does she get?",
+    "answer": "The level 4 ranger Vex'ahlia senses a few blips on the far western side of the area that may be a small harpy nest. Vex'ahlia also gets the sense that there is some sort of giant-based lifeform maybe two, three miles north.",
+    "rules": [
+      "Spells > Ranger Spells > Primeval Awareness",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Primeval Awareness spell from the ranger spell list allows a ranger to expend a spell slot and take an action to sense if certain creature types are within 1 mile, or up to 6 if in their favored terrain."
+  },
+  {
+    "question": "The party needs to make stealth checks to avoid detection from an unknown entity. Which players need to make this roll?",
+    "answer": "The rogue and level 5 druid must make stealth checks.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question arises because Laura volunteers that their character will stealth, so they roll a stealth check. Matt then asks if Keyleth also wants to try and stealth."
+  },
+  {
+    "question": "The party makes stealth checks. Roll details are as follows: a level 5 druid has Stealth +7, the human rogue has stealth +14 + 10 from Pass Without Trace. What are the results of those rolls?",
+    "answer": "The level 5 druid has a Stealth check result of the dice rolled + 7 and The human rogue has a Stealth check result of the dice rolled + 14 + 10.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Spells > Abjuration Spells > Pass Without Trace",
+      "Rogue > Class Features > Skills"
+    ],
+    "rules_explanation": "A Stealth skill check involves rolling a d20 and adding the character's Dexterity modifier plus their proficiency bonus if they are proficient in Stealth, and any other relevant bonuses.   The spell Pass Without Trace adds +10 to Dexterity (Stealth) checks and can be cast by a druid."
+  },
+  {
+    "question": "The half-elf rogue is trying to use the Raven's Slumber to trap a monster, is that a valid function of the item?",
+    "answer": "The Dungeon Master states that it is possible to technically use it that way.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "The Dungeon Master is able to change his mind about how his game world functions. It is up to the DM to define what the properties of magical items are, so his word is law about it"
+  },
+  {
+    "question": "A level 5 druid casts Speak With Animals, how long does the spell last?",
+    "answer": "The Speak With Animals spell lasts for 10 minutes.",
+    "rules": [
+      "Spells > Divination Spells > Speak with Animals"
+    ],
+    "rules_explanation": "The duration of the Speak With Animals is listed as 10 minutes in the spell's description."
+  },
+  {
+    "question": "A level 5 druid wishes to cast Speak with Animals to try to win the wolf Galdric as an ally. What should they roll?",
+    "answer": "The level 5 druid should make an Animal Handling check, with advantage because of their ability to speak with the wolf.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master determines that trying to befriend the wolf will involve an Animal Handling check and, since the druid is using Speak with Animals, that check should have advantage."
+  },
+  {
+    "question": "After subduing the wolf Galdric, the party heads back to Whitestone.  A few hours later, what level spell would the level 5 druid need to cast Protection From Energy at, to give two party members resistance to Fire damage?",
+    "answer": "Since the spell Protection from Energy can only affect one creature when cast, only one party member would be protected regardless of what level the spell is cast.",
+    "rules": [
+      "Spells > Abjuration Spells > Protection from Energy"
+    ],
+    "rules_explanation": "Only affects one creature"
+  },
+  {
+    "question": "During the course of an evening involving some travel, a human fighter's exhaustion levels increase to 1. How does that affect them?",
+    "answer": "As a result of level 1 exhaustion, the fighter has disadvantage on ability checks.",
+    "rules": [
+      "Appendix MM-A > Conditions > Exhaustion"
+    ],
+    "rules_explanation": "This questions is answered by the exhaustion levels"
+  },
+  {
+    "question": "After acquiring the Deathwalker's Ward, the party has gained the services of Galdric the wolf. What is their next plan of action?",
+    "answer": "The party plans on setting a great danger on him so he may protect them.",
+    "rules": [],
+    "rules_explanation": "This question involves determining if the information from the text is a rules question. This does not appear to be a rules question."
+  },
+  {
+    "question": "A level 4 wizard is skilled in alchemy. When creating some fire resistance potions, which modifier should be used for Arcana checks?",
+    "answer": "Keyleth should use her Intelligence modifier.",
+    "rules": [
+      "Bard > Class Features > Spells"
+    ],
+    "rules_explanation": "To make a potion you would require proficiency and an Arcana check using intelligence."
+  },
+  {
+    "question": "If a level 4 druid uses their intellect modifier for a tinkering check with their proficiency bonus, do they get advantage? If so, how many gold pieces do they spend?",
+    "answer": "The druid can't use intellect, it's intelligence modifier and would require the appropriate crafting tools. An Arcana check made for creating a potion has a discount due to the roll.",
+    "rules": [
+      "Skills > Skills with Different Abilities"
+    ],
+    "rules_explanation": "Intelligence checks can only occur when the GM judges if it is appropriate. The materials cost are reduced due to the roll and the materials are spent."
+  },
+  {
+    "question": "A level 4 druid is making a tinkering check with an intellect modifier instead of an intelligence modifier. Is this correct?",
+    "answer": "This is not correct. A druid can use her intelligence modifier for crafting, but only if the Dungeon Master judges it is appropriate.",
+    "rules": [
+      "Skills > Skills with Different Abilities"
+    ],
+    "rules_explanation": "While tinkering checks are not explicitly mentioned in the 5e SRD, the section on skills with different abilities indicates that the Dungeon Master can make calls for the ability used in a skill check."
+  },
+  {
+    "question": "The level 4 druid Keyleth has alchemy and attempts to create a potion of fire resistance, and is proficient in alchemy. What roll should she be making, what modifier should be used, and does she have advantage?",
+    "answer": "She must make an Arcana check with her Intelligence modifier with advantage.",
+    "rules": [
+      "Skills > Skills with Different Abilities",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "While alchemy is not explicitly mentioned in the SRD, it implies it falls under Arcana. The dungeon master states that the player gets advantage for being skilled in alchemy. The rules support the Dungeon Master's judgement."
+  },
+  {
+    "question": "What benefit did Keyleth and Percival gain for their characters?",
+    "answer": "When completing the potion, Keyleth and Percival gained the benefit of spending roughly half the amount that is required to create a resistance potion. They also gained character development.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "A magical item is gained which then has its values affected by a roll and materials. This question also has some flavor in the response."
+  },
+  {
+    "question": "What happens when Vax attempts to leave his sister's door?",
+    "answer": "Vax'ildan must roll a stealth check and Vex'ahlia must make a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An example of stealth and perception checks being used against one another."
+  }
+]

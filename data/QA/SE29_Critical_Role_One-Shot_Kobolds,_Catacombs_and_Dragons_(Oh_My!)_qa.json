@@ -1,0 +1,208 @@
+[
+  {
+    "question": "Does the [level 7, rogue, night elf] add her intelligence modifier to the d20 roll for the investigation check?",
+    "answer": "No, the roll is a straight d20.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Player's Handbook (v1.6) > Chapter 7: Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "A straight ability check, with no skill modifier, uses the base d20 roll. The question clarifies what type of check is being made."
+  },
+  {
+    "question": "When the leader casts the dynamite, which stat does [Level 7, Dwarf, Priest]'s Mass Healing Word use for a modifier?",
+    "answer": "Mass Healing Word uses the wisdom modifier as the ability modifier for the roll.",
+    "rules": [
+      "Classes > Cleric > Spellcasting > Spellcasting Ability",
+      "Player's Handbook (v1.6) > Chapter 9: Spells >  Mass Healing Word"
+    ],
+    "rules_explanation": "The question is about which stat should be used with Mass Healing Word. The answer is the fully hierarchy in the SRD document for each rules string in the format Section > Subsection > Rule Name."
+  },
+  {
+    "question": "Does [Level 7, Rogue, Night Elf] get evasion against fire damage?",
+    "answer": "Yes, because she is a rogue.",
+    "rules": [
+      "Classes > Rogue > Evasion",
+      "Player's Handbook (v1.6) > Classes > Rogue > Evasion"
+    ],
+    "rules_explanation": "Evasion states Rogue is not the best sneaky class."
+  },
+  {
+    "question": "If a creature is invisible does that automatically grant advantage on a stealth check?",
+    "answer": "Yes, being invisible grants advantage on a stealth check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage",
+      "Combat > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "This question asks whether invisibility grants advantage on stealth checks."
+  },
+  {
+    "question": "If a [level 7, paladin] casts Command on a troglodyte what is the correct spell save DC?",
+    "answer": "The spell save DC is 13.",
+    "rules": [
+      "Classes > Paladin > Spellcasting > Spellcasting Ability",
+      "Player's Handbook (v1.6) > Chapter 10: Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "Askes what the DC is for a spell."
+  },
+  {
+    "question": "If someone is already tripping can you use the thaumaturgy spell to make the staff look like snakes?",
+    "answer": "That's an illusion spell, Thaumaturgy is very simple. It's a very faint effect that wouldn't have an effect if they weren't already tripping balls.",
+    "rules": [
+      "Spells > Illusion",
+      "Player's Handbook (v1.6) > Chapter 11: Spells > Illusion",
+      "Spells > Thaumaturgy",
+      "Player's Handbook (v1.6) > Chapter 11: Spells > Thaumaturgy"
+    ],
+    "rules_explanation": "The game master determines what is allowed and disallowed in the context of the game. The Dungeon Master (DM) has the last word on rule interpretations or house rules."
+  },
+  {
+    "question": "Does the [level 7, paladin]'s Aura of Protection add to the saving throw?",
+    "answer": "Yes, it does. Add +2 to the saving throw.",
+    "rules": [
+      "Classes > Paladin > Aura of Protection",
+      "Player's Handbook (v1.6) > Classes > Paladin > Aura of Protection"
+    ],
+    "rules_explanation": "Confirms whether a stat bonus should be applied to the roll."
+  },
+  {
+    "question": "if a rogue with evasion makes a dexterity saving throw against fire damage can they take no damage if they succeed?",
+    "answer": "Yes, if they succeed on the saving throw they take no damage.",
+    "rules": [
+      "Classes > Rogue > Evasion",
+      "Player's Handbook (v1.6) > Classes > Rogue > Evasion"
+    ],
+    "rules_explanation": "Confirms interaction between damage and Rogue."
+  },
+  {
+    "question": "What type of check is used to see who can manage to make it across before the explosion?",
+    "answer": "It is an initiative check.",
+    "rules": [
+      "Combat > Initiative",
+      "Player's Handbook (v1.6) > Combat > Initiative"
+    ],
+    "rules_explanation": "Question about which skill checks are performed in the gameplay transcript."
+  },
+  {
+    "question": "Does Disciple of Light grant an extra five points of healing to everyone?",
+    "answer": "Yes.",
+    "rules": [
+      "Classes > Cleric > Divine Domain > Life Domain > Disciple of Life",
+      "Player's Handbook (v1.6) > Classes > Cleric > Divine Domain > Life Domain > Disciple of Life"
+    ],
+    "rules_explanation": "Disciple of Light grants to those getting healed."
+  },
+  {
+    "question": "does she have evasion?",
+    "answer": "Yes, because rogue is best class.",
+    "rules": [
+      "Classes > Rogue > Evasion",
+      "Player's Handbook (v1.6) > Classes > Rogue > Evasion"
+    ],
+    "rules_explanation": "This is a property of the Rogue Class"
+  },
+  {
+    "question": "Can a character who casts Fly skirt the edge of this room and go over there? and see if there is anything worth.",
+    "answer": "It's up to the DM.",
+    "rules": [
+      "Spellcasting > Range",
+      "Player's Handbook (v1.6) > Chapter 10: Spellcasting > Range"
+    ],
+    "rules_explanation": "Player in control of game can play at will."
+  },
+  {
+    "question": "If you're attuning to an item, do you have to roll it out loud?",
+    "answer": "No, I am attuned to nothing, so I will attune to this.",
+    "rules": [
+      "Magic Items > Attunement",
+      "Player's Handbook (v1.6) > Chapter 7: Treasure > Magic Items > Attunement"
+    ],
+    "rules_explanation": "Yes."
+  },
+  {
+    "question": "If the [level 7, gnome, mage]'s staff does not have a range of self can she use the spiritual weapon?",
+    "answer": "It's up to you. Can you get an action before this happens?",
+    "rules": [
+      "Combat > Actions in Combat",
+      "Player's Handbook (v1.6) > Chapter 9: Combat > Actions in Combat"
+    ],
+    "rules_explanation": "Gameplay transcript explains."
+  },
+  {
+    "question": "Does anyone need to make a roll to get across before the explosion?",
+    "answer": "Let's have everyone roll an initiative check right now since technically the combat here is finished. We're going to do this as to see who can manage to make it across before the explosion.",
+    "rules": [
+      "Combat > Initiative",
+      "Player's Handbook (v1.6) > Chapter 9: Combat > Initiative"
+    ],
+    "rules_explanation": "Initiative check to see if anyone succeeds."
+  },
+  {
+    "question": "Can [the level 7, dwarf, priest] do Prayer of Healing while we're walking though?",
+    "answer": "Is it the ten minute one? You have to sit still for ten minutes to do it.",
+    "rules": [
+      "Classes > Cleric > Spell Descriptions > Prayer of Healing",
+      "Player's Handbook (v1.6) > Chapter 11: Spells > Prayer of Healing"
+    ],
+    "rules_explanation": "The text of the spell specifies the casting time and limitations."
+  },
+  {
+    "question": "When the staff is given to the [level 7, gnome, mage] and it says Aluneth does whisper and say \"You've already found a weapon. This is of no use to you.\", does it have some ability that they could read it out loud?",
+    "answer": "Yes. If you'd like to. I have acquired Aluneth. \"This ancient, extremely powerful staff was once owned by Aegwynn.\" Egwin. Agewin.",
+    "rules": [
+      "Magic Items",
+      "Player's Handbook (v1.6) > Chapter 7: Treasure > Magic Items"
+    ],
+    "rules_explanation": "You have acquired Aluneth. \"This ancient, extremely powerful staff was once owned by Aegwynn.\" Egwin. Agewin."
+  },
+  {
+    "question": "Are there two creatures hiding? Were they setting a trap?",
+    "answer": "They were skeletons. They were done. They were dead.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a situation entirely up to DM."
+  },
+  {
+    "question": "Does that's make a difference with the stealth check?",
+    "answer": "Yes.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Player's Handbook (v1.6) > Chapter 7: Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "This confirms the DM is applying the circumstances to the roll."
+  },
+  {
+    "question": "Am I doing this [having to tumble onto it]?",
+    "answer": "Well, you're definitely not hidden from it yet. You have to hide first.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Gameplay Transcript."
+  },
+  {
+    "question": "It was an action to do that? Should I burn my action running?",
+    "answer": "To dash? You can, if you want to. Okay, you go running as it goes charging toward you. It's going to go ahead and attempt to make a charge-slam attack.",
+    "rules": [
+      "Combat > Actions in Combat",
+      "Player's Handbook (v1.6) > Chapter 9: Combat > Actions in Combat"
+    ],
+    "rules_explanation": "Gameplay Transcript."
+  },
+  {
+    "question": "I did have Reeksus with me. Did he get smoked by the fire too?",
+    "answer": "No, because he was a number of feet behind you. He's like, (gasping). But you can make the rest of the way if you would like to.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Yes, you can choose what happens to NPCs."
+  },
+  {
+    "question": "You must have a hand free to access a spell's material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components?",
+    "answer": "Yes.",
+    "rules": [
+      "Spellcasting > Components > Material (M)",
+      "Player's Handbook (v1.6) > Chapter 10: Spellcasting > Components > Material (M)"
+    ],
+    "rules_explanation": "These rules state that you can do so, although it may make sense for the DM to require the use of two hands for a combination of a Material, somatic and verbal spell."
+  }
+]

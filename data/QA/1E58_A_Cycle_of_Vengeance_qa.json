@@ -1,0 +1,233 @@
+[
+  {
+    "question": "The Level 14 bard, Scanlan, casts 'Dimension Door' to the west tower. Does the Dungeon Master allow it?",
+    "answer": "Yes, the Dungeon Master allows 'Dimension Door' to the west tower.",
+    "rules": [
+      "Spellcasting > Range > Range"
+    ],
+    "rules_explanation": "The text states that the DM asked the player if they were familiar with the area, plus the fact that they had been there before. \"At the distance it is at that point and plus the fact that you have been there before, you concentrate, you remember a few nights you walked up there to look over the grounds because it's a beautiful view and it's close to where you guys usually stay here in the castle. (zoopf) You come out of the Dimension Door and looking before you, you can see Gilmore holding a dagger out to one side and Vax bleeding, holding and clutching the front of his abdomen, eyes darting around wildly, trying to think of some sort of plan for survival.\" The text here is describing the success of the spell."
+  },
+  {
+    "question": "The Level 1 cleric, Pike, asks \"How do we know what our AC is?\". The Dungeon Master responds with what to use for the AC calculation. How do you calculate the armor class in that situation?",
+    "answer": "Armor Class is 10 + the dexterity modifier.",
+    "rules": [
+      "Monsters > Actions > Actions"
+    ],
+    "rules_explanation": "The DM says  \"Your AC would be just 10 plus your dexterity modifier.\""
+  },
+  {
+    "question": "Level 14 bard uses 'healing word' as a bonus action. How many hit points are restored on a successful cast?",
+    "answer": "2d4 + 5 hit points are restored.",
+    "rules": [
+      "Bard > Class Features >Spellcasting",
+      "Spell Lists > Bard Spells > 1st Level > Cure Wounds"
+    ],
+    "rules_explanation": "The spell description for \"Cure Wounds\" states that 1d8 + your spellcasting ability modifier in hit points are restored. Because the spell is \"up to level 2,\" the spell is cast as a 2nd level spell, so the restoration would be 2d4 + 5."
+  },
+  {
+    "question": "The Level 14 rogue/ranger Vax is prone and grabs a weapon off the ground during his turn. Is this a free action, a bonus action, or part of an action?",
+    "answer": "It's a part of the action to attack.",
+    "rules": [
+      "Combat > Your Turn > Other Activity on Your Turn",
+      "Combat > Actions in Combat > Attack"
+    ],
+    "rules_explanation": "The rules state \"As part of an action, you can pick it…\". From this we can infer that it is neither a free action nor a bonus action, but part of the rogues action."
+  },
+  {
+    "question": "The Level 14 rogue/ranger Vax has cast haste, and is flanks an enemy that is fighting Scanlan. Does he have advantage to the attack roll from flanking?",
+    "answer": "No, Vax does not have advantage because of flanking.",
+    "rules": [],
+    "rules_explanation": "There is no explicit rule for flanking in the SRD."
+  },
+  {
+    "question": "During Keyleth's turn in initiative, she shoulder checks around an enemy and casts \"Thunderwave\", what is the saving throw and the Dungeon Master asks for a DC to apply?",
+    "answer": "A Constitution saving throw is made with a DC of 19.",
+    "rules": [
+      "Spell Lists > Druid Spells > 1st Level > Thunderwave"
+    ],
+    "rules_explanation": "Keyleth has a spell save DC of 19. The description of Thunderwave states \"Each creature in that area must make a Constitution saving throw.\""
+  },
+  {
+    "question": "A character casts thunderwave. The enemy rolls 9, and has an adjustment of +2. The Dungeon Master determines that this is not enough for the roll. How much damage does the target take, and how far is it pushed?",
+    "answer": "The target takes 4 thunder damage and is pushed 10 feet.",
+    "rules": [
+      "Spell Lists > Druid Spells > 1st Level > Thunderwave"
+    ],
+    "rules_explanation": "The spell \"Thunderwave\" does 2d8 thunder damage. The DM rolls 4 damage. On a failed save, the spell pushes the target 10 feet."
+  },
+  {
+    "question": "The Level 1 cleric casts \"Guiding Bolt\" as a 4th level spell. How much damage is done in radiant damage?",
+    "answer": "7d6 radiant damage is done.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 1st Level > Guiding Bolt"
+    ],
+    "rules_explanation": "The level 1 spell does 4d6 radiant damage, and each level above 1 adds 1d6.  At the 4th level, that would be 4d6 + 3d6, or 7d6."
+  },
+  {
+    "question": "The Level 1 fighter Grog casts a spell. Is this legal?",
+    "answer": "No, the level 1 fighter Grog cannot cast spells. ",
+    "rules": [
+      "Fighter > Class Features > Spellcasting"
+    ],
+    "rules_explanation": "The Fighter class does not grant the spellcasting ability. The Eldritch Knight martial archetype grants limited spellcasting but does not become available until level 3."
+  },
+  {
+    "question": "The Level 1 rogue/ranger Vex is riding her broom, and shoots three arrows at an enemy. Is she at disadvantage for the attack rolls?",
+    "answer": "Yes, she is at disadvantage for the attack rolls.",
+    "rules": [],
+    "rules_explanation": "There is no specific rule that states whether or not an attack from a broom would cause disadvantage. I am inferring from existing rules for similar situations that the attacks have disadvantage."
+  },
+  {
+    "question": "The Level 1 rogue/ranger Vex makes an attack roll of 31. Does this hit?",
+    "answer": "Yes, an attack roll of 31 hits.",
+    "rules": [],
+    "rules_explanation": "The text says \"Okay, that's a good one. That is 31.\" No further information is given, but from this I infer that a roll of 31 hits."
+  },
+  {
+    "question": "The Level 1 rogue/ranger Vex attempts three attack rolls while on her broom, and has disadvantage on the roll. After rolling, the Dungeon Master asks her to roll three more dice. What is the Dungeon Master checking for?",
+    "answer": "He is checking to see if she is negating any of the original three rolls by succeeding on a dexterity check.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage",
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "This is a somewhat ambiguous situation. There is no specific rule about falling off of a broom. I am inferring that the Dungeon Master is checking to see if Vex would fall off."
+  },
+  {
+    "question": "The Rakasha uses the illusion, but then the illusion fades. The Dungeon Master says \"Now you see before you the angry, curled bare-teeth face of the familiar rakshasa.\" The Level 14 rogue/ranger Vax uses Uncanny Dodge. Which damage die does the rogue/ranger reduce the damage of?",
+    "answer": "It reduces the piercing damage.",
+    "rules": [],
+    "rules_explanation": "The Rogue's Uncanny Dodge is not described in this document. The Dungeon Master did not specify which type of damage he was applying Uncanny Dodge against, but we can infer that the damage type will be against piercing, and the Constitution saving throw is the poison."
+  },
+  {
+    "question": "The Level 14 rogue/ranger Vax's body goes limp, unconscious. The Level 14 bard, Scanlan, says \" I'll bonus Healing Word him\". What spell is going to happen?",
+    "answer": "A Level 1 or 2 Healing Word spell.",
+    "rules": [
+      "Spell Lists > Bard Spells > 1st Level > Cure Wounds"
+    ],
+    "rules_explanation": "The player states \" I can only do a level one bonus action with a Healing Word, right?\" And the Dungeon Master replies, \"Up to level two.\""
+  },
+  {
+    "question": "The Level 14 rogue/ranger Grog has advantage on an athletics check. He rolls the same number on both rolls. Can he use these numbers?",
+    "answer": "Yes, if both rolls are a success, the game proceeds as normal. The roll is the number before his adjustment.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The text states \"Athletics. 11. That is a natural 2.\" This indicates that rolling the same number on both dice is legal."
+  },
+  {
+    "question": "The Level 14 rogue/ranger Vax, is 60-70 feet away from Hotis the Rakshasa, and is holding the Mythcarver. Can the Level 14 bard, Scanlan, use his vocal spells?",
+    "answer": "No, vocal spells cannot go beyond 60 feet.",
+    "rules": [
+      "Spellcasting > Range > Range"
+    ],
+    "rules_explanation": "The text says \" My stuff doesn't go that far, does it? Any of my vocal spells, only goes 60\n- Only about 60 feet, yeah.\""
+  },
+  {
+    "question": "A level 1 cleric casts 'Cure Wounds' at the 5th level spell slot on himself. How much is healed?",
+    "answer": "The caster heals 5d8 + 5 hit points.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 1st Level > Cure Wounds"
+    ],
+    "rules_explanation": "The Cure Wounds description from the cleric spell list notes it heals a target for 1d8 + their spellcasting modifier and increased by 1d8 for each level above the first."
+  },
+  {
+    "question": "The Level 1 rogue/ranger, Percy, is 1 foot away. He has used a trick shot to blow him out of the room. Does the enemy have to roll for auto push, or a Strength saving throw?",
+    "answer": "The target must make a Strength saving throw.",
+    "rules": [],
+    "rules_explanation": "The text says, \"Strength saving throw\"."
+  },
+  {
+    "question": "A level 14 rogue/ranger attempts to move to a corner in his slip and is interrupted, what is the maximum range he can move?",
+    "answer": "6 squares",
+    "rules": [
+      "Combat > Movement and Position > Speed"
+    ],
+    "rules_explanation": "A medium size creature has a speed of 30 feet. He can move 6 squares before having his movement interruped."
+  },
+  {
+    "question": "Is grabbing a weapon on the ground a bonus action?",
+    "answer": "No, it is not. It is part of an action.",
+    "rules": [
+      "Combat > Your Turn > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "The text states, \"Part of an action?\" and after confirmation, the Dungeon Master says, \"As part of the action economy, the idea is that because you're attacking with one, you can give yourself an opening to get a quick strike with the other.\"."
+  },
+  {
+    "question": "Can an ally, that is prone, nearby, be considered \"flanked?\"",
+    "answer": "No.",
+    "rules": [],
+    "rules_explanation": "The dungeon master states \"Technically, he's not flanked because the other ally is prone and is not currently threatening his face\""
+  },
+  {
+    "question": "A flying character needs to roll a dexterity check. What roll does the player need to roll to stay on?",
+    "answer": "a natural 20",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "There is no roll explicitly stated, but with a natural 20, the player says \"Okay, so you stay on the broom, you don't fall off.\""
+  },
+  {
+    "question": "The Level 1 cleric Pike is up, and casts Flame Strike at 7th level at Hotis. What type of damage does he take?",
+    "answer": "Radiant and fire damage is done to the target.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 5th Level > Flame Strike"
+    ],
+    "rules_explanation": "As per the cleric spell, it does \"4d6 fire damage and 4d6 radiant damage\" to the target."
+  },
+  {
+    "question": "The Level 1 cleric, Pike, cast Flame Strike. The roll failed. How much damage does the target take?",
+    "answer": "If the Dungeon Master determines the spell allows it, then the creature takes half damage.",
+    "rules": [
+      "Spell Lists > Cleric Spells > 5th Level > Flame Strike"
+    ],
+    "rules_explanation": "Based on the spell description, \"A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.\""
+  },
+  {
+    "question": "Keyleth attempts to cast Grasping Vine as a bonus action and the Dungeon Master says, \"Grasping Vine is a 4th-level spell. You can't do it as a bonus action the same turn you did another spell.\" Is this correct?",
+    "answer": "Yes.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "It cannot happen. The rules say \"You must use a bonus action on your turn to cast the spell, provided that you haven't already taken a bonus action this turn. You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.\""
+  },
+  {
+    "question": "The Dungeon Master asks what Vex'ahlia's alignment is to determine the effects of the 'Longbow of the Sky Sentinel'. What is her alignment?",
+    "answer": "Chaotic neutral is her alignment.",
+    "rules": [
+      "Alignment"
+    ],
+    "rules_explanation": "The text states, \"Okay, just as a note, what's your alignment?\n No, I'm neutral. Chaotic neutral.\""
+  },
+  {
+    "question": "A character with 1 hit point remaining takes 24 points of poison damage. Is she at least unconscious?",
+    "answer": "Yes, the character is unconscious.",
+    "rules": [
+      "Damage and Healing > Dropping to 0 Hit Points > Falling Unconscious"
+    ],
+    "rules_explanation": "When damage reduces you to 0 hit points and fails to kill you, you fall unconscious"
+  },
+  {
+    "question": "A character casts misty step. What type of action is that? ",
+    "answer": "Misty Step is a bonus action.",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action"
+    ],
+    "rules_explanation": "There are no rules for the spell misty step in the SRD that define its effect."
+  },
+  {
+    "question": "When Vax was knocked unconscious, what was the state of his Haste spell?",
+    "answer": "The haste spell faded.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The text said, \"Hasted. 12 squares, full.\" When he becomes unconscious, the haste breaks."
+  },
+  {
+    "question": "A player wants to know what type of saving throw they need to make, what would be needed in the rules to find out what saving throw would need to be made?",
+    "answer": "The spell description.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "It says in the text \"The spell specifies the ability that the target uses for the save and what happens on a success or failure.\""
+  }
+]

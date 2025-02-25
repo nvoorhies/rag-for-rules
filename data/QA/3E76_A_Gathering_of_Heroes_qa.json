@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What is the result of the percentile dice roll for the teleportation spell?",
+    "answer": "The percentile dice roll is 05.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "The percentile dice results are directly reported from the transcript."
+  },
+  {
+    "question": "How much force damage do the level 6+ characters take from the mishap?",
+    "answer": "All characters take 24 points of force damage.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This value is directly stated in the transcript."
+  },
+  {
+    "question": "A character is carving/shaping/sculpting with hammer and chisel, and is familiar with the instrument. How does the target material react to being chiseled with \"tiny\"/\"frail\" metal tools?",
+    "answer": "The tools glow. You can see a rune is now carved under the metal, no more than maybe a couple of millimeters across.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This is a description of the game world event and not derived from any specific game rule."
+  },
+  {
+    "question": "A character reaches into his bag and touches a recently-acquired crystal. How much fire damage does the character take?",
+    "answer": "The character takes two points of fire damage.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "This value is stated directly in the transcript"
+  },
+  {
+    "question": "As a level 6+ character, I make a Dexterity check, and roll a 6. Does it matter what Dexterity bonus or abilities/skills are on the character sheet?",
+    "answer": "Not from the information provided.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "As specified in the problem instructions, only information relevant to the roll is to be included. All that is known from the transcript is the character's level, and Dexterity check roll of 6."
+  },
+  {
+    "question": "A character makes a religion check and rolls 13. What information does the character learn?",
+    "answer": "You do know that devils exist within the hells, and there are many layers to the hells, and many different guardians of them, but most exist underneath the banner of the Lord of the Hells, one of the betrayer gods of the larger pantheon. The existence of devils exists, where the society permeates a sense of duty and law, though in a way that is generally bent to a selfish degree and doesn't consider the larger moralities of life like, you know, murder, torture, all sorts of bad stuff.",
+    "rules": [
+      "N/A"
+    ],
+    "rules_explanation": "The rules explanation is based on the statement about the result."
+  },
+  {
+    "question": "A character wants to know the effects of attempting a backflip in the setting. How would you determine whether a character falls down or succeeds in a flip or not?",
+    "answer": "To determine if the character falls, you would need the dexterity score and bonus of the character. Then a roll for the same would need to be compared against a target number to determine the outcome of the roll.",
+    "rules": [
+      "SRD > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Dexterity saving throws, ability checks, and attack rolls, rely on the six ability scores."
+  }
+]

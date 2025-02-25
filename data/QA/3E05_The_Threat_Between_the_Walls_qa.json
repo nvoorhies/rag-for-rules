@@ -1,0 +1,304 @@
+[
+  {
+    "question": "A perception check is being made with disadvantage. What dice are rolled, and what are the rules for resolving the disadvantage?",
+    "answer": "Two d20 dice are rolled, and the lower number is used for the check. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Because the check is made with disadvantage two d20's are rolled and the lowest die is used for the skill check. In a normal skill check a single d20 is rolled and relevant modifiers are added to the dice."
+  },
+  {
+    "question": "A level 3 druid casts a spell and is making persuasion checks. Can you give me a rules reference?",
+    "answer": "There are no general rules for persuasion checks that depend on character level or class.  A check consists of rolling a d20 and adding modifiers. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The question contains information about character level and class, however there are no rules in the SRD for general skill checks that refer to level or class for a roll. Since it asks for a rules reference rather than information about a specific spell or ability, it's an appropriate to determine that no answer can be generated."
+  },
+  {
+    "question": "A character is going to open their mind and read the surface thoughts of a person close by. Does the Open Mind action allow a roll to dig deeper into the mind, and is it guaranteed to work?",
+    "answer": "There is no action or spell called \"Open Mind\" in the SRD. ",
+    "rules": [],
+    "rules_explanation": "There is no action or spell by the name of Open Mind in the SRD."
+  },
+  {
+    "question": "A level 3 druid has polymorphed into a rat and is squeezing under a door. What roll is required and what is the rules reference?",
+    "answer": "The rat needs to make a Dexterity (Acrobatics) check with disadvantage to squeeze through a space that is smaller than it.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Combat > Movement and Position > Squeezing into a Smaller Space"
+    ],
+    "rules_explanation": "When trying to squeeze into a smaller space it costs extra movement. To make it through the rat will have to make a Dexterity (Acrobatics) check. Since the space is small for the creature, it will have disadvantage on the roll. Since the roll requires disadvantage, it must roll 2 dice, and take the lower number."
+  },
+  {
+    "question": "The party is discussing tool proficiencies and how that affects lock picking. How do these rules interact?",
+    "answer": "When you make a Dexterity check using thieves' tools to pick a lock, if you have proficiency in thieves' tools, you can add your proficiency bonus to the Dexterity check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills",
+      "Equipment > Tools"
+    ],
+    "rules_explanation": "Because the Dexterity check uses thieves' tools, and the character is proficient in those tools, the character can add their proficiency bonus to the Dexterity Check."
+  },
+  {
+    "question": "A wild shaped druid and another party member are attempting to break open a door. Does the helping character get advantage on the roll, and do they add + a modifier?",
+    "answer": "A character who's leading the effort can make an ability check with advantage, reflecting the help provided by the other characters. A character can only provide help if the task is one that he or she could attempt alone. The helping character does not add a modifier to the roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "Multiple characters can team up to attempt a task, giving the character who leads the roll advantage. A character can only provide help if the task is one that he or she could attempt alone. If the condition is met, the character can add advantage to the roll."
+  },
+  {
+    "question": "What is 'Pass Without Trace' and how do you use it?",
+    "answer": "Pass Without Trace is a 2nd level abjuration spell in the ranger and druid's spell list that adds +10 to Dexterity (Stealth) checks for the duration. See the spell description for the full details.",
+    "rules": [],
+    "rules_explanation": "The SRD does not include a description of every spell, only the basic spell casting rules. Since it cannot find this spell, the spell does not affect the user."
+  },
+  {
+    "question": "Is the 'Pass Without Trace' effect applied to an individual rolling stealth, or the group?",
+    "answer": "If a spell affects a group, you may choose which members of the group are affected by a spell. A spell such as Pass Without Trace creates a bonus that applies to characters in the area, who are attempting to remain undetected while moving.",
+    "rules": [],
+    "rules_explanation": "Because the SRD cannot find 'Pass Without a Trace' it is not possible to describe who would be affected by it, but it can provide general guidance on the application of area effects."
+  },
+  {
+    "question": "If I have the ability 'Turn Undead' can this ability be modified by a wizard spell list?",
+    "answer": "The Turn Undead ability belongs to the cleric class. A wizard's abilities do not change how Turn Undead works.  ",
+    "rules": [],
+    "rules_explanation": "The question concerns an ability possessed by one class that is being affected by another, which doesn't affect the ability. Since the abilities do not interact at all, the SRD does not permit an answer to be constructed."
+  },
+  {
+    "question": "How is initiative calculated at the beginning of combat?",
+    "answer": "At the beginning of combat, every participant makes a Dexterity check to determine their place in the initiative order, and the GM ranks the combatants in order from the one with the highest Dexterity check total to the one with the lowest.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative",
+      "Using Ability Scores > Ability Checks > Dexterity Checks"
+    ],
+    "rules_explanation": "To calculate a character's initiative, you must make a Dexterity check for the character by rolling a d20 and adding their Dexterity modifier. If a character has advantage or disadvantage on the roll, two dice are rolled instead, and the higher or lower die is taken as the result. At the end of the check, all of the parties involved in the combat encounter are ranked from highest to lowest. The initiative order will follow that ranking during combat."
+  },
+  {
+    "question": "If a creature is under the effect of Tasha's Mind Whip and has to choose between moving, action, or bonus action. How many options can they choose?",
+    "answer": "A creature affected by Tasha's Mind Whip can only get one of the three options. You can only get one of the three options--you must choose if you move, get an action, or get a bonus action.",
+    "rules": [],
+    "rules_explanation": "While the SRD doesn't contain the text for the specific spell referenced, it is clear from the description given that the target must choose only one option from the list."
+  },
+  {
+    "question": "If I have mage armor and am using Orym's Interception ability, do the bonuses stack?",
+    "answer": "That depends on what Orym's Interception ability is. If it's a bonus to AC, it will not stack with mage armor's AC calculation since you can only have one calculation for AC.",
+    "rules": [
+      "Combat > Making an Attack > Armor Class (AC)"
+    ],
+    "rules_explanation": "The bonus from mage armor and Orym's Interception cannot stack because of the general rule that you can only have one AC calculation. If Orym is merely providing temporary hit points, those would stack because they are not part of your AC."
+  },
+  {
+    "question": "Can you use the Eldritch Blast spell and hex multiple targets, or just one?",
+    "answer": "A spell like Eldritch Blast can be used on multiple targets. The SRD doesn't mention what the hex spell is or how it affects creatures in the world.",
+    "rules": [],
+    "rules_explanation": "The SRD does not have a definition of the Eldritch Blast or Hex, but it does explain how an effect on multiple spells can be used in general."
+  },
+  {
+    "question": "What happens with someone becomes frightened of a player character?",
+    "answer": "A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight, and the creature can't willingly move closer to the source of its fear.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The conditon that the fear confers on the person. They have disadvantage on ability checks and attack rolls, and can't move closer to whatever caused them to be frightened."
+  },
+  {
+    "question": "Is there a distinction in the rules of the game for damage to a person and damage to an object?",
+    "answer": "There is, in some cases, an interplay of some of the rules of the game involving damage to a person and damage to an object, but the main difference between damage to people and objects lies in their statistics, and in some cases, resistances or vulnerabilities to damage types.  \n",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls",
+      "Combat > Objects"
+    ],
+    "rules_explanation": "The question can be answered by summarizing information in the Objects and Damage sections. All damage comes from attacks and spells, and in all cases that damage must be determined by the dice that the attack or spell uses. Whether that is successful, however, depends on the characteristics of what is being targeted, and this can vary between people and objects."
+  },
+  {
+    "question": "What is a strength saving throw for?",
+    "answer": "A Strength saving throw is an attempt to resist a spell, a trap, a poison, a disease, or a similar threat that has a strength component.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The Saving Throws rule notes, in general, what a saving throw consists of. The more specific information about each ability is contained in the description of the abilities themselves."
+  },
+  {
+    "question": "What does proficiency in the Stealth skill do?",
+    "answer": "A character who has proficiency in the Stealth skill can add his or her proficiency bonus to ability checks related to sneaking and hiding.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The Stealth skill is an ability that is associated to hiding yourself from enemies, slinking past guards, slipping away without being noticed, or sneaking up on someone without being seen or heard. If a player is proficient in this, they can add their proficiency to their rolls."
+  },
+  {
+    "question": "Does it matter what kind of action I use to drop my Wild Shape?",
+    "answer": "Dropping a Wild Shape requires a bonus action.",
+    "rules": [
+      "Classes > Druid > Class Features > Wild Shape"
+    ],
+    "rules_explanation": "The wild shape specifies the type of action it requires to cast."
+  },
+  {
+    "question": "What does it mean if you use cunning action to take the disengage action on a target?",
+    "answer": "If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn.",
+    "rules": [
+      "Combat > Actions in Combat > Disengage"
+    ],
+    "rules_explanation": "The definition of the Disengage action answers the question; it allows a unit to not provoke attacks of opportunity."
+  },
+  {
+    "question": "What does the 'Pass Without Trace' spell do?",
+    "answer": "There is no information about the 'Pass Without Trace' spell in the SRD.",
+    "rules": [],
+    "rules_explanation": "Since there is no listing in the SRD about what this spell is, the answer states that it is not possible to find it."
+  },
+  {
+    "question": "A Druid is speaking with an animal. What language should the animal be speaking?",
+    "answer": "The character can understand and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. ",
+    "rules": [],
+    "rules_explanation": "This question cannot be answered. The beasts can't be forced to speak a specific language. In order to get to the truth, the player may speak in animal form."
+  },
+  {
+    "question": "What does it mean for a druid to have wild shape? ",
+    "answer": "Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.",
+    "rules": [
+      "Classes > Druid > Class Features > Wild Shape"
+    ],
+    "rules_explanation": "At 2nd level, a Druid gains the ability to cast Wild Shape. The rules about when it can be used, and what the limitations are of the beast, are summarized in the answer."
+  },
+  {
+    "question": "The Pass Without a Trace spell was cast by a wizard, who used it to cast an invisibility spell on a group of people. Is that possible?",
+    "answer": "It is not possible. The Pass Without a Trace spell is on the druid and ranger's spell list.",
+    "rules": [],
+    "rules_explanation": "Since the pass without trace is not an ability in the SRD, there is no data available to provide the requested information. "
+  },
+  {
+    "question": "In combat, two new shade creepers appeared. What are the conditions for the area being brightly illuminated?",
+    "answer": "That depends on what source is providing the bright light in that location.",
+    "rules": [],
+    "rules_explanation": "It is not possible to know if the environment is brightly illuminated or not. Further context is needed."
+  },
+  {
+    "question": "Can a fighter spend a superiority die to switch places with an ally if they have been knocked prone?",
+    "answer": "That depends on what maneuver from the Battle Master archetype is being used. If it is one that is melee based, you can use it, even if prone.",
+    "rules": [],
+    "rules_explanation": "The SRD can neither verify the conditions for the maneuver that is referenced, nor is it able to tell if the character can use it prone. Thus, the SRD can only describe what is in the document."
+  },
+  {
+    "question": "Can you combine False Life with a form of dread? Is this legal?",
+    "answer": "You can only cast one concentration spell at a time, so you can't combine the effects of two spells that require concentration.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "You lose concentration on a spell if you cast another spell that requires concentration, it is impossible to cast both."
+  },
+  {
+    "question": "Do actions that take damage from walking through caltrops, take a dexterity check?",
+    "answer": "If a creature enters an area covered with caltrops, the creature must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage.",
+    "rules": [
+      "Equipment > Adventuring Gear > Caltrops"
+    ],
+    "rules_explanation": "The SRD notes the specific damage and effect and the required saving throw for caltrops."
+  },
+  {
+    "question": "How does proficiency affect the Medicine skill?",
+    "answer": "A character who has proficiency in the Medicine skill can add his or her proficiency bonus to ability checks that involve that skill.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "When a character attempts a Wisdom (Medicine) check, the player can add their proficiency bonus if they are proficient in that skill."
+  },
+  {
+    "question": "What school of magic is the Bane spell from, what components are needed to cast, and what saving throw is required?",
+    "answer": "The bane spell is a 1st-level enchantment. It has a verbal and somatic component, and requires a drop of blood. The spell requires a Charisma saving throw. ",
+    "rules": [],
+    "rules_explanation": "The question is requesting information on a specific spell, since 'Bane' doesn't appear in the SRD, it is not possible to answer this question."
+  },
+  {
+    "question": "How does being 'frightened' affect an attack roll, and the target of the attack?",
+    "answer": "A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight, and the creature can't willingly move closer to the source of its fear.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "A creature under the condition 'frightened' has disadvantage on ability checks and attack rolls, and can't move closer to what frightens them."
+  },
+  {
+    "question": "Does being bonded to somebody through the spell, 'Sacred Kin' have an impact on hitpoints or spell damage?",
+    "answer": "There is no spell by the name of 'Sacred Kin'.",
+    "rules": [],
+    "rules_explanation": "Since the spell does not appear in the SRD, it cannot provide details on what it does. "
+  },
+  {
+    "question": "Can you take damage from a friendly player casting a spell?",
+    "answer": "The GM determines if the players will take friendly damage, there is no rule that prevents a player from taking damage from an ally.",
+    "rules": [],
+    "rules_explanation": "Context outside of the question is needed. Without a spell being named, or the source of the damage, this question cannot be answered."
+  },
+  {
+    "question": "Does the name of an NPC affect its statistics?",
+    "answer": "The name of an NPC does not affect the statistics of the NPC.",
+    "rules": [],
+    "rules_explanation": "The SRD is not aware of NPCs and their statistics. Therefore, an answer has been generated that explains that their name does not affect their statistics. "
+  },
+  {
+    "question": "Does the command, 'Alphabetize!' affect the damage output of a creature affected by the command?",
+    "answer": "The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it. The SRD does not include a set list of commands to follow or how those may affect damage output. ",
+    "rules": [
+      "Spellcasting > By Spell Name > Command",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules for Command spell are used to determine if it is effective, otherwise there is no affect."
+  },
+  {
+    "question": "Is it bad to do damage in an area where other players may take friendly damage?",
+    "answer": "The rules don't distinguish between dealing damage to enemies versus allies, but in all cases you must roll damage as prescribed by the attack or spell, and apply it to whomever is affected.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Rolls"
+    ],
+    "rules_explanation": "When determining damage, players roll based on the effects of the attack, which may affect other players depending on where they are on the map. "
+  },
+  {
+    "question": "How do bonuses from the 'Pass Without Trace' spell effect each player in a combat encounter rolling stealth?",
+    "answer": "Because there is no information on the 'Pass Without Trace' spell in the SRD, there is no way to find how those effect rolls in combat.",
+    "rules": [],
+    "rules_explanation": "Since there is no description of the spell in the SRD, the effects of it is impossible to understand."
+  },
+  {
+    "question": "How many attacks can you make if you multi attack, and are surprised?",
+    "answer": "If you are surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends.",
+    "rules": [
+      "Combat > The Order of Combat > Surprise"
+    ],
+    "rules_explanation": "You cannot do any actions on your first turn because you are surprised. Thus, you would not be able to attack, even with multiattack."
+  },
+  {
+    "question": "How is total cover determined?",
+    "answer": "A target with total cover can't be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.",
+    "rules": [
+      "Combat > Making an Attack > Cover"
+    ],
+    "rules_explanation": "To receive total cover, an attack must be completely concealed from an obstacle. Otherwise, the target is not able to be targeted directly by an attack or spell. "
+  },
+  {
+    "question": "What effects can't be caused on frightened targets?",
+    "answer": "A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.  The creature can't willingly move closer to the source of its fear.",
+    "rules": [
+      "Appendix PH-A: Conditions > Frightened"
+    ],
+    "rules_explanation": "The definition of frightened lists the penalties to the creature's actions."
+  },
+  {
+    "question": "Are there any benefits to being surprised?",
+    "answer": "If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends.",
+    "rules": [
+      "Combat > The Order of Combat > Surprise"
+    ],
+    "rules_explanation": "There are no benefits to being surprised. This results in the loss of actions on the first turn."
+  },
+  {
+    "question": "How does rage affect opportunity attacks?",
+    "answer": "The Rage ability grants advantage on Strength checks and Strength saving throws, a bonus to melee weapon damage rolls using Strength, and resistance to bludgeoning, piercing, and slashing damage. It has no direct effect on opportunity attacks.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "Reading the text of Rage doesn't mention anything about how it affects opportunity attacks. Therefore, it can be assumed that it does not."
+  }
+]

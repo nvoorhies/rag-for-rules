@@ -1,0 +1,73 @@
+[
+  {
+    "question": "The level 12 Goliath Barbarian with Strength of 24 is making 3 Strength checks. What adjustments should be made to the result?",
+    "answer": "No adjustments are needed to the Strength checks.",
+    "rules": [
+      "Using Ability Scores > Ability Scores and Modifiers",
+      "Races Racial Traits > Ability Score Increase",
+      "Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The strength score is being used for an ability check. Although rage gives the barbarian advantage on the check, the check still does not require any additional adjustments."
+  },
+  {
+    "question": "Can the party tailor the Robe of Shifting Shadows into an afghan without ruining the magical enchantments?",
+    "answer": "If the party cuts the fabric of the Robe of Shifting Shadows to sew it into an afghan, the enchantment would be ruined. However, the robes can be folded in other ways as long as the fabric itself is not cut.",
+    "rules": [
+      "Magic Items > Activating an Item > Spells > Component"
+    ],
+    "rules_explanation": "The question is resolved based on what would happen with an item that contained a spell component. Cutting or otherwise changing the item would ruin the enchantment."
+  },
+  {
+    "question": "How many rings can be worn at one time?",
+    "answer": "A character can wear two rings at one time, one on each hand.",
+    "rules": [],
+    "rules_explanation": "The number of rings that can be worn at a time is not explicitly stated, so the GM rules that one can be worn on each hand."
+  },
+  {
+    "question": "Can a non-spellcaster use a wand?",
+    "answer": "Anyone can use a wand.",
+    "rules": [],
+    "rules_explanation": "It is determined that anyone can use a wand without regard to class level."
+  },
+  {
+    "question": "What does the Brooch of Living Essence do?",
+    "answer": "Brooch of Living Essence masks the wearer's alignment, essence, whether they're good or evil, they can't be seen by Detect Good or Evil spells and magic spells that reveal your true nature.",
+    "rules": [],
+    "rules_explanation": "The effect of the brooch is determined."
+  },
+  {
+    "question": "Given that a PC has a Dexterity of 12, is it a good idea for them to use a Greatsword for attacks?",
+    "answer": "No, a greatsword is a strength-based melee weapon. Dexterity does not play into it.",
+    "rules": [],
+    "rules_explanation": "It is determined that a greatsword is a strength-based weapon and not a Dexterity-based weapon."
+  },
+  {
+    "question": "A level 19 barbarian is using Intimidating Presence, but is not raging. What do they need to roll?",
+    "answer": "The level 19 Barbarian makes an intimidation check, they do not have to be in a rage to use the Intimidating Presence feature.",
+    "rules": [
+      "Barbarian > Path of the Berserker > Intimidating Presence"
+    ],
+    "rules_explanation": "The intimidation check does not require the barbarian to be raging to use the skill"
+  },
+  {
+    "question": "Does polymorphing Trinket into a human affect his intellect?",
+    "answer": "No, Polymorph does not affect the intellect of whatever you transform.",
+    "rules": [],
+    "rules_explanation": "The use of polymorph doesn't change the underlying skills of the transformed person."
+  },
+  {
+    "question": "A sixth level life cleric casts cure wounds, what adjustment should be made to the number of hit points regained by the recipient?",
+    "answer": "The character regains 2 + the spell's level.",
+    "rules": [
+      "Cleric > Divine Domain > Life Domain Spells",
+      "Cleric > Divine Domain > Bonus Proficiency"
+    ],
+    "rules_explanation": "The heal is calculated as 2 + the spell level and the spell's description says that's in addition to the normal healing."
+  },
+  {
+    "question": "What are the effects of the Gate Stones? The stones are linked. One is placed wherever you like and the other is kept with you.",
+    "answer": "A single individual, not a group, can take a minute to concentrate on one stone and be instantly transported to where the other stone is, with the stone.",
+    "rules": [],
+    "rules_explanation": "the properties of the Gate Stones are explained."
+  }
+]

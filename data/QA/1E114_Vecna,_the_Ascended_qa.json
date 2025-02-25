@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Can the level 10 Druid PC cast Bones of the Earth to create 6 pillars at 120ft? ",
+    "answer": "Yes. Bones of the Earth creates six pillars at a distance of 120ft.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range",
+      "Spell Descriptions > Bones of the Earth"
+    ],
+    "rules_explanation": "The question references the Bones of the Earth spell, which has a range of 120ft."
+  },
+  {
+    "question": "Can a Bard use Bardic Inspiration on their own ability check using their Peerless Skill feature?",
+    "answer": "Yes. Peerless skill allows a bard to add Bardic Inspiration to an ability check.",
+    "rules": [
+      "Bard > Class Features > Peerless Skill"
+    ],
+    "rules_explanation": "The Peerless Skill class feature allows a bard to use their Bardic Inspiration die on an ability check."
+  },
+  {
+    "question": "If a creature has a number of hitpoints higher than a 9th level spell, does the 9th level polymorph spell restore all of the creatures hitpoints?",
+    "answer": "No. The Polymorph spell allows a creature to take on the hitpoints of the beast.",
+    "rules": [
+      "Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "The question is whether a polymorphed creature retains it's original hit points. According to the Polymorph spell description it does not."
+  },
+  {
+    "question": "If a creature has resistance to necrotic damage, does the sphere of annihilaiton spell negate that?",
+    "answer": "The text for Sphere of Annihilation indicates that is obliterates matter and therefore damage resistance doesn't apply",
+    "rules": [
+      "Spell Descriptions > Sphere of Annihilation"
+    ],
+    "rules_explanation": "The nature of a Sphere of Annihilation is not clearly defined. However, the spell text does not explicitly indicate that damage resistance applies."
+  },
+  {
+    "question": "How many legendary resistances does a monster get per round?",
+    "answer": "Legendary Actions are used every round. Legendary Resistances are a limited number of uses.",
+    "rules": [
+      "Monsters > Legendary Creatures > Legendary Actions",
+      "Monsters > Legendary Creatures > Legendary Resistance"
+    ],
+    "rules_explanation": "The transcript contains the phrase: \"Do you get legendary resistance every round\" and the answer is no and that they have a limited number of uses"
+  },
+  {
+    "question": "If a Paladin casts Shield of Faith, does it give a +2 bonus to AC?",
+    "answer": "Yes. The Shield of Faith spell provides a +2 bonus to AC.",
+    "rules": [
+      "Spell Descriptions > Shield of Faith"
+    ],
+    "rules_explanation": "Direct application of Shield of Faith spell description."
+  }
+]

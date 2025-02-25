@@ -1,0 +1,90 @@
+[
+  {
+    "question": "Is there a rule that specifies how to determine visibility when Jester attempts to Blink through a collapsed tunnel?",
+    "answer": "If a character attempts to Blink into a solid space, they are shunted out of the space and take a little bit of force damage.",
+    "rules": [
+      "Combat > Movement and Position > Special Types of Movement > Teleportation"
+    ],
+    "rules_explanation": "While the Blink spell does not specific what happens if a character teleports into a blocked space in the SRD, the Teleportation rules specify that a character is shunted out of the space and takes force damage"
+  },
+  {
+    "question": "Assuming I'm casting a spell, what action verbage can I use to command a low bass chant as far down a tunnel as possible to cause vibrations in the earth?",
+    "answer": "casting Thaumaturgy lets you create a low bass chant that throws it as far forward down that tunnel",
+    "rules": [
+      "Spellcasting > What is a Spell?"
+    ],
+    "rules_explanation": "This ruling explains that in general, you use an action to cast a spell. This is valid as the player states he is casting thaumaturgy"
+  },
+  {
+    "question": "If Jester teleports, if she goes to the Ethereal Plane or somewhere else?",
+    "answer": "There is no explicit plane shift described with the Blink spell, but one possibility is that the Ethereal Plane, is the destination when Jester Blinks.",
+    "rules": [
+      "Combat > Movement and Position > Special Types of Movement > Teleportation"
+    ],
+    "rules_explanation": "There is nothing explicit about the use of blink going to a plane in the Blink spell, but it is an alternative plane for short distance teleportation."
+  },
+  {
+    "question": "If you were attempting to Blink into a solid space, what would happen?",
+    "answer": "If you were attempting to Blink into a solid space, it would shunt you out of the space and you would take a little bit of force damage.",
+    "rules": [
+      "Combat > Movement and Position > Special Types of Movement > Teleportation"
+    ],
+    "rules_explanation": "While the Blink spell does not specific what happens if a character teleports into a blocked space in the SRD, the Teleportation rules specify that a character is shunted out of the space and takes force damage"
+  },
+  {
+    "question": "Can I bamf with the Thunder Step spell to a location I haven't seen?",
+    "answer": "As most teleportation effects, you have to teleport to a location you can see.",
+    "rules": [
+      "Combat > Movement and Position > Special Types of Movement > Teleportation"
+    ],
+    "rules_explanation": "There is nothing explicit in the SRD text for Thunder Step what happens if a character teleports into a blocked space, but the Teleportation rules specify that a character is can only see."
+  },
+  {
+    "question": "If I'm a druid, what goal do I need to be focusing on when casting Divination to make sure it's a legal target?",
+    "answer": "It is a specific question concerning a goal, event, or activity to occur within seven days.",
+    "rules": [
+      "Spell Descriptions > Divination"
+    ],
+    "rules_explanation": "The description for the divination spell states the requirements for casting"
+  },
+  {
+    "question": "Can Caleb use an intelligence check to determine if a piece of dunamis is actually dunamis?",
+    "answer": "Not explicitly, but an intelligence check could be used to determine information about dunamis, it's properties, effects, and purpose.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An Intelligence check could be used to determine information about something.  What a specific check represents is determined by the GM."
+  },
+  {
+    "question": "If Caleb casts Detect Magic while standing next to someone, will the spell trigger the effects from his bandages?",
+    "answer": "Detect Magic only reveals the presence of magic but would not trigger any effect based on who is next to Caleb.",
+    "rules": [
+      "Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "The spell Detect Magic reveals the presence of magic but triggers no effects."
+  },
+  {
+    "question": "If something blocks when I cast Sending, do I need to be able to see to send a message or get a response?",
+    "answer": "As the messages travel through the arcane weaves, sight is not needed, and as they traverse the exterior of Exandria, the message may be heard by the target.",
+    "rules": [
+      "Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "Sending states nothing about needing to be able to see."
+  },
+  {
+    "question": "If I'm a Wizard, is there a rule specifying the impact to casting range if my opponent used the Spell Sniper feat to counter my spell?",
+    "answer": "The Spell Sniper feat does not apply to the caster when the target makes an attack, but when the caster makes the attack.",
+    "rules": [
+      "Feats > Spell Sniper"
+    ],
+    "rules_explanation": "The Spell Sniper feat's doubled range only applies to the character that has the feat.  There is no rule that says if the target has the Spell Sniper feat, that it changes how the spell operates for the caster."
+  },
+  {
+    "question": "If a character attempts to Blink into a solid space, what would happen?",
+    "answer": "If you were attempting to Blink into a solid space, it would shunt you out of the space and you would take a little bit of force damage.",
+    "rules": [
+      "Combat > Movement and Position > Special Types of Movement > Teleportation"
+    ],
+    "rules_explanation": "While the Blink spell does not specific what happens if a character teleports into a blocked space in the SRD, the Teleportation rules specify that a character is shunted out of the space and takes force damage"
+  }
+]

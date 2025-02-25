@@ -1,0 +1,55 @@
+[
+  {
+    "question": "The level 6 druid/character name with her hand on Kima, is trying to cast Dispel magic. What DC is she targeting?",
+    "answer": "The spell save DC for the Dispel magic spell cast by the level 6 Druid/character name is 8 + proficiency bonus + the spellcasting modifier, Charisma. As a level 6 character, her proficiency bonus is +3. Her Charisma is not provided so it would be 11 + Charisma modifier.",
+    "rules": [
+      "Spellcasting > Spell Save DC"
+    ],
+    "rules_explanation": "According to the Spellcasting rules, the Spell save DC is 8 + your proficiency bonus + the spellcasting ability modifier. Applying that formula here will result in the final number."
+  },
+  {
+    "question": "The mapmaker/Tyriok, is trying to stealth away. What do I roll?",
+    "answer": "You need to make a Dexterity (Stealth) check, and you can add your proficiency bonus if you are proficient in Stealth.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills"
+    ],
+    "rules_explanation": "The rules state that in order to attempt to hide you must roll a dexterity check, applying your proficiency bonus if you are proficient in stealth."
+  },
+  {
+    "question": "In a meeting room, the level 11 fighter/Percival attacks the other person present. What is his attack bonus? Does he have advantage?",
+    "answer": "Percival has a +4 proficiency bonus. His strength modifier is not known, nor is the specific sword he uses but all swords listed do have the finesse quality allowing him to use Dexterity. Therefore he will roll 1d20 + proficieny + 3.",
+    "rules": [
+      "Attack Rolls",
+      "Fighter > Level 11",
+      "Weapon > Properties > Finesse"
+    ],
+    "rules_explanation": "The to-hit value is a roll of 1d20 + proficiency bonus + strength or dexterity modifier. The level 11 Fighter/Percival would have a proficiency bonus of +4. The strength and dexterity modifiers are not mentioned and hence it is unknown what that value is. All swords listed have the finesse quality allowing him to use Dexterity."
+  },
+  {
+    "question": "The tiger in the tiger suit punches a character. What sort of skill check might I call for?",
+    "answer": "This action itself does not trigger an ability check, however, the GM may ask the tiger in the tiger suit, or the target character, to perform an Acrobatics skill check to perform the action described, or for the impact of the action to take place.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Skills"
+    ],
+    "rules_explanation": "This part of the game is free form and up to the Dungeon Master to choose which skills are used to test the actions of the player. An example is provided in the answer."
+  },
+  {
+    "question": "The thief uses a bonus action to sneak. Can he move in the same turn?",
+    "answer": "Yes, as a thief he can move in the same turn as taking a cunning action",
+    "rules": [
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "Rogues are granted Cunning Action at level 2 which allows them to take the Dash, Disengage, or Hide action as a bonus action on each of their turns."
+  },
+  {
+    "question": "What languages does Cassandra, the royal family, know?",
+    "answer": "Cassandra knows Common and Elvish.",
+    "rules": [
+      "Elf > Elf Traits > Languages",
+      "Elf > High Elf > Extra Language"
+    ],
+    "rules_explanation": "The description of the Elf race states they know Common and Elvish."
+  }
+]

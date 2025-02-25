@@ -1,0 +1,100 @@
+[
+  {
+    "question": "Can the level 7 level, class use Guidance?",
+    "answer": "Guidance may be available depending on the level 7 class's specific abilities and spell list.",
+    "rules": [
+      "Class Features > Spellcasting"
+    ],
+    "rules_explanation": "The ability to cast Guidance depends entirely on whether the character's class grants access to it. Since this is not a universal class feature, you would need to refer to the level 7 class's spell list or other features to determine if they have access to the guidance spell."
+  },
+  {
+    "question": "If the level 7 class attempts to do damage with the hammer after failing the check, should the GM roll, or is that automatic?",
+    "answer": "A melee weapon attack requires an attack roll, which determines whether the attack hits or misses. To make an attack roll, you roll a d20 and add the appropriate modifiers.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The rules specify that all melee attacks must be determined by an attack roll."
+  },
+  {
+    "question": "Is a save required for a character to not be charmed?",
+    "answer": "Some spells require a target to make a saving throw to avoid being charmed. The spell description specifies the ability that the target uses for the save and what happens on a success or failure.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "The rules say that many spells require a saving throw."
+  },
+  {
+    "question": "How much fire damage is taken from contact with the crystal?",
+    "answer": "Two points of fire damage is taken from contact with the crystal.",
+    "rules": [],
+    "rules_explanation": "The answer is directly specified by the prompt."
+  },
+  {
+    "question": "What happens when a player's constitution is reduced?",
+    "answer": "A character's hit point maximum increases or decreases whenever the character's Constitution modifier changes.",
+    "rules": [
+      "Beyond 1st Level > Hit Points"
+    ],
+    "rules_explanation": "A character's constitution modifier effects thier hit points"
+  },
+  {
+    "question": "What is the range of Send Message?",
+    "answer": "The spell Send Message has a range of 120 feet.",
+    "rules": [],
+    "rules_explanation": "The answer is directly specified by the prompt."
+  },
+  {
+    "question": "What roll is required for intimidation with advantage?",
+    "answer": "To intimidate, roll a Strength check with advantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules say to use a Strength check for intimidation."
+  },
+  {
+    "question": "After the level 6 cleric failed a saving throw from a failed sending, how much damage is taken?",
+    "answer": "After a failed Sending, nine points of psychic damage is taken.",
+    "rules": [],
+    "rules_explanation": "The answer is directly specified by the prompt."
+  },
+  {
+    "question": "What check is required to find Laudna?",
+    "answer": "A survival or investigation check is required to find Laudna.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The prompt specifies that survival or investigation check is needed."
+  },
+  {
+    "question": "After FCG takes fire damage reaching into the bag, how much fire damage is taken?",
+    "answer": "Take six points of fire damage reaching in the bag.",
+    "rules": [],
+    "rules_explanation": "The answer is directly specified by the prompt."
+  },
+  {
+    "question": "What roll is required for Grim Psychometry?",
+    "answer": "The history skill is used for the roll.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "The ability score used is intelligence, and the appropriate skill is history."
+  },
+  {
+    "question": "What damage is taken when touching the shard after casting Grim Psychometry?",
+    "answer": "You take two points of fire damage.",
+    "rules": [],
+    "rules_explanation": "The answer is directly specified by the prompt."
+  },
+  {
+    "question": "What is the result of a side on the Changebringer's coin?",
+    "answer": "She's fine.",
+    "rules": [],
+    "rules_explanation": "The answer is directly specified by the prompt."
+  },
+  {
+    "question": "What spell is used for the little home to sleep in for the night?",
+    "answer": "Plant growth is the spell used.",
+    "rules": [],
+    "rules_explanation": "The answer is directly specified by the prompt."
+  }
+]

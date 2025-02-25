@@ -1,0 +1,335 @@
+[
+  {
+    "question": "Can a {Level 4, class} use a *fireball* spell and the *Wall of Fire* spell, and a *globe of invulnerability* spell?",
+    "answer": "According to the rules on spellcasting, the spells a monster can cast from a magic item depend on the item, and are not necessarily related to their level or class.",
+    "rules": [
+      "Spellcasting > What Is a Spell? > Spell Level",
+      "Magic Items > Activating an Item > Spells"
+    ],
+    "rules_explanation": "The spell lists available to a spell caster depend on the object it is cast from and its properties, not the level of the spellcaster."
+  },
+  {
+    "question": "When do you get advantage on a roll from being able to help someone?",
+    "answer": "A character can make an ability check with advantage by using the Help action if the task is one that he or she could attempt alone and two or more individuals working together would actually be productive.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "The rules for working together allow a character to make an ability check with advantage if they are helping another with a task.  This help must be plausible based on the task being performed."
+  },
+  {
+    "question": "If the {Level 4, class} casts the Thaumaturgy cantrip to create a thunder sound at the same time as another character throws a grappling hook, what happens to the grapple throw?",
+    "answer": "The thrower would still need to roll a d20 and add their Strength modifier to the roll to see if the grappling hook catches anything, as well as to account for range and target number.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Actions in Combat > Attack"
+    ],
+    "rules_explanation": "The act of making an attack, even at range, requires a die roll to see whether the attack hits the target successfully. Making a noise does not affect the difficulty of the attack, it simply provides audio cover."
+  },
+  {
+    "question": "What are the rules for grappling?",
+    "answer": "You can use the Attack action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them. The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition. A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check. When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "The rules for grappling are all in the 'Grappling' sub-section of melee attacks"
+  },
+  {
+    "question": "What saving throw does a Vicious Mockery spell require?",
+    "answer": "The target must succeed on a Wisdom saving throw, or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.",
+    "rules": [
+      "Spell Descriptions > Vicious Mockery"
+    ],
+    "rules_explanation": "The target must succeed on a Wisdom saving throw."
+  },
+  {
+    "question": "With a Vicious Mockery spell, what is the formula for calculating the spell save DC?",
+    "answer": "Spell save DC = 8 + your proficiency bonus + your Charisma modifier",
+    "rules": [
+      "Spellcasting > Spellcasting Ability"
+    ],
+    "rules_explanation": "The spell save DC is determined by the formula"
+  },
+  {
+    "question": "Can the Disguise Self spell replicate the uniform of a clerk/orderly?",
+    "answer": "Yes. You can make yourself seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The changes wrought by this spell fail to hold up to physical inspection.",
+    "rules": [
+      "Spell Descriptions > Disguise Self"
+    ],
+    "rules_explanation": "The Disguise Self spell can create the appearance of clothing, but does not hold up to physical inspection."
+  },
+  {
+    "question": "Is there a general rule to determine what can constitute a weak point in a structure?",
+    "answer": "According to the rules, it is up to the Dungeon Master's discretion.",
+    "rules": [
+      "The Environment > Objects"
+    ],
+    "rules_explanation": "According to the general rules for objects the GM is expected to use discretion when determining if a character's actions can cause an object to be damaged."
+  },
+  {
+    "question": "Is there a rule for determining how far you can throw a grappling hook?",
+    "answer": "There is no rule for how far you can throw a grappling hook.",
+    "rules": [
+      "Equipment > Adventuring Gear"
+    ],
+    "rules_explanation": "The adventurers gear list contains an entry for the grappling hook, but lists no special rules about it's use."
+  },
+  {
+    "question": "How much does a climber's kit cost, and what does it contain?",
+    "answer": "A climber's kit costs 25 gold and includes special pitons, boot tips, gloves, and a harness for mountain climbing.",
+    "rules": [
+      "Equipment > Adventuring Gear"
+    ],
+    "rules_explanation": "The adventurers gear list contains an entry for the climbers kit and it's contents."
+  },
+  {
+    "question": "What does a climbers kit include?",
+    "answer": "A climber's kit includes special pitons, boot tips, gloves, and a harness for mountain climbing.",
+    "rules": [
+      "Equipment > Adventuring Gear"
+    ],
+    "rules_explanation": "The adventurers gear list contains an entry for the climbers kit and it's contents."
+  },
+  {
+    "question": "What are the cost and weight of hempen rope?",
+    "answer": "50 feet of hempen rope costs 1 gold piece and weighs 10 pounds.",
+    "rules": [
+      "Equipment > Adventuring Gear"
+    ],
+    "rules_explanation": "The adventurers gear list contains an entry for hempen rope and it's cost and weight"
+  },
+  {
+    "question": "When is an investigation check required to locate towns or villages?",
+    "answer": "It takes a little while to get there. You haven't actually been to the Tutor Village before. So you manage, through asking questions and finding your way around, you manage to get to the Tutor Village right before sunset.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Investigation"
+    ],
+    "rules_explanation": "While an intelligence (investigation) check could have been appropriate the dungeon master had the characters ask questions and use general exploration in the area."
+  },
+  {
+    "question": "Are there rules for getting a bonus for helping someone climb onto someone's back to get higher?",
+    "answer": "There are not any rules for that.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "There is no rule for this check but could be treated as multiple ability checks following the group check rules."
+  },
+  {
+    "question": "Do you get any extra modifiers for adding skill modifier to a roll, and are there negative intimidation bonuses?",
+    "answer": "The intimidation skill check is charisma plus the intimidation skill modifier and there are negative modifiers.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "The intimidation skill is charisma plus the skill modifier."
+  },
+  {
+    "question": "Can a flying character end its move in mid air if they do not have the ability to hover?",
+    "answer": "If a flying creature is deprived of the ability to move, the creature falls, unless it has the ability to hover.",
+    "rules": [
+      "Combat > Movement and Position > Flying Movement"
+    ],
+    "rules_explanation": "Being prevented from moving, and stopping your movement yourself are two separate actions that will result in very different outcomes for the creature."
+  },
+  {
+    "question": "What are the rules for focusing to maintain Detect Magic?",
+    "answer": "While concentrating on the spell and focusing on the wax seal, the characters may look around without issue.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The spell is not broken as long as the casting has all of their attention."
+  },
+  {
+    "question": "Is an athletics or acrobatics check required to climb a tree?",
+    "answer": "To successfully climb a tree, an athletics check is required.",
+    "rules": [
+      "The Environment > Movement > Climbing, Swimming, and Crawling"
+    ],
+    "rules_explanation": "It doesn't take a spell slot!"
+  },
+  {
+    "question": "How long does Detect Magic spell last?",
+    "answer": "The Detect Magic spell lasts for a Duration: Concentration, up to 10 minutes",
+    "rules": [
+      "Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "Listed in the spells description"
+  },
+  {
+    "question": "What is the range of Detect Magic?",
+    "answer": "The Detect Magic spell has Range: Self",
+    "rules": [
+      "Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "Listed in the spells description"
+  },
+  {
+    "question": "For the Metamagic option Heightened Spell, what action is required to cause the effects to occur?",
+    "answer": "You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.",
+    "rules": [
+      "Spellcasting > Metamagic"
+    ],
+    "rules_explanation": "You choose when you cast the spell."
+  },
+  {
+    "question": "What is the duration for the Heat Metal spell?",
+    "answer": "The Heat Metal spell has a duration of Concentration, up to 1 minute",
+    "rules": [
+      "Spell Descriptions > Heat Metal"
+    ],
+    "rules_explanation": "Listed in the spells description"
+  },
+  {
+    "question": "In order to use the Vicious Mockery cantrip, are there any conditions that must be met with regard to the target's ability to perceive you?",
+    "answer": "Yes. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw.",
+    "rules": [
+      "Spell Descriptions > Vicious Mockery"
+    ],
+    "rules_explanation": "Listed in the spells description."
+  },
+  {
+    "question": "Does the Help action give you advantage on initiative rolls?",
+    "answer": "No, there is no working together on rolls for initiative.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "Working Together is specific to ability checks"
+  },
+  {
+    "question": "What happens with the spell effect from Spirit Guardians?",
+    "answer": "Each creature that enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes 3d8 radiant damage (if you are good or neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.",
+    "rules": [
+      "Spell Descriptions > Spirit Guardians"
+    ],
+    "rules_explanation": "The spell description states what damage and save are involved"
+  },
+  {
+    "question": "What is the ruling on using the Medicine skill on someone?",
+    "answer": "A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Wisdom"
+    ],
+    "rules_explanation": "The rules in the Wisdom section of Ability Checks explain when to use the Medicine skill."
+  },
+  {
+    "question": "If a weapon has a modifier that increases your bonus to damage rolls and hit rolls, what is that modifier called?",
+    "answer": "The game term is a +[number] bonus",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Modifiers to the Roll",
+      "Damage and Healing > Damage Rolls"
+    ],
+    "rules_explanation": "The weapon itself grants a bonus to hit and damage rolls."
+  },
+  {
+    "question": "If a paladin casts Divine Favor on themselves, and then attacks with a greatsword, what kind of die do they roll, and how much extra damage will they inflict?",
+    "answer": "The paladin will roll 2d6 + 1d4 and the Strength modifier + whatever bonus the weapon offers to damage rolls.",
+    "rules": [
+      "Paladin > Class Features > Spellcasting",
+      "Combat > Making an Attack > Attack Rolls",
+      "Damage and Healing > Damage Rolls"
+    ],
+    "rules_explanation": "The weapon's standard damage die, and the paladin's divine favor radiant damage die are both included in the damage roll along with the Strength modifier from the ability score."
+  },
+  {
+    "question": "Does a character have to be proficient in a skill or ability to make an ability check?",
+    "answer": "Yes. Any character can attempt a check that does not require proficiency.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills"
+    ],
+    "rules_explanation": "You don't need to be skilled to attempt to apply an ability."
+  },
+  {
+    "question": "If a character rolls a 1, can they get a higher total with modifiers?",
+    "answer": "Yes. If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target's AC.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "However you can not succeed on a natural 1."
+  },
+  {
+    "question": "If a character has a magical effect that is always on, does that magical ability count against the three items a character can attune to?",
+    "answer": "Without attunement to the item, a creature gains only its nonmagical benefits, unless its description states otherwise. For example, a magic shield that requires attunement provides the benefits of a normal shield to a creature not attuned to it, but none of its magical properties.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "The use of magic abilities of a magical item generally requires attunement but not always, see description."
+  },
+  {
+    "question": "To what saving throws do you add your charisma modifier?",
+    "answer": "As specified in the Magic Resistance trait, if a creature is forced to make a Charisma saving throw, they would then add their Charisma modifier to the roll.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "If it is appropriate to the saving throw."
+  },
+  {
+    "question": "Does the damage dealt while using an action that did not get to deal sneak attack damage, but later the short sword deals piercing damage have sneak damage on the weapon?",
+    "answer": "The extra damage is added to the weapon's damage if the attacker has advantage on the attack roll or when the target is within 5 feet of an ally of the attacker that isn't incapacitated and the attacker doesn't have disadvantage on the attack roll.",
+    "rules": [
+      "Rogue > Class Features > Sneak Attack"
+    ],
+    "rules_explanation": "As long as the conditions for sneak attack damage are met the extra damage is added."
+  },
+  {
+    "question": "Are there rules about the interaction of light and darkness that apply to all creatures in the SRD?",
+    "answer": "Yes, heavily obscured areas-such as darkness-blocks vision entirely and a creature effectively suffers from the blinded condition",
+    "rules": [
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "The general rules for light apply in the absence of other rules."
+  },
+  {
+    "question": "what are the rules for a creature that starts drowning?",
+    "answer": "You are likely asking about suffocating. A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds). When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round). At the start of its next turn, it drops to 0 hit points and is dying, and it can't regain hit points or be stabilized until it can breathe again.",
+    "rules": [
+      "The Environment > Suffocating"
+    ],
+    "rules_explanation": "I answered with the rules for suffocation because there is no mechanic explicitly for drowning."
+  },
+  {
+    "question": "Is a leper face likely to be looked at closely.",
+    "answer": "This is a question for the GM to answer.",
+    "rules": [],
+    "rules_explanation": "The effects are determined at the table, and there are no mechanical rules to adjudicate that determination. In any case, the rules of disguise self can be applied here."
+  },
+  {
+    "question": "As the target is falling, and is 3 stories up, how much bludgeoning damage does the target take?",
+    "answer": "The target takes 3d6 bludgeoning damage.",
+    "rules": [
+      "The Environment > Falling"
+    ],
+    "rules_explanation": "30 feet"
+  },
+  {
+    "question": "Can a spellcaster cast another spell while Polymorphed?",
+    "answer": "The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech.",
+    "rules": [
+      "Spell Descriptions > Polymorph"
+    ],
+    "rules_explanation": "Unless their new form is capable of casting spells"
+  },
+  {
+    "question": "Could someone try to use a potion while being smothered by a rug?",
+    "answer": "Whether a character can use a potion is up to the Game Master.",
+    "rules": [],
+    "rules_explanation": "Whether a character is capable of using an action to drink a potion depends upon how their body was being constrained and if that character was also proficient in using objects. A character is never required to use a potion."
+  },
+  {
+    "question": "If a character has a feat or class ability that confers Advantage on a particular saving throw, is that advantage always in effect?",
+    "answer": "Yes, you always have it in effect.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "For instance, the gnome has advantage on all Intelligence, Wisdom, and Charisma saving throws against magic. There is nothing preventing the gnome from using the advantage on these checks."
+  },
+  {
+    "question": "Do you always need money to bribe someone?",
+    "answer": "That is up to the discretion of the dungeon master.",
+    "rules": [],
+    "rules_explanation": "The game provides no rules of any kind on how bribing is accomplished."
+  },
+  {
+    "question": "Does Frumpkin have to smell like sausage forever now?",
+    "answer": "Nothing is made permanent by being exposed to sausage.",
+    "rules": [],
+    "rules_explanation": "There are no rules about a permanent stench in the rules, as well as no rulings in the spells that are applicable"
+  }
+]

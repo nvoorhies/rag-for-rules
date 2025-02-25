@@ -1,0 +1,82 @@
+[
+  {
+    "question": "When a giant owl is carrying another figure, what kind of check is appropriate to maintain composure?",
+    "answer": "Make a Strength check as the giant owl.",
+    "rules": [
+      "Section > Subsection > Rule Name"
+    ],
+    "rules_explanation": "The question explicitly asks the DM what kind of roll to make, this roll is an athletics check as it involves maintaining strength for an extended period"
+  },
+  {
+    "question": "Does the spell Breathe Underwater require concentration?",
+    "answer": "The spell Breathe Underwater is not a concentration spell.",
+    "rules": [
+      "Section > Subsection > Rule Name"
+    ],
+    "rules_explanation": "It is explicitly stated that the Breathe Underwater spell does not require concentration in the SRD section on the spell"
+  },
+  {
+    "question": "What is the range of the Detect Magic spell?",
+    "answer": "The range of the Detect Magic spell is 30 feet.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Detect Magic"
+    ],
+    "rules_explanation": "The spell description for Detect Magic states that it is a self spell and has a range of 30 feet"
+  },
+  {
+    "question": "If a giant owl carries too much weight can they travel at full speed?",
+    "answer": "If a giant owl is carrying too many figures they are not going to be able to travel at full speed.",
+    "rules": [
+      "Section > Subsection > Rule Name"
+    ],
+    "rules_explanation": "The DM states this directly as a consideration when planning the transport of the party by Giant Owl"
+  },
+  {
+    "question": "As a giant owl, what kind of check to you make for this type of strength challenge, and would Guidance apply?",
+    "answer": "The correct type of ability check for this challenge is a Strength check. Guidance does not apply to this check because it is not a short-term attempt.",
+    "rules": [
+      "Section > Subsection > Rule Name"
+    ],
+    "rules_explanation": "The DM makes the ruling. Rules are derived from general definitions."
+  },
+  {
+    "question": "If I have not been affected by the island's effects, and I shape shift into an owl, do I still have advantage on perception checks from the owl form because I am not from this plane?",
+    "answer": "No, the owl's senses would not apply in this case. This check is less about sight, this is more about just sensing something within yourself",
+    "rules": [
+      "Section > Subsection > Rule Name"
+    ],
+    "rules_explanation": "This is a rules interpretation for the specific case. The advantage on perception is only valid for the owl form not for the character."
+  },
+  {
+    "question": "Can Yasha rage even though she just performed an action? Do you get an action before you cast the spell?",
+    "answer": "The action that they can perform is the Necrotic Shroud action. Therefore, they would have already spent their action.",
+    "rules": [
+      "Section > Subsection > Rule Name"
+    ],
+    "rules_explanation": "This is a rules interpreation question. Barbarian's can enter a rage as a bonus action. The question is whether that is still a valid action for the character given prior actions."
+  },
+  {
+    "question": "Is expertise from thief stack with skills like athletics from barbarian?",
+    "answer": "No it's not valid, but they could trade out a skill to something different from their parent class.",
+    "rules": [
+      "Section > Subsection > Rule Name"
+    ],
+    "rules_explanation": "Multiclassing rules allow characters to change skills to be proficient if those would be repeats."
+  },
+  {
+    "question": "For Yasha's juggling, what kind of check would that be?",
+    "answer": "The appropriate check in that instance would be a Dexterity check.",
+    "rules": [
+      "Section > Subsection > Rule Name"
+    ],
+    "rules_explanation": "The question is to decide which ability check applies to this particular skill."
+  },
+  {
+    "question": "can a character with the action to create an alcove attack somebody?",
+    "answer": "Since it's just your feet. This is going to be an attempt for you guys to grab each other before you cast it because you are currently now falling with no anchoring on each other.",
+    "rules": [
+      "Section > Subsection > Rule Name"
+    ],
+    "rules_explanation": "The character is casting a spell, so they cannot take any action related to something else"
+  }
+]

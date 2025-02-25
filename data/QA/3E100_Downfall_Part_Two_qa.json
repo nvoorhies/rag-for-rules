@@ -1,0 +1,80 @@
+[
+  {
+    "question": "A character cast Rary's Telepathic Bond and restored a temple. Can they see the mortal avatars as they were originally?",
+    "answer": "No, though the frescoes and murals in the temple are restored.",
+    "rules": [
+      "Spells > Rary's Telepathic Bond",
+      "Environment > Vision and Light"
+    ],
+    "rules_explanation": "The transcript indicates that even with the restored frescoes, the characters can't automatically see the true nature of the mortal avatars. Rary's Telepathic Bond creates a telepathic link but doesn't grant special sight.  Seeing the true nature of the avatars isn't a function of the temple relighting."
+  },
+  {
+    "question": "After casting Command, what kind of saving throw must the planetar make, and what is the DC?",
+    "answer": "The planetar must make a Wisdom saving throw with a DC of 19.",
+    "rules": [
+      "Spellcasting > Spell Save DC",
+      "Spells > Command"
+    ],
+    "rules_explanation": "The caster cast Command and needs to know the resulting saving throw for the target.  We determine this by adding 8 + proficiency bonus + caster's Charisma modifier."
+  },
+  {
+    "question": "After casting Hold Monster, what type of saving throw is required to resist its effects?",
+    "answer": "The target of Hold Monster must make a Wisdom saving throw with a DC of 19.",
+    "rules": [
+      "Spellcasting > Spell Save DC",
+      "Spells > Hold Monster"
+    ],
+    "rules_explanation": "The caster cast Hold Monster and needs to know the resulting saving throw for the target.  We determine this by adding 8 + proficiency bonus + caster's Charisma modifier."
+  },
+  {
+    "question": "A Level 20 Tempest Sorcerer with the War Caster feat is in a grotto of poetry and beauty and passion and a planetar is attempting to move out of its threatened area. What actions can this character take?",
+    "answer": "The Tempest Sorcerer can take an attack of opportunity or cast a spell of their choice as a reaction.",
+    "rules": [
+      "Combat > Reactions",
+      "Feats > War Caster"
+    ],
+    "rules_explanation": "A Level 20 character can make a single attack of opportunity as a reaction. The War Caster feat states that the spell caster can cast a spell that targets only that creature rather than making an attack of opportunity. The feat states that it must be a spell that targets only that creature."
+  },
+  {
+    "question": "Can the DM arbitrarily allow a god to alter reality in an area of holiness? How high must a die roll be to make the change succeed? What type of saving throw is called for?",
+    "answer": "A DM can adjust the DC for spells based on the nature of the environment where the spells are being cast to permit acts not normally possible. The DM calls for a Dexterity saving throw with a target of 17 or more.",
+    "rules": [
+      "Spellcasting > Casting a Spell at a Higher Level",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM can make exceptions to rules in areas of holiness. The DM declares the conditions for the special ability to be triggered, and adjusts the DC based on the circumstances. Here it is a Dexterity saving throw with a target of 17 or more."
+  },
+  {
+    "question": "Can a party share secrets through Telepathy?",
+    "answer": "Yes, but the telepathy is not always on. It can be toggled.",
+    "rules": [
+      "Spells > Rary's Telepathic Bond"
+    ],
+    "rules_explanation": "The group determines how their telepathic bond works and determines that people can share secrets or open the call at will. This is a rules adjudication rather than a reading from the rules."
+  },
+  {
+    "question": "Can a character cast two spells with a casting time of 1 action on the same turn using metamagic?",
+    "answer": "No. Only one spell with a casting time of one action can be cast per turn, with the exception of cantrips.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Bonus Action"
+    ],
+    "rules_explanation": "Metamagic can convert the casting time of a single spell from an action to a bonus action, but the character is still limited to casting only one spell of 1st level or higher per turn."
+  },
+  {
+    "question": "Can the level 17 way of shadow monk, use a Ki point to avoid opportunity attack when leaving the area of a construct.",
+    "answer": "Yes.",
+    "rules": [
+      "Monk > Class Features > Ki"
+    ],
+    "rules_explanation": "Step of the wind, you can spend 1 ki point to take the Disengage or Dash action as a bonus action"
+  },
+  {
+    "question": "Can the raven fly through this opening?  Is it really that bad?",
+    "answer": "Yes, the raven can find the tree",
+    "rules": [
+      "Environment > Cover",
+      "Environment > Vision and Light"
+    ],
+    "rules_explanation": "we add intentionality. So you guys have to make the point to communicate something"
+  }
+]

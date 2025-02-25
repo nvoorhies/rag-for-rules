@@ -1,0 +1,11 @@
+[
+  {
+    "question": "The level 6 level [Monk, Race] wants to attempt to monk parry the Traveler, but he uses vines to restrain the monk's arm. What kind of roll does the [Monster Manual, SRD] NPC require? ",
+    "answer": "The Traveler requires a dexterity saving throw.",
+    "rules": [
+      "Combat > Making an Attack > Cover",
+      "Monsters and Creatures > Monster Statistics > Saving Throws"
+    ],
+    "rules_explanation": "The question establishes a direct attempt by a party member to engage with the Traveler NPC's physical form. Because the monk is initiating a physical action upon the Traveler, the response was set by the description by the DM."
+  }
+]

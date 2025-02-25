@@ -1,0 +1,159 @@
+[
+  {
+    "question": "Can we try a Greater Restoration sort of thing and break a curse?",
+    "answer": "Whether or not an effect sounds like a curse is irrelevant to whether greater restoration can remove it.",
+    "rules": [
+      "Section 9 > SPELL DESCRIPTIONS > greater restoration",
+      "Section 9 > SPELL DESCRIPTIONS > remove curse"
+    ],
+    "rules_explanation": "The SRD does not specify that curses are the only conditions removable by greater restoration, just a single specified effect, which may remove a curse. remove curse will remove a curse, but does not restore ability score maximums or undo petrification which greater restoration can handle"
+  },
+  {
+    "question": "The level 6 level sorcerer / wizard multiclass casts Dispel Magic on the level 4 sorcerer / warlock. What level must they cast it at to affect her?",
+    "answer": "For each spell of 4th level or higher on the target, the caster of dispel magic must make an ability check using their spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends.",
+    "rules": [
+      "Section 9 > SPELL DESCRIPTIONS > dispel magic"
+    ],
+    "rules_explanation": "Because the dispel magic will not automatically remove the curse, an ability check is required for dispel magic at any level. It does not need to be a level 6 dispel magic."
+  },
+  {
+    "question": "How do you determine the passive perception of the level 1 character with proficiency with perception and a Wisdom score of 15?",
+    "answer": "The passive Wisdom (Perception) score is equal to 10 + the creature's Wisdom modifier (2) + the proficiency bonus (2). The total is 14",
+    "rules": [
+      "Section 9 > Using Ability Scores > Passive Checks",
+      "Section 9 > The Order of Combat > Surprise"
+    ],
+    "rules_explanation": "The rule states that Passive Perception is 10 + Wisdom Modifier + relevant proficiency bonuses."
+  },
+  {
+    "question": "If a level 6 character casts Dispel Magic as a 6th-level spell on the Goblin, what happens?",
+    "answer": "There is no such spell as 'Dispel Curse', but casting Dispel Magic on the goblin requires the caster to make an ability check using their spellcasting ability against each curse affecting the goblin, DC 10 + the spell's level.",
+    "rules": [
+      "Section 9 > SPELL DESCRIPTIONS > dispel magic"
+    ],
+    "rules_explanation": "The spell description outlines the mechanics of using Dispel Magic on spells of different levels. Higher spell levels allow automatic dispelling of lower level spells; casting Dispel Magic at a higher level than the curse itself is not necessary."
+  },
+  {
+    "question": "The 17th level Cleric casts the Commune spell. What happens?",
+    "answer": "Caduceus, all the sounds of chatting and bickering and confused, raised voices here in the house begin to fade, as you feel the familiar warm breeze blow over you. You can sense the clouds above traveling at a far greater speed. Time begins to accelerate, but slow to a crawl simultaneously, and you feel the warm, familiar presence of your protector.",
+    "rules": [
+      "Section 9 > SPELL DESCRIPTIONS > commune"
+    ],
+    "rules_explanation": "The SRD provides the specific wording and effects of casting Commune."
+  },
+  {
+    "question": "What bonuses or penalties affect the Sleight of Hand check?",
+    "answer": "The DM determines whether the Sleight of Hand check is modified by advantage, disadvantage, or other bonuses or penalties, depending on circumstances.",
+    "rules": [
+      "Section 9 > SPELL DESCRIPTIONS > guidance",
+      "Section 9 > Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "There are no fixed bonuses or penalties to Sleight of Hand checks. Any modifiers depend on the situation."
+  },
+  {
+    "question": "What does the Deception check have to beat?",
+    "answer": "The Deception check is contested by a Wisdom (Insight) check by the target.",
+    "rules": [
+      "Section 9 > Using Ability Scores > Contests"
+    ],
+    "rules_explanation": "The rule states that success in contested actions depends on comparing the totals of the two checks."
+  },
+  {
+    "question": "Can the level 3 sorcerer/wizard cast the teleportation spell?",
+    "answer": "No, the character does not have the spell slots required to cast the Teleportation Circle spell.",
+    "rules": [
+      "Section 9 > Spellcasting > Spell Slots",
+      "Section 9 > Spell Lists"
+    ],
+    "rules_explanation": "The Multiclass Spellcaster table shows how many spell slots a character has depending on the level of each class. If you are a ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells."
+  },
+  {
+    "question": "Does a player character's class affect the price a merchant charges?",
+    "answer": "There is no rule given in the equipment section of the SRD for any discount, either positive or negative for any specific class. All prices are as listed in the table.",
+    "rules": [
+      "Section 9 > Equipment"
+    ],
+    "rules_explanation": "Class does not affect shopping and merchants."
+  },
+  {
+    "question": "what check does the 5th level fighter make?",
+    "answer": "The text describes an Animal Handling Check.",
+    "rules": [
+      "Section 9 > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules explain that to make an ability check you roll 1d20 and add the relevant ability modifier and proficiency modifier. If you have advantage, you roll twice and take the higher roll"
+  },
+  {
+    "question": "Does Nott have a penalty for handling a horse, because they have never done it before?",
+    "answer": "No, there is no penalty for using skills that you are not trained in.",
+    "rules": [
+      "Section 9 > Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "The lack of training would not cause a negative bonus to the roll, but also the player would not be able to add their proficiency bonus to the roll."
+  },
+  {
+    "question": "What action can be performed by a character when that character knows she will fall into a trap, in order to warn the other players?",
+    "answer": "A character can communicate however they are able, through brief utterances and gestures as they take their turn.",
+    "rules": [
+      "Section 9 > The Order of Combat > Your Turn > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "This is an example of other activity that can be taken during the turn. A character could use a full action, but this would allow others to possibly walk into the trap as well."
+  },
+  {
+    "question": "What check does Taliesin require to be able to discern anything, when the party arrives at the gate?",
+    "answer": "The character makes a perception check.",
+    "rules": [
+      "Section 9 > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rules explain that to make an ability check you roll 1d20 and add the relevant ability modifier and proficiency modifier."
+  },
+  {
+    "question": "If the party takes the most direct route, is the target familiar with the area?",
+    "answer": "Whether or not a route counts as 'familiar terrain' is up to the DM. The route has been explained as not often used.",
+    "rules": [
+      "Section 9 > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "That is an example of a GM's discretion ruling. The rules explain that the GM is the final arbiter of situations during play."
+  },
+  {
+    "question": "The 1st level illusionist caster casts disguise self and attempts to look like an old woman. What roll do they make, if any?",
+    "answer": "No roll is needed, and the transformation occurs, changing details as specified in the spell description.",
+    "rules": [
+      "Section 9 > Spell Descriptions > Disguise Self",
+      "Section 9 > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The description of Disguise Self does not require a roll to create the illusion, instead it is an automatic effect. There is also a description for how to see through the disguise that involves active checks."
+  },
+  {
+    "question": "Do you get to add your ability modifier when you have your horse attack?",
+    "answer": "The statistics of the mount determine its abilities, the rider does not add their proficiency modifier.",
+    "rules": [
+      "Section 9 > Mounts and Vehicles"
+    ],
+    "rules_explanation": "The DM must use the statistics for each beast listed in the SRD, with only the actions listed for that beast."
+  },
+  {
+    "question": "Is this a Strength or a Dexterity Check?",
+    "answer": "The DM determines which check is made, and can determine the success of a player in a certain field.",
+    "rules": [
+      "Section 9 > Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The rule states that to determine if a task is covered by one of the six abilities is up to the DM."
+  },
+  {
+    "question": "When Laura casts Sending pretending to be the old woman, must a Charisma (Deception) check be rolled to avoid being discovered by the father?",
+    "answer": "Because this casting happens out of view of the father and is successful at sending the message, no check is required.",
+    "rules": [
+      "Section 9 > Spell Descriptions > Sending"
+    ],
+    "rules_explanation": "While Sending can be used to communicate telepathically to a target at a distance, a check is not required for that ability. A check might only be required to convince the father that it is the correct entity that sent the message."
+  },
+  {
+    "question": "To leave sketches within the books that the character puts away without being called on it, which skill is to be rolled?",
+    "answer": "Make a sleight of hand check.",
+    "rules": [
+      "Section 9 > Using Ability Scores"
+    ],
+    "rules_explanation": "Sleight of Hand applies to manual trickery."
+  }
+]

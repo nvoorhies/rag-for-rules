@@ -1,0 +1,415 @@
+[
+  {
+    "question": "Is there any way to trace a teleportation after it's been triggered?",
+    "answer": "Not beyond just scrying again on the individuals who teleported. There's nothing to trace directly.",
+    "rules": [
+      "Transitive Planes > Planar Travel"
+    ],
+    "rules_explanation": "The rules state how to travel to other planes, but no rules are provided for tracing teleportation.  Scrying is provided as the only means for locating someone who has teleported to another location."
+  },
+  {
+    "question": "What check do I make to determine if the party gets through the border using the forged documents?",
+    "answer": "Make a dexterity check with your proficiency modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Since the document is forged, and it is stated that it has to be 'scratched out a few times', the ability in question to determine the validity of the document being faked at the border is dexterity. Also, since it is stated there's a proficiency bonus, it means that the character is proficient in forgery. Thus the check should use the dexterity score and the proficiency modifier."
+  },
+  {
+    "question": "Since she seems at the very least sad that it's such a short meeting, do I need to roll some dice?",
+    "answer": "Make an insight check, if you want.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master calls for a check using the character's Wisdom stat and the Insight skill proficiency."
+  },
+  {
+    "question": "What do I do with Guidance?",
+    "answer": "Add a d4.",
+    "rules": [
+      "Spell Descriptions > Guidance"
+    ],
+    "rules_explanation": "The description of the Guidance cantrip states that the effect is to add 1d4 to an ability check."
+  },
+  {
+    "question": "What is it? A dexterity or performance check?",
+    "answer": "Dexterity with your proficiency.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Since the document is forged, the ability in question to determine the validity of the document being faked at the border is dexterity. Also, since it is stated there's a proficiency bonus, it means that the character is proficient in forgery. Thus the check should use the dexterity score and the proficiency modifier."
+  },
+  {
+    "question": "Can I do Guidance on myself?",
+    "answer": "You touch one willing creature. You are a willing creature, yep.",
+    "rules": [
+      "Spell Descriptions > Guidance"
+    ],
+    "rules_explanation": "The spell description of guidance specifies that you touch a willing creature."
+  },
+  {
+    "question": "What's the ruling, Can I help?",
+    "answer": "If you want to help, you can take advantage on that.",
+    "rules": [
+      "Using Ability Scores > Working Together",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Two characters are working together in a task, so they each have advantage on the roll. It's unclear in the context whether or not Laura could help, but since both of the other characters wanted to help, they get advantage."
+  },
+  {
+    "question": "Is it like calling a phone number?",
+    "answer": "For the most part, there is one in each facility that is used to anchor to each one and transition between, but it's not an open passageway. It's one that's utilized only for necessary travel of those that are generally pretty higher up or on specific missions for the archive.",
+    "rules": [
+      "Transitive Planes > Planar Travel"
+    ],
+    "rules_explanation": "The rules state how to travel to other planes, but in this instance they define how a feature in the game world works."
+  },
+  {
+    "question": "Does it make you nervous?",
+    "answer": "It makes no sense, because one of the regions that you're very familiar with is the city of Kamordah.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "DM narrating information in the world to the players, no specific rule being checked"
+  },
+  {
+    "question": "Charisma or Dexterity check to sketch parents?",
+    "answer": "Make a charisma check. This is how good you are about conveying the details. Now you go ahead and make a dexterity check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM asks for two ability checks with different skills, Charisma to convey the details, and Dexterity to draw the details"
+  },
+  {
+    "question": "Can I get a ruling on whether to roll an Investigation or Perception check for the sparkling I was looking for?",
+    "answer": "Because you're not rummaging through things, you're looking all over. Investigation or perception, your choice.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "DM ruling that either skill check is acceptable because the search does not conform to the normal use of either one."
+  },
+  {
+    "question": "Is she still conscious?",
+    "answer": "That's a natural one on that saving throw.",
+    "rules": [
+      "Combat > Making an Attack > Rolling 1 or 20"
+    ],
+    "rules_explanation": "When a 1 is rolled on a saving throw the roll automatically fails, and the player is knocked unconscious. "
+  },
+  {
+    "question": "What skill should I roll here, and can I get assistance?",
+    "answer": "Make a persuasion check. You would have advantage on this, Beauregard. Both of you. She just has advantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A player is trying to get access, and needs to make a persuasion roll. Someone else says that they have advantage, and the DM agrees."
+  },
+  {
+    "question": "Dexterity or performance check to sign a contract?",
+    "answer": "What is it? A dexterity or performance check? This is for, yeah, proficiency bonus and your dexterity bonus.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A player character was trying to do a task. DM explained the character should make a dexterity skill check and add the proficiency bonus"
+  },
+  {
+    "question": "Do I get advantage on this one too?",
+    "answer": "No.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The DM rules that the player does not have any sources of advantage on the check"
+  },
+  {
+    "question": "Can I use Guidance on this roll?",
+    "answer": "Guidance, oh, just one, can I help? If you want to help, you can take advantage on that.",
+    "rules": [
+      "Spell Description > Guidance"
+    ],
+    "rules_explanation": "The player wants to assist with the action by casting the spell Guidance. This results in the player getting advantage on the action."
+  },
+  {
+    "question": "What is the last thing we shot?",
+    "answer": "You shot me in the fucking ass. You shot Beauregard.",
+    "rules": [
+      "Roleplaying encounter"
+    ],
+    "rules_explanation": "Players are describing something that happened in the game world"
+  },
+  {
+    "question": "How much did my mom give me?",
+    "answer": "You go ahead and look inside? It's 750 gold pieces.",
+    "rules": [
+      "Equipment > Coinage"
+    ],
+    "rules_explanation": "The DM states how much currency is given to the player character"
+  },
+  {
+    "question": "Two dozen guards?",
+    "answer": "About, yeah.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Descriptive ruling, no specific rule being checked"
+  },
+  {
+    "question": "What is it? A dexterity or performance check?",
+    "answer": "This is for, yeah, proficiency bonus and your dexterity bonus.",
+    "rules": [
+      "Ability Checks > Ability Score Checks"
+    ],
+    "rules_explanation": "The DM determined the necessary skill check is dexterity and that the character is proficient in it"
+  },
+  {
+    "question": "Do I get advantage on this one too?",
+    "answer": "No.",
+    "rules": [
+      "Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "DM informs the player that their roll has no sources of advantage."
+  },
+  {
+    "question": "I'm going to do Guidance, do I get it now?",
+    "answer": "Take a d4.",
+    "rules": [
+      "Spell Description > Guidance"
+    ],
+    "rules_explanation": "The player uses the spell Guidance on a roll to add a d4 to the roll"
+  },
+  {
+    "question": "Can I do Guidance on this?",
+    "answer": "Yeah, it's a night watch. Yeah, all right.",
+    "rules": [
+      "Spell Description > Guidance"
+    ],
+    "rules_explanation": "The DM confirms that it's okay to use the spell."
+  },
+  {
+    "question": "Should I try to scry on Yasha one more time and see where they are right now? If I can?",
+    "answer": "That's a natural one on that saving throw.",
+    "rules": [
+      "Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "A natural 1 rolled on a saving throw indicates that the action has failed."
+  },
+  {
+    "question": "This is investigation?",
+    "answer": "Yeah.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "DM clarifies which skill is to be used for a check"
+  },
+  {
+    "question": "What do I do with Guidance?",
+    "answer": "Add a d4.",
+    "rules": [
+      "Spell Description > Guidance"
+    ],
+    "rules_explanation": "Guidance spell allows a player to add 1d4 to an ability check."
+  },
+  {
+    "question": "What was the other location that was in there?",
+    "answer": "Veluthil, sorry, Veluthil.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "DM describing information in the world to the players, no specific rule being checked"
+  },
+  {
+    "question": "If I can?",
+    "answer": "Okay. The Traveler's presence warms the space around you and as you hold your hands in front, you feel his hands clasps yours. The voice goes, \"Hmm, let's see what your friend's doing. This way,\" and his head turns this direction, and your vision suddenly (whooshes), shifts in this rapid pace, zig-zagging through blurring topography, mountains, hills come dodging through.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "DM describing information in the world to the players, no specific rule being checked"
+  },
+  {
+    "question": "We can do a medicine check?",
+    "answer": "Mm-hmm, medicine.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The player checks with the DM to confirm what type of ability check should be rolled. The DM confirms which type of skill check."
+  },
+  {
+    "question": "Should I see if, no? Oh, you mean scrying? Sure, sure. Go for it.",
+    "answer": "Okay. That's a natural one on that saving throw.",
+    "rules": [
+      "Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "A natural 1 rolled on a saving throw indicates that the action has failed."
+  },
+  {
+    "question": "The weather itself is still cool, but it looks like you're moving away from the snowier winters that seem to have been taking the northern part of the continent. You can still see some slush and some dirty ice and snow that's in the process of melting away. Is there anything you wish to do during the multi-day journey to Zadash?",
+    "answer": "Should I see if-- No! --they're still there?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The DM describing the world and the players are role-playing. This is descriptive text and a rules prompt."
+  },
+  {
+    "question": "Can I help?",
+    "answer": "If you want to help, you can take advantage on that.",
+    "rules": [
+      "Using Ability Scores > Working Together",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Two characters are working together in a task, so they each have advantage on the roll. The DM rules on whether or not a third can help."
+  },
+  {
+    "question": "You're under watch?",
+    "answer": "Make a sleight of hand check.",
+    "rules": [
+      "Ability Checks > Dexterity"
+    ],
+    "rules_explanation": "DM requests a skill check."
+  },
+  {
+    "question": "What is that?",
+    "answer": "He's an expositor now. Top of her class. How are things there? Anything weird happen?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Roleplaying/dialogue"
+  },
+  {
+    "question": "Are there any other things you want to research: people, places, anything?",
+    "answer": "Should I see if they're still there?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Roleplaying/dialogue"
+  },
+  {
+    "question": "All right, you have been given temporary rights of passage, but you are also, until further notice, banned from the Rexxentrum Archive.",
+    "answer": "Does that include the teleportation?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Roleplaying/dialogue"
+  },
+  {
+    "question": "He said he would need our help soon. It seemed like he would do it.",
+    "answer": "Okay, so a cluster of six horses outside an alleyway. You're blocking the line of sight into the alley, is that what you're doing?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Roleplaying/descriptive scene setup"
+  },
+  {
+    "question": "You said there's geysers all over the place, right?",
+    "answer": "Not all over the place.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Roleplaying/dialogue"
+  },
+  {
+    "question": "Then yes, I think maybe we should not be in these clothes.",
+    "answer": "You've gotten a few looks. Not like, \"Oh my god, they're Xhorhasian!\" But it's a style that's not very common in the Empire, and while you're passing through Alfield and Trostenwald.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Roleplaying/descriptive scene setup"
+  },
+  {
+    "question": "What did you say you had with us?",
+    "answer": "Been gone a long time, you know.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Roleplaying/dialogue"
+  },
+  {
+    "question": "Well, the man said he was a representative of the Rexxentrum Archive, on business with the war effort. Something didn't sit right when I first saw him.",
+    "answer": "Was he blond?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Roleplaying/dialogue"
+  },
+  {
+    "question": "What should we research?",
+    "answer": "An Angel in Irons?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Roleplaying/dialogue"
+  },
+  {
+    "question": "I'm going to cast Enhance Ability. What do I do now?",
+    "answer": "You have advantage on intelligence-based ability checks for an hour.",
+    "rules": [
+      "Spell Description > Enhance Ability"
+    ],
+    "rules_explanation": "The DM refers to the Enhance Ability spell to determine the parameters."
+  },
+  {
+    "question": "Yeah, you describe them to me and I'll try to draw a sketch, like a criminal thing. You describe them and I'll try to draw what I think they look like.",
+    "answer": "It's like a police sketch.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Roleplaying/dialogue"
+  },
+  {
+    "question": "He has brown eyes, I got my blue eyes from my mom. Just straight charisma?",
+    "answer": "This is how good you are about conveying the details.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A player character is asked to roll a Charisma check in order to accurately recall details."
+  },
+  {
+    "question": "I should just use it right now, just in case? Woo! Plus dexterity?",
+    "answer": "Mm-hmm.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A player character is asking if they should use their \"Fortunes Favor\", and asking if it should be added to Dexterity. The DM replies to both."
+  },
+  {
+    "question": "Okay, am I scrying or am I sending a message, what am I doing here?",
+    "answer": "Send a message to Thoreau. That way if nothing's happened yet, you can.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Roleplaying/dialogue"
+  },
+  {
+    "question": "Should I say you're doing like super, super good?",
+    "answer": "Yeah.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Roleplaying/dialogue"
+  },
+  {
+    "question": "All of those things.",
+    "answer": "All right.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The DM acknowledges what the players want to do."
+  },
+  {
+    "question": "All right, so for this Lionett, they have two bottles of the purple cider red wine, which you're very familiar with, those run 50 gold per bottle.",
+    "answer": "Whoa, your family rolls in the stanky yankee shit. (laughter) Oh my god!",
+    "rules": [
+      "Equipment > Coinage"
+    ],
+    "rules_explanation": "The DM states the price of something using Gold pieces."
+  },
+  {
+    "question": "Does it change colors? Do anything?",
+    "answer": "It looks like a nice rich red-purple wine.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "DM describes the wine but makes no use of game rules."
+  },
+  {
+    "question": "They're around,"
+  }
+]

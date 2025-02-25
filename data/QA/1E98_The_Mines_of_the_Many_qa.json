@@ -1,0 +1,150 @@
+[
+  {
+    "question": "During the family conversation, a character says he was scanning the room, and after the conversation asks to make a retroactive perception check - is that allowed?",
+    "answer": "The question of allowing a retroactive check is not covered by the SRD.",
+    "rules": [],
+    "rules_explanation": "This question relies on meta-game considerations not covered in the rules."
+  },
+  {
+    "question": "A character is investigating and another is perceiving. What checks are required?",
+    "answer": "The DM calls for an Intelligence (Investigation) check or Wisdom (Perception) check, depending on the task at hand.",
+    "rules": [
+      "5. USING ABILITY SCORES > ABILITY CHECKS > ABILITY CHECKS"
+    ],
+    "rules_explanation": "Depending on whether the check involves investigating or perceiving, the GM calls for the check."
+  },
+  {
+    "question": "A character is playing an inspiring leader. What is the duration of the effect?",
+    "answer": "The duration of the effect is not specified in the Inspiring Leader feat",
+    "rules": [],
+    "rules_explanation": "This is a free form consideration not covered by the rules text."
+  },
+  {
+    "question": "A character is performing the inspiring leader feat. Does this feat require a short rest?",
+    "answer": "No, the Inspiring Leader feat does not require a short rest to perform.",
+    "rules": [],
+    "rules_explanation": "This is based on whether the feat calls for a short rest, which it does not."
+  },
+  {
+    "question": "A character is affected by the Inspiring Leader ability and gains temporary hitpoints. How long do those temporary hitpoints last?",
+    "answer": "Temporary hit points last until they're depleted or you finish a long rest.",
+    "rules": [
+      "3. COMBAT > DAMAGE AND HEALING > TEMPORARY HIT POINTS"
+    ],
+    "rules_explanation": "This rule describes the lifetime of temporary hitpoints."
+  },
+  {
+    "question": "A 1st-level Druid with no levels in other classes casts commune with nature at 5th level. What information can the druid choose to learn about the surrounding area, and how big is the area that the spell affects?",
+    "answer": "The druid can instantly gain knowledge of up to three facts of their choice about any of the following subjects as they relate to the area: terrain; bodies of water; prevalent plants, minerals, animals, or peoples; powerful celestials, fey, fiends, elementals, or undead; influence from other planes of existence; or buildings. The area is a three-mile radius.",
+    "rules": [
+      "4. SPELLCASTING > WHAT IS A SPELL? > SPELL DESCRIPTIONS > COMMUNE WITH NATURE"
+    ],
+    "rules_explanation": "The level of the caster determines how many of the following subjects are known.  Commune with Nature does not have separate effects depending on the level at which the spell is cast.\nThe spell description dictates that the druid gains knowledge of the land within 3 miles."
+  },
+  {
+    "question": "A character asks if they have any special benefits for being in their favoured terrain when making an investigation check. What are those?",
+    "answer": "When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.",
+    "rules": [
+      "4. CHARACTER CREATION > RANGER > CLASS FEATURES > FAVORED ENEMY AND NATURAL EXPLORER"
+    ],
+    "rules_explanation": "This rule describes the benefits granted when you make an Intelligence or Wisdom check related to your favored terrain"
+  },
+  {
+    "question": "What happens to an object if it is affected by the transmute rock spell?",
+    "answer": "There is no \"transmute rock\" spell in the SRD 5.1",
+    "rules": [],
+    "rules_explanation": "This information relies on knowledge of a spell not described in the core rules text."
+  },
+  {
+    "question": "A character prepares to go through the mine and has both the benefits of Hero's Feast, and the temporary hitpoints granted by Inspiring Leader. Which effect applies?",
+    "answer": "The temporary hit points from Inspiring Leader and the increase to maximum hit points from Heroes' Feast stack.",
+    "rules": [
+      "3. COMBAT > DAMAGE AND HEALING > TEMPORARY HIT POINTS"
+    ],
+    "rules_explanation": "According to the Temporary Hit Points rules, temporary hitpoints can exceed the maximum hp value. That maximum is increased by the effects of the Heroes' Feast Spell."
+  },
+  {
+    "question": "A 5th level character with the barbarian class has the rage ability, what benefits do they get?",
+    "answer": "While raging, you gain the following benefits if you aren't wearing heavy armor:\n\n- You have advantage on Strength checks and Strength saving throws.\n- When you make a melee weapon attack using Strength, you gain a +2 bonus to the damage roll.\n- You have resistance to bludgeoning, piercing, and slashing damage.",
+    "rules": [
+      "3. CLASSES > BARBARIAN > CLASS FEATURES > RAGE"
+    ],
+    "rules_explanation": "The rage ability at 5th level grants advantage on Strength checks and Strength saving throws; a +2 bonus to the damage roll for melee weapon attacks using strength; and resistance to bludgeoning, piercing, and slashing damage."
+  },
+  {
+    "question": "If a person has the rage ability, what bonus action is required to activate a Jump coin to triple a jump?",
+    "answer": "Slapping the coin requires an action.",
+    "rules": [
+      "3. CLASSES > BARBARIAN > CLASS FEATURES > RAGE",
+      "3. COMBAT > ACTIONS IN COMBAT > USE AN OBJECT"
+    ],
+    "rules_explanation": "Activating a magic item typically requires the Use an Object action."
+  },
+  {
+    "question": "How far can a hasted 5th level rogue with expertise fly with movement alone?",
+    "answer": "The question cannot be answered from SRD. The hasted condition doubles the movement, which must first be known.",
+    "rules": [],
+    "rules_explanation": "The answer requires a known movement before modifiers can be applied."
+  },
+  {
+    "question": "A warlock is flying on a carpet. What kind of check is required for being hit and pushed by lava?",
+    "answer": "A Dexterity saving throw is required to dodge an effect that would move you",
+    "rules": [
+      "3. USING ABILITY SCORES > ABILITY CHECKS > GROUP CHECKS",
+      "3. COMBAT > MAKING AN ATTACK > COVER"
+    ],
+    "rules_explanation": "Damage is inflicted from the column of fire. To check for an effect from this hazard, a player must make a dexterity check"
+  },
+  {
+    "question": "A player asks to use druidcraft to weave a hammock. Is that possible?",
+    "answer": "No. You could, over the next couple hours craft a single web hammock.",
+    "rules": [
+      "4. SPELLCASTING > SPELL LISTS > DRUID SPELLS > DRUIDCRAFT"
+    ],
+    "rules_explanation": "Druidcraft is cantrip, a very localized and cantrip-based magic, . It's quick."
+  },
+  {
+    "question": "A character has a Wisdom of 15, has Proficiency in Perception, and is in their favoured terrain. What is the passive perception?",
+    "answer": "The passive Wisdom (Perception) score is 14. Double the proficiency is not added.",
+    "rules": [
+      "3. USING ABILITY SCORES > ABILITY CHECKS > PASSIVE CHECKS"
+    ],
+    "rules_explanation": "This calculation requires Wisdom Modifier + 10 + skills if the character is proficient in the given skill. Having proficiency does not affect the passive wisdom perception skill."
+  },
+  {
+    "question": "Can you attack with an off-hand dagger when you make an attack action with your main hand?",
+    "answer": "No, You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative",
+    "rules": [
+      "3. COMBAT > ACTIONS IN COMBAT > MAKING AN ATTACK > TWO-WEAPON FIGHTING"
+    ],
+    "rules_explanation": "The Two-Weapon Fighting entry explains the rules."
+  },
+  {
+    "question": "If a weapon does not light up the area when it strikes an object, does it still trigger the undead in the area to approach.",
+    "answer": "There is not a rule that says this weapon would.",
+    "rules": [],
+    "rules_explanation": "This question relies on rulings and campaign-specific rules to answer the question, neither of which appear in the srd."
+  },
+  {
+    "question": "A character has their weapon drawn that emits bright light when undead are close. How does the light effect stealth when travelling through the dark.",
+    "answer": "Darkness creates a heavily obscured area. A heavily obscured area blocks vision entirely.",
+    "rules": [
+      "3. THE ENVIRONMENT > VISION AND LIGHT > VISION AND OBSCURITY"
+    ],
+    "rules_explanation": "Creatures must have vision in an area to see each other. Since this area is heavily obscured, the vision is fully blocked."
+  },
+  {
+    "question": "What happens when a party steps out of the house on the porch?",
+    "answer": "This is not a rules questions.",
+    "rules": [],
+    "rules_explanation": "This is a plot/game question."
+  },
+  {
+    "question": "What are the effects of the Enhance Ability spell on a check?",
+    "answer": "The target has advantage on ability checks using that ability.",
+    "rules": [
+      "4. SPELLCASTING > SPELL LISTS > BARD SPELLS > ENHANCE ABILITY"
+    ],
+    "rules_explanation": "The spell description describes the effect of the spell on ability checks."
+  }
+]

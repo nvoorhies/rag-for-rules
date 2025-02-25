@@ -1,0 +1,20 @@
+[
+  {
+    "question": "Is the echo knight fighter subclass meant to have endless uses of its ability to summon an echo per turn?",
+    "answer": "Yes, the echo knight fighter subclass is meant to have endless uses of its ability to summon an echo per turn, but you can only have one echo up at any given point in time.",
+    "rules": [
+      "Class Features > Bonus Actions",
+      "Fighter > Martial Archetype > Echo Knight"
+    ],
+    "rules_explanation": "The Echo Knight description would define the limits of the Echo Knight's ability to summon an echo."
+  },
+  {
+    "question": "The Echo Knight fighter subclass has Constitution focus. Why the Constitution focus for Echo Knights?",
+    "answer": "The Constitution focus represents the physical tax involved in pulling an echo from another place, focusing on dunamantic energies, and shifting yourself to and from it.",
+    "rules": [
+      "Class Features > Ability Score Improvement",
+      "Fighter > Martial Archetype > Echo Knight"
+    ],
+    "rules_explanation": "The rules define how ability score adjustments are added to the character, and there would be an explanation as to the justification of an ability score in the class description."
+  }
+]

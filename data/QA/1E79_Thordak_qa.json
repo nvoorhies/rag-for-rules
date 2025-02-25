@@ -1,0 +1,218 @@
+[
+  {
+    "question": "What are the components of the 'Pass Without a Trace' spell?",
+    "answer": "The components of the 'Pass Without a Trace' spell are Verbal and Somatic.",
+    "rules": [
+      "Spellcasting > Components"
+    ],
+    "rules_explanation": "The rules state that a spell's components are found in its description. The components, in this case, are Verbal and Somatic, as seen later in the description."
+  },
+  {
+    "question": "If a 6th-level spell is cast as an action, what is the highest level spell that can be cast as a bonus action?",
+    "answer": "If a spell of 3rd-level or higher is cast as an action, then only a spell of 2nd level or lower can be cast as a bonus action.",
+    "rules": [
+      "Spellcasting > Bonus Action"
+    ],
+    "rules_explanation": "The rules for Bonus Action spells state the limitation on what level spell can be cast as a bonus action if a higher level action spell is cast"
+  },
+  {
+    "question": "Can Cutting Words reduce an Ancient Dragon's attack roll?",
+    "answer": "No, Cutting Words cannot reduce an attack roll. Cutting Words can only be used to reduce the damage of an attack.",
+    "rules": [
+      "Bard > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "The description of the Cutting Words ability specifies that it is used to subtract from an attack's damage roll, not the attack roll."
+  },
+  {
+    "question": "If Thordak the Cinder King succeeds on three Constitution saving throws from the druid's level 17, circle of the land druid's Contagion spell, does the condition go away?",
+    "answer": "Yes, if Thordak the Cinder King succeeds on three Constitution saving throws against Contagion, then the effect ends.",
+    "rules": [
+      "Spellcasting > Contagion"
+    ],
+    "rules_explanation": "The Contagion spell states that after failing three saving throws, the disease takes effect, and that by succeeding on three saving throws, the creature recovers from the disease, and the spell ends"
+  },
+  {
+    "question": "Can Legendary Actions be used at any time?",
+    "answer": "No. Legendary actions can be taken at the end of someone else's turn.",
+    "rules": [
+      "Monsters > Legendary Creatures > Legendary Actions"
+    ],
+    "rules_explanation": "The rules on legendary actions specifically state they can only be used at the end of another creature's turn"
+  },
+  {
+    "question": "If a 6th-level spell is cast, can Spiritual Weapon be cast at 5th-level as a bonus action?",
+    "answer": "No, if a spell of 3rd-level or higher is cast as an action, then only a spell of 2nd level or lower can be cast as a bonus action.",
+    "rules": [
+      "Spellcasting > Bonus Action"
+    ],
+    "rules_explanation": "The rules for Bonus Action spells state the limitation on what level spell can be cast as a bonus action if a higher level action spell is cast"
+  },
+  {
+    "question": "Can a creature use its movement to drink a potion?",
+    "answer": "No, a character must use an action to drink a potion.",
+    "rules": [
+      "Combat > Actions in Combat > Use an Object",
+      "Equipment > Adventuring Gear > Potion of Healing"
+    ],
+    "rules_explanation": "A potion is an object, and the rules for use an object state that an action is required to interact with the object to use it. The description for the potion of healing specifically states drinking a potion requires the use of an action."
+  },
+  {
+    "question": "Can the character, level 13 human fighter (champion) with 1 level in another class, use Great Weapon Master on an attack of opportunity?",
+    "answer": "A character, level 13 human fighter (champion) with 1 level in another class, cannot use Great Weapon Master on an attack of opportunity.",
+    "rules": [
+      "Feats > Great Weapon Master"
+    ],
+    "rules_explanation": "The description of the Great Weapon Master feat specifies it can be used on *your turn.* Opportunity Attacks happen on *other creatures' turns*, so it cannot be used with an attack of opportunity."
+  },
+  {
+    "question": "If The level 17, circle of the land druid casts Blight at range 70 feet, will it have an effect?",
+    "answer": "No. Blight has a range of 30 feet.",
+    "rules": [
+      "Spell Lists > Druid Spells > Blight > Range"
+    ],
+    "rules_explanation": "According to the Blight spell, it can only be cast at a range of 30 feet. If it were to be cast at 70 feet it would be out of range and have no effect"
+  },
+  {
+    "question": "When a dragon with a breath weapon is reduced to 0 hit points, and a level 14 rogue has Uncanny Dodge, how much bludgeoning damage should they take from tumbling after they fall?",
+    "answer": "The level 14 rogue with Uncanny Dodge takes 17 bludgeoning damage from tumbling from a great height with the intent to reduce damage using Uncanny Dodge.",
+    "rules": [
+      "Adventuring > The Environment > Falling",
+      "Rogue > Uncanny Dodge"
+    ],
+    "rules_explanation": "A fall from a great height inflicts 1d6 bludgeoning damage for each 10 feet fallen, to a maximum of 20d6. However, a creature can use Uncanny Dodge to halve this damage, to a maximum of 10d6. Ten dice with an average result of 3.5 is 35. This halved result of 17.5 must be rounded down per game rules."
+  },
+  {
+    "question": "If a halfling has disadvantage from an effect, and their racial trait 'Lucky', how many dice do they roll?",
+    "answer": "When a halfling has disadvantage on an attack roll, ability check, or saving throw, the halfling rolls two dice and uses the lower result. They then can choose to reroll one of the dice.",
+    "rules": [
+      "Halfling > Lucky",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The Lucky trait allows for a reroll after an initial roll, and the rules for Advantage and Disadvantage state that even when both are present, you only roll two dice, and take one based on the condition. Therefore, this is one roll, with a reroll of one dice afterwards."
+  },
+  {
+    "question": "After you have successfully used Cutting Words to give the target a disadvantage on saving throws, when do you remove that disadvantage effect?",
+    "answer": "The target has a disadvantage on the next saving throw it has to make.",
+    "rules": [
+      "Bard > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "Cutting Words only affects *the next* saving throw"
+  },
+  {
+    "question": "Can Thordak use a Legendary Resistance to resist the poison from the druid's, level 17, circle of the land, druid's, level 17, circle of the land, spell, Contagion?",
+    "answer": "The Thordak can use Legendary Resistance to succeed, but must use it to convert a failure on the initial attack roll.",
+    "rules": [
+      "Monsters > Legendary Creatures > Legendary Resistance",
+      "Spellcasting > Contagion"
+    ],
+    "rules_explanation": "A Legendary Resistance can be used to change a failed saving throw to a successful one, making it so that it doesn't take effect."
+  },
+  {
+    "question": "When can legendary actions be performed?",
+    "answer": "Legendary Actions may only be performed at the end of another creature's turn.",
+    "rules": [
+      "Monsters > Legendary Creatures > Legendary Actions"
+    ],
+    "rules_explanation": "The rules for legendary actions specifically state they can only be used at the end of another creature's turn"
+  },
+  {
+    "question": "A party is immune to poison and fear. A 1/2 CR hobgoblin is going to fire bolts from their crossbow. What happens?",
+    "answer": "The arrows deal their normal damage on a hit, but are not able to poison the target.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Conditions > Poisoned"
+    ],
+    "rules_explanation": "As the attack roll is still performed, the arrow damage will still be applied. However, since the target has immunity to poison, the poison damage will have no effect."
+  },
+  {
+    "question": "Can a 3rd-level rogue with 2 levels in another class use Cunning Action to disengage from a melee attack to move away?",
+    "answer": "Yes, A 3rd-level rogue with 2 levels in another class, can use Cunning Action to disengage from a melee attack to move away. The rogue levels are what matters here.",
+    "rules": [
+      "Rogue > Cunning Action"
+    ],
+    "rules_explanation": "Cunning Action is a class feature that is specifically outlined by the Rogue class, and only requires that the rogue is at least level 2. Because of this, the rogue levels are the only things that matter."
+  },
+  {
+    "question": "If a warlock has 3 attacks and a 2 rogue levels, and attacks a creature with disadvantage, does vow of enmity still grant them sneak attack?",
+    "answer": "If the creature is not adjacent to the warlock's allies, vow of enmity does not grant Sneak Attack, as the disadvantage would cancel out the advantage and still leave the warlock without advantage.",
+    "rules": [
+      "Rogue > Sneak Attack",
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The sneak attack damage is added if there is advantage, or the target is adjacent to an ally. With Vow of Enmity, there would be no advantage without another ally next to the target, as disadvantage and advantage cancel each other."
+  },
+  {
+    "question": "Does the Haste spell affect a character's broom of flying?",
+    "answer": "No, the Haste spell does not affect your broom of flying, but this situation might be different for different DMs.",
+    "rules": [
+      "Spellcasting > Haste",
+      "Equipment > Wondrous Items > Broom of Flying"
+    ],
+    "rules_explanation": "The text of the Haste spell gives a bonus to your speed, not to the mount or vehicle you are riding. The rules for the Broom of Flying state nothing regarding the speed of travel."
+  },
+  {
+    "question": "Does The Giant's type affect the Arrow of Slaying?",
+    "answer": "Yes, if the arrow is an arrow of giant slaying.",
+    "rules": [
+      "Equipment > Magic Items > Arrow of Slaying"
+    ],
+    "rules_explanation": "The specific kind of creature determines whether the effect applies, as stated in the description."
+  },
+  {
+    "question": "If the oath of the devotion paladin drops to zero hit points, can she use lay on hands to self heal, or will beacon of hope save them?",
+    "answer": "Beacon of Hope does not affect lay on hands. Lay on Hands is a class feature not a spell.",
+    "rules": [
+      "Paladin > Sacred Oaths > Oath of Devotion"
+    ],
+    "rules_explanation": "Because lay on hands is not a spell, Beacon of Hope's heal effect would not apply."
+  },
+  {
+    "question": "Can you get War God's Blessing to increase your attack by when attacking with a fist?",
+    "answer": "War God's Blessing can be used to increase an attack roll",
+    "rules": [
+      "Cleric Spell List > Bless"
+    ],
+    "rules_explanation": "Bards are great. All right, that's your bonus action."
+  },
+  {
+    "question": "Does Cutting Words affect a critical hit?",
+    "answer": "Yes, Cutting Words can be used to reduce the damage of an attack, even a critical hit.",
+    "rules": [
+      "Bard > College of Lore > Cutting Words"
+    ],
+    "rules_explanation": "The description of Cutting Words mentions reducing damage from an attack, but not specifically a critical hit. However, the effects of a critical hit merely involve multiplying the dice rolled for damage, but is still considered damage, which can then be reduced by Cutting Words."
+  },
+  {
+    "question": "If a wizard is burning with fire, are they able to reroll their saving throw with grit?",
+    "answer": "The ability to reroll saving throws requires a grit point, and no such rules exist for wizards. However, such rules do exist for a Gunslinger.",
+    "rules": [
+      "Talent > Gunslinger (Renaissance) > Grit"
+    ],
+    "rules_explanation": "The question states 'grit' being used. The wizard class has no abilities that specifically use grit. However, Gunslingers use Grit to add special properties to their ammunition"
+  },
+  {
+    "question": "Can Vax use Evasion in this scenario? ",
+    "answer": "Yes, it is a new round for you to use Evasion.",
+    "rules": [
+      "Classes > Rogue > Evasion"
+    ],
+    "rules_explanation": "The rules of Evasion only say a single instance of an area effect attack. This is a new round, so it is a new instance of the ability to take zero damage."
+  },
+  {
+    "question": "How far is Grog from Kima when Beacon of Hope is cast and is he affected by it?",
+    "answer": "Grog is just out of range of it.",
+    "rules": [
+      "Cleric > Divine Domain > Life Domain Spells > Beacon of Hope"
+    ],
+    "rules_explanation": "The radius of Beacon of Hope is 30 feet and Grog is out of the radius."
+  },
+  {
+    "question": "If a creature is affected by Beacon of Hope, how much does a 2d4+5 spell heal?",
+    "answer": "13 hit points",
+    "rules": [
+      "Cleric > Divine Domain > Life Domain Spells > Beacon of Hope",
+      "The Order of Combat > Your Turn > Actions > Healing Word"
+    ],
+    "rules_explanation": "Beacon of Hope makes all rolls max, and 2d4 max is 8, so the roll results in 8 + 5 modifier from the spell."
+  }
+]

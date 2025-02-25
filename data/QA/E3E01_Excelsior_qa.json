@@ -1,0 +1,383 @@
+[
+  {
+    "question": "A level 1 Paladin is looking into a pool of stars and hears whispers. The DM asks if they speak Draconic. Why is the DM asking that question?",
+    "answer": "Because the DM is trying to determine if the character can understand the whispers they are hearing.",
+    "rules": [
+      "Backgrounds > Languages",
+      "Races Racial Traits > Languages"
+    ],
+    "rules_explanation": "The DM is deciding if the player character has the language proficiency to understand the whispers. Each race has different languages that they know. A background could also grant aditional langauges."
+  },
+  {
+    "question": "A level 14 character is making an arcana check. What rules can be used for the check?",
+    "answer": "The rules for making an ability check are used.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A character has to perform an ability check using the appropriate modifier when the outcome of an event is uncertain. That is the case for determining information with the arcana skill."
+  },
+  {
+    "question": "Can a spell component be non-magical?",
+    "answer": "Yes, components rarely need to be magical.",
+    "rules": [
+      "Spellcasting > Components > Material (M)"
+    ],
+    "rules_explanation": "Material components for spells are physical objects that do not always need to be magical in nature. Many material components are consumed to cast the spell."
+  },
+  {
+    "question": "What skills can a level 7 rogue use for a deception check?",
+    "answer": "A level 7 rogue can use expertise to double their proficiency bonus for two of their skills and one of the skills can be deception.",
+    "rules": [
+      "Rogue > Class Features > Expertise"
+    ],
+    "rules_explanation": "A rogue gets access to Expertise to apply their proficiency to the skill check and double their bonus for it. There is no limit to what level proficiency can be applied at."
+  },
+  {
+    "question": "If a level 7 sightwarden attempts to deceive someone to avoid being careless, what is used for the check?",
+    "answer": "The check is a Charisma (Deception) check to hide information from someone. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The player is trying to make a deception check by using the appropriate ability of Charisma and the appropiate skill"
+  },
+  {
+    "question": "If a level 8 Keeper of the Scrolls is trying to obtain information and the DM asks for a roll using history, what does that mean?",
+    "answer": "The DM is asking for an Intelligence (History) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A character has to perform an ability check using the appropriate modifier when the outcome of an event is uncertain. That is the case for determining information with the history skill."
+  },
+  {
+    "question": "How does divine sense work? what does it detect?",
+    "answer": "As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated.",
+    "rules": [
+      "Paladin > Class Features > Divine Sense"
+    ],
+    "rules_explanation": "The question was about how Divine Sense Works and the answer was provided directly in the divine sense description"
+  },
+  {
+    "question": "If a level 14 sightwarden that also has proficiency in arcana wants to know what will happen if a magic item were to be disenchanted what rules and adjustments to the check should be considered? What does he add to his disenchantment check?",
+    "answer": "A check about disenchantment would be an Intelligence(Arcana) check. Because the player is proficient they add their proficiency bonus to the roll.",
+    "rules": [
+      "Using Ability Scores > Skills",
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "Arcana is used for checks involving spells and magic items, so knowledge about disenchantment falls under the arcana skill. A player adds the proficiency bonus to any skill that they are proficient in"
+  },
+  {
+    "question": "The DM asks a character to perform a secret check to maintain a veneer. What skill and ability is this check made with?",
+    "answer": "The check is a Charisma (Deception) check to hide the character's true intentions",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The player is trying to make a deception check by using the appropriate ability of Charisma and the appropiate skill"
+  },
+  {
+    "question": "a level 14 character with proficiency bonus +5 with class skills investigation, arcana, and perception is trying to determine what to do to follow a track and is in good standing with that god. what should they roll and what will be added to the total?",
+    "answer": "The ability check should be a Wisdom (Survival) check, adding the character's proficiency bonus of +5 to the roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Following tracks is a Wisdom (Survival) check. The character's skills do not matter as the check is explicitly a survival check, not an investigation or perception one."
+  },
+  {
+    "question": "The Architect Arcane of Avalir (level 14) is about to throw a Fire Bolt as an action. How does she calculate her attack roll?",
+    "answer": "A Fire Bolt is a ranged spell attack, so the Architect Arcane adds their proficiency bonus (+5) and Intelligence modifier to the d20 roll.",
+    "rules": [
+      "Spellcasting > Spellcasting Ability",
+      "Beyond 1st Level > Proficiency Bonus",
+      "Spell Descriptions > Fire Bolt"
+    ],
+    "rules_explanation": "Per the spellcasting rules, intelligence modifier and proficiency bonus are added to the spell attack roll"
+  },
+  {
+    "question": "a level 14 sightwarden with an investigation of 31 and a 15 for keeping secrets and does something like this dozens of time before has his crest feathers stand up, what rules and adjustments to the roll should be considered?",
+    "answer": "An investigation check is required to discover clues about a scene. the check will be made with the sightwarden's investigation modifier. The ability check has neither advantage nor disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An investigation check tests a character's ability to find clues and make deductions. Because the sightwarden's deception has no effect, the check has neither advantage nor disadvantage."
+  },
+  {
+    "question": "Does having advantage and disadvantage on the same roll cancel each other out?",
+    "answer": "Yes, if circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The rules explicitly state that advantage and disadvantage cancel each other out, even if there are multiple sources of each."
+  },
+  {
+    "question": "If a Sphinx asks the party to find her a ruby worth at least 1000gp does the party know that they can use it to cast spells or what it is used for?",
+    "answer": "No, the party would only know that the ruby is worth at least 1000 gp.",
+    "rules": [
+      "Equipment > Selling Treasure > Magic Items"
+    ],
+    "rules_explanation": "The rules explain that finding someone to buy potions or scrolls is not that hard, but magic items fall out of this realm.  The value of magic is beyond simple gold and should be treated as such"
+  },
+  {
+    "question": "When a player who is also attuned is walking into the Palazzo Por'co, a family home now belonging to the Magocracy, how does she know if she is welcomed to the party?",
+    "answer": "The player feels a wash of divinatory and abjurative magic, a little bit of are you who we think you are? If not, maybe I do something about it.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "The description of attuned magic items state that atunement grants an intutitive understanding"
+  },
+  {
+    "question": "what dice get rolled when rolling an Investigation check?",
+    "answer": "To make an ability check, roll a d20 and add the relevant ability modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "To make an ability check, including an investigation check, you roll a d20 and add the relevant ability modifier"
+  },
+  {
+    "question": "A Level 14 eisfuura Sightwarden has a reaction called 'Unerring Eye'. What does it do?",
+    "answer": "Unerring Eye is not a reaction. It is a feature that allows you to sense the presence of illusions, shapechangers not in their original form, or other magic designed to deceive the senses within 30 feet.",
+    "rules": [
+      "Part II - Gameplay"
+    ],
+    "rules_explanation": "The excerpt from the gameplay transcript only describes Unerring Eye as a feature that the PC has."
+  },
+  {
+    "question": "A player is walking into a room and has 'an eye for detail'. What check can they make?",
+    "answer": "It depends on whether the player is actively looking for something or just passing through. If they are just passing through, they may make a passive Wisdom(Perception) check. If they are actively searching the room they can make a Wisdom (Perception) or an Intelligence(Investigation) check, at the discretion of the DM.",
+    "rules": [
+      "Using Ability Scores > Passive Checks",
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "If they are not actively searching, it is a passive check. If they are actively looking, it is a perception or investigation check depending on whether they are looking for something specific."
+  },
+  {
+    "question": "The DM rules that some skill that a player is proficient in applies to an unusual ability check. How is this done?",
+    "answer": "In such cases, the GM might ask for a check using an unusual combination of ability and skill, or you might ask your GM if you can apply a proficiency to a different check.",
+    "rules": [
+      "Using Ability Scores > Skills > Variant: Skills with Different Abilities"
+    ],
+    "rules_explanation": "The rules in the SRD provide for such a variance and allow the GM to make a call on a case-by-case basis."
+  },
+  {
+    "question": "What happens when you Divine Sense a magical item?",
+    "answer": "Divine Sense can not sense magic. It can sense celestials, fiends, and undead, as well as places and objects that have been consecrated or desecrated.",
+    "rules": [
+      "Paladin > Class Features > Divine Sense"
+    ],
+    "rules_explanation": "The rules for divine sense only allows you to sense creatures and places/objects that have been consecrated or desecrated"
+  },
+  {
+    "question": "If a paladin senses a celestial what would that tell them about the target?",
+    "answer": "The paladin would know the location and that there is a celestial in the area. They would not know the identity of the celestial.",
+    "rules": [
+      "Paladin > Class Features > Divine Sense"
+    ],
+    "rules_explanation": "The rules for divine sense provides what information is gleaned about the target and what is not."
+  },
+  {
+    "question": "A member of the Ring of Brass is also a Records Keeper of the Librarium Incantatum, and they are trying to find a way to perform some secret actions. They state that they can't share information of the actions that the other member has performed, but can the action be performed without notice? Do they have to notify anyone about the request for performing such actions?",
+    "answer": "The success of the actions will depend on their individual capabilities. Whether they need to report it is up to the GM and the laws of the city, not based on their powers.",
+    "rules": [
+      "Backgrounds"
+    ],
+    "rules_explanation": "This question involves the NPC's background and the specific scenario. It is up to the GM to determine based on the circumstances."
+  },
+  {
+    "question": "A level 14 Keeper of the Scrolls is standing in a grand chamber. What is her Wisdom(Perception) score?",
+    "answer": "Assuming her Wisdom score is 10, and she is proficient in Perception, her Wisdom (Perception) score is 15.",
+    "rules": [
+      "Rogue > Class Features > Expertise",
+      "Rogue > Class Features > Proficiency Bonus"
+    ],
+    "rules_explanation": "Passive scores = 10 + all modifiers that normally apply to the check. Wisdom modifier + proficiency bonus if proficient."
+  },
+  {
+    "question": "A PC casts Detect Thoughts and can't hear the thoughts of an automaton. Can a history check determine why?",
+    "answer": "Automata are constructs and as such cannot produce thoughts, or have any sort of insight.",
+    "rules": [
+      "Monsters > Type > Constructs"
+    ],
+    "rules_explanation": "As constructs are artifical and not organic, they cannot generate thoughts"
+  },
+  {
+    "question": "If a 2nd level bard casts enhance ability on the first knight, what is the size of the hit point bonus that is granted and how long does the spell last?",
+    "answer": "If the bard chooses to use bear's endurance, the First Knight gains 2d6 temporary hit points, which are lost when the spell ends. The spell requires concentration and lasts for up to 1 hour.",
+    "rules": [
+      "Bard > Class Features > Spellcasting > Spells Known of 1st Level and Higher",
+      "Spell Descriptions > Enhance Ability"
+    ],
+    "rules_explanation": "The spell description provides the hit point bonus. All bards have access to the enhance ability spell at 2nd level and the duration and concentration are defined in the spell description."
+  },
+  {
+    "question": "What skill checks would help identify an extraplanar origin?",
+    "answer": "This depends on the situation, but generally Intelligence (Arcana) or Intelligence (Religion) would be appropriate.",
+    "rules": [
+      "Using Ability Scores > Skills > Intelligence"
+    ],
+    "rules_explanation": "The Intelligence skill is used for recalling lore about magic (arcana) or deities (religion). Both could be relevant for determining an extraplanar origin."
+  },
+  {
+    "question": "At what levels does a bard learn magical secrets?",
+    "answer": "A bard learns Magical Secrets at 10th level, 14th level, and 18th level.",
+    "rules": [
+      "Bard > Class Features > Magical Secrets"
+    ],
+    "rules_explanation": "The Bard class table in the SRD explicitly calls out when the character levels in the class that these events occur."
+  },
+  {
+    "question": "Laerryn, a wizard, has obtained the corroded metal which is a shard of a solar bow. Laerryn wants to use the bow piece for interplanar travel. Does the item's lack of an enchantment affect Laerryn's plan?",
+    "answer": "No. Spell components rarely need to be magical.",
+    "rules": [
+      "Spellcasting > Components > Material (M)"
+    ],
+    "rules_explanation": "The text describing the material component states that the component rarely needs to be magical. Thus Laerryn would still be able to use the metal."
+  },
+  {
+    "question": "A level 14 wizard wants to cast fireball from a wand of fireballs. What adjustments need to be made?",
+    "answer": "If the wizard casts the spell, the ability score would be from their modifiers as such Spell save DC = 8 + their proficiency bonus + their Intelligence modifier. The wand indicates it has a save DC of 15 so the character uses that.",
+    "rules": [
+      "Magic Items > Spells"
+    ],
+    "rules_explanation": "As per the magic items description, the wand determines the stats used when casting spells from the item."
+  },
+  {
+    "question": "If a level 14 Sightwarden hits an invisible shapechanger, what ability allows him to make the attack without disadvantage?",
+    "answer": "The Invisible Attacker and Targets rule states that when you attack a target that you can't see, you have disadvantage on the attack roll. A specific item or ability would have to remove this to allow the sightwarden to attack without disadvantage.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "By Default you have disadvantage on attack rolls if you cannot see your target."
+  },
+  {
+    "question": "What stat must I have to successfully cast the suggestion spell?",
+    "answer": "To cast suggestion, you must have a sufficient Charisma score if you are a Bard, Sorcerer, or Warlock, or a sufficient Intelligence score if you are a Wizard.",
+    "rules": [
+      "Classes > Bard > Spellcasting > Spellcasting Ability",
+      "Classes > Sorcerer > Spellcasting > Spellcasting Ability",
+      "Classes > Warlock > Pact Magic > Spellcasting Ability",
+      "Classes > Wizard > Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "These are the classes with access to suggestion and a feature that details what stat is used for spellcasting."
+  },
+  {
+    "question": "What happens to a character that touches a sphere of annihilation?",
+    "answer": "The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Anything else that touches the sphere but isn't wholly engulfed and obliterated by it takes 4d10 force damage.",
+    "rules": [
+      "Magic Items > Sphere of Annihilation"
+    ],
+    "rules_explanation": "Touching the sphere has different effect depending on what touches it."
+  },
+  {
+    "question": "What bonus is given to the AC of a character wearing half plate if they have a dexterity score of 10?",
+    "answer": "A character wearing half plate would get a +0 bonus to AC if they have a dexterity score of 10. The armor class of Half plate armor is 15 + Dex modifier(Max 2)",
+    "rules": [
+      "Equipment > Armor > Medium Armor"
+    ],
+    "rules_explanation": "Half plate restricts the amount of dexterity modifier that can be added to the Armor Class"
+  },
+  {
+    "question": "What is the DC to open a set of Manacles and what happens if they don't have keys or proficiency in thieves' tools?",
+    "answer": "Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Without proficiency, the key would have to be brute forced. To break them requires a successful DC 20 Strength check.",
+    "rules": [
+      "Equipment > Adventuring Gear > Manacles"
+    ],
+    "rules_explanation": "Information about what is required to open the Manacles are available under the equipment section Adventuring Gear."
+  },
+  {
+    "question": "I am a character who wants to throw a javelin, what ability score do I use for attack and damage?",
+    "answer": "When you throw a javelin, you use Strength for both the attack and damage rolls.",
+    "rules": [
+      "Combat > Actions > Making an Attack > Attack Rolls",
+      "Combat > Actions > Making an Attack > Ranged Attacks",
+      "Weapons > Weapon Properties > Thrown"
+    ],
+    "rules_explanation": "The Ability Modifier used for a melee weapon attack is Strength. Because the javelin has the thrown property, a melee weapon is used, so the attack and damage rolls are made with Strength."
+  },
+  {
+    "question": "A druid wants to create a magical tree, where in the world has the rarest trees?",
+    "answer": "In this setting, at this time, Marquet is not yet a desert, so the rarest magical tree you can find is in the thick jungles of Marquet, many days' journey past the nearest village, deep into the wilderness.",
+    "rules": [
+      "Part II - Gameplay"
+    ],
+    "rules_explanation": "This is a setting specific question, and the answer is provided from the transcript."
+  },
+  {
+    "question": "A sphinx walks into a merchant shop and wants to offer a boon what would happen if the owner tried to offer the sphinx payment?",
+    "answer": "It is a boon it's a boon don't pay him it's a boon.",
+    "rules": [
+      "Part I - Gameplay"
+    ],
+    "rules_explanation": "The rules of boons are not listed in the SRD document, the document explains that its a matter of principle and not of any true value."
+  },
+  {
+    "question": "A melee attack has been made, what is the base reach?",
+    "answer": "Most creatures have a 5-foot reach and can thus attack targets within 5 feet of them when making a melee attack.",
+    "rules": [
+      "Combat > Actions in Combat > Making an Attack > Melee Attacks"
+    ],
+    "rules_explanation": "The question refers to the base reach which is explictly mentioned in the SRD."
+  },
+  {
+    "question": "A creature is making a wisdom saving throw. What modifier do they add to the roll?",
+    "answer": "To make a saving throw, roll a d20 and add the appropriate ability modifier. For example, you use your Wisdom modifier for a Wisdom saving throw.",
+    "rules": [
+      "Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "The rules for saving throws indicate that the ability modifier should be used."
+  },
+  {
+    "question": "A warlock with the Pact of the Blade feature has an axe she made from gold. Can it be any kind of melee weapon she wants or only the types she is proficient with?",
+    "answer": "You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it.",
+    "rules": [
+      "Warlock > Pact Boon > Pact of the Blade"
+    ],
+    "rules_explanation": "The text directly answers what weapons and proficiencies are associated with that pact."
+  },
+  {
+    "question": "What happens when I cast Haste?",
+    "answer": "The target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.",
+    "rules": [
+      "Spell Descriptions > Haste"
+    ],
+    "rules_explanation": "I am taking the answer directly from the conditions of the spell 'haste'"
+  },
+  {
+    "question": "What does the 'Ready Action' entail?",
+    "answer": "To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn. First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it.",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "The question was about what the Ready Action was, so the answer was provided from the section in the SRD that defined it."
+  },
+  {
+    "question": "Is a Lion a beast?",
+    "answer": "Yes, a lion is classified as a beast.",
+    "rules": [
+      "Monsters > Type"
+    ],
+    "rules_explanation": "The type section in the monster manual notes that a beast includes ordinary animals."
+  },
+  {
+    "question": "what does it mean when an object is described as magical?",
+    "answer": "Items that bear magical properties.",
+    "rules": [
+      "Magic Items"
+    ],
+    "rules_explanation": "Magic items are described as having magical properties, with their own special rules for usage, effects, and mechanics."
+  },
+  {
+    "question": "The Guardian of the Seventh Senior Sightwarden of the Eyes of Avalir, obviously a very stealthy character, wants to travel with some terrestrials on an elevated terrain, but doesn't want to use his primary form of transportation, and wants to be stealthy, can he?",
+    "answer": "Yes, the character can walk instead of using another form of transportation, but his ability to be stealthy depends on a number of factors. You make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies",
+    "rules": [
+      "Using Ability Scores > Skills > Dexterity",
+      "Monsters > Special Traits > Languages"
+    ],
+    "rules_explanation": "The answer relies on understanding if a certain set of requirements are met. In this case, yes.  As per the text, stealth depends upon the Dexterity Skill."
+  },
+  {
+    "question": "What kind of damage is a claw attack classified as?",
+    "answer": "Claws deals slashing damage.",
+    "rules": [
+      "Damage and Healing > Damage Types"
+    ],
+    "rules_explanation": "The damage type of claws are slashing"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "question": "A character is taking an aimed shot against something they cannot see. What is the correct adjustment to the roll?",
+    "answer": "Aimed shots against an invisible assailant will be with disadvantage",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "The text 'When you attack a target that you can't see, you have disadvantage on the attack roll' indicates the attacker must make the roll at a disadvantage."
+  },
+  {
+    "question": "A character is asking the DM for their save DC for an ability.",
+    "answer": "the save DC equals eight plus your proficiency bonus plus your dexterity modifier, so 19.",
+    "rules": [
+      "Classes > Fighter > Weapons and Armor Proficiency"
+    ],
+    "rules_explanation": "This is a rules judgement. The DM needs the save DC for the poison affect on the weapon."
+  },
+  {
+    "question": "Can a wraith get up from prone using half of their movement?",
+    "answer": "Yes, it uses half its movement speed to get up.",
+    "rules": [
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "The rule text 'Standing up takes more effort; doing so costs an amount of movement equal to half your speed.' means that the character can use half its movement to stand up."
+  },
+  {
+    "question": "Does the armor class of a prone creature change?",
+    "answer": "No, it is invisible but it is prone, so that evens out to no advantage or disadvantage.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets",
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "Since the creature is invisible, attackers would normally have disadvantage on attack rolls against the creature, but the creature is prone, giving advantage on attack rolls against it. The prone condition removes the normal benefit of cover granted by the attack since the target is invisible, so these adjustments effectively cancel out."
+  },
+  {
+    "question": "Can a character use a dash action and bonus action in the same turn?",
+    "answer": "Yes, you could dash and then make a bonus action.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The rules allow a bonus action to be used during the turn in addition to your normal action, as long as the bonus action is permitted by a class or other feature."
+  },
+  {
+    "question": "can a character inspire another player using action surge?",
+    "answer": "Yes, I'm going to use my action surge, and I'm going to walk over to the wraith on the ground, put the barrel of Bad News up to it, and pull the trigger.",
+    "rules": [
+      "Classes > Fighter > Action Surge"
+    ],
+    "rules_explanation": "The action surge allows you to take one additional action on your turn in addition to your regular action."
+  },
+  {
+    "question": "What dice should be used when a gun misfires and a melee attack has to be made?",
+    "answer": "with the size of Bad News, I'd say 1d6, plus your strength modifier.",
+    "rules": [
+      "Equipment > Weapons > Improvised Weapons"
+    ],
+    "rules_explanation": "The rule text 'An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object).' indicates the damage for the improvised weapon."
+  },
+  {
+    "question": "Is a character that is not proficient with a weapon, and is attacking with disadvantage still proficient?",
+    "answer": "You still have disadvantage on it because you can't see it. And you're not proficient.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls"
+    ],
+    "rules_explanation": "The rule text 'Proficiency Bonus. You add your proficiency bonus to your attack roll when you attack using a weapon with which you have proficiency' means the character would not be proficient in that weapon."
+  },
+  {
+    "question": "Does a player add wisdom to cure wounds?",
+    "answer": "You add your wisdom modifier.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Cure Wounds"
+    ],
+    "rules_explanation": "The spell description 'A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier' means that wisdom should be added."
+  },
+  {
+    "question": "If you roll by accident, does that count as a check, skill check, or saving throw?",
+    "answer": "If you rolled by accident, you have to roll intentionally to take the score. Because if you were to accidentally roll really bad, you'd be like, “That doesn't count! I didn't actually roll.”",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This is a DM's judgement of the gameplay, and not explicitly stated in the rules, but follows the theme of applying intent to actions"
+  },
+  {
+    "question": "A character is tinkering with a pepperbox. How much of the original cost does it take to fix?",
+    "answer": "half the cost. It should say under the repair rules for a misfire.",
+    "rules": [
+      "Equipment > Selling Treasure > Arms, Armor, and Other Equipment"
+    ],
+    "rules_explanation": "This is a DM's judgement of the gameplay based on SRD rules."
+  },
+  {
+    "question": "The players have been on a long adventure and have decided to try and craft new weapons. Does marisha have proficiency to assist with the roll?",
+    "answer": "I would say the tinkering, the mechanisms involved, would be so far beyond your understanding as a druid. Even just metalwork in general. You can cheer him on, but would not be able to assist him with it.",
+    "rules": [
+      "Using Ability Scores > Working Together"
+    ],
+    "rules_explanation": "The rule text 'A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with thieves' tools, so a character who lacks that proficiency can't help another character in that task.' means that she would not."
+  },
+  {
+    "question": "What is the price to identify a magical item?",
+    "answer": "“125 gold pieces per enchantment identified.”",
+    "rules": [
+      "Equipment > Selling Treasure > Magic Items"
+    ],
+    "rules_explanation": "This is a DM's judgement of the gameplay based on SRD rules."
+  },
+  {
+    "question": "What is the effect of using a canteen of water of pure water?",
+    "answer": "the enchantment of the actual water creation itself is separate than the holy enchantment that has been attached to it. The holy enchantment is not very powerful because it is an enchanted item. How it functions is the first burst per day that you use of the water does an additional 1d6 radiant damage.",
+    "rules": [
+      "Equipment > Adventuring Gear > Holy Water"
+    ],
+    "rules_explanation": "This is a DM's judgement of the gameplay based on SRD rules."
+  },
+  {
+    "question": "When you are trying to improve a magical item, can you disenchant and add an enchantment.",
+    "answer": "the thing is, an enchantment cannot be progressively enhanced. You would have to disenchant and then re-enchant the entire thing.",
+    "rules": [
+      "Equipment > Selling Treasure > Magic Items"
+    ],
+    "rules_explanation": "This is a DM's judgement of the gameplay based on SRD rules."
+  },
+  {
+    "question": "Is it appropriate for a ranger to try and make a smoke screen?",
+    "answer": "no way to infuse a Fog spell with holy water.",
+    "rules": [
+      "Using Magic Items > Spells"
+    ],
+    "rules_explanation": "This is a DM's judgement of the gameplay based on SRD rules."
+  },
+  {
+    "question": "What is required to make a sleep arrow?",
+    "answer": "for each arrow, it will cost you 600 gold and will take you six days to do, per arrow.",
+    "rules": [
+      "Using Magic Items > Spells"
+    ],
+    "rules_explanation": "This is a DM's judgement of the gameplay based on SRD rules."
+  },
+  {
+    "question": "What does skirmisher's stealth do for a ranger?",
+    "answer": "If you start one of your turns hidden from a creature, you can then, as a bonus action at the end of your turn, make another stealth check to remain hidden from them. You essentially can dive between areas and still be hidden.",
+    "rules": [
+      "Classes > Ranger > Optional Class Features"
+    ],
+    "rules_explanation": "This is a DM's judgement of the gameplay based on SRD rules."
+  },
+  {
+    "question": "When the Mending Wheel is used, how much does the cost decrease?",
+    "answer": "Technically, that would be a success.",
+    "rules": [
+      "Equipment > Selling Treasure > Magic Items"
+    ],
+    "rules_explanation": "This is a DM's judgement of the gameplay based on SRD rules."
+  },
+  {
+    "question": "What distance can you travel to teleport to the turst fields.",
+    "answer": "It's about four and a half days' travel horseback.",
+    "rules": [
+      "Adventuring > Travel Pace"
+    ],
+    "rules_explanation": "This is a DM's judgement of the gameplay based on SRD rules."
+  },
+  {
+    "question": "Is it okay for a group to make stealth checks using advantage?",
+    "answer": "Go ahead and make a stealth check, and then add ten to it",
+    "rules": [
+      "Skills > Group Checks"
+    ],
+    "rules_explanation": "This is a DM's judgement of the gameplay based on SRD rules."
+  }
+]

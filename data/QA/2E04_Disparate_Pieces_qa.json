@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Can the character of level 5 class Druid use her bonus action to take the dodge action on her turn with the Patient Defense ability?",
+    "answer": "No, the level 5 class Druid can not use the Patient Defense ability as it is granted by the Monk class",
+    "rules": [
+      "Class Features > Monk > Ki > Patient Defense",
+      "Class Features > Monk"
+    ],
+    "rules_explanation": "Each class has its own specific class features as listed in its respective section. The Druid section does not include Patient Defence and is thus unavailable to the Druid."
+  },
+  {
+    "question": "The level 2 Cleric casts Bless on the other party members. The guards, are not specified as evil or good in the transcript so do they get the buffs?",
+    "answer": "Yes, as the guards' alignments were not specified, Bless targets any creatures. ",
+    "rules": [
+      "Spell Descriptions > Bless"
+    ],
+    "rules_explanation": "The spell description states 'Up to three creatures of your choice within range'. Guards are creatures, and thus valid targets. No alignment restrictions or other exclusions are relevant."
+  },
+  {
+    "question": "Can a level 1 fighter use a bonus action with Cunning Action?",
+    "answer": "A level 1 fighter can not use Cunning Action because it is not a fighter class feature.",
+    "rules": [
+      "Class Features > Rogue > Cunning Action",
+      "Class Features > Fighter"
+    ],
+    "rules_explanation": "Each class has its own specific class features as listed in its respective section. The Fighter section does not include Cunning Action, thus a fighter cannot use it, and the Rogue section lists Cunning Action, and thus Rogues may use it."
+  },
+  {
+    "question": "Can a level 1, class Fighter with a Strength of 12, and a Dexterity of 15 use the two weapon fighting rules?",
+    "answer": "Yes, because while you are engaged in two-weapon fighting, you can add your ability modifier to the damage of the second attack. Two-Weapon Fighting requires each light weapon be held in a different hand.",
+    "rules": [
+      "Class Features > Fighter > Fighting Style > Two-Weapon Fighting",
+      "Weapons > Weapon Properties > Light"
+    ],
+    "rules_explanation": "The Two-Weapon Fighting style has no ability score prerequisites. The weapon properties require you to have light melee weapons be held in separate hands. Thus, you can use two-weapon fighting."
+  },
+  {
+    "question": "Can you use the Lucky Halfling trait to re-roll a natural 1 rolled on a persuasion check?",
+    "answer": "Yes, the halfling can use the Lucky racial trait to re-roll the d20, as it was for an ability check.",
+    "rules": [
+      "Races > Halfling > Racial Traits > Lucky"
+    ],
+    "rules_explanation": "The halfling Lucky trait allows a re-roll of a natural 1 on an attack roll, ability check, or saving throw. Persuasion is a type of ability check. The rule does not prevent the Lucky trait from being used."
+  },
+  {
+    "question": "A character with the lightfoot halfling race and a class that grants stealth, makes a stealth check while only obscured by a medium sized creature. Do they get advantage on the stealth check from the Naturally Stealthy trait?",
+    "answer": "Yes, the halfling would be able to attempt to hide and add their bonus with the Naturally Stealthy trait.",
+    "rules": [
+      "Races > Halfling > Subraces > Lightfoot > Naturally Stealthy"
+    ],
+    "rules_explanation": "The lightfoot halfling's Naturally Stealthy trait allows the halfling to attempt to hide even when obscured only by a creature that is at least one size larger than them. The rules do not restrict the size of the halfling, thus medium-sized obscures and they are able to use Stealth as a bonus action"
+  },
+  {
+    "question": "If an illusion blocks the sound of the bard's song, would the moan of the cloaker work?",
+    "answer": "This question cannot be answered by the information provided in the SRD.",
+    "rules": [],
+    "rules_explanation": "The SRD has no information for this type of specific interaction of game features. The interaction of different types of sonic or illusionary effects are not listed."
+  },
+  {
+    "question": "does the spell Invoke Duplicity create physical contact?",
+    "answer": "You create an illusory duplicate of yourself. It is an illusion and cannot make actual physical contact with anything.",
+    "rules": [
+      "Spell Descriptions > Invoke Duplicity"
+    ],
+    "rules_explanation": "The spell states, \"You create an illusory duplicate of yourself...It is an illusion and cannot make actual physical contact with anything.\" This implies that the duplicate itself is not tangible and therefore cannot physically interact with the environment."
+  }
+]

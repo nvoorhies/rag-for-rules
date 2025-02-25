@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Does the duplicate created by the Invoke Duplicity spell, used by a level 11 cleric (Trickery Domain), get opportunity attacks?",
+    "answer": "The duplicate created by the Invoke Duplicity spell does not get opportunity attacks.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Making an Attack > Opportunity Attacks"
+    ],
+    "rules_explanation": "The duplicate created by Invoke Duplicity is not a creature, so it is not subject to opportunity attack rules in the same way as a creature is. A creature must have the capability to make a melee attack to qualify to use the opportunity attack actions."
+  },
+  {
+    "question": "Does the level 11 cleric (Trickery Domain) get to deal damage when the creature saves against his Sacred Flame?",
+    "answer": "When casting Sacred Flame, no damage is dealt if the target succeeds on the saving throw.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spell Descriptions > Sacred Flame"
+    ],
+    "rules_explanation": "Sacred Flame only causes damage if the target fails its saving throw. The spell description does not specify that it does damage even on a successful save."
+  },
+  {
+    "question": "When can a level 11 fighter/paladin use searing smite, after hitting or before hitting with his Star Razor sword?",
+    "answer": "The level 11 fighter/paladin must cast the spell Searing Smite as a bonus action before they hit with the attack.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Casting a Spell > Bonus Action"
+    ],
+    "rules_explanation": "The rules for Bonus actions state that you may cast a spell with a casting time of one bonus action as a bonus action on your turn, provided that you haven't already taken a bonus action this turn. You can choose when to take a bonus action during your turn, unless the bonus action's timing is specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action."
+  },
+  {
+    "question": "The spell 'Fly' has a casting time of 1 action, and a spell has been cast. Can you cast another spell?",
+    "answer": "Yes, you can cast the 'Fly' spell.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Casting a Spell > Bonus Action",
+      "Spell SRD: https://www.dndbeyond.com/spells/fly"
+    ],
+    "rules_explanation": "Provided you have not already taken a bonus action, and you have the spell slots available to cast Fly, you may cast it. Fly has casting time of one action."
+  },
+  {
+    "question": "What saving throw is required to avoid the effect of Toll the Dead spell?",
+    "answer": "The target must make a Wisdom saving throw.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spell Descriptions > Toll the Dead"
+    ],
+    "rules_explanation": "The Toll the Dead spell description states that the target must make a Wisdom saving throw."
+  },
+  {
+    "question": "Does the level 11 cleric (Grave Domain) get to do damage with the Sacred Flame cantrip even when the target succeeds on its saving throw?",
+    "answer": "The Grave Domain cleric does not deal damage if the target succeeds on the saving throw, because the description for Sacred Flame does not specify that damage is dealt even on a successful save.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spell Descriptions > Sacred Flame"
+    ],
+    "rules_explanation": "The Sacred Flame spell description specifies that the target only takes radiant damage if they fail the Dexterity saving throw. It doesn't deal damage if the saving throw is successful."
+  },
+  {
+    "question": "If a character is trying to move a dead creature, what ability check should be used?",
+    "answer": "The character should make an Athletics check.",
+    "rules": [
+      "Player's Handbook > Using Ability Scores > Strength > Strength Checks"
+    ],
+    "rules_explanation": "Moving or pushing a heavy object is usually done by making an Athletics check."
+  },
+  {
+    "question": "While attempting a task, if a spell says 'Make a Constitution save' or 'Make a Wisdom save', should you roll a Constitution check or Wisdom check instead?",
+    "answer": "A 'saving throw' requires a roll of a d20 plus the relevant saving throw bonus (if any). A ability check requires rolling a d20 and adding the relevant ability modifier and proficiency bonus if proficient in the skill, but doesn't include any saving throw bonus.",
+    "rules": [
+      "Player's Handbook > Using Ability Scores > Ability Checks",
+      "Player's Handbook > Using Ability Scores > Saving Throws"
+    ],
+    "rules_explanation": "Saving throws and ability checks are different rolls. Saving throws typically include only ability modifiers and proficiency bonuses. Ability checks use ability modifiers and can have a proficiency bonus added if the character is proficient in the relevant skill."
+  },
+  {
+    "question": "Can a 1st-level bard who is flying and has Fly active, move around this dimension and look at a light and that be the only action on this turn, then look through Frumpkin's eyes?",
+    "answer": "The 1st-level bard can use their action and movement to fly, and then must use the *find familiar* action on a subsequent turn to see through Frumpkin's eyes.",
+    "rules": [
+      "Player's Handbook > Combat > Actions in Combat"
+    ],
+    "rules_explanation": "On your turn, you can move a distance up to your speed and take one action. You decide whether to move first or take your action first."
+  },
+  {
+    "question": "Can a level 11 barbarian use their reaction to make an additional attack after the triggering attack, and have I used my action to make one attack or more attacks, in that same turn?\"",
+    "answer": "If a level 11 barbarian takes damage from a creature within 5 feet of them, they can use their reaction to make a melee attack against that creature.",
+    "rules": [
+      "Player's Handbook > Classes > Barbarian > Retaliation"
+    ],
+    "rules_explanation": "Level 14 Barbarians with Path of the Berserker gain the Retaliation ability, which states 'when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.'"
+  },
+  {
+    "question": "Can I make a 15-foot jump?",
+    "answer": "When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance.",
+    "rules": [
+      "Player's Handbook > Adventuring > Movement > Special Types of Movement > Jumping > Long Jump"
+    ],
+    "rules_explanation": "It is strength-dependent to jump far, depending on a running start."
+  },
+  {
+    "question": "If you are under the effects of the Heroes' Feast spell, does it restore all of your lost hit points or add temporary hit points? What are all the effects granted by that spell?",
+    "answer": "The Heroes' Feast spell doesn't restore lost hit points, but it does increase the hit point maximum by 2d10 and grants the same number of hit points. It grants immunity to poison and fear and advantage on wisdom saving throws.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spell Descriptions > Heroes' Feast"
+    ],
+    "rules_explanation": "The spell description lists the effects of the spell, including that a creature's hit point maximum increases by 2d10, and it gains the same number of hit points."
+  },
+  {
+    "question": "If I attempt to climb a slippery icy wall, which requires an athletics check and I fail, do I take damage?",
+    "answer": "Yes, the game master has ruled that failing the athletics check results in bludgeoning damage.",
+    "rules": [],
+    "rules_explanation": "The game master determines if falling results in damage, how far you fall, and how much bludgeoning damage to take."
+  },
+  {
+    "question": "How does a Globe of Invulnerability interact with the area damage from Intuitive Charges?",
+    "answer": "The outcome is a gamble, because the basis of Intuitive Charges is Aeorian sourced, not a spell.",
+    "rules": [],
+    "rules_explanation": "The game master has ruled that the basis of this spell is beyond the user's understanding, and is a gamble."
+  },
+  {
+    "question": "If you successfully hold an action, does the benefit last until the action occurs or the end of your turn?",
+    "answer": "With the Hold/Ready action, you act using your reaction before the start of your next turn.",
+    "rules": [
+      "Player's Handbook > Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "The Ready action allows you to act using your reaction before the start of your next turn, so the benefits of holding the action are available until your reaction is triggered."
+  },
+  {
+    "question": "How can I learn a spell that isn't on my class spell list?",
+    "answer": "The Magical Secrets feature allows a bard to choose spells from any other class's spell list. For other classes, a similar ability, like a magic item, would need to be used.",
+    "rules": [
+      "Player's Handbook > Classes > Bard > Magical Secrets"
+    ],
+    "rules_explanation": "The Magical Secrets bard class feature allows a bard to learn spells from any class's spell list."
+  },
+  {
+    "question": "Can you combine Guidance and Bless effects on a single roll?",
+    "answer": "Guidance is a d4 to one ability check of its choice. It can roll the die before or after the ability check. The spell then ends. Bless does what it does.",
+    "rules": [
+      "Player's Handbook > Spellcasting > Spell Description > Bless",
+      "Player's Handbook > Spellcasting > Spell Description > Guidance"
+    ],
+    "rules_explanation": "The rules do not prevent stacking the d4 bonuses from separate spell effects of bless and guidance."
+  }
+]

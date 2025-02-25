@@ -1,0 +1,225 @@
+[
+  {
+    "question": "Dusk, a level X changeling's arm is being held. Should it be a Strength or Athletics roll to pull away?",
+    "answer": "Athletics from you.",
+    "rules": [
+      "Ability Scores > Using Each Ability > Strength",
+      "Ability Scores > Using Each Ability > Dexterity"
+    ],
+    "rules_explanation": "The DM initially asked for a contested Strength roll to break a grasp. However, when it was clarified that the question concerned the PC pulling away from Dusk/Yu's grasp the DM specified that it would be a Dexterity (Athletics) check as pulling away from a grapple is using one's own strength in an athletic way."
+  },
+  {
+    "question": "If a level X fighter with the Duel Wielding fighting style casts Command, can they then also use their Crimson Rite?",
+    "answer": "Yes, you may.",
+    "rules": [
+      "Combat > Actions in Combat > Bonus Actions",
+      "Fighter > Class Features > Fighting Style > Two-Weapon Fighting"
+    ],
+    "rules_explanation": "The fighter's player was asking if he could perform a crimson rite on his weapon at the same time as another player is using the Command spell. A crimson rite costs a bonus action while attacking takes an action."
+  },
+  {
+    "question": "For Orym to take the blade off of Yu, a level X fighter, while Birdie has them grappled, should it be athletics or acrobatics?",
+    "answer": "So for this, this would be a contested athletics versus either athletics or acrobatics roll.",
+    "rules": [
+      "Ability Scores > Using Each Ability > Strength",
+      "Ability Scores > Using Each Ability > Dexterity"
+    ],
+    "rules_explanation": "Taking something from someone can be a grapple. The PC is trying to physically take something from Yu, so the PC and Yu would contest Athletics. Yu could use Acrobatics as a way to avoid the Athletics check."
+  },
+  {
+    "question": "If the character can use a blade, but it requires attunement to use effectively, can they still use it effectively?",
+    "answer": "Correct. So for you it would be just a standard rapier. So it's a d8 damage. Plus your dexterity modifier.",
+    "rules": [
+      "Magic Items > Attunement",
+      "Weapons"
+    ],
+    "rules_explanation": "A character can use a weapon that requires attunement, but doesn't have attunement. Without the attunement they don't gain the magical effects of the weapon, but can use it as a mundane version of that weapon."
+  },
+  {
+    "question": "How long does the Aura of Vitality last, and how long does the FCG, a level X cleric, get to heal with it?",
+    "answer": "So it's one minute.",
+    "rules": [
+      "Cleric > Spellcasting"
+    ],
+    "rules_explanation": "The Cleric's played asked how long the Aura of Vitality lasts, as the turn were being accounted for in a time-sensitive situation."
+  },
+  {
+    "question": "Ashton, a level X barbarian, is frightened, so can he move around the walls of the room at all?",
+    "answer": "You can, yeah.",
+    "rules": [
+      "Conditions > Frightened"
+    ],
+    "rules_explanation": "The Frightened condition prevents Ashton from getting closer to the source of his fear but doesn't impede any other movement."
+  },
+  {
+    "question": "Orym, a level X fighter, used a bead of imprisonment and made a natural 20 on a dexterity saving throw. How to deal with the use of the bead?",
+    "answer": "The bead of imprisonment smashes on her back, on their back, and does nothing, nothing.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rules for a bead of imprisonment not found in SRD. DM arbitrated what the item would do in this context."
+  },
+  {
+    "question": "If Liam is using a blade and he hasn't taken a short rest, has he attuned to it yet?",
+    "answer": "It takes a short rest to attune.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "Liam was asking if his character has attuned to an item he acquired earlier in the combat session. A short rest is required for attunement."
+  },
+  {
+    "question": "A representative, a level X paladin uses Channel Divinity and they're asking what's the effect on a failure.",
+    "answer": "Okay, so on a failure, you're frightened for a minute.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The DM is explaining the effect of Channel Divinity using the Conquering Presence option."
+  },
+  {
+    "question": "If Laura uses Detect Thoughts how far does she have to push past, and how do the saves work?",
+    "answer": "Roll a save on that... That's true, yeah... That's wisdom, right? Minus the d4 makes the difference. ",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rules for Detect Thoughts not found in SRD. DM made a judgement based on his notes."
+  },
+  {
+    "question": "If Orym runs straight towards Dusk's feet, and is going to do a tripping attack what kind of attack is it?",
+    "answer": "Trip attacks are not in the rules. So the DM is arbitrating this situation. ",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Liam asked if he could do a trip attack on Yu. The DM did not specify a contest, but did have Liam make an attack roll. Liam then rolled a second attack roll and did damage anyway, but the DM didn't give a specific way to trip someone, implying it was home-brew or improvised."
+  },
+  {
+    "question": "If a character is looking through a Weave Lens on the sword of someone and it's fading out, what does he see?",
+    "answer": "it's at the cusp of the end of its enchantment because it just lasts for a short time when activated. ... it appears to be fairly magical. You see the same entwining, spiral of strange textured threads of energy that carve up the crystalline blade and they just fade as the gem loses its connection. ... Yeah, similar to all other magics, but all the script's a little different to each one.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "No rules present in SRD for Weave Lens. DM arbitrated its effect."
+  },
+  {
+    "question": "What happens after short resting to attune to the blades?",
+    "answer": "She'll try to wriggle that out of the way. Okay. So for this, this would be a contested athletics versus either athletics or acrobatics roll.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rules for attunement do not describe taking something from the attuning character. DM improvised based on circumstances."
+  },
+  {
+    "question": "Can Chet drag his chisel across his thigh and just do a little Crimson Rite?",
+    "answer": "Yes, you may.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rules for Crimson Rite are not in the SRD so this is DM adjudication."
+  },
+  {
+    "question": "Does being Bane'd drop a d4 for saving throws and attacks?",
+    "answer": "And attacks.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Clarifying that the bane spell not only penalizes the target on saving throws but attacks as well."
+  },
+  {
+    "question": "Does a level X sorcerer in Imogen need to make a wisdom saving throw to avoid Channel Divinity: Conquering Presence?",
+    "answer": "Wisdom save?... I'm immune against frightened.",
+    "rules": [
+      "Conditions > Frightened",
+      "Classes > Sorcerer"
+    ],
+    "rules_explanation": "Imogen's player asked if she needed to make the save, but realized she's immune and stated she doesn't need to."
+  },
+  {
+    "question": "During the fear effect must the character move directly away?",
+    "answer": "Must move away.",
+    "rules": [
+      "Conditions > Frightened"
+    ],
+    "rules_explanation": "Clarifying how the frightened condition restricts the movement of the character affected."
+  },
+  {
+    "question": "In order to try to intimidate Birdie, should Ashton and Chetney roll an intimidation check?",
+    "answer": "I would have both Ashton and Chetney go ahead and just roll a standard intimidation check as you are both trying to get her to stand down.",
+    "rules": [
+      "Ability Checks"
+    ],
+    "rules_explanation": "DM confirms the use of the Intimidation skill in this social encounter where the characters are trying to persuade Birdie to stand down."
+  },
+  {
+    "question": "If Orym touches Dusk to slap him on the back, do they have to make a dex save?",
+    "answer": "Orym circles around to get behind Yu, and slaps Yu in the small of the back, and you need to make a dex save, 15.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rules for a touch that applies the effect of a bead of imprisonment not found in SRD. DM is improvising what action the slap entails."
+  },
+  {
+    "question": "Can I level up right now real quick?",
+    "answer": "No.",
+    "rules": [
+      "Beyond 1st Level"
+    ],
+    "rules_explanation": "The rules dictate when players are allowed to level up."
+  },
+  {
+    "question": "Can Orym, a level X fighter, attempt to intimidate Birdie?",
+    "answer": "Are you attempting to intimidate Birdie? Is that what you're doing?",
+    "rules": [
+      "Ability Checks"
+    ],
+    "rules_explanation": "The DM was establishing Orym's intent, to know which ability check to call for, the DM asks what Orym is attempting to do.&#x20;"
+  },
+  {
+    "question": "It takes a little while for the weave lens to get a read and then it goes down?",
+    "answer": "I will say it's at the cusp of the end of its enchantment because it just lasts for a short time when activated.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rules for how long Weave Lens are active are not in SRD, so this is DM ruling."
+  },
+  {
+    "question": "When Laudna and Imogen are messaging via their magic how can I use my keen nose? And what might I hear or smell?",
+    "answer": "Make a perception check with advantage.",
+    "rules": [
+      "Ability Checks"
+    ],
+    "rules_explanation": "The DM is calling for a skill check to use a skill."
+  },
+  {
+    "question": "What happens if Orym, a level X fighter, gets a natural 20 on the second attack?",
+    "answer": "Well, you are not... Proficient in it? Well, I believe it requires... attunement... Yes, attunement.",
+    "rules": [
+      "Magic Items > Attunement",
+      "Fighter > Class Features"
+    ],
+    "rules_explanation": "Because the weapon is not one the character is proficient in, and also requires attunement for use as a magic item, Liam wouldn't be able to make the most effective use of the weapon."
+  },
+  {
+    "question": "Because that's what Yu Suffiad has in his pocket, is there something else in his pocket?",
+    "answer": "What else is in your pocket?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This isn't a question with a specific rule, but it is relevant to the situation to know what is in the character's inventory."
+  },
+  {
+    "question": "Can Ashton rage and grapple at the same time?",
+    "answer": "Okay, that's a bonus action to rage. Go ahead. For that it would be an athletics check. With advantage because of your rage.",
+    "rules": [
+      "Barbarian > Class Features > Rage",
+      "Ability Scores > Using Each Ability > Strength"
+    ],
+    "rules_explanation": "You need a bonus action to activate Rage, and you also need a bonus action to grapple."
+  },
+  {
+    "question": "If someone is following them what's his level's perception?",
+    "answer": "You can assume that Orym is using his 26 passive perception to look for someone following them, even if he doesn't recognize.",
+    "rules": [
+      "Ability Scores > Ability Checks > Passive Checks"
+    ],
+    "rules_explanation": "The DM used Orym's passive perception to determine if Orym would notice a tail. Characters can't roll if they don't know what they're rolling for."
+  }
+]

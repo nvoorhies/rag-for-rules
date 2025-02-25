@@ -1,0 +1,156 @@
+[
+  {
+    "question": "A character wants to know if he adds Jack of All Trades to Arcana checks if he is already proficient in the skill?",
+    "answer": "No, Jack of All Trades is only added to checks in which a character is not proficient.",
+    "rules": [
+      "Classes > Bard > Jack of All Trades"
+    ],
+    "rules_explanation": "The rule for Jack of All Trades states that half proficiency bonus, rounded down, is added to any ability check that doesn't already include your proficiency bonus, therefore, if you are already proficient in the skill the Jack of All Trades bonus will not be applicable."
+  },
+  {
+    "question": "A character's level 15 barbarian can recover a number of hit dice equal to half of his level after taking an evening's rest. How many hit dice can the level 15 barbarian recover?",
+    "answer": "The level 15 barbarian recovers eight hit dice after the evening's rest.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Hit Points > Hit Dice",
+      "Adventuring > Resting > Long Rest"
+    ],
+    "rules_explanation": "The barbarian class features lists the hit dice per class and the table specifies the barbarian class to be d12. The barbarian will get back half of their hit dice with an evening's rest, but since they have hit dice in the form of d12s, only the number of dice is important not the dice rolled, thus the barbarian will recover 8 hit dice for the evening rest."
+  },
+  {
+    "question": "Does a character add the Jack of All Trades bonus to an Investigation check?",
+    "answer": "Yes, a character adds the Jack of All Trades bonus to an ability check if they are not proficient in that skill.",
+    "rules": [
+      "Classes > Bard > Jack of All Trades"
+    ],
+    "rules_explanation": "The rule for Jack of All Trades states that half proficiency bonus, rounded down, is added to any ability check that doesn't already include your proficiency bonus, therefore, the Jack of All Trades bonus will be applicable here."
+  },
+  {
+    "question": "With the Greater Restoration spell can one sever the thread between a person and a cursed item?",
+    "answer": "Yes, the Greater Restoration spell can remove the curse of an item and sever the thread between a person and a cursed item.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Greater Restoration"
+    ],
+    "rules_explanation": "One effect of the Greater Restoration spell is to end one curse on the target. This can sever the connection between a person and a cursed item."
+  },
+  {
+    "question": "For the Resurrection spell, what does the creature come back as, how whole does he come back?",
+    "answer": "With both spells, the person comes back whole. If it works.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Raise Dead",
+      "Spellcasting > Spell Descriptions > Resurrection"
+    ],
+    "rules_explanation": "The rules text of both spells describes that if they work the original creatures soul is returned to the body fully intact."
+  },
+  {
+    "question": "If a creature is affixed with the Resurrection spell and the spirit is being blocked, what can be inferred?",
+    "answer": "In the base rules no inference can be made if the spirit is being blocked because there is no rule for this situation.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Resurrection"
+    ],
+    "rules_explanation": "This situation is not described within the spells rules for spellcasting, so the DM must extrapolate the rules based on knowledge of the game."
+  },
+  {
+    "question": "If Orthax is not destroyed and sent back to its plane, what happens to Orthax's crux?",
+    "answer": "Orthax cannot be sent back to its plane when it's bound to whatever its crux is. Whatever object that Orthax has used as its focus holds it in this plane and it cannot be destroyed on its plane while it's attached to that object.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This appears to be original game content rather than anything taken from the rules SRD."
+  },
+  {
+    "question": "What is the name of the spell that severs a thread between Grog and Craven Edge?",
+    "answer": "Greater Restoration.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Greater Restoration"
+    ],
+    "rules_explanation": "One of the effects of the Greater Restoration spell is to end one curse on the target. This can sever the connection between a person and a cursed item."
+  },
+  {
+    "question": "Can you cast Greater Restoration on an object, like a gun?",
+    "answer": "There are no rules stating whether it can or cannot be used on an object, therefore it is up to the DM to decide if the Greater Restoration can be used on an object.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Greater Restoration"
+    ],
+    "rules_explanation": "The target of the Greater Restoration spell is a creature. Therefore it cannot be cast on an object unless stated otherwise by the DM."
+  },
+  {
+    "question": "Does the Cloak of Stars require an action?",
+    "answer": "No. One pulls out the cloak.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master determines actions used in gameplay."
+  },
+  {
+    "question": "What do you gain when you are attuned to Cabal's Ruin one of the Vestiges of Divergence?",
+    "answer": "Once attuned to whoever's wearing it, you have advantage on saving throws against spells and other magical effects. Also, when you're hit by some sort of spell, you can use your reaction to have the cloak swallow part of it. You halve the damage you take from the spell, if there's any damage to be taken, and the cloak gains a number of charges equal to the spell level of the triggering spell.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master determines items found in gameplay and their effect on the character using it."
+  },
+  {
+    "question": "If the Cabal's Ruin is used to swallow a spell with charges, what happens and how many?",
+    "answer": "You can only use it once per short rest. But it does half damage to you and it gains a number of charges equal to the spell level that you absorb. Up to a maximum of six charges can be stored in the cloak.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master determines how and when the Cloak can be used and what it can do in gameplay."
+  },
+  {
+    "question": "If you have the Cloak of Ruin on and hit with an attack, what happens?",
+    "answer": "You can expend any number of charges from the cloak to deal an additional 1d6 lightning damage per charge.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master determines the actions and results of using items and spells in gameplay."
+  },
+  {
+    "question": "Can it be a magic user to wear it, the Cloak of Ruin?",
+    "answer": "No. In fact, it doesn't channel through spells. It channels through physical attacks.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master determines the actions and results of using items and spells in gameplay."
+  },
+  {
+    "question": "If it's up to you Keyleth, Whisper, what do you want to do with it?",
+    "answer": "It's up to you guys.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master gives guidance and determines how each character uses their skills and or talents."
+  },
+  {
+    "question": "If you use Whisper is it possible for the throw and hit something, it immediately teleports you if you choose, it doesn't have to happen?",
+    "answer": "Yeah. The minute you throw and hit something, it immediately teleports you if you choose. It doesn't have to happen. You could throw it, and then it hits the ground and you stay where you are if you want to, but if you choose, you can travel with the blade and essentially appear Nightcrawler-style in shadow next to whatever you hit.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master determines what actions and results that follow when using items and spells."
+  },
+  {
+    "question": "Does attuning to Whisper?",
+    "answer": "You have to be attuned to Whisper, yeah. You have to be attuned to Whisper, yeah.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "Magic items require attunement in order for their properties to be used."
+  },
+  {
+    "question": "If a character is hit with physical exhaustion what will it effect d20 rolls until you rest?",
+    "answer": "Physically, you're sore and you're drained. The essence of the ritual and the following healing spells– you're physically whole, but there is a very physical toll on you from the ritual as well. You're effectively at minus four to any d20 rolls you make until you rest. Then it becomes a minus three, then another night's rest becomes a minus two. So you're in a rough spot for the next few days, unless you're resting consistently.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This appears to be original game content rather than anything taken from the rules SRD."
+  },
+  {
+    "question": "Can a Paladin us Divine Intervention and have a connection through the Divine Gate with a god?",
+    "answer": "I'll let you, yeah.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The application of divine intervention is at the discretion of the DM, which the effects of this choice."
+  }
+]

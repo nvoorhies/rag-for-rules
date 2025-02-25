@@ -1,0 +1,59 @@
+[
+  {
+    "question": "What kind of check does the player need to make to keep an eye out for others that has glowing circles above their heads?",
+    "answer": "The player needs to make a Wisdom (Perception) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Matt asks Travis to make a perception check, implying to see if he notices anyone else with a halo."
+  },
+  {
+    "question": "What kind of check is required for the player to expertly place the little figurine of the Traveler.",
+    "answer": "A Dexterity (Sleight of Hand) check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Laura places the figurine, and Matt requests a slight of hand check"
+  },
+  {
+    "question": "What kind of check is required for the player to discern the believability of Ava's story?",
+    "answer": "A Wisdom (Insight) check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Fjord attempts to determine if Ava is being truthful and Liam requests an Insight Check."
+  },
+  {
+    "question": "If the level 1, race and class unspecified, Nott the Brave wants to pass a note to another player, what check is called for?",
+    "answer": "A Dexterity (Sleight of Hand) check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Nott is trying to secretly pass a note to Jester, and Matt requests a slight of hand check"
+  },
+  {
+    "question": "A level 1, race and class unspecified, character was hit by Nott the Brave. What check is called for as a result?",
+    "answer": "A Dexterity (Acrobatics) check is required for the target to not drop the book and take half damage. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Nott shot Caleb with an arrow, and Caleb then had to make an acrobatics check to hang on to the book that was being borrowed"
+  },
+  {
+    "question": "A level 1, race and class unspecified, Jester succeeds in stealthily ripping a page from a book. What is the result?",
+    "answer": "No roll is required because Jester succeeded on a check that allowed her to distract the book warden. ",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Actions in Combat > Attack"
+    ],
+    "rules_explanation": "Jester's sleight of hand check succeeded. The result of this stealth means that ripping the page is assured"
+  },
+  {
+    "question": "The DM asks Caduceus, a PC with Druid abilities and skills, to determine if the plants thinks Reani is on the level. How is this handled?",
+    "answer": "There is no check or saving throw indicated, the DM role-plays the plants responding affirmatively.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The plants respond with a vibrant green flicker to imply that Reani is a good person"
+  }
+]

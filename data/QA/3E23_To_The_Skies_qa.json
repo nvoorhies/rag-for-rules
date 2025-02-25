@@ -1,0 +1,99 @@
+[
+  {
+    "question": "Can the level 6 Fighter/ level 1 Rogue use chisels to climb a wooden surface without boots that grant spider climb?",
+    "answer": "Yes, an athletics check is required.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Part I",
+      "Strength",
+      "Part I > Strength > Strength Checks"
+    ],
+    "rules_explanation": "The character is attempting a task (climbing) that has a chance of failure.  The Dungeon Master calls for an ability check and determines which of the six abilities is relevant to the task at hand and the difficulty of the task. Climbing can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks."
+  },
+  {
+    "question": "Given that rogue rolled a natural 20 on an athletics check to climb into a chimney, and landed hard, is the rogue allowed a stealth check?",
+    "answer": "Yes, with the natural 20 on the athletics check, a stealth check is allowed.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master is allowing the stealth check due to the player rolling a 20 on a prior athletics check. There are no specific SRD rules that allows this, but it is a Dungeon Master Judgement Call."
+  },
+  {
+    "question": "Can a level 6 Fighter/level 1 Rogue, with 'wolven scent', make a perception check with advantage to smell a specific person within a room that also smells of potpourri?",
+    "answer": "Yes, the character can make a perception check with advantage due to the wolven scent ability, but the potpourri smell might impose disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The character is attempting a perception check to smell for one individual person in a room. As there is a positive trait granting advantage, but also a negative trait granting disadvantage, it is the Dungeon Master's Judgement to which has priority."
+  },
+  {
+    "question": "Does the level 6 Fighter/level 1 Rogue have advantage on a stealth check to move around in a room that is also having little voice pings at different locations?",
+    "answer": "Yes, the boots grant advantage for sound-based stealth checks.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The character is attempting a stealth check and there is a circumstance (boots) that grant advantage on this."
+  },
+  {
+    "question": "Does a 1st-level character have telepathy or similar ability?",
+    "answer": "No, the character does not have telepathy at level 1.",
+    "rules": [
+      "Spellcasting"
+    ],
+    "rules_explanation": "The Player doesn't have a class or race, and they do not have access to this ability."
+  },
+  {
+    "question": "If a folded portable hole is reached into like a bag, does the interior act as a bag",
+    "answer": "When folded, it meets cloth and it acts as dark silk.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling and is not directly supported by the rules in the SRD document."
+  },
+  {
+    "question": "If a portable hole is stuck on a wall is there a 10-foot hole through the wall?",
+    "answer": "As it unravels, it seems to stick to it a little bit until eventually there is a 10-foot dark hole on the wall.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling and is not directly supported by the rules in the SRD document."
+  },
+  {
+    "question": "When something enters a portable hole, can people on the other side see them?",
+    "answer": "Correct. As you turn around, you can see the hole in the wall and the interior of the chamber where you're all currently-- the rest of them are standing.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling and is not directly supported by the rules in the SRD document."
+  },
+  {
+    "question": "How long can someone be in a portable hole?",
+    "answer": "The air within is finite.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling and is not directly supported by the rules in the SRD document."
+  },
+  {
+    "question": "Can spells be cast through the hole?",
+    "answer": "They go (zhoop) and you watch them get swallowed by the darkness. You--",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling and is not directly supported by the rules in the SRD document."
+  },
+  {
+    "question": "Can a creature on the other side hear me talk when I am in a portable hole",
+    "answer": "I will say, yeah, you can hear them.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling and is not directly supported by the rules in the SRD document."
+  },
+  {
+    "question": "I have a question about this portable hole, though. Does it have to be on the ground in order for it to work? What if you fold it in half? Can you reach your arm in?",
+    "answer": "You reach in and it meets cloth. In fact, you get the sense that it acts as just dark silk anytime that it's folded in some way until it's laid out. When it's laid out, it becomes a large hole.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling and is not directly supported by the rules in the SRD document."
+  },
+  {
+    "question": "Can a 4th-level character use Telepathy through a portable hole?",
+    "answer": "Technically, the interior of this is a pocket dimension. There is a definitive separation between the two that does not allow your telepathy to continue.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling and is not directly supported by the rules in the SRD document."
+  },
+  {
+    "question": "If a rope is inside a portable hole and it is folded, will the rope be cut?",
+    "answer": "So you open it back up and as you pull the rope, the rope is indeed severed where it was.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling and is not directly supported by the rules in the SRD document."
+  }
+]

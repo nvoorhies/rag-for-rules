@@ -1,0 +1,229 @@
+[
+  {
+    "question": "The character level 1, class Artificer, race Autognome has a player asking what they are able to see in the distance from where they are. What kind of check should they make?",
+    "answer": "The character should make a Wisdom (Perception) check.",
+    "rules": [
+      "Using Ability Scores > Skills > Wisdom",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Since the player is asking what they can perceive, the appropriate check is a Wisdom (Perception) check. As this is an SRD example the character's level, class and race are not used, but that the player asked to perform a perception check is sufficient information to trigger the response."
+  },
+  {
+    "question": "Level 1, Class unknown, Race unknown is readying his lock picks. 'Can I check the door for traps?' What check is appropriate?",
+    "answer": "The character should make an Intelligence (Investigation) check.",
+    "rules": [
+      "Using Ability Scores > Skills > Intelligence",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The player character is asking to investigate the door for traps. The relevant ability check is Intelligence (Investigation)."
+  },
+  {
+    "question": "level 5, class sorcerer, race unknown, what is my armor class?",
+    "answer": "The character's Armor Class is equal to 10 + your Dexterity modifier.",
+    "rules": [
+      "Sorcerer > Class Features > Unarmored Defense"
+    ],
+    "rules_explanation": "The character is a sorcerer and the transcript indicates that they are not wearing armor. Therefore, the sorcerer's unarmored defense is the appropriate Armor Class calculation."
+  },
+  {
+    "question": "Keyleth is casting Polymorph and she needs to roll a Dex save, what is the DC",
+    "answer": "I am unable to answer this question. There are several spells with a similar effect that can cause this saving throw, but given the information in the context of the text, the DC required for this action can not be determined.",
+    "rules": [],
+    "rules_explanation": "The available information does not fully define what is needed to derive an answer based on the SRD rules."
+  },
+  {
+    "question": "Level 5, class sorcerer, race unknown has advantage on a saving throw and rolls a natural 20, what is the DC",
+    "answer": "I am unable to answer this question. The appropriate saving throw depends on the effect forcing the saving throw.",
+    "rules": [],
+    "rules_explanation": "The rules for advantage and saving throws are clear, but which saving throw applies is not clear in this case."
+  },
+  {
+    "question": "Can TALIESIN reply when LAURA messages him?",
+    "answer": "The Message spell does allow for a reply.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The rules for the message spell allow for a reply"
+  },
+  {
+    "question": "Player of unknown level, class, race, and ability stats, as they became charmed is asked to roll a charisma save. Is this correct?",
+    "answer": "No, the character should make a Wisdom saving throw, not Charisma, to avoid the charmed condition.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The Charmed Condition will be applied on the failing of the saving throw. The type of saving throw will vary based on the effect that is being applied to the target."
+  },
+  {
+    "question": "The party is going to make a check.  What does the stealth check entail and what rules apply",
+    "answer": "To make a Dexterity (Stealth) check, you roll a d20 and add your Dexterity modifier and proficiency bonus, if applicable. The check is then contested by the Wisdom (Perception) check of creatures that might detect you.",
+    "rules": [
+      "Using Ability Scores > Skills > Dexterity",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A Dexterity (Stealth) check is made to attempt to conceal oneself. This check is contested by the Wisdom (Perception) check of any creature that might notice the attempt."
+  },
+  {
+    "question": "fearne attempts to charm person the swordman. What kind of saving throw is it",
+    "answer": "The target must make a wisdom saving throw to avoid being charmed by the charm person spell",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "the charmed person requires a wisdom saving throw to avoid being charmed"
+  },
+  {
+    "question": "Fearne has cast Scorching Ray, do the attackers get disadvantage since she's within 5 feet of them?",
+    "answer": "Yes, because Scorching Ray is a ranged attack, she has disadvantage on the attack rolls because she is within 5 feet of a hostile creature that can see her and is not incapacitated.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "The rule for Ranged Attacks in Close Combat states that a ranged attack has disadvantage if within 5 feet of a hostile creature that can see the attacker and is not incapacitated."
+  },
+  {
+    "question": "A character has fallen and another cast featherfall, what is the descending rate?",
+    "answer": "The rate of descent slows to 60 feet per round until the spell ends.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The feather fall spells slows the rate of decent to 60 ft per round"
+  },
+  {
+    "question": "Can someone tell a charmed creature to attack a friend",
+    "answer": "No, a charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rules for being charmed do not allow attacking the charmer"
+  },
+  {
+    "question": "The invisible Travis blood curses bloated agony for the person frightened. is this valid",
+    "answer": "I am unable to answer this question. A stealth roll is used to hide and the description does not involve a bonus action. Therefore I cannot identify if the blood curse is being actioned as a bonus action.",
+    "rules": [],
+    "rules_explanation": "The trigger is stealth and not necessarily the blood curse"
+  },
+  {
+    "question": "FCG used banishment and then the figure steps to the table and does bonus action - the action order is unclear",
+    "answer": "I am unable to answer this question. The question relates to a bonus action, however there is no description of the specific race, class, or abilities of the figure that would use that bonus action, therefore the impact of the rule cannot be determined.",
+    "rules": [],
+    "rules_explanation": "The level and class are needed to know what spells are available to a character"
+  },
+  {
+    "question": "Is the 9th level spell lightning bolt an evocation or conjuration spell?",
+    "answer": "lightning bolt is a 3rd level evocation spell",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "the description of lightning bolt specifies what level it is, and which school of magic it belongs to"
+  },
+  {
+    "question": "One player casts Healing Word at 3rd level. How much do they heal",
+    "answer": "The target regains hit points equal to 3d4 + the spellcasting ability modifier of the caster.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Healing word details the amount of healing with the upcasting caveat"
+  },
+  {
+    "question": "Laura is casting lighting bolt through people what are the rules about cover",
+    "answer": "A figure has three-quarters cover behind an object if about three-quarters of it is covered by an obstacle, granting a +5 bonus to Dexterity saving throws.",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "The rules about cover dictate how the target's saving throws are affected by cover."
+  },
+  {
+    "question": "a character is described as being is inside melee - what effect does that have on using a ranged attack spell?",
+    "answer": "The character has disadvantage on the ranged attack roll.",
+    "rules": [
+      "Combat > Making an Attack > Ranged Attacks > Ranged Attacks in Close Combat"
+    ],
+    "rules_explanation": "The rule for Ranged Attacks in Close Combat states that a ranged attack has disadvantage if within 5 feet of a hostile creature that can see the attacker and is not incapacitated."
+  },
+  {
+    "question": "Can Laura make a bonus action",
+    "answer": "This depends on the character's class and abilities. Only if a special ability, spell, or other feature of the game states that the character can do something as a bonus action, can a bonus action be taken.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "The section on Bonus Actions details the circumstances required to use them."
+  },
+  {
+    "question": "Fearne wants to cast Armor of Agathys, what kind of action is it?",
+    "answer": "It is an action to cast Armor of Agathys.",
+    "rules": [],
+    "rules_explanation": "The spell description of Armor of Agathys states that it has a casting time of 1 action."
+  },
+  {
+    "question": "Can the wolf use its Crimson Rite",
+    "answer": "I am unable to answer this question. Crimson Rite is a Blood Hunter ability, and it cannot be determined if the werewolf has access to it.",
+    "rules": [],
+    "rules_explanation": "It cannot be derived from the test who has the bloodhunter ability - therefore the answer cannot be resolved."
+  },
+  {
+    "question": "What can a character who is charmed do?",
+    "answer": "A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.  The charmer has advantage on any ability check to interact socially with the creature.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Here are the restrictions to being charmed"
+  },
+  {
+    "question": "If a sorcerer casts a spell on a 4th level slot when it's typically a level 1 spell, what effects change?",
+    "answer": "The spell assumes the higher level for that casting and any effect in the spell description that scales with spell slot level increases accordingly.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Casting a Spell at a Higher Level"
+    ],
+    "rules_explanation": "The rules specify that a spell cast with a higher level spell slot is cast at that higher level and has any additional effects granted by casting at a higher level."
+  },
+  {
+    "question": "What happens when you try to teleport through an antimagic field?",
+    "answer": "Teleportation fails to work in the sphere, whether the sphere is the destination or the departure point for such magical travel.",
+    "rules": [
+      "Spellcasting > Spell Descriptions > Antimagic Field"
+    ],
+    "rules_explanation": "The description of the antimagic field spell specifically states that teleportation does not function within the field."
+  },
+  {
+    "question": "A character cast Heat Metal on metal armor. What saving throw must the target make?",
+    "answer": "The creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The full effect dictates the target gets disadvantage on Attack Rolls but needs to make the initial saving throw"
+  },
+  {
+    "question": "what happens when an attack is made on someone who is invisible?",
+    "answer": "Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "this is how invisibility affects attacks"
+  },
+  {
+    "question": "Player asks: \"Do I get all new hit points when you're a werewolf?\". Provide the correct rules clarification.",
+    "answer": "No, the player does not get new hit points but some damage is halved, which should have been done in the beginning using a bonus action.",
+    "rules": [],
+    "rules_explanation": "No set of rules to derive to this question"
+  },
+  {
+    "question": "What is General Ratanish's banishment save DC?",
+    "answer": "I am unable to answer this question. The banishment save DC depends on the spellcaster's spellcasting ability and level.",
+    "rules": [],
+    "rules_explanation": "This cannot be derived from the available information."
+  },
+  {
+    "question": "What is the rule reference for an improvised attack",
+    "answer": "An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.",
+    "rules": [
+      "Equipment > Weapons > Improvised Weapons"
+    ],
+    "rules_explanation": "The provided text is the full description of how improvised weapons work."
+  },
+  {
+    "question": "FCG casts Banishment on General Ratanish. He rolled a 1. How long is he banished for?",
+    "answer": "General Ratanish is banished for up to 1 minute. The duration is concentration, up to 1 minute.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Although the subject rolled a 1, as long as that is not a saving throw, they are still affected based on the spell and the time duration."
+  }
+]

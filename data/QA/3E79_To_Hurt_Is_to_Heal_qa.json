@@ -1,0 +1,126 @@
+[
+  {
+    "question": "A melee attack with one handed warhammer is made by a character with +3 strength. What is the damage?",
+    "answer": "A melee weapon attack with a warhammer deals 1d8 + the character's strength modifier, or 1d8+3 bludgeoning damage when used in one hand.",
+    "rules": [
+      "Equipment > Weapons > Warhammer",
+      "Combat > Making an Attack > Attack Rolls > Modifiers to the Roll > Ability Modifier"
+    ],
+    "rules_explanation": "The warhammer is a versatile weapon that does 1d8 bludgeoning damage when used in one hand. Since the character makes a melee attack, their strength bonus is added to the damage."
+  },
+  {
+    "question": "Player asks if the Sending spell works again",
+    "answer": "This does not appear in the transcript.",
+    "rules": [],
+    "rules_explanation": "There is no related material to generate an answer"
+  },
+  {
+    "question": "A character took 14 points of psychic damage. What happens?",
+    "answer": "The character loses 14 hit points.",
+    "rules": [],
+    "rules_explanation": "HP loss from damage"
+  },
+  {
+    "question": "What happens when a character is hit with an attack, saves against that attacks effect, and there is no further information in the attack description.",
+    "answer": "The character takes half damage from the triggering attack.",
+    "rules": [],
+    "rules_explanation": "Implied by the text when a damage value on both failed and successful saves is described. A successful saving throw generally results in taking only half damage."
+  },
+  {
+    "question": "After hearing about a character getting a plus to an insight check because of expertise and high ability, the character asks 'How do you get such a high...'?'",
+    "answer": "This does not appear in the transcript.",
+    "rules": [],
+    "rules_explanation": "There is no further related material to generate an answer"
+  },
+  {
+    "question": "Can a character take a short rest during simultaneous conversations?",
+    "answer": "Yes, the characters can take a short rest.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "The transcript grants this to the players."
+  },
+  {
+    "question": "In a combat scenario, after 17 points of psychic damage and some other conversation, a character asked \"I'm fucked up\"?",
+    "answer": "This does not appear in the transcript.",
+    "rules": [],
+    "rules_explanation": "There is no further related material to generate an answer"
+  },
+  {
+    "question": "I'm plummeting in an arcane sphere. Can the bubble protect us? Will the bubble just protect us? Can we just ride this as far as it'll go?",
+    "answer": "This question cannot be answered. There are no rules for arcane spheres in the SRD.",
+    "rules": [],
+    "rules_explanation": "This is a new, homebrew situation and is not covered by any SRD rules."
+  },
+  {
+    "question": "Can the Silver fox, level 7 Barbarian use his (sniffing) nose to smell any other life forms or anything that might be in the muck or around us or hiding?",
+    "answer": "The character can attempt a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM can call for an ability check, like Perception, in situations like this."
+  },
+  {
+    "question": "A character states a desire to make it to where we can't just cast Fly and get on out of here.",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "This is a statement of narrative intent, not a question about game rules."
+  },
+  {
+    "question": "When Orym (Level 7, fighter) climbs down from the vantage point, what kind of check needs to be made?",
+    "answer": "An athletics or acrobatics check is needed to keep balance.",
+    "rules": [
+      "Combat > Movement and Position > Climbing, Swimming, and Crawling",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The DM asks for an athletics or acrobatics check to keep balance while traversing precariously."
+  },
+  {
+    "question": "Could a level 7 fighter use Telekinesis down to the vantage point that was made with her truth.?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "There is no rules question here."
+  },
+  {
+    "question": "Can FCG (level 7) cast Light on the end of Laudna's spike.?",
+    "answer": "Yes, the character casts Light and it emits",
+    "rules": [],
+    "rules_explanation": "From the context, it can be assumed the spell takes effect."
+  },
+  {
+    "question": "After Allura casts 'Scrying' through the gem, can the witches' cast Eldritch Blast to do it?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question but a plan from the characters."
+  },
+  {
+    "question": "Are there any archfeys or the Seelie Court move back in between the Fey Realm and the Material Plane as they choose?",
+    "answer": "The most powerful ones usually can.",
+    "rules": [],
+    "rules_explanation": "Answer provided by DM."
+  },
+  {
+    "question": "If the court doesn't want you to leave, then what happens?",
+    "answer": "You won't be able to use any of the gates they've built.",
+    "rules": [],
+    "rules_explanation": "Answer provided by DM."
+  },
+  {
+    "question": "Chetney asked: what's my total there?",
+    "answer": "This does not appear to be a rule-based question",
+    "rules": [],
+    "rules_explanation": "This is a question about a player's character sheet, not a rules query."
+  },
+  {
+    "question": "What can level 9 players do with a Shard that has a dark side?  Should we show Nana Morri the...?",
+    "answer": "This is not a rules question.",
+    "rules": [],
+    "rules_explanation": "This is not a rules question but a question about what the players should do."
+  },
+  {
+    "question": "Does her father (Sorrowlord) have any sort of primordial anything in her bloodline that would make that bad?",
+    "answer": "The fey are removed from the Primordial structure. Those are opposite ends of the magical ancients.",
+    "rules": [],
+    "rules_explanation": "This was the DM's in-world answer about the nature of primordial connections with Fey."
+  }
+]

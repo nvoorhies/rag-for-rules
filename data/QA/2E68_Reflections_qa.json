@@ -1,0 +1,341 @@
+[
+  {
+    "question": "Can the level class race Fighter/Barbarian multiclass character with relevant stats and no armor do that?",
+    "answer": "The fighter/barbarian multiclass character can take a bonus action to enter a rage.",
+    "rules": [
+      "Class Features > Multiclassing > Prerequisites",
+      "Barbarian > Class Features > Rage"
+    ],
+    "rules_explanation": "The Barbarian class grants the Rage feature which can be entered using a bonus action.  The section on multiclassing states that the new class's features can be gained when you meet the prerequisites for the new class."
+  },
+  {
+    "question": "Is the warlock with access to spells able to do that? They have an intelligence score of 13, wisdom 15, charisma 17.",
+    "answer": "Advantage can be granted on a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This is a general rules reminder - not associated with a specific rules entry."
+  },
+  {
+    "question": "Can Fjord give another character advantage to a perception roll?",
+    "answer": "It is not possible to determine whether Fjord can give another character advantage on a perception check. Advantage can be granted on a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "It is not possible to determine whether Fjord can give another character advantage on a perception check. Advantage can be granted on a perception check."
+  },
+  {
+    "question": "Can Caduceus and Fjord give each other advantage on a perception check?",
+    "answer": "It is not possible to determine whether Caduceus and Fjord can give another character advantage on a perception check. Advantage can be granted on a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "It is not possible to determine whether Caduceus and Fjord can give another character advantage on a perception check. Advantage can be granted on a perception check."
+  },
+  {
+    "question": "Can he do that?",
+    "answer": "A character can grant advantage on a perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Working Together"
+    ],
+    "rules_explanation": "This is a general rules reminder - not associated with a specific rules entry."
+  },
+  {
+    "question": "Just a perception roll?",
+    "answer": "A perception check can be made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This is a general rules reminder - not associated with a specific rules entry."
+  },
+  {
+    "question": "What's the radius on those?",
+    "answer": "It is not possible to determine the radius on those.",
+    "rules": [],
+    "rules_explanation": "Insufficient details were provided to answer the question."
+  },
+  {
+    "question": "Can you bamf with people?",
+    "answer": "It is not possible to determine whether Jester can bamf with people.",
+    "rules": [],
+    "rules_explanation": "There is no way to answer what abilities a character has based on general class information."
+  },
+  {
+    "question": "50 feet between each of you?",
+    "answer": "It is not possible to determine the distance between each party member based solely on the fact that they have 50 feet of rope.",
+    "rules": [],
+    "rules_explanation": "The question relates to a specific situation and setup that cannot be deduced solely from a length of rope."
+  },
+  {
+    "question": "We're adding 10 to...?",
+    "answer": "The Pass Without Trace spell adds 10 to Dexterity (Stealth) checks.",
+    "rules": [],
+    "rules_explanation": "This question is a reminder to apply the effects of an active spell."
+  },
+  {
+    "question": "Am I still at disadvantage or am I back to--?",
+    "answer": "A stealth check can be made at disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A player is asking if they still have disadvantage on their stealth check. The rules allow for checks to be made at a disadvantage."
+  },
+  {
+    "question": "So is Bless.",
+    "answer": "Bless requires concentration.",
+    "rules": [
+      "Spellcasting > Concentration"
+    ],
+    "rules_explanation": "This is a reminder that the Bless spell requires concentration."
+  },
+  {
+    "question": "With advantage?",
+    "answer": "A skill check can be made with advantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This is a general rules reminder - not associated with a specific rules entry."
+  },
+  {
+    "question": "And also Pass Without a Trace?",
+    "answer": "The Pass Without Trace spell adds 10 to Dexterity (Stealth) checks.",
+    "rules": [],
+    "rules_explanation": "This question is a reminder to apply the effects of an active spell."
+  },
+  {
+    "question": "Protection from Good and Evil mean I don't have to do that?",
+    "answer": "The Protection from Good and Evil spell does not grant immunity to being the target of a wisdom saving throw.",
+    "rules": [
+      "Spell Descriptions > Protection from Good and Evil"
+    ],
+    "rules_explanation": "The spell provides various protections against specific creature types, but does not provide blanket immunity to saving throws."
+  },
+  {
+    "question": "She is standing up. Okay, sorry.",
+    "answer": "A character can expend movement to stand up from prone.",
+    "rules": [
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "A character is reminding themselves that standing from prone expends movement."
+  },
+  {
+    "question": "When holding an action, can I cast a reaction? Use a reaction still?",
+    "answer": "Holding your action is your reaction.",
+    "rules": [
+      "Combat > Your Turn > Reactions",
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "Holding an action involves using the Ready action and therefore uses your reaction. You only have one reaction per round."
+  },
+  {
+    "question": "Does the cat need to do that or is he exempt?",
+    "answer": "Frumpkin, as Caleb's familiar, is not exempt from the area effect and must make the Wisdom saving throw",
+    "rules": [],
+    "rules_explanation": "Determining whether a creature is exempt from an effect is situational and therefore cannot be derived from a rule alone."
+  },
+  {
+    "question": "What's the save on that? Is it wisdom?",
+    "answer": "The spell description specifies the saving throw.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "This is a general rules reminder - not associated with a specific rules entry."
+  },
+  {
+    "question": "Modifier's plus three, I think, right?",
+    "answer": "It is not possible to confirm this character's modifier.",
+    "rules": [],
+    "rules_explanation": "It is not possible to determine a character's spell modifier without knowing their level and stats."
+  },
+  {
+    "question": "Is that an object?",
+    "answer": "It is not possible to tell whether an Orb is an object.",
+    "rules": [],
+    "rules_explanation": "Object is a specific type. There is no way to tell whether a thing is of that type, if we don't know what that thing is."
+  },
+  {
+    "question": "Can I hold an action if the voices start coming up?",
+    "answer": "You can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "The rules about taking the ready action and stating what can be done with it."
+  },
+  {
+    "question": "To cast Slow, I can use the reaction?",
+    "answer": "If you are holding your action and ready to cast a spell, you use a reaction.",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "The rules about using a reaction to cast a spell when using the ready action."
+  },
+  {
+    "question": "Does the cat need to do that or is he exempt?",
+    "answer": "Unless specifically exempted, a cat, including a familiar in cat form, is subject to an area of effect and must make a saving throw if required.",
+    "rules": [],
+    "rules_explanation": "All creatures are affected by a spell within its area, unless specifically exempted."
+  },
+  {
+    "question": "Does the cat need to do that or is he exempt?",
+    "answer": "A creature can use a reaction.",
+    "rules": [
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "This is a general rules reminder - not associated with a specific rules entry."
+  },
+  {
+    "question": "With advantage? Plus 10.",
+    "answer": "A stealth check can be made with advantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A character is asking if they have advantage on their stealth check. The rules allow for checks to be made with a disadvantage."
+  },
+  {
+    "question": "Is it 30 or 60 for Mage Hand?",
+    "answer": "The Mage Hand spell has a range of 30 feet.",
+    "rules": [],
+    "rules_explanation": "The question can be answered by looking up the range of the specified spell."
+  },
+  {
+    "question": "Do we still have Pass--?",
+    "answer": "The Pass Without Trace spell adds 10 to Dexterity (Stealth) checks.",
+    "rules": [],
+    "rules_explanation": "This question is a reminder to apply the effects of an active spell."
+  },
+  {
+    "question": "This is a what check?",
+    "answer": "A stealth check is being made.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This is a general rules reminder - not associated with a specific rules entry."
+  },
+  {
+    "question": "Is that-- do I still get a bonus action, or is that the bonus action?",
+    "answer": "Suffering 4 points of piercing damage does not expend any actions, including the bonus action.",
+    "rules": [
+      "Combat > Your Turn > Bonus Actions"
+    ],
+    "rules_explanation": "Taking damage, in general, does not use up your action. So you still have your bonus action."
+  },
+  {
+    "question": "You guys aren't being dangled in this. You guys are technically still over the bridge, because it moved right above you and is pulling you up towards it.",
+    "answer": "A creature has advantage on attack rolls against an unconscious creature if they are within 5 ft.",
+    "rules": [
+      "Appendix PH-A: Conditions > Unconscious",
+      "Combat > Making an Attack > Unseen Attackers and Targets"
+    ],
+    "rules_explanation": "Matt is describing the position in the space so that he can properly apply the rules to it"
+  },
+  {
+    "question": "Did she use her movement to stand up?",
+    "answer": "Standing up costs an amount of movement equal to half your speed.",
+    "rules": [
+      "Combat > Movement and Position > Being Prone"
+    ],
+    "rules_explanation": "The mechanics of standing up, while prone, cost movement."
+  },
+  {
+    "question": "When holding an action, can I cast a reaction? Use a reaction still?",
+    "answer": "Holding your action is your reaction.",
+    "rules": [
+      "Combat > Actions in Combat > Ready",
+      "Combat > Your Turn > Reactions"
+    ],
+    "rules_explanation": "Since the Ready action expends your reaction, you don't have an additional reaction to use."
+  },
+  {
+    "question": "What would you like to hold?",
+    "answer": "It is not possible to determine what spell a character would like to hold.",
+    "rules": [],
+    "rules_explanation": "This is a question of intent. The rules can't be used to answer this question."
+  },
+  {
+    "question": "You're rolling it again. Oh my god.",
+    "answer": "A bless from the Bless spell can be applied retroactively to an already cast spell.",
+    "rules": [],
+    "rules_explanation": "It is possible to retroactively apply the effects of a spell that is already in play."
+  },
+  {
+    "question": "Does the cat need to do that or is he exempt?",
+    "answer": "All creatures are affected by an area of effect spell unless specifically exempted by the spell.",
+    "rules": [],
+    "rules_explanation": "The question relates to a specific situation and setup."
+  },
+  {
+    "question": "What if I take this piece of mirror and I hold it up to the mirror?",
+    "answer": "A mirror reflects a reflected image.",
+    "rules": [],
+    "rules_explanation": "This is a question of physics, not game mechanics."
+  },
+  {
+    "question": "Is this like someone filled a cave full of mirrors? Do some of them have frames, or...?",
+    "answer": "It is not possible to tell whether something is a mirror or a mirrored surface.",
+    "rules": [],
+    "rules_explanation": "Mirror is an item of the equipment type. There is no way to tell if a thing is of that type, if we don't know what that thing is."
+  },
+  {
+    "question": "So actual mirrors?",
+    "answer": "A mirror shows the reflected image of what is in front of it.",
+    "rules": [],
+    "rules_explanation": "This is a question of physics, not game mechanics."
+  },
+  {
+    "question": "Perception still?",
+    "answer": "An investigation check involves the same basic procedure as an ability check, so you roll the dice and add all modifiers then the GM decides whether it is a success. A character's proficiency can be applied to checks that use skills.",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "This is a general rules reminder - not associated with a specific rules entry."
+  },
+  {
+    "question": "We don't see anything in the mirror?",
+    "answer": "A mirror shows a reflected image of what is in front of it.",
+    "rules": [],
+    "rules_explanation": "This is a question of physics, not game mechanics."
+  },
+  {
+    "question": "It's 30 or 60 for Mage Hand?",
+    "answer": "The Mage Hand spell has a range of 30 feet.",
+    "rules": [],
+    "rules_explanation": "The question can be answered by looking up the range of the specified spell."
+  },
+  {
+    "question": "What are you saying?",
+    "answer": "Only the DM is able to state what the NPC actions are.",
+    "rules": [],
+    "rules_explanation": "This is a matter of game procedure - the DM determines NPCs' actions."
+  },
+  {
+    "question": "Is it attached by one chain link on one side?",
+    "answer": "The rules do not specify what kind of attachment is used to connect a piece of metal to a chain.",
+    "rules": [],
+    "rules_explanation": "The SRD does not cover a specific attachment method, therefore there is no mechanical answer to be drawn."
+  },
+  {
+    "question": "Was I going to check for traps?",
+    "answer": "A character can perform a check to attempt to detect traps.",
+    "rules": [
+      "The Order of Combat > Actions in Combat > Search",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "A character is attempting to recall whether they intended to check for traps. The rules allow for checks to be made to search for traps, so they can do this."
+  },
+  {
+    "question": "What's this a what check?",
+    "answer": "You are making a stealth check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This is a general rules reminder - not associated with a specific rules entry."
+  },
+  {
+    "question": "With advantage? Plus 10.",
+    "answer": "A skill check can be made with advantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "A character is asking if they have advantage on their stealth check. The rules allow for checks to be made with a disadvantage."
+  }
+]

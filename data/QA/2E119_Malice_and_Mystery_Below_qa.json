@@ -1,0 +1,682 @@
+[
+  {
+    "question": "What is the radius of bright and dim light emitted by the level 0 [Daylight] spell?",
+    "answer": "The [Daylight] spell creates bright light everywhere in the chamber giving everyone a much better view.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range"
+    ],
+    "rules_explanation": "The game master adjudicates that the driftglobe now gives a much better view of the room because the cleric cast the [Daylight] spell on it."
+  },
+  {
+    "question": "Is a natural 20 on an attack roll a critical hit?",
+    "answer": "Yes, a natural 20 on an attack roll is a critical hit, which means double damage.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "The rules specify that rolling a natural 20 on an attack is always a hit (and a critical hit)."
+  },
+  {
+    "question": "Does the 'stunned' condition drop concentration?",
+    "answer": "Yes, the stunned condition causes a character to drop concentration.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned",
+      "Spellcasting > Casting a Spell > Duration > Concentration"
+    ],
+    "rules_explanation": "The stunned condition incapacitates a character, and an incapacitated character cannot concentrate on a spell.  Therefore the stunned condition will drop concentration."
+  },
+  {
+    "question": "What is the effect of the 'blinded' condition?",
+    "answer": "A blinded creature has disadvantage on attacks and automatically fails ability checks that require sight, and attack rolls against them have advantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Blinded"
+    ],
+    "rules_explanation": "This is a direct rules quotation"
+  },
+  {
+    "question": "Does rage give you advantage on strength saving throws?",
+    "answer": "No, rage gives you advantage on strength checks and saving throws.",
+    "rules": [
+      "Classes > Barbarian > Rage"
+    ],
+    "rules_explanation": "This is a rules quotation."
+  },
+  {
+    "question": "If melee attack is an autocrit against an unconscious creature, within five feet?",
+    "answer": "Within five feet, a melee attack is an autocrit against an unconscious creature.",
+    "rules": [
+      "Game Mechanics > Combat"
+    ],
+    "rules_explanation": "This is a game mechanic rules that allows you to make a melee autocrit attack"
+  },
+  {
+    "question": "While holding a spell does that become a concentration spell, even if it's instantaneous?",
+    "answer": "Yes, holding a spell does become a concentration spell, even if it's instantaneous.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Duration > Concentration"
+    ],
+    "rules_explanation": "The rules for concentration state you cannot concentrate on two spells at once."
+  },
+  {
+    "question": "If attack rolls get a d4, too?",
+    "answer": "Yes, attacks get a d4, too.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is an application of the Bless spell cast by Caduceus on everyone."
+  },
+  {
+    "question": "What happens to advantage when restrained?",
+    "answer": "When restrained, you're disadvantage",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "This is a rules quotation."
+  },
+  {
+    "question": "does stun drop concentration?",
+    "answer": "It does.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Duration > Concentration",
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation": "A character who is stunned is incapacitated. A character who is incapacitated cannot concentrate on a spell, so concentration ends."
+  },
+  {
+    "question": "With my penalty, it brings it to?",
+    "answer": "20 with your penalty",
+    "rules": [
+      "Game Mechanics > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "The game master adjudicates that Yasha has advantage on saving throws because you are raging, but you are blind from earlier when she looked into the orbs eyes"
+  },
+  {
+    "question": "Can I use my Mind of Mercury to spend a ki point and get another reaction?",
+    "answer": "Using Mind of Mercury and him moving out of my range to get the attack.",
+    "rules": [],
+    "rules_explanation": "The game master adjudicates on whether the player is using his feature correctly"
+  },
+  {
+    "question": "Can you not trigger two reactions from one trigger?",
+    "answer": "Yeah, you can't trigger two reactions from one trigger. Yeah. If multiple things trigger, you can spend more reactions.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a rules from PHB. When you are doing a reaction you cannot add another action, the circumstances here is that you only get to attack it again if she didn't have Sentinel because you guys- your feats cancel each other out where you get the extra attack against somebody that's not you."
+  },
+  {
+    "question": "Move around towards the front of it. I'm going to try the wisdom?",
+    "answer": "Roll for wisdom save, with advantage. You get to add a d4 to it.",
+    "rules": [
+      "PHB section: Wisdom Saving Throw"
+    ],
+    "rules_explanation": "The game master determines what type of roll to make based on previous questions about Fjord location."
+  },
+  {
+    "question": "It was 113. I guess I'm going to try to pull her out?",
+    "answer": "27. That will hit",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This a contested rule check between the monster and a character in the game"
+  },
+  {
+    "question": "Are you keeping your eyes closed or are you going to risk the wisdom save?",
+    "answer": "Go for it. Make the roll.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master determines the check the player must make"
+  },
+  {
+    "question": "Do I roll a d4 for each 20, or for both, or I don't know?",
+    "answer": "Just roll one, and then...",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master is interpreting the rules here on how the d4 is added to a roll"
+  },
+  {
+    "question": "What's the save against it?",
+    "answer": "Dex? Okay. Not great at them. All right. It will use one of its legendary saves to succeed.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a application and interpretation of a Legendary save mechanic and that it may succeed when others fail."
+  },
+  {
+    "question": "Well, I also have attacks on all saving throws right now, right?",
+    "answer": "You have advantage on all saving throws.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is a reiteration of one of the effects of rage."
+  },
+  {
+    "question": "I feel like that I better say: Please don't give your baby drugs. Now the rules for suude are based on a human physiology",
+    "answer": "It is not a human",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This was the decision of the game master to ignore the effects due to the fact that it is not human but rather a baby monster"
+  },
+  {
+    "question": "how long is a short rest, out of the curiosity?",
+    "answer": "An hour.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "This is a rules quotation."
+  },
+  {
+    "question": "Technically, I can keep healing after she's burned all of her hit dice, right?",
+    "answer": "Yeah",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "GM confirms that they can continue healing. The exact rule is not quoted here."
+  },
+  {
+    "question": "Slot. It's - Yeah. Half your level rounded up?",
+    "answer": "Rounded up? Okay. Then, yeah. Go for it.",
+    "rules": [
+      "Classes > Wizard > Arcane Recovery"
+    ],
+    "rules_explanation": "Rules are re-affirmed by the game master regarding recovering level 7 slots through Arcane recovery"
+  },
+  {
+    "question": "How long is a short rest, out of the curiosity?",
+    "answer": "An hour.",
+    "rules": [
+      "Adventuring > Resting > Short Rest"
+    ],
+    "rules_explanation": "Rules confirmed by the game master."
+  },
+  {
+    "question": "But none of the slots can be 6th-level or higher.",
+    "answer": "Oh, can't be sixth or higher? Thank you for catching that.",
+    "rules": [
+      "Classes > Wizard > Arcane Recovery"
+    ],
+    "rules_explanation": "The limits on the spell level are corrected"
+  },
+  {
+    "question": "Was this made? Is this a biological weapon?",
+    "answer": "You can go ahead and roll a history- Well, history or arcana, your call.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Game Master assigns skill check needed based on character's question"
+  },
+  {
+    "question": "what does the rules about suude real fast",
+    "answer": "I did roll one. So it is going unconscious for 2d4 rounds.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "rules check on homebrew material"
+  },
+  {
+    "question": "Is it concentration?",
+    "answer": "Well, is it concentration?",
+    "rules": [
+      "Spellcasting > Casting a Spell > Duration > Concentration"
+    ],
+    "rules_explanation": "Question on whether to continue using the ability because there is something happening with their character."
+  },
+  {
+    "question": "Is it perception or investigation?",
+    "answer": "Investigation?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "the question is asking whether it takes an investigation or perception check to do something"
+  },
+  {
+    "question": "Strength check with advantage. Or you both can do it?",
+    "answer": "Advantage.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Game Master is calling for a strength check and allows the players to roll with advantage"
+  },
+  {
+    "question": "Those are open doorways?",
+    "answer": "They are open, yes.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Answer regarding the environment."
+  },
+  {
+    "question": "Okay. Now the rules for suude are based on a human physiology.",
+    "answer": "Oh, okay, okay.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Adjudication of how a mechanic interacts based on the monster vs human"
+  },
+  {
+    "question": "Do I roll a d4 for each 20, or for both, or I don't know?",
+    "answer": "Just roll one, and then...",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master is determining the rules on how a dice roll is applied."
+  },
+  {
+    "question": "What comes back?",
+    "answer": "You rolled to see if what comes back?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Confirmation check"
+  },
+  {
+    "question": "Can I use my Mind of Mercury to spend a ki point and get another reaction in this moment of him backing away?",
+    "answer": "You can. You already did your attack. OKAY i see",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Game master adjudicates to the player what happened and how their character is acting."
+  },
+  {
+    "question": "Am I able to, when he backed up, could I do-- spend a ki point to get a secondary reaction and get another attack?",
+    "answer": "Correct. What's your additional reaction?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Explanation on features and interactions of a given scenario. Rule check for abilitys"
+  },
+  {
+    "question": "Is this an attack?",
+    "answer": "It's a grapple action",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Game Master explains the rules of the game to the player based on their questions."
+  },
+  {
+    "question": "This is a saving throw, right?",
+    "answer": "Correct.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Confusion regarding a specific game action so there is a question to GM."
+  },
+  {
+    "question": "Do we have to roll for wisdom to save?",
+    "answer": "Whoever's closest to it, maybe. Depending.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Confirmation from the game master on how an environmental condition interacts with the rules and players."
+  },
+  {
+    "question": "Does that mean we have to roll for wisdom to save?",
+    "answer": "You do not right now.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Explaining why the player does not need to do a wisdom save."
+  },
+  {
+    "question": "If you're not moving, then Beauregard, it's your go.",
+    "answer": "Can I reach for my equipment? Can I pull something out?",
+    "rules": [
+      "Game Mechanics > Actions"
+    ],
+    "rules_explanation": "It is her turn. She can do what she wants in that turn."
+  },
+  {
+    "question": "Because you have to, like, after a certain amount of dosage, it gets really hard to save from that, right?",
+    "answer": "Yeah.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master is confirming an earlier homebrew rule."
+  },
+  {
+    "question": "If I use my electric gauntlets and I'm inside of it, would I take electric damage?",
+    "answer": "Probably not, but who knows? You can try.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master adjudicates the situation in a non-committal way."
+  },
+  {
+    "question": "Can I hit him? Am I--",
+    "answer": "You can punch from the inside. You can do all kinds of things. You can still try and fight your way out. If you do enough damage to it in one round, it may regurgitate you.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "It was confirmed that she can attack or hit from the inside."
+  },
+  {
+    "question": "Do I need to-- is it movement to get in? Is it an action to get in?",
+    "answer": "It is an action to reach in and try and resist to pull the creature out. So that'll be the end of your movement. You won't be able to pull her away from it, but she'll be out of it.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The GM is laying down a rule interpretation for the player of what is required for the action, and how much movement the character can do"
+  },
+  {
+    "question": "Can I drink a potion as a bonus action?",
+    "answer": "With all that you're trying to do on this round? I'd say no.",
+    "rules": [
+      "Combat > Actions > Bonus Actions"
+    ],
+    "rules_explanation": "The GM rules that trying to do too much means the bonus action is not allowed. They are already taking their standard action to pull another character out.  Drinking a potion requires an action or bonus action based on the particular circumstance of using the action for the same time."
+  },
+  {
+    "question": "Is blinded just disadvantage on attacks?",
+    "answer": "Blinded is disadvantage on attacks and automatically fail any ability check that requires sight, and attack rolls against her have advantage.",
+    "rules": [
+      "Appendix PH-A: Conditions > Blinded"
+    ],
+    "rules_explanation": "The rules for the Blinded condition are laid out by the GM, so the characters are aware of the mechanical impact."
+  },
+  {
+    "question": "Okay. It's like, shining and you're like, 'Get out of the way!' and just go to town on this.",
+    "answer": "He's starting to look rough, guys.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "It was not explained or clarified if this was because the effect on them was happening or if it was a legitimate attempt to have them pull up the breaks."
+  },
+  {
+    "question": "Am I able to, when he backed up, could I do-- spend a ki point to get a secondary reaction and get another attack?",
+    "answer": "You can't trigger two reactions from one trigger.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The GM explains the rules for the amount of reactions available per trigger"
+  },
+  {
+    "question": "Do I still have advantage, or?",
+    "answer": "Yeah, you still have advantage. ",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Confirmation about what state buffs and debuffs are"
+  },
+  {
+    "question": "Do I roll a d4 for each 20, or for both, or I don't know?",
+    "answer": "Just roll one, and then...",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Interpreting how a mechanic works."
+  },
+  {
+    "question": "Yeah, but if it gets out of...",
+    "answer": "It's also- it's also got- it can't be that fast and it just burned half its movement.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master states a known rules that will limit the movement for the monster"
+  },
+  {
+    "question": "It's also got- it can't be that fast and it just burned half its movement",
+    "answer": "Be okay.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "I am having a problem trying to find this one but I know it's out there."
+  },
+  {
+    "question": "As long as you-- Let me see here.",
+    "answer": "You have advantage on the attack roll, and as long as you hit it, it's an automatic crit.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is the game master telling the player their effects and what roll they are making."
+  },
+  {
+    "question": "The damage has to be from the inside to get it to throw you up.",
+    "answer": "Out of idle curiosity. I can't change targets if it's rolling close to the end of my run.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The player is asking if they can change there mind and the other asking how to effect the current circumstances."
+  },
+  {
+    "question": "Gain advantage on, yeah, strength checks and saving throws.",
+    "answer": "So yeah. So it would just be a straight roll, so whatever you roll.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The player is looking to confirm what kind of saving throw they need to make and it's effects."
+  },
+  {
+    "question": "Does stun drop concentration?",
+    "answer": "It does.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rules check for if the stun effect ends a concentration"
+  },
+  {
+    "question": "Wait, do I roll a wisdom? You can do that, or you can try and avert your gaze now that you know the effect it can have on you.",
+    "answer": "I'm going to avert my gaze.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Explanation of options and asking GM for rule clarification"
+  },
+  {
+    "question": "But it doesn't require sight if you know loosely where she is. If that's what you want to do, it's your call.",
+    "answer": "I'm going to try to-- I'm going to try to cut off this dangly bit. Yeah, I'm going to try to cut off the dangly bit.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Deciding between options that the GM gave the player to do."
+  },
+  {
+    "question": "All right, and you're backing up what?",
+    "answer": "As far as I can possibly go. I want to get away from that eye. I don't want to see it. I know what it does.",
+    "rules": [
+      "Game Mechanics > Movement"
+    ],
+    "rules_explanation": "The game master said: “to get close enough to get Yasha in that blast wave, so”"
+  },
+  {
+    "question": "Okay. Are you going to--?",
+    "answer": "I'm going to try the wisdom.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Game Master is going to call on the player to do a wisdom check."
+  },
+  {
+    "question": "Teleport back to its anus. bonus action, Five feet cursed. It doesn't say any, like-- could I do it again?",
+    "answer": "Should be limitations on it.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The player is questioning how a skill is used and if they can do it more than once but then the GM goes to check to make sure it is what they remember it to be."
+  },
+  {
+    "question": "What do you mean? How, how, how?",
+    "answer": "That was a lot of suude, and I thought maybe I could take it down from inside when I was in there, but I think it just knocked it unconscious for a hot second. That's it.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The player is giving clarity to a previous move they made in the game."
+  },
+  {
+    "question": "Have I heard of such a baby before?",
+    "answer": "You can go ahead and roll a history-- Well, history or arcana, your call.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "GM explains the skill roll the player can perform and the check they can take"
+  },
+  {
+    "question": "Yeah, but we're resting. That's why we're, you know, we can't do anything. But I'm assuming it's been about an hour now.",
+    "answer": "Sure, we can jump ahead.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master is keeping the time in the game"
+  },
+  {
+    "question": "How long would it take if I were to cut and take the spine with me?",
+    "answer": "If you wanted to take some time, you could carve some bone out of it. The spine is heavy. I mean, the entire creature in its own right weighs well over a ton or two.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The game master is explaining what it would take to get the spine and what problems it would present"
+  },
+  {
+    "question": "Are you going to take drugs for your final moments?",
+    "answer": "No. Can I dump it out in his stomach?",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Checking whether they can use their inventory in their current situation"
+  },
+  {
+    "question": "That might be a terrible idea.",
+    "answer": "Give it a shot. Try it out.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "They is asking the game master for clarity or insight on something that would happen"
+  },
+  {
+    "question": "Doesn't it take like 30 minutes to kick in?",
+    "answer": "No, this is.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Game Master is telling the player how long the action would take to trigger"
+  },
+  {
+    "question": "Can I try to force my way out? Just curious.",
+    "answer": "No, you either have to do enough damage to be regurgitated or somebody else has to try and help you out, as seen.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The GM explains there options"
+  },
+  {
+    "question": "Can I use my 30 feet of movement to come towards him as far as I can.",
+    "answer": "30 right there.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "GM confirmes where player ends up after the 30ft of movement."
+  },
+  {
+    "question": "You don't have to roll a wisdom save?",
+    "answer": "You do not right now.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "GM states player does not need to roll for an mechanic"
+  },
+  {
+    "question": "Are you keeping your eyes closed or are you going to risk the wisdom save?",
+    "answer": "Okay, so.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Confirmation check on what to do."
+  },
+  {
+    "question": "Have I used all my movement... and what do I need to do to get in?",
+    "answer": "25 feet you've used.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rules are clarified as well as movement speed, so the player can decide the best action."
+  },
+  {
+    "question": "Is this the direction that you felt the object?",
+    "answer": "It seems to be angling in a somewhat similar direction.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Giving clarity based on in game effect."
+  },
+  {
+    "question": "Those are open doorways?",
+    "answer": "They are open, yes.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Confirmation check for environment description"
+  },
+  {
+    "question": "Are we both grappled? He's got both of us in his baby arms?",
+    "answer": "Yeah, you're both grappled.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Confirmation check for environment description and buffs/debuffs applied to character."
+  },
+  {
+    "question": "What was that?",
+    "answer": "Adding your intelligence modifier.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rules on rolling for skill checks and abilities. I think I lost my stuff or something."
+  },
+  {
+    "question": "You do, unless you choose not to. You do have advantage on it.",
+    "answer": "All right. I'll take it.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Game Master is clarifying the choice the character is making."
+  },
+  {
+    "question": "How far would I have to go to see, uh-- I would have to like step another 10 feet, wouldn't I, to see Yasha?",
+    "answer": "Yeah.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Clarifying how much movement a player has."
+  },
+  {
+    "question": "To see the levels and just double checking here for-- I'm pretty sure. And I think I've forgotten in the past, too. Holding a spell while you're holding it. It does become a concentration spell, even if it's instantaneous.",
+    "answer": "Oh, I'll drop that shit.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Duration > Concentration"
+    ],
+    "rules_explanation": "GM clarifying the rules of a game to a player."
+  },
+  {
+    "question": "Do I roll a d4 for each 20, or for both, or I don't know.",
+    "answer": "Just roll one, and then...",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A rules query is made, and the GM determines that the d4 is added to both rolls instead of each. "
+  },
+  {
+    "question": "But it does probably get legendary actions.",
+    "answer": "Yeah. All right. So we get all of our",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Rules clarificatio what happens after his turn."
+  },
+  {
+    "question": "Two?!",
+    "answer": "Yep.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Confirmation of what can occur"
+  },
+  {
+    "question": "With advantage, don't forget.",
+    "answer": "With disadvantage, damn it. That's a natural one. (groaning)",
+    "rules": [
+      "Game Mechanics > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "Clarification on buffs or debuffs that applied to that current situation."
+  }
+]

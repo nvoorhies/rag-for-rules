@@ -1,0 +1,176 @@
+[
+  {
+    "question": "The 8th level, class/race/level druid casts the Plant Growth spell. Does the spell Plant Growth fix nutrient-devoid soil in a half-mile radius?",
+    "answer": "No, the spell Plant Growth does not affect the land itself, but affects plants that already exist in a half-mile radius.",
+    "rules": [
+      "Spells > Plant Growth"
+    ],
+    "rules_explanation": "The Plant Growth spell affects plant life in a given area, but does not change the nature of the soil in order to enable plants to grow."
+  },
+  {
+    "question": "A class/race/level barbarian has the three Dexterity and makes a perception check, what die is used to roll, what is the DC, what is the modifier, and what skill is used?",
+    "answer": "The player rolls a d20, adds the Dexterity modifier of +0, no skill is used so not adjustments and a DC is not specified.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Following the rules for ability checks, add the relevant ability modifier to a d20 roll. There is no DC for this roll specified and the check is for perception which the charcter is not skilled, hence no skill bonus is applied."
+  },
+  {
+    "question": "A class/race/level cleric is trying to befriend a little bird on their finger. What ability score modifier is used, what die is rolled, what is the DC, and what skill is used?",
+    "answer": "The player rolls a d20, adds the proficiency bonus, and adds the Wisdom modifier +1, to the roll. There is no target number given.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The character must make an animal handling skill check, so the proficiency bonus is added to the Wisdom score which is the appropriate ability for this check. A DC is not specified."
+  },
+  {
+    "question": "The level one bard succeeds in an intelligence check with an 18. May the bard add bardic inspiration to the roll?",
+    "answer": "Yes, the bard can add their Bardic Inspiration to the roll.",
+    "rules": [
+      "Bard > Bardic Inspiration"
+    ],
+    "rules_explanation": "The bard's Bardic Inspiration ability can be used to add to an ability check, and the transcript shows the DM specifically allowed the player to add Bardic Inspiration in this case."
+  },
+  {
+    "question": "A class/race/level Ranger is attempting to take advantage of a ranger racial trait. What must be true for this rules application to apply?",
+    "answer": "For Vex to gain the benefits of favored terrain she must be in her favored terrain of mountains.",
+    "rules": [
+      "Ranger > Favored Enemy and Natural Explorer"
+    ],
+    "rules_explanation": "The Ranger Favored Enemy feature and Natural Explorer feature have separate and distinct triggers. Natural explorer grants special bonuses only while in a ranger's favored terrain. The DM must verify that the ranger is in terrain that has been designed as their favored terrain for the purpose of this ability."
+  },
+  {
+    "question": "Does the rogue gain advantage on skill checks due to being in their favored terrain?",
+    "answer": "No. Having a skill in a specific terrain type does not grant advantage on a skill check.",
+    "rules": [
+      "Ranger > Favored Enemy and Natural Explorer"
+    ],
+    "rules_explanation": "The Ranger Natural Explorer feature grants special bonuses only while in a ranger's favored terrain. The Natural Explorer feature does not grant skill proficiency, it only allows the proficiency to have double proficiency bonus applied to the roll. Also, it does not confer the advantage condition on checks made in that terrain."
+  },
+  {
+    "question": "Does a class/race/level red dragon have a damage vulnerability to cold damage?",
+    "answer": "No, red dragons have an immunity to fire damage.",
+    "rules": [
+      "Dragonborn > Draconic Ancestry"
+    ],
+    "rules_explanation": "According to the Draconic Ancestry table, red dragons have a damage immunity to fire. They do not have any vulnerability to cold or any other kind of damage."
+  },
+  {
+    "question": "Can the dragon slayers send a message to one another on different planes?",
+    "answer": "It is possible for Allura to send messages across the planes to known individuals.",
+    "rules": [],
+    "rules_explanation": "The rules do not explicitly state this - the DM is making a ruling based on game and story context."
+  },
+  {
+    "question": "Allura can send multiple messages at a higher level, so is that possible? The Clasp? If the dragon leaves the city, won't they find it out? She can still do one extra message",
+    "answer": "No, Allura can send messages across the planes 3 times.",
+    "rules": [],
+    "rules_explanation": "The rules do not explicitly state this - the DM is making a ruling based on game and story context."
+  },
+  {
+    "question": "After taking a short rest a class/race/level character removes the coldsnap armor and puts away the cloak while attuning the Bracers of Archery. How long does that take?",
+    "answer": "It takes a short rest to perform that activity.",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "Multiple attunements or unattunements cannot be done within a single short rest - each individual attunement takes the entire duration of the short rest."
+  },
+  {
+    "question": "If a character has two bows that are awesome, and attuned to both, how easy is it to switch in battle?",
+    "answer": "You can wield only one bow at a time, and switching the bow to be wielded from one's back takes an action.",
+    "rules": [],
+    "rules_explanation": "DM Ruling/judgement. Based on context, there's nothing in the rules that speaks to switching between weapons on your back (ready to be wielded), but it is assumed that it takes at least one action to switch out."
+  },
+  {
+    "question": "When an attack rolls on the d20 and results in a 20, and the game specifies that the attack is a critical hit, and the red dragon is targeted does cold damage matter to the results of this attack?",
+    "answer": "The critical hit will still deal normal damage because red dragons only have fire resistance.",
+    "rules": [
+      "Monsters > Dragons > Red Dragon"
+    ],
+    "rules_explanation": "Damage Vulnerabilities and Damage Resistance both modify final damage dealt *after* the attack roll confirms the action takes place. In this case, the Red Dragon's fire resistance will take effect, but any cold damage the red dragon takes is not affected by a damage vulnerability since it doesn't possess one."
+  },
+  {
+    "question": "A 9th level bard casts Dominate Monster with a Charisma modifier of +5. What die is used to roll, what is the DC, what is the modifier, what ability is targeted, what skill is used, and what determines whether the cast hits?",
+    "answer": "The target has to make a Wisdom saving throw with a DC 15.",
+    "rules": [
+      "Bard > Spellcasting"
+    ],
+    "rules_explanation": "The check to resist the dominate monster spell is a wisdom saving throw (targeted ability not skill) with a difficulty class based on the caster's skill with spell casting as calculated: 8 + proficiency bonus + spellcasting ability modifier"
+  },
+  {
+    "question": "If a barbarian enters a rage, and is under the charm condition, what condition effects does the barbarian have?",
+    "answer": "The barbarian enters their rage, suppressing the charmed condition for the duration of the rage.",
+    "rules": [
+      "Barbarian > Path of the Berserker > Mindless Rage"
+    ],
+    "rules_explanation": "The barbarian's Mindless Rage ability means they can't be charmed while raging. The effect is suspended for the duration of the rage."
+  },
+  {
+    "question": "Does the skill Keyleth want to build for is large physical activity with tools, do advantage apply, and what will the die roll with to tell if it is a successful tinkering check?",
+    "answer": "The tinkering check uses Strength, you get advantage and the roll is 25.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Advantage and Disadvantage"
+    ],
+    "rules_explanation": "DM Rules/judgements. This was a DM ruling/explanation about advantage applying, but it is not explicitly in the rules."
+  },
+  {
+    "question": "What happens if two people with a ring of plane shifting teleport to another plane, and those rings do not make it here to allow them to return. Can the players send messages to each other across the planes, and what can this cause?",
+    "answer": "No, the Gatestone does not work across planes, but a 7th level spell, used three times is available for sending a message. The man will stay to maintain illusion of place for his comrades, and the message to bring another here.",
+    "rules": [],
+    "rules_explanation": "DM Ruling/judgement. It is a judgement call to determine other wise, and determine the best course of action in game play. Not specified in the rules."
+  },
+  {
+    "question": "A druid with the plane shift spell uses a standard action to transport players, is this allowed?",
+    "answer": "Yes, this is allowed using the standard rule of teleportation.",
+    "rules": [
+      "Spellcasting > Casting Time"
+    ],
+    "rules_explanation": "The plane shift action allows players to travel instantly to a location, as said and detailed in the player handbook."
+  },
+  {
+    "question": "What happens when a barbarian has been attacked by a demon and has taken some psychic damage to them at the time from a soul gem?",
+    "answer": "That was a lot, and some of you are already damaged, and the barbarian has a vulnerability from their own choice.",
+    "rules": [],
+    "rules_explanation": "DM ruling/judgement. Just an acknowledgement and story telling from Matt not following the exact game play rules. In character with NPC."
+  },
+  {
+    "question": "A class/race/level character cast protection from energy on themselves for fire as they enter the city of brass. Do any adjustment to the roll of that action?",
+    "answer": "No.",
+    "rules": [
+      "Spells > Protection from Energy"
+    ],
+    "rules_explanation": "Spell has been cast by a player. The outcome or adjustments made can change based on the spell itself in some situations."
+  },
+  {
+    "question": "At the time the caster can only target up to three creatures, would the total number of 500 damage still get divided among the creatures to target with an attack if they have immunity?",
+    "answer": "If a character has the spell, and it has been stated to give an effect, then the effects are what is stated. No damage, no nothing.",
+    "rules": [],
+    "rules_explanation": "DM clarification - answering and clarifying how their game play with work. It is their table, their rules."
+  },
+  {
+    "question": "Is it a one minute process to switch between them that he can't see in?"
+  },
+  {
+    "question": "The level 7 cleric attempts a Hold Person spell against two large fiends, are they affected?",
+    "answer": "No, hold person only affects humanoids",
+    "rules": [
+      "Spells > Hold Person"
+    ],
+    "rules_explanation": "The spell description for Hold Person lists that it affects Humanoids only."
+  },
+  {
+    "question": "A warlock is told by a DM to keep a note of horns noises, as this is adding to his power, and does that affect the game play of something, like Thordak?",
+    "answer": "The DM has said, that is more hit points on Thordak. Keep a tally.",
+    "rules": [],
+    "rules_explanation": "DM Rules/judgement. The DM has not specified that this will modify game play/rules, but it is the table the have set for their game."
+  },
+  {
+    "question": "Can a class/race/level character can use his action to tip his beret to say good day to both the efreetis, as a sign of respect, because his work here is done, and teleport into the alley where his allies went?",
+    "answer": "It can use the action as described in the spell effect and do the stealth roll, to move into the alley with their friends.",
+    "rules": [
+      "Spells > Dimension Door"
+    ],
+    "rules_explanation": "By using the action Dimension Door, a spell-caster can be immediately teleported to a long distance, and a stealth role would allow the person to move in complete invisibility to an unknown person."
+  }
+]

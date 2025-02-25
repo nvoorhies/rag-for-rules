@@ -1,0 +1,28 @@
+[
+  {
+    "question": "A level 4 Pegasus character with an unknown body roll and 3 on a d6 roll to control weather and the player wants to know what flying ability die to use when doing so.  The SRD contains the information 'That's a d6 for flying.' Does this refer to flying as a skill or something else?",
+    "answer": "The correct flying ability die to roll is a d6.",
+    "rules": [
+      "Races Racial Traits"
+    ],
+    "rules_explanation": "The rule states that the racial traits include the character's speed. In this instance, 'That's a d6 for flying' refers to the die type associated with the 'flying' talent, which affects the success of actions related to that talent.  No other rules apply in this case."
+  },
+  {
+    "question": "When a level 4 Unicorn character with 2 mind makes a mind test and rolls the maximum, getting a 6 on a d6, what is the next die size to roll for an exploding dice mechanic?",
+    "answer": "The next dice to roll is a d8.",
+    "rules": [],
+    "rules_explanation": "There is no explicit rule in the provided SRD about \"exploding dice\", where rolling a max value on a die allows you to roll the next die size. This appears to be a custom rules the GM is using."
+  },
+  {
+    "question": "Level 4 character wants to reroll the die roll again as the result was unsatisfactory, but still has a single friendship token, what should happen?",
+    "answer": "The character rerolls the d8.",
+    "rules": [],
+    "rules_explanation": "This is based on the custom 'friendship token' rule established by the GM."
+  },
+  {
+    "question": "Level 4 character has gained an additional talent, of empathy, what is the size of die that applies to this talent?",
+    "answer": "The die size for the new talent is d4.",
+    "rules": [],
+    "rules_explanation": "This is based on the custom rule the GM is using when he states, 'It's all d4 for these new talents.'"
+  }
+]

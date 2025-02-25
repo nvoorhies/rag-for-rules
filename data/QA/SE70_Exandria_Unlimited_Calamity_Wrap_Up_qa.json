@@ -1,0 +1,16 @@
+[
+  {
+    "question": "Aabria Iyengar says about a wizard 14/Arcane Abjuration/Arcane Adept level character with Tough feat: \"Yeah, plus that little workaround to rebuild the Arcane Ward with an Eldritch Adept feat.\" Which rule allows the Eldritch Adept feat to be used to rebuild an Arcane Ward?",
+    "answer": "This cannot be answered from the SRD as the Eldritch Adept feat and rebuilding an Arcane Ward is not described in the SRD.",
+    "rules": [],
+    "rules_explanation": "The Eldritch Adept feat and the phrase \"rebuild the Arcane Ward\" are not part of the SRD documents provided, and thus this cannot be looked up."
+  },
+  {
+    "question": "LOU: I know people were rolling insight checks to figure out if I was telling the truth or not and you could tell I was lying and you didn't ask about it. Which section describes how to make an insight check?",
+    "answer": "The rules for insight checks are not in the SRD without having to do with a mechanic. A successful check might reveal that a person is lying or attempting to mislead you.",
+    "rules": [
+      "Skills > Wisdom > Insight"
+    ],
+    "rules_explanation": "You can make a Wisdom (Insight) check to determine whether someone is lying or attempting to mislead you. An insight check involves gleaning clues from body language, speech habits, and changes in mannerisms. The rules do not explain if it is possible to determine whether the results of an insight check are true."
+  }
+]

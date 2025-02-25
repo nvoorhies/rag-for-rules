@@ -1,0 +1,120 @@
+[
+  {
+    "question": "Can high heeled boots apply a disadvantage to the Fire Genasi Monk's Monk's skill checks?",
+    "answer": "There is no general rule that high heeled boots apply a disadvantage to the Fire Genasi Monk's Monk's skill checks",
+    "rules": [],
+    "rules_explanation": "There is no rule mentioned in the SRD about high heels giving disadvantage to skill checks."
+  },
+  {
+    "question": "Can [lvl 3 Firbolg Druid] use a Charisma check?",
+    "answer": "Yes. For the roll, roll 1d20 and add the appropriate Charisma modifier.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Ability Scores > Charisma"
+    ],
+    "rules_explanation": "The player chooses to use a Charisma check. A d20 is rolled and the appropriate ability modifier is added to the roll."
+  },
+  {
+    "question": "Does the DM have to roll for a Guiding Bolt spell, if not how does it work?",
+    "answer": "To cast Guiding Bolt, you must make a ranged spell attack against the target.",
+    "rules": [
+      "Spellcasting > Attack Rolls"
+    ],
+    "rules_explanation": "Guiding Bolt requires a ranged spell attack"
+  },
+  {
+    "question": "When [lvl 5 Blood Hunter Werebear] is attempting to jump can she do it with intelligence?",
+    "answer": "No, jumping requires a Strength (Athletics) check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Strength > Athletics",
+      "Using Ability Scores > Ability Checks > Dexterity > Acrobatics"
+    ],
+    "rules_explanation": "The gamemaster requests an athletics check to make the jump, the check required can't be changed to intelligence, or a separate skill.  "
+  },
+  {
+    "question": "How does the Attack of Opportunity action work?",
+    "answer": "You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack occurs right before the creature leaves your reach.",
+    "rules": [
+      "Combat > Actions in Combat > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "The rules specify that the Attack of Opportunity action allows you to use a reaction to make one melee attack when a hostile creature leaves your reach."
+  },
+  {
+    "question": "As a reaction can you half the amount of damage that you receive with Uncanny Dodge, or do you have to do so ahead of the roll?",
+    "answer": "Yes, as a rogue, as a reaction, you can halve the damage, Uncanny Dodge, to yourself.",
+    "rules": [],
+    "rules_explanation": "While this rule is mentioned in the SRD there does not appear to be a rogue class with these abilities in the SRD reference, so this is not extracted."
+  },
+  {
+    "question": "If a character is blinded does that apply to you, disadvantage for rolling to attacks, does it also apply to disadvantage when using a constitution save?",
+    "answer": "Being blinded only imposes disadvantage on attack rolls and ability checks that rely on sight. It does not impose disadvantage on Constitution saving throws.",
+    "rules": [
+      "Appendix PH-A > Conditions > Blinded",
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The blinded condition from the SRD imposes a disavantage on attacks rolls and ability checks, but says nothing about imposing a disadvantage on constitution saving throws"
+  },
+  {
+    "question": "Can you recast call lightning each round and how does this work?",
+    "answer": "Yes. Once cast as an action it is sustained, \"On each of your turns, you can use you action to call down lightning this way again, targeting the same point or a different one?!\"",
+    "rules": [
+      "PH > Spell Descriptions > Call Lightning (3rd-level conjuration)"
+    ],
+    "rules_explanation": "The DM refers to the rules for Call Lightning."
+  },
+  {
+    "question": "if I want to hold an action without declaring what I need to do is this possible?",
+    "answer": "No, I would need to know what action you're holding. It can be just an attack, a spell, it could be anything, but I kind of need to know what you're holding.",
+    "rules": [
+      "Combat > Actions in Combat > Ready"
+    ],
+    "rules_explanation": "To ready an action you must declare what perceivable circumstance will trigger your reaction and the action you will take in response."
+  },
+  {
+    "question": "Are there rules about knowing what ones jump range is?",
+    "answer": "A long jump is 20 feet for you.",
+    "rules": [
+      "Using Ability Scores > Movement"
+    ],
+    "rules_explanation": "The GM decides to reference his quick notes about movement, this is not in the SRD document"
+  },
+  {
+    "question": "If character use a spell or bonus action can you also use unarmed strikes at the same time?",
+    "answer": "No, not if you've made a spell attack. But you can even use ki points for other things, like Patient Defense, Step of the Wind.",
+    "rules": [],
+    "rules_explanation": "The GM makes a judgment about the action in this particular circumstance."
+  },
+  {
+    "question": "If a creature is in a situation to use a half cover how much does the AC bonus go up?",
+    "answer": "A target with half cover has a +2 bonus to AC and Dexterity saving throws.",
+    "rules": [
+      "Combat > Cover"
+    ],
+    "rules_explanation": "The rules for cover state the modifiers added to AC based on the degree of cover."
+  },
+  {
+    "question": "While falling, do you use an acrobatics check?",
+    "answer": "No you use a reaction, that's what you are doing with Slow Fall.",
+    "rules": [
+      "Combat > Movement > Falling > Reactions >"
+    ],
+    "rules_explanation": "Rules related to what actions are appropriate when falling"
+  },
+  {
+    "question": "Am I still concentrating on the spell if you Wild Shape?",
+    "answer": "Yes you are. But it was actually a moot point, as intermission ended the spell.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The Dungeon Master refers to the rules on concentration, in the end it does not matter as the 5 minute break would have automatically broken concentration."
+  },
+  {
+    "question": "Can Nila speak while in frog form?",
+    "answer": "No, she cannot.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Components > Verbal",
+      "Spellcasting > Wild Shape > While you are transformed, the following rules apply > You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form."
+    ],
+    "rules_explanation": "The effect of Wild Shape limits the capability to speak if the beast form cannot speak."
+  }
+]

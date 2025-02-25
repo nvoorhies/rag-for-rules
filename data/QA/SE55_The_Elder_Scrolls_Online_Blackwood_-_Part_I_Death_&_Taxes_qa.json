@@ -1,0 +1,84 @@
+[
+  {
+    "question": "For the intimidation and persuasion check, what modifiers are applied to the 1d20 roll for each character",
+    "answer": "The rules for that dice roll do not have the answer.",
+    "rules": [],
+    "rules_explanation": "Not a rules question"
+  },
+  {
+    "question": "What is the armor class of Aabria's Level, race, class, with a shield?",
+    "answer": "The armor class is 16.",
+    "rules": [
+      "Monsters > Special Traits > Armor Class"
+    ],
+    "rules_explanation": "The Armor Class is explicitly defined."
+  },
+  {
+    "question": "If Aabria's Level, race, class, Backlash hits for 4 points of fire damage and they're doomed until the end of the next turn, what will be the effect of that status?",
+    "answer": "While doomed, the target of the Backlash will take additional damage when hit.",
+    "rules": [],
+    "rules_explanation": "It describes the status effect and how the damage is applied to it."
+  },
+  {
+    "question": "If an item is not a success, how does it return?",
+    "answer": "It's just, it's rolled away. You have to go retrieve it now.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master determines this is the outcome."
+  },
+  {
+    "question": "If Level class is successful, what action does the Hungry Scythe do and what type of damage does it deal?",
+    "answer": "The roll's purpose is to heals another character.",
+    "rules": [],
+    "rules_explanation": "The rules for that dice roll do not have the answer."
+  },
+  {
+    "question": "Can multiple bonuses be stacked to attack?",
+    "answer": "No, your proficiency bonus can't be added to a single die roll or other number more than once.",
+    "rules": [
+      "Using Ability Scores > Proficiency Bonus"
+    ],
+    "rules_explanation": "The Proficiency bonus is only added once to a die roll."
+  },
+  {
+    "question": "Does that carry through just 'til the next time something attacks me?",
+    "answer": "Yeah",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master makes this judgement."
+  },
+  {
+    "question": "Are we allowed to restore our (vague Spanish accent) magicka and stamina?",
+    "answer": "Yes, yes.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master makes this judgement."
+  },
+  {
+    "question": "Does the 10% additional damage for the hit of this character with the new weapon that it is currently wielding?",
+    "answer": "You are correct if you add plus two to hit and damage with the new weapon.",
+    "rules": [],
+    "rules_explanation": "The rules for that dice roll do not have the answer."
+  },
+  {
+    "question": "The next time I have to fight someone and bounce them out, I'll go behind the bar and you can do the murder part. And you just keep it up, just yeah.",
+    "answer": "The rules for this statement are not found in the SRD",
+    "rules": [],
+    "rules_explanation": "Not a rules question"
+  },
+  {
+    "question": "If Level, class use a reaction, what do they have left for their bonus action?",
+    "answer": "No, you have already used both, so it is complete.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master makes this judgement."
+  },
+  {
+    "question": "If this is not a melee attack. It is Sun Fire. No.",
+    "answer": "Because is not a melee attack, there is no effect",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master makes this judgement."
+  },
+  {
+    "question": "Does that carry through just 'til the next time something attacks me?",
+    "answer": "Until the next short rest, essentially.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master makes this judgement."
+  }
+]

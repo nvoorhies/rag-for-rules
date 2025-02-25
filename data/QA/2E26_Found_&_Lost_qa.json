@@ -1,0 +1,106 @@
+[
+  {
+    "question": "For the level 3 wizard casting find familiar, and choosing to turn Frumpkin into a peregrine falcon, is a perception check required from a bird's eye view, and does this make the perception check easier?",
+    "answer": "Yes, a perception check from a bird's eye view is required for the spell, and it is at the Dungeon Master's discretion whether to make it easier.",
+    "rules": [
+      "Spellcasting > Casting a Spell > Range",
+      "Using Ability Scores > Ability Checks > Passive Checks"
+    ],
+    "rules_explanation": "Perception checks are required by the Dungeon Master when it makes sense for the character to make a roll for an action, and perception is a Wisdom-based skill, and the spell does not give specific instructions for the spell's usage."
+  },
+  {
+    "question": "If the character wants to strap Jester's shield to the side of a horse to carry Jester's equipment is that permissible?",
+    "answer": "Yes, that is permissible.",
+    "rules": [
+      "Equipment"
+    ],
+    "rules_explanation": "The carrying capacity rule does not prevent the character from strapping equipment to the side of a horse"
+  },
+  {
+    "question": "If a level 3 monk used a ki point to stun an Insectoid, does the attacker have advantage on attacks while it is stunned?",
+    "answer": "Yes, attackers would have advantage on attacks against the Insectoid while stunned.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation": "The stunned condition specifies that attack rolls against the stunned creature have advantage."
+  },
+  {
+    "question": "If a party member is under the Haste spell and uses three base attacks, do they then get two more attacks from flurry of blows?",
+    "answer": "Yes, three base attacks from Haste, then two attacks from Flurry of Blows.",
+    "rules": [
+      "Classes > Monk > Class Features > Ki > Flurry of Blows"
+    ],
+    "rules_explanation": "Flurry of blows specifically grants two additional attacks as a bonus action, regardless of how many attacks the character has from other sources."
+  },
+  {
+    "question": "If a level 3 wizard casts detect magic as a ritual, how long does it take to cast?",
+    "answer": "The ritual takes 10 minutes to cast.",
+    "rules": [
+      "Spellcasting > Rituals"
+    ],
+    "rules_explanation": "Ritual spells take an additional 10 minutes longer to cast, and the base spell casting time is 1 action."
+  },
+  {
+    "question": "When a level 3 Warlock casts the Slow spell, do they need to roll to give those affected disadvantage on their saving throws or is it applied automatically?",
+    "answer": "No roll is needed to give those affected the effects of slow, they need to roll to avoid being affected in the first place. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.",
+    "rules": [
+      "Spell Descriptions > Slow"
+    ],
+    "rules_explanation": "The spell's description clearly states that each target must make a Wisdom saving throw to avoid being affected by the spell's effects. If they fail, they suffer the listed consequences"
+  },
+  {
+    "question": "Can a level 3 wizard use Haste, to cast three fireballs per turn?",
+    "answer": "No. The additional action granted by Haste can only be used for a single weapon attack (not the Attack action), Dash, Disengage, Hide, or Use an Object.",
+    "rules": [
+      "Spellcasting > Bonus Action",
+      "Spell Descriptions > Haste"
+    ],
+    "rules_explanation": "While Haste grants an additional action, it limits the use of that action specifically. The action cannot be used to Cast a Spell."
+  },
+  {
+    "question": "Does the spell caster have to have the light spell listed to use a lantern or torch to provide light?",
+    "answer": "No spell is required. Torches, lanterns, and other sources of illumination are equipment. Bright light lets most creatures see normally.",
+    "rules": [
+      "The Environment > Vision and Light"
+    ],
+    "rules_explanation": "This section describes how torches and lanterns are examples of what provides bright light."
+  },
+  {
+    "question": "Can a character with Haste use their extra action to use a reaction?",
+    "answer": "No. The additional action granted by Haste can only be used for a single weapon attack (not the Attack action), Dash, Disengage, Hide, or Use an Object.",
+    "rules": [
+      "Spell Descriptions > Haste"
+    ],
+    "rules_explanation": "While Haste grants an additional action, it limits the use of that action specifically, not including use of a reaction."
+  },
+  {
+    "question": "When a character casts the Invisibility spell, for one hour, does this require concentration?",
+    "answer": "Yes, it requires Concentration, up to 1 hour.",
+    "rules": [
+      "Spell Descriptions > Invisibility"
+    ],
+    "rules_explanation": "Each spell description begins with a block of information, including the spell's name, level, school of magic, casting time, range, components, and duration. The Invisibility spells description lists that it requires concentration."
+  },
+  {
+    "question": "If multiple area spells are centered on the same target area, does the target take each spell's damage?",
+    "answer": "The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap.",
+    "rules": [
+      "Spellcasting > Combining Magical Effects"
+    ],
+    "rules_explanation": "The area spells are the same in the hypothetical. With each cast the most potent effect will apply."
+  },
+  {
+    "question": "In a combat, if a player says they want to move while keeping an eye on the horizon is this allowed?",
+    "answer": "Yes, this is generally allowed. However, there are some restrictions. Travel speeds are assumed to be simple terrain. It is harder to perceive things at a distance if travelling at a fast pace.",
+    "rules": [
+      "Adventuring > Movement > Travel Pace"
+    ],
+    "rules_explanation": "You may chose the pace to balance speed and awareness of your surroundings"
+  },
+  {
+    "question": "If you've taken a short rest, but didn't explicitly say you have taken the short rest before you went to bed, do you get the benefits?",
+    "answer": "The Dungeon Master is allowed to grant the benefits of a short rest retroactively, but the short rest must be called out.",
+    "rules": [],
+    "rules_explanation": "The Dungeon Master is the final authority"
+  }
+]

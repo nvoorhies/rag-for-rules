@@ -1,0 +1,282 @@
+[
+  {
+    "question": "After using Telekinesis to tear the horn from K'varn's forehead, the level, class, race, with Telekinesis, is still maintaining the spell. Can they take another action?",
+    "answer": "No, the level, class, race has already used their action to use Telekinesis.",
+    "rules": [
+      "Combat > The Turn > Actions"
+    ],
+    "rules_explanation": "The SRD states clearly that you only have 1 action per turn, unless a spell specifically says it requires a bonus action. The level, class, race has already used their action to use Telekinesis."
+  },
+  {
+    "question": "The level 10, race, class used telekinesis to attempt to crush the horn of Orcus. Is the character adding anything to the roll?",
+    "answer": "The character is adding their spellcasting modifier, which is five.",
+    "rules": [
+      "Spellcasting > Spell Attack Rolls"
+    ],
+    "rules_explanation": "The rules for spellcasting attack rolls use the spellcasting ability modifier of the character, and is stated that it should be added here."
+  },
+  {
+    "question": "The level 6, race, class is in combat. The text says it is stunned, what saving throw can that character make?",
+    "answer": "The level 6, race, class, is stunned, so they make an intelligence saving throw.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned",
+      "Spellcasting > Range > Target"
+    ],
+    "rules_explanation": "The game master specified that an intelligence saving throw should be made. If the conditions say that something else should be rolled it will be detailed there. The rules for spellcasting specifies that for effects that act upon a target, the target must be able to see you."
+  },
+  {
+    "question": "The Level 5, class, race rogue with the Boots of Haste rushes past an enemy. How many attacks does the character get?",
+    "answer": "The character gets three attacks if they use their bonus action to attack.",
+    "rules": [
+      "Class Features > Rogue > Cunning Action",
+      "Class Features > Fighter > Extra Attack"
+    ],
+    "rules_explanation": "The core rogue and extra attack rules say they get one extra attack.  The quickling ability provides an additional action, which can be used to attack."
+  },
+  {
+    "question": "A level 5, class, race rogue casts a spell, and in the same turn does a Sneak Attack; does the spell affect Sneak Attack?",
+    "answer": "No. The spell attack does not affect Sneak Attack",
+    "rules": [
+      "Class Features > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The SRD specifies that the attack must use a finesse or ranged weapon, and the weapon must be an attack"
+  },
+  {
+    "question": "The level 5, class, race rogue is next to an enemy currently being grappled and will try to hit him. Does the character get a sneak attack?",
+    "answer": "Yes. The rogue can use Sneak Attack as the target is within 5 feet of an ally of the rogue that isn't incapacitated and the rogue doesn't have disadvantage on the attack roll.",
+    "rules": [
+      "Class Features > Rogue > Sneak Attack"
+    ],
+    "rules_explanation": "The rogue can use Sneak Attack if the target is within 5 feet of an ally of the rogue that isn't incapacitated and the rogue doesn't have disadvantage on the attack roll."
+  },
+  {
+    "question": "The Level 5, class, race rogue casts a spell, and, in the same turn, wants to disengage; can the character do so?",
+    "answer": "Yes. The rogue can disengage using Cunning Action.",
+    "rules": [
+      "Class Features > Rogue > Cunning Action"
+    ],
+    "rules_explanation": "Cunning Action allows the rogue to take a bonus action on each of its turns to use the Dash, Disengage, or Hide action."
+  },
+  {
+    "question": "The level 6, race, cleric with the War God's Blessing is stunned; can the character use that blessing?",
+    "answer": "No. A character can only use a reaction when they are not stunned.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation": "The Stunned condition prevents a creature from taking actions *or reactions*."
+  },
+  {
+    "question": "If the party has no means to teleport, how long would it take them to get from the temple to Emon, based on the fact that the text mentioned it is an hour's walk from Greyskull Keep, and that you can choose to travel at three different speeds?",
+    "answer": "It depends on their pace: At a normal pace, it would take them an hour; At a fast pace, it would take them 45 minutes; At a slow pace, it would take them 1 hour and 20 minutes.",
+    "rules": [
+      "Adventuring > Travel Pace"
+    ],
+    "rules_explanation": "A normal pace is 3 miles per hour; a fast pace is 4 miles per hour; and a slow pace is 2 miles per hour, so it should only take a few hours."
+  },
+  {
+    "question": "The Level 5, class, race barbarian is under the grappled condition; what check must the character make to escape?",
+    "answer": "The barbarian must make an athletics check.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "The rule states that a grappled creature can use its action to escape and must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check."
+  },
+  {
+    "question": "The Level 5, class, race barbarian with a returning weapon makes a ranged attack and wants to get his weapon back. The target is incapacitated; what check must the character make to retrieve the weapon?",
+    "answer": "The barbarian rolls a d20 to retrieve the weapon.",
+    "rules": [
+      "Equipment > Weapons > Weapon Properties > Returning"
+    ],
+    "rules_explanation": "The rules for magical weapons will describe the details."
+  },
+  {
+    "question": "The party has two illithids at the top of the stairs; a level 5, class, race wants to use the Lighting Lure spell; what kind of saving throw can the illithids make?",
+    "answer": "Each target must make a Strength saving throw",
+    "rules": [
+      "Spell Descriptions > Lightning Lure"
+    ],
+    "rules_explanation": "Looking at the description of Lightning Lure the saving throw should be added to the damage."
+  },
+  {
+    "question": "A character cast Control Water on an Elder Brain. The Dungeon Master asks whether it is allowed and what is the correct result. What check must the character make?",
+    "answer": "The character must make a d20 plus wisdom check",
+    "rules": [
+      "Spell Descriptions > Control Water"
+    ],
+    "rules_explanation": "The rules for spellcasting specifies that to attempt to do something, you must make a check."
+  },
+  {
+    "question": "A Level 6, class, race rogue is hiding from a few enemies. In the same round the ranger moved the magic carpet to the top of the temple so it can't hurt Vax. On the next round, the ranger wants to lower the carpet so Vax and the rogue can get on it. What checks do the rogue need to do, and what can the GM do with the enemies?",
+    "answer": "The rogue only needs to maintain the previous check, as long as the lighting and situation are the same.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Hiding",
+      "The Environment > Vision and Light > Lightly or Heavily Obscured"
+    ],
+    "rules_explanation": "Characters need to repeat the stealth check when the visibility changes. Hiding from someone requires you to take an action"
+  },
+  {
+    "question": "When Vex releases Hail of Thorns, which deals damage in a 5-foot radius, does Keyleth who is next to it also takes that amount of damage?",
+    "answer": "Keyleth needs to make a saving throw, and if they fail, they take the same amount of damage, or half damage if it is successful",
+    "rules": [
+      "Spell Descriptions > Hail of Thorns"
+    ],
+    "rules_explanation": "The text mentions that any creature within five feet should make a saving throw for half damage."
+  },
+  {
+    "question": "Keyleth slams into a stone doorway, as an Earth Elemental. Does the character roll damage?",
+    "answer": "Yes, the damage is added by both the roll and the siege damage.",
+    "rules": [
+      "Class > Druid > Wild Shape",
+      "Spell Descriptions > Elemental Form"
+    ],
+    "rules_explanation": "The Elemental Form states that siege damage should be added when appropriate."
+  },
+  {
+    "question": "Keyleth is an earth elemental and slams a doorway. Which check is done for this event?",
+    "answer": "Slam or attack roll on the wall, then strength check",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls",
+      "Combat > The Turn > Actions"
+    ],
+    "rules_explanation": "The first slam should check if the character hits, by comparing the check with AC. To check structural damage, you can use a Strength check."
+  },
+  {
+    "question": "The text mentions that something that has attunement takes a short rest, how long does it take?",
+    "answer": "Attuning to an item takes a short rest",
+    "rules": [
+      "Magic Items > Attunement"
+    ],
+    "rules_explanation": "To atune to a weapon, the SRD states that you need to spend time, and be next to it"
+  },
+  {
+    "question": "When is a character able to split up their movement?",
+    "answer": "Characters are able to break up the movement to go before or after an action, as the player sees fit.",
+    "rules": [
+      "Combat > Movement and Position > Breaking Up Your Move"
+    ],
+    "rules_explanation": "The text mentions that you are able to take segments of the movement."
+  },
+  {
+    "question": "In general combat, is a character able to talk?",
+    "answer": "Yes, a character is able to talk.",
+    "rules": [
+      "Combat > Your Turn > Other Activity on Your Turn"
+    ],
+    "rules_explanation": "The srd says that the character is able to shout and converse."
+  },
+  {
+    "question": "If a character fails a death saving throw, what happens?",
+    "answer": "A death saving throw is recorded as a failure.",
+    "rules": [
+      "Combat > Knocking a Creature Out"
+    ],
+    "rules_explanation": "If a character rolls a failure, then it goes closer to death"
+  },
+  {
+    "question": "When the dragonborn is in the air and not connected to the structure, what is the fall speed?",
+    "answer": "500 feet",
+    "rules": [
+      "The Environment > Falling"
+    ],
+    "rules_explanation": "Characters fall 500 feet"
+  },
+  {
+    "question": "What are the details of a superior healing potion?",
+    "answer": "A superior healing potion heals for 8d4+8",
+    "rules": [
+      "Equipment > Potions > Potion of Healing"
+    ],
+    "rules_explanation": "This can be found in the SRD's potion description."
+  },
+  {
+    "question": "When rolling a cone attack, is there an attack roll that is needed?",
+    "answer": "There is no attack roll that is needed, because it is considered a saving throw.",
+    "rules": [
+      "Combat > Making an Attack",
+      "Spellcasting > Areas of Effect"
+    ],
+    "rules_explanation": "If a roll is needed to check if a cone attack hits, then it would be specified. In this case, it requires saving throws."
+  },
+  {
+    "question": "A number of enemies are charmed due to an enchantment. If the spell ends, are those charmed characters going to be automatically hostile?",
+    "answer": "Unless specified the result should be handled by the GM",
+    "rules": [
+      "Spell Descriptions > Charm",
+      "The Planes of Existence > Outer Planes"
+    ],
+    "rules_explanation": "The plane and spell are done, how a person reacts to the effects are over are entirely dependant on GM choices and story choices, or specified in the text"
+  },
+  {
+    "question": "If a paladin cast Mass Cure Wounds on themselves, would that be appropriate?",
+    "answer": "The character would need to cast Cure Wounds on themself, as Mass Cure Wounds is meant for multiple creatures",
+    "rules": [
+      "Class > Paladin > Spells",
+      "Spell Descriptions > Cure Wounds",
+      "Spell Descriptions > Mass Cure Wounds"
+    ],
+    "rules_explanation": "The rules describe the spells and how it may affect entities."
+  },
+  {
+    "question": "After traveling to the upper plane, how many locations can the party memorize for Teleportation Circle?",
+    "answer": "2 locations",
+    "rules": [
+      "Spell Descriptions > Teleportation Circle"
+    ],
+    "rules_explanation": "When I learned it I get to pick two locations that I know innately."
+  },
+  {
+    "question": "The party just hit a major baddie, with the help of the vermillion bird, and they want to do a high-five. Should this be appropriate?",
+    "answer": "This is up to GM discretion. As the rule books are silent.",
+    "rules": [],
+    "rules_explanation": "There are no hard rules, the best course of action is to have the party do what is appropriate and what the players want."
+  },
+  {
+    "question": "The thief, stealthed, is trying to unlock a complex lock; which checks are needed to do so?",
+    "answer": "A Dexterity check with thieves' tools is needed.",
+    "rules": [
+      "Equipment > Tools > Thieves' Tools"
+    ],
+    "rules_explanation": "Thieves Tools require a Dexterity check"
+  },
+  {
+    "question": "If the dragonborn cast Fly, is it to a speed outside, or inside?",
+    "answer": "60 feet is as far as you can get.",
+    "rules": [
+      "Spell Descriptions > Fly"
+    ],
+    "rules_explanation": "60 feet is the correct speed of fly."
+  },
+  {
+    "question": "Can a level 14, barbarian with Persistent Rage still be stunned?",
+    "answer": "No.",
+    "rules": [
+      "Appendix PH-A: Conditions > Stunned"
+    ],
+    "rules_explanation": "The Stunned condition specifies that a stunned creature is incapacitated, and can't move or speak. Persistent Rage does not prevent a barbarian from being incapacitated. The Incapacitated condition specifies that an incapacitated creature can't take actions or reactions."
+  },
+  {
+    "question": "The DM indicates that a skill has to be re-rolled; does that apply to the whole thing?",
+    "answer": "No, only the d20, with the ability modifiers being kept the same.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "It is a 1d20, and the rest is a modifier."
+  },
+  {
+    "question": "For the Hunter's Mark, is the damage added to everything or only the regular damage? And is it added before or after rolling for damage?",
+    "answer": "The damage is added after all the damage is dealt with the attack.",
+    "rules": [
+      "Spell Descriptions > Hunter's Mark"
+    ],
+    "rules_explanation": "The extra damage for the Hunter's Mark is added after the initial arrow damage is resolved."
+  },
+  {
+    "question": "If a rogue had already cast the Invisibility spell and wanted to get back into Stealth, what actions does the character have?",
+    "answer": "A medium rogue can move, attack, or stealth",
+    "rules": [
+      "Class Features > Rogue > Cunning Action",
+      "Spell Descriptions > Invisibility"
+    ],
+    "rules_explanation": "The rogue needs to make a stealth check using Cunning Action to reroll to gain the effect of Hiding once again"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "question": "Can someone add the plus two to strength for the dad strength I have now?",
+    "answer": "A bonus to STR for \"dad strength\" is not covered by the existing rules.",
+    "rules": [],
+    "rules_explanation": "The player is suggesting a homebrew rule which is not covered in the SRD."
+  },
+  {
+    "question": "A level 4, class Monk spends a Ki point and what is the name of the ability where I could spend a ki point and do another roll on my insight check?",
+    "answer": "Spending a ki point grants advantage on a roll, not another roll. Rerolling a dice after making the original roll is not in the rules. Advantage is gained by using the rules for \"Ki\" and applying it to the roll for the insight check.",
+    "rules": [
+      "Combat > Actions > Ability Checks",
+      "Monk > Class Features > Ki"
+    ],
+    "rules_explanation": "The player is mistaken about the interaction between Ki points and insight checks. Spending a Ki point does not allow an additional roll. It grants advantage on a roll. "
+  },
+  {
+    "question": "A level 9 Warlock casts Identify. Identify, okay. What kind of spell does a warlock have?",
+    "answer": "Identify is found on the wizard spell list, but not the warlock spell list. You cannot cast the identify spell as a level 9 warlock.",
+    "rules": [
+      "Spellcasting > Spell Lists"
+    ],
+    "rules_explanation": "You can only cast spells that are in your spell list. The Identify spell is not on the Warlock spell list in the SRD."
+  },
+  {
+    "question": "A medium sized PC is trying to hide. When she sees another PC with a bag, what does she need to do to ruin the bag?",
+    "answer": "If the Player Character wanted to ruin the haversack she would have to cut the bag, but then all of its contents would spill out and the bag would be ruined forever.",
+    "rules": [
+      "Equipment > Adventuring Gear > Bag of Holding"
+    ],
+    "rules_explanation": "The bag's description notes that the bag is destroyed if it is pierced."
+  },
+  {
+    "question": "A 10th level bard, a level 8 fighter, and a level 9 warlock make an intelligence check. After the rolls, a rules question is asked. Would a level 4 paladin roll an intelligence check?",
+    "answer": "No. The DM has specified only 3 people should roll.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling not covered in the rules."
+  },
+  {
+    "question": "Does the 9th-level Bard add one gold to their gold for this game?",
+    "answer": "The 9th level bard may add one gold piece to their currency after removing the gold coin from the envelope.",
+    "rules": [],
+    "rules_explanation": "This is a simple accounting question and depends on how the GM wants the loot to be handled."
+  },
+  {
+    "question": "A flying character is in a 10ft diameter dome. There are only 10 ft. at the top. How tall is a cleric that is touching the ceiling?",
+    "answer": "The temperature felt consistent with the temperature of the room you're in.",
+    "rules": [],
+    "rules_explanation": "This is a word play joke, as such is not found within the rules."
+  },
+  {
+    "question": "If you cut the haversack, all of its contents spill out. Can we repair after that?",
+    "answer": "No, it's doneskies.",
+    "rules": [],
+    "rules_explanation": "This is a DM judgement not specified in the SRD."
+  },
+  {
+    "question": "A 10th level bard is holding his bag up to Caduceus' hair. Does it match?",
+    "answer": "The rules do not have mechanics for determining if a bag matches a character's hair.",
+    "rules": [],
+    "rules_explanation": "This is a descriptive question about the appearance of a character in the world, not a rules-based question."
+  },
+  {
+    "question": "Can she come in?",
+    "answer": "The question can be interpreted as one regarding the game world and the social aspects of the PCs. In this context, it is up to the receiving Player Character to declare whether another character is allowed into an extradimensional space.",
+    "rules": [],
+    "rules_explanation": "This is a DM ruling not specified in the SRD."
+  },
+  {
+    "question": "Does anyone have keen memory?",
+    "answer": "It depends on the character class and feats of the other Player Characters.",
+    "rules": [],
+    "rules_explanation": "This is a question to the other players about their character sheets."
+  },
+  {
+    "question": "A person is invisible for 12 seconds from casting a spell. Can they be seen by the two people pulling up in two dark wood carriages?",
+    "answer": "If someone were to become Invisible via the Cloak of Shadows, that would indeed make them hard to spot as they can’t be seen without some special sense or magic. It gives you about 12 seconds of invisibility.",
+    "rules": [],
+    "rules_explanation": "The ruling depends on what senses are available for both parties. The duration is only until the end of your next turn."
+  },
+  {
+    "question": "A level 9 Warlock casts detect magic. Is there anything about the cart that appears magical?",
+    "answer": "Nothing about the cart appears magical.",
+    "rules": [
+      "Spellcasting > Spell Lists"
+    ],
+    "rules_explanation": "Detect Magic reveals the location of the sources of magic in the area. There are several magical items in the cart but not the cart itself."
+  },
+  {
+    "question": "A medium PC has the cloak of shadows. At the end of her next turn, will she still be invisible?",
+    "answer": "No, she would no longer be invisible due to the effects of Cloak of Shadows.",
+    "rules": [],
+    "rules_explanation": "The duration of the Cloak of Shadows is until the end of the next turn. After that, the character would no longer be invisible"
+  },
+  {
+    "question": "What is the DC to avoid being charmed by the Luring Song of a Harpy.",
+    "answer": "The DC to avoid being charmed is 11.",
+    "rules": [],
+    "rules_explanation": "The DC to avoid being charmed is listed in the Luring Song text of the Harpy's Actions"
+  }
+]

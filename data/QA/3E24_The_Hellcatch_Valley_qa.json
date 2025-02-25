@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Can the L5 Sorcerer cast a Bane at a higher level and get more targets?",
+    "answer": "Yes.",
+    "rules": [
+      "Spells > Casting a Spell > Casting a Spell at a Higher Level"
+    ],
+    "rules_explanation": "The rules for spellcasting in 5e D&D allow a spellcaster to cast a spell using a spell slot of a higher level than the spell's normal level. When a spell is cast at a higher level, its effects often improve. The spell description indicates how the spell changes based on the spell slot used."
+  },
+  {
+    "question": "If Fearne casts Entangle, does Ashton, who's making melee attacks, make Strength saves also?",
+    "answer": "Yes.",
+    "rules": [
+      "Spell Descriptions > Entangle"
+    ],
+    "rules_explanation": "The Entangle spell states \"A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants.\"  If the spell is active at the start of the caster's turn and a creature is in it's area, they must make a strength saving throw or be restrained by it."
+  },
+  {
+    "question": "Does the entangle space around the 2nd Level Druid remain entangled while she's concentrating?",
+    "answer": "Yes.",
+    "rules": [
+      "Spell Descriptions > Entangle"
+    ],
+    "rules_explanation": "The spell description states that the spell lasts for the duration, up to 1 minute with concentration."
+  },
+  {
+    "question": "Does the fact that a person is restrained by Entangle give enemies disadvantage on attacks?",
+    "answer": "No. It does not.",
+    "rules": [
+      "Appendix PH-A: Conditions > Restrained"
+    ],
+    "rules_explanation": "The description of the Restrained condition does not cause disadvantage on attacks, however \"Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.The creature has disadvantage on Dexterity saving throws. \""
+  },
+  {
+    "question": "Does the target take lightning damage from booming blade if he uses a reaction to move away from someone.",
+    "answer": "There is no mention of Booming Blade.",
+    "rules": []
+  },
+  {
+    "question": "When Imogen is bald does she get to take out her journal?",
+    "answer": "There is no specific rule to cover this situation, so the game master has to make a ruling.",
+    "rules": []
+  }
+]

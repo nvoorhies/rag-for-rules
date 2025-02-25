@@ -1,0 +1,110 @@
+[
+  {
+    "question": "What check does the DM require the barbarian (level 1) to make to avoid battle?",
+    "answer": "The DM requires the barbarian (level 1) to make a persuasion check to avoid battle.",
+    "rules": [
+      "Ability Checks > Types of Checks > Other Ability Checks: The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure."
+    ],
+    "rules_explanation": "The DM says '...avert battle through a social encounter and rolled pretty damn well on a persuasion check.' confirming that Persuasion was the ability being checked, and that the action was not an attack."
+  },
+  {
+    "question": "What is the maximum height that Grog the level 1 Goliath Barbarian can be for him to comfortably fit in the tavern?",
+    "answer": "The ceiling runs at about seven feet, so a level 1 Goliath Barbarian that is taller than this will be uncomfortable.",
+    "rules": [
+      "Races > Dwarf > Size: Dwarves stand between 4 and 5 feet tall.",
+      "Player’s Handbook, page 6: Your character’s height and weight are influenced by your race and class, but use the information there as a suggestion. You can describe your character as taller, shorter, heavier, or lighter than average"
+    ],
+    "rules_explanation": "The DM states 'The ceiling actually is considered vaulted ceiling for dwarves so it runs at about seven feet. For Grog, it's uncomfortable, almost scratching your head across the top.'"
+  },
+  {
+    "question": "What kind of check does the DM require of the level 9 ranger when questioning what schedule the dwarves have?",
+    "answer": "The DM requires the ranger (level 9) to make a straight intelligence roll.",
+    "rules": [
+      "Ability Checks > Types of Checks > Other Ability Checks: The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure."
+    ],
+    "rules_explanation": "The ranger attempts to determine the dwarves' schedule, and the DM states 'Make an intelligence check!' then later clarifies 'This would be a straight intelligence roll on this one, so your general knowledge of dwarves.'"
+  },
+  {
+    "question": "What type of saving throw does the level 9 dragonborn sorcerer make, when he steps on a rune?",
+    "answer": "The level 9 dragonborn sorcerer makes a dexterity saving throw.",
+    "rules": [
+      "Ability Checks > Saving Throws: A saving throw- also called a save - represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don't normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm."
+    ],
+    "rules_explanation": "The DM calls for a dexterity saving throw after the sorcerer steps on a rune, indicating it is a trap effect."
+  },
+  {
+    "question": "Can Taliesin, who is assisting Orion, add advantage to the roll?",
+    "answer": "Yes, Taliesin can add advantage to the roll, because he is assisting in the persuasion roll.",
+    "rules": [
+      "Ability Checks > Working Together: Sometimes two or more characters team up to attempt a task. The character who's leading the effort-or the one with the highest ability modifier can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action."
+    ],
+    "rules_explanation": "The DM states \"Make a persuasion roll. You can assist if you like.\" and then clarifies \"Yeah, so you get advantage on this roll.\""
+  },
+  {
+    "question": "When Balgus is being attacked in fog and the attacker is stealthed, is there any advantage to the attack roll?",
+    "answer": "Yes, the attacker has advantage on the attack roll because Balgus does not see the attacker, and the attacker is stealthed.",
+    "rules": [
+      "Combat > Making an Attack > Unseen Attackers and Targets: When a creature can't see you, you have advantage on attack rolls against it. ",
+      "Combat > Actions in Combat > Hide: When you take the Hide action, you make a Dexterity (Stealth) check."
+    ],
+    "rules_explanation": "It is stated that the attacker was in the fog, that the fog makes it hard to find targets, and that the attacker is stealthed, so the DM confirms he has advantage."
+  },
+  {
+    "question": "If Balgus attempts to grapple, and the defender rolled a 30 on an Acrobatics check, what happens?",
+    "answer": "The attacker fails to grapple because the defender's Acrobatics check exceeds any reasonable target.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling: When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. ... You try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use)."
+    ],
+    "rules_explanation": "It is a contested roll. The attacker does not get the target number, so the defender wins the contest."
+  },
+  {
+    "question": "The level 9 Druid uses Polymorph on the bear and then the druid changes to a bear herself; is this allowed?",
+    "answer": "No, Polymorph can not be used on an unwilling creature. Since the DM is not able to contact Trinket at that moment, they would not be able to cast the spell on it.",
+    "rules": [
+      "Spellcasting > Targets: A typical spell requires you to pick one or more targets to be affected by the spell's magic. A spell's description tells you whether the spell targets creatures, objects, or a point of origin for an area of effect."
+    ],
+    "rules_explanation": "Since the bear is not a willing target for Polymorph, it could not be cast."
+  },
+  {
+    "question": "What happens to exhaustion when there's no sun?",
+    "answer": "There is nothing in the rules about exhaustion that refers to the presence or absence of the sun. Exhaustion levels are reduced by one after finishing a long rest if the character also ingests food and drink.",
+    "rules": [
+      "Adventuring > Resting > Long Rest: Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.",
+      "Appendix PH-A > Conditions > Exhaustion: Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink."
+    ],
+    "rules_explanation": "The exhaustion rules say nothing about daylight."
+  },
+  {
+    "question": "If the characters can't see where Thompson is, what do they know about his status?",
+    "answer": "There is nothing in the description about the characters being able to determine what happened to Thompson. However, the guards say that \"He's been given the day off.\"",
+    "rules": [],
+    "rules_explanation": "There are no rules that relate to sensing the status of someone. The guards just provide information."
+  },
+  {
+    "question": "The level 9 dragonborn sorcerer attempts to Persuade the guards. How does this work?",
+    "answer": "The player rolls a d20 and adds the dragonborn sorcerer's Charisma modifier and proficiency bonus. If the total equals or exceeds the Difficulty Class for the check, the guards are persuaded.",
+    "rules": [
+      "Using Ability Scores > Ability Checks: To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success.",
+      "Skills > Charisma: Charisma measures your ability to interact effectively with others...The Deception, Intimidation, Performance, and Persuasion skills reflect aptitude in certain kinds of Charisma checks.",
+      "Leveling Up > Proficiency Bonus: Characters have a proficiency bonus determined by level."
+    ],
+    "rules_explanation": "The Persuasion skill is associated with Charisma. The sorcerer's proficiency bonus depends on character level."
+  },
+  {
+    "question": "What checks do the rogues make to pour a flask out surreptitiously when pouring the drink?",
+    "answer": "The rogue makes a Sleight of Hand check to fill his flask without being noticed.",
+    "rules": [
+      "Skills > Dexterity: Your Dexterity (Sleight of Hand) check covers your attempt to pickpocket someone or palm an object."
+    ],
+    "rules_explanation": "Filling the flask is an act of legerdemain."
+  },
+  {
+    "question": "What kind of saving throw does the Ogre make, when Keyleth throws vines to stop them?",
+    "answer": "The ogre has to make a Strength saving throw.",
+    "rules": [
+      "",
+      ""
+    ],
+    "rules_explanation": "The Entangle Spell requires a Strength saving throw"
+  }
+]

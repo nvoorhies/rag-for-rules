@@ -1,0 +1,231 @@
+[
+  {
+    "question": "The Level 8 Sorcerer/Level 11 Rogue used their action to palm the Level 4 Bard and cast heroism on them. The rogue then attacks as a bonus action. Can the Level 8 Sorcerer/Level 11 Rogue apply sneak attack damage for that attack.",
+    "answer": "No. In order to use a bonus action to attack, the Level 8 Sorcerer/Level 11 Rogue must have taken the attack action previously.",
+    "rules": [
+      "Combat > Actions in Combat > Bonus Actions"
+    ],
+    "rules_explanation": "The attack gained from the hasted action is not the 'attack action' and the ability to apply sneak attack depends on taking the 'attack action' prior to applying sneak attack damage in the same turn."
+  },
+  {
+    "question": "Can the Level 8 Sorcerer/Level 11 Rogue have two concentration spells up at the same time because of haste?",
+    "answer": "No, a creature can only concentrate on one spell at a time. Casting a second concentration spell causes you to stop concentrating on the first.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The rules state that a creature can only concentrate on one spell at a time. Casting a second concentration spell ends the first."
+  },
+  {
+    "question": "If a Level 6 Cleric has a Spiritual Weapon active and casts Aid as its action, can the cleric move the Spiritual weapon as a bonus action?",
+    "answer": "Yes. The cleric can cast the spell as an action and then use a bonus action on the same turn to move the Spiritual Weapon because Spiritual weapon was already cast before the start of the cleric's turn",
+    "rules": [
+      "Spellcasting > Casting Time > Bonus Action",
+      "Section"
+    ],
+    "rules_explanation": "The Spiritual weapon was cast as a bonus action on a previous turn and remains in play and can be used at any time, as an action or bonus action within the normal rules and restrictions of the spell. The rules state that a spell can be cast as an action and another spell as a bonus action as long as one of the spells is a bonus action. There is no restriction for bonus action spell and action spell to be cast on the same turn."
+  },
+  {
+    "question": "Can the Level 6 Barbarian use a reaction for an attack of opportunity when they broke out of a grapple that was holding them?",
+    "answer": "Yes, the Level 6 Barbarian can use their reaction for an attack of opportunity. The target is moving out of reach.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Opportunity Attacks"
+    ],
+    "rules_explanation": "An attack of opportunity occurs when a hostile creature moves out of your reach. A hostile creature is any creature that is an enemy, regardless of what they are doing, which is not superceded by any grapple rules. The grapple rules do not mention anything about surpressing reactions."
+  },
+  {
+    "question": "Can a Level 6 Barbarian's reckless attack with Great Weapon Master work on an Attack of Opporunity.",
+    "answer": "Yes. The rules for attacks of opportunity allow using any melee attack, and the Reckless Attack and Great Weapon Master abilities are not restricted to only the Attack action.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Opportunity Attacks",
+      "Barbarian > Class Features > Reckless Attack"
+    ],
+    "rules_explanation": "There is nothing restricting the use of the reckless attack and great weapon master feats on the extra attack gained by performing an attack of opportunity."
+  },
+  {
+    "question": "If a Large Pit Friend breaks out of a grapple, does this use its entire turn or can it take an action and move?",
+    "answer": "Attempting to escape a grapple uses an action. Unless the large Pit Friend has another way to act, like Action Surge, the Pit Friend would not be able to move.",
+    "rules": [
+      "Combat > Making an Attack > Melee Attacks > Grappling"
+    ],
+    "rules_explanation": "The rules for escaping a grapple state that it uses an action. The Pit Fiend would have to have another way to act to be able to both escape a grapple and perform an action"
+  },
+  {
+    "question": "Does Bigby's Interposing Hand block movement?",
+    "answer": "If a target's strength is less than or equal to the hand's strength, the target can't move through the hand.",
+    "rules": [
+      "Spell Descriptions > Bigby's Hand"
+    ],
+    "rules_explanation": "The description for Bigby's Hand indicates whether it can block movement. The hand's stats are not relevent."
+  },
+  {
+    "question": "If a Level 7 Paladin controls Pike (Level 5 Cleric), what level spell can they cast?",
+    "answer": "Pike, the Level 5 Cleric, can only cast spells up to level 3 from the perspective of the Level 7 Paladin. The level 7 Paladin does not affect the Level 5 Cleric's innate abilities.",
+    "rules": [
+      "Classes > Spellcasting > Preparing and Casting Spells"
+    ],
+    "rules_explanation": "The level 7 Paladin controlling the level 5 cleric has no impact on the spells the level 5 cleric can cast. The level 5 cleric determines what level spells are available to be cast."
+  },
+  {
+    "question": "A Level 7 paladin casts Hex and casts it so that it affects ability checks. What ability checks are impacted by the hex?",
+    "answer": "The Level 7 paladin may only choose one ability to affect. The hexed creature has disadvantage on ability checks made using the chosen ability.",
+    "rules": [
+      "Spell Descriptions > Hex"
+    ],
+    "rules_explanation": "The description of the Hex spell describes which ability checks are affected. Note that it is a different rule for ability checks than the saving throws being ability checks with Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma. It is only ability checks that are tied to a particular ability that are affected by this spell."
+  },
+  {
+    "question": "Can a paladin critical on a \"Wing Shot\" attack roll to trip up a creature that is flying?",
+    "answer": "Yes, a critical hit can be rolled on an attack roll for a \"wing shot\" attempt to drop a flying creature. An attack roll for this ability still requires a strength save.",
+    "rules": [
+      "Combat > Making an Attack > Attack Rolls > Rolling 1 or 20"
+    ],
+    "rules_explanation": "Natural 20s on an attack rolls are still critical hits. No matter what extra riders or stipulations are on that attack. The save or other checks are seperate."
+  },
+  {
+    "question": "Does darkness cast by Devil sight spell block normal darkvision from other players?",
+    "answer": "Yes, The *darkness* spell states that it blocks normal darkvision.",
+    "rules": [
+      "Spell Descriptions > Darkness"
+    ],
+    "rules_explanation": "The spell effect of *darkness* indicates it has an effect that creatures using darkvision can't see through it."
+  },
+  {
+    "question": "When Keyleth, while in Air Elemental form, casts off poison with its action, does that end her concentration or have any effect on the Sunbeam that is still active",
+    "answer": "No, polymorphing as a bonus action from an Air Elemental does not end concentration, but you need to roll a constitution saving throw if you take damage from any source.",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "The duration for concentration spells are Concentration, up to the minute. The concentration ends if she casts another spell that requires concentration, or if the conditions that break concentration were met."
+  },
+  {
+    "question": "Does Greater Healing work from Lay on Hands if you are also trying to cure poison with the same casting of Lay on Hands.",
+    "answer": "You can use 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.",
+    "rules": [
+      "Paladin > Class Features > Lay on Hands"
+    ],
+    "rules_explanation": "Lay on hands specifically calls out the ability to expend the temporary hit points to cure poison. The paladin could expend 5 to cure the poison, then the remainder to heal the target, or vice versa."
+  },
+  {
+    "question": "With the rules for 5e DnD, is it true that you can't look at the rules once your turn has started?",
+    "answer": "There is no such rule.",
+    "rules": [],
+    "rules_explanation": "There is no rule restricting looking up rules during gameplay."
+  },
+  {
+    "question": "When playing a spell cone, where do you measure from?",
+    "answer": "The cone extends in a direction you choose from its point of origin. A cone's width at a given point along its length is equal to that point's distance from the point of origin. A cone's area of effect specifies its maximum length.",
+    "rules": [
+      "Spellcasting > Targets > Areas of Effect > Cone"
+    ],
+    "rules_explanation": "Spell targets, areas of effect, and other information are described in the spell descriptions"
+  },
+  {
+    "question": "When does the Level 11 rogue apply the Aid one-time 5 hit point bonus effect to their hit points? Is it max hit points or current hit points?",
+    "answer": "The Aid spells grants a bonus to both current and maximum hit points.",
+    "rules": [
+      "Spell Descriptions > Aid"
+    ],
+    "rules_explanation": "The specific spell effect increases both your hit point max and your current hit points, therefore healing you."
+  },
+  {
+    "question": "When you have resistance to poison and you are subject to two different sources of poison damage, is the damage further reduced by two for each instance?",
+    "answer": "Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The rules indicate that there is only one application of damage resistance, regardless of the number of sources."
+  },
+  {
+    "question": "If something hits Vax and does 20 poison damage, do I need to roll 4 constitution saves to keep concentration on a spell active?",
+    "answer": "Yes, if a character takes damage from multiple sources, they make a seperate save for each source",
+    "rules": [
+      "Spellcasting > Duration > Concentration"
+    ],
+    "rules_explanation": "Each source of damage requires a seperate saving throw. "
+  },
+  {
+    "question": "Can a multi-classed Level 15 character pick up and move an unconscious party member?",
+    "answer": "Yes, a level 15 character is able to pick up a party member. There are no class or level restrictions.",
+    "rules": [],
+    "rules_explanation": "There are no rules that indicate level or class matters. Just the ability to overcome the weight and strength is all that matters."
+  },
+  {
+    "question": "What saving throw or check must be made by Grog if someone swings from the rooftops with a chain and lands on him.",
+    "answer": "This is not specified in the rules and would be up to the DM.",
+    "rules": [],
+    "rules_explanation": "There are no rules specified about this kind of event. As such, the DM would have to adjudicate the event."
+  },
+  {
+    "question": "What kind of check or action should the pit fiend be able to take to attack someone who is hiding in the darkness after teleporting out of range",
+    "answer": "This question is unclear and cannot be answered. The rules for blindness or darkness are not referenced in the text.",
+    "rules": [],
+    "rules_explanation": "While the Pit Friend, Grog and others might know certain things about how the darkness might interact with the creature, the rules don't cover what checks need to be made."
+  },
+  {
+    "question": "If a party is about to teleport and Scanlan is grappled, does he come with them?",
+    "answer": "Yes, a grappled creature can be teleported.",
+    "rules": [],
+    "rules_explanation": "The conditions of the grapple do not prohibit teleporting a creature out of the grapple, unless other restrictions are in place prohibiting the teleporation of a grappled creature."
+  },
+  {
+    "question": "If a weapon can deal fire damage in the plane of fire, does that reduce their effectiveness in a place that already has a lot of fire damage",
+    "answer": "Damage riders of the same type do not affect each other, and all applicable damage is applied.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Types"
+    ],
+    "rules_explanation": "There are no rules indicating there is an impact to doubling up on damage of the same type. If an attack lands, all additional damage modifiers that also apply are applied, so there is no damage immunity or resistance that results in there being no effect."
+  },
+  {
+    "question": "If Vex is prone, does that affect attacks against Scanlan, which is behind Vex, with a 3/4 cover.",
+    "answer": "No, a prone creature only impacts melee attacks. A prone creature imparts no cover for ranged attacks.",
+    "rules": [],
+    "rules_explanation": "The circumstances don't grant Scanlan an attack bonus or penalty."
+  },
+  {
+    "question": "Can a character give up their movement to make attacks?",
+    "answer": "No, the rules specify that you get both movement and an action. Movement must be used separately from the action unless something calls it out specifically.",
+    "rules": [
+      "Combat > Your Turn"
+    ],
+    "rules_explanation": "A creature can move up to its speed and can take one action. The action and movement are seperate, but the movement may need to occur to make the action happen."
+  },
+  {
+    "question": "When you are trying to charm someone with a spell, do you use that to affect an NPC in a deception test?",
+    "answer": "No. The success or failure of a spell does not influence the check to deceive the NPC.",
+    "rules": [
+      "Using Ability Scores > Ability Checks",
+      "Using Ability Scores > Contests"
+    ],
+    "rules_explanation": "Charm and deception are different things and may not be used in the same instance."
+  },
+  {
+    "question": "What is the DC to see if a monster is lying?",
+    "answer": "It depends on the situation, but most likely Wisdom(Insight).",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Skills > Insight"
+    ],
+    "rules_explanation": "The most likely check to determine the truth is an insight check. However, no DC is given - it depends on the circumstances."
+  },
+  {
+    "question": "If a spell requires you to determine the distance the target is, and there is a saving throw, how many die should you be rolling. How do you know what they should be.",
+    "answer": "I can't answer because I'm unsure about the context. It sounds like there was 1 roll for distance and another d20 to determine if the save is met.",
+    "rules": [],
+    "rules_explanation": "This is because the specific spell may have the exact value of the die for the damage. Not all spells are created equal."
+  },
+  {
+    "question": "Can a potion of Healing cure a character that is poisoned.",
+    "answer": "No, a *potion of healing* only restores hit points, and does not effect conditions unless specifically stated.",
+    "rules": [
+      "Equipment > Adventuring Gear > Potion of Healing"
+    ],
+    "rules_explanation": "Potions of Healing restore hit points. To be cured of a poison, you need to be healed with another spell"
+  },
+  {
+    "question": "Can a character be \"charmed by their sword\"",
+    "answer": "No. Only creatures can be charmed.",
+    "rules": [
+      "Appendix PH-A: Conditions > Charmed"
+    ],
+    "rules_explanation": "Only a creature can be targeted by spells, effects, and abilities that cause the charmed condition."
+  }
+]

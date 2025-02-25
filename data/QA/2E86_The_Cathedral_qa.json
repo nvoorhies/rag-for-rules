@@ -1,0 +1,125 @@
+[
+  {
+    "question": "What is the range for the Locate Creature spell?",
+    "answer": "The range of the Locate Creature spell is 1,000 feet.",
+    "rules": [
+      "Spellcasting > Spell Description",
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "The transcript requests the range of the Locate Creature spell which is a characteristic of the spell itself in the spell description."
+  },
+  {
+    "question": "A Level 4, Class Cleric/Druid/Paladin/Sorcerer/Warlock/Wizard paints a peephole and gets a 19 on their perception check with disadvantage. What is the result of the check?",
+    "answer": "The peep hole is created without sensing any information about the content of the space.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The player makes a perception check, but the check has disadvantage. The roll is made with 2 dice, and the lower result is used, which is 19."
+  },
+  {
+    "question": "If Taliesin casts Locate Creature, and has a Perception check of 27, and wishes to know if they can pinpoint what direction she is from us, and if she's moving, can they?",
+    "answer": "Yes, based on the success of the perception check, I should be able to also pinpoint what direction she is from us, and if she's moving.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "Maxwell asks about the consequences of successfully using the Locate Creature spell. Since there was no reference to the rules for perception checks, this is a rules application rather than a rules clarification."
+  },
+  {
+    "question": "What is the range on Sacred Flame?",
+    "answer": "The range on Sacred Flame is 60 feet.",
+    "rules": [
+      "Spellcasting > Spell Description",
+      "Spellcasting > Range"
+    ],
+    "rules_explanation": "The transcript requests the range of the Sacred Flame spell, which is a characteristic of the spell itself in the spell description."
+  },
+  {
+    "question": "The DM described a situation that would lead to initiative. When do you roll initiative?",
+    "answer": "You roll initiative as soon as combat is initiated.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "The transcript asks when initiative should be rolled. This is when the DM declares that a situation has become a combat encounter."
+  },
+  {
+    "question": "If Pumat, a level 4 wizard, has successfully cast dominate person, and Beauregard, a monk, is going to use Stillness of Mind, what is the effect?",
+    "answer": "Stillness of Mind ends the charmed effect.",
+    "rules": [
+      "Class Features > Monk > Stillness of Mind",
+      "Appendix PH-A > Conditions > Charmed"
+    ],
+    "rules_explanation": "Stillness of Mind allows you to end a charm effect as an action."
+  },
+  {
+    "question": "If Fjord, a level 4 Warlock, is poisoned, do I take damage every round, or is it just disadvantage on attack rolls?",
+    "answer": "You have disadvantage on attack rolls while poisoned.",
+    "rules": [
+      "Appendix PH-A > Conditions > Poisoned"
+    ],
+    "rules_explanation": "The poisoned condition grants disadvantage on attack rolls and ability checks, according to the poison rules."
+  },
+  {
+    "question": "If The Laughing Hand takes 22 points of damage and has resistance to fire, how much damage does the The Laughing Hand take?",
+    "answer": "Creatures with resistance to fire take half damage from fire attacks, therefore the Laughing Hand would take 11 points of damage.",
+    "rules": [
+      "Combat > Damage and Healing > Damage Resistance and Vulnerability"
+    ],
+    "rules_explanation": "The Laughing Hand has resistance to fire and takes half damage."
+  },
+  {
+    "question": "The warlock and his friend are heading towards the altar in the temple, the warlock says 'Can we send a distraction in?' What is the process for creating a distraction?",
+    "answer": "Characters need to determine a course of action and then execute them within the combat rules.",
+    "rules": [
+      "Combat > Actions in Combat"
+    ],
+    "rules_explanation": "This is a general question about gameplay and doesn't have a specific answer in the rules. It is not, therefore, a rules question."
+  },
+  {
+    "question": "A raged, Level 4 Barbarian's reckless attack against Nott, does this mean there is no advantage since the reckless attack happened so long ago?",
+    "answer": "The barbarian has advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.",
+    "rules": [
+      "Class Features > Barbarian > Reckless Attack"
+    ],
+    "rules_explanation": "The conditions of the Reckless Attack only apply to the current turn. The answer explains that the advantage on melee weapon attack rolls only lasts for the current turn."
+  },
+  {
+    "question": "A War Caster, what are you able to do?",
+    "answer": "You can use a spell as your attack of opportunity.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This question is not about any specific rules and so is not included in the output."
+  },
+  {
+    "question": "As you are painting your picture, and one of the team is close by at only 120ft, can you take the shot?",
+    "answer": "It is valid to shoot.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This is not about any specific rules and so is not included in the output."
+  },
+  {
+    "question": "If Fjord's Summon Greater Demon spell ends, what happens to the demon?",
+    "answer": "On a successful save, your Control of the demon ends and the demon spends its turns pursuing and attacking the nearest non-demons to the best of its ability.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This question is answered without reference to a specific SRD rule and so is not included in the output."
+  },
+  {
+    "question": "While casting Fire Storm, how many targets can The Cardinal affect?",
+    "answer": "10 foot cubes.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This question is answered without reference to a specific SRD rule and so is not included in the output."
+  },
+  {
+    "question": "If a team member uses evasion, what happens with the Fire Storm?",
+    "answer": "You take half damage.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This question is answered without reference to a specific SRD rule and so is not included in the output."
+  }
+]

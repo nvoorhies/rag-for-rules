@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Does the Hat of Disguise require the wearer to be a spellcaster to use it?",
+    "answer": "No, the Hat of Disguise does not require the wearer to be a spellcaster to use it.",
+    "rules": [
+      "Magic Items > Activating an Item",
+      "Spells > What Is a Spell?"
+    ],
+    "rules_explanation": "The rules for magic item activation do not require the user to be a spellcaster unless specified in the item description. The disguise self spell is available to be cast from the hat whether or not the wearer is a spellcaster. Magic items generally cast spells as if the lowest level of the spell, so can be used by non-spellcasters or as a cheap way to use lower level spells."
+  },
+  {
+    "question": "If the Level 11 class barbarian takes damage from an enemy, can they use quick reflexes to avoid a small portion of that damage?",
+    "answer": "If the Level 11 class barbarian drops to 0 hit points while raging and doesn't die outright, they can make a DC 10 Constitution saving throw. If they succeed, they drop to 1 hit point instead. Each time they use this feature after the first, the DC increases by 5. When they finish a short or long rest, the DC resets to 10.",
+    "rules": [
+      "Classes > Barbarian > Class Features > Relentless Rage"
+    ],
+    "rules_explanation": "At 11th level, the Relentless Rage feature allows a Barbarian to make a DC 10 Consitution saving throw when dropped to zero hit points to drop to 1 hit point instead. There is no direct damage avoidance in the rules text."
+  },
+  {
+    "question": "If the Keyleth (Level 10 druid) has used both of her beast shapes, how long must she rest to use them again?",
+    "answer": "The druid will regain use of the Beast Shaping ability after a short rest.",
+    "rules": [
+      "Classes > Druid > Wild Shape"
+    ],
+    "rules_explanation": "The druid is a circle of the moon druid, and the gameplay does not establish that this ability has been depleted, the druid is able to 'beast shape twice, rest 30 minutes, beast shape twice'."
+  },
+  {
+    "question": "If the Grog (Level 10 barbarian) touches something in Percival's (Level 10 artificer) workshop and starts to get a burning sensation around his fingers, what does the sensation feel like?",
+    "answer": "The burning sensation starts off as vibrant white hot on the skin, and you can see bits of the skin start to peel back a little bit, beginning on the edges.",
+    "rules": [],
+    "rules_explanation": "This is a judgement call by the DM and is not determined directly by the rulebook."
+  },
+  {
+    "question": "Keyleth (Level 10 circle of the moon druid), passive perception of 24, can Marisha (Level 10 rogue/something) get away with sleight of hand?",
+    "answer": "This can't be determined from a passive perception check, because it is an active check. A Sleight of Hand check is opposed by an active Perception check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Passive Checks"
+    ],
+    "rules_explanation": "Passive Checks are a static number which can be checked against, but not an active skill check"
+  },
+  {
+    "question": "If Orion (Level 10 something) attempts to cast Fly at 3rd level, on Travis (Level 10 something), what does it do?",
+    "answer": "A 3rd level casting of Fly only affects one target, unless the rules for the spell say otherwise.",
+    "rules": [
+      "Spells > Casting a Spell > Targets"
+    ],
+    "rules_explanation": "3rd Level casting of the fly spell affects one target, unless otherwise stated."
+  },
+  {
+    "question": "When Vex (Level 10 ranger) and Tiberius (Level 10 something) cast Fly on themselves, they can fly. If Tiberius casts Fly again, on everybody else, does that cause Vex to plummet?",
+    "answer": "Yes, the initial Fly spell would end when the ranger is affected by the second casting of Fly because Fly is a concentration spell and a character cannot maintain concentration on more than one spell at a time.",
+    "rules": [
+      "Spells > Duration > Concentration"
+    ],
+    "rules_explanation": "The Fly spell has a duration of 'Concentration, up to 10 minutes'. The rules for Concentration state: 'You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.'"
+  },
+  {
+    "question": "If the Grog (Level 10 barbarian) touches something in Percival's (Level 10 artificer) workshop and it's making his bits tingle, can Vax (Level 10 something) shave off part of his beard? Is this considered stealing?",
+    "answer": "No rules apply here.",
+    "rules": [],
+    "rules_explanation": "Not all actions are covered by the rules, and the success of the shaving requires skill checks."
+  },
+  {
+    "question": "A character of unspecified class attempts to teach a Lockheed (pseudo dragon) to stay and rolls a 14. What happens?",
+    "answer": "There is no established mechanic for teaching a creature to stay, and whether it is successful is up to the DM to decide.",
+    "rules": [],
+    "rules_explanation": "No rules exist that automatically make training possible. As such, no skill can be used, but it's up to the DM to decide if a roll is valid."
+  },
+  {
+    "question": "If Percival (Level 10 artificer) casts a 'lightning spell' on a metal gauntlet, what school of magic is that?",
+    "answer": "The school of magic depends on the spell used, but it would most likely be evocation.",
+    "rules": [
+      "Spells > The Schools of Magic"
+    ],
+    "rules_explanation": "If the lightning is created from nothing then it is evocation. If it is being moved from somewhere else it could be conjuration. If it is just an illusion it would be illusion."
+  },
+  {
+    "question": "How many years does a Goliath (Level 10 barbarian) have to reach to have a beard grow?",
+    "answer": "The number of years is not relevant. It is up to the DM to decide if a Goliath can grow a beard.",
+    "rules": [
+      "Races > Racial Traits > Age"
+    ],
+    "rules_explanation": "Whether a goliath can grow a beard is not covered by the rules. It is up to the DM to decide."
+  },
+  {
+    "question": "If Tiberius (level 10 something) makes a picture spell of Vex (level 10 ranger), what does it look like?",
+    "answer": "That is up to the DM to decide.",
+    "rules": [],
+    "rules_explanation": "This is a judgement call by the DM and is not determined directly by the rulebook."
+  },
+  {
+    "question": "If the twins go in disguise, does that make them count as one or two guests?",
+    "answer": "The game does not state a limit on the number of guests based on who is recognizable, so they would be considered two guests.",
+    "rules": [],
+    "rules_explanation": "The number of people at the party depends on how many bodies appear, irrespective of their ability to hide their identites."
+  },
+  {
+    "question": "Can Vax (Level 10 something) sneak into the council meeting?",
+    "answer": "The success of sneaking depends on his stealth and whether he is detected by anyone present.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The success of Vax's sneaking attempt depends on skill checks. The basic mechanics for stealth are laid out under ability checks. It cannot be guaranteed due to the presence of other parties who may or may not detect him."
+  },
+  {
+    "question": "If Scanlan (Level 10 something) casts Suggestion and rolls a natural 1 and fails, what happens to Nostoc Greyspine?",
+    "answer": "The rules state that on a roll of 1 it fails, and the spell does not take effect.",
+    "rules": [
+      "Spells > What is a Spell?"
+    ],
+    "rules_explanation": "The roll of 1 means that the saving throw has failed."
+  },
+  {
+    "question": "If Keyleth (Level 10 circle of the moon druid) and Scanlan (Level 10 something) can travel through plants or the air, why aren't they used for spying?",
+    "answer": "There are no explicit rules preventing the Druid and Scanlan from being used for spying.",
+    "rules": [],
+    "rules_explanation": "There is no rules text that applies to the question of why the Druid and Scanlan were not selected to conduct spying. The game can depend on players being able to do something rather than needing to use their powers to do so."
+  },
+  {
+    "question": "A group of characters, including a character playing Vax (Level 10 something) are at a party where they can use their cunning. Does Vax's serpent belt or other shape-changing item automatically allow him to impersonate others?",
+    "answer": "The game rules say that as long as the polymorph does not break a spell that is already active it is possible. However, when using an existing item the person performing the action can't have known that it was going to be needed.",
+    "rules": [],
+    "rules_explanation": "Rules for shape changing say that the changer must be a familiar shape for the new form. As such, only a rough aproximation of someone is possible."
+  },
+  {
+    "question": "What saving throw does Tiberius (Level 10 something) have to make when Percival (Level 10 artificer) activates Diplomacy?",
+    "answer": "The target must make a Constitution saving throw, taking lightning damage on a failed save, and is stunned for a round.",
+    "rules": [],
+    "rules_explanation": "There is no such item described in the rules. If a player-created artifact were to act as a spell, it would state the effect, including the saving throw involved."
+  },
+  {
+    "question": "Does Grog's (Level 10 barbarian) new mustache help attract women?",
+    "answer": "That is up to the DM to decide.",
+    "rules": [],
+    "rules_explanation": "The rules give no mechanical benefit for attractiveness."
+  }
+]

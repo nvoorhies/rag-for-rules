@@ -1,0 +1,11 @@
+[
+  {
+    "question": "Can the 9th level Sorcerer who is attuned to a magic item, use a spell stored in the magic item that is of a higher level than can normally be cast by the character?",
+    "answer": "No. The 9th-level character can cast any spell stored in the ring as if they cast the spell. A spell you choose must be of a level you can cast.",
+    "rules": [
+      "Spellcasting > Casting a Spell at a Higher Level",
+      "Magic Items > Activating an Item > Spells"
+    ],
+    "rules_explanation": "The spellcasting rules state a spell is cast at a higher level if the caster has a slot higher than the level of the spell. Because spells cast from magic items use your level to determine what spells you can cast, they can never exceed the limitation that a character's level creates. They must use a slot which the spell is to be cast and that means the spell must be one you can cast. A level for which you have spell slots"
+  }
+]
