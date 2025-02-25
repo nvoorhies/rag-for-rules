@@ -1,0 +1,50 @@
+{
+  "section": "4",
+  "title": "**Shield**",
+  "explicit_references": [
+    "Magic Items",
+    "Armor",
+    "Weapons",
+    "Player's Handbook",
+    "Attack roll",
+    "Saving throw",
+    "Ability check",
+    "Attack Action",
+    "Bonus Action",
+    "Reaction",
+    "Move action",
+    "Constitution saving throw",
+    "Dexterity saving throw",
+    "Strength check",
+    "Strength saving throw",
+    "Wisdom saving throw",
+    "Charisma modifier",
+    "The Environment",
+    "Conditions",
+    "Exhaustion",
+    "Indefinite Madness",
+    "Short-Term Madness",
+    "Long-Term Madness"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Actions in Combat",
+    "Proficiency Bonus",
+    "Damage Types",
+    "Cover",
+    "Object Armor Class",
+    "Object Hit Points",
+    "Movement",
+    "Creature Size",
+    "Attunement",
+    "Spellcasting"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Spellcasting",
+    "Character creation/advancement",
+    "Environment"
+  ],
+  "rule_text": "#### **Shield**\n\n*1st-level abjuration*\n\n**Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the *magic missile* spell **Range:** Self **Components:** V, S **Duration:** 1 round\n\nAn invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from *magic missile.*\n",
+  "rule_hierarchy": "**Spellcasting** > **Scrying** > **Shield**"
+}

@@ -1,0 +1,30 @@
+{
+  "section": "4",
+  "title": "**Speak with Dead**",
+  "explicit_references": [
+    "Spellcasting",
+    "Racial Traits",
+    "Combat",
+    "Athletics",
+    "Equipment",
+    "Actions in Combat",
+    "Unseen Attackers and Targets",
+    "Conditions",
+    "Damage Severity by Level",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores",
+    "Saving Throws",
+    "Proficiency Bonus",
+    "Action Economy",
+    "Creature Size and Space"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Combat",
+    "Character Creation/Advancement"
+  ],
+  "rule_text": "#### **Speak with Dead**\n\n*3rd-level necromancy*\n\n**Casting Time:** 1 action **Range:** 10 feet\n",
+  "rule_hierarchy": "**Spellcasting** > **Silence** > **Speak with Dead**"
+}

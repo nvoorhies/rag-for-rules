@@ -1,0 +1,36 @@
+{
+  "section": "2",
+  "title": "**Silence**",
+  "explicit_references": [
+    "The Player's Handbook",
+    "Armor table",
+    "Weapons table",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Character Advancement table",
+    "Multiclassing Prerequisites table",
+    "Multiclassing Proficiencies table",
+    "Creating Spell Slots table",
+    "Proficiency Bonus by Challenge Rating table",
+    "Object Armor Class table",
+    "Object Hit Points table",
+    "Trap Save DCs and Attack Bonuses table",
+    "Damage Severity by Level table"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Actions in Combat",
+    "Spellcasting (Spell Level, Spell Slots, Spellcasting Ability)",
+    "Conditions",
+    "Armor and Weapon Proficiencies",
+    "Movement",
+    "Saving Throws"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Combat",
+    "Conditions"
+  ],
+  "rule_text": "## **Silence**\n\n*2nd-level illusion (ritual)*\n\n**Casting Time:** 1 action **Range:** 120 feet **Components:** V, S **Duration:** Concentration, up to 10 minutes\n\nFor the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.\n",
+  "rule_hierarchy": "**Spellcasting** > **Silence**"
+}

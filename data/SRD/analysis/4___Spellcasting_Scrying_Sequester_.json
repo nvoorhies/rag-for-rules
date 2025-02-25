@@ -1,0 +1,22 @@
+{
+  "section": "4",
+  "title": "**Sequester**",
+  "explicit_references": [
+    "Spellcasting > Sequester",
+    "Equipment",
+    "Player's Handbook",
+    "Multiattack"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Actions in Combat",
+    "The Environment"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Combat",
+    "Movement or exploration"
+  ],
+  "rule_text": "#### **Sequester**\n\n*7th-level transmutation*\n",
+  "rule_hierarchy": "**Spellcasting** > **Scrying** > **Sequester**"
+}

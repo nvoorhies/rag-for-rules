@@ -1,0 +1,35 @@
+{
+  "section": "4",
+  "title": "*3rd-level conjuration*",
+  "explicit_references": [
+    "1.Choose a target.",
+    "2.Determine modifiers.",
+    "3.Resolve the attack.",
+    "See the \"Armor\" table.",
+    "The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.",
+    "See the \"Equipment\" section.",
+    "See appendix PH-A for exhaustion, charmed and frightened conditions.",
+    "See Appendix PH-B \"Fantasy-Historical Pantheons\".",
+    "See the \"Player's Handbook\" for descriptions of the different alignments.",
+    "See an ability's description in the later sections of this section for examples of how to use a skill associated with an ability.",
+    "See the *Player's Handbook* for more information on creature size and space.",
+    "See the *Player's Handbook* for rules on using armor or weapons without proficiency.",
+    "For more information on speed, see the *Player's Handbook*."
+  ],
+  "implicit_dependencies": [
+    "Armor",
+    "Creature Size",
+    "Conditions",
+    "Alignment",
+    "Ability Scores"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Advancement",
+    "Skills",
+    "Equipment",
+    "Movement and Position"
+  ],
+  "rule_text": "#### *3rd-level conjuration*\n\n**Casting Time:** 1 action **Range:** 150 feet **Components:** V, S, M (a pinch of dust and a few drops of water) **Duration:** Concentration, up to 1 minute\n\nUntil the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.\n\nThe ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spell's area for the first time on a turn or starts its turn there, it must make a Dexterity saving throw. On a failed save, it falls prone.\n\nIf a creature is concentrating in the spell's area, the creature must make a successful Constitution saving throw against your spell save DC or lose concentration.\n",
+  "rule_hierarchy": "**Spellcasting** > **Silence** > *3rd-level conjuration*"
+}

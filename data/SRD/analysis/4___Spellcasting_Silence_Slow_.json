@@ -1,0 +1,19 @@
+{
+  "section": "4",
+  "title": "**Slow**",
+  "explicit_references": [
+    "Spellcasting > Silence > Slow"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "The Order of Combat",
+    "Actions in Combat"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Spellcasting",
+    "Movement or Exploration"
+  ],
+  "rule_text": "#### **Slow**\n",
+  "rule_hierarchy": "**Spellcasting** > **Silence** > **Slow**"
+}

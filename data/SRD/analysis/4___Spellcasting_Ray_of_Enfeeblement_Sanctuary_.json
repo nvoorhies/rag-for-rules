@@ -1,0 +1,37 @@
+{
+  "section": "4",
+  "title": "**Sanctuary**",
+  "explicit_references": [
+    "Player's Handbook",
+    "Armor table",
+    "Object Armor Class table",
+    "Object Hit Points table",
+    "Trap Save DCs and Attack Bonuses table",
+    "Damage Severity by Level table",
+    "Proficiency Bonus by Challenge Rating table",
+    "Equipment",
+    "Beyond 1st Level",
+    "Attack",
+    "Actions in Combat",
+    "Applying poison",
+    "Creature Size table",
+    "Multiclassing Prerequisites table",
+    "Multiclassing Proficiencies table",
+    "The Planes of Existence"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Armor Class",
+    "Hit Points",
+    "Experience Points",
+    "Saving Throws",
+    "Magic Items"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Combat",
+    "Experience"
+  ],
+  "rule_text": "#### **Sanctuary**\n\n*1st-level abjuration*\n\n**Casting Time:** 1 bonus action **Range:** 30 feet **Components:** V, S, M (a small silver mirror) **Duration:** 1 minute\n\nYou ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a fireball.\n\nIf the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.\n",
+  "rule_hierarchy": "**Spellcasting** > **Ray of Enfeeblement** > **Sanctuary**"
+}

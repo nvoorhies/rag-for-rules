@@ -1,0 +1,35 @@
+{
+  "section": "2",
+  "title": "**Scrying**",
+  "explicit_references": [
+    "Player's Handbook",
+    "The Player's Handbook",
+    "the Innate Spellcasting special trait",
+    "Armor table",
+    "Object Armor Class table",
+    "Object Hit Points table",
+    "the Damage Severity by Level table",
+    "the Trap Save DCs and Attack Bonuses table",
+    "the Spellcasting Ability table",
+    "the Hit Dice by Size table",
+    "the Multiclass Spellcaster table"
+  ],
+  "implicit_dependencies": [
+    "Ability Score Increase",
+    "Armor Proficiency",
+    "Attack rolls",
+    "Damage Rolls",
+    "Saving Throws",
+    "Skills",
+    "Challenge Rating",
+    "Conditions"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Combat",
+    "Character Progression",
+    "Environment"
+  ],
+  "rule_text": "## **Scrying**\n\n*5th-level divination*\n\n**Casting Time:** 10 minutes **Range:** Self\n\n**Components:** V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)\n\n**Duration:** Concentration, up to 10 minutes\n\nYou can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.\n\n| Knowledge                                         | Save\tModifier |\n|---------------------------------------------------|---------------|\n| Secondhand\t(you\thave\theard\tof\tthe\ttarget)         | +5            |\n| Firsthand\t(you\thave\tmet\tthe\ttarget)               | +0            |\n| Familiar\t(you\tknow\tthe\ttarget\twell)               | −5            |\n| Connection                                        | Save\tModifier |\n| Likeness\tor\tpicture                               | −2            |\n| Possession\tor\tgarment                             | −4            |\n| Body\tpart,\tlock\tof\thair,\tbit\tof\tnail,\tor\tthe\tlike | −10           |\n\nOn a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.\n\nOn a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see invisible objects sees the sensor as a luminous orb about the size of your fist.\n\nInstead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.\n",
+  "rule_hierarchy": "**Spellcasting** > **Scrying**"
+}

@@ -28,7 +28,7 @@ class DependencyAnalyzer:
     def __init__(self, api_key: str):
         # Configure Gemini
         genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel('gemini-2.0-flash-lite-preview-02-05')
+        self.model = genai.GenerativeModel('gemini-2.0-flash-lite')
         
         # Setup logging
         logging.basicConfig(
