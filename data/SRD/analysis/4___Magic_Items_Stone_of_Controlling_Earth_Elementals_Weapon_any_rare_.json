@@ -1,0 +1,18 @@
+{
+  "section": "4",
+  "title": "*Weapon (any), rare*",
+  "explicit_references": [
+    "Magic Items > Weapon (any), rare"
+  ],
+  "implicit_dependencies": [
+    "Creature Size",
+    "Making an Attack",
+    "Damage and Healing"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment"
+  ],
+  "rule_text": "#### *Weapon (any), rare*\n\nWhen you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.\n",
+  "rule_hierarchy": "**Magic Items** > **Stone of Controlling Earth Elementals** > *Weapon (any), rare*"
+}

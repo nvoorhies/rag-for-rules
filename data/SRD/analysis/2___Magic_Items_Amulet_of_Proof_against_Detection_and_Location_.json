@@ -1,0 +1,31 @@
+{
+  "section": "2",
+  "title": "**Amulet of Proof against Detection and Location**",
+  "explicit_references": [
+    "Magic Items > Amulet of Proof against Detection and Location",
+    "Player's Handbook",
+    "Armor",
+    "Weapons",
+    "Equipment",
+    "Adventuring Gear",
+    "Actions in Combat",
+    "Movement and Position",
+    "Damage and Healing",
+    "The Planes of Existence",
+    "Creatures"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores",
+    "Saving Throws",
+    "Skills",
+    "Proficiency Bonus",
+    "Challenge Rating"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment",
+    "Character Creation/Advancement"
+  ],
+  "rule_text": "## **Amulet of Proof against Detection and Location**\n\n*Wondrous item, uncommon (requires attunement)*\n\nWhile wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.\n",
+  "rule_hierarchy": "**Magic Items** > **Amulet of Proof against Detection and Location**"
+}

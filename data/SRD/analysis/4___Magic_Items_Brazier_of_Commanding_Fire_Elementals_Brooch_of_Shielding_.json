@@ -1,0 +1,19 @@
+{
+  "section": "4",
+  "title": "**Brooch of Shielding**",
+  "explicit_references": [
+    "Dwarf Dwarf Traits",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Actions in Combat",
+    "Armor"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment"
+  ],
+  "rule_text": "#### **Brooch of Shielding**\n\n*Wondrous item, uncommon (requires attunement)*\n\nWhile wearing this brooch, you have resistance to force damage, and you have immunity to damage from the *magic missile* spell.\n",
+  "rule_hierarchy": "**Magic Items** > **Brazier of Commanding Fire Elementals** > **Brooch of Shielding**"
+}

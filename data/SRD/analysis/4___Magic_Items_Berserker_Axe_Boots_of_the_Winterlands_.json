@@ -1,0 +1,28 @@
+{
+  "section": "4",
+  "title": "**Boots of the Winterlands**",
+  "explicit_references": [
+    "Boots of Striding and Springing",
+    "Armor Class",
+    "Player's Handbook",
+    "Player's Handbook",
+    "Player's Handbook",
+    "Creature vs. Target",
+    "Gorgon",
+    "Creature",
+    "11"
+  ],
+  "implicit_dependencies": [
+    "The Order of Combat > The Round",
+    "Using Ability Scores > Attack Rolls and Damage",
+    "Proficiency Bonus",
+    "Equipment"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Movement or exploration",
+    "Equipment"
+  ],
+  "rule_text": "#### **Boots of the Winterlands**\n",
+  "rule_hierarchy": "**Magic Items** > **Berserker Axe** > **Boots of the Winterlands**"
+}

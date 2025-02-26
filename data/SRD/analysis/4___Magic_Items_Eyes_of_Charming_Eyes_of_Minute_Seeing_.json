@@ -1,0 +1,16 @@
+{
+  "section": "4",
+  "title": "**Eyes of Minute Seeing**",
+  "explicit_references": [
+    "Magic Items > Eyes of Charming > Eyes of Minute Seeing"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Experience Points"
+  ],
+  "systems_affected": [
+    "Character creation/advancement"
+  ],
+  "rule_text": "#### **Eyes of Minute Seeing**\n",
+  "rule_hierarchy": "**Magic Items** > **Eyes of Charming** > **Eyes of Minute Seeing**"
+}

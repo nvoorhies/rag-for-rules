@@ -1,0 +1,39 @@
+{
+  "section": "4",
+  "title": "**Talisman of Ultimate Evil**",
+  "explicit_references": [
+    "Armor",
+    "Equipment",
+    "Skills",
+    "Player's Handbook",
+    "Challenge Rating",
+    "Races Racial Traits",
+    "The Planes of Existence",
+    "Mummy Lord's Lair",
+    "Druid's Druid Circle",
+    "Cleric's Divine Domain",
+    "Bard's Bard College",
+    "Ranger's Ranger Archetype",
+    "Fighter's Martial Archetype",
+    "Rogue's Roguish Archetype",
+    "Sorcerer's Sorcerous Origin",
+    "Warlock's Otherworldly Patron",
+    "Barbarian's Primal Path",
+    "Wizard's Arcane Tradition",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Appendix MM-A: Miscellaneous Creatures"
+  ],
+  "implicit_dependencies": [
+    "Character Creation",
+    "Combat Rules",
+    "Spellcasting Rules"
+  ],
+  "systems_affected": [
+    "Character Creation/Advancement",
+    "Combat",
+    "Spellcasting"
+  ],
+  "rule_text": "#### **Talisman of Ultimate Evil**\n\n*Wondrous item, legendary (requires attunement by a creature of evil alignment)*\n\nThis item symbolizes unrepentant evil. A creature that is neither good nor evil in alignment takes 6d6 necrotic damage upon touching the talisman. A good creature takes 8d6 necrotic damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.\n\nIf you are an evil cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.\n\nThe talisman has 6 charges. If you are wearing or holding it, you can use an action to expend 1 charge from the talisman and choose one creature you can see on the ground within 120 feet of you. If the target is of good alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman dissolves into foul-smelling slime and is destroyed.\n",
+  "rule_hierarchy": "**Magic Items** > **Stone of Controlling Earth Elementals** > **Talisman of Ultimate Evil**"
+}

@@ -1,0 +1,26 @@
+{
+  "section": "2",
+  "title": "**Cloak of Elvenkind**",
+  "explicit_references": [
+    "Armor Class",
+    "hit points",
+    "challenge rating",
+    "Player's Handbook",
+    "Actions in Combat",
+    "Conditions"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores",
+    "Combat Rules",
+    "Movement and Position",
+    "Skills",
+    "Languages"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Skills or ability checks"
+  ],
+  "rule_text": "## **Cloak of Elvenkind**\n",
+  "rule_hierarchy": "**Magic Items** > **Cloak of Elvenkind**"
+}

@@ -1,0 +1,40 @@
+{
+  "section": "4",
+  "title": "**Apparatus of the Crab Levers**",
+  "explicit_references": [
+    "Character Advancement table",
+    "Weapon table",
+    "Armor table",
+    "Travel Pace table",
+    "Beast Shapes table",
+    "Apparatus of the Crab Levers table",
+    "Multiclassing Prerequisites table",
+    "Multiclassing Proficiencies table",
+    "Spell Scroll table",
+    "Typical Difficulty Classes table",
+    "Object Armor Class table",
+    "Object Hit Points table",
+    "Potions of Healing table",
+    "Cube of Force Faces table",
+    "d100 Effect Table",
+    "Equipment packs section",
+    "Player's Handbook",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons"
+  ],
+  "implicit_dependencies": [
+    "Rules for ability checks",
+    "Rules for saving throws",
+    "Rules for attack rolls",
+    "Rules for damage and healing",
+    "Rules for spellcasting"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Movement or exploration",
+    "Equipment management and usage",
+    "Character advancement"
+  ],
+  "rule_text": "#### **Apparatus of the Crab Levers**\n\n| Lever | Up                    | Down                   |\n|-------|-----------------------|------------------------|\n| 1     | Legs\tand\ttail\textend, | Legs\tand\ttail\tretract, |\n\n|    | allowing\tthe\tapparatus<br>to\twalk\tand\tswim.                                                                                                     | reducing\tthe\tapparatus's<br>speed\tto\t0\tand\tmaking\tit<br>unable\tto\tbenefit\tfrom<br>bonuses\tto\tspeed.                                                        |\n|----|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 2  | Forward\twindow\tshutter<br>opens.                                                                                                                | Forward\twindow\tshutter<br>closes.                                                                                                                          |\n| 3  | Side\twindow\tshutters<br>open\t(two\tper\tside).                                                                                                    | Side\twindow\tshutters<br>close\t(two\tper\tside).                                                                                                              |\n| 4  | Two\tclaws\textend\tfrom<br>the\tfront\tsides\tof\tthe<br>apparatus.                                                                                   | The\tclaws\tretract.                                                                                                                                         |\n| 5  | Each\textended\tclaw<br>makes\tthe\tfollowing<br>melee\tweapon\tattack:<br>+8\tto\thit,\treach\t5\tft.,\tone<br>target.\tHit:\t7\t(2d6)<br>bludgeoning\tdamage. | Each\textended\tclaw<br>makes\tthe\tfollowing<br>melee\tweapon\tattack: +8<br>to\thit,\treach\t5\tft.,\tone<br>target.\tHit:\tThe\ttarget\tis<br>grappled\t(escape\tDC\t15). |\n| 6  | The\tapparatus\twalks\tor<br>swims\tforward.                                                                                                        | The\tapparatus\twalks\tor<br>swims\tbackward.                                                                                                                  |\n| 7  | The\tapparatus\tturns\t90<br>degrees\tleft.                                                                                                         | The\tapparatus\tturns\t90<br>degrees\tright.                                                                                                                   |\n| 8  | Eyelike\tfixtures\temit<br>bright\tlight\tin\ta\t30-foot<br>radius\tand\tdim\tlight\tfor<br>an\tadditional\t30\tfeet.                                        | The\tlight\tturns\toff.                                                                                                                                       |\n| 9  | The\tapparatus\tsinks\tas<br>much\tas\t20\tfeet\tin<br>liquid.                                                                                         | The\tapparatus\trises\tup<br>to\t20\tfeet\tin\tliquid.                                                                                                            |\n| 10 | The\trear\thatch\tunseals<br>and\topens.                                                                                                            | The\trear\thatch\tcloses<br>and\tseals.                                                                                                                        |\n",
+  "rule_hierarchy": "**Magic Items** > **Amulet of Proof against Detection and Location** > **Apparatus of the Crab Levers**"
+}

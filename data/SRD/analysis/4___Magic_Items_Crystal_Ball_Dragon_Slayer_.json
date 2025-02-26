@@ -1,0 +1,31 @@
+{
+  "section": "4",
+  "title": "**Dragon Slayer**",
+  "explicit_references": [
+    "Armor (heavy)",
+    "Equipment",
+    "Creatures",
+    "Skills",
+    "Actions in Combat",
+    "The Environment",
+    "Equipment Packs",
+    "Fantasy-Historical Pantheons",
+    "Player's Handbook",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Using Ability Scores"
+  ],
+  "implicit_dependencies": [
+    "Armor (any sword)",
+    "Magic Items",
+    "Combat",
+    "Ability Scores and Modifiers"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment",
+    "Character Creation/Advancement"
+  ],
+  "rule_text": "#### **Dragon Slayer**\n\n*Weapon (any sword), rare*\n\nYou gain a +1 bonus to attack and damage rolls made with this magic weapon.\n\nWhen you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" \n\nrefers to any creature with the dragon type, including dragon turtles and wyverns.\n",
+  "rule_hierarchy": "**Magic Items** > **Crystal Ball** > **Dragon Slayer**"
+}

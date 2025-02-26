@@ -1,0 +1,42 @@
+{
+  "section": "4",
+  "title": "**d4 Senses**",
+  "explicit_references": [
+    "Armor",
+    "The Planes of Existence",
+    "Player's Handbook",
+    "The Environment",
+    "Actions in Combat",
+    "Hit Dice by Size",
+    "Food, Drink, and Lodging",
+    "Equipment",
+    "Beyond 1st Level",
+    "Monsters",
+    "The Order of Combat",
+    "Multiclassing",
+    "Ability Scores and Modifiers",
+    "Fighting Style",
+    "The Environment",
+    "Legendary Actions",
+    "Mounts and Vehicles",
+    "Creature Size",
+    "The Plane of Fire",
+    "The Nine Hells",
+    "The Elemental Planes"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Attack Rolls",
+    "Saving Throws",
+    "Skills",
+    "Damage and Healing",
+    "Conditions"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Movement or exploration"
+  ],
+  "rule_text": "#### **d4 Senses**\n\n- 1 Hearing and normal vision out to 30 feet.\n- 2 Hearing and normal vision out to 60 feet\n- 3 Hearing and normal vision out to 120 feet.\n- 4 Hearing and darkvision out to 120 feet.\n",
+  "rule_hierarchy": "**Magic Items** > **Communication** > **d4 Senses**"
+}

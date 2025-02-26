@@ -1,0 +1,25 @@
+{
+  "section": "4",
+  "title": "**Modifying Creatures**",
+  "explicit_references": [
+    "Monsters",
+    "Size",
+    "Ability Score Increase",
+    "Age",
+    "Alignment",
+    "Speed",
+    "Languages",
+    "Subraces"
+  ],
+  "implicit_dependencies": [
+    "Monsters > Type",
+    "Monsters > Challenge Rating",
+    "Monsters > Senses"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement"
+  ],
+  "rule_text": "#### **Modifying Creatures**\n\nDespite the versatile collection of monsters in this book, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak an existing creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.\n",
+  "rule_hierarchy": "**Monsters** > **Size** > **Size Categories** > **Modifying Creatures**"
+}

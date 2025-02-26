@@ -1,0 +1,36 @@
+{
+  "section": "4",
+  "title": "*Ring, uncommon*",
+  "explicit_references": [
+    "Magic Items > Ring of Water Walking",
+    "Attack",
+    "Dodge",
+    "Ready",
+    "Movement and Position",
+    "Actions in Combat",
+    "The Environment",
+    "Creature Size",
+    "Using Ability Scores",
+    "Character Advancement",
+    "Multiclassing",
+    "The Planes of Existence",
+    "Appendix MM-A: Miscellaneous Creatures",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Appendix PH-A: Conditions"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Actions in Combat",
+    "Movement and Position",
+    "Armor",
+    "Equipment"
+  ],
+  "systems_affected": [
+    "Movement or exploration",
+    "Combat",
+    "Equipment",
+    "Character creation/advancement"
+  ],
+  "rule_text": "#### *Ring, uncommon*\n\nWhile wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.\n",
+  "rule_hierarchy": "**Magic Items** > **Ring of Water Walking** > *Ring, uncommon*"
+}

@@ -1,0 +1,27 @@
+{
+  "section": "2",
+  "title": "**Ring of Jumping**",
+  "explicit_references": [
+    "Character Advancement",
+    "Armor Class",
+    "Saving Throws",
+    "Actions in Combat",
+    "Magic Items A-Z",
+    "the spells",
+    "the glossary of conditions"
+  ],
+  "implicit_dependencies": [
+    "Character Creation/Advancement",
+    "Combat Rules (Action, Bonus Action, Reactions, Movement)",
+    "Magic Item Attunement Rules",
+    "Spellcasting Rules (Spell Levels, Spell Slots, Spell Save DC, Spell Attack Bonus)"
+  ],
+  "systems_affected": [
+    "Magic Item Use",
+    "Spellcasting",
+    "Combat",
+    "Character Progression"
+  ],
+  "rule_text": "## **Ring of Jumping**\n\n*Ring, uncommon (requires attunement)*\n\nWhile wearing this ring, you can cast the *jump* spell from it as a bonus action at will, but can target only yourself when you do so.\n",
+  "rule_hierarchy": "**Magic Items** > **Ring of Jumping**"
+}

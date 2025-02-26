@@ -1,0 +1,29 @@
+{
+  "section": "2",
+  "title": "**Potion of Growth**",
+  "explicit_references": [
+    "Races Racial Traits",
+    "Ability Score Increase",
+    "Age",
+    "Alignment",
+    "Size",
+    "Speed",
+    "Languages",
+    "Subraces",
+    "Equipment"
+  ],
+  "implicit_dependencies": [
+    "Character Advancement",
+    "Hit Points",
+    "Saving Throws",
+    "Actions in Combat",
+    "The Planes of Existence"
+  ],
+  "systems_affected": [
+    "Character Creation/Advancement",
+    "Combat",
+    "Movement or Exploration"
+  ],
+  "rule_text": "## **Potion of Growth**\n",
+  "rule_hierarchy": "**Magic Items** > **Potion of Growth**"
+}

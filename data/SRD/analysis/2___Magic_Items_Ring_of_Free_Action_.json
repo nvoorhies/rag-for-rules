@@ -1,0 +1,39 @@
+{
+  "section": "2",
+  "title": "**Ring of Free Action**",
+  "explicit_references": [
+    "Armor",
+    "Beyond 1st Level",
+    "Damage Types",
+    "Equipment",
+    "Hit Dice by Size",
+    "Hit Points",
+    "Languages",
+    "Proficiency Bonus by Challenge Rating",
+    "Races Racial Traits",
+    "The Environment",
+    "The Planes of Existence",
+    "Traps",
+    "Using Ability Scores",
+    "Weapons"
+  ],
+  "implicit_dependencies": [
+    "Abilities (Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma)",
+    "Armor Class",
+    "Hit Points",
+    "Languages",
+    "Proficiency Bonus",
+    "Saving Throws",
+    "Skills",
+    "Speed"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Movement or Exploration",
+    "Skills or Ability Checks",
+    "Character Creation/Advancement",
+    "Magic Items"
+  ],
+  "rule_text": "## **Ring of Free Action**\n\n*Ring, rare (requires attunement)*\n\nWhile you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained.\n",
+  "rule_hierarchy": "**Magic Items** > **Ring of Free Action**"
+}

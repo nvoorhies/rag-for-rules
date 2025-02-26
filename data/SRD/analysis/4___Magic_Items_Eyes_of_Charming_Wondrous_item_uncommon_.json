@@ -1,0 +1,29 @@
+{
+  "section": "4",
+  "title": "*Wondrous item, uncommon*",
+  "explicit_references": [
+    "Magic Items > Eyes of Charming",
+    "Magic Items > Ammunition, +1, +2, or +3",
+    "Magic Items > Manual of Bodily Health",
+    "Equipment",
+    "Monsters > Actions",
+    "Monsters > Challenge",
+    "The Environment > The Environment",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Appendix MM-A: Miscellaneous > Creatures"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Combat (Attack Rolls, Damage)",
+    "Equipment (weapons and armor)",
+    "Challenge Ratings"
+  ],
+  "systems_affected": [
+    "Skills or ability checks",
+    "Combat",
+    "Magic Item Usage"
+  ],
+  "rule_text": "#### *Wondrous item, uncommon*\n\nThese crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within that range.\n",
+  "rule_hierarchy": "**Magic Items** > **Eyes of Charming** > *Wondrous item, uncommon*"
+}

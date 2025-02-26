@@ -1,0 +1,20 @@
+{
+  "section": "4",
+  "title": "*Wondrous item, uncommon*",
+  "explicit_references": [
+    "None"
+  ],
+  "implicit_dependencies": [
+    "Armor",
+    "Hit Points",
+    "Skills",
+    "Weapon Properties"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment",
+    "Skills"
+  ],
+  "rule_text": "#### *Wondrous item, uncommon*\n\nWhile you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently.\n",
+  "rule_hierarchy": "**Magic Items** > **Berserker Axe** > *Wondrous item, uncommon*"
+}

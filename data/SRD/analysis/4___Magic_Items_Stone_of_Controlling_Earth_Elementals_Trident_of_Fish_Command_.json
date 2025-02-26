@@ -1,0 +1,30 @@
+{
+  "section": "4",
+  "title": "**Trident of Fish Command**",
+  "explicit_references": [
+    "*Player's Handbook*",
+    "Armor Class",
+    "Damage Immunities",
+    "Damage Resistances",
+    "Damage Vulnerabilities",
+    "challenge rating",
+    "Proficiency Bonus by Challenge Rating table",
+    "Attack Action",
+    "bonus action"
+  ],
+  "implicit_dependencies": [
+    "Character Advancement",
+    "Ability Scores and Modifiers table",
+    "Conditions table",
+    "Actions in Combat",
+    "Melee and Ranged Attacks",
+    "Senses"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Creation/Advancement",
+    "Skills or Ability Checks"
+  ],
+  "rule_text": "#### **Trident of Fish Command**\n",
+  "rule_hierarchy": "**Magic Items** > **Stone of Controlling Earth Elementals** > **Trident of Fish Command**"
+}

@@ -1,0 +1,27 @@
+{
+  "section": "2",
+  "title": "**Potion of Giant Strength**",
+  "explicit_references": [
+    "The Material Plane",
+    "The Inner Planes",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Equipment Pack",
+    "Armor Table",
+    "Weapons table",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Combat Actions",
+    "Damage Types and Resistances",
+    "Creature Size"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Advancement",
+    "Equipment"
+  ],
+  "rule_text": "## **Potion of Giant Strength**\n",
+  "rule_hierarchy": "**Magic Items** > **Potion of Giant Strength**"
+}

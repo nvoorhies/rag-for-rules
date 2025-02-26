@@ -1,0 +1,36 @@
+{
+  "section": "2",
+  "title": "**Oil of Sharpness**",
+  "explicit_references": [
+    "Magic Items > Adamantine Armor",
+    "Armor Class > Object Armor Class",
+    "Equipment",
+    "Player's Handbook",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Actions in Combat",
+    "Combining Magical Effects",
+    "Monsters > Monster Statistics",
+    "Monsters > Senses",
+    "Multiclassing Prerequisites",
+    "Multiclassing > Proficiency Bonus",
+    "Reactions",
+    "The Environment > difficult terrain",
+    "The Environment > Vision and Light",
+    "Travel Pace",
+    "Weapons > Weapon Properties"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Beyond 1st Level",
+    "Proficiencies"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Equipment",
+    "Environment"
+  ],
+  "rule_text": "## **Oil of Sharpness**\n",
+  "rule_hierarchy": "**Magic Items** > **Oil of Sharpness**"
+}

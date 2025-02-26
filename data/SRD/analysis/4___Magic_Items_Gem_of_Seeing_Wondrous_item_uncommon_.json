@@ -1,0 +1,29 @@
+{
+  "section": "4",
+  "title": "*Wondrous item, uncommon*",
+  "explicit_references": [
+    "*Player's Handbook*",
+    "Appendix PH-A",
+    "Appendix PH-B",
+    "Multiclassing Prerequisites table",
+    "Multiclassing Proficiencies table",
+    "Creating Spell Slots table",
+    "Object Armor Class table",
+    "Object Hit Points table",
+    "Trap Save DCs and Attack Bonuses table",
+    "Damage Severity by Level table",
+    "Hit Dice by Size table"
+  ],
+  "implicit_dependencies": [
+    "Beyond 1st Level",
+    "Armor",
+    "Weapons",
+    "Spellcasting"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement"
+  ],
+  "rule_text": "#### *Wondrous item, uncommon*\n\nWhile wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.\n",
+  "rule_hierarchy": "**Magic Items** > **Gem of Seeing** > *Wondrous item, uncommon*"
+}

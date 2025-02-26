@@ -1,0 +1,32 @@
+{
+  "section": "4",
+  "title": "**Poisons**",
+  "explicit_references": [
+    "Mounts and Other Animals table",
+    "Player's Handbook",
+    "Actions in Combat",
+    "Beast Shapes table",
+    "Multiclassing Prerequisites table",
+    "Multiclassing Proficiencies table",
+    "Spellcasting"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Armor",
+    "Weapons",
+    "Challenge",
+    "Conditions",
+    "Resting",
+    "Languages",
+    "Proficiency Bonus by Challenge Rating table"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment",
+    "Character Creation/Advancement",
+    "Spellcasting",
+    "Movement or Exploration"
+  ],
+  "rule_text": "#### **Poisons**\n\n| Item               | Type     | Price\tper\tDose |\n|--------------------|----------|----------------|\n| Assassin's\tblood   | Ingested | 150\tgp         |\n| Burnt\tothur\tfumes  | Inhaled  | 500\tgp         |\n| Crawler\tmucus      | Contact  | 200\tgp         |\n| Drow\tpoison        | Injury   | 200\tgp         |\n| Essence\tof\tether   | Inhaled  | 300\tgp         |\n| Malice             | Inhaled  | 250\tgp         |\n| Midnight\ttears     | Ingested | 1,500\tgp       |\n| Oil\tof\ttaggit      | Contact  | 400\tgp         |\n| Pale\ttincture      | Ingested | 250\tgp         |\n| Purple\tworm\tpoison | Injury   | 2,000\tgp       |\n| Serpent\tvenom      | Injury   | 200\tgp         |\n| Torpor             | Ingested | 600\tgp         |\n| Truth\tserum        | Ingested | 150\tgp         |\n| Wyvern\tpoison      | Injury   | 1,200\tgp       |\n",
+  "rule_hierarchy": "**Spellcasting** > **Poisons** > **Poisons**"
+}

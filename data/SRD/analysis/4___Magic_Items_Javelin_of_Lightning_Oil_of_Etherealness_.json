@@ -1,0 +1,29 @@
+{
+  "section": "4",
+  "title": "**Oil of Etherealness**",
+  "explicit_references": [
+    "Races Racial Traits",
+    "Hit Dice by Size table",
+    "Armor table",
+    "Equipment Packs",
+    "The Planes of Existence",
+    "Creatures vs. Target",
+    "The Environment",
+    "The Order of Combat",
+    "Multiattack"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Actions in Combat",
+    "Character Advancement table",
+    "Multiclassing Prerequisites table",
+    "Proficiency Bonus by Challenge Rating table"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Equipment"
+  ],
+  "rule_text": "#### **Oil of Etherealness**\n",
+  "rule_hierarchy": "**Magic Items** > **Javelin of Lightning** > **Oil of Etherealness**"
+}

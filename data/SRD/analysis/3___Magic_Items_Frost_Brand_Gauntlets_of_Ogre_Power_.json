@@ -1,0 +1,21 @@
+{
+  "section": "3",
+  "title": "**Gauntlets of Ogre Power**",
+  "explicit_references": [
+    "Magic Items > Gauntlets of Ogre Power",
+    "Equipment"
+  ],
+  "implicit_dependencies": [
+    "Ability Score Increase",
+    "Attunement",
+    "Armor Class (AC)",
+    "Strength (Strength score)"
+  ],
+  "systems_affected": [
+    "Character creation/advancement",
+    "Equipment and Item Usage",
+    "Combat"
+  ],
+  "rule_text": "### **Gauntlets of Ogre Power**\n\n*Wondrous item, uncommon (requires attunement)*\n\nYour Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher.\n",
+  "rule_hierarchy": "**Magic Items** > **Frost Brand** > **Gauntlets of Ogre Power**"
+}

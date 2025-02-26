@@ -1,0 +1,34 @@
+{
+  "section": "4",
+  "title": "*Potion, very rare*",
+  "explicit_references": [
+    "Armor",
+    "Weapons",
+    "Tools",
+    "Equipment",
+    "Experience Points",
+    "Multiclassing Prerequisites",
+    "Multiclassing Proficiencies",
+    "Rage Damage",
+    "Bonus Action",
+    "Actions in Combat",
+    "Unseen Attackers and Targets",
+    "Attack Rolls",
+    "Hit Points",
+    "Conditions",
+    "Mounts and Vehicles"
+  ],
+  "implicit_dependencies": [
+    "Combat Rules (Attack Action)",
+    "Weapon Proficiencies and Damage",
+    "Creature Size and Space",
+    "Hit Points and Damage"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment and Inventory",
+    "Character Advancement"
+  ],
+  "rule_text": "#### *Potion, very rare*\n\nThis potion's container looks empty but feels as though it holds liquid. When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell.\n",
+  "rule_hierarchy": "**Magic Items** > **Potion of Heroism** > **Potion of Invisibility** > *Potion, very rare*"
+}

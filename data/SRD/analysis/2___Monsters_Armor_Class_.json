@@ -1,0 +1,9 @@
+{
+  "section": "2",
+  "title": "**Armor Class**",
+  "explicit_references": [],
+  "implicit_dependencies": [],
+  "systems_affected": [],
+  "rule_text": "## **Armor Class**\n\nA monster that wears armor or carries a shield has an Armor Class (AC) that takes its armor, shield, and Dexterity into account. Otherwise, a monster's AC is based on its Dexterity modifier and natural armor, if any. If a monster has natural armor, wears armor, or carries a shield, this is noted in parentheses after its AC value.\n",
+  "rule_hierarchy": "**Monsters** > **Armor Class**"
+}

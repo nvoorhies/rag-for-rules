@@ -1,0 +1,33 @@
+{
+  "section": "4",
+  "title": "**Casting Time:** 1 action",
+  "explicit_references": [
+    "*Equipment*",
+    "*Player's Handbook*",
+    "The Armor table",
+    "Weapon Properties",
+    "*The Environment*",
+    "Appendix PH-A: Conditions",
+    "Multiclassing Prerequisites table",
+    "Multiclass Spellcaster: Spell Slots per Spell Level",
+    "Character Advancement table",
+    "Trap Save DCs and Attack Bonuses table",
+    "Damage Severity by Level table",
+    "Apparatus of the Crab Levers table",
+    "Hit Dice by Size table"
+  ],
+  "implicit_dependencies": [
+    "Spellcasting > Casting Time",
+    "Combat > Actions in Combat",
+    "Ability Score Improvement",
+    "Equipment > Armor, Weapons, and Tools",
+    "Player's Handbook > Combat Rules"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Combat",
+    "Character Creation/Advancement"
+  ],
+  "rule_text": "#### **Casting Time:** 1 action\n\n**Range:** Touch\n\n**Components:** V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes) **Duration:** Until dispelled\n\nBy means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can't be targeted by divination spells or perceived through scrying sensors created by divination spells.\n\nIf the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn't grow older.\n\nYou can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include \"after 1,000 years\" or \"when the tarrasque awakens.\" This spell also ends if the target takes any damage.\n",
+  "rule_hierarchy": "**Spellcasting** > **Scrying** > **Casting Time:** 1 action"
+}

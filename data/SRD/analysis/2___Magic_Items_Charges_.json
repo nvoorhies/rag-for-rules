@@ -1,0 +1,30 @@
+{
+  "section": "2",
+  "title": "**Charges**",
+  "explicit_references": [
+    "Magic Items > Item Descriptions",
+    "Player's Handbook > Conditions",
+    "Player's Handbook > Using Ability Scores",
+    "Character Advancement table",
+    "Multiclassing Prerequisites table",
+    "Multiclassing Proficiencies table",
+    "Equipment section",
+    "Fantasy-Historical Pantheons",
+    "Player's Handbook >  Actions in Combat",
+    "Player's Handbook >  Making an Attack",
+    "Player's Handbook >  Movement and Position"
+  ],
+  "implicit_dependencies": [
+    "Player's Handbook > Combat",
+    "Player's Handbook > Spells",
+    "Player's Handbook > Skills",
+    "Player's Handbook > Character Creation and Advancement"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Spellcasting",
+    "Character creation/advancement"
+  ],
+  "rule_text": "## **Charges**\n\nSome magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when an identify spell is cast on it, as well as when a creature attunes to it. Additionally, when an item regains \n\ncharges, the creature attuned to it learns how many charges it regained.\n",
+  "rule_hierarchy": "**Magic Items** > **Charges**"
+}

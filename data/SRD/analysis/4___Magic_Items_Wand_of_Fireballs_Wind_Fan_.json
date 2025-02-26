@@ -1,0 +1,21 @@
+{
+  "section": "4",
+  "title": "**Wind Fan**",
+  "explicit_references": [
+    "Magic Items >  Armor",
+    "Skills",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Beyond 1st Level",
+    "Using Ability Scores",
+    "The Order of Combat"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Equipment"
+  ],
+  "rule_text": "#### **Wind Fan**\n",
+  "rule_hierarchy": "**Magic Items** > **Wand of Fireballs** > **Wind Fan**"
+}

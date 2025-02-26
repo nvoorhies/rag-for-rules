@@ -1,0 +1,16 @@
+{
+  "section": "4",
+  "title": "**Rod of Rulership**",
+  "explicit_references": [
+    "Magic Items > Rod of Rulership"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores",
+    "Actions in Combat"
+  ],
+  "systems_affected": [
+    "Combat"
+  ],
+  "rule_text": "#### **Rod of Rulership**\n",
+  "rule_hierarchy": "**Magic Items** > **Robe of Eyes** > **Rod of Rulership**"
+}

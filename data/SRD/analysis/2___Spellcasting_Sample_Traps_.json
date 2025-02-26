@@ -1,0 +1,34 @@
+{
+  "section": "2",
+  "title": "**Sample Traps**",
+  "explicit_references": [
+    "Races Racial Traits",
+    "The Planes of Existence",
+    "Attack Rolls and Damage",
+    "The Environment",
+    "Actions in Combat",
+    "Movement and Position",
+    "Equipment",
+    "Saving Throws",
+    "Ability Score Improvement",
+    "Proficiency Bonus by Challenge Rating",
+    "The Monster Manual",
+    "Monster Stat Blocks"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Conditions",
+    "Character Advancement",
+    "Skills",
+    "Armor",
+    "Weapons"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Creation/Advancement",
+    "Equipment",
+    "Movement or Exploration"
+  ],
+  "rule_text": "## **Sample Traps**\n\nThe magical and mechanical traps presented here vary in deadliness and are presented in alphabetical order.\n",
+  "rule_hierarchy": "**Spellcasting** > **Sample Traps**"
+}

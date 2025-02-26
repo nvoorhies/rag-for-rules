@@ -1,0 +1,15 @@
+{
+  "section": "4",
+  "title": "**Cape of the Mountebank**",
+  "explicit_references": [],
+  "implicit_dependencies": [
+    "The Player's Handbook > General Rules for combat",
+    "The Player's Handbook > Damage Types",
+    "The Player's Handbook > Conditions"
+  ],
+  "systems_affected": [
+    "Combat"
+  ],
+  "rule_text": "#### **Cape of the Mountebank**\n",
+  "rule_hierarchy": "**Magic Items** > **Brazier of Commanding Fire Elementals** > **Candle of Invocation** > **Cape of the Mountebank**"
+}

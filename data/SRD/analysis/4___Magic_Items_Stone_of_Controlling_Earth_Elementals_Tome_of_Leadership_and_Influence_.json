@@ -1,0 +1,26 @@
+{
+  "section": "4",
+  "title": "**Tome of Leadership and Influence**",
+  "explicit_references": [
+    "Armor",
+    "The Player's Handbook",
+    "Challenge",
+    "Proficiency Bonus by Challenge Rating",
+    "Object Armor Class",
+    "Object Hit Points",
+    "Hit Dice by Size"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Armor",
+    "Equipment",
+    "Attack Rolls and Damage"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Equipment"
+  ],
+  "rule_text": "#### **Tome of Leadership and Influence**\n",
+  "rule_hierarchy": "**Magic Items** > **Stone of Controlling Earth Elementals** > **Tome of Leadership and Influence**"
+}

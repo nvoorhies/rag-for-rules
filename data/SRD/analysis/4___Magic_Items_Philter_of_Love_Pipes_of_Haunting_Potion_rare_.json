@@ -1,0 +1,34 @@
+{
+  "section": "4",
+  "title": "*Potion, rare*",
+  "explicit_references": [
+    "Armor",
+    "Equipment",
+    "Player's Handbook",
+    "Magic Item A-Z",
+    "Ammunition, +1, +2, or +3",
+    "Spell Lists Bard Spells",
+    "Spell Lists Cleric Spells",
+    "Spell Lists Druid Spells",
+    "Spell Lists Paladin Spells",
+    "Spell Lists Ranger Spells",
+    "Spell Lists Sorcerer Spells",
+    "Spell Lists Warlock Spells",
+    "Spell Lists Wizard Spells"
+  ],
+  "implicit_dependencies": [
+    "Combat step by step",
+    "Making an Attack",
+    "Actions in Combat",
+    "Creature Size",
+    "Ability Scores and Modifiers",
+    "Proficiency Bonus"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Magic Items",
+    "Spellcasting"
+  ],
+  "rule_text": "#### *Potion, rare*\n\nWhen you drink this potion, you gain the \"reduce\" effect of the *enlarge/reduce* spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.\n",
+  "rule_hierarchy": "**Magic Items** > **Philter of Love** > **Pipes of Haunting** > *Potion, rare*"
+}

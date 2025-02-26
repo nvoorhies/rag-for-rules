@@ -1,0 +1,22 @@
+{
+  "section": "4",
+  "title": "**Wall of Stone**",
+  "explicit_references": [
+    "Armor",
+    "Equipment",
+    "Weapons"
+  ],
+  "implicit_dependencies": [
+    "Spellcasting",
+    "Casting Time",
+    "Range",
+    "Components",
+    "Duration"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Combat"
+  ],
+  "rule_text": "#### **Wall of Stone**\n\n*5th-level evocation*\n\n**Casting Time:** 1 action\n",
+  "rule_hierarchy": "**Spellcasting** > **True Resurrection** > **Wall of Stone**"
+}

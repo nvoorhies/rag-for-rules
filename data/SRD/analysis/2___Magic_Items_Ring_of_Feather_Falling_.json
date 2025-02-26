@@ -1,0 +1,48 @@
+{
+  "section": "2",
+  "title": "**Ring of Feather Falling**",
+  "explicit_references": [
+    "Armor table",
+    "Equipment",
+    "Player's Handbook",
+    "the *cure wounds* spell",
+    "the *fly* spell",
+    "the *greater restoration* spell",
+    "the *magic missile* spell",
+    "the *remove curse* spell",
+    "the *sleep* spell",
+    "the *web* spell",
+    "the *wish* spell",
+    "The Elemental Planes",
+    "the Astral Plane",
+    "the Ethereal Plane",
+    "the Feywild",
+    "the Plane of Fire",
+    "the Plane of Water",
+    "The Nine Hells",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Proficiency Bonus by Challenge Rating table",
+    "Hit Dice by Size table"
+  ],
+  "implicit_dependencies": [
+    "Creature Size Categories",
+    "Armor Class (AC) calculation",
+    "Hit Points (HP) calculation",
+    "Speed and Movement",
+    "Attack Rolls, Damage, and Saving Throws",
+    "Creature Statistics and Stat Blocks",
+    "Languages",
+    "Abilities and Modifiers",
+    "Action types",
+    "Proficiency Bonus"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Magic Items",
+    "Character Advancement",
+    "Worldbuilding"
+  ],
+  "rule_text": "## **Ring of Feather Falling**\n\n*Ring, rare (requires attunement)*\n\nWhen you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.\n",
+  "rule_hierarchy": "**Magic Items** > **Ring of Feather Falling**"
+}

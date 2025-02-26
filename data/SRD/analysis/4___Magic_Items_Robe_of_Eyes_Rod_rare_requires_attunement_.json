@@ -1,0 +1,47 @@
+{
+  "section": "4",
+  "title": "*Rod, rare (requires attunement)*",
+  "explicit_references": [
+    "Races Racial Traits",
+    "Dwarf Dwarf Traits",
+    "Elf Elf Traits",
+    "Halfling Halfling Traits",
+    "Human Human Traits",
+    "Dragonborn Dragonborn Traits",
+    "Gnome Gnome Traits",
+    "Half-Elf Half-Elf Traits",
+    "Half-Orc Half-Orc Traits",
+    "Tiefling Tiefling Traits",
+    "Barbarian",
+    "Bard",
+    "Cleric",
+    "Druid",
+    "Fighter",
+    "Monk",
+    "Paladin",
+    "Ranger",
+    "Rogue",
+    "Sorcerer",
+    "Warlock",
+    "Wizard",
+    "Beyond 1st Level",
+    "Using Ability Scores",
+    "The Environment",
+    "Appendix PH-A: Conditions",
+    "Appendix MM-A: Miscellaneous Creatures",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Monster (A-Z)"
+  ],
+  "implicit_dependencies": [
+    "Player's Handbook: Making an Attack",
+    "Player's Handbook: Spellcasting",
+    "Character Advancement",
+    "Player's Handbook: Using Ability Scores"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Creation/Advancement"
+  ],
+  "rule_text": "#### *Rod, rare (requires attunement)*\n\nYou can use an action to present the rod and command obedience from each creature of your choice that you can see within 120 feet of you. Each target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 8 hours. While charmed in this way, the creature regards you as its  trusted leader. If harmed by you or your companions, or commanded to do something contrary to its nature, a target ceases to be charmed in this way. The rod can't be used again until the next dawn.\n",
+  "rule_hierarchy": "**Magic Items** > **Robe of Eyes** > *Rod, rare (requires attunement)*"
+}

@@ -1,0 +1,52 @@
+{
+  "section": "4",
+  "title": "*Wondrous item, rare (requires attunement)*",
+  "explicit_references": [
+    "Armor Class",
+    "Hit Points",
+    "Speed",
+    "Melee Weapon Attack",
+    "Ranged Weapon Attack",
+    "Action",
+    "Bonus Action",
+    "Reaction",
+    "Strength check",
+    "Constitution saving throw",
+    "Wisdom saving throw",
+    "Dexterity saving throw",
+    "Charisma saving throw",
+    "Intelligence check",
+    "Strength",
+    "Dexterity",
+    "Constitution",
+    "Intelligence",
+    "Wisdom",
+    "Charisma",
+    "Difficulty Class (DC)",
+    "d20",
+    "Armor Table",
+    "Weapons Table",
+    "Components",
+    "Action",
+    "Bonus Action",
+    "Reaction",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores",
+    "Damage Types",
+    "Saving Throws and Skills",
+    "Conditions (Blinded, Charmed, etc.)",
+    "Combat Mechanics (Attack Rolls, Critical Hits, Grappled, Prone)",
+    "Equipment and Currency (gold pieces, armor, weapons, etc.)"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Advancement",
+    "Equipment",
+    "Environment",
+    "Skills"
+  ],
+  "rule_text": "#### *Wondrous item, rare (requires attunement)*\n\nWhile you wear these boots, you can use a bonus action and click the boots' heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.\n\nWhen the boots' property has been used for a total of 10 minutes, the magic ceases to function until you finish a long rest.\n",
+  "rule_hierarchy": "**Magic Items** > **Berserker Axe** > *Wondrous item, rare (requires attunement)*"
+}

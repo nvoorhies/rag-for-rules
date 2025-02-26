@@ -1,0 +1,19 @@
+{
+  "section": "4",
+  "title": "**Deck of Illusions**",
+  "explicit_references": [
+    "Magic Items > Deck of Illusions"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "The Order of Combat",
+    "Multiclassing"
+  ],
+  "systems_affected": [
+    "Magic Items",
+    "Combat",
+    "Character creation/advancement"
+  ],
+  "rule_text": "#### **Deck of Illusions**\n",
+  "rule_hierarchy": "**Magic Items** > **Crystal Ball** > **Deck of Illusions**"
+}

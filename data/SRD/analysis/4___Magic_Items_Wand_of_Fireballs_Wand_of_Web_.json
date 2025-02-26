@@ -1,0 +1,44 @@
+{
+  "section": "4",
+  "title": "**Wand of Web**",
+  "explicit_references": [
+    "The Celtic Pantheon",
+    "The Greek Pantheon",
+    "The Egyptian Pantheon",
+    "The Norse Pantheon",
+    "Dagger",
+    "Player's Handbook",
+    "Races Racial Traits",
+    "Character Advancement",
+    "Monsters",
+    "Armor",
+    "Weapons",
+    "Equipment",
+    "Attack",
+    "Actions in Combat",
+    "Movement and Position",
+    "Conditions",
+    "Abilities",
+    "Saving Throws",
+    "Proficiency Bonus by Challenge Rating",
+    "Variant: Encumbrance",
+    "Tusks",
+    "Swallow",
+    "Innate Spellcasting"
+  ],
+  "implicit_dependencies": [
+    "Classes and Leveling",
+    "Ability Scores",
+    "Combat Basics",
+    "Spellcasting",
+    "Equipment and Wealth"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Advancement",
+    "Skills",
+    "Spellcasting"
+  ],
+  "rule_text": "#### **Wand of Web**\n\n*Wand, uncommon (requires attunement by a spellcaster)*\n\nThis wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the *web* spell (save DC 15) from it.\n\nThe wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.\n",
+  "rule_hierarchy": "**Magic Items** > **Wand of Fireballs** > **Wand of Web**"
+}

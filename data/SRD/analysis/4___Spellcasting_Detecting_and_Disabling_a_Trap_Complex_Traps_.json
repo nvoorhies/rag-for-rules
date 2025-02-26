@@ -1,0 +1,29 @@
+{
+  "section": "4",
+  "title": "**Complex Traps**",
+  "explicit_references": [
+    "The Player's Handbook",
+    "Equipment",
+    "Actions in Combat",
+    "Monsters (B)",
+    "Variant: Encumbrance",
+    "Mummy Lord"
+  ],
+  "implicit_dependencies": [
+    "Creature Size",
+    "Difficulty Class",
+    "Ability Scores and Modifiers",
+    "Proficiency Bonus",
+    "Conditions",
+    "Saving Throws",
+    "Actions"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment",
+    "Character Advancement",
+    "Movement and Position"
+  ],
+  "rule_text": "#### **Complex Traps**\n\nComplex traps work like standard traps, except once activated they execute a series of actions each round. A complex trap turns the process of dealing with a trap into something more like a combat encounter.\n\nWhen a complex trap activates, it rolls initiative. The trap's description includes an initiative bonus. On its turn, the trap activates again, often taking an action. It might make successive attacks against intruders, create an effect that changes over time, or otherwise produce a dynamic challenge. Otherwise, the complex trap can be detected and disabled or bypassed in the usual ways.\n\nFor example, a trap that causes a room to slowly flood works best as a complex trap. On the trap's turn, the water level rises. After several rounds, the room is completely flooded.\n",
+  "rule_hierarchy": "**Spellcasting** > **Detecting and Disabling a Trap** > **Complex Traps**"
+}

@@ -1,0 +1,27 @@
+{
+  "section": "4",
+  "title": "**Wand of Polymorph**",
+  "explicit_references": [
+    "Magic Items > Wand of Fireballs > Wand of Polymorph",
+    "The Player's Handbook",
+    "Adventuring Gear",
+    "Equipment",
+    "Actions in Combat",
+    "Monsters"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Spellcasting",
+    "Hit Points",
+    "Armor Class",
+    "Challenge Rating"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Combat",
+    "Equipment",
+    "Magic Items"
+  ],
+  "rule_text": "#### **Wand of Polymorph**\n\n*Wand, very rare (requires attunement by a spellcaster)*\n\nThis wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the *polymorph* spell (save DC 15) from it.\n\nThe wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.\n",
+  "rule_hierarchy": "**Magic Items** > **Wand of Fireballs** > **Wand of Polymorph**"
+}

@@ -1,0 +1,25 @@
+{
+  "section": "3",
+  "title": "**Pipes of Haunting**",
+  "explicit_references": [
+    "Armor",
+    "Mounts and Other Animals table",
+    "Attack action",
+    "Player's Handbook",
+    "Animal Friendship",
+    "Magic Circle"
+  ],
+  "implicit_dependencies": [
+    "Equipment",
+    "Movement",
+    "Combat Rules",
+    "Spellcasting"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Spellcasting",
+    "Equipment"
+  ],
+  "rule_text": "### **Pipes of Haunting**\n",
+  "rule_hierarchy": "**Magic Items** > **Philter of Love** > **Pipes of Haunting**"
+}

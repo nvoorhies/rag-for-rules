@@ -1,0 +1,9 @@
+{
+  "section": "2",
+  "title": "**Teleportation Circle**",
+  "explicit_references": [],
+  "implicit_dependencies": [],
+  "systems_affected": [],
+  "rule_text": "## **Teleportation Circle**\n\n*5th-level conjuration*\n\n**Casting Time:** 1 minute **Range:** 10 feet **Components:** V, M (rare chalks and inks infused \n\nwith precious gems with 50 gp, which the spell consumes)\n",
+  "rule_hierarchy": "**Spellcasting** > **Teleportation Circle**"
+}

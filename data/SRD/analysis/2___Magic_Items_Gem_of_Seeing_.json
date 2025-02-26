@@ -1,0 +1,28 @@
+{
+  "section": "2",
+  "title": "**Gem of Seeing**",
+  "explicit_references": [
+    "Player's Handbook",
+    "the Immunity",
+    "the Resistances",
+    "the Vulnerabilities",
+    "Damage Types",
+    "the conditions",
+    "the challenges"
+  ],
+  "implicit_dependencies": [
+    "Basic combat rules",
+    "Ability scores and modifiers",
+    "Skills and proficiency",
+    "Creature size and space",
+    "Damage and healing",
+    "Actions in combat",
+    "The environment"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement"
+  ],
+  "rule_text": "## **Gem of Seeing**\n\n*Wondrous item, rare (requires attunement)*\n\nThis gem has 3 charges. As an action, you can speak the gem's command word and expend 1 charge. For the next 10 minutes, you have truesight out to 120 feet when you peer through the gem.\n\nThe gem regains 1d3 expended charges daily at dawn.\n",
+  "rule_hierarchy": "**Magic Items** > **Gem of Seeing**"
+}

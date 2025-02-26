@@ -1,0 +1,48 @@
+{
+  "section": "2",
+  "title": "**Efreeti Bottle**",
+  "explicit_references": [
+    "Magic Items > Efreeti Bottle",
+    "Appendix PH-A: Conditions",
+    "Appendix MM-A: Miscellaneous Creatures",
+    "Player's Handbook",
+    "The Elemental Planes > Air, Earth, Fire, Water",
+    "Attack Rolls",
+    "Saving Throws",
+    "Experience Points",
+    "Amulet of Health",
+    "Bless",
+    "Charm Person",
+    "Conjure Elemental",
+    "Dispel Magic",
+    "Greater Restoration",
+    "Lesser Restoration",
+    "Mage Armor",
+    "Raise Dead",
+    "Remove Curse",
+    "Resistance",
+    "Wish",
+    "Conjuration",
+    "Enchantment",
+    "Evocation",
+    "Necromancy",
+    "Transmutation",
+    "Divination",
+    "Illusion",
+    "Abjuration"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Proficiency Bonus",
+    "Conditions",
+    "Armor Class",
+    "Hit Points"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Character Advancement",
+    "Combat"
+  ],
+  "rule_text": "## **Efreeti Bottle**\n",
+  "rule_hierarchy": "**Magic Items** > **Efreeti Bottle**"
+}

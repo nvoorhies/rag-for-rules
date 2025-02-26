@@ -1,0 +1,22 @@
+{
+  "section": "2",
+  "title": "**Speed**",
+  "explicit_references": [
+    "Player's Handbook",
+    "Equipment",
+    "Adventuring Gear",
+    "Using Ability Scores"
+  ],
+  "implicit_dependencies": [
+    "Monsters > Challenge",
+    "Combat > Initiative",
+    "Combat > Actions"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Movement or Exploration",
+    "Character Creation/Advancement"
+  ],
+  "rule_text": "## **Speed**\n\nA monster's speed tells you how far it can move on its turn. For more information on speed, see the *Player's Handbook.*\n\nAll creatures have a walking speed, simply called the monster's speed. Creatures that have no form of ground-based locomotion have a walking speed of 0 feet.\n\nSome creatures have one or more of the following additional movement modes.\n",
+  "rule_hierarchy": "**Monsters** > **Speed**"
+}

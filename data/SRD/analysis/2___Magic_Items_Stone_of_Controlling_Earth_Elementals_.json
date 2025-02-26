@@ -1,0 +1,20 @@
+{
+  "section": "2",
+  "title": "**Stone of Controlling Earth Elementals**",
+  "explicit_references": [
+    "Armor table",
+    "Equipment"
+  ],
+  "implicit_dependencies": [
+    "Armor Class",
+    "Actions in Combat",
+    "Damage and Healing"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment",
+    "Character Advancement"
+  ],
+  "rule_text": "## **Stone of Controlling Earth Elementals**\n\n*Wondrous item, rare*\n\nIf the stone is touching the ground, you can use an action to speak its command word and summon an earth elemental, as if you had cast the *conjure elemental* spell. The stone can't be used this way again until the next dawn. The stone weighs 5 pounds.\n",
+  "rule_hierarchy": "**Magic Items** > **Stone of Controlling Earth Elementals**"
+}

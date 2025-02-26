@@ -1,0 +1,23 @@
+{
+  "section": "4",
+  "title": "*Wondrous item, legendary*",
+  "explicit_references": [
+    "Equipment",
+    "Actions in Combat",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores",
+    "Saving Throws",
+    "Damage Types",
+    "The Environment",
+    "Conditions"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Creation/Advancement",
+    "Equipment"
+  ],
+  "rule_text": "#### *Wondrous item, legendary*\n\nThis iron bottle has a brass stopper. You can use an action to speak the flask's command word, targeting a creature that you can see within 60 feet of you. If the target is native to a plane of existence other than the one you're on, the target must succeed on a DC 17 Wisdom saving throw or be trapped in the flask. If the target has been trapped by the flask before, it has advantage on the saving throw. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn't need to breathe, eat, or drink and doesn't age.\n\nYou can use an action to remove the flask's stopper and release the creature the flask contains. The creature is friendly to you and your companions for 1 hour and obeys your commands for that duration. If you give no commands or give it a command that is likely to result in its death, it defends itself but otherwise takes no actions. At the end of the duration, the creature acts in accordance with its normal disposition and alignment.\n\nAn *identify* spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the GM or determined randomly.\n\n| d100  | Contents          |\n|-------|-------------------|\n| 1‒50  | Empty             |\n| 51‒54 | Demon\t(type\t1)    |\n| 55‒58 | Demon\t(type\t2)    |\n| 59‒62 | Demon\t(type\t3)    |\n| 63‒64 | Demon\t(type\t4)    |\n| 65    | Demon\t(type\t5)    |\n| 66    | Demon\t(type\t6)    |\n| 67    | Deva              |\n| 68‒69 | Devil\t(greater)   |\n| 70‒73 | Devil\t(lesser)    |\n| 74‒75 | Djinni            |\n| 76‒77 | Efreeti           |\n| 78‒83 | Elemental\t(any)   |\n| 84‒86 | Invisible\tstalker |\n| 87‒90 | Night\thag         |\n| 91    | Planetar          |\n| 92‒95 | Salamander        |\n| 96    | Solar             |\n| 97‒99 | Succubus/incubus  |\n| 100   | Xorn              |\n",
+  "rule_hierarchy": "**Magic Items** > **Horseshoes of Speed** > *Wondrous item, legendary*"
+}

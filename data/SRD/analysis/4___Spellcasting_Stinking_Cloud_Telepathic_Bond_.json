@@ -1,0 +1,28 @@
+{
+  "section": "4",
+  "title": "**Telepathic Bond**",
+  "explicit_references": [
+    "Races Racial Traits",
+    "Equipment",
+    "Adventuring Gear",
+    "Player's Handbook",
+    "Appendix PH-A: Conditions",
+    "Appendix MM-A: Miscellaneous Creatures",
+    "Appendix MM-B: Nonplayer Characters"
+  ],
+  "implicit_dependencies": [
+    "Spellcasting > Telepathic Bond",
+    "Skills",
+    "Saving Throws",
+    "Alignment",
+    "Challenge Rating"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Character Advancement",
+    "Social Interaction",
+    "Combat"
+  ],
+  "rule_text": "#### **Telepathic Bond**\n\n*5th-level divination (ritual)*\n\n**Casting Time:** 1 action **Range:** 30 feet **Components:** V, S, M (pieces of eggshell from two different kinds of creatures) **Duration:** 1 hour\n\nYou forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores of 2 or less aren't affected by this spell.\n\nUntil the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.\n",
+  "rule_hierarchy": "**Spellcasting** > **Stinking Cloud** > **Telepathic Bond**"
+}

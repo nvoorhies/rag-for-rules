@@ -1,0 +1,32 @@
+{
+  "section": "4",
+  "title": "*Weapon (trident), uncommon (requires attunement)*",
+  "explicit_references": [
+    "Magic Items > Weapon (trident), uncommon (requires attunement)",
+    "Player's Handbook",
+    "Equipment",
+    "Adventuring Gear",
+    "Skills",
+    "Actions in Combat",
+    "Movement and Position",
+    "Conditions",
+    "Beyond 1st Level > Character Advancement",
+    "Beyond 1st Level > Multiclassing",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Appendix MM-A: Miscellaneous Creatures",
+    "Appendix PH-A: Conditions"
+  ],
+  "implicit_dependencies": [
+    "Strength (ability)",
+    "Spellcasting (spell mechanics)",
+    "Creature Statistics (Armor Class, Hit Points, Speed, Skills, Actions, etc.)"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Spellcasting",
+    "Equipment",
+    "Character Advancement"
+  ],
+  "rule_text": "#### *Weapon (trident), uncommon (requires attunement)*\n\nThis trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast *dominate beast* (save DC 15) from it \n\non a beast that has an innate swimming speed. The trident regains 1d3 expended charges daily at dawn.\n",
+  "rule_hierarchy": "**Magic Items** > **Stone of Controlling Earth Elementals** > *Weapon (trident), uncommon (requires attunement)*"
+}

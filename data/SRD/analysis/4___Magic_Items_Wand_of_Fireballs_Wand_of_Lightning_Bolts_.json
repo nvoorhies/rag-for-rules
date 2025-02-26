@@ -1,0 +1,20 @@
+{
+  "section": "4",
+  "title": "**Wand of Lightning Bolts**",
+  "explicit_references": [
+    "Magic Items > Wand of Fireballs"
+  ],
+  "implicit_dependencies": [
+    "Beyond 1st Level",
+    "The Order of Combat",
+    "Using Ability Scores",
+    "Spells"
+  ],
+  "systems_affected": [
+    "Magic Items",
+    "Combat",
+    "Spellcasting"
+  ],
+  "rule_text": "#### **Wand of Lightning Bolts**\n",
+  "rule_hierarchy": "**Magic Items** > **Wand of Fireballs** > **Wand of Lightning Bolts**"
+}

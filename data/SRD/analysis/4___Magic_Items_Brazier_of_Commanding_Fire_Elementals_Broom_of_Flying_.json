@@ -1,0 +1,27 @@
+{
+  "section": "4",
+  "title": "**Broom of Flying**",
+  "explicit_references": [
+    "Magic Items > Broom of Flying",
+    "Player's Handbook",
+    "Equipment",
+    "Actions in Combat",
+    "The Environment > Difficult Terrain",
+    "Beyond 1st Level > Character Advancement",
+    "The Rules",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons"
+  ],
+  "implicit_dependencies": [
+    "Equipment > Armor",
+    "Using Ability Scores",
+    "Combat > Actions in Combat",
+    "Monsters > Challenge"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Movement or Exploration"
+  ],
+  "rule_text": "#### **Broom of Flying**\n",
+  "rule_hierarchy": "**Magic Items** > **Brazier of Commanding Fire Elementals** > **Broom of Flying**"
+}

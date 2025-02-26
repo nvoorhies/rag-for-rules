@@ -1,0 +1,51 @@
+{
+  "section": "4",
+  "title": "**Staff of Swarming Insects**",
+  "explicit_references": [
+    "Armor Class",
+    "Hit Points",
+    "Speed",
+    "Attack",
+    "Damage Immunities",
+    "Condition Immunities",
+    "Senses",
+    "Languages",
+    "Challenge",
+    "Innate Spellcasting",
+    "Magic Resistance",
+    "Actions",
+    "Melee Weapon Attack",
+    "Ranged Weapon Attack",
+    "Saving Throws",
+    "Skills",
+    "Pack Tactics",
+    "Flyby",
+    "Charge",
+    "Trampling Charge",
+    "Rejuvenation",
+    "Two-Headed",
+    "Amphibious",
+    "Multiattack",
+    "Regeneration",
+    "Shapechanger",
+    "Keen Smell",
+    "Spider Climb",
+    "Web Sense",
+    "Web Walker",
+    "Blood Frenzy",
+    "Limited Amphibiousness",
+    "Blood Drain"
+  ],
+  "implicit_dependencies": [
+    "Character Advancement",
+    "Armor",
+    "Weapons",
+    "Conditions"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Advancement"
+  ],
+  "rule_text": "#### **Staff of Swarming Insects**\n",
+  "rule_hierarchy": "**Magic Items** > **Robe of Eyes** > **Rope of Entanglement** > **Staff of Swarming Insects**"
+}

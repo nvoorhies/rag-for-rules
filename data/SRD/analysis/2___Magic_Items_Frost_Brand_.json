@@ -1,0 +1,25 @@
+{
+  "section": "2",
+  "title": "**Frost Brand**",
+  "explicit_references": [
+    "Character Advancement table",
+    "Player's Handbook",
+    "Armor table",
+    "Weapons table",
+    "Hit Dice by Size table",
+    "Appenix PH-A",
+    "Appendix PH-B"
+  ],
+  "implicit_dependencies": [
+    "The rules of combat.",
+    "Rules for spellcasting.",
+    "Rules for various conditions (charmed, frightened, etc.)."
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Creation/Advancement",
+    "Spellcasting"
+  ],
+  "rule_text": "## **Frost Brand**\n",
+  "rule_hierarchy": "**Magic Items** > **Frost Brand**"
+}

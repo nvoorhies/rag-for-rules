@@ -1,0 +1,29 @@
+{
+  "section": "4",
+  "title": "**Feather Token**",
+  "explicit_references": [
+    "Armor Class",
+    "Hit Points",
+    "Speed",
+    "Player's Handbook",
+    "Object Armor Class table",
+    "Object Hit Points table",
+    "Trap Save DCs and Attack Bonuses table",
+    "Damage Severity by Level table",
+    "Proficiency Bonus by Challenge Rating table",
+    "Attack action",
+    "bonus action",
+    "reaction"
+  ],
+  "implicit_dependencies": [
+    "The concepts of attack rolls, ability checks, and saving throws",
+    "The different game mechanics of the creatures or objects referenced in the stat block, such as damage, conditions, and special traits",
+    "The rules for movement"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character advancement"
+  ],
+  "rule_text": "#### **Feather Token**\n",
+  "rule_hierarchy": "**Magic Items** > **Eyes of Charming** > **Feather Token**"
+}

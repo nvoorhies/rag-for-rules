@@ -1,0 +1,27 @@
+{
+  "section": "4",
+  "title": "*Armor (shield), very rare (requires attunement)*",
+  "explicit_references": [
+    "Equipment",
+    "Actions in Combat",
+    "Character Advancement",
+    "Multiclassing",
+    "Appendix PH-A: Conditions",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Actions in Combat",
+    "Equipment",
+    "Proficiency Bonus by Challenge Rating",
+    "Creature Size",
+    "Saving Throws",
+    "Ability Scores"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Equipment"
+  ],
+  "rule_text": "#### *Armor (shield), very rare (requires attunement)*\n\nWhile holding this shield, you can speak its command word as a bonus action to cause it to animate. The shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The shield remains animated for 1 minute, until you use a bonus action to end this effect, or until you are incapacitated or die, at which point the shield falls to the ground or into your hand if you have one free.\n",
+  "rule_hierarchy": "**Magic Items** > **Amulet of Proof against Detection and Location** > *Armor (shield), very rare (requires attunement)*"
+}

@@ -1,0 +1,18 @@
+{
+  "section": "4",
+  "title": "**Decanter of Endless Water**",
+  "explicit_references": [],
+  "implicit_dependencies": [
+    "Magic Items > Decanter of Endless Water",
+    "Races > Racial Traits",
+    "Player's Handbook (for general information, such as conditions, attacks, abilities, spells, and equipment)",
+    "Monsters > [Any monster stat block]"
+  ],
+  "systems_affected": [
+    "Equipment",
+    "Combat",
+    "Exploration"
+  ],
+  "rule_text": "#### **Decanter of Endless Water**\n",
+  "rule_hierarchy": "**Magic Items** > **Crystal Ball** > **Decanter of Endless Water**"
+}

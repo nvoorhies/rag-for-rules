@@ -1,0 +1,19 @@
+{
+  "section": "4",
+  "title": "**Gloves of Missile Snaring**",
+  "explicit_references": [
+    "Magic Items > Gloves of Missile Snaring",
+    "Equipment"
+  ],
+  "implicit_dependencies": [
+    "Ability Score Increase",
+    "Armor Class",
+    "Actions in Combat"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment"
+  ],
+  "rule_text": "#### **Gloves of Missile Snaring**\n",
+  "rule_hierarchy": "**Magic Items** > **Gem of Seeing** > **Gloves of Missile Snaring**"
+}

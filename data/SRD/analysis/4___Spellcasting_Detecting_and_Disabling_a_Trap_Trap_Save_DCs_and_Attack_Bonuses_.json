@@ -1,0 +1,34 @@
+{
+  "section": "4",
+  "title": "**Trap Save DCs and Attack Bonuses**",
+  "explicit_references": [
+    "Detecting and Disabling a Trap",
+    "Equipment",
+    "Movement and Position",
+    "Using Ability Scores",
+    "Appendix PH-A: Conditions",
+    "The Planes of Existence"
+  ],
+  "implicit_dependencies": [
+    "Attack",
+    "Saving Throws",
+    "Armor Class",
+    "Hit Points",
+    "Action Surge",
+    "Extra Attack",
+    "Strength",
+    "Proficiency Bonus",
+    "Character Advancement",
+    "Fighting Style",
+    "Improved Critical",
+    "Survivor"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Skills or ability checks",
+    "Character creation/advancement",
+    "Movement or exploration"
+  ],
+  "rule_text": "#### **Trap Save DCs and Attack Bonuses**\n\n| Trap\tDanger | Save\tDC | Attack\tBonus |\n|-------------|---------|--------------|\n| Setback     | 10–11   | +3\tto\t+5     |\n| Dangerous   | 12–15   | +6\tto\t+8     |\n| Deadly      | 16–20   | +9\tto\t+12    |\n",
+  "rule_hierarchy": "**Spellcasting** > **Detecting and Disabling a Trap** > **Trap Save DCs and Attack Bonuses**"
+}

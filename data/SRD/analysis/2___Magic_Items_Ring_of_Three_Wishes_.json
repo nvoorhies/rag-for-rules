@@ -1,0 +1,25 @@
+{
+  "section": "2",
+  "title": "**Ring of Three Wishes**",
+  "explicit_references": [
+    "Magic Items > Ring of Three Wishes",
+    "The Player's Handbook",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Appendix MM-A: Miscellaneous Creatures"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Proficiency Bonus",
+    "Actions in Combat",
+    "Spellcasting"
+  ],
+  "systems_affected": [
+    "Character creation/advancement",
+    "Combat",
+    "Magic Items",
+    "Spellcasting"
+  ],
+  "rule_text": "## **Ring of Three Wishes**\n",
+  "rule_hierarchy": "**Magic Items** > **Ring of Three Wishes**"
+}

@@ -1,0 +1,52 @@
+{
+  "section": "2",
+  "title": "**Periapt of Proof against Poison**",
+  "explicit_references": [
+    "Races Racial Traits",
+    "Dwarf Dwarf Traits",
+    "Elf Elf Traits",
+    "Halfling Halfling Traits",
+    "Human Human Traits",
+    "Dragonborn Dragonborn Traits",
+    "Gnome Gnome Traits",
+    "Half-Elf Half-Elf Traits",
+    "Half-Orc Half-Orc Traits",
+    "Tiefling Tiefling Traits",
+    "Barbarian Class Features",
+    "Bard Class Features",
+    "Cleric Class Features",
+    "Druid Class Features",
+    "Fighter Class Features",
+    "Monk Class Features",
+    "Paladin Class Features",
+    "Ranger Class Features",
+    "Rogue Class Features",
+    "Sorcerer Class Features",
+    "Warlock Class Features",
+    "Wizard Class Features",
+    "Beyond 1st Level",
+    "Multiclassing",
+    "The Environment",
+    "Armor",
+    "Weapons",
+    "Adventuring Gear",
+    "Tools",
+    "Mounts and Vehicles",
+    "The Barbarian Table",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Appendix MM-A: Miscellaneous Creatures"
+  ],
+  "implicit_dependencies": [
+    "The Player's Handbook",
+    "Combat Rules",
+    "Ability Scores and Modifiers"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Advancement",
+    "Equipment"
+  ],
+  "rule_text": "## **Periapt of Proof against Poison**\n",
+  "rule_hierarchy": "**Magic Items** > **Periapt of Proof against Poison**"
+}

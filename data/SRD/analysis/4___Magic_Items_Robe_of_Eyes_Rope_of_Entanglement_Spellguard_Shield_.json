@@ -1,0 +1,31 @@
+{
+  "section": "4",
+  "title": "**Spellguard Shield**",
+  "explicit_references": [
+    "Magic Items > Spellguard Shield",
+    "The six ability scores",
+    "Armor Class (AC)",
+    "Making an Attack",
+    "Reactions",
+    "Actions in Combat",
+    "Skills",
+    "Monsters (A) > Aboleth",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Armor",
+    "Weapons",
+    "Combat Step by Step",
+    "Challenge",
+    "Reactions",
+    "Attack Rolls and Damage"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Skills or ability checks"
+  ],
+  "rule_text": "#### **Spellguard Shield**\n\n*Armor (shield), very rare (requires attunement)*\n\nWhile holding this shield, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you.\n",
+  "rule_hierarchy": "**Magic Items** > **Robe of Eyes** > **Rope of Entanglement** > **Spellguard Shield**"
+}

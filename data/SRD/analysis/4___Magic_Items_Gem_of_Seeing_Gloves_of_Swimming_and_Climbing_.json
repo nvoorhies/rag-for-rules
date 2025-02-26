@@ -1,0 +1,19 @@
+{
+  "section": "4",
+  "title": "**Gloves of Swimming and Climbing**",
+  "explicit_references": [
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Ability Score Increase",
+    "Armor Class",
+    "Experience Points by Challenge Rating"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Senses"
+  ],
+  "rule_text": "#### **Gloves of Swimming and Climbing**\n\n*Wondrous item, uncommon (requires attunement)*\n\nWhile wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.\n",
+  "rule_hierarchy": "**Magic Items** > **Gem of Seeing** > **Gloves of Swimming and Climbing**"
+}

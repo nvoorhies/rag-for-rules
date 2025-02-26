@@ -1,0 +1,31 @@
+{
+  "section": "4",
+  "title": "**Mace of Terror**",
+  "explicit_references": [
+    "Magic Items > Mace of Terror",
+    "Player's Handbook",
+    "Monsters",
+    "Actions in Combat",
+    "Movement and Position",
+    "Damage and Healing",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Equipment",
+    "Mounts and Vehicles",
+    "The Planes of Existence"
+  ],
+  "implicit_dependencies": [
+    "Player's Handbook > Making an Attack",
+    "Player's Handbook > Ability Scores and Modifiers",
+    "Player's Handbook > Saving Throws",
+    "The Order of Combat"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment",
+    "Character creation/advancement",
+    "Interactions with the Environment"
+  ],
+  "rule_text": "#### **Mace of Terror**\n",
+  "rule_hierarchy": "**Magic Items** > **Javelin of Lightning** > **Mace of Terror**"
+}

@@ -1,0 +1,31 @@
+{
+  "section": "2",
+  "title": "**Circlet of Blasting**",
+  "explicit_references": [
+    "Magic Items",
+    "Adventuring Gear",
+    "Using Ability Scores",
+    "Movement",
+    "Actions in Combat",
+    "Appendix PH-A: Conditions",
+    "Equipment Packs",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Beyond 1st Level",
+    "Multiclassing",
+    "The Planes of Existence"
+  ],
+  "implicit_dependencies": [
+    "Races Racial Traits",
+    "Proficiency Bonus by Challenge Rating",
+    "Character Advancement",
+    "Alignment"
+  ],
+  "systems_affected": [
+    "Magic Items",
+    "Spellcasting",
+    "Combat",
+    "Character creation/advancement"
+  ],
+  "rule_text": "## **Circlet of Blasting**\n\n*Wondrous item, uncommon*\n\nWhile wearing this circlet, you can use an action to cast the *scorching ray* spell with it. When you make the spell's attacks, you do so with an attack bonus of +5. The circlet can't be used this way again until the next dawn.\n",
+  "rule_hierarchy": "**Magic Items** > **Circlet of Blasting**"
+}

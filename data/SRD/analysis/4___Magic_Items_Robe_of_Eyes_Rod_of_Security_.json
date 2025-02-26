@@ -1,0 +1,31 @@
+{
+  "section": "4",
+  "title": "**Rod of Security**",
+  "explicit_references": [
+    "Magic Items > Amulet of Health",
+    "Races Racial Traits",
+    "Racial Traits",
+    "Player's Handbook",
+    "Magic Items",
+    "Player's Handbook",
+    "Conditions",
+    "Equipment",
+    "Appendix PH-A: Conditions",
+    "The Planes of Existence",
+    "Appendix MM-A: Miscellaneous Creatures"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "The Order of Combat",
+    "Movement",
+    "Spellcasting"
+  ],
+  "systems_affected": [
+    "Character creation/advancement",
+    "Combat",
+    "Magic Items",
+    "Spellcasting"
+  ],
+  "rule_text": "#### **Rod of Security**\n",
+  "rule_hierarchy": "**Magic Items** > **Robe of Eyes** > **Rod of Security**"
+}

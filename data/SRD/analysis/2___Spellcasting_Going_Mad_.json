@@ -1,0 +1,25 @@
+{
+  "section": "2",
+  "title": "**Going Mad**",
+  "explicit_references": [
+    "Races Racial Traits",
+    "Going Mad",
+    "Equipment",
+    "Combat",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Proficiency Bonus by Challenge Rating",
+    "Armor, Weapon, and Tool Proficiencies",
+    "Actions in Combat"
+  ],
+  "systems_affected": [
+    "Character Creation/Advancement",
+    "Skills or ability checks",
+    "Combat",
+    "Spellcasting"
+  ],
+  "rule_text": "## **Going Mad**\n\nVarious magical effects can inflict madness on an otherwise stable mind. Certain spells, such as *contact other plane* and *symbol*, can cause insanity, and you can use the madness rules here instead of the spell effects of those spells*.* Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.\n\nResisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw.\n",
+  "rule_hierarchy": "**Spellcasting** > **Going Mad**"
+}

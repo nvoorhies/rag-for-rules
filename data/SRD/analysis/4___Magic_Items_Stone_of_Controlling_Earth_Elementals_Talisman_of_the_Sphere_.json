@@ -1,0 +1,29 @@
+{
+  "section": "4",
+  "title": "**Talisman of the Sphere**",
+  "explicit_references": [
+    "Magic Items > Talisman of the Sphere",
+    "Magic Items > Weapon (any sword), rare (requires attunement)",
+    "Armor",
+    "Actions in Combat",
+    "Monsters",
+    "Player's Handbook",
+    "Appendix PH-A: Conditions"
+  ],
+  "implicit_dependencies": [
+    "Races Racial Traits",
+    "Classes > Fighter",
+    "Using Ability Scores",
+    "Downtime Activities",
+    "Combat Step by Step",
+    "The Environment"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Equipment",
+    "Spellcasting"
+  ],
+  "rule_text": "#### **Talisman of the Sphere**\n",
+  "rule_hierarchy": "**Magic Items** > **Stone of Controlling Earth Elementals** > **Talisman of the Sphere**"
+}

@@ -1,0 +1,50 @@
+{
+  "section": "2",
+  "title": "**Ring of Invisibility**",
+  "explicit_references": [
+    "Magic Items > Ring of Invisibility",
+    "Races Racial Traits",
+    "Dwarf Dwarf Traits",
+    "Elf Elf Traits",
+    "Halfling Halfling Traits",
+    "Human Human Traits",
+    "Dragonborn Dragonborn Traits",
+    "Gnome Gnome Traits",
+    "Half-Elf Half-Elf Traits",
+    "Half-Orc Half-Orc Traits",
+    "Tiefling Tiefling Traits",
+    "Barbarian",
+    "Bard",
+    "Cleric",
+    "Druid",
+    "Fighter",
+    "Monk",
+    "Paladin",
+    "Ranger",
+    "Rogue",
+    "Sorcerer",
+    "Warlock",
+    "Wizard",
+    "Beyond 1st Level",
+    "Multiclassing",
+    "Appendix PH-A: Conditions",
+    "Appendix MM-A: Miscellaneous Creatures"
+  ],
+  "implicit_dependencies": [
+    "Actions in Combat",
+    "Movement and Position",
+    "Armor, Weapons, and Tools",
+    "Ability Scores and Modifiers",
+    "Spellcasting",
+    "Challenge Rating",
+    "Saving Throws"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Spellcasting",
+    "Equipment",
+    "Character Creation/Advancement"
+  ],
+  "rule_text": "## **Ring of Invisibility**\n\n*Ring, legendary (requires attunement)*\n\nWhile wearing this ring, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again.\n",
+  "rule_hierarchy": "**Magic Items** > **Ring of Invisibility**"
+}

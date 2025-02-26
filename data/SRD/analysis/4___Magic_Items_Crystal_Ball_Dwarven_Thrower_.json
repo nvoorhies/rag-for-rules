@@ -1,0 +1,42 @@
+{
+  "section": "4",
+  "title": "**Dwarven Thrower**",
+  "explicit_references": [
+    "Magic Items > Dwarven Thrower",
+    "Races > Racial Traits",
+    "Equipment > Armor",
+    "Equipment > Weapons",
+    "The Barbarian",
+    "The Bard",
+    "The Cleric",
+    "The Druid",
+    "The Fighter",
+    "The Monk",
+    "The Paladin",
+    "The Ranger",
+    "The Rogue",
+    "The Sorcerer",
+    "The Warlock",
+    "The Wizard",
+    "Character Advancement",
+    "Multiclassing",
+    "Appendix PH-A: Conditions",
+    "Appendix MM-A: Miscellaneous Creatures",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Appendix PH-C: The Planes of Existence"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Actions in Combat",
+    "Challenge Rating",
+    "Equipment (including weapons, armor, and tools)"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Advancement",
+    "Equipment",
+    "Spellcasting"
+  ],
+  "rule_text": "#### **Dwarven Thrower**\n",
+  "rule_hierarchy": "**Magic Items** > **Crystal Ball** > **Dwarven Thrower**"
+}

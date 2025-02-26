@@ -1,0 +1,26 @@
+{
+  "section": "4",
+  "title": "**Eyes of the Eagle**",
+  "explicit_references": [
+    "Equipment",
+    "Hit Points",
+    "Actions in Combat",
+    "Movement and Position",
+    "Attack",
+    "Armor Class",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Creature Statistics (STR, DEX, CON, INT, WIS, CHA)",
+    "Ability Checks",
+    "Saving Throws",
+    "Combat (Initiative, Rounds, Turns)"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Movement or exploration"
+  ],
+  "rule_text": "#### **Eyes of the Eagle**\n",
+  "rule_hierarchy": "**Magic Items** > **Eyes of Charming** > **Eyes of the Eagle**"
+}

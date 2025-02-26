@@ -1,0 +1,37 @@
+{
+  "section": "4",
+  "title": "**Giant Fly**",
+  "explicit_references": [
+    "Armor",
+    "Ability Scores and Modifiers",
+    "Proficiency Bonus by Challenge Rating",
+    "Skills",
+    "Use Magic Device",
+    "Ammunition",
+    "Beast Shapes",
+    "The Environment",
+    "Actions in Combat",
+    "The Elemental Planes"
+  ],
+  "implicit_dependencies": [
+    "Creature size",
+    "Saving throws",
+    "Armor class",
+    "Hit points",
+    "Attack rolls",
+    "Damage",
+    "Damage types",
+    "Conditions",
+    "Proficiencies",
+    "Alignment",
+    "Languages"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Skills or ability checks",
+    "Movement or exploration"
+  ],
+  "rule_text": "#### **Giant Fly**\n\n*Large beast, unaligned*\n",
+  "rule_hierarchy": "**Magic Items** > **Figurine of Wondrous Power** > **Giant Fly**"
+}

@@ -1,0 +1,29 @@
+{
+  "section": "2",
+  "title": "**Potion of Poison**",
+  "explicit_references": [
+    "Armor table",
+    "Equipment section",
+    "Player's Handbook",
+    "Amulet of Health",
+    "greater restoration",
+    "lesser restoration",
+    "magic circle",
+    "plane shift"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores",
+    "Challenge Rating",
+    "Conditions (Appendix PH-A)",
+    "Spellcasting",
+    "Languages"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Advancement",
+    "Equipment",
+    "Spellcasting"
+  ],
+  "rule_text": "## **Potion of Poison**\n",
+  "rule_hierarchy": "**Magic Items** > **Potion of Poison**"
+}

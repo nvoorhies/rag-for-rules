@@ -1,0 +1,20 @@
+{
+  "section": "3",
+  "title": "**Oil of Slipperiness**",
+  "explicit_references": [
+    "Magic Items > Oil of Sharpness > Oil of Slipperiness",
+    "Player's Handbook > Appendix PH-A: Conditions"
+  ],
+  "implicit_dependencies": [
+    "Player's Handbook > Armor",
+    "Player's Handbook > Weapons",
+    "Player's Handbook > Ability Scores and Modifiers"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Equipment"
+  ],
+  "rule_text": "### **Oil of Slipperiness**\n",
+  "rule_hierarchy": "**Magic Items** > **Oil of Sharpness** > **Oil of Slipperiness**"
+}

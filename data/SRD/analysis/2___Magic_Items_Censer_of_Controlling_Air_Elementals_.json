@@ -1,0 +1,19 @@
+{
+  "section": "2",
+  "title": "**Censer of Controlling Air Elementals**",
+  "explicit_references": [
+    "The *Player's Handbook*",
+    "Hit Dice by Size table"
+  ],
+  "implicit_dependencies": [
+    "Armor Class",
+    "Hit Points",
+    "Melee and Ranged Attacks"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement"
+  ],
+  "rule_text": "## **Censer of Controlling Air Elementals**\n",
+  "rule_hierarchy": "**Magic Items** > **Censer of Controlling Air Elementals**"
+}

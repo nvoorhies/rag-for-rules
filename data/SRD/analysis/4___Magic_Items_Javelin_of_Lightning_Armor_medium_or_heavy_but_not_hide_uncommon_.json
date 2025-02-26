@@ -1,0 +1,9 @@
+{
+  "section": "4",
+  "title": "*Armor (medium or heavy, but not hide), uncommon*",
+  "explicit_references": [],
+  "implicit_dependencies": [],
+  "systems_affected": [],
+  "rule_text": "#### *Armor (medium or heavy, but not hide), uncommon*\n\nMithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.\n",
+  "rule_hierarchy": "**Magic Items** > **Javelin of Lightning** > *Armor (medium or heavy, but not hide), uncommon*"
+}

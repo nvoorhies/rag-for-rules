@@ -1,0 +1,23 @@
+{
+  "section": "4",
+  "title": "*Potion, rare*",
+  "explicit_references": [
+    "Magic Items > Potion of Mind Reading > *Potion, rare*",
+    "Player's Handbook",
+    "Actions in Combat"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Chapter 9: Equipment",
+    "Appendix PH-A: Conditions",
+    "The Order of Combat"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Advancement",
+    "Equipment",
+    "Spellcasting"
+  ],
+  "rule_text": "#### *Potion, rare*\n\nWhen you drink this potion, you gain the effect of the *detect thoughts* spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it.\n",
+  "rule_hierarchy": "**Magic Items** > **Potion of Mind Reading** > *Potion, rare*"
+}

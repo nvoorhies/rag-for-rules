@@ -1,0 +1,37 @@
+{
+  "section": "2",
+  "title": "**Sample Diseases**",
+  "explicit_references": [
+    "Spellcasting",
+    "The Player's Handbook",
+    "Appendix PH-A: Conditions",
+    "Armor table",
+    "Weapons table",
+    "Player's Handbook",
+    "Your Spellbook",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Mounts and Other Animals table",
+    "Travel Pace table",
+    "Hit Dice by Size table",
+    "Object Armor Class table",
+    "Object Hit Points table",
+    "Trap Save DCs and Attack Bonuses table",
+    "Damage Severity by Level table"
+  ],
+  "implicit_dependencies": [
+    "Races Racial Traits",
+    "Class Features (e.g., Barbarian, Bard, Cleric, Druid)",
+    "Ability Scores and Modifiers",
+    "Proficiency Bonus",
+    "Saving Throws",
+    "Actions in Combat"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Creation/Advancement",
+    "Spellcasting",
+    "Equipment"
+  ],
+  "rule_text": "## **Sample Diseases**\n\nThe diseases here illustrate the variety of ways disease can work in the game. Feel free to alter the saving throw DCs, incubation times, symptoms, and other characteristics of these diseases to suit your campaign.\n",
+  "rule_hierarchy": "**Spellcasting** > **Sample Diseases**"
+}

@@ -1,0 +1,18 @@
+{
+  "section": "4",
+  "title": "**Talisman of Pure Good**",
+  "explicit_references": [
+    "Magic Items > Talisman of Pure Good"
+  ],
+  "implicit_dependencies": [
+    "Races > Ability Score Increase",
+    "The Barbarian > Rage",
+    "The Cleric > Spellcasting"
+  ],
+  "systems_affected": [
+    "Character creation/advancement",
+    "Spellcasting"
+  ],
+  "rule_text": "#### **Talisman of Pure Good**\n",
+  "rule_hierarchy": "**Magic Items** > **Stone of Controlling Earth Elementals** > **Talisman of Pure Good**"
+}

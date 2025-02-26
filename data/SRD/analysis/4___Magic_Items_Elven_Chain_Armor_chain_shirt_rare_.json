@@ -1,0 +1,18 @@
+{
+  "section": "4",
+  "title": "*Armor (chain shirt), rare*",
+  "explicit_references": [
+    "Magic Items > Armor (chain shirt), rare"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Armor",
+    "Equipment"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Creation/Advancement"
+  ],
+  "rule_text": "#### *Armor (chain shirt), rare*\n\nYou gain a +1 bonus to AC while you wear this armor. You are considered proficient with this armor even if you lack proficiency with medium armor.\n",
+  "rule_hierarchy": "**Magic Items** > **Elven Chain** > *Armor (chain shirt), rare*"
+}

@@ -1,0 +1,21 @@
+{
+  "section": "4",
+  "title": "**Luck Blade**",
+  "explicit_references": [
+    "Magic Items > Luck Blade",
+    "Using Ability Scores",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "The Order of Combat",
+    "Armor",
+    "Weapons"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Equipment"
+  ],
+  "rule_text": "#### **Luck Blade**\n",
+  "rule_hierarchy": "**Magic Items** > **Javelin of Lightning** > **Luck Blade**"
+}

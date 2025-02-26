@@ -1,0 +1,32 @@
+{
+  "section": "4",
+  "title": "**Wind Walk**",
+  "explicit_references": [
+    "The Player's Handbook",
+    "Armor table",
+    "Weapons table",
+    "Table: Object Armor Class",
+    "Table: Object Hit Points",
+    "Trap Save DCs and Attack Bonuses table",
+    "Damage Severity by Level table",
+    "Challenge Rating by Proficiency Bonus table",
+    "Apparatus of the Crab Levers table"
+  ],
+  "implicit_dependencies": [
+    "Rules for spellcasting (casting time, range, components, duration, concentration)",
+    "Combat rules (actions, bonus actions, reactions, movement, attacks, saving throws, advantage/disadvantage, cover, grappling, opportunity attacks)",
+    "Rules for skill checks",
+    "Rules for character creation and advancement",
+    "Rules for conditions (e.g., blinded, charmed, frightened, poisoned)",
+    "Rules for resting and exhaustion"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Spellcasting",
+    "Equipment",
+    "Character Advancement",
+    "Conditions"
+  ],
+  "rule_text": "#### **Wind Walk**\n",
+  "rule_hierarchy": "**Spellcasting** > **True Resurrection** > **Wind Walk**"
+}

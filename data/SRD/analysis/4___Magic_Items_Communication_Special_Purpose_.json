@@ -1,0 +1,9 @@
+{
+  "section": "4",
+  "title": "**Special Purpose**",
+  "explicit_references": [],
+  "implicit_dependencies": [],
+  "systems_affected": [],
+  "rule_text": "#### **Special Purpose**\n\nYou can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You \n\ncan pick a special purpose or roll on the following table.\n",
+  "rule_hierarchy": "**Magic Items** > **Communication** > **Special Purpose**"
+}

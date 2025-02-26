@@ -1,0 +1,45 @@
+{
+  "section": "3",
+  "title": "**Horseshoes of a Zephyr**",
+  "explicit_references": [
+    "Equipment",
+    "Attack action",
+    "Actions in Combat",
+    "Movement and Position",
+    "Unseen Attackers and Targets",
+    "The Environment",
+    "The Order of Combat",
+    "Character Advancement",
+    "Multiclassing Prerequisites",
+    "Multiclassing Proficiencies",
+    "Channel Divinity",
+    "Extra Attack",
+    "Armor Class",
+    "Hit Points",
+    "Strength",
+    "Dexterity",
+    "Constitution",
+    "Intelligence",
+    "Wisdom",
+    "Charisma",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Proficiency Bonus",
+    "Saving Throws",
+    "Damage Types",
+    "Challenge Rating",
+    "Alignment",
+    "Languages",
+    "Equipment"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Skills or ability checks",
+    "Movement or exploration"
+  ],
+  "rule_text": "### **Horseshoes of a Zephyr**\n\n*Wondrous item, very rare*\n\nThese iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above nonsolid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march.\n",
+  "rule_hierarchy": "**Magic Items** > **Gem of Seeing** > **Horseshoes of a Zephyr**"
+}

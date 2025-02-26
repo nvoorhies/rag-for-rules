@@ -1,0 +1,30 @@
+{
+  "section": "4",
+  "title": "**Armor, +1, +2, or +3**",
+  "explicit_references": [
+    "Races Racial Traits",
+    "Using Ability Scores",
+    "Armor",
+    "Weapons",
+    "Equipment",
+    "Character Advancement",
+    "The Planes of Existence",
+    "Appendix PH-A: Conditions",
+    "Appendix MM-A: Miscellaneous Creatures",
+    "Appendix PH-B: Fantasy-Historical Pantheons"
+  ],
+  "implicit_dependencies": [
+    "Combat",
+    "Character Creation/Advancement",
+    "Equipment",
+    "Spells",
+    "Conditions"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Creation/Advancement",
+    "Equipment"
+  ],
+  "rule_text": "#### **Armor, +1, +2, or +3**\n\n*Armor (light, medium, or heavy), rare (+1), very rare (+2), or legendary (+3)*\n\nYou have a bonus to AC while wearing this armor. The bonus is determined by its rarity.\n",
+  "rule_hierarchy": "**Magic Items** > **Amulet of Proof against Detection and Location** > **Armor, +1, +2, or +3**"
+}

@@ -1,0 +1,23 @@
+{
+  "section": "4",
+  "title": "**Giant Slayer**",
+  "explicit_references": [
+    "Magic Items > Ring of Protection",
+    "Beyond 1st Level",
+    "Armor",
+    "Equipment",
+    "Player's Handbook",
+    "Appendix PH-A: Conditions"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Actions in Combat",
+    "Making an Attack"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement"
+  ],
+  "rule_text": "#### **Giant Slayer**\n",
+  "rule_hierarchy": "**Magic Items** > **Gem of Seeing** > **Giant Slayer**"
+}

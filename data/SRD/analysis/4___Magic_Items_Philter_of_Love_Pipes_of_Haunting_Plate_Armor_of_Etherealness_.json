@@ -1,0 +1,27 @@
+{
+  "section": "4",
+  "title": "**Plate Armor of Etherealness**",
+  "explicit_references": [
+    "Magic Items > Amulet of the Planes",
+    "Player's Handbook > Actions in Combat",
+    "Player's Handbook > Conditions",
+    "Player's Handbook > Equipment",
+    "Player's Handbook > Squeezing into a Smaller Space",
+    "Player's Handbook > Spellcasting",
+    "Player's Handbook > The Planes of Existence"
+  ],
+  "implicit_dependencies": [
+    "Magic Items > Magic Items A-Z",
+    "Races",
+    "Character Advancement > The Character Advancement table",
+    "Using Ability Scores > Ability Scores and Modifiers",
+    "Weapons"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Equipment"
+  ],
+  "rule_text": "#### **Plate Armor of Etherealness**\n",
+  "rule_hierarchy": "**Magic Items** > **Philter of Love** > **Pipes of Haunting** > **Plate Armor of Etherealness**"
+}

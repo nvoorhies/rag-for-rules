@@ -1,0 +1,28 @@
+{
+  "section": "4",
+  "title": "**Short-Term Madness**",
+  "explicit_references": [
+    "Player's Handbook",
+    "Creature Size",
+    "Explosive Runes",
+    "Hedge Prison",
+    "Mummy Lord"
+  ],
+  "implicit_dependencies": [
+    "Ability Checks",
+    "Saving Throws",
+    "Combat",
+    "Spells",
+    "Armor Class",
+    "Hit Points"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Magic Items",
+    "Spellcasting",
+    "Combat Movement",
+    "Character Progression"
+  ],
+  "rule_text": "#### **Short-Term Madness**\n\n| d100  | Effect\t(lasts\t1d10\tminutes)                                                                        |\n|-------|----------------------------------------------------------------------------------------------------|\n| 01–20 | The\tcharacter\tretreats\tinto\this\tor\ther\tmind\tand                                                    |\n|       | becomes\tparalyzed.\tThe\teffect\tends\tif\tthe                                                          |\n|       | character\ttakes\tany\tdamage.                                                                        |\n| 21–30 | The\tcharacter\tbecomes\tincapacitated\tand<br>spends\tthe\tduration\tscreaming,\tlaughing,\tor<br>weeping. |\n| 31–40 | The\tcharacter\tbecomes\tfrightened\tand\tmust<br>use\this\tor\ther\taction\tand\tmovement\teach               |\n\n- round to flee from the source of the fear. 41–50 The character begins babbling and is incapable of normal speech or spellcasting.\n\n|  | 51–60  | The\tcharacter\tmust\tuse\this\tor\ther\taction\teach<br>round\tto\tattack\tthe\tnearest\tcreature.                       |\n|--|--------|--------------------------------------------------------------------------------------------------------------|\n|  | 61–70  | The\tcharacter\texperiences\tvivid\thallucinations<br>and\thas\tdisadvantage\ton\tability\tchecks.                    |\n|  | 71–75  | The\tcharacter\tdoes\twhatever\tanyone\ttells\thim<br>or\ther\tto\tdo\tthat\tisn't\tobviously\tself<br>destructive.       |\n|  | 76–80  | The\tcharacter\texperiences\tan\toverpowering<br>urge\tto\teat\tsomething\tstrange\tsuch\tas\tdirt,<br>slime,\tor\toffal. |\n|  | 81–90  | The\tcharacter\tis\tstunned.                                                                                    |\n|  | 91–100 | The\tcharacter\tfalls\tunconscious.                                                                             |\n",
+  "rule_hierarchy": "**Spellcasting** > **Madness Effects** > **Short-Term Madness**"
+}

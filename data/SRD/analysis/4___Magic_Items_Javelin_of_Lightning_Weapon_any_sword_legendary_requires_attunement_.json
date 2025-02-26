@@ -1,0 +1,38 @@
+{
+  "section": "4",
+  "title": "*Weapon (any sword), legendary (requires attunement)*",
+  "explicit_references": [
+    "Armor table",
+    "Player's Handbook",
+    "Melee Weapon Attack",
+    "Ranged Weapon Attack",
+    "Dexterity saving throw",
+    "DC 15 Constitution saving throw",
+    "Strength saving throw",
+    "DC 11 Constitution saving throw",
+    "DC 10 Wisdom saving throw",
+    "Wisdom (Perception) check",
+    "Constitution saving throw",
+    "DC 13 Constitution saving throw",
+    "DC 17 Dexterity saving throw",
+    "AC 20",
+    "DC 14 Constitution saving throw",
+    "DC 16 Constitution saving throw",
+    "DC 17 Strength check"
+  ],
+  "implicit_dependencies": [
+    "Equipment (armor, weapons, and related properties like ammunition)",
+    "Ability Scores (specifically Strength, Dexterity, Constitution, Wisdom, and Charisma) and Modifiers",
+    "Skills (specifically Athletics, Perception, Stealth, and Intimidation)",
+    "Conditions (e.g., Charmed, Frightened, Poisoned)",
+    "Combat Rules (e.g., attack rolls, damage rolls, saves, and reach)",
+    "Challenge Rating and Experience Point Calculation"
+  ],
+  "systems_affected": [
+    "Combat (attack rolls, damage, saving throws, and conditions)",
+    "Skills (Athletics, Perception, and Stealth)",
+    "Character Advancement (experience points)"
+  ],
+  "rule_text": "#### *Weapon (any sword), legendary (requires attunement)*\n\nYou gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.\n\n*Luck.* If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.\n\n*Wish.* The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the *wish* spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.\n",
+  "rule_hierarchy": "**Magic Items** > **Javelin of Lightning** > *Weapon (any sword), legendary (requires attunement)*"
+}

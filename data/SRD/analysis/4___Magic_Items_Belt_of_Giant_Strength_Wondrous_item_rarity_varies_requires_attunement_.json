@@ -1,0 +1,41 @@
+{
+  "section": "4",
+  "title": "*Wondrous item, rarity varies (requires attunement)*",
+  "explicit_references": [
+    "Magic Items >  Armor, +1, +2, or +3",
+    "Magic Items >  Ammunition, +1, +2, or +3",
+    "Player's Handbook: Armor Class",
+    "Player's Handbook: Using Ability Scores",
+    "Player's Handbook: the condition",
+    "Appendix PH-A: Conditions",
+    "Player's Handbook: the attack roll",
+    "Magic Items > Component Pouch",
+    "Magic Items > Spellcasting Focus",
+    "Player's Handbook: Equipment",
+    "Player's Handbook: Spellcasting",
+    "Magic Items",
+    "Races Racial Traits > Ability Score Increase",
+    "Races Racial Traits",
+    "Races Racial Traits > Age",
+    "Races Racial Traits > Alignment",
+    "Races Racial Traits > Size",
+    "Races Racial Traits > Speed",
+    "Races Racial Traits > Languages",
+    "Races Racial Traits > Subraces"
+  ],
+  "implicit_dependencies": [
+    "Player's Handbook > Chapter 7: Using Ability Scores",
+    "Player's Handbook > Chapter 7: Actions in Combat",
+    "Player's Handbook > Chapter 9: Equipment",
+    "Player's Handbook > The Rules of the Game",
+    "The Monster Manual > Monsters (various)",
+    "Player's Handbook > Appendix PH-B: Fantasy-Historical Pantheons"
+  ],
+  "systems_affected": [
+    "Character creation/advancement",
+    "Combat",
+    "Spellcasting"
+  ],
+  "rule_text": "#### *Wondrous item, rarity varies (requires attunement)*\n\nWhile wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.\n\nSix varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The *belt of stone giant strength* and the *belt of frost giant strength* look different, but they have the same effect.\n\n| Type              | Strength | Rarity    |\n|-------------------|----------|-----------|\n| Hill\tgiant        | 21       | Rare      |\n| Stone/frost\tgiant | 23       | Very\trare |\n| Fire\tgiant        | 25       | Very\trare |\n| Cloud\tgiant       | 27       | Legendary |\n| Storm\tgiant       | 29       | Legendary |\n",
+  "rule_hierarchy": "**Magic Items** > **Belt of Giant Strength** > *Wondrous item, rarity varies (requires attunement)*"
+}

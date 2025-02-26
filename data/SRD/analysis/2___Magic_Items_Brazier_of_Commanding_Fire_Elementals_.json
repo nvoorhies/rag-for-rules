@@ -1,0 +1,30 @@
+{
+  "section": "2",
+  "title": "**Brazier of Commanding Fire Elementals**",
+  "explicit_references": [
+    "Magic Items > Brazier of Commanding Fire Elementals",
+    "Magic Items",
+    "Spellcasting",
+    "Equipment > Weapon Properties",
+    "Equipment > Armor",
+    "Actions in Combat",
+    "Actions in Combat > Attack",
+    "Actions in Combat > Cast a Spell",
+    "Appendix PH-A: Conditions"
+  ],
+  "implicit_dependencies": [
+    "Making an Attack",
+    "The Order of Combat",
+    "Using Ability Scores",
+    "The Planes of Existence > The Material Plane",
+    "The Planes of Existence > Beyond the Material"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Combat",
+    "Equipment",
+    "Movement and Position"
+  ],
+  "rule_text": "## **Brazier of Commanding Fire Elementals**\n\n*Wondrous item, rare*\n\nWhile a fire burns in this brass brazier, you can use an action to speak the brazier's command word and summon a fire elemental, as if you had cast the *conjure elemental* spell. The brazier can't be used this way again until the next dawn.\n\nThe brazier weighs 5 pounds.\n",
+  "rule_hierarchy": "**Magic Items** > **Brazier of Commanding Fire Elementals**"
+}

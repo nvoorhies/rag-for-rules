@@ -1,0 +1,29 @@
+{
+  "section": "4",
+  "title": "*Wondrous item, very rare*",
+  "explicit_references": [
+    "The *Player's Handbook*",
+    "The Armor table",
+    "The *Player's Handbook*",
+    "The *Player's Handbook*",
+    "The *Player's Handbook*",
+    "Appendix PH-A",
+    "Appendix PH-A",
+    "Appendix PH-B",
+    "Appendix PH-A",
+    "Appendix PH-A"
+  ],
+  "implicit_dependencies": [
+    "Ability Score Increase",
+    "Racial Traits",
+    "Armor and Weapons",
+    "Attack Rolls and Damage"
+  ],
+  "systems_affected": [
+    "Character creation/advancement",
+    "Combat",
+    "Equipment"
+  ],
+  "rule_text": "#### *Wondrous item, very rare*\n\nThis book contains intuition and insight exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Wisdom score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.\n",
+  "rule_hierarchy": "**Magic Items** > **Stone of Controlling Earth Elementals** > *Wondrous item, very rare*"
+}

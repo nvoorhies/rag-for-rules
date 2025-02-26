@@ -1,0 +1,25 @@
+{
+  "section": "4",
+  "title": "**Shield of Missile Attraction**",
+  "explicit_references": [
+    "Armor (shield), rare (requires attunement)",
+    "remove curse",
+    "Equipment",
+    "the *Player's Handbook*",
+    "action"
+  ],
+  "implicit_dependencies": [
+    "Making an Attack",
+    "Conditions",
+    "Saving Throws",
+    "Attunement"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Magic Items",
+    "Character Advancement",
+    "Spellcasting"
+  ],
+  "rule_text": "#### **Shield of Missile Attraction**\n\n*Armor (shield), rare (requires attunement)*\n\nWhile holding this shield, you have resistance to damage from ranged weapon attacks.\n\n*Curse.* This shield is cursed. Attuning to it curses you until you are targeted by the *remove curse* spell or similar magic. Removing the shield fails to end the curse on you. Whenever a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.\n",
+  "rule_hierarchy": "**Magic Items** > **Robe of Eyes** > **Rope of Entanglement** > **Shield of Missile Attraction**"
+}

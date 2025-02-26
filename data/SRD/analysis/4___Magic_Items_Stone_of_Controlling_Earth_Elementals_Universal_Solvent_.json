@@ -1,0 +1,18 @@
+{
+  "section": "4",
+  "title": "**Universal Solvent**",
+  "explicit_references": [
+    "Magic Items > Universal Solvent"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Equipment",
+    "Beyond 1st Level"
+  ],
+  "systems_affected": [
+    "Equipment",
+    "Character creation/advancement"
+  ],
+  "rule_text": "#### **Universal Solvent**\n",
+  "rule_hierarchy": "**Magic Items** > **Stone of Controlling Earth Elementals** > **Universal Solvent**"
+}

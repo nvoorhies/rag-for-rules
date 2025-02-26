@@ -1,0 +1,53 @@
+{
+  "section": "4",
+  "title": "**d100 Effect** 01–10 The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.",
+  "explicit_references": [
+    "Magic Items > Efreeti Bottle > d100 Effect",
+    "Races Racial Traits",
+    "Dwarf Dwarf Traits",
+    "Elf Elf Traits",
+    "Halfling Halfling Traits",
+    "Human Human Traits",
+    "Dragonborn Dragonborn Traits",
+    "Gnome Gnome Traits",
+    "Half-Elf Half-Elf Traits",
+    "Half-Orc Half-Orc Traits",
+    "Tiefling Tiefling Traits",
+    "Barbarian > Class Features",
+    "Bard > Class Features",
+    "Cleric > Class Features",
+    "Druid > Class Features",
+    "Fighter > Class Features",
+    "Monk > Class Features",
+    "Paladin > Class Features",
+    "Ranger > Class Features",
+    "Rogue > Class Features",
+    "Sorcerer > Class Features",
+    "Warlock > Class Features",
+    "Wizard > Class Features",
+    "Beyond 1st Level > Character Advancement",
+    "Beyond 1st Level > Multiclassing",
+    "Alignment",
+    "Languages",
+    "Inspiration",
+    "Backgrounds",
+    "Equipment",
+    "Using Ability Scores",
+    "Appendix PH-A: Conditions",
+    "Appendix MM-A: Miscellaneous Creatures"
+  ],
+  "implicit_dependencies": [
+    "Combat rules (for actions, attack rolls, and effects of being in combat)",
+    "Rules for magic items and their attunement, use, and properties",
+    "Rules for spellcasting (spell levels, spell slots, components)",
+    "Rules for saving throws"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Spellcasting",
+    "Character advancement (level, abilities, saves)",
+    "Environment (specifically the effect of combat, magic items, and spells)"
+  ],
+  "rule_text": "#### **d100 Effect** 01–10 The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.\n\n- 11–90 The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the\n\n| bottle\tis\topened\ta\tfourth\ttime,\tthe\tefreeti      |\n|--------------------------------------------------|\n| escapes\tand\tdisappears,\tand\tthe\tbottle\tloses\tits |\n| magic.                                           |\n|                                                  |\n\n- 91–00 The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.",
+  "rule_hierarchy": "**Magic Items** > **Efreeti Bottle** > **d100 Effect** 01–10 The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic."
+}

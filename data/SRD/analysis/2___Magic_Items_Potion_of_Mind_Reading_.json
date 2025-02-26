@@ -1,0 +1,39 @@
+{
+  "section": "2",
+  "title": "**Potion of Mind Reading**",
+  "explicit_references": [
+    "Armor Class",
+    "Hit Points",
+    "Speed",
+    "Strength",
+    "Dexterity",
+    "Constitution",
+    "Intelligence",
+    "Wisdom",
+    "Charisma",
+    "Skills",
+    "Senses",
+    "Languages",
+    "Challenge",
+    "Multiattack",
+    "Melee Weapon Attack",
+    "Ranged Weapon Attack",
+    "Saving Throws",
+    "Condition Immunities",
+    "Damage Immunities",
+    "Damage Resistances",
+    "Actions"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Proficiencies",
+    "Equipment",
+    "Actions in Combat"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement"
+  ],
+  "rule_text": "## **Potion of Mind Reading**\n",
+  "rule_hierarchy": "**Magic Items** > **Potion of Mind Reading**"
+}

@@ -1,0 +1,42 @@
+{
+  "section": "4",
+  "title": "*Potion, rare*",
+  "explicit_references": [
+    "Armor",
+    "Languages",
+    "Equipment",
+    "Action Surge",
+    "Extra Attack",
+    "Fighting Style",
+    "Remarkable Athlete",
+    "Survivor",
+    "Frenzy",
+    "Mindless Rage",
+    "Primal Path",
+    "Frenzy",
+    "Bonus Action",
+    "Actions in Combat",
+    "Two-Weapon Fighting",
+    "Initiative",
+    "Armor Class",
+    "Saving Throw",
+    "Ability Check",
+    "Attack Roll",
+    "Opportunity Attack"
+  ],
+  "implicit_dependencies": [
+    "Beyond 1st Level",
+    "Races Racial Traits",
+    "Equipment",
+    "Using Ability Scores",
+    "Conditions",
+    "The Planes of Existence"
+  ],
+  "systems_affected": [
+    "Character creation/advancement",
+    "Combat",
+    "Movement or exploration"
+  ],
+  "rule_text": "#### *Potion, rare*\n\nBeads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional  vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the *etherealness* spell for 1 hour.\n",
+  "rule_hierarchy": "**Magic Items** > **Javelin of Lightning** > *Potion, rare*"
+}

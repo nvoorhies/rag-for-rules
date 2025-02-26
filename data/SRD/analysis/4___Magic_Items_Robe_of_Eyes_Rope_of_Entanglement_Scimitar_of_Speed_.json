@@ -1,0 +1,39 @@
+{
+  "section": "4",
+  "title": "**Scimitar of Speed**",
+  "explicit_references": [
+    "Player's Handbook",
+    "Equipment",
+    "Actions in Combat",
+    "Saving Throws",
+    "Concentration",
+    "Frightful Presence",
+    "Greater Restoration",
+    "Blink Dog",
+    "Hades",
+    "Plane of Fire",
+    "Rogue > Sneak Attack",
+    "Cleric Spells",
+    "Druid Circle",
+    "Enlarge/Reduce",
+    "Control Water",
+    "Minor Illusion",
+    "Greater Absorption",
+    "Magic Missile"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "The Order of Combat",
+    "Damage Types",
+    "Condition Immunities",
+    "Races Racial Traits"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Spellcasting",
+    "Skills or Ability Checks",
+    "Character Creation/Advancement"
+  ],
+  "rule_text": "#### **Scimitar of Speed**\n\n*Weapon (scimitar), very rare (requires attunement)*\n\nYou gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.\n",
+  "rule_hierarchy": "**Magic Items** > **Robe of Eyes** > **Rope of Entanglement** > **Scimitar of Speed**"
+}

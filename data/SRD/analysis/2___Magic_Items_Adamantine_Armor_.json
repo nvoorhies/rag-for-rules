@@ -1,0 +1,36 @@
+{
+  "section": "2",
+  "title": "**Adamantine Armor**",
+  "explicit_references": [
+    "Equipment",
+    "Player's Handbook",
+    "Actions in Combat",
+    "Making an Attack",
+    "Movement and Position",
+    "Combat Step by Step",
+    "Creatures",
+    "Multiclassing Prerequisites",
+    "Multiclassing Proficiencies",
+    "The Environment",
+    "Proficiency Bonus by Challenge Rating"
+  ],
+  "implicit_dependencies": [
+    "Armor",
+    "Critical Hits",
+    "Damage Types",
+    "Saving Throws",
+    "Attack Rolls",
+    "Ability Scores",
+    "Conditions"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Advancement/Leveling",
+    "Skills/Ability Checks",
+    "Movement",
+    "Equipment",
+    "Spells"
+  ],
+  "rule_text": "## **Adamantine Armor**\n\n*Armor (medium or heavy, but not hide), uncommon*\n\nThis suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.\n",
+  "rule_hierarchy": "**Magic Items** > **Adamantine Armor**"
+}

@@ -1,0 +1,18 @@
+{
+  "section": "2",
+  "title": "**Ring of Water Walking**",
+  "explicit_references": [
+    "Magic Items > Ring of Water Walking"
+  ],
+  "implicit_dependencies": [
+    "Races Racial Traits",
+    "Using Ability Scores",
+    "The Order of Combat"
+  ],
+  "systems_affected": [
+    "Movement or exploration",
+    "Character creation/advancement"
+  ],
+  "rule_text": "## **Ring of Water Walking**\n",
+  "rule_hierarchy": "**Magic Items** > **Ring of Water Walking**"
+}

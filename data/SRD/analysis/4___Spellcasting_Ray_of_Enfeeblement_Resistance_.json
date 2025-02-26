@@ -1,21 +1,9 @@
 {
   "section": "4",
   "title": "**Resistance**",
-  "explicit_references": [
-    "Dwarf Dwarf Traits",
-    "Equipment",
-    "Adventuring Gear",
-    "The Planes of Existence"
-  ],
-  "implicit_dependencies": [
-    "Spellcasting",
-    "Attack Rolls and Damage",
-    "Saving Throws"
-  ],
-  "systems_affected": [
-    "Spellcasting",
-    "Combat"
-  ],
+  "explicit_references": [],
+  "implicit_dependencies": [],
+  "systems_affected": [],
   "rule_text": "#### **Resistance**\n\n*Abjuration cantrip*\n\n**Casting Time:** 1 action **Range:** Touch **Components:** V, S, M (a miniature cloak) **Duration:** Concentration, up to 1 minute\n\nYou touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.\n",
   "rule_hierarchy": "**Spellcasting** > **Ray of Enfeeblement** > **Resistance**"
 }

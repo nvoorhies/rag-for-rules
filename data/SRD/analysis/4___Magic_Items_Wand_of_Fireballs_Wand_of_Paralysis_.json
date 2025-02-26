@@ -1,0 +1,20 @@
+{
+  "section": "4",
+  "title": "**Wand of Paralysis**",
+  "explicit_references": [
+    "Magic Items >  This section",
+    "Armor > The Armor table"
+  ],
+  "implicit_dependencies": [
+    "Ability Score Increase",
+    "Proficiencies",
+    "Combat"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment",
+    "Character creation/advancement"
+  ],
+  "rule_text": "#### **Wand of Paralysis**\n",
+  "rule_hierarchy": "**Magic Items** > **Wand of Fireballs** > **Wand of Paralysis**"
+}

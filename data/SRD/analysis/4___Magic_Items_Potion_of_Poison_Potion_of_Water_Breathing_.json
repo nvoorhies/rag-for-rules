@@ -1,0 +1,30 @@
+{
+  "section": "4",
+  "title": "**Potion of Water Breathing**",
+  "explicit_references": [
+    "Appendix PH-A: Conditions",
+    "Actions in Combat",
+    "Movement and Position",
+    "Using Ability Scores",
+    "Equipment",
+    "Armor",
+    "Weapons",
+    "The Planes of Existence",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Armor Class (AC)",
+    "Hit Points and Hit Dice",
+    "Challenge Rating",
+    "Saving Throws",
+    "Attack Rolls"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Movement or exploration",
+    "Character creation/advancement"
+  ],
+  "rule_text": "#### **Potion of Water Breathing**\n\n*Potion, uncommon*\n\nYou can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.\n",
+  "rule_hierarchy": "**Magic Items** > **Potion of Poison** > **Potion of Water Breathing**"
+}

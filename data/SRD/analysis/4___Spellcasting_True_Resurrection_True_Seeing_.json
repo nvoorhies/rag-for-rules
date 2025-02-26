@@ -1,0 +1,27 @@
+{
+  "section": "4",
+  "title": "**True Seeing**",
+  "explicit_references": [
+    "Armor",
+    "Equipment",
+    "Languages",
+    "Saving Throws",
+    "Skills",
+    "Appendix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Mounts and Vehicles",
+    "Actions in Combat",
+    "Using Ability Scores"
+  ],
+  "implicit_dependencies": [
+    "Spellcasting",
+    "Attack Rolls and Damage",
+    "Creature Size"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Combat"
+  ],
+  "rule_text": "#### **True Seeing**\n\n*6th-level divination*\n\n**Casting Time:** 1 action\n\n**Range:** Touch\n\n**Components:** V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell) **Duration:** 1 hour\n\nThis spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has truesight, notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet.\n",
+  "rule_hierarchy": "**Spellcasting** > **True Resurrection** > **True Seeing**"
+}

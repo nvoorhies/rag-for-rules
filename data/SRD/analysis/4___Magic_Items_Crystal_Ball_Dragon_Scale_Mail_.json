@@ -1,0 +1,22 @@
+{
+  "section": "4",
+  "title": "**Dragon Scale Mail**",
+  "explicit_references": [
+    "Magic Items > Dragon Scale Mail",
+    "The Players Handbook"
+  ],
+  "implicit_dependencies": [
+    "Races Racial Traits",
+    "The Order of Combat",
+    "Using Ability Scores",
+    "Between Adventures",
+    "Monsters"
+  ],
+  "systems_affected": [
+    "Character creation/advancement",
+    "Combat",
+    "Equipment"
+  ],
+  "rule_text": "#### **Dragon Scale Mail**\n",
+  "rule_hierarchy": "**Magic Items** > **Crystal Ball** > **Dragon Scale Mail**"
+}

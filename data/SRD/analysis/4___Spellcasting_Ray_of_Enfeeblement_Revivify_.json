@@ -1,22 +1,9 @@
 {
   "section": "4",
   "title": "**Revivify**",
-  "explicit_references": [
-    "Spellcasting > Revivify",
-    "Player's Handbook:  (page omitted)",
-    "Armor",
-    "Equipment"
-  ],
-  "implicit_dependencies": [
-    "Spellcasting > Components",
-    "Appendix PH-A: Conditions",
-    "Combat > Action Economy"
-  ],
-  "systems_affected": [
-    "Spellcasting",
-    "Combat",
-    "Character Creation/Advancement"
-  ],
+  "explicit_references": [],
+  "implicit_dependencies": [],
+  "systems_affected": [],
   "rule_text": "#### **Revivify**\n\n*3rd-level necromancy*\n\n**Casting Time:** 1 action **Range:** Touch **Components:** V, S, M (diamonds worth 300 gp, which the spell consumes) **Duration:** Instantaneous\n\nYou touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.\n",
   "rule_hierarchy": "**Spellcasting** > **Ray of Enfeeblement** > **Revivify**"
 }

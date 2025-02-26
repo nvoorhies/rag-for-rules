@@ -1,0 +1,53 @@
+{
+  "section": "4",
+  "title": "**Potion of Resistance**",
+  "explicit_references": [
+    "Magic Items > Potion of Poison",
+    "Races Racial Traits",
+    "Dwarf Dwarf Traits",
+    "Elf Elf Traits",
+    "Halfling Halfling Traits",
+    "Human Human Traits",
+    "Dragonborn Dragonborn Traits",
+    "Gnome Gnome Traits",
+    "Half-Elf Half-Elf Traits",
+    "Half-Orc Half-Orc Traits",
+    "Tiefling Tiefling Traits",
+    "Barbarian",
+    "Bard",
+    "Cleric",
+    "Druid",
+    "Fighter",
+    "Monk",
+    "Paladin",
+    "Ranger",
+    "Rogue",
+    "Sorcerer",
+    "Warlock",
+    "Wizard",
+    "Beyond 1st Level",
+    "Multiclassing Prerequisites",
+    "Armor",
+    "Weapons",
+    "Adventuring Gear",
+    "Mounts and Vehicles",
+    "Objects",
+    "Spellcasting",
+    "Appendix PH-A: Conditions",
+    "Appendix MM-A: Miscellaneous",
+    "Appendix MM-B: Nonplayer Characters"
+  ],
+  "implicit_dependencies": [
+    "Making an Attack",
+    "Actions in Combat",
+    "Saving Throws",
+    "Ability Scores and Modifiers"
+  ],
+  "systems_affected": [
+    "Character creation/advancement",
+    "Combat",
+    "Magic Item Use"
+  ],
+  "rule_text": "#### **Potion of Resistance**\n",
+  "rule_hierarchy": "**Magic Items** > **Potion of Poison** > **Potion of Resistance**"
+}

@@ -1,0 +1,20 @@
+{
+  "section": "4",
+  "title": "**Ammunition, +1, +2, or +3**",
+  "explicit_references": [
+    "Races Racial Traits",
+    "Using Ability Scores"
+  ],
+  "implicit_dependencies": [
+    "Armor, +1, +2, or +3 > Armor (medium or heavy, but not hide)",
+    "Actions in Combat > Attack",
+    "Beyond 1st Level"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment",
+    "Character creation/advancement"
+  ],
+  "rule_text": "#### **Ammunition, +1, +2, or +3**\n\n*Weapon (any ammunition), uncommon (+1), rare (+2), or very rare (+3)*\n\nYou have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.\n",
+  "rule_hierarchy": "**Magic Items** > **Adamantine Armor** > **Ammunition, +1, +2, or +3**"
+}

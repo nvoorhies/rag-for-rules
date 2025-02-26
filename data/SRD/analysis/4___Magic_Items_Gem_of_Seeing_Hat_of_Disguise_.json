@@ -1,0 +1,32 @@
+{
+  "section": "4",
+  "title": "**Hat of Disguise**",
+  "explicit_references": [
+    "Armor > Plate",
+    "Armor > Chain Shirt",
+    "Skills > Athletics",
+    "Skills > Stealth",
+    "The Environment > Sunlight Sensitivity",
+    "The Environment > Difficult Terrain",
+    "Weapons > Finesse",
+    "Combat > Actions in Combat",
+    "The Spellcasting ability > Spell Save DC",
+    "The Planes of Existence > Ethereal Plane",
+    "The Planes of Existence > Astral Plane"
+  ],
+  "implicit_dependencies": [
+    "Armor Class",
+    "Hit Points",
+    "Speed",
+    "Skills",
+    "Languages",
+    "Challenge Rating"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Creation/Advancement",
+    "The Environment"
+  ],
+  "rule_text": "#### **Hat of Disguise**\n\n*Wondrous item, uncommon (requires attunement)*\n\nWhile wearing this hat, you can use an action to cast the *disguise self* spell from it at will. The spell ends if the hat is removed.\n",
+  "rule_hierarchy": "**Magic Items** > **Gem of Seeing** > **Hat of Disguise**"
+}

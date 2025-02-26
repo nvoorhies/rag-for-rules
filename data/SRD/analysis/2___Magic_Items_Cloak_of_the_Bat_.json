@@ -1,0 +1,47 @@
+{
+  "section": "2",
+  "title": "**Cloak of the Bat**",
+  "explicit_references": [
+    "Magic Items > Cloak of the Bat",
+    "Races Racial Traits",
+    "Dwarf Dwarf Traits",
+    "Elf Elf Traits",
+    "Halfling Halfling Traits",
+    "Human Human Traits",
+    "Dragonborn Dragonborn Traits",
+    "Gnome Gnome Traits",
+    "Half-Elf Half-Elf Traits",
+    "Half-Orc Half-Orc Traits",
+    "Tiefling Tiefling Traits",
+    "Barbarian Class Features",
+    "Rage Damage",
+    "Bard Class Features",
+    "Cleric Class Features",
+    "Druid Class Features",
+    "Fighter Class Features",
+    "Monk Class Features",
+    "Paladin Class Features",
+    "Ranger Class Features",
+    "Rogue Class Features",
+    "Sorcerer Class Features",
+    "Warlock Class Features",
+    "Wizard Class Features",
+    "Experience Points by Challenge Rating"
+  ],
+  "implicit_dependencies": [
+    "Races Racial Traits",
+    "Level Advancement (Beyond 1st Level)",
+    "Actions in Combat",
+    "Ability Scores and Modifiers"
+  ],
+  "systems_affected": [
+    "Magic Items",
+    "Spellcasting",
+    "Skills and Ability Checks",
+    "Movement and Exploration",
+    "Character Creation/Advancement",
+    "Combat"
+  ],
+  "rule_text": "## **Cloak of the Bat**\n\n*Wondrous item, rare (requires attunement)*\n\nWhile wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.\n\nWhile wearing the cloak in an area of dim light or darkness, you can use your action to cast *polymorph* on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.\n",
+  "rule_hierarchy": "**Magic Items** > **Cloak of the Bat**"
+}

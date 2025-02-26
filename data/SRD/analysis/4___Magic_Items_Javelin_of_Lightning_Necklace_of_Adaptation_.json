@@ -1,0 +1,32 @@
+{
+  "section": "4",
+  "title": "**Necklace of Adaptation**",
+  "explicit_references": [
+    "Magic Items > Necklace of Adaptation",
+    "Equipment",
+    "Adventuring Gear",
+    "Player's Handbook",
+    "Conditions",
+    "Player's Handbook",
+    "The Planes of Existence",
+    "Ammunition",
+    "Bases of operations and other places",
+    "Appendix PH-A: Conditions",
+    "Appendix MM-A: Miscellaneous Creatures",
+    "Appendix PH-B: Fantasy-Historical Pantheons"
+  ],
+  "implicit_dependencies": [
+    "Equipment",
+    "Using Ability Scores",
+    "Adventuring Gear",
+    "Rules for Combat"
+  ],
+  "systems_affected": [
+    "Character creation/advancement",
+    "Combat",
+    "Equipment",
+    "Conditions"
+  ],
+  "rule_text": "#### **Necklace of Adaptation**\n",
+  "rule_hierarchy": "**Magic Items** > **Javelin of Lightning** > **Necklace of Adaptation**"
+}

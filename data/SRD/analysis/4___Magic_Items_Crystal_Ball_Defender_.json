@@ -1,0 +1,29 @@
+{
+  "section": "4",
+  "title": "**Defender**",
+  "explicit_references": [
+    "Armor table",
+    "Hit Dice by Size table",
+    "Player's Handbook",
+    "Travel Pace table",
+    "Weapons table",
+    "Appenix PH-A: Conditions",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Appendix MM-A: Miscellaneous Creatures",
+    "Appendix MM-B: Nonplayer Characters"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Challenge Rating",
+    "Armor Class",
+    "Hit Points",
+    "Actions in Combat"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment",
+    "Character Advancement"
+  ],
+  "rule_text": "#### **Defender**\n\n*Weapon (any sword), legendary (requires attunement)*\n\nYou gain a +3 bonus to attack and damage rolls made with this magic weapon.\n\nThe first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.\n",
+  "rule_hierarchy": "**Magic Items** > **Crystal Ball** > **Defender**"
+}

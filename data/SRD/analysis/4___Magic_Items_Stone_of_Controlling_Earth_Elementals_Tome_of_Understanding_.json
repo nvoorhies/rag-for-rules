@@ -1,0 +1,23 @@
+{
+  "section": "4",
+  "title": "**Tome of Understanding**",
+  "explicit_references": [
+    "Magic Items > Tome of Understanding",
+    "Class Features > Hit Points",
+    "Class Features > Proficiencies",
+    "Class Features > Equipment",
+    "Character Advancement table"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Using Ability Scores",
+    "Proficiency Bonus",
+    "Class features"
+  ],
+  "systems_affected": [
+    "Character creation/advancement",
+    "Skills or ability checks"
+  ],
+  "rule_text": "#### **Tome of Understanding**\n",
+  "rule_hierarchy": "**Magic Items** > **Stone of Controlling Earth Elementals** > **Tome of Understanding**"
+}

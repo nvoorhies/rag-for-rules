@@ -1,0 +1,45 @@
+{
+  "section": "4",
+  "title": "**Stoneskin**",
+  "explicit_references": [
+    "Races Racial Traits",
+    "Player's Handbook",
+    "Equipment",
+    "Armor",
+    "Weapons",
+    "Actions in Combat",
+    "Actions in Combat",
+    "The Environment",
+    "The Environments",
+    "Hit Points",
+    "Character Advancement",
+    "Multiclassing Prerequisites",
+    "Multiclassing Proficiencies",
+    "Channel Divinity",
+    "Extra Attack",
+    "Unarmored Defense",
+    "Spellcasting",
+    "Beast Shapes",
+    "Beast Shapes",
+    "Bonus Proficiencies",
+    "Cutting Words",
+    "Additional Magical Secrets",
+    "Peerless Skill"
+  ],
+  "implicit_dependencies": [
+    "Ability Scores and Modifiers",
+    "Proficiency Bonus",
+    "Skills",
+    "Conditions",
+    "Saving Throws",
+    "Attack Rolls"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Creation/Advancement",
+    "Spellcasting",
+    "Movement or Exploration"
+  ],
+  "rule_text": "#### **Stoneskin**\n\n*4th-level abjuration*\n\n**Casting Time:** 1 action **Range:** Touch **Components:** V, S, M (diamond dust worth 100 gp, which the spell consumes) **Duration:** Concentration, up to 1 hour\n\nThis spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.\n",
+  "rule_hierarchy": "**Spellcasting** > **Stinking Cloud** > **Stoneskin**"
+}

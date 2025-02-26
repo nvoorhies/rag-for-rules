@@ -1,0 +1,28 @@
+{
+  "section": "4",
+  "title": "**Alignment**",
+  "explicit_references": [
+    "Mounts and Other Animals table",
+    "Creature vs. Target",
+    "The Eight Types of Magic",
+    "appendix PH-A",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Understanding of character levels and experience points",
+    "Understanding of ability scores and modifiers",
+    "Understanding of conditions and their effects"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character creation/advancement",
+    "Spellcasting",
+    "Equipment",
+    "Social Interaction",
+    "Senses",
+    "Movement"
+  ],
+  "rule_text": "#### **Alignment**\n\nA sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.\n\n| d100  | Alignment      | d100  | Alignment       |\n|-------|----------------|-------|-----------------|\n| 01–15 | Lawful\tgood    | 74–85 | Chaotic\tneutral |\n| 16–35 | Neutral\tgood   | 86–89 | Lawful\tevil     |\n| 36–50 | Chaotic\tgood   | 90–96 | Neutral\tevil    |\n| 51–63 | Lawful\tneutral | 97–00 | Chaotic\tevil    |\n| 64–73 | Neutral        |       |                 |\n",
+  "rule_hierarchy": "**Magic Items** > **Communication** > **Alignment**"
+}

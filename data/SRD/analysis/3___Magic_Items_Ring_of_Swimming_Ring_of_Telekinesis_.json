@@ -1,0 +1,37 @@
+{
+  "section": "3",
+  "title": "**Ring of Telekinesis**",
+  "explicit_references": [
+    "Magic Items > Ring of Telekinesis",
+    "Armor",
+    "Weapons",
+    "Skills",
+    "Player's Handbook",
+    "Appendix PH-A: Conditions",
+    "Spellcasting",
+    "Challenge",
+    "Experience Points",
+    "Proficiency Bonus by Challenge Rating",
+    "Creature Size",
+    "Multiattack",
+    "Teleportation Circle",
+    "Multiclassing",
+    "Player's Handbook",
+    "Appendix PH-B: Fantasy-Historical Pantheons",
+    "Races Racial Traits"
+  ],
+  "implicit_dependencies": [
+    "Actions in Combat",
+    "The Environment",
+    "Character Advancement",
+    "Beyond 1st Level",
+    "Multiclassing"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Combat",
+    "Character creation/advancement"
+  ],
+  "rule_text": "### **Ring of Telekinesis**\n\n*Ring, very rare (requires attunement)*\n\nWhile wearing this ring, you can cast the *telekinesis* spell at will, but you can target only objects that aren't being worn or carried.\n",
+  "rule_hierarchy": "**Magic Items** > **Ring of Swimming** > **Ring of Telekinesis**"
+}

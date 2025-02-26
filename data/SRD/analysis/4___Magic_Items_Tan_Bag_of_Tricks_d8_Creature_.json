@@ -1,0 +1,21 @@
+{
+  "section": "4",
+  "title": "**d8 Creature**",
+  "explicit_references": [
+    "Magic Items > Tan Bag of Tricks > d8 Creature",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Races Racial Traits",
+    "Using Ability Scores",
+    "Armor",
+    "Weapons"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character advancement",
+    "Equipment"
+  ],
+  "rule_text": "#### **d8 Creature**\n\n- 1 Jackal\n- 2 Ape\n- 3 Baboon 4 Axe beak\n- 5 Black bear\n- 6 Giant weasel\n- 7 Giant hyena\n- 8 Tiger\n",
+  "rule_hierarchy": "**Magic Items** > **Tan Bag of Tricks** > **d8 Creature**"
+}

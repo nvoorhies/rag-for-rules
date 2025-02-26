@@ -1,0 +1,20 @@
+{
+  "section": "4",
+  "title": "**Dimensional Shackles**",
+  "explicit_references": [
+    "Armor table",
+    "Equipment"
+  ],
+  "implicit_dependencies": [
+    "Magic Items > Dimensional Shackles",
+    "Player's Handbook: Armor Class",
+    "Player's Handbook: Actions in Combat"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Equipment",
+    "Movement or Exploration"
+  ],
+  "rule_text": "#### **Dimensional Shackles**\n",
+  "rule_hierarchy": "**Magic Items** > **Crystal Ball** > **Dimensional Shackles**"
+}

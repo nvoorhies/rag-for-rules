@@ -1,0 +1,25 @@
+{
+  "section": "4",
+  "title": "**Spell Scroll**",
+  "explicit_references": [
+    "Magic Items > Spell Scroll",
+    "Armor",
+    "Equipment",
+    "Weapon"
+  ],
+  "implicit_dependencies": [
+    "Player's Handbook > Using Ability Scores > Ability Checks",
+    "Player's Handbook > Player's Handbook",
+    "Character Advancement > Experience Points",
+    "Player's Handbook > Actions in Combat > Actions in Combat",
+    "Player's Handbook > The Environment"
+  ],
+  "systems_affected": [
+    "Spellcasting",
+    "Equipment",
+    "Character Advancement",
+    "Combat"
+  ],
+  "rule_text": "#### **Spell Scroll**\n",
+  "rule_hierarchy": "**Magic Items** > **Robe of Eyes** > **Rope of Entanglement** > **Spell Scroll**"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "4",
+  "title": "**Object Armor Class**",
+  "explicit_references": [
+    "Object Armor Class",
+    "Actions in Combat",
+    "Spellcasting",
+    "Player's Handbook"
+  ],
+  "implicit_dependencies": [
+    "Using Ability Scores",
+    "Proficiency Bonus by Challenge Rating",
+    "Hit Points",
+    "Conditions"
+  ],
+  "systems_affected": [
+    "Combat",
+    "Character Creation/Advancement"
+  ],
+  "rule_text": "#### **Object Armor Class**\n\n| Substance           | AC |\n|---------------------|----|\n| Cloth,\tpaper,\trope  | 11 |\n| Crystal,\tglass,\tice | 13 |\n| Wood,\tbone          | 15 |\n| Stone               | 17 |\n| Iron,\tsteel         | 19 |\n| Mithral             | 21 |\n| Adamantine          | 23 |\n\n*Hit Points.* An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.\n",
+  "rule_hierarchy": "**Spellcasting** > **Objects** > **Object Armor Class**"
+}
