@@ -1,4 +1,4 @@
-## Legal Information
+# Legal Information
 
 The System Reference Document 5.1 is provided to you free of charge under the terms of the Creative Commons [Attribution 4.0 International License ("CC-BY-4.0"). You are free](https://creativecommons.org/licenses/by/4.0/legalcode) to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:
 
@@ -12,7 +12,8 @@ Section 5 of CC-BY-4.0 includes a Disclaimer of Warranties and Limitation of Lia
 
 If you note any errors in this document, please let us know by emailing askdnd@wizards.com.
 
-## **Races Racial Traits**
+# **Races**
+### **Racial Traits**
 
 The description of each race includes racial traits that are common to members of that race. The following entries appear among the traits of most races.
 
@@ -44,41 +45,55 @@ By virtue of your race, your character can speak, read, and write certain langua
 
 Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world. 
 
-## **Dwarf Dwarf Traits**
+## **Dwarf**
+### **Dwarf Traits**
 
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 
-*Ability Score Increase.* Your Constitution score increases by 2.
+#### *Ability Score Increase.* Your Constitution score increases by 2.
 
-*Age.* Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
+#### *Age.*
+Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
 
-*Alignment.* Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
+#### *Alignment.*
+Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
 
-*Size.* Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
+#### *Size.*
+Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 
-*Speed.* Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
+#### *Speed.*
+Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
 
-*Darkvision.* Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+#### *Darkvision.*
+Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-*Dwarven Resilience.* You have advantage on saving throws against poison, and you have resistance against poison damage.
+#### *Dwarven Resilience.*
+You have advantage on saving throws against poison, and you have resistance against poison damage.
 
-*Dwarven Combat Training.* You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+#### *Dwarven Combat Training.*
+You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
 
-*Tool Proficiency.* You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.
+#### *Tool Proficiency.*
+You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.
 
-*Stonecunning.* Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+#### *Stonecunning.*
+Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
-*Languages.* You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+#### *Languages.*
+You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
 #### **Hill Dwarf**
 
 As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
 
-*Ability Score Increase.* Your Wisdom score increases by 1.
+##### *Ability Score Increase.*
+Your Wisdom score increases by 1.
 
-*Dwarven Toughness.* Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+##### *Dwarven Toughness.*
+Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
-## **Elf Elf Traits**
+## **Elf**
+### **Elf Traits**
 
 Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
 
@@ -114,7 +129,8 @@ As a high elf, you have a keen mind and a mastery of at least the basics of magi
 
 *Extra Language.* You can speak, read, and write one extra language of your choice.
 
-## **Halfling Halfling Traits**
+## **Halfling**
+### **Halfling Traits**
 
 Your halfling character has a number of traits in common with all other halflings.
 
@@ -146,37 +162,54 @@ Lightfoots are more prone to wanderlust than other halflings, and often dwell al
 
 *Naturally Stealthy.* You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 
-## **Human Human Traits**
+## **Human**
+### **Human Traits**
 
 It's hard to make generalizations about humans, but your human character has these traits.
 
-*Ability Score Increase.* Your ability scores each increase by 1.
+### *Ability Score Increase.* 
+Your ability scores each increase by 1.
 
-*Age.* Humans reach adulthood in their late teens and live less than a century.
+### *Age.*
+ Humans reach adulthood in their late teens and live less than a century.
 
-*Alignment.* Humans tend toward no particular alignment. The best and the worst are found among them.
+### *Alignment.*
+ Humans tend toward no particular alignment. The best and the worst are found among them.
 
-*Size.* Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+### *Size.* 
+Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
 
-*Speed.* Your base walking speed is 30 feet.
+### *Speed.* 
+Your base walking speed is 30 feet.
 
-*Languages.* You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+### *Languages.*
+ You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
-## **Dragonborn Dragonborn Traits**
+## **Dragonborn**
+### **Dragonborn Traits**
 
 Your draconic heritage manifests in a variety of traits you share with other dragonborn.
 
-*Ability Score Increase.* Your Strength score increases by 2, and your Charisma score increases by 1.
+#### *Ability Score Increase.*
+ Your Strength score increases by 2, and your Charisma score increases by 1.
 
-*Age.* Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
+#### *Age.*
+ Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
 
-*Alignment.* Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains.
+#### *Alignment.*
+ Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains.
 
-*Size.* Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
+#### *Size.* 
+Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
 
-*Speed.* Your base walking speed is 30 feet.
+#### *Speed.* 
+Your base walking speed is 30 feet.
 
-#### **Draconic Ancestry**
+
+#### *Draconic Ancestry.* 
+You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
+
+##### **Draconic Ancestry**
 
 | Dragon | Damage	Type | Breath	Weapon                |
 |--------|-------------|------------------------------|
@@ -191,9 +224,9 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 | Silver | Cold        | 15	ft.	cone	(Con.	save)      |
 | White  | Cold        | 15	ft.	cone	(Con.	save)      |
 
-*Draconic Ancestry.* You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
 
-*Breath Weapon.* You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
+#### *Breath Weapon.* 
+You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
 
 When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful 
 
@@ -201,39 +234,42 @@ one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16t
 
 After you use your breath weapon, you can't use it again until you complete a short or long rest.
 
-*Damage Resistance.* You have resistance to the damage type associated with your draconic ancestry.
+#### *Damage Resistance.* 
+You have resistance to the damage type associated with your draconic ancestry.
 
-*Languages.* You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
+#### *Languages.* 
+You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
 
-## **Gnome Gnome Traits**
+## **Gnome**
+### **Gnome Traits**
 
 Your gnome character has certain characteristics in common with all other gnomes.
 
-*Ability Score Increase.* Your Intelligence score increases by 2.
+#### *Ability Score Increase.* Your Intelligence score increases by 2.
 
-*Age.* Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
+#### *Age.* Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
 
-*Alignment.* Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.
+#### *Alignment.* Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.
 
-*Size.* Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+#### *Size.* Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
 
-*Speed.* Your base walking speed is 25 feet.
+#### *Speed.* Your base walking speed is 25 feet.
 
-*Darkvision.* Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+#### *Darkvision.* Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-*Gnome Cunning.* You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+#### *Gnome Cunning.* You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
 
-*Languages.* You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
+#### *Languages.* You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
 
-#### **Rock Gnome**
+### **Rock Gnome**
 
 As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes.
 
-*Ability Score Increase.* Your Constitution score increases by 1.
+#### *Ability Score Increase.* Your Constitution score increases by 1.
 
-*Artificer's Lore.* Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
+#### *Artificer's Lore.* Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
 
-*Tinker.* You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
+#### *Tinker.* You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
 
 When you create a device, choose one of the following options:
 
@@ -241,75 +277,78 @@ When you create a device, choose one of the following options:
 - *Fire Starter.* The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
 - *Music Box.* When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.
 
-## **Half-Elf Half-Elf Traits**
+## **Half-Elf**
+### **Half-Elf Traits**
 
 Your half-elf character has some qualities in common with elves and some that are unique to half-elves.
 
-*Ability Score Increase.* Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.
+#### *Ability Score Increase.* Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.
 
-*Age.* Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.
+#### *Age.* Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.
 
-*Alignment.* Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and 
+#### *Alignment.* Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and 
 
 sometimes prove unreliable, or at least unpredictable.
 
-*Size.* Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.
+#### *Size.* Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.
 
-*Speed.* Your base walking speed is 30 feet. *Darkvision.* Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+#### *Speed.* Your base walking speed is 30 feet. *Darkvision.* Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-*Fey Ancestry.* You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+#### *Fey Ancestry.* You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 
-*Skill Versatility.* You gain proficiency in two skills of your choice.
+#### *Skill Versatility.* You gain proficiency in two skills of your choice.
 
-*Languages.* You can speak, read, and write Common, Elvish, and one extra language of your choice.
+#### *Languages.* You can speak, read, and write Common, Elvish, and one extra language of your choice.
 
-## **Half-Orc Half-Orc Traits**
+## **Half-Orc**
+### **Half-Orc Traits**
 
 Your half-orc character has certain traits deriving from your orc ancestry.
 
-*Ability Score Increase.* Your Strength score increases by 2, and your Constitution score increases by 1.
+#### *Ability Score Increase.* Your Strength score increases by 2, and your Constitution score increases by 1.
 
-*Age.* Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
+#### *Age.* Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
 
-*Alignment.* Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil.
+#### *Alignment.* Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil.
 
-*Size.* Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
+#### *Size.* Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
 
-*Speed.* Your base walking speed is 30 feet.
+#### *Speed.* Your base walking speed is 30 feet.
 
-*Darkvision.* Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+#### *Darkvision.* Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-*Menacing.* You gain proficiency in the Intimidation skill.
+#### *Menacing.* You gain proficiency in the Intimidation skill.
 
-*Relentless Endurance.* When you are reduced to 0 hit points but not killed outright, you can drop to 1 
+#### *Relentless Endurance.* When you are reduced to 0 hit points but not killed outright, you can drop to 1 
 
 hit point instead. You can't use this feature again until you finish a long rest.
 
-*Savage Attacks.* When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
+#### *Savage Attacks.* When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
 
-*Languages.* You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
+#### *Languages.* You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
 
-## **Tiefling Tiefling Traits**
+## **Tiefling**
+### **Tiefling Traits**
 
 Tieflings share certain racial traits as a result of their infernal descent.
 
-*Ability Score Increase.* Your Intelligence score increases by 1, and your Charisma score increases by 2.
+#### *Ability Score Increase.* Your Intelligence score increases by 1, and your Charisma score increases by 2.
 
-*Age.* Tieflings mature at the same rate as humans but live a few years longer.
+#### *Age.* Tieflings mature at the same rate as humans but live a few years longer.
 
-*Alignment.* Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.
+#### *Alignment.* Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.
 
-*Size.* Tieflings are about the same size and build as humans. Your size is Medium.
+#### *Size.* Tieflings are about the same size and build as humans. Your size is Medium.
 
-*Speed.* Your base walking speed is 30 feet.
+#### *Speed.* Your base walking speed is 30 feet.
 
-*Darkvision.* Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+#### *Darkvision.* Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-*Hellish Resistance.* You have resistance to fire damage.
+#### *Hellish Resistance.* You have resistance to fire damage.
 
-*Infernal Legacy.* You know the *thaumaturgy* cantrip. When you reach 3rd level, you can cast the *hellish rebuke* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *darkness* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+#### *Infernal Legacy.* You know the *thaumaturgy* cantrip. When you reach 3rd level, you can cast the *hellish rebuke* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *darkness* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
-*Languages.* You can speak, read, and write Common and Infernal.
+#### *Languages.* You can speak, read, and write Common and Infernal.
 
 # **Barbarian**
 
@@ -1700,7 +1739,7 @@ As a ranger, you gain the following class features.
 
 ## **The Ranger**
 
-#### **Tools:** None
+## **Tools:** None
 
 **Saving Throws:** Strength, Dexterity
 
@@ -1773,7 +1812,7 @@ You choose additional favored terrain types at 6th and 10th level.
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
-## **Archery**
+### **Archery**
 
 You gain a +2 bonus to attack rolls you make with ranged weapons.
 
@@ -1781,11 +1820,11 @@ You gain a +2 bonus to attack rolls you make with ranged weapons.
 
 While you are wearing armor, you gain a +1 bonus to AC.
 
-## **Dueling**
+### **Dueling**
 
 When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
-## **Two-Weapon Fighting**
+### **Two-Weapon Fighting**
 
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
@@ -1793,13 +1832,13 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 
 By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does.
 
-## **Spell Slots**
+### **Spell Slots**
 
 The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 For example, if you know the 1st-level spell *animal friendship* and have a 1st-level and a 2nd-level spell slot available, you can cast *animal friendship* using either slot.
 
-## **Spells Known of 1st Level and Higher**
+### **Spells Known of 1st Level and Higher**
 
 You know two 1st-level spells of your choice from the ranger spell list.
 
@@ -1807,7 +1846,7 @@ The Spells Known column of the Ranger table shows when you learn more ranger spe
 
 Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.
 
-#### **Spellcasting Ability**
+### **Spellcasting Ability**
 
 Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
 
@@ -2751,7 +2790,7 @@ For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-l
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
-#### **Spellcasting Ability**
+## **Spellcasting Ability**
 
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
@@ -2759,15 +2798,15 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 
 **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
 
-#### **Ritual Casting**
+## **Ritual Casting**
 
 You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 
-#### **Spellcasting Focus**
+## **Spellcasting Focus**
 
 You can use an arcane focus as a spellcasting focus for your wizard spells.
 
-#### **Learning Spells of 1st Level and Higher**
+## **Learning Spells of 1st Level and Higher**
 
 Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook for free. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see the "Your Spellbook" sidebar).
 
@@ -2805,7 +2844,7 @@ The study of wizardry is ancient, stretching back to the earliest mortal discove
 
 The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.
 
-## **School of Evocation**
+### **School of Evocation**
 
 You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
 
@@ -2833,7 +2872,7 @@ Starting at 14th level, you can increase the power of your simpler spells. When 
 
 The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.
 
-#### **Your Spellbook**
+## **Your Spellbook**
 
 The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.
 
@@ -2863,7 +2902,7 @@ When your Constitution modifier increases by 1, your hit point maximum increases
 
 The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character's class description to see what other improvements you gain at each level.
 
-#### **Character Advancement**
+## **Character Advancement**
 
 | Experience	Points | Level | Proficiency	Bonus |
 |-------------------|-------|-------------------|
@@ -3018,7 +3057,7 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 | 19th | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
-## **Alignment**
+# **Alignment**
 
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
 
@@ -3042,7 +3081,7 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 
 **Chaotic evil** (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil.
 
-#### **Alignment in the Multiverse**
+## **Alignment in the Multiverse**
 
 For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid races can choose whether to follow the paths of good or evil, law or chaos. According to myth, the goodaligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
 
@@ -3052,7 +3091,7 @@ Alignment is an essential part of the nature of celestials and fiends. A devil d
 
 Most creatures that lack the capacity for rational thought do not have alignments—they are **unaligned**. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
 
-## **Languages**
+# **Languages**
 
 Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
 
@@ -3060,7 +3099,7 @@ Choose your languages from the Standard Languages table, or choose one that is c
 
 Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
-#### **Standard Languages**
+## **Standard Languages**
 
 | Language | Typical	Speakers | Script   |
 |----------|------------------|----------|
@@ -3073,7 +3112,7 @@ Some of these languages are actually families of languages with many dialects. F
 | Halfling | Halflings        | Common   |
 | Orc      | Orcs             | Dwarvish |
 
-#### **Exotic Languages**
+## **Exotic Languages**
 
 | Language    | Typical	Speakers    | Script    |
 |-------------|---------------------|-----------|
@@ -3086,7 +3125,7 @@ Some of these languages are actually families of languages with many dialects. F
 | Sylvan      | Fey	creatures       | Elvish    |
 | Undercommon | Underworld	traders  | Elvish    |
 
-## **Inspiration**
+# **Inspiration**
 
 Inspiration is a rule the game master can use to reward you for playing your character in a way that's true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.
 
@@ -3102,7 +3141,7 @@ If you have inspiration, you can expend it when you make an attack roll, saving 
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
-## **Backgrounds**
+# **Backgrounds**
 
 Every story has a beginning. Your character's background reveals where you came from, how you became an adventurer, and your place in the world. Your fighter might have been a courageous knight or a grizzled soldier. Your wizard could have been a sage or an artisan. Your rogue might have gotten by as a guild thief or commanded audiences as a jester.
 
@@ -3110,7 +3149,7 @@ Choosing a background provides you with important story cues about your characte
 
 The sample background presented here provides both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
-#### **Proficiencies**
+## **Proficiencies**
 
 Each background gives a character proficiency in two skills (described in "Using Ability Scores").
 
@@ -3118,19 +3157,19 @@ In addition, most backgrounds give a character proficiency with one or more tool
 
 If a character would gain the same proficiency from two different sources, he or she can choose a different proficiency of the same kind (skill or tool) instead.
 
-#### **Languages**
+## **Languages**
 
 Some backgrounds also allow characters to learn additional languages beyond those given by race. See "Languages."
 
-#### **Equipment**
+## **Equipment**
 
 Each background provides a package of starting equipment. If you use the optional rule to spend coin on gear, you do not receive the starting equipment from your background.
 
-#### **Suggested Characteristics**
+## **Suggested Characteristics**
 
 A background contains suggested personal characteristics based on your background. You can pick characteristics, roll dice to determine them randomly, or use the suggestions as inspiration for characteristics of your own creation.
 
-#### **Customizing a Background**
+## **Customizing a Background**
 
 You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can't also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can't find a feature that matches your desired background, work with your GM to create one.
 
@@ -3140,7 +3179,7 @@ You have spent your life in the service of a temple to a specific god or pantheo
 
 Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in "Fantasy-Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
 
-#### **Skill Proficiencies:** Insight, Religion **Languages:** Two of your choice
+**Skill Proficiencies:** Insight, Religion **Languages:** Two of your choice
 
 - **Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 15 gp
 ### **Feature: Shelter of the Faithful**
@@ -3149,11 +3188,11 @@ As an acolyte, you command the respect of those who share your faith, and you ca
 
 You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
 
-#### **Suggested Characteristics**
+### **Suggested Characteristics**
 
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
 
-#### **d8 Personality Trait**
+**d8 Personality Trait**
 
 - 1 I idolize a particular hero of my faith, and constantly refer to that person's deeds and example.
 - 2 I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.
@@ -3164,7 +3203,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 - 7 I've enjoyed fine food, drink, and high society among my temple's elite. Rough living grates on me.
 - 8 I've spent so long in the temple that I have little practical experience dealing with people in the outside world.
 
-#### **d6 Ideal**
+**d6 Ideal**
 
 - 1 Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)
 - 2 Charity. I always try to help those in need, no matter what the personal cost. (Good)
@@ -3173,7 +3212,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 - 5 Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful)
 - 6 Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any)
 
-#### **d6 Bond**
+**d6 Bond**
 
 | 1 | I	would	die	to	recover	an	ancient	relic	of	my	faith<br>that	was	lost	long	ago.              |
 |---|---------------------------------------------------------------------------------------------|
@@ -3183,7 +3222,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 5 | I	will	do	anything	to	protect	the	temple	where	I<br>served.                                 |
 | 6 | I seek	to	preserve	a	sacred	text	that	my	enemies<br>consider	heretical	and	seek	to	destroy. |
 
-#### **d6 Flaw**
+**d6 Flaw**
 
 | 1 | I	judge	others	harshly,	and	myself	even	more<br>severely.                           |
 |---|-------------------------------------------------------------------------------------|
@@ -3207,7 +3246,7 @@ In addition, unusual coins made of other precious metals sometimes appear in tre
 
 A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
-#### **Standard Exchange Rates**
+## **Standard Exchange Rates**
 
 | Coin          | CP    | SP   | EP   | GP    | PP      |
 |---------------|-------|------|------|-------|---------|
@@ -3229,7 +3268,7 @@ Opportunities abound to find treasure, equipment, weapons, armor, and more in th
 
 *Trade Goods.* On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency.
 
-## **Armor**
+# **Armor**
 
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.
 
@@ -3285,7 +3324,7 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 
 *Plate.* Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
-#### **Armor**
+## **Armor**
 
 | Armor       | Cost | Armor	Class	(AC)  | Strength | Stealth      | Weight |
 |-------------|------|-------------------|----------|--------------|--------|
@@ -3318,7 +3357,7 @@ The time it takes to don or doff armor depends on the armor's category.
 
 *Doff.* This is the time it takes to take off armor. If you have help, reduce this time by half.
 
-#### **Donning and Doffing Armor**
+**Donning and Doffing Armor**
 
 | Category     | Don        | Doff      |
 |--------------|------------|-----------|
@@ -3327,7 +3366,7 @@ The time it takes to don or doff armor depends on the armor's category.
 | Heavy	Armor  | 10	minutes | 5	minutes |
 | Shield       | 1	action   | 1	action  |
 
-## **Weapons**
+# **Weapons**
 
 Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
 
@@ -3367,7 +3406,7 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 
 *Versatile.* This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
-#### **Improvised Weapons**
+## **Improvised Weapons**
 
 Sometimes characters don't have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can 
 
@@ -3377,11 +3416,11 @@ Often, an improvised weapon is similar to an actual weapon and can be treated as
 
 An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
-#### **Silvered Weapons**
+## **Silvered Weapons**
 
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
 
-#### **Special Weapons**
+## **Special Weapons**
 
 Weapons with special rules are described here.
 
@@ -3391,7 +3430,7 @@ Weapons with special rules are described here.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-#### **Weapons**
+## **Weapons**
 
 | Name                 | Cost | Damage | Weight | Properties |  |
 |----------------------|------|--------|--------|------------|--|
@@ -3440,7 +3479,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | Net                    | 1	gp  | —               | 3	lb.   | Special,	thrown	(range	5/15)                           |
 |                        |       |                 |         |                                                        |
 
-## **Adventuring Gear**
+# **Adventuring Gear**
 
 This section describes items that have special rules or require further explanation.
 
@@ -3532,7 +3571,7 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 
 *Torch.* A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
-#### **Adventuring Gear**
+**Adventuring Gear**
 
 | Abacus<br>2	gp<br>2	lb.<br>Acid	(vial)<br>25	gp<br>1	lb.             |  |
 |----------------------------------------------------------------------|--|
@@ -3640,7 +3679,7 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 | Waterskin              | 2	sp     | 5	lb.	(full) |
 | Whetstone              | 1	cp     | 1	lb.        |
 
-#### **Container Capacity**
+## **Container Capacity**
 
 | Container | Capacity                               |
 |-----------|----------------------------------------|
@@ -3662,7 +3701,7 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 
 * You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
 
-#### **Equipment Packs**
+## **Equipment Packs**
 
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
 
@@ -3686,7 +3725,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 
 might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
 
-#### **Tools**
+**Tools**
 
 | Item                    | Cost  | Weight |
 |-------------------------|-------|--------|
@@ -3770,7 +3809,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 *Rowed Vessels.* Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
-#### **Mounts and Other Animals**
+### **Mounts and Other Animals**
 
 |                |        |        | Carrying  |
 |----------------|--------|--------|-----------|
@@ -3786,7 +3825,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Pony          | 30	gp  | 40	ft. | 225	lb. |
 | Warhorse      | 400	gp | 60	ft. | 540	lb. |
 
-#### **Tack, Harness, and Drawn Vehicles**
+### **Tack, Harness, and Drawn Vehicles**
 
 | Item               | Cost   | Weight  |
 |--------------------|--------|---------|
@@ -3807,7 +3846,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Wagon              | 35	gp  | 400	lb. |
 |                    |        |         |
 
-#### **Waterborne Vehicles**
+### **Waterborne Vehicles**
 
 | Item         | Cost      | Speed  |
 |--------------|-----------|--------|
@@ -3824,7 +3863,7 @@ Most wealth is not in coins. It is measured in livestock, grain, land, rights to
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
 
-#### **Trade Goods**
+**Trade Goods**
 
 | Cost   | Goods                                        |
 |--------|----------------------------------------------|
@@ -3842,7 +3881,7 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 | 50	gp  | 1	lb.	of	gold                                |
 | 500	gp | 1	lb.	of	platinum                            |
 
-## **Expenses**
+# **Expenses**
 
 When not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.
 
@@ -3854,7 +3893,7 @@ At the start of each week or month (your choice), choose a lifestyle from the Ex
 
 Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
 
-#### **Lifestyle Expenses**
+### **Lifestyle Expenses**
 
 | Lifestyle | Price/Day |
 |-----------|-----------|
@@ -3882,7 +3921,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 *Aristocratic.* You live a life of plenty and comfort. You move in circles populated by the most powerful people in the community. You have excellent lodgings, perhaps a townhouse in the nicest part of town or rooms in the finest inn. You dine at the best restaurants, retain the most skilled and fashionable tailor, and have servants attending to your every need. You receive invitations to the social gatherings of the rich and powerful, and spend evenings in the company of politicians, guild leaders, high priests, and nobility. You must also contend with the highest levels of deceit and treachery. The wealthier you are, the greater the chance you will be drawn into political intrigue as a pawn or participant.
 
-#### **Self-Sufficiency**
+**Self-Sufficiency**
 
 The expenses and lifestyles described here assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford—paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
 
@@ -3892,7 +3931,7 @@ Maintaining this kind of lifestyle doesn't require you to spend any coin, but it
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
 
-#### **Food, Drink, and Lodging**
+**Food, Drink, and Lodging**
 
 | Item   | Cost |
 |--------|------|
@@ -3931,7 +3970,7 @@ Some of the most basic types of hirelings appear on the Services table. Other co
 
 Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.
 
-#### **Services**
+**Services**
 
 | Service           | Pay           |
 |-------------------|---------------|
@@ -3963,7 +4002,7 @@ You must meet any prerequisite specified in a feat to take that feat. If you eve
 
 ## **Grappler**
 
-#### *Prerequisite: Strength 13 or higher*
+*Prerequisite: Strength 13 or higher*
 
 You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
 
@@ -3993,7 +4032,7 @@ A score of 10 or 11 is the normal human average, but adventurers and many monste
 
 Each ability also has a modifier, derived from the score and ranging from −5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
 
-#### **Ability Scores and Modifiers**
+### **Ability Scores and Modifiers**
 
 | Score | Modifier |
 |-------|----------|
@@ -4052,7 +4091,7 @@ An ability check tests a character's or monster's innate talent and training in 
 
 For every ability check, the GM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
-#### **Typical Difficulty Classes**
+### **Typical Difficulty Classes**
 
 | Task	Difficulty   | DC |
 |-------------------|----|
@@ -4081,16 +4120,16 @@ For example, a Dexterity check might reflect a character's attempt to pull off a
 
 The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability's description in the later sections of this section for examples of how to use a skill associated with an ability.
 
-#### **Strength**
+### **Strength**
 
 - Athletics
-#### **Dexterity**
+### **Dexterity**
 
 - Acrobatics
 - Sleight of Hand
 - Stealth
 
-#### **Intelligence**
+### **Intelligence**
 
 - Arcana
 - History
@@ -4098,7 +4137,7 @@ The skills related to each ability score are shown in the following list. (No sk
 - Nature
 - Religion
 
-#### **Wisdom**
+### **Wisdom**
 
 - Animal Handling
 - Insight
@@ -4106,7 +4145,7 @@ The skills related to each ability score are shown in the following list. (No sk
 - Perception
 - Survival
 
-#### **Charisma**
+### **Charisma**
 
 - Deception
 - Intimidation
@@ -4117,7 +4156,7 @@ Sometimes, the GM might ask for an ability check using a specific skill—for ex
 
 For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a Strength (Athletics) check. If the character is proficient in Athletics, the character's proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.
 
-#### **Variant: Skills with Different Abilities**
+### **Variant: Skills with Different Abilities**
 
 Normally, your proficiency in a skill applies only to a specific kind of ability check. Proficiency in Athletics, for example, usually applies to Strength checks. In some situations, though, your proficiency might reasonably apply to a different kind of check. In such cases, the GM might ask for a check using an unusual combination of ability and skill, or you might ask your GM if you can apply a proficiency to a different check. For example, if you have to swim from an offshore island to the mainland, your GM might call for a Constitution check to see if you have the stamina to make it that far. In this case, your GM might allow you to apply your proficiency in Athletics and ask for a Constitution (Athletics) check. So if you're proficient in Athletics, you apply your proficiency bonus to the Constitution check just as you would normally do for a Strength (Athletics) check. Similarly, when your half-orc barbarian uses a display of raw strength to intimidate an enemy, your GM might ask for a Strength (Intimidation) check, even though Intimidation is normally associated with Charisma.
 
@@ -4157,7 +4196,7 @@ Every task that a character or monster might attempt in the game is covered by o
 
 Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.
 
-## **Strength Checks**
+### **Strength Checks**
 
 A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks.
 
@@ -4176,11 +4215,11 @@ A Strength check can model any attempt to lift, push, pull, or break something, 
 - Tip over a statue
 - Keep a boulder from rolling
 
-## **Attack Rolls and Damage**
+### **Attack Rolls and Damage**
 
 You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in handto-hand combat, and some of them can be thrown to make a ranged attack.
 
-## **Lifting and Carrying**
+### **Lifting and Carrying**
 
 Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
 
@@ -4202,7 +4241,7 @@ If you carry weight in excess of 10 times your Strength score, up to your maximu
 
 Dexterity measures agility, reflexes, and balance.
 
-#### **Dexterity Checks**
+### **Dexterity Checks**
 
 A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
 
@@ -4225,19 +4264,19 @@ check. The GM might also call for a Dexterity (Sleight of Hand) check to determi
 - Play a stringed instrument
 - Craft a small or detailed object
 
-#### **Attack Rolls and Damage**
+### **Attack Rolls and Damage**
 
 You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
 
-#### **Armor Class**
+### **Armor Class**
 
 Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class.
 
-#### **Initiative**
+### **Initiative**
 
 At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat.
 
-#### **Hiding**
+### **Hiding**
 
 The GM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
 
@@ -4255,7 +4294,7 @@ creature, it usually sees you. However, under certain circumstances, the GM migh
 
 Constitution measures health, stamina, and vital force.
 
-#### **Constitution Checks**
+### **Constitution Checks**
 
 Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster. A Constitution check can model your attempt to push beyond normal limits, however.
 
@@ -4267,7 +4306,7 @@ The GM might call for a Constitution check when you try to accomplish tasks like
 - Survive without food or water
 - Quaff an entire stein of ale in one go
 
-#### **Hit Points**
+### **Hit Points**
 
 Your Constitution modifier contributes to your hit points. Typically, you add your Constitution modifier to each Hit Die you roll for your hit points.
 
@@ -4279,7 +4318,7 @@ your hit points for 4th level using your new modifier. Or if you're 7th level an
 
 Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
 
-#### **Intelligence Checks**
+### **Intelligence Checks**
 
 An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks.
 
@@ -4302,7 +4341,7 @@ An Intelligence check comes into play when you need to draw on logic, education,
 - Recall lore about a craft or trade
 - Win a game of skill
 
-#### **Spellcasting Ability**
+### **Spellcasting Ability**
 
 Wizards use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
 
@@ -4310,7 +4349,7 @@ Wizards use Intelligence as their spellcasting ability, which helps determine th
 
 Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition. 
 
-#### **Wisdom Checks**
+### **Wisdom Checks**
 
 A Wisdom check might reflect an effort to read body language, understand someone's feelings, notice things about the environment, or care for an injured person. The Animal Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of Wisdom checks.
 
@@ -4329,7 +4368,7 @@ A Wisdom check might reflect an effort to read body language, understand someone
 - Get a gut feeling about what course of action to follow
 - Discern whether a seemingly dead or living creature is undead
 
-#### **Spellcasting Ability**
+### **Spellcasting Ability**
 
 Clerics, druids, and rangers use Wisdom as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
 
@@ -4337,7 +4376,7 @@ Clerics, druids, and rangers use Wisdom as their spellcasting ability, which hel
 
 Charisma measures your ability to interact effectively with others. It includes such factors as confidence and eloquence, and it can represent a charming or commanding personality.
 
-#### **Charisma Checks**
+### **Charisma Checks**
 
 A Charisma check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation. The Deception, Intimidation, Performance, and Persuasion skills reflect aptitude in certain kinds of Charisma checks.
 
@@ -4360,7 +4399,7 @@ convincing a chamberlain to let your party see the king, negotiating peace betwe
 
 Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
 
-## **Saving Throws**
+# **Saving Throws**
 
 A saving throw—also called a save—represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don't normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
 
@@ -4374,7 +4413,7 @@ The Difficulty Class for a saving throw is determined by the effect that causes 
 
 The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect. 
 
-## **Time**
+# **Time**
 
 In situations where keeping track of the passage of time is important, the GM determines the time a task requires. The GM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers' movement happens on a scale of **minutes**. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.
 
@@ -4384,7 +4423,7 @@ For long journeys, a scale of **days** works best. Following the road from Baldu
 
 In combat and other fast-paced situations, the game relies on **rounds**, a 6-second span of time.
 
-## **Movement**
+# **Movement**
 
 Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope—all sorts of movement play a key role in fantasy gaming adventures.
 
@@ -4412,9 +4451,9 @@ Characters in wagons, carriages, or other land vehicles choose a pace as normal.
 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a *carpet of flying*, allow you to travel more swiftly.
 
-#### **Travel Pace**
+**Travel Pace**
 
-#### **Pace Distance Traveled per . . .**
+**Pace Distance Traveled per . . .**
 
 |        | Minute | Hour  | Day   | Effect                |
 |--------|--------|-------|-------|-----------------------|
@@ -4436,11 +4475,11 @@ You move at half speed in difficult terrain moving 1 foot in difficult terrain c
 
 Movement through dangerous dungeons or wilderness areas often involves more than simply walking. Adventurers might have to climb, crawl, swim, or jump to get where they need to go.
 
-#### **Climbing, Swimming, and Crawling**
+### **Climbing, Swimming, and Crawling**
 
 While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the GM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
 
-#### **Jumping**
+### **Jumping**
 
 Your Strength determines how far you can jump.
 
@@ -4456,7 +4495,7 @@ your GM might allow you to make a Strength (Athletics) check to jump higher than
 
 You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 1½ times your height.
 
-## **The Environment**
+# **The Environment**
 
 By its nature, adventuring involves delving into places that are dark, dangerous, and full of mysteries to be explored. The rules in this section cover some of the most important ways in which adventurers interact with the environment in such places.
 
@@ -4472,7 +4511,7 @@ When a creature runs out of breath or is choking, it can survive for a number of
 
 For example, a creature with a Constitution of 14 can hold its breath for 3 minutes. If it starts suffocating, it has 2 rounds to reach air before it drops to 0 hit points.
 
-## **Vision and Light**
+# **Vision and Light**
 
 The most fundamental tasks of adventuring noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few—rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
 
@@ -4500,11 +4539,11 @@ Many creatures in fantasy gaming worlds, especially those that dwell underground
 
 A creature with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.
 
-## **Food and Water**
+# **Food and Water**
 
 Characters who don't eat or drink suffer the effects of exhaustion (see appendix PH-A). Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
 
-### **Food**
+## **Food**
 
 A character needs one pound of food per day and can make food last longer by subsisting on half rations. 
 
@@ -4514,13 +4553,13 @@ A character can go without food for a number of days equal to 3 + his or her Con
 
 A normal day of eating resets the count of days without food to zero.
 
-#### **Water**
+## **Water**
 
 A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
 
 If the character already has one or more levels of exhaustion, the character takes two levels in either case.
 
-## **Interacting with Objects**
+# **Interacting with Objects**
 
 A character's interaction with objects in an environment is often simple to resolve in the game. The player tells the GM that his or her character is doing something, such as moving a lever, and the GM describes what, if anything, happens.
 
@@ -4530,7 +4569,7 @@ Characters can also damage objects with their weapons and spells. Objects are im
 
 A character can also attempt a Strength check to break an object. The GM sets the DC for any such check.
 
-## **Resting**
+# **Resting**
 
 Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest—time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure. 
 
@@ -4550,7 +4589,7 @@ At the end of a long rest, a character regains all lost hit points. The characte
 
 A character can't benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
 
-## **Between Adventures**
+# **Between Adventures**
 
 Between trips to dungeons and battles against ancient evils, adventurers need time to rest, recuperate, and prepare for their next adventure. Many adventurers also use this time to perform other tasks, such as crafting arms and armor, performing research, or spending their hard-earned gold.
 
@@ -4568,7 +4607,7 @@ Between adventures, the GM might ask you what your character is doing during his
 
 Downtime activities other than the ones presented below are possible. If you want your character to spend his or her downtime performing an activity not covered here, discuss it with your GM.
 
-#### **Crafting**
+### **Crafting**
 
 You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations 
 
@@ -4580,7 +4619,7 @@ Multiple characters can combine their efforts toward the crafting of a single it
 
 While crafting, you can maintain a modest lifestyle without having to pay 1 gp per day, or a comfortable lifestyle at half the normal cost.
 
-#### **Practicing a Profession**
+### **Practicing a Profession**
 
 You can work between adventures, allowing you to maintain a modest lifestyle without having to pay 1 gp per day. This benefit lasts as long you continue to practice your profession.
 
@@ -4588,7 +4627,7 @@ If you are a member of an organization that can provide gainful employment, such
 
 If you have proficiency in the Performance skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
 
-#### **Recuperating**
+### **Recuperating**
 
 You can use downtime between adventures to recover from a debilitating injury, disease, or poison.
 
@@ -4597,7 +4636,7 @@ After three days of downtime spent recuperating, you can make a DC 15 Constituti
 - End one effect on you that prevents you from regaining hit points.
 - For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
 
-#### **Researching**
+### **Researching**
 
 The time between adventures is a great chance to perform research, gaining insight into mysteries that have unfurled over the course of the campaign. Research can include poring over dusty tomes and crumbling scrolls in a library or buying drinks for the locals to pry rumors and gossip from their lips.
 
@@ -4605,7 +4644,7 @@ When you begin your research, the GM determines whether the information is avail
 
 For each day of research, you must spend 1 gp to cover your expenses. This cost is in addition to your normal lifestyle expenses.
 
-#### **Training**
+### **Training**
 
 You can spend time between adventures learning a new language or training with a set of tools. Your GM might allow additional training options. 
 
@@ -4613,11 +4652,12 @@ First, you must find an instructor willing to teach you. The GM determines how l
 
 The training lasts for 250 days and costs 1 gp per day. After you spend the requisite amount of time and money, you learn the new language or gain proficiency with the new tool. 
 
+# **Combat**
 ## **The Order of Combat**
 
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A **round** represents about 6 seconds in the game world. During a round, each participant in a battle takes a **turn**. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
 
-#### **Combat Step by Step**
+### **Combat Step by Step**
 
 - **1. Determine surprise.** The GM determines whether anyone involved in the combat encounter is surprised.
 - **2. Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are̶how far away and in what direction.
@@ -4625,7 +4665,7 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 - **4. Take turns.** Each participant in the battle takes a turn in initiative order.
 - **5. Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
 
-## **Surprise**
+#### **Surprise**
 
 A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
 
@@ -4633,7 +4673,7 @@ The GM determines who might be surprised. If neither side tries to be stealthy, 
 
 If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't.
 
-## **Initiative**
+#### **Initiative**
 
 Initiative determines the order of turns during combat. When combat starts, every participant makes a Dexterity check to determine their place in the initiative order. The GM makes one roll for an entire group of identical creatures, so each member of the group acts at the same time.
 
@@ -4641,7 +4681,7 @@ The GM ranks the combatants in order from the one with the highest Dexterity che
 
 If a tie occurs, the GM decides the order among tied GM-controlled creatures, and the players decide the order among their tied characters. The GM can decide the order if the tie is between a monster and a player character. Optionally, the GM can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first.
 
-## **Your Turn**
+#### **Your Turn**
 
 On your turn, you can **move** a distance up to your speed and **take one action**. You decide whether to move first or take your action first. Your speed sometimes called your walking speed—is noted on your character sheet.
 
@@ -4651,7 +4691,7 @@ The "Movement and Position" section gives the rules for your move.
 
 You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the Dodge or Ready action, as described in "Actions in Combat."
 
-#### **Bonus Actions**
+##### **Bonus Actions**
 
 Various class features, spells, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take.
 
@@ -4661,7 +4701,7 @@ You choose when to take a bonus action during your turn, unless the bonus action
 
 specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action.
 
-#### **Other Activity on Your Turn**
+##### **Other Activity on Your Turn**
 
 Your turn can include a variety of flourishes that require neither your action nor your move.
 
@@ -4673,13 +4713,13 @@ If you want to interact with a second object, you need to use your action. Some 
 
 The GM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the GM could reasonably expect you to use an action to open a stuck door or turn a crank to lower a drawbridge.
 
-## **Reactions**
+##### **Reactions**
 
 Certain special abilities, spells, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's. The opportunity attack is the most common type of reaction.
 
 When you take a reaction, you can't take another one until the start of your next turn. If the reaction interrupts another creature's turn, that creature can continue its turn right after the reaction.
 
-## **Movement and Position**
+##### **Movement and Position**
 
 In combat, characters and monsters are in constant motion, often using movement and position to gain the upper hand.
 
@@ -4687,15 +4727,15 @@ On your turn, you can move a distance up to your speed. You can use as much or a
 
 Your movement can include jumping, climbing, and swimming. These different modes of movement can be combined with walking, or they can constitute your entire move. However you're moving, you deduct the distance of each part of your move from your speed until it is used up or until you are done moving.
 
-## **Breaking Up Your Move**
+##### **Breaking Up Your Move**
 
 You can break up your movement on your turn, using some of your speed before and after your action. For example, if you have a speed of 30 feet, you can move 10 feet, take your action, and then move 20 feet.
 
-#### **Moving between Attacks**
+##### **Moving between Attacks**
 
 If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a fighter who can make two attacks with the Extra Attack feature and who has a speed of 25 feet could move 10 feet, make an attack, move 15 feet, and then attack again.
 
-#### **Using Different Speeds**
+##### **Using Different Speeds**
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.
 
@@ -4719,7 +4759,7 @@ For example, if your speed is 30 feet, you must spend 15 feet of movement to sta
 
 To move while prone, you must **crawl** or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
 
-#### **Interacting with Objects Around You**
+## **Interacting with Objects Around You**
 
 Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
 
@@ -4763,7 +4803,7 @@ hover or it is being held aloft by magic, such as by the *fly* spell.
 
 Each creature takes up a different amount of space. The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
 
-#### **Size Categories**
+### **Size Categories**
 
 | Size       | Space                  |
 |------------|------------------------|
@@ -4774,7 +4814,7 @@ Each creature takes up a different amount of space. The Size Categories table sh
 | Huge       | 15	by	15	ft.           |
 | Gargantuan | 20	by	20	ft.	or	larger |
 
-## **Space**
+### **Space**
 
 A creature's space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn't 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5 foot-wide doorway, other creatures can't get through unless the hobgoblin lets them.
 
@@ -4782,7 +4822,7 @@ A creature's space also reflects the area it needs to fight effectively. For tha
 
 Because larger creatures take up more space, fewer of them can surround a creature. If five Large creatures crowd around a Medium or smaller one, there's little room for anyone else. In contrast, as many as twenty Medium creatures can surround a Gargantuan one.
 
-## **Squeezing into a Smaller Space**
+### **Squeezing into a Smaller Space**
 
 A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that's only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it's in the smaller space.
 
@@ -4792,7 +4832,7 @@ When you take your action on your turn, you can take one of the actions presente
 
 When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 
-## **Attack**
+### **Attack**
 
 The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
 
@@ -4800,35 +4840,35 @@ With this action, you make one melee or ranged attack. See the "Making an Attack
 
 Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
 
-## **Cast a Spell**
+### **Cast a Spell**
 
 Spellcasters such as wizards and clerics, as well as many monsters, have access to spells and can use them to great effect in combat. Each spell has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the spell. Casting a spell is, therefore, not necessarily an action. Most spells do have a casting time of 1 action, so a spellcaster often uses his or her action in combat to cast such a spell.
 
-## **Dash**
+### **Dash**
 
 When you take the Dash action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you dash.
 
 Any increase or decrease to your speed changes this additional movement by the same amount. If your speed of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you dash.
 
-## **Disengage**
+### **Disengage**
 
 If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn.
 
-## **Dodge**
+### **Dodge**
 
 When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.
 
-## **Help**
+### **Help**
 
 You can lend your aid to another creature in the completion of a task. When you take the Help action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with, provided that it makes the check before the start of your next turn.
 
 Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
 
-## **Hide**
+### **Hide**
 
 When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the "Unseen Attackers and Targets" section.
 
-## **Ready**
+### **Ready**
 
 Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
 
@@ -4840,15 +4880,15 @@ When you ready a spell, you cast it as normal but hold its energy, which you rel
 
 holding onto the spell's magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the *web* spell and ready *magic missile*, your *web* spell ends, and if you take damage before you release *magic missile* with your reaction, your concentration might be broken.
 
-## **Search**
+### **Search**
 
 When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the GM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check.
 
-## **Use an Object**
+### **Use an Object**
 
 You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
 
-## **Making an Attack**
+### **Making an Attack**
 
 Whether you're striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure.
 
@@ -4858,11 +4898,11 @@ Whether you're striking with a melee weapon, firing a weapon at range, or making
 
 If there's ever any question whether something you're doing counts as an attack, the rule is simple: if you're making an attack roll, you're making an attack.
 
-## **Attack Rolls**
+#### **Attack Rolls**
 
 When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Armor Class  (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
 
-#### **Modifiers to the Roll**
+##### **Modifiers to the Roll**
 
 When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character's proficiency bonus. When a monster makes an attack roll, it uses whatever modifier is provided in its stat block.
 
@@ -4872,7 +4912,7 @@ Some spells also require an attack roll. The ability modifier used for a spell a
 
 *Proficiency Bonus.* You add your proficiency bonus to your attack roll when you attack using a weapon with which you have proficiency, as well as when you attack with a spell.
 
-## **Rolling 1 or 20**
+##### **Rolling 1 or 20**
 
 Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
 
@@ -4880,7 +4920,7 @@ If the d20 roll for an attack is a 20, the attack hits regardless of any modifie
 
 If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target's AC.
 
-## **Unseen Attackers and Targets**
+#### **Unseen Attackers and Targets**
 
 Combatants often try to escape their foes' notice by hiding, casting the invisibility spell, or lurking in darkness.
 
@@ -4888,11 +4928,11 @@ When you attack a target that you can't see, you have disadvantage on the attack
 
 When a creature can't see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
 
-## **Ranged Attacks**
+#### **Ranged Attacks**
 
 When you make a ranged attack, you fire a bow or a crossbow, hurl a handaxe, or otherwise send projectiles to strike a foe at a distance. A monster might shoot spines from its tail. Many spells also involve making a ranged attack.
 
-#### **Range**
+##### **Range**
 
 You can make ranged attacks only against targets within a specified range.
 
@@ -4900,11 +4940,11 @@ If a ranged attack, such as one made with a spell, has a single range, you can't
 
 Some ranged attacks, such as those made with a longbow or a shortbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has disadvantage when your target is beyond normal range, and you can't attack a target beyond the long range.
 
-#### **Ranged Attacks in Close Combat**
+##### **Ranged Attacks in Close Combat**
 
 Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated.
 
-## **Melee Attacks**
+#### **Melee Attacks**
 
 Used in hand-to-hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, a warhammer, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few spells also involve making a melee attack.
 
@@ -4912,7 +4952,7 @@ Most creatures have a 5-foot **reach** and can thus attack targets within 5 feet
 
 Instead of using a weapon to make a melee weapon attack, you can use an **unarmed strike**: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.
 
-#### **Opportunity Attacks**
+##### **Opportunity Attacks**
 
 In a fight, everyone is constantly watching for a chance to strike an enemy who is fleeing or passing by. Such a strike is called an opportunity attack.
 
@@ -4920,13 +4960,13 @@ You can make an opportunity attack when a hostile creature that you can see move
 
 You can avoid provoking an opportunity attack by taking the Disengage action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
 
-#### **Two-Weapon Fighting**
+##### **Two-Weapon Fighting**
 
 When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 
 If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
 
-#### **Grappling**
+##### **Grappling**
 
 When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
 
@@ -4936,7 +4976,7 @@ The target of your grapple must be no more than one size larger than you and mus
 
 *Moving a Grappled Creature.* When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
-#### **Contests in Combat**
+### **Contests in Combat**
 
 Battle often involves pitting your prowess against that of your foe. Such a challenge is represented by a contest. This section includes the most common contests that require an action in combat: grappling and shoving a creature. The GM can use these contests as models for improvising others.
 
@@ -4962,7 +5002,7 @@ A target with **total cover** can't be targeted directly by an attack or a spell
 
 Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed arrow, or a blast of flame from a *fireball* spell all have the potential to damage, or even kill, the hardiest of creatures.
 
-## **Hit Points**
+### **Hit Points**
 
 Hit points represent a combination of physical and mental durability, the will to live, and luck. Creatures with more hit points are more difficult to kill. Those with fewer hit points are more fragile.
 
@@ -4970,7 +5010,7 @@ A creature's current hit points (usually just called hit points) can be any numb
 
 Whenever a creature takes damage, that damage is subtracted from its hit points. The loss of hit points has no effect on a creature's capabilities until the creature drops to 0 hit points.
 
-## **Damage Rolls**
+### **Damage Rolls**
 
 Each weapon, spell, and harmful monster ability specifies the damage it deals. You roll the damage die or dice, add any modifiers, and apply the damage to your target. Magic weapons, special abilities, and other factors can grant a bonus to damage. With a penalty, it is possible to deal 0 damage, but never negative damage.
 
@@ -4978,7 +5018,7 @@ When attacking with a **weapon**, you add your ability modifier—the same modif
 
 If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts *fireball* or a cleric casts *flame strike*, the spell's damage is rolled once for all creatures caught in the blast.
 
-#### **Critical Hits**
+### **Critical Hits**
 
 When you score a critical hit, you get to roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them 
 
@@ -4986,7 +5026,7 @@ together. Then add any relevant modifiers as normal. To speed up play, you can r
 
 For example, if you score a critical hit with a dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the rogue's Sneak Attack feature, you roll those dice twice as well.
 
-#### **Damage Types**
+### **Damage Types**
 
 Different attacks, damaging spells, and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as damage resistance, rely on the types.
 
@@ -5018,7 +5058,7 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 
 *Thunder.* A concussive burst of sound, such as the effect of the *thunderwave* spell, deals thunder damage.
 
-## **Damage Resistance and Vulnerability**
+### **Damage Resistance and Vulnerability**
 
 Some creatures and objects are exceedingly difficult or unusually easy to hurt with certain types of damage.
 
@@ -5028,7 +5068,7 @@ Resistance and then vulnerability are applied after all other modifiers to damag
 
 Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nonmagical damage, the damage of a nonmagical fire is reduced by half against the creature, not reduced by threequarters.
 
-## **Healing**
+### **Healing**
 
 Unless it results in death, damage isn't permanent. Even death is reversible through powerful magic. Rest can restore a creature's hit points, and magical methods such as a *cure wounds* spell or a *potion of healing* can remove damage in an instant.
 
@@ -5036,7 +5076,7 @@ When a creature receives healing of any kind, hit points regained are added to i
 
 A creature that has died can't regain hit points until magic such as the *revivify* spell has restored it to life.
 
-## **Dropping to 0 Hit Points**
+### **Dropping to 0 Hit Points**
 
 When you drop to 0 hit points, you either die outright or fall unconscious, as explained in the following sections.
 
@@ -5074,11 +5114,11 @@ Most GMs have a monster die the instant it drops to 0 hit points, rather than ha
 
 Mighty villains and special nonplayer characters are common exceptions; the GM might have them fall unconscious and follow the same rules as player characters.
 
-## **Knocking a Creature Out**
+#### **Knocking a Creature Out**
 
 Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker reduces a creature to 0 hit points with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and is stable.
 
-## **Temporary Hit Points**
+### **Temporary Hit Points**
 
 Some spells and special abilities confer temporary hit points to a creature. Temporary hit points aren't actual hit points; they are a buffer against damage, a pool of hit points that protect you from injury.
 
@@ -5098,7 +5138,7 @@ A knight charging into battle on a warhorse, a wizard casting spells from the ba
 
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
 
-## **Mounting and Dismounting**
+### **Mounting and Dismounting**
 
 Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
 
@@ -5106,7 +5146,7 @@ If an effect moves your mount against its will while you're on it, you must succ
 
 If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
 
-## **Controlling a Mount**
+### **Controlling a Mount**
 
 While you're mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
 
@@ -5268,17 +5308,17 @@ A typical spell requires you to pick one or more targets to be affected by the s
 
 Unless a spell has a perceptible effect, a creature might not know it was targeted by a spell at all. An effect like crackling lightning is obvious, but a more subtle effect, such as an attempt to read a creature's thoughts, typically goes unnoticed, unless a spell says otherwise.
 
-## **A Clear Path to the Target**
+### **A Clear Path to the Target**
 
 To target something, you must have a clear path to it, so it can't be behind total cover.
 
 If you place an area of effect at a point that you can't see and an obstruction, such as a wall, is between you and that point, the point of origin comes into being on the near side of that obstruction.
 
-## **Targeting Yourself**
+### **Targeting Yourself**
 
 If a spell targets a creature of your choice, you can choose yourself, unless the creature must be hostile or specifically a creature other than you. If you are in the area of effect of a spell you cast, you can target yourself.
 
-## **Areas of Effect**
+### **Areas of Effect**
 
 Spells such as *burning hands* and *cone of cold* cover an area, allowing them to affect multiple creatures at once.
 
@@ -5330,7 +5370,7 @@ Some spells require the caster to make an attack roll to determine whether the s
 
 Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't incapacitated.
 
-#### **The Schools of Magic**
+## **The Schools of Magic**
 
 Academies of magic group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
 
@@ -5362,7 +5402,8 @@ The effects of different spells add together while the durations of those spells
 
 For example, if two clerics cast *bless* on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
 
-## **Spell Lists Bard Spells**
+## **Spell Lists**
+### ***Bard Spells**
 
 #### **Cantrips (0 Level)**
 
@@ -5374,16 +5415,16 @@ For example, if two clerics cast *bless* on the same target, that character gain
 
 - Animal Messenger Blindness/Deafness Calm Emotions Detect Thoughts Enhance Ability Enthrall Heat Metal Hold Person Invisibility Knock Lesser Restoration Locate Animals or Plants Locate Object Magic Mouth
 - See Invisibility Shatter Silence Suggestion Zone of Truth
-### **3rd Level**
+#### **3rd Level**
 
 - Bestow Curse Clairvoyance Dispel Magic Fear Glyph of Warding Hypnotic Pattern Major Image Nondetection Plant Growth Sending Speak with Dead Speak with Plants Stinking Cloud Tiny Hut Tongues
-### **4th Level**
+#### **4th Level**
 
 - Compulsion Confusion Dimension Door Freedom of Movement Greater Invisibility Hallucinatory Terrain Locate Creature Polymorph
 #### **5th Level**
 
 - Animate Objects Awaken Dominate Person Dream Geas Greater Restoration Hold Monster Legend Lore Mass Cure Wounds Mislead Modify Memory Planar Binding Raise Dead Scrying Seeming Teleportation Circle
-## **6th Level**
+#### **6th Level**
 
 Eyebite
 
@@ -5398,7 +5439,7 @@ Eyebite
 
 Foresight Power Word Kill True Polymorph
 
-## **Cleric Spells**
+### **Cleric Spells**
 
 #### **Cantrips (0 Level)**
 
@@ -5437,7 +5478,7 @@ Antimagic Field Control Weather Earthquake Holy Aura
 
 Astral Projection Gate Mass Heal True Resurrection
 
-## **Druid Spells**
+### **Druid Spells**
 
 #### **Cantrips (0 Level)**
 
@@ -5472,7 +5513,7 @@ Call Lightning Conjure Animals Daylight Dispel Magic
 
 Foresight Shapechange Storm of Vengeance True Resurrection
 
-## **Paladin Spells**
+### **Paladin Spells**
 
 #### **1st Level**
 
@@ -5491,12 +5532,12 @@ Banishment Death Ward Locate Creature
 
 Dispel Evil and Good Geas Raise Dead
 
-## **Ranger Spells**
+### **Ranger Spells**
 
 #### **1st Level**
 
 - Alarm Animal Friendship Cure Wounds Detect Magic Detect Poison and Disease Fog Cloud Goodberry Hunter's Mark Jump Longstrider Speak with Animals
-### **2nd Level**
+#### **2nd Level**
 
 - Animal Messenger Barkskin Darkvision Find Traps Lesser Restoration Locate Animals or Plants Locate Object Pass without Trace Protection from Poison Silence Spike Growth
 #### **3rd Level**
@@ -5512,7 +5553,7 @@ Conjure Woodland Beings Freedom of Movement Locate Creature
 
 Commune with Nature Tree Stride
 
-## **Sorcerer Spells**
+### **Sorcerer Spells**
 
 #### **Cantrips (0 Level)**
 
@@ -5520,7 +5561,7 @@ Commune with Nature Tree Stride
 #### **1st Level**
 
 - Burning Hands Charm Person Color Spray Comprehend Languages Detect Magic Disguise Self Expeditious Retreat False Life Feather Fall Fog Cloud Jump Mage Armor Magic Missile Shield Silent Image Sleep Thunderwave
-## **2nd Level**
+#### **2nd Level**
 
 - Alter Self Blindness/Deafness Blur Darkness Darkvision Detect Thoughts Enhance Ability Enlarge/Reduce Gust of Wind
 Hold Person Invisibility Knock Levitate Mirror Image Misty Step Scorching Ray See Invisibility Shatter Spider Climb Suggestion Web
@@ -5548,7 +5589,7 @@ Dominate Monster Earthquake Incendiary Cloud Power Word Stun Sunburst
 #### **9th Level**
 
 - Gate Meteor Swarm Power Word Kill Time Stop Wish
-## **Warlock Spells**
+### **Warlock Spells**
 
 #### **Cantrips (0 Level)**
 
@@ -5562,7 +5603,7 @@ Dominate Monster Earthquake Incendiary Cloud Power Word Stun Sunburst
 #### **3rd Level**
 
 - Counterspell Dispel Magic Fear Fly Gaseous Form Hypnotic Pattern Magic Circle Major Image Remove Curse Tongues Vampiric Touch
-## **4th Level**
+#### **4th Level**
 
 Banishment Blight Dimension Door Hallucinatory Terrain
 
@@ -5585,7 +5626,7 @@ Etherealness Finger of Death Forcecage Plane Shift
 
 Astral Projection Foresight Imprisonment Power Word Kill True Polymorph
 
-## **Wizard Spells**
+### **Wizard Spells**
 
 #### **Cantrips (0 Level)**
 
@@ -5629,7 +5670,7 @@ Arcane Hand Cloudkill Cone of Cold Conjure Elemental Contact Other Plane Creatio
 - Astral Projection Foresight Gate Imprisonment Meteor Swarm Power Word Kill Prismatic Wall Shapechange Time Stop True Polymorph Weird Wish
 ## **Spell Descriptions**
 
-#### **Acid Arrow**
+### **Acid Arrow**
 
 *2nd-level evocation*
 
@@ -5639,7 +5680,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
 
-#### **Acid Splash**
+### **Acid Splash**
 
 *Conjuration cantrip*
 
@@ -5649,7 +5690,7 @@ You hurl a bubble of acid. Choose one creature within range, or choose two creat
 
 This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-#### **Aid**
+### **Aid**
 
 *2nd-level abjuration*
 
@@ -5661,7 +5702,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 increase by an additional 5 for each slot level above 2nd.
 
-#### **Alarm**
+### **Alarm**
 
 *1st-level abjuration (ritual)*
 
@@ -5673,7 +5714,7 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 
 An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
 
-## **Alter Self**
+### **Alter Self**
 
 *2nd-level transmutation*
 
@@ -5689,7 +5730,7 @@ time for the duration of the spell, you can use your action to change your appea
 
 *Natural Weapons.* You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
 
-#### **Animal Friendship**
+### **Animal Friendship**
 
 *1st-level enchantment*
 
@@ -5699,7 +5740,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast t level above 1st.
 
-#### **Animal Messenger**
+### **Animal Messenger**
 
 *2nd-level enchantment (ritual)*
 
@@ -5713,7 +5754,7 @@ destination before the spell ends, the message is lost, and the beast makes its 
 
 *At Higher Levels.* If you cast this spell using a spell slot of 3nd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
 
-#### **Animal Shapes**
+### **Animal Shapes**
 
 *8th-level transmutation*
 
@@ -5725,7 +5766,7 @@ The transformation lasts for the duration for each target, or until the target d
 
 The target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment.
 
-#### **Animate Dead**
+### **Animate Dead**
 
 *3rd-level necromancy*
 
@@ -5741,7 +5782,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones.
 
-#### **Animate Objects**
+### **Animate Objects**
 
 *5th-level transmutation*
 
@@ -5769,7 +5810,7 @@ If you command an object to attack, it can make a single melee attack against a 
 
 *At Higher Levels.* If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.
 
-#### **Antilife Shell**
+### **Antilife Shell**
 
 *5th-level abjuration*
 
@@ -5781,7 +5822,7 @@ The barrier prevents an affected creature from passing or reaching through. An a
 
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
-#### **Antimagic Field**
+### **Antimagic Field**
 
 *8th-level abjuration*
 
@@ -5807,7 +5848,7 @@ A magic weapon's properties and powers are suppressed if it is used against a ta
 
 *Dispel Magic.* Spells and magical effects such as *dispel magic* have no effect on the sphere. Likewise, the spheres created by different *antimagic field* spells don't nullify each other.
 
-#### **Antipathy/Sympathy**
+### **Antipathy/Sympathy**
 
 *8th-level enchantment*
 
@@ -5829,7 +5870,7 @@ If the target damages or otherwise harms an affected creature, the affected crea
 
 A creature that successfully saves against this effect is immune to it for 1 minute, after which time it can be affected again.
 
-#### **Arcane Eye**
+### **Arcane Eye**
 
 *4th-level divination*
 
@@ -5841,7 +5882,7 @@ You mentally receive visual information from the eye, which has normal vision an
 
 As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
-#### **Arcane Hand**
+### **Arcane Hand**
 
 *5th-level evocation*
 
@@ -5865,7 +5906,7 @@ When you cast the spell and as a bonus action on your subsequent turns, you can 
 
 *At Higher Levels.* When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th.
 
-#### **Arcane Lock**
+### **Arcane Lock**
 
 *2nd-level abjuration*
 
@@ -5893,7 +5934,7 @@ You create a sword-shaped plane of force that hovers within range. It lasts for 
 
 When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
 
-#### **Arcanist's Magic Aura**
+### **Arcanist's Magic Aura**
 
 *2nd-level illusion*
 
@@ -5907,7 +5948,7 @@ When you cast the spell, choose one or both of the following effects. The effect
 
 *Mask.* You change the way the target appears to spells and magical effects that detect creature types, such as a paladin's Divine Sense or the trigger of a *symbol* spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment.
 
-## **Astral Projection**
+### **Astral Projection**
 
 *9th-level necromancy*
 
@@ -5932,7 +5973,7 @@ The spell might also end early for you or one of your companions. A successful *
 
 If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points.
 
-#### **Augury**
+### **Augury**
 
 *2nd-level divination (ritual)*
 
@@ -5951,13 +5992,13 @@ The spell doesn't take into account any possible circumstances that might change
 
 If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The GM makes this roll in secret.
 
-#### **Awaken**
+### **Awaken**
 
 *5th-level transmutation*
 
 **Casting Time:** 8 hours
 
-#### **Range:** Touch
+**Range:** Touch
 
 **Components:** V, S, M (an agate worth at least 1,000 gp, which the spell consumes) **Duration:** Instantaneous
 
@@ -5965,7 +6006,7 @@ After spending the casting time tracing magical pathways within a precious gemst
 
 The awakened beast or plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
 
-#### **Bane**
+### **Bane**
 
 *1st-level enchantment*
 
@@ -5975,7 +6016,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 *At Higher Levels*. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-#### **Banishment**
+### **Banishment**
 
 *4th-level abjuration*
 
@@ -5991,7 +6032,7 @@ If the target is native to a different plane of existence than the one you're on
 
 *At Higher Levels.* When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
 
-#### **Barkskin**
+### **Barkskin**
 
 *2nd-level transmutation*
 
@@ -5999,7 +6040,7 @@ If the target is native to a different plane of existence than the one you're on
 
 You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
 
-#### **Beacon of Hope**
+### **Beacon of Hope**
 
 *3rd-level abjuration*
 
@@ -6007,7 +6048,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 
 This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.
 
-#### **Bestow Curse**
+### **Bestow Curse**
 
 *3rd-level necromancy*
 
@@ -6038,7 +6079,7 @@ When a creature enters the affected area for the first time on a turn or starts 
 
 A creature restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
 
-#### **Blade Barrier**
+### **Blade Barrier**
 
 *6th-level evocation*
 
@@ -6058,7 +6099,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-#### **Blight**
+### **Blight**
 
 *4th-level necromancy*
 
@@ -6082,7 +6123,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-#### **Blink**
+### **Blink**
 
 *3rd-level transmutation*
 
@@ -6094,7 +6135,7 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 
 Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so.
 
-#### **Blur**
+### **Blur**
 
 *2nd-level illusion*
 
@@ -6102,7 +6143,7 @@ Creatures that aren't there can't perceive you or interact with you, unless they
 
 Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight.
 
-## **Branding Smite**
+### **Branding Smite**
 
 *2nd-level evocation*
 
@@ -6112,7 +6153,7 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
 
-## **Burning Hands**
+### **Burning Hands**
 
 *1st-level evocation*
 
@@ -6124,7 +6165,7 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-## **Call Lightning**
+### **Call Lightning**
 
 *3rd-level conjuration*
 
@@ -6138,7 +6179,7 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.
 
-## **Calm Emotions**
+### **Calm Emotions**
 
 *2nd-level enchantment*
 
@@ -6150,7 +6191,7 @@ You can suppress any effect causing a target to be charmed or frightened. When t
 
 Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any  of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.
 
-#### **Chain Lightning**
+### **Chain Lightning**
 
 *6th-level evocation*
 
@@ -6162,7 +6203,7 @@ A target must make a Dexterity saving throw. The target takes 10d8 lightning dam
 
 *At Higher Levels.* When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
 
-#### **Charm Person**
+### **Charm Person**
 
 *1st-level enchantment*
 
@@ -6172,13 +6213,13 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
-#### **Chill Touch**
+### **Chill Touch**
 
 *Necromancy cantrip*
 
 **Casting Time:** 1 action **Range:** 120 feet
 
-#### **Components:** V, S **Duration:** 1 round
+**Components:** V, S **Duration:** 1 round
 
 You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target.
 
@@ -6186,7 +6227,7 @@ If you hit an undead target, it also has disadvantage on attack rolls against yo
 
 This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-#### **Circle of Death**
+### **Circle of Death**
 
 *6th-level necromancy*
 
@@ -6196,9 +6237,9 @@ A sphere of negative energy ripples out in a 60-footradius sphere from a point w
 
 *At Higher Levels.* When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
 
-## **Clairvoyance**
+### **Clairvoyance**
 
-#### *3rd-level divination*
+*3rd-level divination*
 
 **Casting Time:** 10 minutes
 
@@ -6214,20 +6255,20 @@ When you cast the spell, you choose seeing or hearing. You can use the chosen se
 
 A creature that can see the sensor (such as a creature benefiting from *see invisibility* or truesight) sees a luminous, intangible orb about the size of your fist.
 
-#### **Clone**
+### **Clone**
 
 *8th-level necromancy*
 
-#### **Casting Time:** 1 hour **Range:** Touch
+**Casting Time:** 1 hour **Range:** Touch
 
 - **Components:** V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mudfilled cyst in the ground, or crystal container filled with salt water)
-#### **Duration:** Instantaneous
+**Duration:** Instantaneous
 
 This spell grows an inert duplicate of a living creature as a safeguard against death. This clone forms inside a sealed vessel and grows to full size and maturity after 120 days; you can also choose to have the clone be a younger version of the same creature. It remains inert and endures indefinitely, as long as its vessel remains undisturbed.
 
 At any time after the clone matures, if the original creature dies, its soul transfers to the clone, provided that the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original's equipment. The original creature's physical remains, if they still exist, become inert and can't thereafter be restored to life, since the creature's soul is elsewhere.
 
-#### **Cloudkill**
+### **Cloudkill**
 
 *5th-level conjuration*
 
@@ -6243,9 +6284,9 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 
 *At Higher Levels.* When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
-## **Color Spray**
+### **Color Spray**
 
-#### *1st-level illusion*
+*1st-level illusion*
 
 **Casting Time:** 1 action **Range:** Self (15-foot cone) **Components:** V, S, M (a pinch of powder or sand that is colored red, yellow, and blue) **Duration:** 1 round
 
@@ -6255,7 +6296,7 @@ Starting with the creature that has the lowest current hit points, each creature
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 
-#### **Command**
+### **Command**
 
 *1st-level enchantment*
 
@@ -6277,7 +6318,7 @@ Some typical commands and their effects follow. You might issue a command other 
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
-#### **Commune**
+### **Commune**
 
 *5th-level divination (ritual)*
 
@@ -6289,7 +6330,7 @@ Divine beings aren't necessarily omniscient, so you might receive "unclear" as a
 
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The GM makes this roll in secret.
 
-#### **Commune with Nature**
+### **Commune with Nature**
 
 *5th-level divination (ritual)*
 
@@ -6305,7 +6346,7 @@ You instantly gain knowledge of up to three facts of your choice about any of th
 
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
 
-#### **Comprehend Languages**
+### **Comprehend Languages**
 
 *1st-level divination (ritual)*
 
@@ -6315,7 +6356,7 @@ For the duration, you understand the literal meaning of any spoken language that
 
 This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.
 
-#### **Compulsion**
+### **Compulsion**
 
 *4th-level enchantment*
 
@@ -6327,7 +6368,7 @@ you. Each affected target must use as much of its movement as possible to move i
 
 A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
 
-#### **Cone of Cold**
+### **Cone of Cold**
 
 *5th-level evocation*
 
@@ -6339,7 +6380,7 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
-#### **Confusion**
+### **Confusion**
 
 *4th-level enchantment*
 
@@ -6349,7 +6390,7 @@ This spell assaults and twists creatures' minds, spawning delusions and provokin
 
 An affected target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
-#### **d10 Behavior**
+**d10 Behavior**
 
 - 1 The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn't take an action this turn.
 - 2–6 The creature doesn't move or take actions this turn.
@@ -6363,7 +6404,7 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 *At Higher Levels.* When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
 
-#### **Conjure Animals**
+### **Conjure Animals**
 
 *3rd-level conjuration*
 
@@ -6384,7 +6425,7 @@ The GM has the creatures' statistics.
 
 *At Higher Levels.* When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.
 
-## **Conjure Celestial**
+### **Conjure Celestial**
 
 *7th-level conjuration*
 
@@ -6396,7 +6437,7 @@ The GM has the celestial's statistics.
 
 *At Higher Levels.* When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.
 
-#### **Conjure Elemental**
+### **Conjure Elemental**
 
 *5th-level conjuration*
 
@@ -6414,7 +6455,7 @@ The GM has the elemental's statistics.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 
-#### **Conjure Fey**
+### **Conjure Fey**
 
 *6th-level conjuration*
 
@@ -6430,7 +6471,7 @@ The GM has the fey creature's statistics.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.
 
-#### **Conjure Minor Elementals**
+### **Conjure Minor Elementals**
 
 *4th-level conjuration*
 
@@ -6453,7 +6494,7 @@ The GM has the creatures' statistics.
 
 *At Higher Levels.* When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
-#### **Conjure Woodland Beings**
+### **Conjure Woodland Beings**
 
 *4th-level conjuration*
 
@@ -6476,7 +6517,7 @@ The GM has the creatures' statistics.
 
 *At Higher Levels.* When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
-#### **Contact Other Plane**
+### **Contact Other Plane**
 
 *5th-level divination (ritual)*
 
@@ -6488,7 +6529,7 @@ another plane. Contacting this extraplanar intelligence can strain or even break
 
 On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The GM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the GM might instead offer a short phrase as an answer.
 
-#### **Contagion**
+### **Contagion**
 
 *5th-level necromancy*
 
@@ -6514,7 +6555,7 @@ creature behaves as if under the effects of the *confusion* spell during combat.
 
 *Slimy Doom.* The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.
 
-#### **Contingency**
+### **Contingency**
 
 *6th-level evocation*
 
@@ -6531,7 +6572,7 @@ The contingent spell takes effect immediately after the circumstance is met for 
 
 The contingent spell takes effect only on you, even if it can normally target others. You can use only one *contingency* spell at a time. If you cast this spell again, the effect of another *contingency* spell on you ends. Also, *contingency* ends on you if its material component is ever not on your person.
 
-#### **Continual Flame**
+### **Continual Flame**
 
 *2nd-level evocation*
 
@@ -6539,7 +6580,7 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks  like a regular flame, but it creates no heat and doesn't use oxygen. A *continual flame* can be covered or hidden but not smothered or quenched.
 
-#### **Control Water**
+### **Control Water**
 
 *4th-level transmutation*
 
@@ -6569,7 +6610,7 @@ When a creature enters the vortex for the first time on a turn or starts its tur
 
 The first time each turn that an object enters the vortex, the object takes 2d8 bludgeoning damage; this damage occurs each round it remains in the vortex.
 
-#### **Control Weather**
+### **Control Weather**
 
 *8th-level transmutation*
 
@@ -6613,13 +6654,13 @@ When you change the weather conditions, find a current condition on the followin
 | 4     | Gale          |
 | 5     | Storm         |
 
-## **Counterspell**
+### **Counterspell**
 
 *3rd-level abjuration*
 
 **Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell **Range:** 60 feet
 
-## **Components:** S
+**Components:** S
 
 **Duration:** Instantaneous
 
@@ -6627,7 +6668,7 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
 
-#### **Create Food and Water**
+### **Create Food and Water**
 
 *3rd-level conjuration*
 
@@ -6635,7 +6676,7 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad.
 
-#### **Create or Destroy Water**
+### **Create or Destroy Water**
 
 *1st-level transmutation*
 
@@ -6649,7 +6690,7 @@ You either create or destroy water.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.
 
-#### **Create Undead**
+### **Create Undead**
 
 *6th-level necromancy*
 
@@ -6667,7 +6708,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 *At Higher Levels.* When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
 
-#### **Creation**
+### **Creation**
 
 *5th-level illusion*
 
@@ -6689,7 +6730,7 @@ Using any material created by this spell as another spell's material component c
 
 *At Higher Levels.* When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
 
-#### **Cure Wounds**
+### **Cure Wounds**
 
 *1st-level evocation*
 
@@ -6697,7 +6738,7 @@ Using any material created by this spell as another spell's material component c
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
-#### **Dancing Lights**
+### **Dancing Lights**
 
 *Evocation cantrip*
 
@@ -6707,7 +6748,7 @@ You create up to four torch-sized lights within range, making them appear as tor
 
 As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.
 
-#### **Darkness**
+### **Darkness**
 
 *2nd-level evocation*
 
@@ -6721,7 +6762,7 @@ If the point you choose is on an object you are holding or one that isn't being 
 
 If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
 
-#### **Darkvision**
+### **Darkvision**
 
 *2nd-level transmutation*
 
@@ -6729,7 +6770,7 @@ If any of this spell's area overlaps with an area of light created by a spell of
 
 You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.
 
-#### **Daylight**
+### **Daylight**
 
 *3rd-level evocation*
 
@@ -6741,7 +6782,7 @@ If you chose a point on an object you are holding or one that isn't being worn o
 
 If any of this spell's area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.
 
-#### **Death Ward**
+### **Death Ward**
 
 *4th-level abjuration*
 
@@ -6753,13 +6794,13 @@ The first time the target would drop to 0 hit points as a result of taking damag
 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
 
-#### **Delayed Blast Fireball**
+### **Delayed Blast Fireball**
 
 *7th-level evocation*
 
 **Casting Time:** 1 action
 
-#### **Range:** 150 feet
+**Range:** 150 feet
 
 **Components:** V, S, M (a tiny ball of bat guano and sulfur)
 
@@ -6775,7 +6816,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 *At Higher Levels.* When you cast this spell using a spell slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.
 
-#### **Demiplane**
+### **Demiplane**
 
 *8th-level conjuration*
 
@@ -6787,7 +6828,7 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 
 spell by another creature, you can have the shadowy door connect to its demiplane instead.
 
-#### **Detect Evil and Good**
+### **Detect Evil and Good**
 
 *1st-level divination*
 
@@ -6797,7 +6838,7 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-#### **Detect Magic**
+### **Detect Magic**
 
 *1st-level divination (ritual)*
 
@@ -6807,7 +6848,7 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-#### **Detect Poison and Disease**
+### **Detect Poison and Disease**
 
 *1st-level divination (ritual)*
 
@@ -6817,7 +6858,7 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-#### **Detect Thoughts**
+### **Detect Thoughts**
 
 *2nd-level divination*
 
@@ -6833,13 +6874,13 @@ You can also use this spell to detect the presence of thinking creatures you can
 
 Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it, but it must still be within range.
 
-#### **Dimension Door**
+### **Dimension Door**
 
 *4th-level conjuration*
 
 **Casting Time:** 1 action **Range:** 500 feet
 
-#### **Components:** V **Duration:** Instantaneous
+**Components:** V **Duration:** Instantaneous
 
 You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as "200 feet straight downward" or "upward to the northwest at a 45 degree angle, 300 feet."
 
@@ -6847,7 +6888,7 @@ You can bring along objects as long as their weight doesn't exceed what you can 
 
 If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you.
 
-#### **Disguise Self**
+### **Disguise Self**
 
 *1st-level illusion*
 
@@ -6859,7 +6900,7 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.
 
-#### **Disintegrate**
+### **Disintegrate**
 
 *6th-level transmutation*
 
@@ -6879,7 +6920,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 *At Higher Levels.* When you cast this spell using a spell slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
 
-#### **Dispel Evil and Good**
+### **Dispel Evil and Good**
 
 *5th-level abjuration*
 
@@ -6897,7 +6938,7 @@ You can end the spell early by using either of the following special functions.
 
 already). If they aren't on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.
 
-#### **Dispel Magic**
+### **Dispel Magic**
 
 *3rd-level abjuration*
 
@@ -6907,7 +6948,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used.
 
-#### **Divination**
+### **Divination**
 
 *4th-level divination (ritual)*
 
@@ -6923,17 +6964,17 @@ The spell doesn't take into account any possible circumstances that might change
 
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The GM makes this roll in secret.
 
-#### **Divine Favor**
+### **Divine Favor**
 
 *1st-level evocation*
 
 **Casting Time:** 1 bonus action **Range:** Self **Components:** V, S
 
-#### **Duration:** Concentration, up to 1 minute
+### **Duration:** Concentration, up to 1 minute
 
 Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.
 
-#### **Divine Word**
+### **Divine Word**
 
 *7th-level evocation*
 
@@ -6948,7 +6989,7 @@ You utter a divine word, imbued with the power that shaped the world at the dawn
 
 Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a *wish* spell.
 
-#### **Dominate Beast**
+### **Dominate Beast**
 
 *4th-level enchantment*
 
@@ -6966,7 +7007,7 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 *At Higher Levels.* When you cast this spell with a 5th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 7th level or higher, the duration is concentration, up to 8 hours.
 
-#### **Dominate Monster**
+### **Dominate Monster**
 
 *8th-level enchantment*
 
@@ -6982,7 +7023,7 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 *At Higher Levels.* When you cast this spell with a 9th-level spell slot, the duration is concentration, up to 8 hours.
 
-#### **Dominate Person**
+### **Dominate Person**
 
 *5th-level enchantment*
 
@@ -6998,13 +7039,13 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 *At Higher Levels.* When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is concentration, up to 8 hours.
 
-#### **Dream**
+### **Dream**
 
 *5th-level illusion*
 
 **Casting Time:** 1 minute
 
-#### **Range:** Special
+**Range:** Special
 
 **Components:** V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird) **Duration:** 8 hours
 
@@ -7016,7 +7057,7 @@ You can make the messenger appear monstrous and terrifying to the target. If you
 
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 
-#### **Druidcraft**
+### **Druidcraft**
 
 *Transmutation cantrip*
 
@@ -7027,7 +7068,7 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 - You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
 - You instantly light or snuff out a candle, a torch, or a small campfire.
 
-#### **Earthquake**
+### **Earthquake**
 
 *8th-level evocation*
 
@@ -7051,7 +7092,7 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 
 and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The GM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried.
 
-#### **Eldritch Blast**
+### **Eldritch Blast**
 
 *Evocation cantrip*
 
@@ -7063,7 +7104,7 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 
 The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
-#### **Enhance Ability**
+### **Enhance Ability**
 
 *2nd-level transmutation*
 
@@ -7087,7 +7128,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 *At Higher Levels*. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-#### **Enlarge/Reduce**
+### **Enlarge/Reduce**
 
 *2nd-level transmutation*
 
@@ -7101,7 +7142,7 @@ If the target is a creature, everything it is wearing and carrying changes size 
 
 *Reduce.* The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category—from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1).
 
-#### **Entangle**
+### **Entangle**
 
 *1st-level conjuration*
 
@@ -7115,7 +7156,7 @@ restrained by the entangling plants until the spell ends. A creature restrained 
 
 When the spell ends, the conjured plants wilt away.
 
-#### **Enthrall**
+### **Enthrall**
 
 *2nd-level enchantment*
 
@@ -7123,7 +7164,7 @@ When the spell ends, the conjured plants wilt away.
 
 You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can't be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
 
-#### **Etherealness**
+### **Etherealness**
 
 *7th-level transmutation*
 
@@ -7141,7 +7182,7 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 *At Higher Levels.* When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.
 
-#### **Expeditious Retreat**
+### **Expeditious Retreat**
 
 *1st-level transmutation*
 
@@ -7149,7 +7190,7 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.
 
-#### **Eyebite**
+### **Eyebite**
 
 *6th-level necromancy*
 
@@ -7163,7 +7204,7 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 *Sickened.* The target has disadvantage on attack rolls and ability checks. At the end of each of its turns, it can make another Wisdom saving throw. If it succeeds, the effect ends.
 
-#### **Fabricate**
+### **Fabricate**
 
 *4th-level transmutation*
 
@@ -7175,7 +7216,7 @@ Choose raw materials that you can see within range. You can fabricate a Large or
 
 Creatures or magic items can't be created or transmuted by this spell. You also can't use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan's tools used to craft such objects.
 
-#### **Faerie Fire**
+### **Faerie Fire**
 
 *1st-level evocation*
 
@@ -7185,7 +7226,7 @@ Each object in a 20-foot cube within range is outlined in blue, green, or violet
 
 Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.
 
-#### **Faithful Hound**
+### **Faithful Hound**
 
 *4th-level conjuration*
 
@@ -7197,7 +7238,7 @@ The hound is invisible to all creatures except you and can't be harmed. When a S
 
 At the start of each of your turns, the hound attempts to bite one creature within 5 feet of it that is hostile to you. The hound's attack bonus is equal to your spellcasting ability modifier + your proficiency bonus. On a hit, it deals 4d8 piercing damage.
 
-#### **False Life**
+### **False Life**
 
 *1st-level necromancy*
 
@@ -7209,7 +7250,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
 
-#### **Fear**
+### **Fear**
 
 *3rd-level illusion*
 
@@ -7221,9 +7262,9 @@ whatever it is holding and become frightened for the duration.
 
 While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.
 
-## **Feather Fall**
+### **Feather Fall**
 
-#### *1st-level transmutation*
+*1st-level transmutation*
 
 **Casting Time:** 1 reaction, which you take when you or a creature within 60 feet of you falls **Range:** 60 feet
 
@@ -7233,7 +7274,7 @@ While frightened by this spell, a creature must take the Dash action and move aw
 
 Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
-#### **Feeblemind**
+### **Feeblemind**
 
 *8th-level enchantment*
 
@@ -7247,7 +7288,7 @@ At the end of every 30 days, the creature can repeat its saving throw against th
 
 The spell can also be ended by *greater restoration*, *heal*, or *wish.*
 
-#### **Find Familiar**
+### **Find Familiar**
 
 *1st-level conjuration (ritual)*
 
@@ -7269,13 +7310,13 @@ You can't have more than one familiar at a time. If you cast this spell while yo
 
 Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
 
-#### **Find Steed**
+### **Find Steed**
 
 *2nd-level conjuration*
 
 **Casting Time:** 10 minutes **Range:** 30 feet
 
-#### **Components:** V, S **Duration:** Instantaneous
+**Components:** V, S **Duration:** Instantaneous
 
 You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a warhorse, a pony, a camel, an elk, or a mastiff. (Your GM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
 
@@ -7287,11 +7328,11 @@ While your steed is within 1 mile of you, you can communicate with it telepathic
 
 You can't have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear. 
 
-## **Find the Path**
+### **Find the Path**
 
 *6th-level divination*
 
-#### **Casting Time:** 1 minute **Range:** Self
+**Casting Time:** 1 minute **Range:** Self
 
 **Components:** V, S, M (a set of divinatory tools such as bones, ivory sticks, cards, teeth, or carved runes—worth 100 gp and an object from the location you wish to find)
 
@@ -7303,7 +7344,7 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 traveling there, whenever you are presented with a choice of paths along the way, you automatically determine which path is the shortest and most direct route (but not necessarily the safest route) to the destination.
 
-#### **Find Traps**
+### **Find Traps**
 
 *2nd-level divination*
 
@@ -7313,7 +7354,7 @@ You sense the presence of any trap within range that is within line of sight. A 
 
 This spell merely reveals that a trap is present. You don't learn the location of each trap, but you do learn the general nature of the danger posed by a trap you sense.
 
-#### **Finger of Death**
+### **Finger of Death**
 
 *7th-level necromancy*
 
@@ -7323,7 +7364,7 @@ You send negative energy coursing through a creature that you can see within ran
 
 A humanoid killed by this spell rises at the start of your next turn as a zombie that is permanently under your command, following your verbal orders to the best of its ability.
 
-#### **Fireball**
+### **Fireball**
 
 *3rd-level evocation*
 
@@ -7335,7 +7376,7 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-#### **Fire Bolt**
+### **Fire Bolt**
 
 *Evocation cantrip*
 
@@ -7345,7 +7386,7 @@ range. Make a ranged spell attack against the target. On a hit, the target takes
 
 This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
-#### **Fire Shield**
+### **Fire Shield**
 
 *4th-level evocation*
 
@@ -7357,7 +7398,7 @@ The flames provide you with a warm shield or a chill shield, as you choose. The 
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes 2d8 fire damage from a warm shield, or 2d8 cold damage from a cold shield.
 
-#### **Fire Storm**
+### **Fire Storm**
 
 *7th-level evocation*
 
@@ -7367,7 +7408,7 @@ A storm made up of sheets of roaring flame appears in a location you choose with
 
 The fire damages objects in the area and ignites flammable objects that aren't being worn or carried. If you choose, plant life in the area is unaffected by this spell.
 
-#### **Flame Blade**
+### **Flame Blade**
 
 *2nd-level evocation*
 
@@ -7381,7 +7422,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd.
 
-#### **Flame Strike**
+### **Flame Strike**
 
 *5th-level evocation*
 
@@ -7393,7 +7434,7 @@ radiant damage on a failed save, or half as much damage on a successful one.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
 
-#### **Flaming Sphere**
+### **Flaming Sphere**
 
 *2nd-level conjuration*
 
@@ -7411,7 +7452,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
-#### **Flesh to Stone**
+### **Flesh to Stone**
 
 *6th-level transmutation*
 
@@ -7427,7 +7468,7 @@ If the creature is physically broken while petrified, it suffers from similar de
 
 If you maintain your concentration on this spell for the entire possible duration, the creature is turned to stone until the effect is removed.
 
-#### **Floating Disk**
+### **Floating Disk**
 
 *1st-level conjuration (ritual)*
 
@@ -7439,7 +7480,7 @@ The disk is immobile while you are within 20 feet of it. If you move more than 2
 
 If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.
 
-#### **Fly**
+### **Fly**
 
 *3rd-level transmutation*
 
@@ -7449,7 +7490,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
-#### **Fog Cloud**
+### **Fog Cloud**
 
 *1st-level conjuration*
 
@@ -7459,7 +7500,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
 
-#### **Forbiddance**
+### **Forbiddance**
 
 *6th-level abjuration (ritual)*
 
@@ -7476,7 +7517,7 @@ When you cast this spell, you can designate a password. A creature that speaks t
 
 The spell's area can't overlap with the area of another *forbiddance* spell. If you cast *forbiddance* every day for 30 days in the same location, the spell lasts until it is dispelled, and the material components are consumed on the last casting.
 
-#### **Forcecage**
+### **Forcecage**
 
 *7th-level evocation*
 
@@ -7494,7 +7535,7 @@ A creature inside the cage can't leave it by nonmagical means. If the creature t
 
 This spell can't be dispelled by *dispel magic*.
 
-#### **Foresight**
+### **Foresight**
 
 *9th-level divination*
 
@@ -7504,7 +7545,7 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 This spell immediately ends if you cast it again before its duration ends.
 
-#### **Freedom of Movement**
+### **Freedom of Movement**
 
 *4th-level abjuration*
 
@@ -7514,7 +7555,7 @@ You touch a willing creature. For the duration, the target's movement is unaffec
 
 The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target's movement or attacks.
 
-#### **Freezing Sphere**
+### **Freezing Sphere**
 
 *6th-level evocation*
 
@@ -7528,7 +7569,7 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 *At Higher Levels.* When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
 
-#### **Gaseous Form**
+### **Gaseous Form**
 
 *3rd-level transmutation*
 
@@ -7542,7 +7583,7 @@ While in this form, the target's only method of movement is a flying speed of 10
 
 While in the form of a misty cloud, the target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. The target can't attack or cast spells.
 
-#### **Gate**
+### **Gate**
 
 *9th-level conjuration*
 
@@ -7560,7 +7601,7 @@ Deities and other planar rulers can prevent portals created by this spell from o
 
 When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn't work). If that creature is on a plane other than the one you are on, the portal opens in the named creature's immediate vicinity and draws the creature through it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the GM deems appropriate. It might leave, attack you, or help you.
 
-#### **Geas**
+### **Geas**
 
 *5th-level enchantment*
 
@@ -7574,20 +7615,20 @@ You can end the spell early by using an action to dismiss it. A *remove curse*, 
 
 *At Higher Levels.* When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
 
-#### **Gentle Repose**
+### **Gentle Repose**
 
 *2nd-level necromancy (ritual)*
 
 **Casting Time:** 1 action **Range:** Touch
 
 - **Components:** V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration)
-#### **Duration:** 10 days
+**Duration:** 10 days
 
 You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead.
 
 The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as *raise dead.*
 
-#### **Giant Insect**
+### **Giant Insect**
 
 *4th-level transmutation*
 
@@ -7601,7 +7642,7 @@ A creature remains in its giant size for the duration, until it drops to 0 hit p
 
 The GM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a giant wasp.
 
-#### **Glibness**
+### **Glibness**
 
 *8th-level transmutation*
 
@@ -7609,7 +7650,7 @@ The GM might allow you to choose different targets. For example, if you transfor
 
 Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
 
-#### **Globe of Invulnerability**
+### **Globe of Invulnerability**
 
 *6th-level abjuration*
 
@@ -7621,7 +7662,7 @@ Any spell of 5th level or lower cast from outside the barrier can't affect creat
 
 *At Higher Levels.* When you cast this spell using a spell slot of 7th level or higher, the barrier blocks spells of one level higher for each slot level above 6th.
 
-#### **Glyph of Warding**
+### **Glyph of Warding**
 
 *3rd-level abjuration*
 
@@ -7648,7 +7689,7 @@ When you inscribe the glyph, choose *explosive runes* or a *spell glyph.*
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, the damage of an *explosive runes* glyph increases by 1d8 for each slot level above 3rd. If you create a *spell glyph*, you can store any spell of up to the same level as the slot you use for the *glyph of warding.*
 
-#### **Goodberry**
+### **Goodberry**
 
 *1st-level transmutation*
 
@@ -7658,7 +7699,7 @@ Up to ten berries appear in your hand and are infused with magic for the duratio
 
 The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
-#### **Grease**
+### **Grease**
 
 *1st-level conjuration*
 
@@ -7668,7 +7709,7 @@ Slick grease covers the ground in a 10-foot square centered on a point within ra
 
 When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall prone.
 
-#### **Greater Invisibility**
+### **Greater Invisibility**
 
 *4th-level illusion*
 
@@ -7676,7 +7717,7 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person.
 
-#### **Greater Restoration**
+### **Greater Restoration**
 
 *5th-level abjuration*
 
@@ -7689,27 +7730,27 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 - Any reduction to one of the target's ability scores
 - One effect reducing the target's hit point maximum
 
-#### **Guardian of Faith**
+### **Guardian of Faith**
 
 *4th-level conjuration*
 
 **Casting Time:** 1 action **Range:** 30 feet **Components:** V
 
-#### **Duration:** 8 hours
+### **Duration:** 8 hours
 
 A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.
 
 Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
-#### **Guards and Wards**
+### **Guards and Wards**
 
 *6th-level abjuration*
 
-#### **Casting Time:** 10 minutes **Range:** Touch
+### **Casting Time:** 10 minutes **Range:** Touch
 
 **Components:** V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)
 
-#### **Duration:** 24 hours
+**Duration:** 24 hours
 
 You create a ward that protects up to 2,500 square feet of floor space (an area 50 feet square, or one hundred 5-foot squares or twenty-five 10-foot squares). The warded area can be up to 20 feet tall, and shaped as you desire. You can ward several stories of a stronghold by dividing the area among them, as long as you can walk into each contiguous area while you are casting the spell.
 
@@ -7735,7 +7776,7 @@ The whole warded area radiates magic. A *dispel magic* cast on a specific effect
 
 You can create a permanently guarded and warded structure by casting this spell there every day for one year.
 
-#### **Guidance**
+### **Guidance**
 
 *Divination cantrip*
 
@@ -7743,7 +7784,7 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
-#### **Guiding Bolt**
+### **Guiding Bolt**
 
 *1st-level evocation*
 
@@ -7755,7 +7796,7 @@ against this target before the end of your next turn has advantage, thanks to th
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-#### **Gust of Wind**
+### **Gust of Wind**
 
 *2nd-level evocation*
 
@@ -7769,11 +7810,11 @@ The gust disperses gas or vapor, and it extinguishes candles, torches, and simil
 
 As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
 
-#### **Hallow**
+### **Hallow**
 
 *5th-level evocation*
 
-#### **Casting Time:** 24 hours
+**Casting Time:** 24 hours
 
 **Range:** Touch
 
@@ -7805,7 +7846,7 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 *Tongues.* Affected creatures can communicate with any other creature in the area, even if they don't share a common language.
 
-#### **Hallucinatory Terrain**
+### **Hallucinatory Terrain**
 
 *4th-level illusion*
 
@@ -7817,7 +7858,7 @@ difficult or impassable terrain. A pond can be made to seem like a grassy meadow
 
 The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn't obvious by touch, a creature carefully examining the illusion can attempt an Intelligence (Investigation) check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain.
 
-#### **Harm**
+### **Harm**
 
 *6th-level necromancy*
 
@@ -7825,7 +7866,7 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes.
 
-#### **Haste**
+### **Haste**
 
 *3rd-level transmutation*
 
@@ -7835,7 +7876,7 @@ Choose a willing creature that you can see within range. Until the spell ends, t
 
 When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
 
-#### **Heal**
+### **Heal**
 
 *6th-level evocation*
 
@@ -7845,7 +7886,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 *At Higher Levels.* When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
 
-#### **Healing Word**
+### **Healing Word**
 
 *1st-level evocation*
 
@@ -7855,7 +7896,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
 
-#### **Heat Metal**
+### **Heat Metal**
 
 *2nd-level transmutation*
 
@@ -7867,7 +7908,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
-#### **Hellish Rebuke**
+### **Hellish Rebuke**
 
 *1st-level evocation*
 
@@ -7880,7 +7921,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
-## **Heroes' Feast**
+### **Heroes' Feast**
 
 *6th-level conjuration*
 
@@ -7890,7 +7931,7 @@ You bring forth a great feast, including magnificent food and drink. The feast t
 
 A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours.
 
-#### **Heroism**
+### **Heroism**
 
 *1st-level enchantment*
 
@@ -7902,7 +7943,7 @@ of its turns. When the spell ends, the target loses any remaining temporary hit 
 
 *At Higher Levels*. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-#### **Hideous Laughter**
+### **Hideous Laughter**
 
 *1st-level enchantment*
 
@@ -7922,7 +7963,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 *At Higher Levels.* When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
 
-#### **Hold Person**
+### **Hold Person**
 
 *2nd-level enchantment*
 
@@ -7932,7 +7973,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
 
-#### **Holy Aura**
+### **Holy Aura**
 
 *8th-level abjuration*
 
@@ -7945,7 +7986,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends.
 
-#### **Hunter's Mark**
+### **Hunter's Mark**
 
 *1st-level divination*
 
@@ -7957,7 +7998,7 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 maintain your concentration on the spell for up to 24 hours.
 
-#### **Hypnotic Pattern**
+### **Hypnotic Pattern**
 
 *3rd-level illusion*
 
@@ -7967,7 +8008,7 @@ You create a twisting pattern of colors that weaves through the air inside a 30-
 
 The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
-#### **Ice Storm**
+### **Ice Storm**
 
 *4th-level evocation*
 
@@ -7979,7 +8020,7 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 *At Higher Levels.* When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th.
 
-#### **Identify**
+### **Identify**
 
 *1st-level divination (ritual)*
 
@@ -7995,7 +8036,7 @@ You choose one object that you must touch throughout the casting of the spell. I
 
 If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
 
-#### **Illusory Script**
+### **Illusory Script**
 
 *1st-level illusion (ritual)*
 
@@ -8011,7 +8052,7 @@ Should the spell be dispelled, the original script and the illusion both disappe
 
 A creature with truesight can read the hidden message.
 
-#### **Imprisonment**
+### **Imprisonment**
 
 *9th-level abjuration*
 
@@ -8050,7 +8091,7 @@ A *dispel magic* spell can end the spell only if it is cast as a 9th-level spell
 
 You can use a particular special component to create only one prison at a time. If you cast the spell again using the same component, the target of the first casting is immediately freed from its binding.
 
-#### **Incendiary Cloud**
+### **Incendiary Cloud**
 
 *8th-level conjuration*
 
@@ -8062,7 +8103,7 @@ When the cloud appears, each creature in it must make a Dexterity saving throw. 
 
 The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.
 
-#### **Inflict Wounds**
+### **Inflict Wounds**
 
 *1st-level necromancy*
 
@@ -8084,7 +8125,7 @@ When the area appears, each creature in it must make a Constitution saving throw
 
 *At Higher Levels.* When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
 
-#### **Instant Summons**
+### **Instant Summons**
 
 *6th-level conjuration (ritual)*
 
@@ -8098,7 +8139,7 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 *Dispel magic* or a similar effect successfully applied to the sapphire ends this spell's effect.
 
-#### **Invisibility**
+### **Invisibility**
 
 *2nd-level illusion*
 
@@ -8110,7 +8151,7 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-#### **Irresistible Dance**
+### **Irresistible Dance**
 
 *6th-level enchantment*
 
@@ -8120,7 +8161,7 @@ Choose one creature that you can see within range. The target begins a comic dan
 
 A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity saving throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.
 
-#### **Jump**
+### **Jump**
 
 *1st-level transmutation*
 
@@ -8128,7 +8169,7 @@ A dancing creature must use all its movement to dance without leaving its space 
 
 You touch a creature. The creature's jump distance is tripled until the spell ends.
 
-#### **Knock**
+### **Knock**
 
 *2nd-level transmutation*
 
@@ -8142,7 +8183,7 @@ If you choose a target that is held shut with *arcane lock*, that spell is suppr
 
 When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.
 
-#### **Legend Lore**
+### **Legend Lore**
 
 *5th-level divination*
 
@@ -8154,7 +8195,7 @@ Name or describe a person, place, or object. The spell brings to your mind a bri
 
 The information you learn is accurate but might be couched in figurative language. For example, if you have a mysterious magic axe on hand, the spell might yield this information: "Woe to the evildoer whose hand touches the axe, for even the haft slices the hand of the evil ones. Only a true Child of Stone, lover and beloved of Moradin, may awaken the true powers of the axe, and only with the sacred word *Rudnogg* on the lips."
 
-#### **Lesser Restoration**
+### **Lesser Restoration**
 
 *2nd-level abjuration*
 
@@ -8162,7 +8203,7 @@ The information you learn is accurate but might be couched in figurative languag
 
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-#### **Levitate**
+### **Levitate**
 
 *2nd-level transmutation*
 
@@ -8178,7 +8219,7 @@ The target can move only by pushing or pulling against a fixed object or surface
 
 When the spell ends, the target floats gently to the ground if it is still aloft.
 
-#### **Light**
+### **Light**
 
 *Evocation cantrip*
 
@@ -8188,7 +8229,7 @@ You touch one object that is no larger than 10 feet in any dimension. Until the 
 
 If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
 
-#### **Lightning Bolt**
+### **Lightning Bolt**
 
 *3rd-level evocation*
 
@@ -8202,7 +8243,7 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-#### **Locate Animals or Plants**
+### **Locate Animals or Plants**
 
 *2nd-level divination (ritual)*
 
@@ -8210,7 +8251,7 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 
-#### **Locate Creature**
+### **Locate Creature**
 
 *4th-level divination*
 
@@ -8222,7 +8263,7 @@ The spell can locate a specific creature known to you, or the nearest creature o
 
 This spell can't locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
 
-#### **Locate Object**
+### **Locate Object**
 
 *2nd-level divination*
 
@@ -8232,7 +8273,7 @@ The spell can locate a specific object known to you, as long as you have seen it
 
 This spell can't locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
 
-#### **Longstrider**
+### **Longstrider**
 
 *1st-level transmutation*
 
@@ -8242,7 +8283,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-#### **Mage Armor**
+### **Mage Armor**
 
 *1st-level abjuration*
 
@@ -8250,7 +8291,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 
 You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
 
-## **Mage Hand**
+### **Mage Hand**
 
 *Conjuration cantrip*
 
@@ -8262,7 +8303,7 @@ You can use your action to control the hand. You can use the hand to manipulate 
 
 The hand can't attack, activate magic items, or carry more than 10 pounds.
 
-## **Magic Circle**
+### **Magic Circle**
 
 *3rd-level abjuration*
 
@@ -8284,7 +8325,7 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
-## **Magic Jar**
+### **Magic Jar**
 
 *6th-level necromancy*
 
@@ -8309,7 +8350,7 @@ If the container is destroyed or the spell ends, your soul immediately returns t
 
 When the spell ends, the container is destroyed.
 
-#### **Magic Missile**
+### **Magic Missile**
 
 *1st-level evocation*
 
@@ -8317,7 +8358,7 @@ When the spell ends, the container is destroyed.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
 
-#### **Magic Mouth**
+### **Magic Mouth**
 
 *2nd-level illusion (ritual)*
 
@@ -8332,7 +8373,7 @@ When that circumstance occurs, a magical mouth appears on the object and recites
 
 The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
 
-#### **Magic Weapon**
+### **Magic Weapon**
 
 *2nd-level transmutation*
 
@@ -8340,7 +8381,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
-#### **Magnificent Mansion**
+### **Magnificent Mansion**
 
 *7th-level conjuration*
 
@@ -8354,7 +8395,7 @@ Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmo
 
 You can create any floor plan you like, but the space can't exceed 50 cubes, each cube being 10 feet on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can't leave it. Furnishings and other objects created by this spell dissipate into smoke if removed from the mansion. When the spell ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance.
 
-#### **Major Image**
+### **Major Image**
 
 *3rd-level illusion*
 
@@ -8370,7 +8411,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 *At Higher Levels.* When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your concentration.
 
-#### **Mass Cure Wounds**
+### **Mass Cure Wounds**
 
 *5th-level evocation*
 
@@ -8380,7 +8421,7 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 *At Higher Levels.* When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
 
-#### **Mass Heal**
+### **Mass Heal**
 
 *9th-level evocation*
 
@@ -8388,7 +8429,7 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on undead or constructs.
 
-#### **Mass Healing Word**
+### **Mass Healing Word**
 
 *3rd-level evocation*
 
@@ -8398,7 +8439,7 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
 
-#### **Mass Suggestion**
+### **Mass Suggestion**
 
 *6th-level enchantment*
 
@@ -8416,7 +8457,7 @@ If you or any of your companions damage a creature affected by this spell, the s
 
 *At Higher Levels*. When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.
 
-#### **Maze**
+### **Maze**
 
 *8th-level conjuration*
 
@@ -8428,7 +8469,7 @@ The target can use its action to attempt to escape. When it does so, it makes a 
 
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 
-#### **Meld into Stone**
+### **Meld into Stone**
 
 *3rd-level transmutation (ritual)*
 
@@ -8442,7 +8483,7 @@ checks you make to hear sounds outside it are made with disadvantage. You remain
 
 Minor physical damage to the stone doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 6d6 bludgeoning damage to you. The stone's complete destruction (or transmutation into a different substance) expels you and deals 50 bludgeoning damage to you. If expelled, you fall prone in an unoccupied space closest to where you first entered.
 
-#### **Mending**
+### **Mending**
 
 *Transmutation cantrip*
 
@@ -8452,7 +8493,7 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 
 This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.
 
-#### **Message**
+### **Message**
 
 *Transmutation cantrip*
 
@@ -8462,7 +8503,7 @@ You point your finger toward a creature within range and whisper a message. The 
 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn't have to follow a straight line and can travel freely around corners or through openings.
 
-#### **Meteor Swarm**
+### **Meteor Swarm**
 
 *9th-level evocation*
 
@@ -8472,7 +8513,7 @@ Blazing orbs of fire plummet to the ground at four different points you can see 
 
 The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.
 
-#### **Mind Blank**
+### **Mind Blank**
 
 *8th-level abjuration*
 
@@ -8480,7 +8521,7 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 
 Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even foils *wish* spells and spells or effects of similar power used to affect the target's mind or to gain information about the target.
 
-#### **Minor Illusion**
+### **Minor Illusion**
 
 *Illusion cantrip*
 
@@ -8494,7 +8535,7 @@ If you create an image of an object—such as a chair, muddy footprints, or a sm
 
 If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
-#### **Mirage Arcane**
+### **Mirage Arcane**
 
 *7th-level illusion*
 
@@ -8508,7 +8549,7 @@ The illusion includes audible, visual, tactile, and olfactory elements, so it ca
 
 Creatures with truesight can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
 
-#### **Mirror Image**
+### **Mirror Image**
 
 *2nd-level illusion*
 
@@ -8524,7 +8565,7 @@ A duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplic
 
 A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.
 
-#### **Mislead**
+### **Mislead**
 
 *5th-level illusion*
 
@@ -8536,7 +8577,7 @@ You can use your action to move your illusory double up to twice your speed and 
 
 You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
 
-#### **Misty Step**
+### **Misty Step**
 
 *2nd-level conjuration*
 
@@ -8544,7 +8585,7 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 
-#### **Modify Memory**
+### **Modify Memory**
 
 *5th-level enchantment*
 
@@ -8564,7 +8605,7 @@ A *remove curse* or *greater restoration* spell cast on the target restores the 
 
 (8th level), or any time in the creature's past (9th level).
 
-#### **Moonbeam**
+### **Moonbeam**
 
 *2nd-level evocation*
 
@@ -8582,7 +8623,7 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
 
-#### **Move Earth**
+### **Move Earth**
 
 *6th-level transmutation*
 
@@ -8612,7 +8653,7 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 
 For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors.
 
-#### **Pass without Trace**
+### **Pass without Trace**
 
 *2nd-level abjuration*
 
@@ -8620,7 +8661,7 @@ For the duration, you hide a target that you touch from divination magic. The ta
 
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
-#### **Passwall**
+### **Passwall**
 
 *5th-level transmutation*
 
@@ -8632,7 +8673,7 @@ A passage appears at a point of your choice that you can see on a wooden, plaste
 
 When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
 
-#### **Phantasmal Killer**
+### **Phantasmal Killer**
 
 *4th-level illusion*
 
@@ -8654,7 +8695,7 @@ For the duration, you or a creature you choose can ride the steed. The creature 
 
 pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an action to dismiss it or if the steed takes any damage.
 
-#### **Planar Ally**
+### **Planar Ally**
 
 *6th-level conjuration*
 
@@ -8672,7 +8713,7 @@ After the creature completes the task, or when the agreed-upon duration of servi
 
 A creature enlisted to join your group counts as a member of it, receiving a full share of experience points awarded.
 
-#### **Planar Binding**
+### **Planar Binding**
 
 *5th-level abjuration*
 
@@ -8684,14 +8725,14 @@ A bound creature must follow your instructions to the best of its ability. You m
 
 *At Higher Levels.* When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7thlevel slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot.
 
-#### **Plane Shift**
+### **Plane Shift**
 
-#### *7th-level conjuration*
+*7th-level conjuration*
 
 **Casting Time:** 1 action **Range:** Touch **Components:** V, S, M (a forked, metal rod worth at 
 
 - least 250 gp, attuned to a particular plane of existence)
-#### **Duration:** Instantaneous
+**Duration:** Instantaneous
 
 You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as the City of Brass on the Elemental Plane of Fire or the palace of Dispater on the second level of the Nine Hells, and you appear in or near that destination. If you are trying to reach the City of Brass, for example, you might arrive in its Street of Steel, before its Gate of Ashes, or looking at the city from across the Sea of Fire, at the GM's discretion.
 
@@ -8699,7 +8740,7 @@ Alternatively, if you know the sigil sequence of a teleportation circle on anoth
 
 You can use this spell to banish an unwilling creature to another plane. Choose a creature within your reach and make a melee spell attack against it. On a hit, the creature must make a Charisma saving throw. If the creature fails this save, it is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence.
 
-#### **Plant Growth**
+### **Plant Growth**
 
 *3rd-level transmutation*
 
@@ -8713,7 +8754,7 @@ You can exclude one or more areas of any size within the spell's area from being
 
 If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.
 
-#### **Poison Spray**
+### **Poison Spray**
 
 *Conjuration cantrip*
 
@@ -8723,7 +8764,7 @@ You extend your hand toward a creature you can see within range and project a pu
 
 This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
 
-#### **Polymorph**
+### **Polymorph**
 
 *4th-level transmutation*
 
@@ -8739,7 +8780,7 @@ The creature is limited in the actions it can perform by the nature of its new f
 
 The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
 
-#### **Power Word Kill**
+### **Power Word Kill**
 
 *9th-level enchantment*
 
@@ -8747,7 +8788,7 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 
 You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.
 
-#### **Power Word Stun**
+### **Power Word Stun**
 
 *8th-level enchantment*
 
@@ -8757,7 +8798,7 @@ You speak a word of power that can overwhelm the mind of one creature you can se
 
 The stunned target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
 
-#### **Prayer of Healing**
+### **Prayer of Healing**
 
 *2nd-level evocation*
 
@@ -8767,7 +8808,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.
 
-#### **Prestidigitation**
+### **Prestidigitation**
 
 *Transmutation cantrip*
 
@@ -8808,7 +8849,7 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 *8. Special.* The target is struck by two rays. Roll twice more, rerolling any 8.
 
-#### **Prismatic Wall**
+### **Prismatic Wall**
 
 *9th-level abjuration*
 
@@ -8838,7 +8879,7 @@ While this layer is in place, spells can't be cast through the wall. The layer i
 
 *7. Violet.* On a failed save, the creature is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the GM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a *dispel magic* spell or a similar spell of equal or higher level that can end spells and magical effects.
 
-#### **Private Sanctum**
+### **Private Sanctum**
 
 *4th-level abjuration*
 
@@ -8862,7 +8903,7 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 *At Higher Levels.* When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.
 
-## **Produce Flame**
+### **Produce Flame**
 
 *Conjuration cantrip*
 
@@ -8874,7 +8915,7 @@ You can also attack with the flame, although doing so ends the spell. When you c
 
 This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-## **Programmed Illusion**
+### **Programmed Illusion**
 
 *6th-level illusion*
 
@@ -8888,7 +8929,7 @@ The triggering condition can be as general or as detailed as you like, though it
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-#### **Project Image**
+### **Project Image**
 
 *7th-level illusion*
 
@@ -8902,7 +8943,7 @@ You can see through its eyes and hear through its ears as if you were in its spa
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-#### **Protection from Energy**
+### **Protection from Energy**
 
 *3rd-level abjuration*
 
@@ -8910,7 +8951,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
 
-#### **Protection from Evil and Good**
+### **Protection from Evil and Good**
 
 *1st-level abjuration*
 
@@ -8920,19 +8961,19 @@ Until the spell ends, one willing creature you touch is protected against certai
 
 The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
 
-#### **Protection from Poison**
+### **Protection from Poison**
 
 *2nd-level abjuration*
 
 **Casting Time:** 1 action
 
-#### **Range:** Touch **Components:** V, S **Duration:** 1 hour
+### **Range:** Touch **Components:** V, S **Duration:** 1 hour
 
 You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
 
 For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.
 
-#### **Purify Food and Drink**
+### **Purify Food and Drink**
 
 *1st-level transmutation (ritual)*
 
@@ -8940,7 +8981,7 @@ For the duration, the target has advantage on saving throws against being poison
 
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
-#### **Raise Dead**
+### **Raise Dead**
 
 *5th-level necromancy*
 
@@ -8954,7 +8995,7 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
-## **Ray of Enfeeblement**
+### **Ray of Enfeeblement**
 
 *2nd-level necromancy*
 
@@ -8964,7 +9005,7 @@ A black beam of enervating energy springs from your finger toward a creature wit
 
 At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-#### **Ray of Frost**
+### **Ray of Frost**
 
 *Evocation cantrip*
 
@@ -8974,7 +9015,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-#### **Regenerate**
+### **Regenerate**
 
 *7th-level transmutation*
 
@@ -8984,7 +9025,7 @@ You touch a creature and stimulate its natural healing ability. The target regai
 
 The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
 
-#### **Reincarnate**
+### **Reincarnate**
 
 *5th-level transmutation*
 
@@ -9013,7 +9054,7 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 
 The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
 
-#### **Remove Curse**
+### **Remove Curse**
 
 *3rd-level abjuration*
 
@@ -9023,7 +9064,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 attunement to the object so it can be removed or discarded.
 
-#### **Resilient Sphere**
+### **Resilient Sphere**
 
 *4th-level evocation*
 
@@ -9041,7 +9082,7 @@ The sphere is weightless and just large enough to contain the creature or object
 
 A *disintegrate* spell targeting the globe destroys it without harming anything inside it.
 
-#### **Resistance**
+### **Resistance**
 
 *Abjuration cantrip*
 
@@ -9049,7 +9090,7 @@ A *disintegrate* spell targeting the globe destroys it without harming anything 
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.
 
-#### **Resurrection**
+### **Resurrection**
 
 *7th-level necromancy*
 
@@ -9065,7 +9106,7 @@ Coming back from the dead is an ordeal. The target takes a −4 penalty to all a
 
 Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
 
-#### **Reverse Gravity**
+### **Reverse Gravity**
 
 *7th-level transmutation*
 
@@ -9077,7 +9118,7 @@ If some solid object (such as a ceiling) is encountered in this fall, falling ob
 
 At the end of the duration, affected objects and creatures fall back down.
 
-#### **Revivify**
+### **Revivify**
 
 *3rd-level necromancy*
 
@@ -9085,7 +9126,7 @@ At the end of the duration, affected objects and creatures fall back down.
 
 You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
 
-#### **Rope Trick**
+### **Rope Trick**
 
 *2nd-level transmutation*
 
@@ -9099,7 +9140,7 @@ Attacks and spells can't cross through the entrance into or out of the extradime
 
 Anything inside the extradimensional space drops out when the spell ends.
 
-#### **Sacred Flame**
+### **Sacred Flame**
 
 *Evocation cantrip*
 
@@ -9109,7 +9150,7 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-#### **Sanctuary**
+### **Sanctuary**
 
 *1st-level abjuration*
 
@@ -9119,7 +9160,7 @@ You ward a creature within range against attack. Until the spell ends, any creat
 
 If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.
 
-#### **Scorching Ray**
+### **Scorching Ray**
 
 *2nd-level evocation*
 
@@ -9131,7 +9172,7 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
 
-## **Scrying**
+### **Scrying**
 
 *5th-level divination*
 
@@ -9159,7 +9200,7 @@ On a failed save, the spell creates an invisible sensor within 10 feet of the ta
 
 Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.
 
-#### **Secret Chest**
+### **Secret Chest**
 
 *4th-level conjuration*
 
@@ -9172,7 +9213,7 @@ While the chest remains on the Ethereal Plane, you can use an action and touch t
 
 After 60 days, there is a cumulative 5 percent chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
 
-#### **See Invisibility**
+### **See Invisibility**
 
 *2nd-level divination*
 
@@ -9180,7 +9221,7 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell's e
 
 For the duration, you see invisible creatures and objects as if they were visible, and you can see into  the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-#### **Seeming**
+### **Seeming**
 
 *5th-level illusion*
 
@@ -9194,7 +9235,7 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 A creature can use its action to inspect a target and make an Intelligence (Investigation) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-#### **Sending**
+### **Sending**
 
 *3rd-level evocation*
 
@@ -9206,11 +9247,11 @@ creatures with Intelligence scores of at least 1 to understand the meaning of yo
 
 You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn't arrive.
 
-#### **Sequester**
+### **Sequester**
 
 *7th-level transmutation*
 
-#### **Casting Time:** 1 action
+**Casting Time:** 1 action
 
 **Range:** Touch
 
@@ -9222,7 +9263,7 @@ If the target is a creature, it falls into a state of suspended animation. Time 
 
 You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include "after 1,000 years" or "when the tarrasque awakens." This spell also ends if the target takes any damage.
 
-#### **Shapechange**
+### **Shapechange**
 
 *9th-level transmutation*
 
@@ -9244,7 +9285,7 @@ When you transform, you choose whether your equipment falls to the ground, merge
 
 During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
 
-#### **Shatter**
+### **Shatter**
 
 *2nd-level evocation*
 
@@ -9258,7 +9299,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
-#### **Shield**
+### **Shield**
 
 *1st-level abjuration*
 
@@ -9266,7 +9307,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from *magic missile.*
 
-## **Shield of Faith**
+### **Shield of Faith**
 
 *1st-level abjuration*
 
@@ -9274,7 +9315,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-## **Shillelagh**
+### **Shillelagh**
 
 *Transmutation cantrip*
 
@@ -9282,7 +9323,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon.
 
-## **Shocking Grasp**
+### **Shocking Grasp**
 
 *Evocation cantrip*
 
@@ -9292,7 +9333,7 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-## **Silence**
+### **Silence**
 
 *2nd-level illusion (ritual)*
 
@@ -9300,7 +9341,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
-#### **Silent Image**
+### **Silent Image**
 
 *1st-level illusion*
 
@@ -9312,7 +9353,7 @@ You can use your action to cause the image to move to any spot within range. As 
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
-#### **Simulacrum**
+### **Simulacrum**
 
 *7th-level illusion*
 
@@ -9329,13 +9370,13 @@ If the simulacrum is damaged, you can repair it in an alchemical laboratory, usi
 
 If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.
 
-#### **Sleep**
+### **Sleep**
 
 *1st-level enchantment*
 
 **Casting Time:** 1 action **Range:** 90 feet **Components:** V, S, M (a pinch of fine sand, rose petals, or a cricket)
 
-#### **Duration:** 1 minute
+**Duration:** 1 minute
 
 This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).
 
@@ -9345,9 +9386,9 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
 
-#### **Sleet Storm**
+### **Sleet Storm**
 
-#### *3rd-level conjuration*
+*3rd-level conjuration*
 
 **Casting Time:** 1 action **Range:** 150 feet **Components:** V, S, M (a pinch of dust and a few drops of water) **Duration:** Concentration, up to 1 minute
 
@@ -9357,9 +9398,9 @@ The ground in the area is covered with slick ice, making it difficult terrain. W
 
 If a creature is concentrating in the spell's area, the creature must make a successful Constitution saving throw against your spell save DC or lose concentration.
 
-#### **Slow**
+### **Slow**
 
-#### *3rd-level transmutation*
+*3rd-level transmutation*
 
 **Casting Time:** 1 action **Range:** 120 feet **Components:** V, S, M (a drop of molasses) **Duration:** Concentration, up to 1 minute
 
@@ -9371,7 +9412,7 @@ If the creature attempts to cast a spell with a casting time of 1 action, roll a
 
 A creature affected by this spell makes another Wisdom saving throw at the end of its turn. On a successful save, the effect ends for it.
 
-#### **Spare the Dying**
+### **Spare the Dying**
 
 *Necromancy cantrip*
 
@@ -9379,7 +9420,7 @@ A creature affected by this spell makes another Wisdom saving throw at the end o
 
 You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
 
-#### **Speak with Animals**
+### **Speak with Animals**
 
 *1st-level divination (ritual)*
 
@@ -9387,19 +9428,19 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 
 You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the GM's discretion.
 
-#### **Speak with Dead**
+### **Speak with Dead**
 
 *3rd-level necromancy*
 
 **Casting Time:** 1 action **Range:** 10 feet
 
-#### **Components:** V, S, M (burning incense) **Duration:** 10 minutes
+**Components:** V, S, M (burning incense) **Duration:** 10 minutes
 
 You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose. The corpse must still have a mouth and can't be undead. The spell fails if the corpse was the target of this spell within the last 10 days.
 
 Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
 
-#### **Speak with Plants**
+### **Speak with Plants**
 
 *3rd-level transmutation*
 
@@ -9423,7 +9464,7 @@ This spell can cause the plants created by the *entangle* spell to release a res
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-#### **Spike Growth**
+### **Spike Growth**
 
 *2nd-level transmutation*
 
@@ -9433,7 +9474,7 @@ The ground in a 20-foot radius centered on a point within range twists and sprou
 
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-#### **Spirit Guardians**
+### **Spirit Guardians**
 
 *3rd-level conjuration*
 
@@ -9447,7 +9488,7 @@ neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the cre
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
-#### **Spiritual Weapon**
+### **Spiritual Weapon**
 
 *2nd-level evocation*
 
@@ -9461,7 +9502,7 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
 
-## **Stinking Cloud**
+### **Stinking Cloud**
 
 *3rd-level conjuration*
 
@@ -9473,7 +9514,7 @@ Each creature that is completely within the cloud at the start of its turn must 
 
 A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds. A strong wind (at least 20 miles per hour) disperses it after 1 round.
 
-#### **Stone Shape**
+### **Stone Shape**
 
 *4th-level transmutation*
 
@@ -9483,7 +9524,7 @@ worked into roughly the desired shape of the stone object) **Duration:** Instant
 
 You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. So, for example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible.
 
-#### **Stoneskin**
+### **Stoneskin**
 
 *4th-level abjuration*
 
@@ -9491,7 +9532,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
-#### **Storm of Vengeance**
+### **Storm of Vengeance**
 
 *9th-level conjuration*
 
@@ -9509,7 +9550,7 @@ Each round you maintain concentration on this spell, the storm produces addition
 
 *Round 5–10.* Gusts and freezing rain assail the area under the cloud. The area becomes difficult terrain and is heavily obscured. Each creature there takes 1d6 cold damage. Ranged weapon attacks in the area are impossible. The wind and rain count as a severe distraction for the purposes of maintaining concentration on spells. Finally, gusts of strong wind (ranging from 20 to 50 miles per hour) automatically disperse fog, mists, and similar phenomena in the area, whether mundane or magical.
 
-#### **Suggestion**
+### **Suggestion**
 
 *2nd-level enchantment*
 
@@ -9525,7 +9566,7 @@ You can also specify conditions that will trigger a special activity during the 
 
 If you or any of your companions damage the target, the spell ends.
 
-#### **Sunbeam**
+### **Sunbeam**
 
 *6th-level evocation*
 
@@ -9537,7 +9578,7 @@ You can create a new line of radiance as your action on any turn until the spell
 
 For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight.
 
-#### **Sunburst**
+### **Sunburst**
 
 *8th-level evocation*
 
@@ -9549,7 +9590,7 @@ A creature blinded by this spell makes another Constitution saving throw at the 
 
 This spell dispels any darkness in its area that was created by a spell.
 
-#### **Symbol**
+### **Symbol**
 
 *7th-level abjuration*
 
@@ -9585,7 +9626,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 *Stunning.* Each target must make a Wisdom saving throw and becomes stunned for 1 minute on a failed save.
 
-#### **Telekinesis**
+### **Telekinesis**
 
 *5th-level transmutation*
 
@@ -9603,7 +9644,7 @@ If the object is worn or carried by a creature, you must make an ability check w
 
 You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
 
-#### **Telepathic Bond**
+### **Telepathic Bond**
 
 *5th-level divination (ritual)*
 
@@ -9613,7 +9654,7 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
-#### **Teleport**
+### **Teleport**
 
 *7th-level conjuration*
 
@@ -9652,7 +9693,7 @@ north, 2 as northeast, 3 as east, and so on around the points of the compass. If
 
 *Mishap.* The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the GM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 
-## **Teleportation Circle**
+### **Teleportation Circle**
 
 *5th-level conjuration*
 
@@ -9660,7 +9701,7 @@ north, 2 as northeast, 3 as east, and so on around the points of the compass. If
 
 with precious gems with 50 gp, which the spell consumes)
 
-#### **Duration:** 1 round
+**Duration:** 1 round
 
 As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
 
@@ -9670,7 +9711,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 one year. You need not use the circle to teleport when you cast the spell in this way.
 
-#### **Thaumaturgy**
+### **Thaumaturgy**
 
 *Transmutation cantrip*
 
@@ -9687,7 +9728,7 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
-## **Thunderwave**
+### **Thunderwave**
 
 *1st-level evocation*
 
@@ -9699,7 +9740,7 @@ In addition, unsecured objects that are completely within the area of effect are
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
-## **Time Stop**
+### **Time Stop**
 
 *9th-level transmutation*
 
@@ -9709,7 +9750,7 @@ You briefly stop the flow of time for everyone but yourself. No time passes for 
 
 This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.
 
-## **Tiny Hut**
+### **Tiny Hut**
 
 *3rd-level evocation (ritual)*
 
@@ -9721,7 +9762,7 @@ Nine creatures of Medium size or smaller can fit inside the dome with you. The s
 
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
 
-#### **Tongues**
+### **Tongues**
 
 *3rd-level divination*
 
@@ -9731,7 +9772,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 when the target speaks, any creature that knows at least one language and can hear the target understands what it says.
 
-#### **Transport via Plants**
+### **Transport via Plants**
 
 *6th-level conjuration*
 
@@ -9739,7 +9780,7 @@ when the target speaks, any creature that knows at least one language and can he
 
 This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
 
-#### **Tree Stride**
+### **Tree Stride**
 
 *5th-level conjuration*
 
@@ -9749,7 +9790,7 @@ You gain the ability to enter a tree and move from inside it to inside another t
 
 You can use this transportation ability once per round for the duration. You must end each turn outside a tree.
 
-#### **True Polymorph**
+### **True Polymorph**
 
 *9th-level transmutation*
 
@@ -9777,7 +9818,7 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 
 *Creature into Object.* If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form. The creature's statistics become those of the object, and the creature has no memory of time spent in this form, after the spell ends and it returns to its normal form.
 
-## **True Resurrection**
+### **True Resurrection**
 
 *9th-level necromancy*
 
@@ -9791,7 +9832,7 @@ This spell closes all wounds, neutralizes any poison, cures all diseases, and li
 
 The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
-#### **True Seeing**
+### **True Seeing**
 
 *6th-level divination*
 
@@ -9803,7 +9844,7 @@ The spell can even provide a new body if the original no longer exists, in which
 
 This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has truesight, notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet.
 
-#### **True Strike**
+### **True Strike**
 
 *Divination cantrip*
 
@@ -9811,7 +9852,7 @@ This spell gives the willing creature you touch the ability to see things as the
 
 You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended.
 
-#### **Unseen Servant**
+### **Unseen Servant**
 
 *1st-level conjuration (ritual)*
 
@@ -9823,7 +9864,7 @@ Once on each of your turns as a bonus action, you can mentally command the serva
 
 If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 
-#### **Vampiric Touch**
+### **Vampiric Touch**
 
 *3rd-level necromancy*
 
@@ -9833,19 +9874,19 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-#### **Vicious Mockery**
+### **Vicious Mockery**
 
 *Enchantment cantrip*
 
 **Casting Time:** 1 action **Range:** 60 feet **Components:** V
 
-#### **Duration:** Instantaneous
+**Duration:** Instantaneous
 
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
 This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
-#### **Wall of Fire**
+### **Wall of Fire**
 
 *4th-level evocation*
 
@@ -9859,7 +9900,7 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 fire d
 
 *At Higher Levels.* When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
-#### **Wall of Force**
+### **Wall of Force**
 
 *5th-level evocation*
 
@@ -9871,7 +9912,7 @@ to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot pa
 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by *dispel magic.* A *disintegrate* spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
 
-#### **Wall of Ice**
+### **Wall of Ice**
 
 *6th-level evocation*
 
@@ -9885,13 +9926,13 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 *At Higher Levels.* When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the sheet of frigid air increases by 1d6, for each slot level above 6th.
 
-#### **Wall of Stone**
+### **Wall of Stone**
 
 *5th-level evocation*
 
 **Casting Time:** 1 action
 
-#### **Range:** 120 feet **Components:** V, S, M (a small block of granite) **Duration:** Concentration, up to 10 minutes
+### **Range:** 120 feet **Components:** V, S, M (a small block of granite) **Duration:** Concentration, up to 10 minutes
 
 A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-footby-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
 
@@ -9905,7 +9946,7 @@ The wall is an object made of stone that can be damaged and thus breached. Each 
 
 If you maintain your concentration on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 
-#### **Wall of Thorns**
+### **Wall of Thorns**
 
 *6th-level conjuration*
 
@@ -9919,7 +9960,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 *At Higher Levels.* When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
 
-#### **Warding Bond**
+### **Warding Bond**
 
 *2nd-level abjuration*
 
@@ -9933,7 +9974,7 @@ This spell wards a willing creature you touch and creates a mystic connection be
 
 The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
 
-#### **Water Breathing**
+### **Water Breathing**
 
 *3rd-level transmutation (ritual)*
 
@@ -9941,19 +9982,19 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
 
-#### **Water Walk**
+### **Water Walk**
 
 *3rd-level transmutation (ritual)*
 
 **Casting Time:** 1 action
 
-#### **Range:** 30 feet **Components:** V, S, M (a piece of cork) **Duration:** 1 hour
+### **Range:** 30 feet **Components:** V, S, M (a piece of cork) **Duration:** 1 hour
 
 This spell grants the ability to move across any liquid surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures you can see within range gain this ability for the duration.
 
 If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.
 
-#### **Web**
+### **Web**
 
 *2nd-level conjuration*
 
@@ -9969,7 +10010,7 @@ A creature restrained by the webs can use its action to make a Strength check ag
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 
-#### **Weird**
+### **Weird**
 
 *9th-level illusion*
 
@@ -9979,9 +10020,9 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 
 only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature's turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends for that creature.
 
-#### **Wind Walk**
+### **Wind Walk**
 
-#### *6th-level transmutation*
+### *6th-level transmutation*
 
 **Casting Time:** 1 minute **Range:** 30 feet **Components:** V, S, M (fire and holy water) **Duration:** 8 hours
 
@@ -9989,7 +10030,7 @@ You and up to ten willing creatures you can see within range assume a gaseous fo
 
 If a creature is in cloud form and flying when the effect ends, the creature descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, the creature falls the remaining distance.
 
-#### **Wind Wall**
+### **Wind Wall**
 
 *3rd-level evocation*
 
@@ -10001,7 +10042,7 @@ When the wall appears, each creature within its area must make a Strength saving
 
 The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can't pass through it.
 
-#### **Wish**
+### **Wish**
 
 *9th-level conjuration*
 
@@ -10023,7 +10064,7 @@ You might be able to achieve something beyond the scope of the above examples. S
 
 The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take 1d10 necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast *wish* ever again if you suffer this stress.
 
-#### **Word of Recall**
+### **Word of Recall**
 
 *6th-level conjuration*
 
@@ -10033,7 +10074,7 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 
 You must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isn't dedicated to your deity, the spell has no effect.
 
-#### **Zone of Truth**
+### **Zone of Truth**
 
 *2nd-level enchantment*
 
@@ -10043,7 +10084,7 @@ You create a magical zone that guards against deception in a 15-foot-radius sphe
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
 
-## **Traps**
+# **Traps**
 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
 
@@ -10075,7 +10116,7 @@ Foiling traps can be a little more complicated. Consider a trapped treasure ches
 
 Traps are often designed with mechanisms that allow them to be disarmed or bypassed. Intelligent monsters that place traps in or around their lairs need ways to get past those traps without harming themselves. Such traps might have hidden levers that disable their triggers, or a secret door might conceal a passage that goes around the trap.
 
-#### **Trap Effects**
+## **Trap Effects**
 
 The effects of traps can range from inconvenient to deadly, making use of elements such as arrows, spikes, blades, poison, toxic gas, blasts of fire, and deep pits. The deadliest traps combine multiple elements to kill, injure, contain, or drive off any creature unfortunate enough to trigger them. A trap's description specifies what happens when it is triggered.
 
@@ -10083,7 +10124,7 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A **deadly** trap is likely to kill characters of the indicated levels.
 
-#### **Trap Save DCs and Attack Bonuses**
+### **Trap Save DCs and Attack Bonuses**
 
 | Trap	Danger | Save	DC | Attack	Bonus |
 |-------------|---------|--------------|
@@ -10091,7 +10132,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 | Dangerous   | 12–15   | +6	to	+8     |
 | Deadly      | 16–20   | +9	to	+12    |
 
-#### **Damage Severity by Level**
+### **Damage Severity by Level**
 
 | Character	Level | Setback | Dangerous | Deadly |
 |-----------------|---------|-----------|--------|
@@ -10100,7 +10141,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 | 11th–16th       | 4d10    | 10d10     | 18d10  |
 | 17th–20th       | 10d10   | 18d10     | 24d10  |
 
-#### **Complex Traps**
+## **Complex Traps**
 
 Complex traps work like standard traps, except once activated they execute a series of actions each round. A complex trap turns the process of dealing with a trap into something more like a combat encounter.
 
@@ -10112,7 +10153,7 @@ For example, a trap that causes a room to slowly flood works best as a complex t
 
 The magical and mechanical traps presented here vary in deadliness and are presented in alphabetical order.
 
-#### **Collapsing Roof**
+### **Collapsing Roof**
 
 *Mechanical trap*
 
@@ -10126,9 +10167,9 @@ The ceiling above the trip wire is in bad repair, and anyone who can see it can 
 
 When the trap is triggered, the unstable ceiling collapses. Any creature in the area beneath the unstable section must succeed on a DC 15 Dexterity saving throw, taking 22 (4d10) bludgeoning damage on a failed save, or half as much damage on a successful one. Once the trap is triggered, the floor of the area is filled with rubble and becomes difficult terrain.
 
-#### **Falling Net**
+### **Falling Net**
 
-#### *Mechanical trap*
+*Mechanical trap*
 
 This trap uses a trip wire to release a net suspended from the ceiling.
 
@@ -10138,9 +10179,9 @@ When the trap is triggered, the net is released, covering a 10-foot-square area.
 
 Strength check, freeing itself or another creature within its reach on a success. The net has AC 10 and 20 hit points. Dealing 5 slashing damage to the net (AC 10) destroys a 5-foot-square section of it, freeing any creature trapped in that section.
 
-#### **Fire-Breathing Statue**
+### **Fire-Breathing Statue**
 
-#### *Magic trap*
+*Magic trap*
 
 This trap is activated when an intruder steps on a hidden pressure plate, releasing a magical gout of flame from a nearby statue. The statue can be of anything, including a dragon or a wizard casting a spell.
 
@@ -10150,9 +10191,9 @@ The trap activates when more than 20 pounds of weight is placed on the pressure 
 
 Wedging an iron spike or other object under the pressure plate prevents the trap from activating. A successful *dispel magic* (DC 13) cast on the statue destroys the trap.
 
-#### **Pits**
+### **Pits**
 
-#### *Mechanical trap*
+*Mechanical trap*
 
 Four basic pit traps are presented here.
 
@@ -10174,9 +10215,9 @@ A successful DC 20 Strength check is necessary to pry the cover open. The cover 
 
 *Spiked Pit.* This pit trap is a simple, hidden, or locking pit trap with sharpened wooden or iron spikes at the bottom. A creature falling into the pit takes 11 (2d10) piercing damage from the spikes, in addition to any falling damage. Even nastier versions have poison smeared on the spikes. In that case, anyone taking piercing damage from the spikes must also make a DC 13 Constitution saving throw, taking an 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
-#### **Poison Darts**
+### **Poison Darts**
 
-#### *Mechanical trap*
+*Mechanical trap*
 
 When a creature steps on a hidden pressure plate, poison-tipped darts shoot from spring-loaded or pressurized tubes cleverly embedded in the surrounding walls. An area might include multiple pressure plates, each one rigged to its own set of darts.
 
@@ -10186,9 +10227,9 @@ The trap activates when more than 20 pounds of weight is placed on the pressure 
 
 bonus against a random target within 10 feet of the pressure plate (vision is irrelevant to this attack roll). (If there are no targets in the area, the darts don't hit anything.) A target that is hit takes 2 (1d4) piercing damage and must succeed on a DC 15 Constitution saving throw, taking 11 (2d10) poison damage on a failed save, or half as much damage on a successful one.
 
-#### **Poison Needle**
+### **Poison Needle**
 
-#### *Mechanical trap*
+*Mechanical trap*
 
 A poisoned needle is hidden within a treasure chest's lock, or in something else that a creature might open. Opening the chest without the proper key causes the needle to spring out, delivering a dose of poison.
 
@@ -10198,7 +10239,7 @@ A successful DC 20 Intelligence (Investigation) check allows a character to dedu
 
 #### **Rolling Sphere**
 
-#### *Mechanical trap*
+*Mechanical trap*
 
 When 20 or more pounds of pressure are placed on this trap's pressure plate, a hidden trapdoor in the ceiling opens, releasing a 10-foot-diameter rolling sphere of solid stone.
 
@@ -10212,9 +10253,9 @@ The sphere stops when it hits a wall or similar barrier. It can't go around corn
 
 As an action, a creature within 5 feet of the sphere can attempt to slow it down with a DC 20 Strength check. On a successful check, the sphere's speed is reduced by 15 feet. If the sphere's speed drops to 0, it stops moving and is no longer a threat.
 
-#### **Sphere of Annihilation**
+### **Sphere of Annihilation**
 
-#### *Magic trap*
+*Magic trap*
 
 Magical, impenetrable darkness fills the gaping mouth of a stone face carved into a wall. The mouth is 2 feet in diameter and roughly circular. No sound issues from it, no light can illuminate the inside of it, and any matter that enters it is instantly obliterated.
 
@@ -10266,7 +10307,7 @@ A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 
 
 Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an herbalism kit can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.
 
-## **Madness**
+# **Madness**
 
 In a typical campaign, characters aren't driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
 
@@ -10356,19 +10397,19 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 A *calm emotions* spell can suppress the effects of madness, while a *lesser restoration* spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, *remove curse* or *dispel evil* might also prove effective. A *greater restoration* spell or more powerful magic is required to rid a character of indefinite madness.
 
-## **Objects**
+# **Objects**
 
 When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
 
 For the purpose of these rules, an object is a discrete, inanimate item like a window, door, sword, book, table, chair, or stone, not a building or a vehicle that is composed of many other objects.
 
-#### **Statistics for Objects**
+## **Statistics for Objects**
 
 When time is a factor, you can assign an Armor Class and hit points to a destructible object. You can also give it immunities, resistances, and vulnerabilities to specific types of damage.
 
 *Armor Class.* An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-#### **Object Armor Class**
+## **Object Armor Class**
 
 | Substance           | AC |
 |---------------------|----|
@@ -10382,7 +10423,7 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 *Hit Points.* An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-#### **Object Hit Points**
+## **Object Hit Points**
 
 | Size                                  | Fragile  | Resilient |
 |---------------------------------------|----------|-----------|
@@ -10397,7 +10438,7 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 *Damage Threshold.* Big objects such as castle walls often have extra resilience represented by a damage threshold. An object with a damage threshold has immunity to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes damage as normal. Any damage that fails to meet or exceed the object's damage threshold is considered superficial and doesn't reduce the object's hit points.
 
-## **Poisons**
+# **Poisons**
 
 Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures.
 
@@ -10411,7 +10452,7 @@ Poisons come in the following four types.
 
 *Injury.* Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
-#### **Poisons**
+## **Poisons**
 
 | Item               | Type     | Price	per	Dose |
 |--------------------|----------|----------------|
@@ -10524,51 +10565,51 @@ charges, the creature attuned to it learns how many charges it regained.
 
 Magic items are presented in alphabetical order. A magic item's description gives the item's name, its category, its rarity, and its magical properties.
 
-## **Adamantine Armor**
+### **Adamantine Armor**
 
 *Armor (medium or heavy, but not hide), uncommon*
 
 This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.
 
-#### **Ammunition, +1, +2, or +3**
+### **Ammunition, +1, +2, or +3**
 
 *Weapon (any ammunition), uncommon (+1), rare (+2), or very rare (+3)*
 
 You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.
 
-## **Amulet of Health**
+### **Amulet of Health**
 
 *Wondrous item, rare (requires attunement)*
 
 Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution is already 19 or higher.
 
-## **Amulet of Proof against Detection and Location**
+### **Amulet of Proof against Detection and Location**
 
 *Wondrous item, uncommon (requires attunement)*
 
 While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.
 
-#### **Amulet of the Planes**
+### **Amulet of the Planes**
 
 *Wondrous item, very rare (requires attunement)*
 
 While wearing this amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, you cast the *plane shift* spell. On a failure, you and each creature and object within 15 feet of you travel to a random destination. Roll a d100. On a 1–60, you travel to a random location on the plane you named. On a 61–100, you travel to a randomly determined plane of existence.
 
-#### **Animated Shield**
+### **Animated Shield**
 
-#### *Armor (shield), very rare (requires attunement)*
+*Armor (shield), very rare (requires attunement)*
 
 While holding this shield, you can speak its command word as a bonus action to cause it to animate. The shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The shield remains animated for 1 minute, until you use a bonus action to end this effect, or until you are incapacitated or die, at which point the shield falls to the ground or into your hand if you have one free.
 
-#### **Apparatus of the Crab**
+### **Apparatus of the Crab**
 
-#### *Wondrous item, legendary*
+*Wondrous item, legendary*
 
 This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
 
 The apparatus of the Crab is a Large object with the following statistics:
 
-#### **Armor Class:** 20
+**Armor Class:** 20
 
 **Hit Points:** 200
 
@@ -10600,19 +10641,19 @@ A creature in the compartment can use an action to move as many as two of the ap
 | 9  | The	apparatus	sinks	as<br>much	as	20	feet	in<br>liquid.                                                                                         | The	apparatus	rises	up<br>to	20	feet	in	liquid.                                                                                                            |
 | 10 | The	rear	hatch	unseals<br>and	opens.                                                                                                            | The	rear	hatch	closes<br>and	seals.                                                                                                                        |
 
-#### **Armor, +1, +2, or +3**
+### **Armor, +1, +2, or +3**
 
 *Armor (light, medium, or heavy), rare (+1), very rare (+2), or legendary (+3)*
 
 You have a bonus to AC while wearing this armor. The bonus is determined by its rarity.
 
-#### **Armor of Invulnerability**
+### **Armor of Invulnerability**
 
 *Armor (plate), legendary (requires attunement)*
 
 You have resistance to nonmagical damage while you wear this armor. Additionally, you can use an action to make yourself immune to nonmagical damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it can't be used again until the next dawn.
 
-#### **Armor of Resistance**
+### **Armor of Resistance**
 
 *Armor (light, medium, or heavy), rare (requires attunement)*
 
@@ -10626,23 +10667,23 @@ You have resistance to one type of damage while you wear this armor. The GM choo
 | 4   | Force       | 9   | Radiant     |
 | 5   | Lightning   | 10  | Thunder     |
 
-## **Armor of Vulnerability**
+### **Armor of Vulnerability**
 
-#### *Armor (plate), rare (requires attunement)*
+*Armor (plate), rare (requires attunement)*
 
 While wearing this armor, you have resistance to one of the following damage types: bludgeoning, piercing, or slashing. The GM chooses the type or determines it randomly.
 
 *Curse.* This armor is cursed, a fact that is revealed only when an *identify* spell is cast on the armor or you attune to it. Attuning to the armor curses you until you are targeted by the *remove curse* spell or similar magic; removing the armor fails to end the curse. While cursed, you have vulnerability to two of the three damage types associated with the armor (not the one to which it grants resistance).
 
-#### **Arrow-Catching Shield**
+### **Arrow-Catching Shield**
 
-#### *Armor (shield), rare (requires attunement)*
+*Armor (shield), rare (requires attunement)*
 
 You gain a +2 bonus to AC against ranged attacks while you wield this shield. This bonus is in addition to the shield's normal bonus to AC. In addition, whenever an attacker makes a ranged attack against a target within 5 feet of you, you can use your reaction to become the target of the attack instead.
 
-#### **Arrow of Slaying**
+### **Arrow of Slaying**
 
-#### *Weapon (arrow), very rare*
+*Weapon (arrow), very rare*
 
 An *arrow of slaying* is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both *arrows of dragon slaying* and *arrows of blue dragon slaying*. If a creature belonging to the type, race, or group associated with an *arrow of slaying* takes damage from the arrow, the creature must make a DC 17 Constitution saving throw, taking an extra 6d10 piercing damage on a failed save, or half as much extra damage on a successful one.
 
@@ -10650,7 +10691,7 @@ Once an *arrow of slaying* deals its extra damage to a creature, it becomes a no
 
 Other types of magic ammunition of this kind exist, such as *bolts of slaying* meant for a crossbow, though arrows are most common.
 
-#### **Bag of Beans**
+### **Bag of Beans**
 
 *Wondrous item, rare*
 
@@ -10680,9 +10721,9 @@ that eats an egg must make a DC 20 Constitution saving throw. On a successful sa
 - 91–99 A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord's lair, and its sarcophagus contains treasure of the GM's choice.
 - 00 A giant beanstalk sprouts, growing to a height of the GM's choice. The top leads where the GM chooses, such as to a great view, a cloud giant's castle, or a different plane of existence.
 
-#### **Bag of Devouring**
+### **Bag of Devouring**
 
-#### *Wondrous item, very rare*
+*Wondrous item, very rare*
 
 This bag superficially resembles a *bag of holding* but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
 
@@ -10692,9 +10733,9 @@ Inanimate objects can be stored in the bag, which can hold a cubic foot of such 
 
 If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
 
-#### **Bag of Holding**
+### **Bag of Holding**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 15 pounds, regardless of 
 
@@ -10704,9 +10745,9 @@ If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and it
 
 Placing a *bag of holding* inside an extradimensional space created by a *handy haversack*, *portable hole*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-#### **Bag of Tricks**
+### **Bag of Tricks**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.
 
@@ -10733,31 +10774,33 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 - 8 Giant elk
 #### **Rust Bag of Tricks**
 
-#### **d8 Creature**
+**d8 Creature**
 
 - 1 Rat
-- 2 Owl 3 Mastiff
+- 2 Owl
+-3 Mastiff
 - 4 Goat
 - 5 Giant goat
 - 6 Giant boar
 - 7 Lion
 - 8 Brown bear
 
-## **Tan Bag of Tricks**
+#### **Tan Bag of Tricks**
 
-#### **d8 Creature**
+**d8 Creature**
 
 - 1 Jackal
 - 2 Ape
-- 3 Baboon 4 Axe beak
+- 3 Baboon
+- 4 Axe beak
 - 5 Black bear
 - 6 Giant weasel
 - 7 Giant hyena
 - 8 Tiger
 
-## **Bead of Force**
+### **Bead of Force**
 
-#### *Wondrous item, rare*
+*Wondrous item, rare*
 
 This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 *beads of force* are found together.
 
@@ -10782,9 +10825,9 @@ If you aren't a dwarf, you gain the following additional benefits while wearing 
 - You have darkvision out to a range of 60 feet.
 - You can speak, read, and write Dwarvish.
 
-## **Belt of Giant Strength**
+### **Belt of Giant Strength**
 
-#### *Wondrous item, rarity varies (requires attunement)*
+*Wondrous item, rarity varies (requires attunement)*
 
 While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.
 
@@ -10798,7 +10841,7 @@ Six varieties of this belt exist, corresponding with and having rarity according
 | Cloud	giant       | 27       | Legendary |
 | Storm	giant       | 29       | Legendary |
 
-## **Berserker Axe**
+### **Berserker Axe**
 
 *Weapon (any axe), rare (requires attunement)*
 
@@ -10810,35 +10853,35 @@ than this one, unless no foe is within 60 feet of you that you can see or hear.
 
 Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.
 
-#### **Boots of Elvenkind**
+### **Boots of Elvenkind**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently.
 
-#### **Boots of Levitation**
+### **Boots of Levitation**
 
-#### *Wondrous item, rare (requires attunement)*
+*Wondrous item, rare (requires attunement)*
 
 While you wear these boots, you can use an action to cast the *levitate* spell on yourself at will.
 
-#### **Boots of Speed**
+### **Boots of Speed**
 
-#### *Wondrous item, rare (requires attunement)*
+*Wondrous item, rare (requires attunement)*
 
 While you wear these boots, you can use a bonus action and click the boots' heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.
 
 When the boots' property has been used for a total of 10 minutes, the magic ceases to function until you finish a long rest.
 
-#### **Boots of Striding and Springing**
+### **Boots of Striding and Springing**
 
-#### *Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon (requires attunement)*
 
 While you wear these boots, your walking speed becomes 30 feet, unless your walking speed is higher, and your speed isn't reduced if you are encumbered or wearing heavy armor. In addition, you can jump three times the normal distance, though you can't jump farther than your remaining movement would allow.
 
-#### **Boots of the Winterlands**
+### **Boots of the Winterlands**
 
-#### *Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon (requires attunement)*
 
 These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
 
@@ -10846,27 +10889,27 @@ These furred boots are snug and feel quite warm. While you wear them, you gain t
 - You ignore difficult terrain created by ice or snow.
 - You can tolerate temperatures as low as −50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as −100 degrees Fahrenheit.
 
-#### **Bowl of Commanding Water Elementals**
+### **Bowl of Commanding Water Elementals**
 
-#### *Wondrous item, rare*
+*Wondrous item, rare*
 
 While this bowl is filled with water, you can use an action to speak the bowl's command word and summon a water elemental, as if you had cast the *conjure elemental* spell. The bowl can't be used this way again until the next dawn.
 
 The bowl is about 1 foot in diameter and half as deep. It weighs 3 pounds and holds about 3 gallons.
 
-#### **Bracers of Archery**
+### **Bracers of Archery**
 
 *Wondrous item, uncommon (requires attunement)*
 
 While wearing these bracers, you have proficiency with the longbow and shortbow, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons.
 
-#### **Bracers of Defense**
+### **Bracers of Defense**
 
 *Wondrous item, rare (requires attunement)*
 
 While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.
 
-## **Brazier of Commanding Fire Elementals**
+### **Brazier of Commanding Fire Elementals**
 
 *Wondrous item, rare*
 
@@ -10874,15 +10917,15 @@ While a fire burns in this brass brazier, you can use an action to speak the bra
 
 The brazier weighs 5 pounds.
 
-#### **Brooch of Shielding**
+### **Brooch of Shielding**
 
 *Wondrous item, uncommon (requires attunement)*
 
 While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the *magic missile* spell.
 
-#### **Broom of Flying**
+### **Broom of Flying**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has a flying speed of 50 feet. It can carry up to 400 pounds, but its flying speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land.
 
@@ -10890,7 +10933,7 @@ You can send the broom to travel alone to a destination within 1 mile of you if 
 
 ### **Candle of Invocation**
 
-#### *Wondrous item, very rare (requires attunement)*
+*Wondrous item, very rare (requires attunement)*
 
 This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the *detect evil and good* spell. The GM chooses the god and associated alignment or determines the alignment randomly.
 
@@ -10912,15 +10955,15 @@ While lit, the candle sheds dim light in a 30-foot radius. Any creature within t
 
 Alternatively, when you light the candle for the first time, you can cast the *gate* spell with it. Doing so destroys the candle.
 
-#### **Cape of the Mountebank**
+### **Cape of the Mountebank**
 
-#### *Wondrous item, rare*
+*Wondrous item, rare*
 
 This cape smells faintly of brimstone. While wearing it, you can use it to cast the *dimension door* spell as an action. This property of the cape can't be used again until the next dawn.
 
 When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.
 
-#### **Carpet of Flying**
+### **Carpet of Flying**
 
 *Wondrous item, very rare*
 
@@ -10937,29 +10980,29 @@ Four sizes of *carpet of flying* exist. The GM chooses the size of a given carpe
 
 A carpet can carry up to twice the weight shown on the table, but it flies at half speed if it carries more than its normal capacity.
 
-## **Censer of Controlling Air Elementals**
+### **Censer of Controlling Air Elementals**
 
-#### *Wondrous item, rare*
+*Wondrous item, rare*
 
 While incense is burning in this censer, you can use an action to speak the censer's command word and summon an air elemental, as if you had cast the *conjure elemental* spell. The censer can't be used this way again until the next dawn.
 
 This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 1 pound.
 
-#### **Chime of Opening**
+### **Chime of Opening**
 
-#### *Wondrous item, rare*
+*Wondrous item, rare*
 
 This hollow metal tube measures about 1 foot long and weighs 1 pound. You can strike it as an action, pointing it at an object within 120 feet of you that can be opened, such as a door, lid, or lock. The chime  issues a clear tone, and one lock or latch on the object opens unless the sound can't reach the object. If no locks or latches remain, the object itself opens.
 
 The chime can be used ten times. After the tenth time, it cracks and becomes useless.
 
-## **Circlet of Blasting**
+### **Circlet of Blasting**
 
 *Wondrous item, uncommon*
 
 While wearing this circlet, you can use an action to cast the *scorching ray* spell with it. When you make the spell's attacks, you do so with an attack bonus of +5. The circlet can't be used this way again until the next dawn.
 
-#### **Cloak of Arachnida**
+### **Cloak of Arachnida**
 
 *Wondrous item, very rare (requires attunement)*
 
@@ -10971,27 +11014,27 @@ This fine garment is made of black silk interwoven with faint silvery threads. W
 - You can't be caught in webs of any sort and can move through webs as if they were difficult terrain.
 - You can use an action to cast the *web* spell (save DC 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn.
 
-## **Cloak of Displacement**
+### **Cloak of Displacement**
 
-#### *Wondrous item, rare (requires attunement)*
+*Wondrous item, rare (requires attunement)*
 
 While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move.
 
-## **Cloak of Elvenkind**
+### **Cloak of Elvenkind**
 
-#### *Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon (requires attunement)*
 
 While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color 
 
 shifts to camouflage you. Pulling the hood up or down requires an action.
 
-## **Cloak of Protection**
+### **Cloak of Protection**
 
 *Wondrous item, uncommon (requires attunement)*
 
 You gain a +1 bonus to AC and saving throws while you wear this cloak.
 
-## **Cloak of the Bat**
+### **Cloak of the Bat**
 
 *Wondrous item, rare (requires attunement)*
 
@@ -11005,7 +11048,7 @@ While wearing the cloak in an area of dim light or darkness, you can use your ac
 
 While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action.
 
-## **Crystal Ball**
+### **Crystal Ball**
 
 *Wondrous item, very rare or legendary (requires attunement)*
 
@@ -11021,7 +11064,7 @@ one of those creatures. You don't need to concentrate on this *suggestion* to ma
 
 *Crystal Ball of True Seeing.* While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell's sensor.
 
-#### **Cube of Force**
+### **Cube of Force**
 
 *Wondrous item, rare (requires attunement)*
 
@@ -11052,7 +11095,7 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 | Prismatic	spray  | 1d20         |
 | Wall	of	fire     | 1d4          |
 
-#### **Cubic Gate**
+### **Cubic Gate**
 
 *Wondrous item, legendary*
 
@@ -11062,15 +11105,15 @@ You can use an action to press one side of the cube to cast the *gate* spell wit
 
 The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains 1d3 expended charges daily at dawn.
 
-#### **Dagger of Venom**
+### **Dagger of Venom**
 
-#### *Weapon (dagger), rare*
+*Weapon (dagger), rare*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
 You can use an action to cause thick, black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d10 poison damage and become poisoned for 1 minute. The dagger can't be used this way again until the next dawn.
 
-#### **Dancing Sword**
+### **Dancing Sword**
 
 *Weapon (any sword), very rare (requires attunement)*
 
@@ -11080,9 +11123,9 @@ While the sword hovers, you can use a bonus action to cause it to fly up to 30 f
 
 After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground  at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.
 
-#### **Decanter of Endless Water**
+### **Decanter of Endless Water**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.
 
@@ -11092,9 +11135,9 @@ You can use an action to remove the stopper and speak one of three command words
 - "Fountain" produces 5 gallons of water.
 - "Geyser" produces 30 gallons of water that gushes forth in a geyser 30 feet long and 1 foot wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 30 feet of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn't being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 feet away from you.
 
-#### **Deck of Illusions**
+### **Deck of Illusions**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 − 1 cards.
 
@@ -11142,7 +11185,7 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 | Eight	of	clubs    | Orc                              |
 | Two	of	clubs      | Kobold                           |
 
-#### **Deck of Many Things**
+### **Deck of Many Things**
 
 *Wondrous item, legendary*
 
@@ -11212,14 +11255,13 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 *Ruin.* All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
 
 *Skull.* You summon an avatar of death—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of 
-
 the GM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can't be restored to life.
 
 #### **Avatar of Death**
 
 *Medium undead, neutral evil*
 
-#### **Armor Class** 20
+**Armor Class** 20
 
 **Hit Points** half the hit point maximum of its summoner **Speed** 60 ft., fly 60 ft. (hover)
 
@@ -11239,7 +11281,7 @@ the GM's choice within 10 feet of you and attacks you, warning all others that y
 
 *Turning Immunity.* The avatar is immune to features that turn undead.
 
-#### **Actions**
+**Actions**
 
 *Reaping Scythe.* The avatar sweeps its spectral scythe through a creature within 5 feet of it, dealing 7 (1d8 + 3) slashing damage plus 4 (1d8) necrotic damage.
 
@@ -11255,7 +11297,7 @@ the GM's choice within 10 feet of you and attacks you, warning all others that y
 
 *The Void.* This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the GM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is incapacitated. A *wish* spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
 
-#### **Defender**
+### **Defender**
 
 *Weapon (any sword), legendary (requires attunement)*
 
@@ -11263,7 +11305,7 @@ You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 
 The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.
 
-#### **Demon Armor**
+### **Demon Armor**
 
 *Armor (plate), very rare (requires attunement)*
 
@@ -11271,17 +11313,17 @@ While wearing this armor, you gain a +1 bonus to AC, and you can understand and 
 
 *Curse.* Once you don this cursed armor, you can't doff it unless you are targeted by the *remove curse* spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities.
 
-#### **Dimensional Shackles**
+### **Dimensional Shackles**
 
-#### *Wondrous item, rare*
+*Wondrous item, rare*
 
 You can use an action to place these shackles on an incapacitated creature. The shackles adjust to fit a creature of Small to Large size. In addition to serving as mundane manacles, the shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing through an interdimensional portal.
 
 You and any creature you designate when you use the shackles can use an action to remove them. Once every 30 days, the bound creature can make a DC 30 Strength (Athletics) check. On a success, the creature breaks free and destroys the shackles.
 
-#### **Dragon Scale Mail**
+### **Dragon Scale Mail**
 
-#### *Armor (scale mail), very rare (requires attunement)*
+*Armor (scale mail), very rare (requires attunement)*
 
 Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them to humanoids. Other times, hunters carefully skin and preserve the hide of a dead dragon. In either case, dragon scale mail is highly valued.
 
@@ -11297,7 +11339,7 @@ Additionally, you can focus your senses as an action to magically discern the di
 | Bronze | Lightning  | Silver | Cold       |
 | Copper | Acid       | White  | Cold       |
 
-#### **Dragon Slayer**
+### **Dragon Slayer**
 
 *Weapon (any sword), rare*
 
@@ -11307,13 +11349,13 @@ When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of 
 
 refers to any creature with the dragon type, including dragon turtles and wyverns.
 
-#### **Dust of Disappearance**
+### **Dust of Disappearance**
 
 *Wondrous item, uncommon*
 
 Found in a small packet, this powder resembles very fine sand. There is enough of it for one use. When you use an action to throw the dust into the air, you and each creature and object within 10 feet of you become invisible for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. If a creature affected by the dust attacks or casts a spell, the invisibility ends for that creature.
 
-#### **Dust of Dryness**
+### **Dust of Dryness**
 
 *Wondrous item, uncommon*
 
@@ -11323,7 +11365,7 @@ Someone can use an action to smash the pellet against a hard surface, causing th
 
 An elemental composed mostly of water that is exposed to a pinch of the dust must make a DC 13 Constitution saving throw, taking 10d6 necrotic damage on a failed save, or half as much damage on a successful one.
 
-#### **Dust of Sneezing and Choking**
+### **Dust of Sneezing and Choking**
 
 *Wondrous item, uncommon*
 
@@ -11331,48 +11373,41 @@ Found in a small container, this powder resembles very fine sand. It appears to 
 
 When you use an action to throw a handful of the dust into the air, you and each creature that needs to breathe within 30 feet of you must succeed on a DC 15 Constitution saving throw or become unable to breathe, while sneezing uncontrollably. A creature affected in this way is incapacitated and suffocating. As long as it is conscious, a creature can repeat the saving throw at the end of each of its turns, ending the effect on it on a success. The *lesser restoration* spell can also end the effect on a creature.
 
-#### **Dwarven Plate**
+### **Dwarven Plate**
 
-#### *Armor (plate), very rare*
+*Armor (plate), very rare*
 
 While wearing this armor, you gain a +2 bonus to AC. In addition, if an effect moves you against your will along the ground, you can use your reaction to reduce the distance you are moved by up to 10 feet.
 
-#### **Dwarven Thrower**
+### **Dwarven Thrower**
 
-#### *Weapon (warhammer), very rare (requires attunement by a dwarf)*
+*Weapon (warhammer), very rare (requires attunement by a dwarf)*
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the thrown property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra 1d8 damage or, if the target is a giant, 2d8 damage. Immediately after the attack, the weapon flies back to your hand.
 
-## **Efficient Quiver**
+### **Efficient Quiver**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to sixty arrows, bolts, or similar objects. The midsize compartment holds up to eighteen javelins or similar objects. The longest compartment holds up to six long objects, such as bows, quarterstaffs, or spears.
 
 You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
 
-## **Efreeti Bottle**
+### **Efreeti Bottle**
 
-#### *Wondrous item, very rare*
+*Wondrous item, very rare*
 
 This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an efreeti appears in an unoccupied space within 30 feet of you.
 
 The first time the bottle is opened, the GM rolls to determine what happens.
 
-#### **d100 Effect** 01–10 The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.
+#### **d100 Effect** 
+- 01–10 The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.
+- 11–90 The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle	is	opened	a	fourth	time, the efreeti escapes and disappears, and the bottle loses its magic.
+ - 91–00 The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.
+### **Elemental Gem**
 
-- 11–90 The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the
-
-| bottle	is	opened	a	fourth	time,	the	efreeti      |
-|--------------------------------------------------|
-| escapes	and	disappears,	and	the	bottle	loses	its |
-| magic.                                           |
-|                                                  |
-
-- 91–00 The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.
-## **Elemental Gem**
-
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the *conjure elemental* spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell.
 
@@ -11383,43 +11418,43 @@ This gem contains a mote of elemental energy. When you use an action to break th
 | Red	corundum   | Fire	elemental     |
 | Emerald        | Water	elemental    |
 
-## **Elven Chain**
+### **Elven Chain**
 
-#### *Armor (chain shirt), rare*
+*Armor (chain shirt), rare*
 
 You gain a +1 bonus to AC while you wear this armor. You are considered proficient with this armor even if you lack proficiency with medium armor.
 
-## **Eversmoking Bottle**
+### **Eversmoking Bottle**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke pours out in a 60-foot radius from the bottle. The cloud's area is heavily obscured. Each minute the bottle remains open and within the cloud, the radius increases by 10 feet until it reaches its maximum radius of 120 feet.
 
 The cloud persists as long as the bottle is open. Closing the bottle requires you to speak its command word as an action. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (11 to 20 miles per hour) can also disperse the smoke after 1 minute, and a strong wind (21 or more miles per hour) can do so after 1 round.
 
-## **Eyes of Charming**
+### **Eyes of Charming**
 
-#### *Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon (requires attunement)*
 
 These crystal lenses fit over the eyes. They have 3 charges. While wearing them, you can expend 1 charge as an action to cast the *charm person* spell 
 
 (save DC 13) on a humanoid within 30 feet of you, provided that you and the target can see each other. The lenses regain all expended charges daily at dawn.
 
-#### **Eyes of Minute Seeing**
+### **Eyes of Minute Seeing**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within that range.
 
-#### **Eyes of the Eagle**
+### **Eyes of the Eagle**
 
-#### *Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon (requires attunement)*
 
 These crystal lenses fit over the eyes. While wearing them, you have advantage on Wisdom (Perception) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
-#### **Feather Token**
+### **Feather Token**
 
-#### *Wondrous item, rare*
+*Wondrous item, rare*
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different singleuse effect. The GM chooses the kind of token or determines it randomly.
 
@@ -11443,7 +11478,7 @@ This tiny object looks like a feather. Different types of feather tokens exist, 
 
 As a bonus action on your turn, you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of it. The whip disappears after 1 hour, when you use an action to dismiss it, or when you are incapacitated or die.
 
-## **Figurine of Wondrous Power**
+### **Figurine of Wondrous Power**
 
 *Wondrous item, rarity by figurine*
 
@@ -11459,11 +11494,11 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 *Ebony Fly (Rare).* This ebony statuette is carved in the likeness of a horsefly. It can become a giant fly for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
 
-#### **Giant Fly**
+### **Giant Fly**
 
 *Large beast, unaligned*
 
-#### **Armor Class** 11
+**Armor Class** 11
 
 **Hit Points** 19 (3d10 + 3)
 
@@ -11497,15 +11532,15 @@ If you have a good alignment, the figurine has a 10 percent chance each time you
 
 it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine allows you to cast the *animal messenger* spell on it at will.
 
-## **Flame Tongue**
+### **Flame Tongue**
 
-#### *Weapon (any sword), rare (requires attunement)*
+*Weapon (any sword), rare (requires attunement)*
 
 You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
 
-## **Folding Boat**
+### **Folding Boat**
 
-#### *Wondrous item, rare*
+*Wondrous item, rare*
 
 This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.
 
@@ -11517,9 +11552,9 @@ When the box becomes a vessel, its weight becomes that of a normal vessel its si
 
 The third command word causes the *folding boat* to fold back into a box, provided that no creatures are aboard. Any objects in the vessel that can't fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so.
 
-## **Frost Brand**
+### **Frost Brand**
 
-#### *Weapon (any sword), very rare (requires attunement)*
+*Weapon (any sword), very rare (requires attunement)*
 
 When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
 
@@ -11533,9 +11568,9 @@ When you draw this weapon, you can extinguish all nonmagical flames within 30 fe
 
 Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher.
 
-## **Gem of Brightness**
+### **Gem of Brightness**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 This prism has 50 charges. While you are holding it, you can use an action to speak one of three command words to cause one of the following effects:
 
@@ -11545,7 +11580,7 @@ This prism has 50 charges. While you are holding it, you can use an action to sp
 
 When all of the gem's charges are expended, the gem becomes a nonmagical jewel worth 50 gp.
 
-## **Gem of Seeing**
+### **Gem of Seeing**
 
 *Wondrous item, rare (requires attunement)*
 
@@ -11553,39 +11588,39 @@ This gem has 3 charges. As an action, you can speak the gem's command word and e
 
 The gem regains 1d3 expended charges daily at dawn.
 
-#### **Giant Slayer**
+### **Giant Slayer**
 
-#### *Weapon (any axe or sword), rare*
+*Weapon (any axe or sword), rare*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
 When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, "giant" refers to any creature with the giant type, including ettins and trolls.
 
-#### **Glamoured Studded Leather**
+### **Glamoured Studded Leather**
 
-#### *Armor (studded leather), rare*
+*Armor (studded leather), rare*
 
 While wearing this armor, you gain a +1 bonus to AC. You can also use a bonus action to speak the armor's command word and cause the armor to assume the appearance of a normal set of clothing or some other kind of armor. You decide what it looks like, including color, style, and accessories, but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or remove the armor.
 
-#### **Gloves of Missile Snaring**
+### **Gloves of Missile Snaring**
 
-#### *Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon (requires attunement)*
 
 These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you're wearing them, you can use your reaction to reduce the damage by 1d10 + your Dexterity modifier, provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand.
 
-#### **Gloves of Swimming and Climbing**
+### **Gloves of Swimming and Climbing**
 
 *Wondrous item, uncommon (requires attunement)*
 
 While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.
 
-#### **Goggles of Night**
+### **Goggles of Night**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.
 
-#### **Hammer of Thunderbolts**
+### **Hammer of Thunderbolts**
 
 *Weapon (maul), legendary*
 
@@ -11595,7 +11630,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
 The hammer also has 5 charges. While attuned to it, you can expend 1 charge and make a ranged weapon attack with the hammer, hurling it as if it had the thrown property with a normal range of 20 feet and a long range of 60 feet. If the attack hits, the hammer unleashes a thunderclap audible out to 300 feet. The target and every creature within 30 feet of it must succeed on a DC 17 Constitution saving throw or be stunned until the end of your next turn. The hammer regains 1d4 + 1 expended charges daily at dawn.
 
-#### **Handy Haversack**
+### **Handy Haversack**
 
 *Wondrous item, rare*
 
@@ -11607,19 +11642,19 @@ The haversack has a few limitations. If it is overloaded, or if a sharp object p
 
 Placing the haversack inside an extradimensional space created by a *bag of holding*, *portable hole*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-#### **Hat of Disguise**
+### **Hat of Disguise**
 
 *Wondrous item, uncommon (requires attunement)*
 
 While wearing this hat, you can use an action to cast the *disguise self* spell from it at will. The spell ends if the hat is removed.
 
-#### **Headband of Intellect**
+### **Headband of Intellect**
 
 *Wondrous item, uncommon (requires attunement)*
 
 Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher.
 
-#### **Helm of Brilliance**
+### **Helm of Brilliance**
 
 *Wondrous item, very rare (requires attunement)*
 
@@ -11636,13 +11671,13 @@ the target takes an extra 1d6 fire damage. The flames last until you use a bonus
 
 Roll a d20 if you are wearing the helm and take fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems. Each creature within 60 feet of the helm other than you must succeed on a DC 17 Dexterity saving throw or be struck by a beam, taking radiant damage equal to the number of gems in the helm. The helm and its gems are then destroyed.
 
-#### **Helm of Comprehending Languages**
+### **Helm of Comprehending Languages**
 
 *Wondrous item, uncommon*
 
 While wearing this helm, you can use an action to cast the *comprehend languages* spell from it at will.
 
-#### **Helm of Telepathy**
+### **Helm of Telepathy**
 
 *Wondrous item, uncommon (requires attunement)*
 
@@ -11650,13 +11685,13 @@ While wearing this helm, you can use an action to cast the *detect thoughts* spe
 
 While focusing on a creature with *detect thoughts*, you can use an action to cast the *suggestion* spell (save DC 13) from the helm on that creature. Once used, the *suggestion* property can't be used again until the next dawn.
 
-#### **Helm of Teleportation**
+### **Helm of Teleportation**
 
 *Wondrous item, rare (requires attunement)*
 
 This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the *teleport* spell from it. The helm regains 1d3 expended charges daily at dawn.
 
-#### **Holy Avenger**
+### **Holy Avenger**
 
 *Weapon (any sword), legendary (requires attunement by a paladin)*
 
@@ -11664,7 +11699,7 @@ You gain a +3 bonus to attack and damage rolls made with this magic weapon. When
 
 While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage  on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
 
-#### **Horn of Blasting**
+### **Horn of Blasting**
 
 *Wondrous item, rare*
 
@@ -11672,7 +11707,7 @@ You can use an action to speak the horn's command word and then blow the horn, w
 
 Each use of the horn's magic has a 20 percent chance of causing the horn to explode. The explosion deals 10d6 fire damage to the blower and destroys the horn.
 
-#### **Horn of Valhalla**
+### **Horn of Valhalla**
 
 *Wondrous item, rare (silver or brass), very rare (bronze), or legendary (iron)*
 
@@ -11695,21 +11730,21 @@ If you blow the horn without meeting its requirement, the summoned berserkers at
 
 These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above nonsolid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march.
 
-## **Horseshoes of Speed**
+### **Horseshoes of Speed**
 
-#### *Wondrous item, rare*
+*Wondrous item, rare*
 
 These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they increase the creature's walking speed by 30 feet.
 
-#### **Immovable Rod**
+### **Immovable Rod**
 
-#### *Rod, uncommon*
+*Rod, uncommon*
 
 This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn't move, even if it is defying gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 10 feet on a success.
 
-#### **Instant Fortress**
+### **Instant Fortress**
 
-#### *Wondrous item, rare*
+*Wondrous item, rare*
 
 You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.
 
@@ -11719,9 +11754,9 @@ Each creature in the area where the fortress appears must make a DC 15 Dexterity
 
 The tower is made of adamantine, and its magic prevents it from being tipped over. The roof, the door, and the walls each have 100 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a *wish* spell can repair the fortress (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of *wish* causes the roof, the door, or one wall to regain 50 hit points.
 
-#### **Ioun Stone**
+### **Ioun Stone**
 
-#### *Wondrous item, rarity varies (requires attunement)*
+*Wondrous item, rarity varies (requires attunement)*
 
 An *Ioun stone* is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun stone* exist, each type a distinct combination of shape and color.
 
@@ -11765,7 +11800,7 @@ While this stone orbits your head, you can cast any spell stored in it. The spel
 
 *Sustenance (Rare).* You don't need to eat or drink while this clear spindle orbits your head.
 
-#### **Iron Bands of Binding**
+### **Iron Bands of Binding**
 
 *Wondrous item, rare*
 
@@ -11777,9 +11812,9 @@ A creature, including the one restrained, can use an action to make a DC 20 Stre
 
 Once the bands are used, they can't be used again until the next dawn.
 
-#### **Iron Flask**
+### **Iron Flask**
 
-#### *Wondrous item, legendary*
+*Wondrous item, legendary*
 
 This iron bottle has a brass stopper. You can use an action to speak the flask's command word, targeting a creature that you can see within 60 feet of you. If the target is native to a plane of existence other than the one you're on, the target must succeed on a DC 17 Wisdom saving throw or be trapped in the flask. If the target has been trapped by the flask before, it has advantage on the saving throw. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn't need to breathe, eat, or drink and doesn't age.
 
@@ -11810,7 +11845,7 @@ An *identify* spell reveals that a creature is inside the flask, but the only wa
 | 97‒99 | Succubus/incubus  |
 | 100   | Xorn              |
 
-## **Javelin of Lightning**
+### **Javelin of Lightning**
 
 *Weapon (javelin), uncommon*
 
@@ -11818,15 +11853,15 @@ This javelin is a magic weapon. When you hurl it and speak its command word, it 
 
 The javelin's property can't be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon.
 
-#### **Lantern of Revealing**
+### **Lantern of Revealing**
 
 *Wondrous item, uncommon*
 
 While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. Invisible creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5 foot radius.
 
-#### **Luck Blade**
+### **Luck Blade**
 
-#### *Weapon (any sword), legendary (requires attunement)*
+*Weapon (any sword), legendary (requires attunement)*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
 
@@ -11834,25 +11869,25 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. Whil
 
 *Wish.* The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the *wish* spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.
 
-#### **Mace of Disruption**
+### **Mace of Disruption**
 
-#### *Weapon (mace), rare (requires attunement)*
+*Weapon (mace), rare (requires attunement)*
 
 When you hit a fiend or an undead with this magic weapon, that creature takes an extra 2d6 radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes frightened of you until the end of your next turn.
 
 While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
-#### **Mace of Smiting**
+### **Mace of Smiting**
 
-#### *Weapon (mace), rare*
+*Weapon (mace), rare*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +3 when you use the mace to attack a construct.
 
 When you roll a 20 on an attack roll made with this weapon, the target takes an extra 2d6 bludgeoning damage, or 4d6 bludgeoning damage if it's a construct. If a construct has 25 hit points or fewer after taking this damage, it is destroyed.
 
-#### **Mace of Terror**
+### **Mace of Terror**
 
-#### *Weapon (mace), rare (requires attunement)*
+*Weapon (mace), rare (requires attunement)*
 
 This magic weapon has 3 charges. While holding it, you can use an action and expend 1 charge to release a wave of terror. Each creature of your choice in a 30-foot radius extending from you must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far 
 
@@ -11860,25 +11895,25 @@ away from you as it can, and it can't willingly move to a space within 30 feet o
 
 The mace regains 1d3 expended charges daily at dawn.
 
-#### **Mantle of Spell Resistance**
+### **Mantle of Spell Resistance**
 
 *Wondrous item, rare (requires attunement)*
 
 You have advantage on saving throws against spells while you wear this cloak.
 
-#### **Manual of Bodily Health**
+### **Manual of Bodily Health**
 
 *Wondrous item, very rare*
 
 This book contains health and diet tips, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Constitution score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
 
-#### **Manual of Gainful Exercise**
+### **Manual of Gainful Exercise**
 
 *Wondrous item, very rare*
 
 This book describes fitness exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Strength score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
 
-#### **Manual of Golems**
+### **Manual of Golems**
 
 *Wondrous item, very rare*
 
@@ -11895,15 +11930,15 @@ To create a golem, you must spend the time shown on the table, working without i
 
 Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
 
-#### **Manual of Quickness of Action**
+### **Manual of Quickness of Action**
 
-#### *Wondrous item, very rare*
+*Wondrous item, very rare*
 
 This book contains coordination and balance exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Dexterity score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
 
-#### **Marvelous Pigments**
+### **Marvelous Pigments**
 
-#### *Wondrous item, very rare*
+*Wondrous item, very rare*
 
 Typically found in 1d4 pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
 
@@ -11915,13 +11950,13 @@ Nothing created by the pigments can have a value greater than 25 gp. If you pain
 
 If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm to anything.
 
-#### **Medallion of Thoughts**
+### **Medallion of Thoughts**
 
-#### *Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon (requires attunement)*
 
 The medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the *detect thoughts* spell (save DC 13) from it. The medallion regains 1d3 expended charges daily at dawn.
 
-#### **Mirror of Life Trapping**
+### **Mirror of Life Trapping**
 
 *Wondrous item, very rare*
 
@@ -11941,27 +11976,27 @@ In a similar way, you can use an action to speak a second command word and free 
 
 trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 
-#### **Mithral Armor**
+### **Mithral Armor**
 
-#### *Armor (medium or heavy, but not hide), uncommon*
+*Armor (medium or heavy, but not hide), uncommon*
 
 Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
 
-#### **Necklace of Adaptation**
+### **Necklace of Adaptation**
 
-#### *Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon (requires attunement)*
 
 While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as *cloudkill* and *stinking cloud* effects, inhaled poisons, and the breath weapons of some dragons).
 
-#### **Necklace of Fireballs**
+### **Necklace of Fireballs**
 
-#### *Wondrous item, rare*
+*Wondrous item, rare*
 
 This necklace has 1d6 + 3 beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-level *fireball* spell (save DC 15).
 
 You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the level of the *fireball* by 1 for each bead beyond the first.
 
-#### **Necklace of Prayer Beads**
+### **Necklace of Prayer Beads**
 
 *Wondrous item, rare (requires attunement by a cleric, druid, or paladin)*
 
@@ -11980,7 +12015,7 @@ is cast, that bead can't be used again until the next dawn.
 | 19    | Summons         | Planar ally                                      |
 | 20    | Wind<br>walking | Wind walk                                        |
 
-#### **Nine Lives Stealer**
+### **Nine Lives Stealer**
 
 *Weapon (any sword), very rare (requires attunement)*
 
@@ -11988,9 +12023,9 @@ You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
 The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.
 
-#### **Oathbow**
+### **Oathbow**
 
-#### *Weapon (longbow), very rare (requires attunement)*
+*Weapon (longbow), very rare (requires attunement)*
 
 When you nock an arrow on this bow, it whispers in Elvish, "Swift defeat to my enemies." When you use this weapon to make a ranged attack, you can, as a command phrase, say, "Swift death to you who have wronged me." The target of your attack becomes your sworn enemy until it dies or until dawn seven days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.
 
@@ -11998,51 +12033,51 @@ When you make a ranged attack roll with this weapon against your sworn enemy, yo
 
 While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons.
 
-#### **Oil of Etherealness**
+### **Oil of Etherealness**
 
-#### *Potion, rare*
+*Potion, rare*
 
 Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional  vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the *etherealness* spell for 1 hour.
 
-## **Oil of Sharpness**
+### **Oil of Sharpness**
 
-#### *Potion, very rare*
+*Potion, very rare*
 
 This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls.
 
 ### **Oil of Slipperiness**
 
-#### *Potion, uncommon*
+*Potion, uncommon*
 
 This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a *freedom of movement* spell for 8 hours.
 
 Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the *grease* spell in that area for 8 hours.
 
-## **Pearl of Power**
+### **Pearl of Power**
 
-#### *Wondrous item, uncommon (requires attunement by a spellcaster)*
+*Wondrous item, uncommon (requires attunement by a spellcaster)*
 
 While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use the pearl, it can't be used again until the next dawn.
 
-## **Periapt of Health**
+### **Periapt of Health**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects of the disease are suppressed you while you wear the pendant.
 
-## **Periapt of Proof against Poison**
+### **Periapt of Proof against Poison**
 
-#### *Wondrous item, rare*
+*Wondrous item, rare*
 
 This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no  effect on you. You are immune to the poisoned condition and have immunity to poison damage.
 
-## **Periapt of Wound Closure**
+### **Periapt of Wound Closure**
 
-#### *Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon (requires attunement)*
 
 While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.
 
-## **Philter of Love**
+### **Philter of Love**
 
 *Potion, uncommon*
 
@@ -12050,11 +12085,11 @@ The next time you see a creature within 10 minutes after drinking this philter, 
 
 ### **Pipes of Haunting**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 You must be proficient with wind instruments to use these pipes. They have 3 charges. You can use an action to play them and expend 1 charge to create an eerie, spellbinding tune. Each creature within 30 feet of you that hears you play must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. If you wish, all creatures in the area that aren't hostile toward you automatically succeed on the saving throw. A creature that fails the saving throw can repeat it at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on its saving throw is immune to the effect of these pipes for 24 hours. The pipes regain 1d3 expended charges daily at dawn.
 
-#### **Pipes of the Sewers**
+### **Pipes of the Sewers**
 
 *Wondrous item, uncommon (requires attunement)*
 
@@ -12066,13 +12101,13 @@ swarms move toward the music by the shortest available route but aren't under yo
 
 Whenever a swarm of rats that isn't under another creature's control comes within 30 feet of you while you are playing the pipes, you can make a Charisma check contested by the swarm's Wisdom check. If you lose the contest, the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours. If you win the contest, the swarm is swayed by the pipes' music and becomes friendly to you and your companions for as long as you continue to play the pipes each round as an action. A friendly swarm obeys your commands. If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions. If a friendly swarm starts its turn and can't hear the pipes' music, your control over that swarm ends, and the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours.
 
-#### **Plate Armor of Etherealness**
+### **Plate Armor of Etherealness**
 
-#### *Armor (plate), legendary (requires attunement)*
+*Armor (plate), legendary (requires attunement)*
 
 While you're wearing this armor, you can speak its command word as an action to gain the effect of the *etherealness* spell, which last for 10 minutes or until you remove the armor or use an action to speak the command word again. This property of the armor can't be used again until the next dawn.
 
-#### **Portable Hole**
+### **Portable Hole**
 
 *Wondrous item, rare*
 
@@ -12088,45 +12123,45 @@ creature forces its way out and appears within 5 feet of the *portable hole* or 
 
 Placing a *portable hole* inside an extradimensional space created by a *bag of holding*, *handy haversack*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-#### **Potion of Animal Friendship**
+### **Potion of Animal Friendship**
 
-#### *Potion, uncommon*
+*Potion, uncommon*
 
 When you drink this potion, you can cast the *animal friendship* spell (save DC 13) for 1 hour at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.
 
-#### **Potion of Clairvoyance**
+### **Potion of Clairvoyance**
 
-#### *Potion, rare*
+*Potion, rare*
 
 When you drink this potion, you gain the effect of the *clairvoyance* spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.
 
-#### **Potion of Climbing**
+### **Potion of Climbing**
 
 *Potion, common*
 
 When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
 
-#### **Potion of Diminution**
+### **Potion of Diminution**
 
-#### *Potion, rare*
+*Potion, rare*
 
 When you drink this potion, you gain the "reduce" effect of the *enlarge/reduce* spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.
 
 ### **Potion of Flying**
 
-#### *Potion, very rare*
+*Potion, very rare*
 
 When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft. This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.
 
-#### **Potion of Gaseous Form**
+### **Potion of Gaseous Form**
 
-#### *Potion, rare*
+*Potion, rare*
 
 When you drink this potion, you gain the effect of the *gaseous form* spell for 1 hour (no concentration required) or until you end the effect as a bonus action. This potion's container seems to hold fog that moves and pours like water.
 
-## **Potion of Giant Strength**
+### **Potion of Giant Strength**
 
-#### *Potion, rarity varies*
+*Potion, rarity varies*
 
 When you drink this potion, your Strength score changes for 1 hour. The type of giant determines the score (see the table below). The potion has no effect on you if your Strength is equal to or greater than that score.
 
@@ -12140,21 +12175,21 @@ This potion's transparent liquid has floating in it a sliver of fingernail from 
 | Cloud	giant       | 27       | Very	rare |
 | Storm	giant       | 29       | Legendary |
 
-## **Potion of Growth**
+### **Potion of Growth**
 
-#### *Potion, uncommon*
+*Potion, uncommon*
 
 When you drink this potion, you gain the "enlarge" effect of the *enlarge/reduce* spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.
 
-#### **Potion of Healing**
+### **Potion of Healing**
 
-#### *Potion, rarity varies*
+*Potion, rarity varies*
 
 You regain hit points when you drink this potion. The number of hit points depends on the potion's rarity, as shown in the Potions of Healing table. 
 
 Whatever its potency, the potion's red liquid glimmers when agitated.
 
-## **Potions of Healing**
+### **Potions of Healing**
 
 | Potion	of	…      | Rarity    | HP	Regained |
 |------------------|-----------|-------------|
@@ -12163,35 +12198,35 @@ Whatever its potency, the potion's red liquid glimmers when agitated.
 | Superior	healing | Rare      | 8d4	+	8     |
 | Supreme	healing  | Very	rare | 10d4	+	20   |
 
-## **Potion of Heroism**
+### **Potion of Heroism**
 
-#### *Potion, rare*
+*Potion, rare*
 
 For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the *bless* spell (no concentration required). This blue potion bubbles and steams as if boiling.
 
 ### **Potion of Invisibility**
 
-#### *Potion, very rare*
+*Potion, very rare*
 
 This potion's container looks empty but feels as though it holds liquid. When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell.
 
-## **Potion of Mind Reading**
+### **Potion of Mind Reading**
 
-#### *Potion, rare*
+*Potion, rare*
 
 When you drink this potion, you gain the effect of the *detect thoughts* spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it.
 
-## **Potion of Poison**
+### **Potion of Poison**
 
-#### *Potion, uncommon*
+*Potion, uncommon*
 
 This concoction looks, smells, and tastes like a *potion of healing* or other beneficial potion. However, it is actually poison masked by illusion magic. An *identify* spell reveals its true nature.
 
 If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Constitution saving throw or be poisoned. At the start of each of your turns while you are poisoned in this way, you take 3d6 poison damage. At the end of each of your turns, you can repeat the saving throw. On a successful save, the poison damage you take on your subsequent turns decreases by 1d6. The poison ends when the damage decreases to 0.
 
-#### **Potion of Resistance**
+### **Potion of Resistance**
 
-#### *Potion, uncommon*
+*Potion, uncommon*
 
 When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.
 
@@ -12203,19 +12238,19 @@ When you drink this potion, you gain resistance to one type of damage for 1 hour
 | 4   | Force       | 9   | Radiant     |
 | 5   | Lightning   | 10  | Thunder     |
 
-#### **Potion of Speed**
+### **Potion of Speed**
 
 *Potion, very rare*
 
 When you drink this potion, you gain the effect of the *haste* spell for 1 minute (no concentration required). The potion's yellow fluid is streaked with black and swirls on its own.
 
-#### **Potion of Water Breathing**
+### **Potion of Water Breathing**
 
 *Potion, uncommon*
 
 You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
 
-#### **Restorative Ointment**
+### **Restorative Ointment**
 
 *Wondrous item, uncommon*
 
@@ -12223,7 +12258,7 @@ This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture 
 
 As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 hit points, ceases to be poisoned, and is cured of any disease.
 
-#### **Ring of Animal Influence**
+### **Ring of Animal Influence**
 
 *Ring, rare*
 
@@ -12233,9 +12268,9 @@ This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. Whil
 - *Fear* (save DC 13), targeting only beasts that have an Intelligence of 3 or lower
 - *Speak with animals*
 
-#### **Ring of Djinni Summoning**
+### **Ring of Djinni Summoning**
 
-#### *Ring, legendary (requires attunement)*
+*Ring, legendary (requires attunement)*
 
 While wearing this ring, you can speak its command word as an action to summon a particular djinni from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of you. It remains as long as you concentrate (as if concentrating on a spell), to a maximum of 1 hour, or until it drops to 0 hit points. It then returns to its home plane.
 
@@ -12243,7 +12278,7 @@ While summoned, the djinni is friendly to you and your companions. It obeys any 
 
 After the djinni departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies.
 
-#### **Ring of Elemental Command**
+### **Ring of Elemental Command**
 
 *Ring, legendary (requires attunement)*
 
@@ -12283,39 +12318,39 @@ If you help slay a water elemental while attuned to the ring, you gain access to
 - You can breathe underwater and have a swimming speed equal to your walking speed.
 - You can cast the following spells from the ring, expending the necessary number of charges: *create or destroy water* (1 charge), *control water* (3 charges), *ice storm* (2 charges), or *wall of ice* (3 charges).
 
-## **Ring of Evasion**
+### **Ring of Evasion**
 
-#### *Ring, rare (requires attunement)*
+*Ring, rare (requires attunement)*
 
 This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. When you fail a Dexterity saving throw while wearing it, you can use your 
 
 reaction to expend 1 of its charges to succeed on that saving throw instead.
 
-## **Ring of Feather Falling**
+### **Ring of Feather Falling**
 
 *Ring, rare (requires attunement)*
 
 When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.
 
-## **Ring of Free Action**
+### **Ring of Free Action**
 
 *Ring, rare (requires attunement)*
 
 While you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained.
 
-## **Ring of Invisibility**
+### **Ring of Invisibility**
 
 *Ring, legendary (requires attunement)*
 
 While wearing this ring, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again.
 
-## **Ring of Jumping**
+### **Ring of Jumping**
 
 *Ring, uncommon (requires attunement)*
 
 While wearing this ring, you can cast the *jump* spell from it as a bonus action at will, but can target only yourself when you do so.
 
-## **Ring of Mind Shielding**
+### **Ring of Mind Shielding**
 
 *Ring, uncommon (requires attunement)*
 
@@ -12325,19 +12360,19 @@ You can use an action to cause the ring to become invisible until you use anothe
 
 If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can't prevent this telepathic communication.
 
-#### **Ring of Protection**
+### **Ring of Protection**
 
 *Ring, rare (requires attunement)*
 
 You gain a +1 bonus to AC and saving throws while wearing this ring.
 
-#### **Ring of Regeneration**
+### **Ring of Regeneration**
 
 *Ring, very rare (requires attunement)*
 
 While wearing this ring, you regain 1d6 hit points every 10 minutes, provided that you have at least 1 hit point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6 + 1 days if you have at least 1 hit point the whole time.
 
-#### **Ring of Resistance**
+### **Ring of Resistance**
 
 *Ring, rare (requires attunement)*
 
@@ -12356,7 +12391,7 @@ You have resistance to one damage type while wearing this ring. The gem in the r
 | 9   | Radiant     | Topaz      |
 | 10  | Thunder     | Spinel     |
 
-#### **Ring of Shooting Stars**
+### **Ring of Shooting Stars**
 
 *Ring, very rare (requires attunement outdoors at night)*
 
@@ -12381,7 +12416,7 @@ As a bonus action, you can move each sphere up to 30 feet, but no farther than 1
 
 *Shooting Stars.* You can expend 1 to 3 charges as an action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of you. Each creature within a 15-foot cube originating from that point is showered in sparks and must make a DC 15 Dexterity saving throw, taking 5d4 fire damage on a failed save, or half as much damage on a successful one.
 
-#### **Ring of Spell Storing**
+### **Ring of Spell Storing**
 
 *Ring, rare (requires attunement)*
 
@@ -12397,7 +12432,7 @@ While wearing this ring, you can cast any spell stored in it. The spell uses the
 
 While wearing this ring, you have advantage on saving throws against any spell that targets only you (not in an area of effect). In addition, if you roll a 20 for the save and the spell is 7th level or lower, the spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster.
 
-## **Ring of Swimming**
+### **Ring of Swimming**
 
 *Ring, uncommon*
 
@@ -12409,41 +12444,41 @@ You have a swimming speed of 40 feet while wearing this ring.
 
 While wearing this ring, you can cast the *telekinesis* spell at will, but you can target only objects that aren't being worn or carried.
 
-#### **Ring of the Ram**
+### **Ring of the Ram**
 
-#### *Ring, rare (requires attunement)*
+*Ring, rare (requires attunement)*
 
 This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to attack one creature you can see within 60 feet of you. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 2d10 force damage and is pushed 5 feet away from you.
 
 Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.
 
-## **Ring of Three Wishes**
+### **Ring of Three Wishes**
 
-#### *Ring, legendary*
+*Ring, legendary*
 
 While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the *wish* spell from it. The ring becomes nonmagical when you use the last charge.
 
-## **Ring of Warmth**
+### **Ring of Warmth**
 
 *Ring, uncommon (requires attunement)*
 
 While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as −50 degrees Fahrenheit.
 
-## **Ring of Water Walking**
+### **Ring of Water Walking**
 
-#### *Ring, uncommon*
+*Ring, uncommon*
 
 While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.
 
-#### **Ring of X-ray Vision**
+### **Ring of X-ray Vision**
 
-#### *Ring, rare (requires attunement)*
+*Ring, rare (requires attunement)*
 
 While wearing this ring, you can use an action to speak its command word. When you do so, you can  see into and through solid matter for 1 minute. This vision has a radius of 30 feet. To you, solid objects within that radius appear transparent and don't prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead.
 
 Whenever you use the ring again before taking a long rest, you must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion.
 
-## **Robe of Eyes**
+### **Robe of Eyes**
 
 *Wondrous item, rare (requires attunement)*
 
@@ -12457,15 +12492,15 @@ The eyes on the robe can't be closed or averted. Although you can close or avert
 
 A *light* spell cast on the robe or a *daylight* spell cast within 5 feet of the robe causes you to be blinded for 1 minute. At the end of each of your turns, you can make a Constitution saving throw (DC 11 for *light* or DC 15 for *daylight*), ending the blindness on a success.
 
-#### **Robe of Scintillating Colors**
+### **Robe of Scintillating Colors**
 
 *Wondrous item, very rare (requires attunement)*
 
 This robe has 3 charges, and it regains 1d3 expended charges daily at dawn. While you wear it, you can use an action and expend 1 charge to cause the garment to display a shifting pattern of dazzling hues until the end of your next turn. During this time, the robe sheds bright light in a 30-foot radius and dim light for an additional 30 feet. Creatures that can see you have disadvantage on attack rolls against you. In addition, any creature in the bright light that can see you when the robe's power is activated must succeed on a DC 15 Wisdom saving throw or become stunned until the effect ends.
 
-#### **Robe of Stars**
+### **Robe of Stars**
 
-#### *Wondrous item, very rare (requires attunement)*
+*Wondrous item, very rare (requires attunement)*
 
 This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.
 
@@ -12473,9 +12508,9 @@ Six stars, located on the robe's upper front portion, are particularly large. Wh
 
 While you wear the robe, you can use an action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you use an action to return to the plane you were on. You reappear in the last space you occupied, or if that space is occupied, the nearest unoccupied space.
 
-#### **Robe of the Archmagi**
+### **Robe of the Archmagi**
 
-#### *Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)*
+*Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)*
 
 This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe's color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can't attune to a *robe of the archmagi* that doesn't correspond to your alignment.
 
@@ -12485,9 +12520,9 @@ You gain these benefits while wearing the robe:
 - You have advantage on saving throws against spells and other magical effects.
 - Your spell save DC and spell attack bonus each increase by 2.
 
-#### **Robe of Useful Items**
+### **Robe of Useful Items**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
 
@@ -12518,7 +12553,7 @@ In addition, the robe has 4d4 other patches. The GM chooses the patches or deter
 | 91–96 | Window	(2	feet	by	4	feet,	up	to	2	feet	deep),<br>which	you	can	place	on	a	vertical	surface	you<br>can	reach                                                                                                   |
 | 97–00 | Portable	ram                                                                                                                                                                                                  |
 
-#### **Rod of Absorption**
+### **Rod of Absorption**
 
 *Rod, very rare (requires attunement)*
 
@@ -12530,9 +12565,9 @@ If you are a spellcaster holding the rod, you can convert energy stored in it in
 
 A newly found rod has 1d10 levels of spell energy stored in it already. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.
 
-#### **Rod of Alertness**
+### **Rod of Alertness**
 
-#### *Rod, very rare (requires attunement)*
+*Rod, very rare (requires attunement)*
 
 This rod has a flanged head and the following properties.
 
@@ -12544,9 +12579,9 @@ This rod has a flanged head and the following properties.
 
 The rod's head stops glowing and the effect ends after 10 minutes, or when a creature uses an action to pull the rod from the ground. This property can't be used again until the next dawn.
 
-#### **Rod of Lordly Might**
+### **Rod of Lordly Might**
 
-#### *Rod, legendary (requires attunement)*
+*Rod, legendary (requires attunement)*
 
 This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.
 
@@ -12572,15 +12607,15 @@ If you press **button 6**, the rod assumes or remains in its normal form and ind
 
 *Terrify.* While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is frightened of you for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
 
-#### **Rod of Rulership**
+### **Rod of Rulership**
 
-#### *Rod, rare (requires attunement)*
+*Rod, rare (requires attunement)*
 
 You can use an action to present the rod and command obedience from each creature of your choice that you can see within 120 feet of you. Each target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 8 hours. While charmed in this way, the creature regards you as its  trusted leader. If harmed by you or your companions, or commanded to do something contrary to its nature, a target ceases to be charmed in this way. The rod can't be used again until the next dawn.
 
-#### **Rod of Security**
+### **Rod of Security**
 
-#### *Rod, very rare*
+*Rod, very rare*
 
 While holding this rod, you can use an action to activate it. The rod then instantly transports you and up to 199 other willing creatures you can see to a paradise that exists in an extraplanar space. You choose the form that the paradise takes. It could be a tranquil garden, lovely glade, cheery tavern, immense palace, tropical island, fantastic carnival, or whatever else you can imagine. Regardless of its nature, the paradise contains enough water and food to sustain its visitors. Everything else that can be interacted with inside the extraplanar space can exist only there. For example, a flower picked from a garden in the paradise disappears if it is taken outside the extraplanar space.
 
@@ -12588,9 +12623,9 @@ For each hour spent in the paradise, a visitor regains hit points as if it had s
 
 When the time runs out or you use an action to end it, all visitors reappear in the location they occupied when you activated the rod, or an unoccupied space nearest that location. The rod can't be used again until ten days have passed.
 
-#### **Rope of Climbing**
+### **Rope of Climbing**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 This 60-foot length of silk rope weighs 3 pounds and can hold up to 3,000 pounds. If you hold one end of the rope and use an action to speak the command word, the rope animates. As a bonus action, you can command the other end to move toward a destination you choose. That end moves 10 feet on your turn when you first command it and 10 feet on each of your turns until reaching its destination, up to its maximum length away, or until you tell it to stop. You can also tell the rope to fasten itself securely to an object or to unfasten itself, to knot or unknot itself, or to coil itself for carrying.
 
@@ -12608,7 +12643,7 @@ You can release the creature by using a bonus action to speak a second command w
 
 The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
 
-#### **Scarab of Protection**
+### **Scarab of Protection**
 
 *Wondrous item, legendary (requires attunement)*
 
@@ -12617,19 +12652,19 @@ If you hold this beetle-shaped medallion in your hand for 1 round, an inscriptio
 - You have advantage on saving throws against spells.
 - The scarab has 12 charges. If you fail a saving throw against a necromancy spell or a harmful effect originating from an undead creature, you can use your reaction to expend 1 charge and turn the failed save into a successful one. The scarab crumbles into powder and is destroyed when its last charge is expended.
 
-#### **Scimitar of Speed**
+### **Scimitar of Speed**
 
 *Weapon (scimitar), very rare (requires attunement)*
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.
 
-#### **Shield, +1, +2, or +3**
+### **Shield, +1, +2, or +3**
 
 *Armor (shield), uncommon (+1), rare (+2), or very rare (+3)*
 
 While holding this shield, you have a bonus to AC determined by the shield's rarity. This bonus is in addition to the shield's normal bonus to AC.
 
-#### **Shield of Missile Attraction**
+### **Shield of Missile Attraction**
 
 *Armor (shield), rare (requires attunement)*
 
@@ -12637,23 +12672,23 @@ While holding this shield, you have resistance to damage from ranged weapon atta
 
 *Curse.* This shield is cursed. Attuning to it curses you until you are targeted by the *remove curse* spell or similar magic. Removing the shield fails to end the curse on you. Whenever a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.
 
-#### **Slippers of Spider Climbing**
+### **Slippers of Spider Climbing**
 
-#### *Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon (requires attunement)*
 
 While you wear these light shoes, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. You have a climbing speed equal to your walking speed. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil.
 
-#### **Sovereign Glue**
+### **Sovereign Glue**
 
-#### *Wondrous item, legendary*
+*Wondrous item, legendary*
 
 This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with *oil of slipperiness.* When found, a container contains 1d6 + 1 ounces.
 
 One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of *universal solvent* or *oil of etherealness*, or with a *wish* spell.
 
-#### **Spell Scroll**
+### **Spell Scroll**
 
-#### *Scroll, varies*
+*Scroll, varies*
 
 A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the 
 
@@ -12663,7 +12698,7 @@ If the spell is on your class's spell list but of a higher level than you can no
 
 The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.
 
-#### **Spell Scroll**
+### **Spell Scroll**
 
 | Spell	Level | Rarity    | Save	DC | Attack	Bonus |
 |-------------|-----------|---------|--------------|
@@ -12680,13 +12715,13 @@ The level of the spell on the scroll determines the spell's saving throw DC and 
 
 A wizard spell on a *spell scroll* can be copied just as spells in spellbooks can be copied. When a spell is copied from a *spell scroll*, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the *spell scroll* is destroyed.
 
-#### **Spellguard Shield**
+### **Spellguard Shield**
 
 *Armor (shield), very rare (requires attunement)*
 
 While holding this shield, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you.
 
-#### **Sphere of Annihilation**
+### **Sphere of Annihilation**
 
 *Wondrous item, legendary*
 
@@ -12709,7 +12744,7 @@ If the sphere comes into contact with a planar portal, such as that created by t
 |       | within	180	feet	of	the	sphere,	including	the  |
 |       | sphere,	to	a	random	plane	of	existence.       |
 
-#### **Staff of Charming**
+### **Staff of Charming**
 
 *Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*
 
@@ -12719,7 +12754,7 @@ If you are holding the staff and fail a saving throw against an enchantment spel
 
 The staff regains 1d8 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.
 
-#### **Staff of Fire**
+### **Staff of Fire**
 
 *Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*
 
@@ -12729,7 +12764,7 @@ The staff has 10 charges. While holding it, you can use an action to expend 1 or
 
 The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff blackens, crumbles into cinders, and is destroyed.
 
-#### **Staff of Frost**
+### **Staff of Frost**
 
 *Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*
 
@@ -12739,7 +12774,7 @@ The staff has 10 charges. While holding it, you can use an action to expend 1 or
 
 The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns to water and is destroyed.
 
-#### **Staff of Healing**
+### **Staff of Healing**
 
 *Staff, rare (requires attunement by a bard, cleric, or druid)*
 
@@ -12747,7 +12782,7 @@ This staff has 10 charges. While holding it, you can use an action to expend 1 o
 
 The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff vanishes in a flash of light, lost forever.
 
-#### **Staff of Power**
+### **Staff of Power**
 
 *Staff, very rare (requires attunement by a sorcerer, warlock, or wizard)*
 
@@ -12763,11 +12798,11 @@ The staff has 20 charges for the following properties. The staff regains 2d8 + 4
 
 You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
 
-#### **Distance from Origin Damage**
+**Distance from Origin Damage**
 
 10 ft. away or closer 8 × the number of charges in the staff 11 to 20 ft. away 6 × the number of charges in the staff 21 to 30 ft. away 4 × the number of charges in the staff
 
-#### **Staff of Striking**
+### **Staff of Striking**
 
 *Staff, very rare (requires attunement)*
 
@@ -12775,9 +12810,9 @@ This staff can be wielded as a magic quarterstaff that grants a +3 bonus to atta
 
 The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra 1d6 force damage. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.
 
-#### **Staff of Swarming Insects**
+### **Staff of Swarming Insects**
 
-#### *Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*
+*Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*
 
 This staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses.
 
@@ -12785,7 +12820,7 @@ This staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If
 
 *Insect Cloud.* While holding the staff, you can use an action and expend 1 charge to cause a swarm of harmless flying insects to spread out in a 30-foot radius from you. The insects remain for 10 minutes, making the area heavily obscured for creatures other than you. The swarm moves with you, remaining centered on you. A wind of at least 10 miles per hour disperses the swarm and ends the effect.
 
-#### **Staff of the Magi**
+### **Staff of the Magi**
 
 *Staff, legendary (requires attunement by a sorcerer, warlock, or wizard)*
 
@@ -12805,14 +12840,14 @@ You can also use an action to cast one of the following spells from the staff wi
 
 You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
 
-#### **Distance from Origin Damage**
+**Distance from Origin Damage**
 
 | 10	ft.	away	or	closer | 8	×	the	number	of	charges	in	the	staff |
 |-----------------------|----------------------------------------|
 | 11	to	20	ft.	away     | 6	×	the	number	of	charges	in	the	staff |
 | 21	to	30	ft.	away     | 4	×	the	number	of	charges	in	the	staff |
 
-#### **Staff of the Python**
+### **Staff of the Python**
 
 *Staff, uncommon (requires attunement by a cleric, druid, or warlock)*
 
@@ -12822,9 +12857,9 @@ On your turn, you can mentally command the snake if it is within 60 feet of you 
 
 If the snake is reduced to 0 hit points, it dies and reverts to its staff form. The staff then shatters and is destroyed. If the snake reverts to staff form before losing all its hit points, it regains all of them.
 
-#### **Staff of the Woodlands**
+### **Staff of the Woodlands**
 
-#### *Staff, rare (requires attunement by a druid)*
+*Staff, rare (requires attunement by a druid)*
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
 
@@ -12836,7 +12871,7 @@ You can also use an action to cast the *pass without trace* spell from the staff
 
 *Tree Form.* You can use an action to plant one end of the staff in fertile earth and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by *detect magic*. While touching the tree and using another action to speak its command word, you return the staff to its normal form. Any creature in the tree falls when it reverts to a staff.
 
-#### **Staff of Thunder and Lightning**
+### **Staff of Thunder and Lightning**
 
 *Staff, very rare (requires attunement)*
 
@@ -12854,7 +12889,7 @@ taking 9d6 lightning damage on a failed save, or half as much damage on a succes
 
 *Thunder and Lightning.* You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one.
 
-#### **Staff of Withering**
+### **Staff of Withering**
 
 *Staff, rare (requires attunement by a cleric, druid, or warlock)*
 
@@ -12862,21 +12897,21 @@ This staff has 3 charges and regains 1d3 expended charges daily at dawn.
 
 The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge to deal an extra 2d10 necrotic damage to the target. In addition, the target must succeed on a DC 15 Constitution saving throw or have disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.
 
-## **Stone of Controlling Earth Elementals**
+### **Stone of Controlling Earth Elementals**
 
 *Wondrous item, rare*
 
 If the stone is touching the ground, you can use an action to speak its command word and summon an earth elemental, as if you had cast the *conjure elemental* spell. The stone can't be used this way again until the next dawn. The stone weighs 5 pounds.
 
-#### **Stone of Good Luck (Luckstone)**
+### **Stone of Good Luck (Luckstone)**
 
 *Wondrous item, uncommon (requires attunement)*
 
 While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.
 
-#### **Sun Blade**
+### **Sun Blade**
 
-#### *Weapon (longsword), rare (requires attunement)*
+*Weapon (longsword), rare (requires attunement)*
 
 This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with shortswords or longswords, you are proficient with the *sun blade*.
 
@@ -12884,13 +12919,13 @@ You gain a +2 bonus to attack and damage rolls made with this weapon, which deal
 
 The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
 
-#### **Sword of Life Stealing**
+### **Sword of Life Stealing**
 
 *Weapon (any sword), rare (requires attunement)*
 
 When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.
 
-#### **Sword of Sharpness**
+### **Sword of Sharpness**
 
 *Weapon (any sword that deals slashing damage), very rare (requires attunement)*
 
@@ -12900,7 +12935,7 @@ When you attack a creature with this weapon and roll a 20 on the attack roll, th
 
 In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10 foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.
 
-#### **Sword of Wounding**
+### **Sword of Wounding**
 
 *Weapon (any sword), rare (requires attunement)*
 
@@ -12910,9 +12945,9 @@ Once per turn, when you hit a creature with an attack using this magic weapon, y
 
 can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.
 
-#### **Talisman of Pure Good**
+### **Talisman of Pure Good**
 
-#### *Wondrous item, legendary (requires attunement by a creature of good alignment)*
+*Wondrous item, legendary (requires attunement by a creature of good alignment)*
 
 This talisman is a mighty symbol of goodness. A creature that is neither good nor evil in alignment takes 6d6 radiant damage upon touching the talisman. An evil creature takes 8d6 radiant damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.
 
@@ -12920,13 +12955,13 @@ If you are a good cleric or paladin, you can use the talisman as a holy symbol, 
 
 The talisman has 7 charges. If you are wearing or holding it, you can use an action to expend 1 charge from it and choose one creature you can see on the ground within 120 feet of you. If the target is of evil alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman disperses into motes of golden light and is destroyed.
 
-#### **Talisman of the Sphere**
+### **Talisman of the Sphere**
 
-#### *Wondrous item, legendary (requires attunement)*
+*Wondrous item, legendary (requires attunement)*
 
 When you make an Intelligence (Arcana) check to control a *sphere of annihilation* while you are holding this talisman, you double your proficiency bonus on the check. In addition, when you start your turn with control over a *sphere of annihilation*, you can use an action to levitate it 10 feet plus a number of additional feet equal to 10 × your Intelligence modifier.
 
-#### **Talisman of Ultimate Evil**
+### **Talisman of Ultimate Evil**
 
 *Wondrous item, legendary (requires attunement by a creature of evil alignment)*
 
@@ -12936,45 +12971,45 @@ If you are an evil cleric or paladin, you can use the talisman as a holy symbol,
 
 The talisman has 6 charges. If you are wearing or holding it, you can use an action to expend 1 charge from the talisman and choose one creature you can see on the ground within 120 feet of you. If the target is of good alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman dissolves into foul-smelling slime and is destroyed.
 
-#### **Tome of Clear Thought**
+### **Tome of Clear Thought**
 
 *Wondrous item, very rare*
 
 This book contains memory and logic exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Intelligence score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
 
-#### **Tome of Leadership and Influence**
+### **Tome of Leadership and Influence**
 
-#### *Wondrous item, very rare*
+*Wondrous item, very rare*
 
 This book contains guidelines for influencing and charming others, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Charisma score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
 
-#### **Tome of Understanding**
+### **Tome of Understanding**
 
-#### *Wondrous item, very rare*
+*Wondrous item, very rare*
 
 This book contains intuition and insight exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Wisdom score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
 
-#### **Trident of Fish Command**
+### **Trident of Fish Command**
 
-#### *Weapon (trident), uncommon (requires attunement)*
+*Weapon (trident), uncommon (requires attunement)*
 
 This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast *dominate beast* (save DC 15) from it 
 
 on a beast that has an innate swimming speed. The trident regains 1d3 expended charges daily at dawn.
 
-#### **Universal Solvent**
+### **Universal Solvent**
 
-#### *Wondrous item, legendary*
+*Wondrous item, legendary*
 
 This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 1 square foot of adhesive it touches, including *sovereign glue.*
 
-#### **Vicious Weapon**
+### **Vicious Weapon**
 
-#### *Weapon (any), rare*
+*Weapon (any), rare*
 
 When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.
 
-## **Vorpal Sword**
+### **Vorpal Sword**
 
 *Weapon (any sword that deals slashing damage), legendary (requires attunement)*
 
@@ -12982,9 +13017,9 @@ You gain a +3 bonus to attack and damage rolls made with this magic weapon. In a
 
 When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.
 
-## **Wand of Binding**
+### **Wand of Binding**
 
-#### *Wand, rare (requires attunement by a spellcaster)*
+*Wand, rare (requires attunement by a spellcaster)*
 
 This wand has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
@@ -12992,7 +13027,7 @@ This wand has 7 charges for the following properties. It regains 1d6 + 1 expende
 
 *Assisted Escape.* While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being paralyzed or restrained, or you can expend 1 charge and gain advantage on any check you make to escape a grapple.
 
-#### **Wand of Enemy Detection**
+### **Wand of Enemy Detection**
 
 *Wand, rare (requires attunement)*
 
@@ -13002,7 +13037,7 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand'
 
 ### **Wand of Fear**
 
-#### *Wand, rare (requires attunement)*
+*Wand, rare (requires attunement)*
 
 This wand has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
@@ -13010,9 +13045,9 @@ This wand has 7 charges for the following properties. It regains 1d6 + 1 expende
 
 *Cone of Fear.* While holding the wand, you can use an action to expend 2 charges, causing the wand's tip to emit a 60-foot cone of amber light. Each creature in the cone must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.
 
-## **Wand of Fireballs**
+### **Wand of Fireballs**
 
-#### *Wand, rare (requires attunement by a spellcaster)*
+*Wand, rare (requires attunement by a spellcaster)*
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the *fireball* spell (save DC 15) from it. For 1 charge, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 
@@ -13020,37 +13055,37 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand'
 
 d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-#### **Wand of Lightning Bolts**
+### **Wand of Lightning Bolts**
 
-#### *Wand, rare (requires attunement by a spellcaster)*
+*Wand, rare (requires attunement by a spellcaster)*
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the *lightning bolt* spell (save DC 15) from it. For 1 charge, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-#### **Wand of Magic Detection**
+### **Wand of Magic Detection**
 
-#### *Wand, uncommon*
+*Wand, uncommon*
 
 This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the *detect magic* spell from it. The wand regains 1d3 expended charges daily at dawn.
 
-#### **Wand of Magic Missiles**
+### **Wand of Magic Missiles**
 
-#### *Wand, uncommon*
+*Wand, uncommon*
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the *magic missile* spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-#### **Wand of Paralysis**
+### **Wand of Paralysis**
 
-#### *Wand, rare (requires attunement by a spellcaster)*
+*Wand, rare (requires attunement by a spellcaster)*
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cause a thin blue ray to streak from the tip toward a creature you can see within 60 feet of you. The target must succeed on a DC 15 Constitution saving throw or be paralyzed for 1 minute. At the end of each of the target's turns, it can repeat the saving throw, ending the effect on itself on a success.
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-#### **Wand of Polymorph**
+### **Wand of Polymorph**
 
 *Wand, very rare (requires attunement by a spellcaster)*
 
@@ -13058,19 +13093,19 @@ This wand has 7 charges. While holding it, you can use an action to expend 1 of 
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-#### **Wand of Secrets**
+### **Wand of Secrets**
 
 *Wand, uncommon*
 
 The wand has 3 charges. While holding it, you can use an action to expend 1 of its charges, and if a secret door or trap is within 30 feet of you, the wand pulses and points at the one nearest to you. The wand regains 1d3 expended charges daily at dawn.
 
-#### **Wand of the War Mage, +1, +2, or +3**
+### **Wand of the War Mage, +1, +2, or +3**
 
 *Wand, uncommon (+1), rare (+2), or very rare (+3) (requires attunement by a spellcaster)*
 
 While holding this wand, you gain a bonus to spell attack rolls determined by the wand's rarity. In addition, you ignore half cover when making a spell attack.
 
-#### **Wand of Web**
+### **Wand of Web**
 
 *Wand, uncommon (requires attunement by a spellcaster)*
 
@@ -13078,7 +13113,7 @@ This wand has 7 charges. While holding it, you can use an action to expend 1 of 
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-#### **Wand of Wonder**
+### **Wand of Wonder**
 
 *Wand, rare (requires attunement by a spellcaster)*
 
@@ -13092,7 +13127,7 @@ multiple possible subjects, the GM randomly determines which ones are affected.
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.
 
-#### **d100 Effect**
+**d100 Effect**
 
 | 01–05 | You	cast	slow.                                                                                                                                                                                                                                                                                    |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13122,13 +13157,13 @@ divided equally among all creatures in the line.
 - 96–97 The target's skin turns bright blue for 1d10 days. If you chose a point in space, the creature nearest to that point is affected.
 - 98–00 If you targeted a creature, it must make a DC 15 Constitution saving throw. If you didn't target a creature, you become the target and must make the saving throw. If the saving throw fails by 5 or more, the target is instantly petrified. On any other failed save, the target is restrained and begins to turn to stone. While restrained in this way, the target must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the target is freed by the greater restoration spell or similar magic.
 
-#### **Weapon, +1, +2, or +3**
+### **Weapon, +1, +2, or +3**
 
 *Weapon (any), uncommon (+1), rare (+2), or very rare (+3)*
 
 You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon's rarity.
 
-#### **Well of Many Worlds**
+### **Well of Many Worlds**
 
 *Wondrous item, legendary*
 
@@ -13136,17 +13171,17 @@ This fine black cloth, soft as silk, is folded up to the dimensions of a handker
 
 You can use an action to unfold and place the *well of many worlds* on a solid surface, whereupon it creates a two-way portal to another world or plane of existence. Each time the item opens a portal, the GM decides where it leads. You can use an action to close an open portal by taking hold of the edges of the cloth and folding it up. Once *well of many worlds* has opened a portal, it can't do so again for 1d8 hours.
 
-#### **Wind Fan**
+### **Wind Fan**
 
-#### *Wondrous item, uncommon*
+*Wondrous item, uncommon*
 
 While holding this fan, you can use an action to cast the *gust of wind* spell (save DC 13) from it. Once used, the fan shouldn't be used again until the next dawn. Each time it is used again before then, it has a 
 
 cumulative 20 percent chance of not working and tearing into useless, nonmagical tatters.
 
-#### **Winged Boots**
+### **Winged Boots**
 
-#### *Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon (requires attunement)*
 
 While you wear these boots, you have a flying speed equal to your walking speed. You can use the boots to fly for up to 4 hours, all at once or in several shorter flights, each one using a minimum of 1 minute from the duration. If you are flying when the duration expires, you descend at a rate of 30 feet per round until you land.
 
@@ -13166,7 +13201,7 @@ Most sentient items are weapons. Other kinds of items can manifest sentience, bu
 
 Sentient magic items function as NPCs under the GM's control. Any activated property of the item is under the item's control, not its wielder's. As long as the wielder maintains a good relationship with the item, the wielder can access those properties normally. If the relationship is strained, the item can suppress its activated properties or even turn them against the wielder.
 
-## **Creating Sentient Magic Items**
+### **Creating Sentient Magic Items**
 
 When you decide to make a magic item sentient, you create the item's persona in the same way you would create an NPC, with a few exceptions described here.
 
@@ -13174,11 +13209,11 @@ When you decide to make a magic item sentient, you create the item's persona in 
 
 A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can choose the item's abilities or determine them randomly. To determine them randomly, roll 4d6 for each one, dropping the lowest roll and totaling the rest.
 
-## **Communication**
+### **Communication**
 
 A sentient item has some ability to communicate, either by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the following table.
 
-#### **d100 Communication**
+### **d100 Communication**
 
 | 01–60 | The	item	communicates	by	transmitting	emotion<br>to	the	creature	carrying	or	wielding	it.                                                                                   |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13186,18 +13221,18 @@ A sentient item has some ability to communicate, either by sharing its emotions,
 | 91–00 | The	item	can	speak,	read,	and	understand	one<br>or	more	languages.	In	addition,	the	item	can<br>communicate	telepathically	with	any	character<br>that	carries	or	wields	it. |
 |       |                                                                                                                                                                             |
 
-#### **Senses**
+### **Senses**
 
 With sentience comes awareness. A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the following table.
 
-#### **d4 Senses**
+### **d4 Senses**
 
 - 1 Hearing and normal vision out to 30 feet.
 - 2 Hearing and normal vision out to 60 feet
 - 3 Hearing and normal vision out to 120 feet.
 - 4 Hearing and darkvision out to 120 feet.
 
-#### **Alignment**
+### **Alignment**
 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
 
@@ -13209,13 +13244,13 @@ A sentient magic item has an alignment. Its creator or nature might suggest an a
 | 51–63 | Lawful	neutral | 97–00 | Chaotic	evil    |
 | 64–73 | Neutral        |       |                 |
 
-#### **Special Purpose**
+### **Special Purpose**
 
 You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You 
 
 can pick a special purpose or roll on the following table.
 
-#### **d10 Purpose**
+### **d10 Purpose**
 
 - 1 *Aligned:* The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)
 - 2 *Bane:* The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards.
@@ -13228,7 +13263,7 @@ can pick a special purpose or roll on the following table.
 - 9 *Destiny Seeker:* The item is convinced that it and its wielder have key roles to play in future events.
 - 10 *Creator Seeker:* The item seeks its creator and wants to understand why it was created.
 
-## **Conflict**
+### **Conflict**
 
 A sentient item has a will of its own, shaped by its personality and alignment. If its wielder acts in a manner opposed to the item's alignment or purpose, conflict can arise. When such a conflict occurs, the item makes a Charisma check contested by the wielder's Charisma check. If the item wins the contest, it makes one or more of the following demands:
 
@@ -13247,7 +13282,7 @@ If a sentient item attempts to take control of its wielder, the wielder must mak
 
 ## **Artifacts**
 
-#### **Orb of Dragonkind**
+### **Orb of Dragonkind**
 
 *Wondrous item, artifact (requires attunement)*
 
@@ -13298,7 +13333,7 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
 | Huge       | 15	by	15	ft.           | Fire	giant,	treant  |
 | Gargantuan | 20	by	20	ft.	or	larger | Kraken,	purple	worm |
 
-#### **Modifying Creatures**
+## **Modifying Creatures**
 
 Despite the versatile collection of monsters in this book, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak an existing creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.
 
@@ -13336,7 +13371,7 @@ The game includes the following monster types, which have no rules of their own.
 
 **Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
 
-#### **Tags**
+## **Tags**
 
 A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the *humanoid (orc)* type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the  game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
 
@@ -13362,7 +13397,7 @@ A monster's hit points are presented both as a die expression and as an average 
 
 A monster's size determines the die used to calculate its hit points, as shown in the Hit Dice by Size table.
 
-#### **Hit Dice by Size**
+### **Hit Dice by Size**
 
 | Monster	Size | Hit	Die | Average	HP	per	Die |
 |--------------|---------|--------------------|
@@ -13383,7 +13418,7 @@ All creatures have a walking speed, simply called the monster's speed. Creatures
 
 Some creatures have one or more of the following additional movement modes.
 
-#### **Burrow**
+### **Burrow**
 
 A monster that has a burrowing speed can use that speed to move through sand, earth, mud, or ice. A monster can't burrow through solid rock unless it has a special trait that allows it to do so.
 
@@ -13391,7 +13426,7 @@ A monster that has a burrowing speed can use that speed to move through sand, ea
 
 A monster that has a climbing speed can use all or part of its movement to move on vertical surfaces. The monster doesn't need to spend extra movement to climb.
 
-## **Fly**
+### **Fly**
 
 A monster that has a flying speed can use all or part of its movement to fly. Some monsters have the ability to **hover**, which makes them hard to knock out of the air (as explained in the rules on flying in the *Player's Handbook*). Such a monster stops hovering when it dies.
 
@@ -13625,7 +13660,7 @@ The mere presence of a legendary creature can have strange and wondrous effects 
 
 ## **Monsters (A)**
 
-#### **Aboleth**
+### **Aboleth**
 
 *Large aberration, lawful evil*
 
@@ -13655,7 +13690,7 @@ The mere presence of a legendary creature can have strange and wondrous effects 
 
 *Probing Telepathy.* If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The aboleth makes three tentacle attacks. *Tentacle. Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by *heal* or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
 
@@ -13665,7 +13700,7 @@ The mere presence of a legendary creature can have strange and wondrous effects 
 
 Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The aboleth regains spent legendary actions at the start of its turn.
 
@@ -13673,7 +13708,7 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 **Tail Swipe.** The aboleth makes one tail attack.
 
 - **Psychic Drain (Costs 2 Actions).** One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
-## **Angels**
+### **Angels**
 
 #### **Deva**
 
@@ -13709,7 +13744,7 @@ At will: *detect evil and good*
 
 *Magic Resistance.* The deva has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The deva makes two melee attacks.
 
@@ -13761,7 +13796,7 @@ At will: *detect evil and good*, *invisibility* (self only)
 
 *Magic Resistance.* The planetar has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The planetar makes two melee attacks.
 
@@ -13809,7 +13844,7 @@ At will: *detect evil and good*, *invisibility* (self only)
 
 *Magic Resistance.* The solar has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The solar makes two greatsword attacks.
 
@@ -13821,7 +13856,7 @@ At will: *detect evil and good*, *invisibility* (self only)
 
 *Healing Touch (4/Day).* The solar touches another creature. The target magically regains 40 (8d8 + 4) hit  points and is freed from any curse, disease, poison, blindness, or deafness.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The solar can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The solar regains spent legendary actions at the start of its turn.
 
@@ -13830,7 +13865,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 **Searing Burst (Costs 2 Actions).** The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
 
 - **Blinding Gaze (Costs 3 Actions).** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the *lesser restoration* spell removes the blindness.
-## **Animated Objects**
+### **Animated Objects**
 
 #### **Animated Armor**
 
@@ -13862,7 +13897,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 *False Appearance.* While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The armor makes two melee attacks.
 
@@ -13882,7 +13917,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 |---------|---------|---------|--------|--------|--------|--|
 | 12	(+1) | 15	(+2) | 11	(+0) | 1	(−5) | 5	(−3) | 1	(−5) |  |
 
-#### **Saving Throws** Dex +4
+**Saving Throws** Dex +4
 
 **Damage Immunities** poison, psychic
 
@@ -13898,7 +13933,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 *False Appearance.* While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
 
-#### **Actions**
+**Actions**
 
 *Longsword. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) slashing damage.
 
@@ -13908,7 +13943,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Armor Class** 12
 
-#### **Hit Points** 33 (6d10)
+**Hit Points** 33 (6d10)
 
 ```
 Speed 10	ft.
@@ -13924,7 +13959,7 @@ Speed 10	ft.
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
 
-#### **Languages** —
+**Languages** —
 
 **Challenge** 2 (450 XP)
 
@@ -13934,11 +13969,11 @@ Speed 10	ft.
 
 *False Appearance.* While the rug remains motionless, it is indistinguishable from a normal rug.
 
-#### **Actions**
+**Actions**
 
 *Smother. Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage.
 
-#### **Ankheg**
+### **Ankheg**
 
 *Large monstrosity, unaligned*
 
@@ -13958,13 +13993,13 @@ Speed 10	ft.
 
 **Challenge** 2 (450 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so.
 
 *Acid Spray (Recharge 6).* The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one.
 
-#### **Azer**
+### **Azer**
 
 *Medium elemental, lawful neutral*
 
@@ -13996,7 +14031,7 @@ Speed 10	ft.
 
 *Illumination.* The azer sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-#### **Actions**
+**Actions**
 
 *Warhammer. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
@@ -14028,7 +14063,7 @@ A creature that isn't surprised can avert its eyes to avoid the saving throw at 
 
 If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. H*it:* 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 
@@ -14050,7 +14085,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 **Challenge** 11 (7,200 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The behir makes two attacks: one with its bite and one to constrict.
 
@@ -14082,7 +14117,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 *Surprise Attack.* If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 
-#### **Actions**
+**Actions**
 
 *Morningstar. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 2) piercing damage.
 
@@ -14112,7 +14147,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 *Standing Leap.* The bulette's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 30 (4d12 + 4) piercing damage.
 
@@ -14120,7 +14155,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ## **Monsters (C)**
 
-#### **Centaur**
+### **Centaur**
 
 *Large monstrosity, neutral good*
 
@@ -14140,7 +14175,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 *Charge.* If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
 
@@ -14150,7 +14185,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 *Longbow. Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
-#### **Chimera**
+### **Chimera**
 
 *Large monstrosity, chaotic evil*
 
@@ -14164,7 +14199,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Senses** darkvision 60 ft., passive Perception 18 **Languages** understands Draconic but can't speak **Challenge** 6 (2,300 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
 
@@ -14176,7 +14211,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 *Fire Breath (Recharge 5–6).* The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
 
-#### **Chuul**
+### **Chuul**
 
 *Large aberration, chaotic evil*
 
@@ -14206,7 +14241,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 *Sense Magic.* The chuul senses magic within 120 feet of it at will. This trait otherwise works like the *detect magic* spell but isn't itself magical.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.
 
@@ -14214,7 +14249,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 *Tentacles.* One creature grappled by the chuul must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-#### **Cloaker**
+### **Cloaker**
 
 *Large aberration, chaotic neutral*
 
@@ -14242,7 +14277,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 *Light Sensitivity.* While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The cloaker makes two attacks: one with its bite and one with its tail.
 
@@ -14258,7 +14293,7 @@ Whenever any creature targets the cloaker with an attack or a harmful spell whil
 
 A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
 
-#### **Cockatrice**
+### **Cockatrice**
 
 *Small monstrosity, unaligned*
 
@@ -14274,11 +14309,11 @@ A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a
 
 **Challenge** 1/2 (100 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
 
-#### **Couatl**
+### **Couatl**
 
 *Medium celestial, lawful good*
 
@@ -14315,7 +14350,7 @@ At will: *detect evil and good*, *detect magic*, *detect thoughts*
 
 *Shielded Mind.* The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
 
@@ -14327,7 +14362,7 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 ## **Monsters (D)**
 
-#### **Darkmantle**
+### **Darkmantle**
 
 *Small monstrosity, unaligned*
 
@@ -14343,13 +14378,13 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 **Senses** blindsight 60 ft., passive Perception 10 **Languages** —
 
-#### **Challenge** 1/2 (100 XP)
+**Challenge** 1/2 (100 XP)
 
 *Echolocation.* The darkmantle can't use its blindsight while deafened.
 
 *False Appearance.* While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.
 
-#### **Actions**
+**Actions**
 
 *Crush. Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.
 
@@ -14359,7 +14394,7 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 *Darkness Aura (1/Day).* A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
 
-## **Demons**
+### **Demons**
 
 #### **Balor**
 
@@ -14387,7 +14422,7 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 *Magic Weapons.* The balor's weapon attacks are magical.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The balor makes two attacks: one with its longsword and one with its whip.
 
@@ -14419,7 +14454,7 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 **Challenge** 1/4 (50 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dretch makes two attacks: one with its bite and one with its claws.
 
@@ -14465,7 +14500,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 *Magic Resistance.* The glabrezu has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 
@@ -14501,7 +14536,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 *Stench.* Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The hezrou makes three attacks: one with its bite and two with its claws.
 
@@ -14543,7 +14578,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 *Reactive.* The marilith can take one reaction on every turn in a combat.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The marilith makes seven attacks: six with its longswords and one with its tail.
 
@@ -14553,7 +14588,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 *Teleport.* The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-#### **Reactions**
+**Reactions**
 
 *Parry.* The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
 
@@ -14587,7 +14622,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 *Magic Resistance.* The nalfeshnee has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.
 
@@ -14609,7 +14644,7 @@ creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.
 
 **Hit Points** 7 (3d4)
 
-#### **Speed** 40 ft.
+**Speed** 40 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA     |
 |--------|---------|---------|--------|---------|---------|
@@ -14633,7 +14668,7 @@ creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.
 
 *Magic Resistance.* The quasit has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Claws (Bite in Beast Form). Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -14673,7 +14708,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 *Magic Resistance.* The vrock has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The vrock makes two attacks: one with its beak and one with its talons.
 
@@ -14685,7 +14720,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 *Stunning Screech (1/Day).* The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock's next turn.
 
-## **Devils**
+### **Devils**
 
 #### **Barbed Devil**
 
@@ -14695,7 +14730,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 **Hit Points** 110 (13d8 + 52)
 
-#### **Speed** 30 ft.
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -14723,7 +14758,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 *Magic Resistance.* The devil has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
 
@@ -14733,7 +14768,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 *Hurl Flame. Ranged Spell Attack:* +5 to hit, range 150 ft., one target. *Hit:* 10 (3d6) fire damage. If the target is  a flammable object that isn't being worn or carried, it also catches fire.
 
-### **Bearded Devil**
+#### **Bearded Devil**
 
 *Medium fiend (devil), lawful evil*
 
@@ -14767,7 +14802,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 *Steadfast.* The devil can't be frightened while it can see an allied creature within 30 feet of it.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The devil makes two attacks: one with its beard and one with its glaive.
 
@@ -14809,7 +14844,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 *Magic Resistance.* The devil has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The devil makes three attacks: two with its claws and one with its sting.
 
@@ -14845,7 +14880,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 *Magic Resistance.* The devil has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The devil makes two attacks with its chains.
 
@@ -14855,7 +14890,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
 
-#### **Reactions**
+**Reactions**
 
 *Unnerving Mask.* When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 
 
@@ -14893,7 +14928,7 @@ Wisdom saving throw or be frightened until the end of its turn.
 
 *Magic Resistance.* The erinyes has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The erinyes makes three attacks.
 
@@ -14901,7 +14936,7 @@ Wisdom saving throw or be frightened until the end of its turn.
 
 *Longbow. Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the *lesser restoration* spell or similar magic.
 
-#### **Reactions**
+**Reactions**
 
 *Parry.* The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
 
@@ -14937,7 +14972,7 @@ Wisdom saving throw or be frightened until the end of its turn.
 
 *Magic Resistance.* The devil has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
 
@@ -14953,7 +14988,7 @@ Wisdom saving throw or be frightened until the end of its turn.
 
 **Armor Class** 18 (natural armor) **Hit Points** 180 (19d10 + 76)
 
-#### **Speed** 40 ft.
+**Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -14977,7 +15012,7 @@ Wisdom saving throw or be frightened until the end of its turn.
 
 *Magic Resistance.* The devil has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
 
@@ -15029,7 +15064,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 *Magic Resistance.* The imp has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Sting (Bite in Beast Form). Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -15059,7 +15094,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 *Hellish Rejuvenation.* A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a *bless* spell cast on that creature or its remains are sprinkled with holy water.
 
-#### **Actions**
+**Actions**
 
 *Fist. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
 
@@ -15097,7 +15132,7 @@ At will: *detect magic*, *fireball*
 
 3/day each: *hold monster*, *wall of fire*
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
 
@@ -15109,7 +15144,7 @@ At will: *detect magic*, *fireball*
 
 *Tail. Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 24 (3d10 + 8) bludgeoning damage.
 
-## **Dinosaurs**
+### **Dinosaurs**
 
 #### **Plesiosaurus**
 
@@ -15133,7 +15168,7 @@ At will: *detect magic*, *fireball*
 
 *Hold Breath.* The plesiosaurus can hold its breath for 1 hour.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14 (3d6 + 4) piercing damage.
 
@@ -15159,7 +15194,7 @@ At will: *detect magic*, *fireball*
 
 *Trampling Charge.* If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone.  If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
 
-#### **Actions**
+**Actions**
 
 *Gore. Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 24 (4d8 + 6) piercing damage.
 
@@ -15187,7 +15222,7 @@ At will: *detect magic*, *fireball*
 
 **Challenge** 8 (3,900 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.
 
@@ -15195,7 +15230,7 @@ At will: *detect magic*, *fireball*
 
 *Tail. Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 20 (3d8 + 7) bludgeoning damage.
 
-#### **Doppelganger**
+### **Doppelganger**
 
 *Medium monstrosity (shapechanger), neutral*
 
@@ -15217,7 +15252,7 @@ At will: *detect magic*, *fireball*
 
 *Surprise Attack.* If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The doppelganger makes two melee attacks.
 
@@ -15225,15 +15260,15 @@ At will: *detect magic*, *fireball*
 
 *Read Thoughts.* The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
 
-## **Dragons, Chromatic**
+### **Dragons, Chromatic**
 
-## **Black Dragon**
+#### **Black Dragon**
 
-#### **Ancient Black Dragon**
+##### **Ancient Black Dragon**
 
 *Gargantuan dragon, chaotic evil* **Armor Class** 22 (natural armor) **Hit Points** 367 (21d20 + 147) **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-## **STR DEX CON INT WIS CHA** 27 (+8) 14 (+2) 25 (+7) 16 (+3) 15 (+2) 19 (+4)
+**STR DEX CON INT WIS CHA** 27 (+8) 14 (+2) 25 (+7) 16 (+3) 15 (+2) 19 (+4)
 
 **Saving Throws** Dex +9, Con +14, Wis +9, Cha +11
 
@@ -15249,7 +15284,7 @@ At will: *detect magic*, *fireball*
 
 *Amphibious.* The dragon can breathe air and water. *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -15263,7 +15298,7 @@ At will: *detect magic*, *fireball*
 
 *Acid Breath (Recharge 5–6).* The dragon exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -15273,7 +15308,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-#### **Adult Black Dragon**
+##### **Adult Black Dragon**
 
 *Huge dragon, chaotic evil*
 
@@ -15301,7 +15336,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water. *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -15315,7 +15350,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Acid Breath (Recharge 5–6).* The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
 
-#### **Legendary Actions**
+*Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -15323,7 +15358,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Young Black Dragon**
+##### **Young Black Dragon**
 
 *Large dragon, chaotic evil*
 
@@ -15351,7 +15386,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -15361,7 +15396,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Acid Breath (Recharge 5–6).* The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
 
-#### **Black Dragon Wyrmling**
+##### **Black Dragon Wyrmling**
 
 *Medium dragon, chaotic evil*
 
@@ -15389,7 +15424,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 
@@ -15397,7 +15432,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 #### **Blue Dragon**
 
-#### **Ancient Blue Dragon**
+##### **Ancient Blue Dragon**
 
 *Gargantuan dragon, lawful evil*
 
@@ -15424,7 +15459,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -15438,7 +15473,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Lightning Breath (Recharge 5–6).* The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -15446,7 +15481,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Adult Blue Dragon**
+##### **Adult Blue Dragon**
 
 *Huge dragon, lawful evil*
 
@@ -15474,7 +15509,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -15488,7 +15523,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Lightning Breath (Recharge 5–6).* The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -15497,7 +15532,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Young Blue Dragon**
+##### **Young Blue Dragon**
 
 *Large dragon, lawful evil*
 
@@ -15521,7 +15556,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Languages** Common, Draconic **Challenge** 9 (5,000 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -15531,7 +15566,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Lightning Breath (Recharge 5–6).* The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-#### **Blue Dragon Wyrmling**
+##### **Blue Dragon Wyrmling**
 
 *Medium dragon, lawful evil*
 
@@ -15557,7 +15592,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 3 (700 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 
@@ -15565,7 +15600,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 #### **Green Dragon**
 
-#### **Ancient Green Dragon**
+##### **Ancient Green Dragon**
 
 *Gargantuan dragon, lawful evil*
 
@@ -15591,7 +15626,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water. *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -15605,7 +15640,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Poison Breath (Recharge 5–6).* The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -15613,7 +15648,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Tail Attack.** The dragon makes a tail attack.
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-#### **Adult Green Dragon**
+##### **Adult Green Dragon**
 
 *Huge dragon, lawful evil*
 
@@ -15645,7 +15680,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -15659,7 +15694,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Poison Breath (Recharge 5–6).* The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -15668,7 +15703,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Young Green Dragon**
+##### **Young Green Dragon**
 
 *Large dragon, lawful evil*
 
@@ -15684,7 +15719,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Damage Immunities** poison
 
-#### **Condition Immunities** poisoned
+**Condition Immunities** poisoned
 
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
 
@@ -15694,7 +15729,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -15704,7 +15739,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Poison Breath (Recharge 5–6).* The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
-#### **Green Dragon Wyrmling**
+##### **Green Dragon Wyrmling**
 
 *Medium dragon, lawful evil*
 
@@ -15732,7 +15767,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
 
@@ -15740,7 +15775,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 #### **Red Dragon**
 
-#### **Ancient Red Dragon**
+##### **Ancient Red Dragon**
 
 *Gargantuan dragon, chaotic evil*
 
@@ -15754,7 +15789,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** Perception +16, Stealth +7
 
-#### **Damage Immunities** fire
+**Damage Immunities** fire
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26 **Languages** Common, Draconic
 
@@ -15762,7 +15797,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -15776,7 +15811,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Fire Breath (Recharge 5–6).* The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -15784,7 +15819,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Adult Red Dragon**
+##### **Adult Red Dragon**
 
 *Huge dragon, chaotic evil*
 
@@ -15810,7 +15845,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -15824,7 +15859,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Fire Breath (Recharge 5–6).* The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -15832,7 +15867,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Young Red Dragon**
+##### **Young Red Dragon**
 
 *Large dragon, chaotic evil*
 
@@ -15858,7 +15893,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 10 (5,900 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -15868,7 +15903,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Fire Breath (Recharge 5–6).* The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
 
-#### **Red Dragon Wyrmling**
+##### **Red Dragon Wyrmling**
 
 *Medium dragon, chaotic evil*
 
@@ -15894,7 +15929,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 4 (1,100 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 
@@ -15902,7 +15937,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 #### **White Dragon**
 
-#### **Ancient White Dragon**
+##### **Ancient White Dragon**
 
 *Gargantuan dragon, chaotic evil*
 
@@ -15930,7 +15965,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -15944,7 +15979,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Cold Breath (Recharge 5–6).* The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -15954,7 +15989,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-#### **Adult White Dragon**
+##### **Adult White Dragon**
 
 *Huge dragon, chaotic evil*
 
@@ -15978,7 +16013,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -15992,7 +16027,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Cold Breath (Recharge 5–6).* The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -16000,7 +16035,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Young White Dragon**
+##### **Young White Dragon**
 
 *Large dragon, chaotic evil*
 
@@ -16028,7 +16063,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Ice Walk.* The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -16038,7 +16073,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Cold Breath (Recharge 5–6).* The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
 
-#### **White Dragon Wyrmling**
+##### **White Dragon Wyrmling**
 
 *Medium dragon, chaotic evil*
 
@@ -16062,17 +16097,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 2 (450 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
 
 *Cold Breath (Recharge 5–6).* The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
-## **Dragons, Metallic**
+### **Dragons, Metallic**
 
 #### **Brass Dragon**
 
-#### **Ancient Brass Dragon**
+##### **Ancient Brass Dragon**
 
 *Gargantuan dragon, chaotic good*
 
@@ -16090,14 +16125,14 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** History +9, Perception +14, Persuasion +10, Stealth +6
 
-#### **Damage Immunities** fire
+**Damage Immunities** fire
 
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
 **Languages** Common, Draconic **Challenge** 20 (25,000 XP)
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -16118,7 +16153,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -16126,7 +16161,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Adult Brass Dragon**
+##### **Adult Brass Dragon**
 
 *Huge dragon, chaotic good*
 
@@ -16144,7 +16179,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** History +7, Perception +11, Persuasion +8, Stealth +5
 
-#### **Damage Immunities** fire
+**Damage Immunities** fire
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
 
@@ -16154,7 +16189,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -16171,7 +16206,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Fire Breath.** The dragon exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6) fire damage on a failed save, or half as much damage on a successful one.
 - **Sleep Breath.** The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -16179,7 +16214,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Young Brass Dragon**
+##### **Young Brass Dragon**
 
 *Large dragon, chaotic good*
 
@@ -16205,7 +16240,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 6 (2,300 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -16218,7 +16253,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Fire Breath.** The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.
 - **Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-#### **Brass Dragon Wyrmling**
+##### **Brass Dragon Wyrmling**
 
 *Medium dragon, chaotic good*
 
@@ -16232,13 +16267,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** Perception +4, Stealth +2
 
-#### **Damage Immunities** fire
+**Damage Immunities** fire
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 
 **Languages** Draconic **Challenge** 1 (200 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage.
 
@@ -16249,7 +16284,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 #### **Bronze Dragon**
 
-#### **Ancient Bronze Dragon**
+##### **Ancient Bronze Dragon**
 
 *Gargantuan dragon, lawful good*
 
@@ -16277,7 +16312,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water. *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -16298,7 +16333,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action  option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -16306,7 +16341,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Tail Attack.** The dragon makes a tail attack.
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-#### **Adult Bronze Dragon**
+##### **Adult Bronze Dragon**
 
 *Huge dragon, lawful good*
 
@@ -16332,7 +16367,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water. *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -16353,7 +16388,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -16361,7 +16396,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Young Bronze Dragon**
+##### **Young Bronze Dragon**
 
 *Large dragon, lawful good*
 
@@ -16389,7 +16424,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -16402,7 +16437,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Lightning Breath.** The dragon exhales lightning in a 60 foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 - **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
 
-#### **Bronze Dragon Wyrmling**
+##### **Bronze Dragon Wyrmling**
 
 *Medium dragon, lawful good*
 
@@ -16412,7 +16447,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-#### **STR DEX CON INT WIS CHA** 17 (+3) 10 (+0) 15 (+2) 12 (+1) 11 (+0) 15 (+2)
+**STR DEX CON INT WIS CHA** 17 (+3) 10 (+0) 15 (+2) 12 (+1) 11 (+0) 15 (+2)
 
 **Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
 
@@ -16428,7 +16463,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage.
 
@@ -16439,7 +16474,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 #### **Copper Dragon**
 
-#### **Ancient Copper Dragon**
+##### **Ancient Copper Dragon**
 
 *Gargantuan dragon, chaotic good* **Armor Class** 21 (natural armor) **Hit Points** 350 (20d20 + 140) **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
@@ -16451,7 +16486,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** Deception +11, Perception +17, Stealth +8
 
-#### **Damage Immunities** acid
+**Damage Immunities** acid
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
 
@@ -16459,7 +16494,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -16480,7 +16515,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -16488,7 +16523,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Adult Copper Dragon**
+##### **Adult Copper Dragon**
 
 *Huge dragon, chaotic good*
 
@@ -16510,7 +16545,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -16527,7 +16562,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
 - **Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -16535,7 +16570,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Young Copper Dragon**
+##### **Young Copper Dragon**
 
 *Large dragon, chaotic good*
 
@@ -16553,7 +16588,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** Deception +5, Perception +7, Stealth +4
 
-#### **Damage Immunities** acid
+**Damage Immunities** acid
 
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
 
@@ -16561,7 +16596,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 7 (2,900 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -16573,7 +16608,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
 - **Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
-#### **Copper Dragon Wyrmling**
+##### **Copper Dragon Wyrmling**
 
 *Medium dragon, chaotic good*
 
@@ -16591,7 +16626,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** Perception +4, Stealth +3
 
-#### **Damage Immunities** acid
+**Damage Immunities** acid
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 
@@ -16599,7 +16634,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 1 (200 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage.
 
@@ -16608,9 +16643,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
 - **Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-### **Gold Dragon**
+#### **Gold Dragon**
 
-#### **Ancient Gold Dragon**
+##### **Ancient Gold Dragon**
 
 *Gargantuan dragon, lawful good*
 
@@ -16626,7 +16661,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
 
-#### **Damage Immunities** fire
+**Damage Immunities** fire
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
 
@@ -16636,7 +16671,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water. *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -16657,7 +16692,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -16665,7 +16700,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Adult Gold Dragon**
+##### **Adult Gold Dragon**
 
 *Huge dragon, lawful good*
 
@@ -16681,7 +16716,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
 
-#### **Damage Immunities** fire
+**Damage Immunities** fire
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
 
@@ -16693,7 +16728,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -16713,7 +16748,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -16721,7 +16756,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Young Gold Dragon**
+##### **Young Gold Dragon**
 
 *Large dragon, lawful good*
 
@@ -16737,7 +16772,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
 
-#### **Damage Immunities** fire
+**Damage Immunities** fire
 
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
 
@@ -16745,7 +16780,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -16758,7 +16793,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
 - **Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-#### **Gold Dragon Wyrmling**
+##### **Gold Dragon Wyrmling**
 
 *Medium dragon, lawful good*
 
@@ -16778,7 +16813,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10 + 4) piercing damage.
 
@@ -16789,7 +16824,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 #### **Silver Dragon**
 
-#### **Ancient Silver Dragon**
+##### **Ancient Silver Dragon**
 
 *Gargantuan dragon, lawful good*
 
@@ -16805,7 +16840,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** Arcana +11, History +11, Perception +16, Stealth +7
 
-#### **Damage Immunities** cold
+**Damage Immunities** cold
 
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
 
@@ -16815,7 +16850,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -16836,7 +16871,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -16844,7 +16879,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Adult Silver Dragon**
+##### **Adult Silver Dragon**
 
 *Huge dragon, lawful good*
 
@@ -16872,7 +16907,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Legendary Resistance (3/Day).* If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -16893,7 +16928,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -16902,7 +16937,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 - **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-#### **Young Silver Dragon**
+##### **Young Silver Dragon**
 
 *Large dragon, lawful good*
 
@@ -16920,7 +16955,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** Arcana +6, History +6, Perception +8, Stealth +4
 
-#### **Damage Immunities** cold
+**Damage Immunities** cold
 
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
 
@@ -16928,7 +16963,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 9 (5,000 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -16941,7 +16976,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Cold Breath.** The dragon exhales an icy blast in a 30 foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
 - **Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-#### **Silver Dragon Wyrmling**
+##### **Silver Dragon Wyrmling**
 
 *Medium dragon, lawful good*
 
@@ -16967,7 +17002,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 2 (450 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10 + 4) piercing damage.
 
@@ -16976,7 +17011,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Cold Breath.** The dragon exhales an icy blast in a 15 foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 - **Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-#### **Dragon Turtle**
+### **Dragon Turtle**
 
 *Gargantuan dragon, neutral*
 
@@ -17000,7 +17035,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Amphibious.* The dragon turtle can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
 
@@ -17046,7 +17081,7 @@ At will: *dancing lights*
 
 *Web Walker.* The drider ignores movement restrictions caused by webbing.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 
@@ -17088,7 +17123,7 @@ At will: *druidcraft*
 
 *Tree Stride.* Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
-#### **Actions**
+**Actions**
 
 *Club. Melee Weapon Attack:* +2 to hit (+6 to hit with *shillelagh*), reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with *shillelagh*.
 
@@ -17116,7 +17151,7 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 *Sunlight Sensitivity.* While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-#### **Actions**
+**Actions**
 
 *Enlarge (Recharges after a Short or Long Rest).* For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 
@@ -17128,9 +17163,9 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 ## **Monsters (E)**
 
-## **Elementals**
+### **Elementals**
 
-**Air Elemental**
+#### **Air Elemental**
 
 *Large elemental, neutral*
 
@@ -17153,7 +17188,7 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 *Air Form.* The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The elemental makes two slam attacks.
 
@@ -17193,7 +17228,7 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 
 *Siege Monster.* The elemental deals double damage to objects and structures.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The elemental makes two slam attacks.
 
@@ -17231,7 +17266,7 @@ takes an action to douse the fire, the creature takes 5 (1d10) fire damage at th
 
 *Water Susceptibility.* For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The elemental makes two touch attacks.
 
@@ -17267,7 +17302,7 @@ takes an action to douse the fire, the creature takes 5 (1d10) fire damage at th
 
 *Freeze.* If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The elemental makes two slam attacks.
 
@@ -17277,7 +17312,7 @@ takes an action to douse the fire, the creature takes 5 (1d10) fire damage at th
 
 The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
 
-#### **Elf, Drow**
+### **Elf, Drow**
 
 *Medium humanoid (elf), neutral evil*
 
@@ -17305,13 +17340,13 @@ At will: *dancing lights*
 
 *Sunlight Sensitivity.* While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-#### **Actions**
+**Actions**
 
 *Shortsword. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
 *Hand Crossbow. Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing  damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 
-#### **Ettercap**
+### **Ettercap**
 
 *Medium monstrosity, neutral evil*
 
@@ -17339,7 +17374,7 @@ At will: *dancing lights*
 
 *Web Walker.* The ettercap ignores movement restrictions caused by webbing.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The ettercap makes two attacks: one with its bite and one with its claws.
 
@@ -17351,7 +17386,7 @@ At will: *dancing lights*
 
 also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 
-#### **Ettin**
+### **Ettin**
 
 *Large giant, chaotic evil*
 
@@ -17377,7 +17412,7 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 *Wakeful.* When one of the ettin's heads is asleep, its other head is awake.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The ettin makes two attacks: one with its battleaxe and one with its morningstar.
 
@@ -17387,17 +17422,17 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 ## **Monsters (F)**
 
-## **Fungi**
+### **Fungi**
 
 #### **Shrieker**
 
 *Medium plant, unaligned*
 
-#### **Armor Class** 5
+**Armor Class** 5
 
 **Hit Points** 13 (3d8)
 
-#### **Speed** 0 ft.
+*Speed** 0 ft.
 
 | STR    | DEX    | CON     | INT    | WIS    | CHA    |
 |--------|--------|---------|--------|--------|--------|
@@ -17411,7 +17446,7 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 *False Appearance.* While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
 
-#### **Reactions**
+**Reactions**
 
 *Shriek.* When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward.
 
@@ -17419,11 +17454,11 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 *Medium plant, unaligned*
 
-#### **Armor Class** 5
+**Armor Class** 5
 
 **Hit Points** 18 (4d8)
 
-#### **Speed** 5 ft.
+**Speed** 5 ft.
 
 | STR    | DEX    | CON     | INT    | WIS    | CHA    |
 |--------|--------|---------|--------|--------|--------|
@@ -17439,7 +17474,7 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 *False Appearance.* While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The fungus makes 1d4 Rotting Touch attacks.
 
@@ -17447,7 +17482,7 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 ## **Monsters (G)**
 
-#### **Gargoyle**
+### **Gargoyle**
 
 *Medium elemental, chaotic evil*
 
@@ -17475,7 +17510,7 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 *False Appearance.* While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The gargoyle makes two attacks: one with its bite and one with its claws.
 
@@ -17483,7 +17518,7 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 *Claws. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
 
-## **Genies**
+### **Genies**
 
 #### **Djinni**
 
@@ -17513,7 +17548,7 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 - 3/day each: *create food and water* (can create wine instead of water), *tongues*, *wind walk*
 - 1/day each: *conjure elemental* (air elemental only), *creation*, *gaseous form*, *invisibility*, *major image*, *plane shift*
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The djinni makes three scimitar attacks.
 
@@ -17556,7 +17591,7 @@ At will: *detect magic*
 3/day: *enlarge/reduce*, *tongues*
 
 - 1/day each: *conjure elemental* (fire elemental only), *gaseous form, invisibility*, *major image*, *plane shift*, *wall of fire*
-#### **Actions**
+**Actions**
 
 *Multiattack.* The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 
@@ -17564,7 +17599,7 @@ At will: *detect magic*
 
 *Hurl Flame. Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 17 (5d6) fire damage.
 
-#### **Ghost**
+### **Ghost**
 
 *Medium undead, any alignment*
 
@@ -17593,7 +17628,7 @@ At will: *detect magic*
 
 *Incorporeal Movement.* The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-#### **Actions**
+**Actions**
 
 *Withering Touch. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 17 (4d6 + 3) necrotic damage.
 
@@ -17607,7 +17642,7 @@ with a *greater restoration* spell, but only within 24 hours of it occurring.
 
 The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the *dispel evil and good* spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
 
-## **Ghouls**
+### **Ghouls**
 
 #### **Ghast**
 
@@ -17637,7 +17672,7 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 *Turning Defiance.* The ghast and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8 + 3) piercing damage.
 
@@ -17651,7 +17686,7 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 **Hit Points** 22 (5d8)
 
-#### **Speed** 30 ft.
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
 |---------|---------|---------|--------|---------|--------|--|
@@ -17667,13 +17702,13 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 **Challenge** 1 (200 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6 + 2) piercing damage.
 
 *Claws. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## **Giants**
+### **Giants**
 
 #### **Cloud Giant**
 
@@ -17701,7 +17736,7 @@ At will: *detect magic*, *fog cloud*, *light* 3/day each: *feather fall*, *fly*,
 
 1/day each: *control weather*, *gaseous form*
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The giant makes two morningstar attacks.
 
@@ -17723,7 +17758,7 @@ At will: *detect magic*, *fog cloud*, *light* 3/day each: *feather fall*, *fly*,
 
 **Saving Throws** Dex +3, Con +10, Cha +5 **Skills** Athletics +11, Perception +6 **Damage Immunities** fire **Senses** passive Perception 16 **Languages** Giant **Challenge** 9 (5,000 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The giant makes two greatsword attacks.
 
@@ -17751,7 +17786,7 @@ At will: *detect magic*, *fog cloud*, *light* 3/day each: *feather fall*, *fly*,
 
 **Challenge** 8 (3,900 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The giant makes two greataxe attacks.
 
@@ -17781,7 +17816,7 @@ At will: *detect magic*, *fog cloud*, *light* 3/day each: *feather fall*, *fly*,
 
 **Challenge** 5 (1,800 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The giant makes two greatclub attacks.
 
@@ -17805,7 +17840,7 @@ At will: *detect magic*, *fog cloud*, *light* 3/day each: *feather fall*, *fly*,
 
 *Stone Camouflage.* The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The giant makes two greatclub attacks. *Greatclub. Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 19 (3d8 + 6) bludgeoning damage.
 
@@ -17849,7 +17884,7 @@ At will: *detect magic*, *fog cloud*, *light* 3/day each: *feather fall*, *fly*,
 
 At will: *detect magic*, *feather fall*, *levitate*, *light* 3/day each: *control weather*, *water breathing*
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The giant makes two greatsword attacks.
 
@@ -17881,7 +17916,7 @@ At will: *detect magic*, *feather fall*, *levitate*, *light* 3/day each: *contro
 
 *Gibbering.* The mouther babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn within 20 feet of the mouther and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The gibbering mouther makes one bite attack and, if it can, uses its Blinding Spittle.
 
@@ -17905,7 +17940,7 @@ At will: *detect magic*, *feather fall*, *levitate*, *light* 3/day each: *contro
 
 *Rampage.* When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage.
 
@@ -17939,7 +17974,7 @@ At will: *nondetection* (self only)
 
 1/day each: *blindness/deafness*, *blur*, *disguise self*
 
-#### **Actions**
+**Actions**
 
 *War Pick. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
@@ -17965,13 +18000,13 @@ At will: *nondetection* (self only)
 
 *Nimble Escape.* The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
-#### **Actions**
+**Actions**
 
 *Scimitar. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
 
 *Shortbow. Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
-## **Golems**
+### **Golems**
 
 #### **Clay Golem**
 
@@ -18007,7 +18042,7 @@ At will: *nondetection* (self only)
 
 *Magic Weapons.* The golem's weapon attacks are magical.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The golem makes two slam attacks.
 
@@ -18049,7 +18084,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 *Magic Weapons.* The golem's weapon attacks are magical.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The golem makes two slam attacks.
 
@@ -18085,7 +18120,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 *Magic Weapons.* The golem's weapon attacks are magical.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The golem makes two melee attacks. *Slam. Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 20 (3d8 + 7) bludgeoning damage.
 
@@ -18117,7 +18152,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 *Magic Weapons.* The golem's weapon attacks are magical.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The golem makes two slam attacks.
 
@@ -18145,7 +18180,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 *Trampling Charge.* If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.
 
-#### **Actions**
+**Actions**
 
 *Gore. Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 18 (2d12 + 5) piercing damage.
 
@@ -18175,7 +18210,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 *Stone Camouflage.* The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.
 
@@ -18205,7 +18240,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 *Keen Sight.* The griffon has advantage on Wisdom (Perception) checks that rely on sight.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The griffon makes two attacks: one with its beak and one with its claws.
 
@@ -18245,9 +18280,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 *Spiked Bone Club. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 
-# **Monsters (H)**
+## **Monsters (H)**
 
-## **Hags**
+### **Hags**
 
 #### **Green Hag**
 
@@ -18279,7 +18314,7 @@ At will: *dancing lights*, *minor illusion*, *vicious mockery*
 
 *Mimicry.* The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 
-#### **Actions**
+**Actions**
 
 *Claws. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
 
@@ -18321,7 +18356,7 @@ At will: *detect magic*, *magic missile*
 
 *Magic Resistance.* The hag has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Claws (Hag Form Only). Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
 
@@ -18351,7 +18386,7 @@ form must make a DC 11 Wisdom saving throw. On a failed save, the creature is fr
 
 Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
 
-#### **Actions**
+**Actions**
 
 *Claws. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 
@@ -18361,7 +18396,7 @@ Unless the target is surprised or the revelation of the hag's true form is sudde
 
 The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
 
-## **Half-Dragon Template**
+### **Half-Dragon Template**
 
 A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its statistics, except as follows.
 
@@ -18409,7 +18444,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Skills** Athletics +5, Perception +2
 
-#### **Damage Resistances** fire
+**Damage Resistances** fire
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 12
 
@@ -18417,7 +18452,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Challenge** 5 (1,800 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 
@@ -18429,7 +18464,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 *Fire Breath (Recharge 5–6).* The veteran exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
 
-#### **Harpy**
+### **Harpy**
 
 *Medium monstrosity, chaotic evil*
 
@@ -18443,7 +18478,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 | Challenge 1	(200	XP)         |         |         |        |         |         |  |  |
 |                              |         |         |        |         |         |  |  |
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The harpy makes two attacks: one with its claws and one with its club.
 
@@ -18457,11 +18492,11 @@ While charmed by the harpy, a target is incapacitated and ignores the songs of o
 
 A target that successfully saves is immune to this harpy's song for the next 24 hours.
 
-#### **Hell Hound**
+### **Hell Hound**
 
 *Medium fiend, lawful evil* **Armor Class** 15 (natural armor) **Hit Points** 45 (7d8 + 14)
 
-#### **Speed** 50 ft.
+**Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
@@ -18479,13 +18514,13 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 *Pack Tactics.* The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.
 
 *Fire Breath (Recharge 5–6).* The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
 
-#### **Hippogriff**
+### **Hippogriff**
 
 *Large monstrosity, unaligned*
 
@@ -18509,7 +18544,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 *Keen Sight.* The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The hippogriff makes two attacks: one with its beak and one with its claws.
 
@@ -18517,7 +18552,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 *Claws. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 
-#### **Hobgoblin**
+### **Hobgoblin**
 
 *Medium humanoid (goblinoid), lawful evil*
 
@@ -18535,13 +18570,13 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 *Martial Advantage.* Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Longsword. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 
 *Longbow. Ranged Weapon Attack:* +3 to hit, range 150/600 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
 
-#### **Homunculus**
+### **Homunculus**
 
 *Tiny construct, neutral*
 
@@ -18565,11 +18600,11 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 *Telepathic Bond.* While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
 
-#### **Hydra**
+### **Hydra**
 
 *Huge monstrosity, unaligned*
 
@@ -18603,7 +18638,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 *Wakeful.* While the hydra sleeps, at least one of its heads is awake.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The hydra makes as many bite attacks as it has heads.
 
@@ -18615,7 +18650,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 *Medium elemental, neutral*
 
-#### **Armor Class** 14
+**Armor Class** 14
 
 **Hit Points** 104 (16d8 + 32)
 
@@ -18643,7 +18678,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 *Faultless Tracker.* The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The stalker makes two slam attacks.
 
@@ -18651,15 +18686,15 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ## **Monsters (K)**
 
-#### **Kobold**
+### **Kobold**
 
 *Small humanoid (kobold), lawful evil*
 
-#### **Armor Class** 12
+**Armor Class** 12
 
 **Hit Points** 5 (2d6 − 2)
 
-#### **Speed** 30 ft.
+**Speed** 30 ft.
 
 | STR    | DEX     | CON    | INT    | WIS    | CHA    |  |
 |--------|---------|--------|--------|--------|--------|--|
@@ -18675,7 +18710,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 *Pack Tactics.* The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Dagger. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
@@ -18713,7 +18748,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 *Siege Monster.* The kraken deals double damage to objects and structures.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 
@@ -18727,7 +18762,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 *Lightning Storm.* The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10)  lightning damage on a failed save, or half as much damage on a successful one.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The kraken can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The kraken regains spent legendary actions at the start of its turn.
 
@@ -18738,13 +18773,13 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 ## **Monsters (L)**
 
-#### **Lamia**
+### **Lamia**
 
 *Large monstrosity, chaotic evil*
 
 **Armor Class** 13 (natural armor) **Hit Points** 97 (13d10 + 26)
 
-#### **Speed** 30 ft.
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -18759,7 +18794,7 @@ At will: *disguise self* (any humanoid form), *major image*
 - 3/day each: *charm person*, *mirror image*, *scrying*, *suggestion*
 - 1/day: *geas*
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
 
@@ -18769,7 +18804,7 @@ At will: *disguise self* (any humanoid form), *major image*
 
 *Intoxicating Touch. Melee Spell Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
 
-#### **Lich**
+### **Lich**
 
 *Medium undead, any evil alignment*
 
@@ -18822,11 +18857,11 @@ Cantrips (at will): *mage hand*, *prestidigitation*, *ray of frost*
 
 *Turn Resistance.* The lich has advantage on saving throws against any effect that turns undead.
 
-#### **Actions**
+**Actions**
 
 *Paralyzing Touch. Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.
 
@@ -18838,7 +18873,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Disrupt Life (Costs 3 Actions).** Each non-undead creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
 
-#### **Lizardfolk**
+### **Lizardfolk**
 
 *Medium humanoid (lizardfolk), neutral*
 
@@ -18858,7 +18893,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 *Hold Breath.* The lizardfolk can hold its breath for 15 minutes.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The lizardfolk makes two melee attacks, each one with a different weapon.
 
@@ -18870,7 +18905,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 *Spiked Shield. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
-## **Lycanthropes**
+### **Lycanthropes**
 
 #### **Werebear**
 
@@ -18900,7 +18935,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 *Keen Smell.* The werebear has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
 
@@ -18926,7 +18961,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 |---------|---------|---------|---------|---------|--------|--|
 | 17	(+3) | 10	(+0) | 15	(+2) | 10	(+0) | 11	(+0) | 8	(−1) |  |
 
-#### **Skills** Perception +2
+**Skills** Perception +2
 
 **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons **Senses** passive Perception 12
 
@@ -18938,7 +18973,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 *Relentless (Recharges after a Short or Long Rest).* If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-#### **Actions**
+**Actions**
 
 *Multiattack (Humanoid or Hybrid Form Only).* The wereboar makes two attacks, only one of which can be with its tusks.
 
@@ -18965,7 +19000,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 *Keen Smell.* The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### **Actions**
+**Actions**
 
 *Multiattack (Humanoid or Hybrid Form Only).* The wererat makes two attacks, only one of which can be a bite.
 
@@ -18979,7 +19014,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 *Medium humanoid (human, shapechanger), neutral*
 
-#### **Armor Class** 12
+**Armor Class** 12
 
 **Hit Points** 120 (16d8 + 48)
 
@@ -19003,7 +19038,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 *Pounce (Tiger or Hybrid Form Only).* If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone*.* If the target is prone, the weretiger can make one bite attack against it as a bonus action.
 
-#### **Actions**
+**Actions**
 
 *Multiattack (Humanoid or Hybrid Form Only).* In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
 
@@ -19043,7 +19078,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 *Keen Hearing and Smell.* The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-#### **Actions**
+**Actions**
 
 *Multiattack (Humanoid or Hybrid Form Only).* The werewolf makes two attacks: one with its bite and one with its claws or spear.
 
@@ -19055,11 +19090,11 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 ## **Monsters (M)**
 
-#### **Magmin**
+### **Magmin**
 
 *Small elemental, chaotic neutral* **Armor Class** 14 (natural armor) **Hit Points** 9 (2d6 + 2)
 
-#### **Speed** 30 ft.
+**Speed** 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA     |  |
 |--------|---------|---------|--------|---------|---------|--|
@@ -19079,11 +19114,11 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 *Ignited Illumination.* As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-#### **Actions**
+**Actions**
 
 *Touch. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns.
 
-#### **Manticore**
+### **Manticore**
 
 *Large monstrosity, lawful evil*
 
@@ -19097,7 +19132,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 *Tail Spike Regrowth.* The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
 
@@ -19107,7 +19142,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 *Tail Spike. Ranged Weapon Attack:* +5 to hit, range 100/200 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
 
-#### **Medusa**
+### **Medusa**
 
 *Medium monstrosity, lawful evil*
 
@@ -19137,7 +19172,7 @@ If the medusa sees itself reflected on a polished
 
 surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The medusa makes either three melee attacks—one with its snake hair and two with its shortsword—or two ranged attacks with its longbow.
 
@@ -19147,7 +19182,7 @@ surface within 30 feet of it and in an area of bright light, the medusa is, due 
 
 *Longbow. Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 
-## **Mephits**
+### **Mephits**
 
 #### **Dust Mephit**
 
@@ -19169,7 +19204,7 @@ surface within 30 feet of it and in an area of bright light, the medusa is, due 
 
 *Innate Spellcasting (1/Day).* The mephit can innately cast *sleep*, requiring no material components. Its innate spellcasting ability is Charisma.
 
-#### **Actions**
+**Actions**
 
 *Claws. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) slashing damage.
 
@@ -19200,7 +19235,7 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 *Innate Spellcasting (1/Day).* The mephit can innately cast *fog cloud*, requiring no material components. Its innate spellcasting ability is Charisma.
 
-#### **Actions**
+**Actions**
 
 *Claws. Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 
@@ -19228,7 +19263,7 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 *Innate Spellcasting (1/Day).* The mephit can innately cast *heat metal* (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
 
-#### **Actions**
+**Actions**
 
 *Claws. Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 
@@ -19262,13 +19297,13 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 *Innate Spellcasting (1/Day).* The mephit can innately cast *blur*, requiring no material components. Its innate spellcasting ability is Charisma.
 
-#### **Actions**
+**Actions**
 
 *Claws. Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 
 *Steam Breath (Recharge 6).* The mephit exhales a 15 foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
 
-#### **Merfolk**
+### **Merfolk**
 
 *Medium humanoid (merfolk), neutral*
 
@@ -19288,11 +19323,11 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 *Amphibious.* The merfolk can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Spear. Melee or Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 
-#### **Merrow**
+### **Merrow**
 
 *Large monstrosity, chaotic evil*
 
@@ -19314,7 +19349,7 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 *Amphibious.* The merrow can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The merrow makes two attacks: one with its bite and one with its claws or harpoon.
 
@@ -19324,7 +19359,7 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 *Harpoon. Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
 
-#### **Mimic**
+### **Mimic**
 
 *Medium monstrosity (shapechanger), neutral*
 
@@ -19358,13 +19393,13 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 *Grappler.* The mimic has advantage on attack rolls against any creature grappled by it.
 
-#### **Actions**
+**Actions**
 
 *Pseudopod. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 
-#### **Minotaur**
+### **Minotaur**
 
 *Large monstrosity, chaotic evil*
 
@@ -19394,13 +19429,13 @@ the same turn, the target takes an extra 9 (2d8) piercing damage. If the target 
 
 *Reckless.* At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-#### **Actions**
+**Actions**
 
 *Greataxe. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (2d12 + 4) slashing damage.
 
 *Gore. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage.
 
-## **Mummies**
+### **Mummies**
 
 #### **Mummy**
 
@@ -19432,7 +19467,7 @@ the same turn, the target takes an extra 9 (2d8) piercing damage. If the target 
 
 **Challenge** 3 (700 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
@@ -19490,7 +19525,7 @@ Cantrips (at will): *sacred flame*, *thaumaturgy*
 
 6th level (1 slot): *harm*
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
@@ -19498,7 +19533,7 @@ Cantrips (at will): *sacred flame*, *thaumaturgy*
 
 *Dreadful Glare.* The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The mummy lord regains spent legendary actions at the start of its turn.
 
@@ -19510,7 +19545,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 ## **Monsters (N)**
 
-## **Nagas**
+### **Nagas**
 
 #### **Guardian Naga**
 
@@ -19556,7 +19591,7 @@ Cantrips (at will): *mending*, *sacred flame*, *thaumaturgy*
 
 6th level (1 slot): *true seeing*
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +8 to hit, reach 10 ft., one creature. *Hit:* 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -19596,11 +19631,11 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 1st level (4 slots): *charm person*, *detect magic*, *sleep* 2nd level (3 slots): *detect thoughts*, *hold person* 3rd level (3 slots): *lightning bolt*, *water breathing* 4th level (3 slots): *blight*, *dimension door* 5th level (2 slots): *dominate person*
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 
-#### **Nightmare**
+### **Nightmare**
 
 *Large fiend, neutral evil*
 
@@ -19626,7 +19661,7 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 *Illumination.* The nightmare sheds bright light in a 10 foot radius and dim light for an additional 10 feet.
 
-#### **Actions**
+**Actions**
 
 *Hooves. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 
@@ -19634,7 +19669,7 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 ## **Monsters (O)**
 
-#### **Ogre**
+### **Ogre**
 
 *Large giant, chaotic evil* **Armor Class** 11 (hide armor) **Hit Points** 59 (7d10 + 21)
 
@@ -19646,13 +19681,13 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 **Senses** darkvision 60 ft., passive Perception 8 **Languages** Common, Giant **Challenge** 2 (450 XP)
 
-#### **Actions**
+**Actions**
 
 *Greatclub. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
 
 *Javelin. Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage.
 
-#### **Oni**
+### **Oni**
 
 *Large giant, lawful evil*
 
@@ -19682,7 +19717,7 @@ At will: *darkness*, *invisibility*
 
 *Regeneration.* The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The oni makes two attacks, either with its claws or its glaive.
 
@@ -19692,7 +19727,7 @@ At will: *darkness*, *invisibility*
 
 *Change Shape.* The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
 
-## **Oozes**
+### **Oozes**
 
 #### **Black Pudding**
 
@@ -19728,11 +19763,11 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
 *Spider Climb.* The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-#### **Actions**
+**Actions**
 
 *Pseudopod. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
-#### **Reactions**
+**Reactions**
 
 *Split.* When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
 
@@ -19754,7 +19789,7 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 
-#### **Languages** —
+**Languages** —
 
 **Challenge** 2 (450 XP)
 
@@ -19770,7 +19805,7 @@ The cube can hold only one Large creature or up to four Medium or smaller creatu
 
 *Transparent.* Even when the cube is in plain sight, it takes a successful DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube's space while unaware of the cube is surprised by the cube.
 
-#### **Actions**
+**Actions**
 
 *Pseudopod. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) acid damage.
 
@@ -19786,7 +19821,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 
 *Medium ooze, unaligned*
 
-#### **Armor Class** 8
+**Armor Class** 8
 
 **Hit Points** 22 (3d8 + 9) **Speed** 10 ft., climb 10 ft.
 
@@ -19794,7 +19829,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 |---------|--------|---------|--------|--------|--------|
 | 12	(+1) | 6	(−2) | 16	(+3) | 1	(−5) | 6	(−2) | 2	(−4) |
 
-#### **Skills** Stealth +2
+**Skills** Stealth +2
 
 **Damage Resistances** acid, cold, fire
 
@@ -19802,7 +19837,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 
-#### **Languages** —
+**Languages** —
 
 **Challenge** 1/2 (100 XP)
 
@@ -19814,7 +19849,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 *False Appearance.* While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
 
-#### **Actions**
+**Actions**
 
 *Pseudopod. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
@@ -19848,15 +19883,15 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 *Spider Climb.* The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-#### **Actions**
+**Actions**
 
 *Pseudopod. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 
-#### **Reactions**
+**Reactions**
 
 *Split.* When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
 
-#### **Orc**
+### **Orc**
 
 *Medium humanoid (orc), chaotic evil*
 
@@ -19880,13 +19915,13 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 *Aggressive.* As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
-#### **Actions**
+**Actions**
 
 *Greataxe. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12 + 3) slashing damage.
 
 *Javelin. Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
 
-#### **Otyugh**
+### **Otyugh**
 
 *Large aberration, neutral*
 
@@ -19908,7 +19943,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 *Limited Telepathy.* The otyugh can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The otyugh makes three attacks: one with its bite and two with its tentacles.
 
@@ -19918,7 +19953,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 *Tentacle Slam.* The otyugh slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and be stunned until the end of the otyugh's next turn. On a successful save, the target takes half the bludgeoning damage and isn't stunned.
 
-#### **Owlbear**
+### **Owlbear**
 
 *Large monstrosity, unaligned* **Armor Class** 13 (natural armor) **Hit Points** 59 (7d10 + 21)
 
@@ -19938,7 +19973,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 *Keen Sight and Smell.* The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The owlbear makes two attacks: one with its beak and one with its claws.
 
@@ -19968,11 +20003,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Challenge** 2 (450 XP)
 
-#### **Actions**
+**Actions**
 
 *Hooves. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
-#### **Pseudodragon**
+### **Pseudodragon**
 
 *Tiny dragon, neutral good*
 
@@ -20000,13 +20035,13 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 *Limited Telepathy.* The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
 *Sting. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
 
-#### **Purple Worm**
+### **Purple Worm**
 
 *Gargantuan monstrosity, unaligned*
 
@@ -20020,7 +20055,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 |---------|--------|---------|--------|--------|--------|
 | 28	(+9) | 7	(−2) | 22	(+6) | 1	(−5) | 8	(−1) | 4	(−3) |
 
-#### **Saving Throws** Con +11, Wis +4
+**Saving Throws** Con +11, Wis +4
 
 **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 9
 
@@ -20030,7 +20065,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 *Tunneler*. The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The worm makes two attacks: one with its bite and one with its stinger.
 
@@ -20042,7 +20077,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 ## **Monsters (R)**
 
-#### **Rakshasa**
+### **Rakshasa**
 
 *Medium fiend, lawful evil*
 
@@ -20071,13 +20106,13 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - 3/day each: *charm person*, *detect magic*, *invisibility*, *major image*, s*uggestion*
 - 1/day each: *dominate person*, *fly*, *plane shift*, *true seeing*
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The rakshasa makes two claw attacks.
 
 *Claw. Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a *remove curse* spell or similar magic.
 
-#### **Remorhaz**
+### **Remorhaz**
 
 *Huge monstrosity, unaligned*
 
@@ -20089,7 +20124,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 |---------|---------|---------|--------|---------|--------|--|
 | 24	(+7) | 13	(+1) | 21	(+5) | 4	(−3) | 10	(+0) | 5	(−3) |  |
 
-#### **Damage Immunities** cold, fire
+**Damage Immunities** cold, fire
 
 **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
 
@@ -20099,7 +20134,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 *Heated Body.* A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.
 
@@ -20107,7 +20142,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 
-#### **Roc**
+### **Roc**
 
 *Gargantuan monstrosity, unaligned*
 
@@ -20133,7 +20168,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 *Keen Sight.* The roc has advantage on Wisdom (Perception) checks that rely on sight.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The roc makes two attacks: one with its beak and one with its talons.
 
@@ -20141,7 +20176,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 *Talons. Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
 
-#### **Roper**
+### **Roper**
 
 *Large monstrosity, neutral evil*
 
@@ -20169,7 +20204,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 *Spider Climb.* The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.
 
@@ -20179,7 +20214,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 *Reel.* The roper pulls each creature grappled by it up to 25 feet straight toward it.
 
-#### **Rust Monster**
+### **Rust Monster**
 
 *Medium monstrosity, unaligned*
 
@@ -20203,7 +20238,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 *Rust Metal.* Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
 
@@ -20215,7 +20250,7 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 ## **Monsters (S)**
 
-#### **Sahuagin**
+### **Sahuagin**
 
 *Medium humanoid (sahuagin), lawful evil*
 
@@ -20239,7 +20274,7 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 *Shark Telepathy.* The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
 
@@ -20249,7 +20284,7 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 *Spear. Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
-#### **Salamander**
+### **Salamander**
 
 *Large elemental, neutral evil*
 
@@ -20257,7 +20292,7 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 **Hit Points** 90 (12d10 + 24)
 
-#### **Speed** 30 ft.
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -20279,7 +20314,7 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 *Heated Weapons.* Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The salamander makes two attacks: one with its spear and one with its tail.
 
@@ -20287,7 +20322,7 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 *Tail. Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
 
-#### **Satyr**
+### **Satyr**
 
 *Medium fey, chaotic neutral*
 
@@ -20301,7 +20336,7 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 *Magic Resistance.* The satyr has advantage on saving throws against spells and other magical effects.
 
-#### **Actions**
+**Actions**
 
 *Ram. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 1) bludgeoning damage.
 
@@ -20309,7 +20344,7 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 *Shortbow. Ranged Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
 
-#### **Shadow**
+### **Shadow**
 
 *Medium undead, chaotic evil*
 
@@ -20345,13 +20380,13 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 *Sunlight Weakness.* While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
 
-#### **Actions**
+**Actions**
 
 *Strength Drain. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 
 If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
 
-#### **Shambling Mound**
+### **Shambling Mound**
 
 *Large plant, unaligned*
 
@@ -20381,7 +20416,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 *Lightning Absorption*. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
 
@@ -20389,7 +20424,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 *Engulf.* The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must  succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
 
-#### **Shield Guardian**
+### **Shield Guardian**
 
 *Large construct, unaligned*
 
@@ -20419,17 +20454,17 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 *Spell Storing*. A spellcaster who wears the shield guardian's amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The guardian makes two fist attacks.
 
 *Fist. Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
-#### **Reactions**
+**Reactions**
 
 *Shield.* When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
 
-## **Skeletons**
+### **Skeletons**
 
 #### **Skeleton**
 
@@ -20457,7 +20492,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 **Challenge** 1/4 (50 XP)
 
-#### **Actions**
+**Actions**
 
 *Shortsword. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
@@ -20487,7 +20522,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 *Charge.* If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 
-#### **Actions**
+**Actions**
 
 *Greataxe. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (2d12 + 4) slashing damage. *Gore. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage.
 
@@ -20517,11 +20552,11 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 **Challenge** 1/2 (100 XP)
 
-#### **Actions**
+**Actions**
 
 *Hooves. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
-#### **Specter**
+### **Specter**
 
 *Medium undead, chaotic evil*
 
@@ -20547,11 +20582,11 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 *Sunlight Sensitivity.* While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-#### **Actions**
+**Actions**
 
 *Life Drain. Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-## **Sphinxes**
+### **Sphinxes**
 
 #### **Androsphinx**
 
@@ -20596,7 +20631,7 @@ Cantrips (at will): *sacred flame*, *spare the dying*, *thaumaturgy*
 
 5th level (2 slots): *flame strike*, *greater restoration* 6th level (1 slot): *heroes' feast*
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The sphinx makes two claw attacks.
 
@@ -20608,7 +20643,7 @@ Cantrips (at will): *sacred flame*, *spare the dying*, *thaumaturgy*
 - **Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 - **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
-#### **Legendary Actions**
+**Legendary Actions**
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 
@@ -20655,13 +20690,13 @@ Cantrips (at will): *mage hand*, *minor illusion*, *prestidigitation*
 
 1st level (4 slots): *detect magic*, *identify*, *shield* 2nd level (3 slots): *darkness*, *locate object*, *suggestion* 3rd level (3 slots): *dispel magic*, *remove curse*, *tongues* 4th level (3 slots): *banishment*, *greater invisibility* 5th level (1 slot): *legend lore*
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The sphinx makes two claw attacks.
 
 *Claw. Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 
@@ -20670,7 +20705,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 - **Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
-#### **Sprite**
+### **Sprite**
 
 *Tiny fey, neutral good*
 
@@ -20686,7 +20721,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Skills** Perception +3, Stealth +8 **Senses** passive Perception 13 **Languages** Common, Elvish, Sylvan **Challenge** 1/4 (50 XP)
 
-#### **Actions**
+**Actions**
 
 *Longsword. Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
 
@@ -20696,7 +20731,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 *Invisibility.* The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
 
-#### **Stirge**
+### **Stirge**
 
 *Tiny beast, unaligned*
 
@@ -20716,13 +20751,13 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 1/8 (25 XP)
 
-#### **Actions**
+**Actions**
 
 *Blood Drain. Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss.
 
 The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
 
-#### **Succubus/Incubus**
+### **Succubus/Incubus**
 
 *Medium fiend (shapechanger), neutral evil*
 
@@ -20746,7 +20781,7 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 
 *Shapechanger.* The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-#### **Actions**
+**Actions**
 
 *Claw (Fiend Form Only). Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
 
@@ -20762,7 +20797,7 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damag
 
 ## **Monsters (T)**
 
-#### **Tarrasque**
+### **Tarrasque**
 
 *Gargantuan monstrosity (titan), unaligned*
 
@@ -20796,7 +20831,7 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damag
 
 *Siege Monster.* The tarrasque deals double damage to objects and structures.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.
 
@@ -20814,7 +20849,7 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damag
 
 If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of 
 
@@ -20826,7 +20861,7 @@ another creature's turn. The tarrasque regains spent legendary actions at the st
 
 **Chomp (Costs 2 Actions).** The tarrasque makes one bite attack or uses its Swallow.
 
-#### **Treant**
+### **Treant**
 
 *Huge plant, chaotic good*
 
@@ -20854,7 +20889,7 @@ another creature's turn. The tarrasque regains spent legendary actions at the st
 
 *Siege Monster.* The treant deals double damage to objects and structures.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The treant makes two slam attacks.
 
@@ -20864,7 +20899,7 @@ another creature's turn. The tarrasque regains spent legendary actions at the st
 
 *Animate Trees (1/Day).* The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
 
-#### **Troll**
+### **Troll**
 
 *Large giant, chaotic evil*
 
@@ -20886,7 +20921,7 @@ another creature's turn. The tarrasque regains spent legendary actions at the st
 
 *Regeneration.* The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The troll makes three attacks: one with its bite and two with its claws.
 
@@ -20896,7 +20931,7 @@ another creature's turn. The tarrasque regains spent legendary actions at the st
 
 ## **Monsters (U)**
 
-#### **Unicorn**
+### **Unicorn**
 
 *Large celestial, lawful good*
 
@@ -20910,7 +20945,7 @@ another creature's turn. The tarrasque regains spent legendary actions at the st
 |---------|---------|---------|---------|---------|---------|
 | 18	(+4) | 14	(+2) | 15	(+2) | 11	(+0) | 17	(+3) | 16	(+3) |
 
-#### **Damage Immunities** poison
+**Damage Immunities** poison
 
 **Condition Immunities** charmed, paralyzed, poisoned **Senses** darkvision 60 ft., passive Perception 13
 
@@ -20927,7 +20962,7 @@ another creature's turn. The tarrasque regains spent legendary actions at the st
 
 *Magic Weapons.* The unicorn's weapon attacks are magical.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The unicorn makes two attacks: one with its hooves and one with its horn.
 
@@ -20939,7 +20974,7 @@ another creature's turn. The tarrasque regains spent legendary actions at the st
 
 *Teleport (1/Day).* The unicorn magically teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
 
-#### **Legendary Actions**
+**Legendary Actions**
 
 The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn.
 
@@ -20950,7 +20985,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 ## **Monsters (V)**
 
-## **Vampires**
+### **Vampires**
 
 #### **Vampire**
 
@@ -21004,7 +21039,7 @@ While it has 0 hit points in mist form, it can't revert to its vampire form, and
 
 *Sunlight Hypersensitivity.* The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-#### **Actions**
+**Actions**
 
 *Multiattack (Vampire Form Only).* The vampire makes two attacks, only one of which can be a bite attack.
 
@@ -21034,7 +21069,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 **Hit Points** 82 (11d8 + 33)
 
-#### **Speed** 30 ft.
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -21066,7 +21101,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 *Sunlight Hypersensitivity.* The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The vampire makes two attacks, only one of which can be a bite attack.
 
@@ -21076,7 +21111,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 ## **Monsters (W)**
 
-#### **Wight**
+### **Wight**
 
 *Medium undead, neutral evil*
 
@@ -21106,7 +21141,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 *Sunlight Sensitivity.* While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
 
@@ -21118,7 +21153,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 *Longbow. Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
-#### **Will-o'-Wisp**
+### **Will-o'-Wisp**
 
 *Tiny undead, chaotic evil*
 
@@ -21153,13 +21188,13 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 additional number of feet equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action.
 
-#### **Actions**
+**Actions**
 
 *Shock. Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d8) lightning damage.
 
 *Invisibility.* The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
 
-#### **Wraith**
+### **Wraith**
 
 *Medium undead, neutral evil*
 
@@ -21189,13 +21224,13 @@ additional number of feet equal to the chosen radius. The will-o'-wisp can alter
 
 *Sunlight Sensitivity.* While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-#### **Actions**
+**Actions**
 
 *Life Drain. Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 *Create Specter.* The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.
 
-#### **Wyvern**
+### **Wyvern**
 
 *Large dragon, unaligned*
 
@@ -21213,7 +21248,7 @@ additional number of feet equal to the chosen radius. The will-o'-wisp can alter
 
 **Challenge** 6 (2,300 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
 
@@ -21223,9 +21258,9 @@ additional number of feet equal to the chosen radius. The will-o'-wisp can alter
 
 *Stinger. Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 
-![](_page_355_Picture_14.jpeg)
+## **Monsters (X)**
 
-#### **Xorn**
+### **Xorn**
 
 *Medium elemental, neutral*
 
@@ -21251,7 +21286,7 @@ additional number of feet equal to the chosen radius. The will-o'-wisp can alter
 
 *Treasure Sense.* The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The xorn makes three claw attacks and one bite attack.
 
@@ -21263,7 +21298,7 @@ additional number of feet equal to the chosen radius. The will-o'-wisp can alter
 
 ## **Zombies**
 
-#### **Zombie**
+### **Zombie**
 
 *Medium undead, neutral evil*
 
@@ -21289,11 +21324,11 @@ additional number of feet equal to the chosen radius. The will-o'-wisp can alter
 
 *Undead Fortitude.* If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-#### **Actions**
+**Actions**
 
 *Slam. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage.
 
-#### **Ogre Zombie**
+## **Ogre Zombie**
 
 *Large undead, neutral evil*
 
@@ -21317,7 +21352,7 @@ additional number of feet equal to the chosen radius. The will-o'-wisp can alter
 
 *Undead Fortitude.* If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-#### **Actions**
+**Actions**
 
 *Morningstar. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
 
@@ -21344,19 +21379,18 @@ The following definitions specify what happens to a creature while it is subject
 ## **Deafened**
 
 - A deafened creature can't hear and automatically fails any ability check that requires hearing.
-#### **Exhaustion**
+## **Exhaustion**
 
 Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
 
-#### **Level Effect**
+### **Level Effect**
 
 - 1 Disadvantage on ability checks
 - 2 Speed halved
 - 3 Disadvantage on attack rolls and saving throws
 - 4 Hit point maximum halved
 - 5 Speed reduced to 0
-
-#### 6 Death
+- 6 Death
 
 If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.
 
@@ -21392,7 +21426,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 - Attack rolls against the creature have advantage.
 
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
-#### **Petrified**
+## **Petrified**
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 - The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
@@ -21401,10 +21435,10 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 - The creature has resistance to all damage.
 - The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
-#### **Poisoned**
+## **Poisoned**
 
 - A poisoned creature has disadvantage on attack rolls and ability checks.
-#### **Prone**
+## **Prone**
 
 - A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
 - The creature has disadvantage on attack rolls.
@@ -21434,29 +21468,29 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 The Celtic, Egyptian, Greek, and Norse pantheons are fantasy interpretations of historical religions from our world's ancient times. They include deities that are most appropriate for use in a game, divorced from their historical context in the real world and united into pantheons that serve the needs of the game.
 
-### **The Celtic Pantheon**
+## **The Celtic Pantheon**
 
 It's said that something wild lurks in the heart of every soul, a space that thrills to the sound of geese calling at night, to the whispering wind through the pines, to the unexpected red of mistletoe on an oak—and it is in this space that the Celtic gods dwell. They sprang from the brook and stream, their might heightened by the strength of the oak and the beauty of the woodlands and open moor. When the first forester dared put a name to the face seen in the bole of a tree or the voice babbling in a brook, these gods forced themselves into being.
 
 The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere. 
 
-#### **The Greek Pantheon**
+## **The Greek Pantheon**
 
 The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
 
-#### **The Egyptian Pantheon**
+## **The Egyptian Pantheon**
 
 These gods are a young dynasty of an ancient divine family, heirs to the rulership of the cosmos and the maintenance of the divine principle of Ma'at—the fundamental order of truth, justice, law, and order that puts gods, mortal pharaohs, and ordinary men and women in their logical and rightful place in the universe.
 
 The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning. 
 
-#### **The Norse Pantheon**
+## **The Norse Pantheon**
 
 Where the land plummets from the snowy hills into the icy fjords below, where the longboats draw up on to the beach, where the glaciers flow forward and retreat with every fall and spring—this is the land of the Vikings, the home of the Norse pantheon. It's a brutal clime, and one that calls for brutal living. The warriors of the land have had to adapt to the harsh conditions in order to survive, but they haven't been too twisted by the needs of their environment. Given the necessity of raiding for food and wealth, it's surprising the mortals turned out as well as they did. Their powers reflect the need these warriors had for strong leadership and decisive action. Thus, they see their deities in every bend of a river, hear them in the crash of the thunder and the booming of the glaciers, and smell them in the smoke of a burning longhouse.
 
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
 
-### **Celtic Deities**
+## **Celtic Deities**
 
 | Deity                                             | Alignment | Suggested	Domains | Symbol                             |
 |---------------------------------------------------|-----------|-------------------|------------------------------------|
@@ -21477,7 +21511,7 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 | Oghma,	god	of	speech	and	writing    | NG | Knowledge | Unfurled	scroll                 |
 | Silvanus,	god	of	nature	and	forests | N  | Nature    | Summer	oak	tree                 |
 
-### **Greek Deities**
+## **Greek Deities**
 
 | Deity                                      | Alignment | Suggested	Domains      | Symbol                                |
 |--------------------------------------------|-----------|------------------------|---------------------------------------|
@@ -21501,7 +21535,7 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 | Poseidon,	god	of	the	sea	and	earthquakes   | CN        | Tempest                | Trident                               |
 | Tyche,	goddess	of	good	fortune             | N         | Trickery               | Red	pentagram                         |
 
-#### **Egyptian Deities**
+## **Egyptian Deities**
 
 | Deity                                          | Alignment | Suggested	Domains        | Symbol                               |
 |------------------------------------------------|-----------|--------------------------|--------------------------------------|
@@ -21603,11 +21637,11 @@ Distance is a virtually meaningless concept on the Outer Planes. The perceptible
 
 The most well-known Outer Planes are a group of sixteen planes that correspond to the eight alignments (excluding neutrality) and the shades of distinction between them.
 
-#### **Outer Planes**
+### **Outer Planes**
 
 The planes with some element of good in their nature are called the **Upper Planes**. Celestial creatures such as angels and pegasi dwell in the Upper Planes. Planes with some element of evil are the **Lower Planes**. Fiends such as demons and devils dwell in the Lower Planes. A plane's alignment is its essence, and a character whose alignment doesn't match the plane's experiences a profound sense of dissonance there. When a good creature visits Elysium, for example (a neutral good Upper Plane), it feels in tune with the plane, but an evil creature feels out of tune and more than a little uncomfortable.
 
-#### **Demiplanes**
+## **Demiplanes**
 
 Demiplanes are small extradimensional spaces with their own unique rules. They are pieces of reality that don't seem to fit anywhere else. Demiplanes come into being by a variety of means. Some are created by spells, such as *demiplane,* or generated at the desire of a powerful deity or other force. They may exist naturally, as a fold of existing reality that 
 
@@ -21619,7 +21653,7 @@ has been pinched off from the rest of the multiverse, or as a baby universe grow
 
 This appendix contains statistics for various animals, vermin, and other critters. The stat blocks are organized alphabetically by creature name.
 
-#### **Ape**
+## **Ape**
 
 *Medium beast, unaligned*
 
@@ -21641,7 +21675,7 @@ This appendix contains statistics for various animals, vermin, and other critter
 
 **Challenge** 1/2 (100 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The ape makes two fist attacks.
 
@@ -21653,7 +21687,7 @@ This appendix contains statistics for various animals, vermin, and other critter
 
 *Small plant, unaligned*
 
-#### **Armor Class** 9
+**Armor Class** 9
 
 **Hit Points** 10 (3d6)
 
@@ -21673,7 +21707,7 @@ This appendix contains statistics for various animals, vermin, and other critter
 
 *False Appearance.* While the shrub remains motionless, it is indistinguishable from a normal shrub.
 
-#### **Actions**
+**Actions**
 
 *Rake. Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 − 1) slashing damage.
 
@@ -21703,13 +21737,13 @@ An **awakened shrub** is an ordinary shrub given sentience and mobility by the *
 
 *False Appearance.* While the tree remains motionless, it is indistinguishable from a normal tree.
 
-#### **Actions**
+**Actions**
 
 *Slam. Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14 (3d6 + 4) bludgeoning damage.
 
 An **awakened tree** is an ordinary tree given sentience and mobility by the *awaken* spell or similar magic.
 
-#### **Axe Beak**
+## **Axe Beak**
 
 *Large beast, unaligned*
 
@@ -21725,13 +21759,13 @@ An **awakened tree** is an ordinary tree given sentience and mobility by the *aw
 
 **Challenge** 1/4 (50 XP)
 
-#### **Actions**
+**Actions**
 
 *Beak. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage.
 
 An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
 
-#### **Baboon**
+## **Baboon**
 
 *Small beast, unaligned*
 
@@ -21753,11 +21787,11 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 *Pack Tactics.* The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 − 1) piercing damage.
 
-#### **Badger**
+## **Badger**
 
 *Tiny beast, unaligned*
 
@@ -21777,11 +21811,11 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 *Keen Smell.* The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-#### **Bat**
+## **Bat**
 
 *Tiny beast, unaligned*
 
@@ -21797,7 +21831,7 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Senses** blindsight 60 ft., passive Perception 11
 
-#### **Languages** —
+**Languages** —
 
 **Challenge** 0 (10 XP)
 
@@ -21805,11 +21839,11 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 *Keen Hearing.* The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage.
 
-#### **Black Bear**
+## **Black Bear**
 
 *Medium beast, unaligned*
 
@@ -21830,11 +21864,11 @@ Skills Perception	+3
 
 **Languages** —
 
-#### **Challenge** 1/2 (100 XP)
+**Challenge** 1/2 (100 XP)
 
 *Keen Smell.* The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The bear makes two attacks: one with its bite and one with its claws.
 
@@ -21842,7 +21876,7 @@ Skills Perception	+3
 
 *Claws. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
 
-#### **Blink Dog**
+## **Blink Dog**
 
 *Medium fey, lawful good*
 
@@ -21866,7 +21900,7 @@ Skills Perception	+3
 
 *Keen Hearing and Smell.* The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
 
@@ -21874,7 +21908,7 @@ Skills Perception	+3
 
 A **blink dog** takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm.
 
-#### **Blood Hawk**
+## **Blood Hawk**
 
 *Small beast, unaligned*
 
@@ -21895,13 +21929,13 @@ A **blink dog** takes its name from its ability to blink in and out of existence
 
 *Pack Tactics.* The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Beak. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
 Taking its name from its crimson feathers and aggressive nature, the **blood hawk** fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.
 
-#### **Boar**
+## **Boar**
 
 *Medium beast, unaligned*
 
@@ -21921,11 +21955,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 *Relentless (Recharges after a Short or Long Rest).* If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-#### **Actions**
+**Actions**
 
 *Tusk. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
 
-#### **Brown Bear**
+## **Brown Bear**
 
 *Large beast, unaligned*
 
@@ -21949,7 +21983,7 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 *Keen Smell.* The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The bear makes two attacks: one with its bite and one with its claws.
 
@@ -21957,13 +21991,15 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 *Claws. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
 
-#### **Camel**
+## **Camel**
 
 *Large beast, unaligned*
 
-#### **Armor Class** 9 **Hit Points** 15 (2d10 + 4)
+**Armor Class** 9
 
-#### **Speed** 50 ft.
+**Hit Points** 15 (2d10 + 4)
+
+**Speed** 50 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
 |---------|--------|---------|--------|--------|--------|
@@ -21975,11 +22011,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Challenge** 1/8 (25 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
 
-#### **Cat**
+## **Cat**
 
 *Tiny beast, unaligned*
 
@@ -21999,11 +22035,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 *Keen Smell.* The cat has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### **Actions**
+**Actions**
 
 *Claws. Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
 
-#### **Constrictor Snake**
+## **Constrictor Snake**
 
 *Large beast, unaligned*
 
@@ -22019,13 +22055,13 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Challenge** 1/4 (50 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage.
 
 *Constrict. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 
-#### **Crab**
+## **Crab**
 
 *Tiny beast, unaligned*
 
@@ -22049,11 +22085,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 *Amphibious.* The crab can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Claw. Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage.
 
-#### **Crocodile**
+## **Crocodile**
 
 *Large beast, unaligned*
 
@@ -22077,13 +22113,13 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 *Hold Breath.* The crocodile can hold its breath for 15 minutes.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (1d10 + 2) piercing damage, and the 
 
 target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
 
-#### **Death Dog**
+## **Death Dog**
 
 *Medium monstrosity, neutral evil*
 
@@ -22107,7 +22143,7 @@ target is grappled (escape DC 12). Until this grapple ends, the target is restra
 
 *Two-Headed.* The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The dog makes two bite attacks.
 
@@ -22115,13 +22151,13 @@ target is grappled (escape DC 12). Until this grapple ends, the target is restra
 
 A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate burns in a death dog's heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim's flesh to slowly rot off the bone.
 
-#### **Deer**
+## **Deer**
 
 *Medium beast, unaligned*
 
 **Armor Class** 13 **Hit Points** 4 (1d8)
 
-#### **Speed** 50 ft.
+**Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
@@ -22133,11 +22169,11 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Challenge** 0 (10 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) piercing damage.
 
-#### **Dire Wolf**
+**Dire Wolf**
 
 *Large beast, unaligned*
 
@@ -22163,11 +22199,11 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 *Pack Tactics.* The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-#### **Draft Horse**
+## **Draft Horse**
 
 *Large beast, unaligned* **Armor Class** 10 **Hit Points** 19 (3d10 + 3) **Speed** 40 ft.
 
@@ -22181,11 +22217,11 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Challenge** 1/4 (50 XP)
 
-#### **Actions**
+**Actions**
 
 *Hooves. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4 + 4) bludgeoning damage.
 
-#### **Eagle**
+## **Eagle**
 
 *Small beast, unaligned*
 
@@ -22209,11 +22245,11 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 *Keen Sight.* The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
-#### **Actions**
+**Actions**
 
 *Talons. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
 
-#### **Elephant**
+**Elephant**
 
 *Huge beast, unaligned*
 
@@ -22235,13 +22271,13 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 *Trampling Charge.* If the elephant moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.
 
-#### **Actions**
+**Actions**
 
 *Gore. Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 19 (3d8 + 6) piercing damage.
 
 *Stomp. Melee Weapon Attack:* +8 to hit, reach 5 ft., one prone creature. *Hit:* 22 (3d10 + 6) bludgeoning damage.
 
-#### **Elk**
+## **Elk**
 
 *Large beast, unaligned*
 
@@ -22261,13 +22297,13 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 *Charge.* If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-#### **Actions**
+**Actions**
 
 *Ram. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage.
 
 *Hooves. Melee Weapon Attack:* +5 to hit, reach 5 ft., one prone creature. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-#### **Flying Snake**
+## **Flying Snake**
 
 *Tiny beast, unaligned*
 
@@ -22279,19 +22315,19 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Senses** blindsight 10 ft., passive Perception 11
 
-#### **Languages** —
+**Languages** —
 
 **Challenge** 1/8 (25 XP)
 
 *Flyby.* The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage plus 7 (3d4) poison damage.
 
 A **flying snake** is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.
 
-#### **Frog**
+## **Frog**
 
 *Tiny beast, unaligned*
 
@@ -22313,7 +22349,7 @@ A **flying snake** is a brightly colored, winged serpent found in remote jungles
 
 A **frog** has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a **toad**.
 
-#### **Giant Ape**
+## **Giant Ape**
 
 *Huge beast, unaligned*
 
@@ -22335,7 +22371,7 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Challenge** 7 (2,900 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The ape makes two fist attacks.
 
@@ -22343,7 +22379,7 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 *Rock. Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (7d6 + 6) bludgeoning damage.
 
-#### **Giant Badger**
+## **Giant Badger**
 
 *Medium beast, unaligned*
 
@@ -22359,13 +22395,13 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Senses** darkvision 30 ft., passive Perception 11
 
-#### **Languages** —
+**Languages** —
 
 **Challenge** 1/4 (50 XP)
 
 *Keen Smell.* The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The badger makes two attacks: one with its bite and one with its claws.
 
@@ -22373,7 +22409,7 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 *Claws. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 1) slashing damage.
 
-#### **Giant Bat**
+## **Giant Bat**
 
 *Large beast, unaligned*
 
@@ -22391,11 +22427,11 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 *Keen Hearing.* The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage.
 
-#### **Giant Boar**
+## **Giant Boar**
 
 *Large beast, unaligned*
 
@@ -22419,11 +22455,11 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 *Relentless (Recharges after a Short or Long Rest).* If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-#### **Actions**
+**Actions**
 
 *Tusk. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 
-#### **Giant Centipede**
+## **Giant Centipede**
 
 *Small beast, unaligned*
 
@@ -22443,11 +22479,11 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Challenge** 1/4 (50 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-#### **Giant Constrictor Snake**
+## **Giant Constrictor Snake**
 
 *Huge beast, unaligned*
 
@@ -22469,7 +22505,7 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Challenge** 2 (450 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage.
 
@@ -22477,7 +22513,7 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 grapple ends, the creature is restrained, and the snake can't constrict another target.
 
-#### **Giant Crab**
+## **Giant Crab**
 
 *Medium beast, unaligned*
 
@@ -22497,11 +22533,11 @@ grapple ends, the creature is restrained, and the snake can't constrict another 
 
 *Amphibious.* The crab can breathe air and water.
 
-#### **Actions**
+**Actions**
 
 *Claw. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
 
-#### **Giant Crocodile**
+## **Giant Crocodile**
 
 *Huge beast, unaligned*
 
@@ -22519,7 +22555,7 @@ grapple ends, the creature is restrained, and the snake can't constrict another 
 
 *Hold Breath.* The crocodile can hold its breath for 30 minutes.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The crocodile makes two attacks: one with its bite and one with its tail.
 
@@ -22527,7 +22563,7 @@ grapple ends, the creature is restrained, and the snake can't constrict another 
 
 *Tail. Melee Weapon Attack:* +8 to hit, reach 10 ft., one target not grappled by the crocodile. *Hit:* 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 
-#### **Giant Eagle**
+**Giant Eagle**
 
 *Large beast, neutral good*
 
@@ -22551,7 +22587,7 @@ grapple ends, the creature is restrained, and the snake can't constrict another 
 
 *Keen Sight.* The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The eagle makes two attacks: one with its beak and one with its talons.
 
@@ -22561,7 +22597,7 @@ grapple ends, the creature is restrained, and the snake can't constrict another 
 
 A **giant eagle** is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles).
 
-#### **Giant Elk**
+## **Giant Elk**
 
 *Huge beast, unaligned*
 
@@ -22585,7 +22621,7 @@ A **giant eagle** is a noble creature that speaks its own language and understan
 
 *Charge.* If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
-#### **Actions**
+**Actions**
 
 *Ram. Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
@@ -22593,7 +22629,7 @@ A **giant eagle** is a noble creature that speaks its own language and understan
 
 The majestic **giant elk** is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.
 
-#### **Giant Fire Beetle**
+## **Giant Fire Beetle**
 
 *Small beast, unaligned*
 
@@ -22611,13 +22647,13 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 
 *Illumination.* The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6 − 1) slashing damage.
 
 A **giant fire beetle** is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
 
-#### **Giant Frog**
+## **Giant Frog**
 
 *Medium beast, unaligned*
 
@@ -22639,11 +22675,11 @@ A **giant fire beetle** is a nocturnal creature that takes its name from a pair 
 
 **Challenge** 1/4 (50 XP)
 
-#### *Amphibious.* The frog can breathe air and water.
+*Amphibious.* The frog can breathe air and water.
 
 *Standing Leap.* The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.
 
@@ -22651,7 +22687,7 @@ A **giant fire beetle** is a nocturnal creature that takes its name from a pair 
 
 If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5  feet of movement, exiting prone.
 
-#### **Giant Goat**
+## **Giant Goat**
 
 *Large beast, unaligned*
 
@@ -22675,11 +22711,11 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 
 *Sure-Footed.* The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-#### **Actions**
+**Actions**
 
 *Ram. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-#### **Giant Hyena**
+## **Giant Hyena**
 
 *Large beast, unaligned*
 
@@ -22705,11 +22741,11 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 
 take a bonus action to move up to half its speed and make a bite attack.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage.
 
-#### **Giant Lizard**
+## **Giant Lizard**
 
 *Large beast, unaligned*
 
@@ -22729,13 +22765,13 @@ take a bonus action to move up to half its speed and make a bite attack.
 
 **Challenge** 1/4 (50 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
 A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and others.
 
-#### **Giant Octopus**
+## **Giant Octopus**
 
 *Large beast, unaligned*
 
@@ -22759,13 +22795,13 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 *Water Breathing.* The octopus can breathe only underwater.
 
-#### **Actions**
+**Actions**
 
 *Tentacles. Melee Weapon Attack:* +5 to hit, reach 15 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target.
 
 *Ink Cloud (Recharges after a Short or Long Rest).* A 20 foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
-#### **Giant Owl**
+## **Giant Owl**
 
 *Large beast, neutral*
 
@@ -22791,17 +22827,17 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 *Keen Hearing and Sight.* The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-#### **Actions**
+**Actions**
 
 *Talons. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (2d6 + 1) slashing damage.
 
 **Giant owls** often befriend fey and other sylvan creatures and are guardians of their woodland realms.
 
-#### **Giant Poisonous Snake**
+## **Giant Poisonous Snake**
 
 *Medium beast, unaligned*
 
-#### **Armor Class** 14
+**Armor Class** 14
 
 **Hit Points** 11 (2d8 + 2)
 
@@ -22819,11 +22855,11 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 **Challenge** 1/4 (50 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
-#### **Giant Rat**
+**Giant Rat**
 
 *Small beast, unaligned*
 
@@ -22839,7 +22875,7 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 **Senses** darkvision 60 ft., passive Perception 10
 
-#### **Languages** —
+**Languages** —
 
 **Challenge** 1/8 (25 XP)
 
@@ -22847,17 +22883,17 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 *Pack Tactics.* The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
-#### **Variant: Diseased Giant Rats**
+**Variant: Diseased Giant Rats**
 
 Some giant rats carry vile diseases that they spread with their bites. A diseased giant rat has a challenge rating of 1/8 (25 XP) and the following action instead of its normal bite attack.
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can't regain hit points except by magical means, and the target's hit point maximum decreases by 3 (1d6) every 24 hours. If the target's hit point maximum drops to 0 as a result of this disease, the target dies.
 
-#### **Giant Scorpion**
+## **Giant Scorpion**
 
 *Large beast, unaligned*
 
@@ -22877,7 +22913,7 @@ Some giant rats carry vile diseases that they spread with their bites. A disease
 
 **Challenge** 3 (700 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The scorpion makes three attacks: two with its claws and one with its sting.
 
@@ -22885,7 +22921,7 @@ Some giant rats carry vile diseases that they spread with their bites. A disease
 
 *Sting. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
-#### **Giant Sea Horse**
+## **Giant Sea Horse**
 
 *Large beast, unaligned*
 
@@ -22905,13 +22941,13 @@ Some giant rats carry vile diseases that they spread with their bites. A disease
 
 *Water Breathing.* The sea horse can breathe only underwater.
 
-#### **Actions**
+**Actions**
 
 *Ram. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage.
 
 Like their smaller kin, **giant sea horses** are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.
 
-#### **Giant Shark**
+## **Giant Shark**
 
 *Huge beast, unaligned*
 
@@ -22937,13 +22973,13 @@ Like their smaller kin, **giant sea horses** are shy, colorful fish with elongat
 
 *Water Breathing.* The shark can breathe only underwater.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 22 (3d10 + 6) piercing damage.
 
 A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
 
-#### **Giant Spider**
+## **Giant Spider**
 
 *Large beast, unaligned*
 
@@ -22957,7 +22993,7 @@ A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fea
 |---------|---------|---------|--------|---------|--------|--|
 | 14	(+2) | 16	(+3) | 12	(+1) | 2	(−4) | 11	(+0) | 4	(−3) |  |
 
-#### **Skills** Stealth +7
+**Skills** Stealth +7
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
 
@@ -22971,7 +23007,7 @@ A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fea
 
 *Web Walker.* The spider ignores movement restrictions caused by webbing.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
@@ -22979,7 +23015,7 @@ A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fea
 
 To snare its prey, a **giant spider** spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.
 
-#### **Giant Toad**
+## **Giant Toad**
 
 *Large beast, unaligned*
 
@@ -23003,7 +23039,7 @@ To snare its prey, a **giant spider** spins elaborate webs or shoots sticky stra
 
 *Standing Leap.* The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.
 
@@ -23011,7 +23047,7 @@ To snare its prey, a **giant spider** spins elaborate webs or shoots sticky stra
 
 If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
-#### **Giant Vulture**
+## **Giant Vulture**
 
 *Large beast, neutral evil*
 
@@ -23033,7 +23069,7 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 *Pack Tactics.* The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The vulture makes two attacks: one with its beak and one with its talons.
 
@@ -23043,7 +23079,7 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
 
-#### **Giant Wasp**
+## **Giant Wasp**
 
 *Medium beast, unaligned*
 
@@ -23059,17 +23095,17 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 **Challenge** 1/2 (100 XP)
 
-#### **Actions**
+**Actions**
 
 *Sting. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, and the 
 
 target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-#### **Giant Weasel**
+## **Giant Weasel**
 
 *Medium beast, unaligned*
 
-#### **Armor Class** 13
+**Armor Class** 13
 
 **Hit Points** 9 (2d8)
 
@@ -23089,15 +23125,15 @@ target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damag
 
 *Keen Hearing and Smell.* The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
 
-#### **Giant Wolf Spider**
+## **Giant Wolf Spider**
 
 *Medium beast, unaligned*
 
-#### **Armor Class** 13
+**Armor Class** 13
 
 **Hit Points** 11 (2d8 + 2)
 
@@ -23121,13 +23157,13 @@ target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damag
 
 *Web Walker.* The spider ignores movement restrictions caused by webbing.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 Smaller than a giant spider, a **giant wolf spider** hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
 
-#### **Goat**
+## **Goat**
 
 *Medium beast, unaligned*
 
@@ -23149,11 +23185,11 @@ succeed on a DC 10 Strength saving throw or be knocked prone.
 
 *Sure-Footed.* The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-#### **Actions**
+**Actions**
 
 *Ram. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) bludgeoning damage.
 
-#### **Hawk**
+## **Hawk**
 
 *Tiny beast, unaligned*
 
@@ -23177,11 +23213,11 @@ succeed on a DC 10 Strength saving throw or be knocked prone.
 
 *Keen Sight.* The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
-#### **Actions**
+**Actions**
 
 *Talons. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
 
-#### **Hunter Shark**
+## **Hunter Shark**
 
 *Large beast, unaligned*
 
@@ -23207,13 +23243,13 @@ succeed on a DC 10 Strength saving throw or be knocked prone.
 
 *Water Breathing.* The shark can breathe only underwater.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage.
 
 Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter shark** haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
 
-#### **Hyena**
+## **Hyena**
 
 *Medium beast, unaligned*
 
@@ -23231,11 +23267,11 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 *Pack Tactics.* The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) piercing damage.
 
-#### **Jackal**
+**Jackal**
 
 *Small beast, unaligned*
 
@@ -23261,11 +23297,11 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 *Pack Tactics.* The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 – 1) piercing damage.
 
-#### **Killer Whale**
+## **Killer Whale**
 
 *Huge beast, unaligned*
 
@@ -23293,11 +23329,11 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 *Keen Hearing.* The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 21 (5d6 + 4) piercing damage.
 
-#### **Lion**
+## **Lion**
 
 *Large beast, unaligned*
 
@@ -23321,13 +23357,13 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 *Running Leap.* With a 10-foot running start, the lion can long jump up to 25 feet.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
 
 *Claw. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
 
-#### **Lizard**
+## **Lizard**
 
 *Tiny beast, unaligned*
 
@@ -23345,11 +23381,11 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 **Challenge** 0 (10 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-#### **Mammoth**
+## **Mammoth**
 
 *Huge beast, unaligned*
 
@@ -23369,7 +23405,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 *Trampling Charge.* If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
 
-#### **Actions**
+**Actions**
 
 *Gore. Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 25 (4d8 + 7) piercing damage.
 
@@ -23377,7 +23413,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.
 
-#### **Mastiff**
+## **Mastiff**
 
 *Medium beast, unaligned*
 
@@ -23393,13 +23429,13 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 *Keen Hearing and Smell.* The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 **Mastiffs** are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
 
-#### **Mule**
+## **Mule**
 
 *Medium beast, unaligned*
 
@@ -23423,11 +23459,11 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 *Sure-Footed.* The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-#### **Actions**
+**Actions**
 
 *Hooves. Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) bludgeoning damage.
 
-#### **Octopus**
+## **Octopus**
 
 *Small beast, unaligned*
 
@@ -23451,17 +23487,17 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 *Water Breathing.* The octopus can breathe only underwater.
 
-#### **Actions**
+**Actions**
 
 *Tentacles. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.
 
 *Ink Cloud (Recharges after a Short or Long Rest).* A 5 foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
-#### **Owl**
+## **Owl**
 
 *Tiny beast, unaligned*
 
-#### **Armor Class** 11
+**Armor Class** 11
 
 **Hit Points** 1 (1d4 − 1)
 
@@ -23475,7 +23511,7 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Senses** darkvision 120 ft., passive Perception 13
 
-#### **Languages** —
+**Languages** —
 
 **Challenge** 0 (10 XP)
 
@@ -23483,11 +23519,11 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 *Keen Hearing and Sight.* The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-#### **Actions**
+**Actions**
 
 *Talons. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
 
-#### **Panther**
+## **Panther**
 
 *Medium beast, unaligned*
 
@@ -23511,13 +23547,13 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 *Pounce.* If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
 *Claw. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
 
-#### **Phase Spider**
+## **Phase Spider**
 
 *Large monstrosity, unaligned*
 
@@ -23533,7 +23569,7 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Senses** darkvision 60 ft., passive Perception 10 **Languages** —
 
-#### **Challenge** 3 (700 XP)
+**Challenge** 3 (700 XP)
 
 *Ethereal Jaunt.* As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
 
@@ -23541,17 +23577,17 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 *Web Walker.* The spider ignores movement restrictions caused by webbing.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 A **phase spider** possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
 
-#### **Poisonous Snake**
+## **Poisonous Snake**
 
 *Tiny beast, unaligned*
 
-#### **Armor Class** 13
+**Armor Class** 13
 
 **Hit Points** 2 (1d4)
 
@@ -23563,15 +23599,15 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Senses** blindsight 10 ft., passive Perception 10
 
-#### **Languages** —
+**Languages** —
 
 **Challenge** 1/8 (25 XP)
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 
-#### **Polar Bear**
+## **Polar Bear**
 
 *Large beast, unaligned*
 
@@ -23589,7 +23625,7 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 *Keen Smell.* The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The bear makes two attacks: one with its bite and one with its claws.
 
@@ -23597,7 +23633,7 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 *Claws. Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 
-#### **Pony**
+## **Pony**
 
 *Medium beast, unaligned*
 
@@ -23617,11 +23653,11 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Challenge** 1/8 (25 XP)
 
-#### **Actions**
+**Actions**
 
 *Hooves. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) bludgeoning damage.
 
-#### **Quipper**
+## **Quipper**
 
 *Tiny beast, unaligned*
 
@@ -23645,13 +23681,13 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 *Water Breathing.* The quipper can breathe only underwater.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
 A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any aquatic environment, including cold subterranean lakes. They frequently gather in swarms; the statistics for a swarm of quippers appear later in this appendix.
 
-#### **Rat**
+**Rat**
 
 *Tiny beast, unaligned*
 
@@ -23673,11 +23709,11 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 *Keen Smell.* The rat has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-#### **Raven**
+## **Raven**
 
 *Tiny beast, unaligned*
 
@@ -23701,11 +23737,11 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 *Mimicry.* The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 
-#### **Actions**
+**Actions**
 
 *Beak. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-#### **Reef Shark**
+## **Reef Shark**
 
 *Medium beast, unaligned*
 
@@ -23729,13 +23765,13 @@ within 5 feet of the creature and the ally isn't incapacitated.
 
 *Water Breathing.* The shark can breathe only underwater.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
 Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long.
 
-#### **Rhinoceros**
+## **Rhinoceros**
 
 *Large beast, unaligned*
 
@@ -23757,19 +23793,19 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Charge.* If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
-#### **Actions**
+**Actions**
 
 *Gore. Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 
-#### **Riding Horse**
+## **Riding Horse**
 
 *Large beast, unaligned*
 
-## **Armor Class** 10
+**Armor Class** 10
 
 **Hit Points** 13 (2d10 + 2)
 
-#### **Speed** 60 ft.
+**Speed** 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
@@ -23777,11 +23813,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Senses** passive Perception 10 **Languages** — **Challenge** 1/4 (50 XP)
 
-#### **Actions**
+**Actions**
 
 *Hooves. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-#### **Saber-Toothed Tiger**
+## **Saber-Toothed Tiger**
 
 *Large beast, unaligned*
 
@@ -23801,13 +23837,13 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Pounce.* If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage.
 
 *Claw. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 
-#### **Scorpion**
+## **Scorpion**
 
 *Tiny beast, unaligned*
 
@@ -23825,11 +23861,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Challenge** 0 (10 XP)
 
-#### **Actions**
+**Actions**
 
 *Sting. Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 
-#### **Sea Horse**
+## **Sea Horse**
 
 *Tiny beast, unaligned*
 
@@ -23851,7 +23887,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Water Breathing.* The sea horse can breathe only underwater.
 
-#### **Spider**
+## **Spider**
 
 *Tiny beast, unaligned*
 
@@ -23871,7 +23907,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Senses** darkvision 30 ft., passive Perception 10
 
-#### **Languages** —
+**Languages** —
 
 **Challenge** 0 (10 XP)
 
@@ -23881,11 +23917,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Web Walker.* The spider ignores movement restrictions caused by webbing.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
 
-#### **Swarm of Bats**
+## **Swarm of Bats**
 
 *Medium swarm of Tiny beasts, unaligned*
 
@@ -23915,11 +23951,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Swarm.* The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
 
-#### **Actions**
+**Actions**
 
 *Bites. Melee Weapon Attack:* +4 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
-#### **Swarm of Insects**
+## **Swarm of Insects**
 
 *Medium swarm of Tiny beasts, unaligned*
 
@@ -23943,11 +23979,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Swarm.* The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 
-#### **Actions**
+**Actions**
 
 *Bites. Melee Weapon Attack:* +3 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-#### **Swarm of Poisonous Snakes**
+## **Swarm of Poisonous Snakes**
 
 *Medium swarm of Tiny beasts, unaligned*
 
@@ -23971,11 +24007,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Swarm.* The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
 
-#### **Actions**
+**Actions**
 
 *Bites. Melee Weapon Attack:* +6 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
-### **Swarm of Quippers**
+## **Swarm of Quippers**
 
 *Medium swarm of Tiny beasts, unaligned*
 
@@ -24005,11 +24041,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Water Breathing.* The swarm can breathe only underwater.
 
-#### **Actions**
+**Actions**
 
 *Bites. Melee Weapon Attack:* +5 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
-### **Swarm of Rats**
+## **Swarm of Rats**
 
 *Medium swarm of Tiny beasts, unaligned*
 
@@ -24033,11 +24069,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Swarm.* The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
 
-#### **Actions**
+**Actions**
 
 *Bites. Melee Weapon Attack:* +2 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
-#### **Swarm of Ravens**
+## **Swarm of Ravens**
 
 *Medium swarm of Tiny beasts, unaligned*
 
@@ -24063,19 +24099,19 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Swarm.* The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
 
-#### **Actions**
+**Actions**
 
 *Beaks. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
-#### **Variant: Insect Swarms**
+## **Variant: Insect Swarms**
 
 Different kinds of insects can gather in swarms, and each swarm has the special characteristics described below.
 
-*Swarm of Beetles.* A swarm of beetles gains a burrowing speed of 5 feet.
+### *Swarm of Beetles.* A swarm of beetles gains a burrowing speed of 5 feet.
 
-*Swarm of Centipedes.* A creature reduced to 0 hit points by a swarm of centipedes is stable but poisoned for 1 hour, even after regaining hit points, and paralyzed while poisoned in this way.
+### *Swarm of Centipedes.* A creature reduced to 0 hit points by a swarm of centipedes is stable but poisoned for 1 hour, even after regaining hit points, and paralyzed while poisoned in this way.
 
-*Swarm of Spiders.* A swarm of spiders has the following additional traits.
+### *Swarm of Spiders.* A swarm of spiders has the following additional traits.
 
 *Spider Climb.* The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -24083,9 +24119,9 @@ Different kinds of insects can gather in swarms, and each swarm has the special 
 
 *Web Walker.* The swarm ignores movement restrictions caused by webbing.
 
-*Swarm of Wasps.* A swarm of wasps has a walking speed of 5 feet, a flying speed of 30 feet, and no climbing speed.
+### *Swarm of Wasps.* A swarm of wasps has a walking speed of 5 feet, a flying speed of 30 feet, and no climbing speed.
 
-#### **Tiger**
+## **Tiger**
 
 *Large beast, unaligned*
 
@@ -24113,17 +24149,17 @@ Different kinds of insects can gather in swarms, and each swarm has the special 
 
 target is prone, the tiger can make one bite attack against it as a bonus action.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage.
 
 *Claw. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage.
 
-#### **Vulture**
+## **Vulture**
 
 *Medium beast, unaligned*
 
-#### **Armor Class** 10
+**Armor Class** 10
 
 **Hit Points** 5 (1d8 + 1)
 
@@ -24144,11 +24180,11 @@ target is prone, the tiger can make one bite attack against it as a bonus action
 
 *Pack Tactics.* The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Beak. Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) piercing damage.
 
-#### **Warhorse**
+## **Warhorse**
 
 *Large beast, unaligned*
 
@@ -24168,11 +24204,11 @@ target is prone, the tiger can make one bite attack against it as a bonus action
 
 *Trampling Charge.* If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
 
-#### **Actions**
+**Actions**
 
 *Hooves. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
-#### **Weasel**
+## **Weasel**
 
 *Tiny beast, unaligned*
 
@@ -24194,11 +24230,11 @@ target is prone, the tiger can make one bite attack against it as a bonus action
 
 *Keen Hearing and Smell.* The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-#### **Winter Wolf**
+## **Winter Wolf**
 
 *Large monstrosity, neutral evil*
 
@@ -24224,7 +24260,7 @@ target is prone, the tiger can make one bite attack against it as a bonus action
 
 *Snow Camouflage.* The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
@@ -24232,7 +24268,7 @@ target is prone, the tiger can make one bite attack against it as a bonus action
 
 The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves' deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
 
-#### **Wolf**
+## **Wolf**
 
 *Medium beast, unaligned*
 
@@ -24258,11 +24294,11 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 
 *Pack Tactics.* The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
-#### **Worg**
+## **Worg**
 
 *Large monstrosity, neutral evil*
 
@@ -24282,7 +24318,7 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 
 *Keen Hearing and Smell.* The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-#### **Actions**
+**Actions**
 
 *Bite. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
@@ -24310,11 +24346,11 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 *Medium humanoid (any race), any alignment*
 
-#### **Armor Class** 10
+**Armor Class** 10
 
 **Hit Points** 9 (2d8)
 
-#### **Speed** 30 ft.
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
 |---------|---------|---------|---------|---------|---------|--|
@@ -24330,13 +24366,13 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 Cantrips (at will): *light*, *sacred flame*, *thaumaturgy* 1st level (3 slots): *bless*, *cure wounds*, *sanctuary*
 
-#### **Actions**
+**Actions**
 
 *Club. Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
 
 **Acolytes** are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.
 
-#### **Archmage**
+## **Archmage**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24378,7 +24414,7 @@ Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shoc
 - 9th level (1 slot): *time stop*
 - **The archmage casts these spells on itself before combat.*
 
-#### **Actions**
+**Actions**
 
 *Dagger. Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
@@ -24386,7 +24422,7 @@ Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shoc
 
 An archmage typically has one or more apprentice mages, and an archmage's abode has numerous magical wards and guardians to discourage interlopers.
 
-### **Assassin**
+## **Assassin**
 
 *Medium humanoid (any race), any non-good alignment*
 
@@ -24400,7 +24436,7 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 |---------|---------|---------|---------|---------|---------|--|
 | 11	(+0) | 16	(+3) | 14	(+2) | 13	(+1) | 11	(+0) | 10	(+0) |  |
 
-#### **Saving Throws** Dex +6, Int +4
+**Saving Throws** Dex +6, Int +4
 
 **Skills** Acrobatics +6, Deception +3, Perception +3, Stealth +9
 
@@ -24418,7 +24454,7 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 
 *Sneak Attack.* Once per turn, the assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The assassin makes two shortsword attacks.
 
@@ -24428,7 +24464,7 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 
 Trained in the use of poison, **assassins** are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
 
-#### **Bandit**
+## **Bandit**
 
 *Medium humanoid (any race), any non-lawful alignment*
 
@@ -24446,7 +24482,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 **Languages** any one language (usually Common) **Challenge** 1/8 (25 XP)
 
-#### **Actions**
+**Actions**
 
 *Scimitar. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
 
@@ -24456,7 +24492,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 **Pirates** are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels.
 
-#### **Bandit Captain**
+## **Bandit Captain**
 
 *Medium humanoid (any race), any non-lawful alignment*
 
@@ -24478,7 +24514,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 **Challenge** 2 (450 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
 
@@ -24486,7 +24522,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 *Dagger. Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
 
-#### **Reactions**
+**Reactions**
 
 *Parry.* The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 
@@ -24496,7 +24532,7 @@ In addition to managing a crew of selfish malcontents, the **pirate captain** is
 
 More than treasure, a bandit captain or pirate captain craves infamy. A prisoner who appeals to the captain's vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain's colorful reputation.
 
-#### **Berserker**
+## **Berserker**
 
 *Medium humanoid (any race), any chaotic alignment*
 
@@ -24518,13 +24554,13 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 
 *Reckless.* At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-#### **Actions**
+**Actions**
 
 *Greataxe. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12 + 3) slashing damage.
 
 Hailing from uncivilized lands, unpredictable **berserkers** come together in war parties and seek conflict wherever they can find it.
 
-#### **Commoner**
+## **Commoner**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24532,7 +24568,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 **Hit Points** 4 (1d8)
 
-#### **Speed** 30 ft.
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -24542,13 +24578,13 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 **Languages** any one language (usually Common) **Challenge** 0 (10 XP)
 
-#### **Actions**
+**Actions**
 
 *Club. Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
 
 **Commoners** include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
-#### **Cultist**
+## **Cultist**
 
 *Medium humanoid (any race), any non-good alignment*
 
@@ -24570,13 +24606,13 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 *Dark Devotion.* The cultist has advantage on saving throws against being charmed or frightened.
 
-#### **Actions**
+**Actions**
 
 *Scimitar. Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6 + 1) slashing damage.
 
 **Cultists** swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil  acolytes, cultists often show signs of insanity in their beliefs and practices.
 
-#### **Cult Fanatic**
+**Cult Fanatic**
 
 *Medium humanoid (any race), any non-good alignment*
 
@@ -24608,7 +24644,7 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 
 2nd level (3 slots): *hold person*, *spiritual weapon*
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The fanatic makes two melee attacks.
 
@@ -24616,7 +24652,7 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 
 **Fanatics** are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.
 
-#### **Druid**
+## **Druid**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24640,13 +24676,13 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 2nd level (3 slots): *animal messenger*, *barkskin*
 
-#### **Actions**
+**Actions**
 
 *Quarterstaff. Melee Weapon Attack:* +2 to hit (+4 to hit with *shillelagh*), reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with *shillelagh*.
 
 **Druids** dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are **tribal shamans** who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
-#### **Gladiator**
+## **Gladiator**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24666,7 +24702,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 *Brute.* A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The gladiator makes three melee attacks or two ranged attacks.
 
@@ -24674,13 +24710,13 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 *Shield Bash. Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
-#### **Reactions**
+**Reactions**
 
 *Parry.* The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
 
 **Gladiators** battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
 
-#### **Guard**
+## **Guard**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24702,13 +24738,13 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 **Challenge** 1/8 (25 XP)
 
-#### **Actions**
+**Actions**
 
 *Spear. Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 +  1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 **Guards** include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
 
-#### **Knight**
+## **Knight**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24716,7 +24752,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 **Hit Points** 52 (8d8 + 16)
 
-#### **Speed** 30 ft.
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -24730,7 +24766,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 *Brave.* The knight has advantage on saving throws against being frightened.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The knight makes two melee attacks.
 
@@ -24740,7 +24776,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 *Leadership (Recharges after a Short or Long Rest).* For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
 
-#### **Reactions**
+**Reactions**
 
 *Parry.* The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
 
@@ -24748,7 +24784,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
 
-#### **Mage**
+## **Mage**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24777,13 +24813,13 @@ alignment determines the extent to which a pledge is honored. Whether undertakin
 
 5th level (1 slot): *cone of cold*
 
-#### **Actions**
+**Actions**
 
 *Dagger. Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
 **Mages** spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
 
-#### **Noble**
+## **Noble**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24791,7 +24827,7 @@ alignment determines the extent to which a pledge is honored. Whether undertakin
 
 **Hit Points** 9 (2d8)
 
-#### **Speed** 30 ft.
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -24799,11 +24835,11 @@ alignment determines the extent to which a pledge is honored. Whether undertakin
 
 **Skills** Deception +5, Insight +4, Persuasion +5 **Senses** passive Perception 12 **Languages** any two languages **Challenge** 1/8 (25 XP)
 
-#### **Actions**
+**Actions**
 
 *Rapier. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
 
-#### **Reactions**
+**Reactions**
 
 *Parry.* The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 
@@ -24811,7 +24847,7 @@ alignment determines the extent to which a pledge is honored. Whether undertakin
 
 The noble's statistics can also be used to represent **courtiers** who aren't of noble birth.
 
-#### **Priest**
+## **Priest**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24833,7 +24869,7 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 
 Cantrips (at will): *light*, *sacred flame*, *thaumaturgy* 1st level (4 slots): *cure wounds*, *guiding bolt*, *sanctuary* 2nd level (3 slots): *lesser restoration*, *spiritual weapon* 3rd level (2 slots): *dispel magic*, *spirit guardians*
 
-#### **Actions**
+**Actions**
 
 *Mace. Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage.
 
@@ -24841,7 +24877,7 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy* 1st level (4 slots): 
 
 A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties.
 
-#### **Scout**
+## **Scout**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24861,7 +24897,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 *Keen Hearing and Sight.* The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The scout makes two melee attacks or two ranged attacks.
 
@@ -24871,7 +24907,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 **Scouts** are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
 
-#### **Spy**
+## **Spy**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24897,7 +24933,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 *Sneak Attack (1/Turn).* The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The spy makes two melee attacks.
 
@@ -24907,7 +24943,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spies** to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.
 
-#### **Thug**
+## **Thug**
 
 *Medium humanoid (any race), any non-good alignment*
 
@@ -24929,7 +24965,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 *Pack Tactics.* The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The thug makes two melee attacks.
 
@@ -24939,7 +24975,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Thugs** are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 
-#### **Tribal Warrior**
+## **Tribal Warrior**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24959,13 +24995,13 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 *Pack Tactics.* The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### **Actions**
+**Actions**
 
 *Spear. Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 **Tribal warriors** live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
 
-#### **Veteran**
+## **Veteran**
 
 *Medium humanoid (any race), any alignment*
 
@@ -24987,7 +25023,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Challenge** 3 (700 XP)
 
-#### **Actions**
+**Actions**
 
 *Multiattack.* The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 
