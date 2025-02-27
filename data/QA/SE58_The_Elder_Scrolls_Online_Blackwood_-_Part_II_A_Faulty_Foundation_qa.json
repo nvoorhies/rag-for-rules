@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Can the level 5 class with constitution 19, the player character's cloak add a plus one bonus to hit with the magical attack of Venomous Claw?",
+    "answer": "Yes, this document indicates that the +1 AC bonus provided by magic cloak also affects the player's attack rolls with the spell Venomous Claw.",
+    "rules": [
+      "Armor > Armor Class (AC)"
+    ],
+    "rules_explanation": "This was clarified from the document which indicates that armor worn adds to the player's armor class."
+  },
+  {
+    "question": "Since the level 5 caster character has Backlash, make a DC 15 Constitution save.",
+    "answer": "This spell requires the target to make a DC 15 Constitution saving throw.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "This is because the original poster asked if they needed to roll against it and it was confirmed that in this case the target makes the save."
+  },
+  {
+    "question": "Aabria has a level 5 character and uses their shield to charge. How much stamina is expended from this bonus action with Shield Wall?",
+    "answer": "The stamina cost is not included in this document.",
+    "rules": [],
+    "rules_explanation": "It has been determined that there was no information provided in the source document to determine the answer to the question."
+  },
+  {
+    "question": "Does the check to get someone to do something give advantage if they are assisting?",
+    "answer": "With advantage because they are assisting.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "This rules provides to support for gaining advantage on a skill check if someone is assisting."
+  },
+  {
+    "question": "When Slaughter is webbed, what type of saving throw is made, and what is the DC?",
+    "answer": "They have to make a Dexterity DC 14 saving throw or get grappled.",
+    "rules": [],
+    "rules_explanation": "Determined by the type and level of the spell used. No roll available to decide the result. DM Fiat."
+  },
+  {
+    "question": "Can the level 5 character use the reaction to cast Bone Shield on themself?",
+    "answer": "There is no information about Bone Shield.",
+    "rules": [],
+    "rules_explanation": "There was no information provided in the source document to determine the answer to the question."
+  },
+  {
+    "question": "When using the healing mushrooms, do the characters get to roll for it?",
+    "answer": "Yes, they get to roll 1d4 for the healing.",
+    "rules": [],
+    "rules_explanation": "Determined by the DM's fiat for the nature of the spell."
+  },
+  {
+    "question": "Can the level 3 character with animal handling, use it to get their birds to shoo away the inspector?",
+    "answer": "Roll an animal handling check.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "This rule establishes that skill checks are required to perform tasks that require skill."
+  }
+]

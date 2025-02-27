@@ -1,0 +1,284 @@
+[
+  {
+    "question": "Can the Level 4 Dragonknight Orc character get advantage on a Performance check because the Redguard Templar is helping, given that she sees the Dragonknight Orc character holding a spoon, and she is also holding a spoon while the Dragonknight Orc character tries to float?",
+    "answer": "The Dungeon Master determines whether the level 4 Dragonknight Orc character gets advantage.",
+    "rules": [
+      "Ability Checks > Advantage and Disadvantage",
+      "Combat > Actions in Combat > Help"
+    ],
+    "rules_explanation": "The rules for 'Help' states that the Dungeon Master decides whether circumstances are appropriate for the Help action to grant advantage. In this case it is at the Dungeon Master's discretion whether or not the circumstances of the Redguard Templar also holding a spoon while the Dragonknight Orc character attempts a performance check with a spoon merit advantage."
+  },
+  {
+    "question": "After a Redguard Templar touched a forest and playing the part of her character asked to spread Juniper berries on the waiter due to his smell, is a performance check required by the Dungeon Master?",
+    "answer": "Yes, a performance check is appropriate in this situation.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master has called for an ability check to determine how well the Redguard Templar is doing at spreading Juniper berries on the waiter to try to mask his smell."
+  },
+  {
+    "question": "If a Redguard Templar gets a nine on a stealth check, is this a success?",
+    "answer": "The Dungeon Master determines if the Stealth check of 9 is a success.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master compares the result of the roll plus relevant modifiers to a Difficulty Class. The success of the Stealth check depends on this comparison."
+  },
+  {
+    "question": "If a level 4 Dragonknight Orc character assists the Redguard Templar on a Investigation check to see a person and rolls a natural 20, does that character have advantage?",
+    "answer": "No. There is no advantage on the roll.",
+    "rules": [
+      "Using Ability Scores > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "There is nothing in the rules that grants a character advantage on an Investigation check. If this applies, then only one d20 is rolled, not two."
+  },
+  {
+    "question": "Does a character who fails a saving throw take four points of damage, and those who save take two?",
+    "answer": "It depends on the spell and how it's worded.",
+    "rules": [
+      "Spellcasting > Saving Throws"
+    ],
+    "rules_explanation": "You are told the rules for the roll and its effects in the spells' descriptions."
+  },
+  {
+    "question": "If Mangla Mordrid (level unknown) places two massive trays in the hands of the Argonian Waiter (level unknown), does this character make a Dexterity check and what happens?",
+    "answer": "Yes, the Argonian waiter makes a Dexterity check and the results are determined by the Dungeon Master.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The Dungeon Master requires an ability check with a Difficulty Class to be determined by the Dungeon Master. The effects of success or failure are likewise up to the Dungeon Master to determine."
+  },
+  {
+    "question": "Can a level unknown character check for traps?",
+    "answer": "Yes, a character can check for traps",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "According to the SRD, the Dungeon Master can call for an ability check when a character attempts an action, and it is at their discretion which ability is appropriate."
+  },
+  {
+    "question": "If the Almer Warden does a poison check is it smell perception?",
+    "answer": "Yes, an Almer Warden can use their sense of smell in a check and that is smell perception",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "How a player describes the use of an ability for a check is acceptable as it has no bearing on the result. The Dungeon Master determines which ability is most appropriate for a given check."
+  },
+  {
+    "question": "If using a medicine check to find poison, is it disadvantage?",
+    "answer": "The Dungeon Master determines if a medicine check has disadvantage.",
+    "rules": [
+      "Using Ability Scores > Ability Checks > Advantage and Disadvantage"
+    ],
+    "rules_explanation": "There is no rules for when an ability check should have disadvantage, therefore the Dungeon Master makes the call."
+  },
+  {
+    "question": "If the player has done a check already, then the player and a dungeon master has given more information, do you roll a new check or keep going with old information?",
+    "answer": "Keep going with old information",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "There is no specific rule about this. If you are rolling an ability check, you would assume all information to be given before the dice are cast."
+  },
+  {
+    "question": "In this game world, the player of a Head Waiter and the hostess has been yelled at to listen before she opens the door, do you then take any check to get information?",
+    "answer": "The Dungeon Master determines if and what kind of check should be made to get information",
+    "rules": [
+      "Using Ability Scores > Skills"
+    ],
+    "rules_explanation": "There is no specific rule saying what ability to use for getting gossip, so the Dungeon Master decides which skill is most appropriate."
+  },
+  {
+    "question": "The waitress is spreading juniper berries on someone, and has already rolled a four, is there anything else that needs to be done?",
+    "answer": "The Dungeon Master determines if anything further is needed, but the basic skill check has been resolved.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "The success or failure of this action has already been determined by the rules, it is up to the Dungeon Master to decide what happens next in the story."
+  },
+  {
+    "question": "if a check rolls at 10, is it good?",
+    "answer": "The Dungeon Master determines if the ability check is a success. For a skill check, the player rolls a d20 and adds the relevant ability modifier and proficiency bonus if applicable. If the total is equal to or greater than the Difficulty Class, the ability check is a success.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "If the total is equal to or greater than the Difficulty Class, the ability check is a success. Otherwise, it's a failure."
+  },
+  {
+    "question": "If the Bard and party do not have weapons, does that force them into a strength or dexterity saving throw?",
+    "answer": "If the characters are without weapons, that does not automatically force a strength or dexterity saving throw.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A saving throw is required when an effect specifically calls for one."
+  },
+  {
+    "question": "What do you do if a rune is going to belch poison in your face if you tangle with it?",
+    "answer": "The text does not specify how to avoid this rune, so the Dungeon Master must determine this.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "As per Dungeon Master guidelines in the SRD: \"Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.\""
+  },
+  {
+    "question": "Can a redguard templar use their sword to attempt to ruin a Stüssy sign?",
+    "answer": "The Dungeon Master determines if the character can use their sword to attempt to ruin a Stüssy sign.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "It is up to the Dungeon Master to decide how they use their weapon and ability. If the Redguard Templar is proficient in it and makes an arcana check, they can be allowed to ruin the sign."
+  },
+  {
+    "question": "How much damage does being forced to takes eight points of poison damage?",
+    "answer": "A character that fails the saving throw takes eight points of poison damage.",
+    "rules": [
+      "Damage and Healing > Damage Rolls"
+    ],
+    "rules_explanation": "The rules state that, if the characters fail the saving throw, they take eight points of poison damage."
+  },
+  {
+    "question": "When a strength check, do you get advantage by holding onto it?",
+    "answer": "This effect is determined by the Dungeon Master",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "There are no rules for what does and does not grant advantage on an ability check. It is up to the Dungeon Master to determine when advantage or disadvantage applies."
+  },
+  {
+    "question": "If an attack can target more than one monster, does it get the higher ac?",
+    "answer": "The spell's description will indicate the result",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Not enough information is provided to answer. You would need to look at the spell description to see if it has any additional features, and how they apply to the characters."
+  },
+  {
+    "question": "How much does healing potion heal?",
+    "answer": "This detail is not defined in the SRD.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "The amount that the potion heals for is decided upon by the DM."
+  },
+  {
+    "question": "does number numbering the tables have any gameplay use?",
+    "answer": "No. The numbered tables have no gameplay use unless defined by the DM.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "If the tables were numbered for a game mechanic, there would be some information about what that mechanic is. There is no other information provided."
+  },
+  {
+    "question": "In the circumstances of this game, does that's a success or failure?",
+    "answer": "The Dungeon Master determines whether the roll plus modifiers is a success or failure.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "An ability check is tested by checking to the Difficulty Class. If the d20 plus the appropriate modifiers is greater than or equal to that value, then the ability check is a success. Otherwise, it is a failure."
+  },
+  {
+    "question": "If three people, are we all required to make a stealth roll?",
+    "answer": "Yes, if all characters are going to try to sneak, each must make a stealth roll.",
+    "rules": [
+      "Using Ability Scores > Ability Checks"
+    ],
+    "rules_explanation": "As each character wants to try to sneak, each must make a stealth check. There's is an option for working together, but that only allows one check to be made with advantage."
+  },
+  {
+    "question": "Does Mangla get to say if we get to that her?",
+    "answer": "No, the mechanics of a monster attack are determined by the Dungeon Master.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There is nothing that specifies a character can choose not to be attacked, nor is there a mechanic for a monster doing such a thing."
+  },
+  {
+    "question": "Mangla says she's the only waitress on staff, and Dulgan Groth, says that he wants to see Renix. Who covers all of this?",
+    "answer": "The DM determines who makes that cover.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "That is a plot point and DM-dependent and has no rules. This detail is in the players' control, it is up to the DM to resolve who covers where."
+  },
+  {
+    "question": "Do potions and temporary hitpoints stack and have two, so they all come together?",
+    "answer": "No, potions can't restore temporary hit points, and temporary hit points can't stack.",
+    "rules": [
+      "Damage and Healing > Healing",
+      "Damage and Healing > Temporary Hit Points"
+    ],
+    "rules_explanation": "The SRD says you are not restored to consciousness or stabilized if you have zero hit points, temporary hit points cannot be restored, but they can absorb damage while in that state."
+  },
+  {
+    "question": "If the door opens, and what's it",
+    "answer": "The Dungeon Master makes those calls.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "That is not defined in the rules."
+  },
+  {
+    "question": "If a character is under the effects of Frost Cloak, can they use a reaction or cold?",
+    "answer": "Yes, Frost Cloak grants an additional bonus to your Armor Class for 10 minutes and resistance to cold damage. Also if you are hit by melee attack, you do cold damage to them in return. You may still use a reaction.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "If there is something to say about this, I am all ears."
+  },
+  {
+    "question": "what did the dice that just happened mean if they said five and six on the dice with a two, can I choose",
+    "answer": "The question is unanswerable because it is out of context.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "There is no way to know which dice roll is being talked about, or what the effects of the different values are meant to be from just the information."
+  },
+  {
+    "question": "How does initiative work?",
+    "answer": "When combat starts, everyone involved makes a Dexterity check to determine their place in the initiative order. The DM ranks the combatants in order from the one with the highest Dexterity check total to the one with the lowest. This is the order (called the initiative order) in which they act during each round. The initiative order remains the same from round to round.",
+    "rules": [
+      "Combat > The Order of Combat > Initiative"
+    ],
+    "rules_explanation": "From the SRD, this is how initiative works."
+  },
+  {
+    "question": "If all those, does he get the benefits there with it or what?",
+    "answer": "The text provides no information for this game mechanic and has no basis in SRD rules.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Cannot answer the question because, the rules are not provided about game mechanics."
+  },
+  {
+    "question": "when Mangla appears with champagne, Is this poisoned?",
+    "answer": "A check for poison can be made, but whether or not the champagne is poisoned is for the Dungeon Master to decide.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "That is not defined in the rules."
+  },
+  {
+    "question": "Does mangla and wendla having one arm has to what is it",
+    "answer": "This is not enough information to determine what mechanical effect is being discussed.",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "This contains barely any information. If a monster or NPC has a particular trait and has lost a limb or is otherwise impaired, use your best judgment to decide how it affects their statistics."
+  },
+  {
+    "question": "Why is one or the other one?",
+    "answer": "That is not defined in the rules",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "Not enough information is provided to answer, I cannot tell what dice roll the people are even talking about."
+  },
+  {
+    "question": "Do you have a plus one to saving throws from our spider robes?",
+    "answer": "That is not defined in the rules",
+    "rules": [
+      ""
+    ],
+    "rules_explanation": "A DM should have that information about the magic item and decide if the plus 1 to saving throws can occur. There are no spider robes in the SRD, so it must be custom."
+  }
+]

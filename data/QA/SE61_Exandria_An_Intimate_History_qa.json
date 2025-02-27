@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Can the level 1 Dragonborn use breath weapon and then take another action?",
+    "answer": "No. The dragonborn's **Breath Weapon** requires the use of an action. You cannot take another action on the same turn.",
+    "rules": [
+      "Races > Dragonborn > Draconic Ancestry > Breath Weapon"
+    ],
+    "rules_explanation": "The Draconic Ancestry > Breath Weapon rule states that you can use an action to exhale destructive energy. Since it takes an action you cannot use it on the same turn as another action."
+  }
+]
