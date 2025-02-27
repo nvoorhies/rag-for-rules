@@ -1,9 +1,0 @@
-{
-  "section": "4",
-  "title": "**Swim**",
-  "explicit_references": [],
-  "implicit_dependencies": [],
-  "systems_affected": [],
-  "rule_text": "#### **Swim**\n\nA monster that has a swimming speed doesn't need to spend extra movement to swim.\n",
-  "rule_hierarchy": "**Monsters** > **Fly** > **Swim**"
-}

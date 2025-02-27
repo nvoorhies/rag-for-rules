@@ -1,9 +1,0 @@
-{
-  "section": "4",
-  "title": "**Purify Food and Drink**",
-  "explicit_references": [],
-  "implicit_dependencies": [],
-  "systems_affected": [],
-  "rule_text": "#### **Purify Food and Drink**\n\n*1st-level transmutation (ritual)*\n\n**Casting Time:** 1 action **Range:** 10 feet **Components:** V, S **Duration:** Instantaneous\n\nAll nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.\n",
-  "rule_hierarchy": "**Spellcasting** > **Programmed Illusion** > **Purify Food and Drink**"
-}

@@ -1,9 +1,0 @@
-{
-  "section": "4",
-  "title": "**Reincarnate**",
-  "explicit_references": [],
-  "implicit_dependencies": [],
-  "systems_affected": [],
-  "rule_text": "#### **Reincarnate**\n\n*5th-level transmutation*\n\n**Casting Time:** 1 hour **Range:** Touch **Components:** V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes) **Duration:** Instantaneous\n\nYou touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target's soul isn't free or willing to do so, the spell fails.\n\nThe magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The GM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the GM chooses a form.\n\n| d100  | Race                |\n|-------|---------------------|\n| 01–04 | Dragonborn          |\n| 05–13 | Dwarf,\thill         |\n| 14–21 | Dwarf,\tmountain     |\n| 22–25 | Elf,\tdark           |\n| 26–34 | Elf,\thigh           |\n| 35–42 | Elf,\twood           |\n| 43–46 | Gnome,\tforest       |\n| 47–52 | Gnome,\trock         |\n| 53–56 | Half-elf            |\n| 57–60 | Half-orc            |\n| 61–68 | Halfling,\tlightfoot |\n| 69–76 | Halfling,\tstout     |\n| 77–96 | Human               |\n| 97–00 | Tiefling            |\n\nThe reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.\n",
-  "rule_hierarchy": "**Spellcasting** > **Ray of Enfeeblement** > **Reincarnate**"
-}

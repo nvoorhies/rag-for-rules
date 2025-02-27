@@ -1,9 +1,0 @@
-{
-  "section": "4",
-  "title": "**Ring of Protection**",
-  "explicit_references": [],
-  "implicit_dependencies": [],
-  "systems_affected": [],
-  "rule_text": "#### **Ring of Protection**\n\n*Ring, rare (requires attunement)*\n\nYou gain a +1 bonus to AC and saving throws while wearing this ring.\n",
-  "rule_hierarchy": "**Magic Items** > **Ring of Mind Shielding** > **Ring of Protection**"
-}

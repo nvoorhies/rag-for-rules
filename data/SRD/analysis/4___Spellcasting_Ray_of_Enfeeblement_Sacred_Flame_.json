@@ -1,9 +1,0 @@
-{
-  "section": "4",
-  "title": "**Sacred Flame**",
-  "explicit_references": [],
-  "implicit_dependencies": [],
-  "systems_affected": [],
-  "rule_text": "#### **Sacred Flame**\n\n*Evocation cantrip*\n\n**Casting Time:** 1 action **Range:** 60 feet **Components:** V, S **Duration:** Instantaneous\n\nFlame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.\n\nThe spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).\n",
-  "rule_hierarchy": "**Spellcasting** > **Ray of Enfeeblement** > **Sacred Flame**"
-}

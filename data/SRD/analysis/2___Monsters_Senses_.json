@@ -1,9 +1,0 @@
-{
-  "section": "2",
-  "title": "**Senses**",
-  "explicit_references": [],
-  "implicit_dependencies": [],
-  "systems_affected": [],
-  "rule_text": "## **Senses**\n\nThe Senses entry notes a monster's passive Wisdom (Perception) score, as well as any special senses the monster might have. Special senses are described below.\n",
-  "rule_hierarchy": "**Monsters** > **Senses**"
-}
