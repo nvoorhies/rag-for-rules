@@ -8,210 +8,7 @@ import os
 class RuleGraphVisualizer:
     def __init__(self, processed_srd_path):
         """Initialize the visualizer with processed SRD data."""
-        # Add edges to the network
-        for source, target in subgraph.edges():
-            edge_data = subgraph.get_edge_data(source, target)
-            
-            # Determine edge label based on relationship type
-            edge_type = edge_data.get('type', '')
-            term = edge_data.get('term', '')
-            
-            if edge_type == 'REFERENCES':
-                label = 'references'
-            elif edge_type == 'USES_TERM':
-                label = f'uses "{term}"'
-            else:
-                label = edge_type.lower().replace('_', ' ')
-            
-            # Add edge to network
-            net.add_edge(source, target, label=label, arrows='to')
-        
-        # Set physics options for better layout
-        net.set_options('''
-        {
-          "physics": {
-            "forceAtlas2Based": {
-              "gravitationalConstant": -50,
-              "centralGravity": 0.01,
-              "springLength": 100,
-              "springConstant": 0.08
-            },
-            "solver": "forceAtlas2Based",
-            "stabilization": {
-              "enabled": true,
-              "iterations": 100
-            }
-          },
-          "edges": {
-            "smooth": {
-              "type": "continuous",
-              "forceDirection": "none"
-            }
-          },
-          "interaction": {
-            "navigationButtons": true,
-            "keyboard": true
-          }
-        }
-        ''')
-        
-        # Save the network
-        net.save_graph(output_path)
-        print(f"Query subgraph saved to {output_path}")
-    
-    def generate_dependency_tree(self, rule_id, max_depth=2, output_path="dependency_tree.html"):
-        """Generate a tree visualization of rule dependencies."""
-        # Find all rules that are prerequisites for understanding this rule
-        tree_nodes = {rule_id}
-        tree_edges = []
-        
-        # BFS to find prerequisite rules
-        queue = [(rule_id, 0)]  # (node, depth)
-        visited = {rule_id}
-        
-        while queue:
-            node, depth = queue.pop(0)
-            
-            if depth >= max_depth:
-                continue
-            
-            # Check all predecessor nodes
-            for pred in self.G.predecessors(node):
-                if pred not in visited:
-                    visited.add(pred)
-                    tree_nodes.add(pred)
-                    tree_edges.append((pred, node))
-                    queue.append((pred, depth + 1))
-            
-            # Also add successor nodes
-            for succ in self.G.successors(node):
-                if succ not in visited:
-                    visited.add(succ)
-                    tree_nodes.add(succ)
-                    tree_edges.append((node, succ))
-                    queue.append((succ, depth + 1))
-        
-        # Create a tree layout
-        net = Network(height="600px", width="100%", directed=True, notebook=False)
-        
-        # Define node colors by type
-        color_map = {
-            'CORE_RULE': '#FF5733',  # Red
-            'DERIVED_RULE': '#33FF57',  # Green
-            'EXCEPTION': '#3357FF',  # Blue
-            'DEFINITION': '#FFFF33',  # Yellow
-            'EXAMPLE': '#FF33FF',  # Magenta
-            'TABLE': '#33FFFF',  # Cyan
-            'UNKNOWN': '#AAAAAA'  # Grey
-        }
-        
-        # Add nodes to the network
-        for node_id in tree_nodes:
-            node_data = self.G.nodes[node_id]
-            
-            # Determine if this is the root rule
-            is_root = node_id == rule_id
-            
-            # Get rule text (truncated for tooltip)
-            rule = next((r for r in self.rules if r['id'] == node_id), None)
-            tooltip = rule['title'] if rule else node_data.get('label', '')
-            if rule and rule.get('text'):
-                tooltip += ": " + rule['text'][:100] + "..."
-            
-            # Determine node color based on type
-            node_type = node_data.get('type', 'UNKNOWN')
-            color = color_map.get(node_type, '#AAAAAA')
-            
-            # Make the root node larger
-            size = 20 if is_root else 10
-            
-            # Add node to network
-            net.add_node(
-                node_id, 
-                label=node_data.get('label', node_id),
-                title=tooltip,
-                color=color,
-                size=size,
-                borderWidth=3 if is_root else 1
-            )
-        
-        # Add edges to the network
-        for source, target in tree_edges:
-            # Get edge data from the original graph
-            edge_data = self.G.get_edge_data(source, target)
-            
-            # Determine edge label based on relationship type
-            edge_type = edge_data.get('type', '')
-            term = edge_data.get('term', '')
-            
-            if edge_type == 'REFERENCES':
-                label = 'references'
-            elif edge_type == 'USES_TERM':
-                label = f'uses "{term}"'
-            else:
-                label = edge_type.lower().replace('_', ' ')
-            
-            # Add edge to network
-            net.add_edge(source, target, label=label, arrows='to')
-        
-        # Use hierarchical layout for tree
-        net.set_options('''
-        {
-          "layout": {
-            "hierarchical": {
-              "enabled": true,
-              "direction": "UD",
-              "sortMethod": "directed",
-              "nodeSpacing": 150,
-              "levelSeparation": 150
-            }
-          },
-          "physics": {
-            "enabled": false
-          },
-          "interaction": {
-            "navigationButtons": true,
-            "keyboard": true
-          }
-        }
-        ''')
-        
-        # Save the network
-        net.save_graph(output_path)
-        print(f"Dependency tree saved to {output_path}")
-
-
-# Example usage
-if __name__ == "__main__":
-    import sys
-    
-    if len(sys.argv) < 2:
-        print("Usage: python rule_graph_visualizer.py <path_to_processed_srd.json> [output_directory]")
-        sys.exit(1)
-    
-    srd_path = sys.argv[1]
-    output_dir = sys.argv[2] if len(sys.argv) > 2 else "visualizations"
-    
-    # Create output directory if it doesn't exist
-    os.makedirs(output_dir, exist_ok=True)
-    
-    # Initialize visualizer
-    visualizer = RuleGraphVisualizer(srd_path)
-    
-    # Create visualizations
-    visualizer.plot_rule_distribution(os.path.join(output_dir, "rule_distribution.png"))
-    visualizer.create_interactive_graph(os.path.join(output_dir, "full_rule_graph.html"))
-    
-    # Example: Create a subgraph for some specific rules
-    # Find the first few rules as an example
-    example_rule_ids = [rule['id'] for rule in visualizer.rules[:5]]
-    visualizer.visualize_query_subgraph(example_rule_ids, os.path.join(output_dir, "example_subgraph.html"))
-    
-    # Example: Generate a dependency tree for the first rule
-    if visualizer.rules:
-        first_rule_id = visualizer.rules[0]['id']
-        visualizer.generate_dependency_tree(first_rule_id, os.path.join(output_dir, "example_dependency_tree.html"))
- Load the processed SRD
+        # Load the processed SRD
         with open(processed_srd_path, 'r', encoding='utf-8') as f:
             self.srd_data = json.load(f)
         
@@ -427,4 +224,206 @@ if __name__ == "__main__":
                 borderWidth=3 if is_primary else 1
             )
         
-        #
+        # Add edges to the network
+        for source, target in subgraph.edges():
+            edge_data = subgraph.get_edge_data(source, target)
+            
+            # Determine edge label based on relationship type
+            edge_type = edge_data.get('type', '')
+            term = edge_data.get('term', '')
+            
+            if edge_type == 'REFERENCES':
+                label = 'references'
+            elif edge_type == 'USES_TERM':
+                label = f'uses "{term}"'
+            else:
+                label = edge_type.lower().replace('_', ' ')
+            
+            # Add edge to network
+            net.add_edge(source, target, label=label, arrows='to')
+        
+        # Set physics options for better layout
+        net.set_options('''
+        {
+          "physics": {
+            "forceAtlas2Based": {
+              "gravitationalConstant": -50,
+              "centralGravity": 0.01,
+              "springLength": 100,
+              "springConstant": 0.08
+            },
+            "solver": "forceAtlas2Based",
+            "stabilization": {
+              "enabled": true,
+              "iterations": 100
+            }
+          },
+          "edges": {
+            "smooth": {
+              "type": "continuous",
+              "forceDirection": "none"
+            }
+          },
+          "interaction": {
+            "navigationButtons": true,
+            "keyboard": true
+          }
+        }
+        ''')
+        
+        # Save the network
+        net.save_graph(output_path)
+        print(f"Query subgraph saved to {output_path}")
+    
+    def generate_dependency_tree(self, rule_id, max_depth=2, output_path="dependency_tree.html"):
+        """Generate a tree visualization of rule dependencies."""
+        # Find all rules that are prerequisites for understanding this rule
+        tree_nodes = {rule_id}
+        tree_edges = []
+        
+        # BFS to find prerequisite rules
+        queue = [(rule_id, 0)]  # (node, depth)
+        visited = {rule_id}
+        
+        while queue:
+            node, depth = queue.pop(0)
+            
+            if depth >= max_depth:
+                continue
+            
+            # Check all predecessor nodes
+            for pred in self.G.predecessors(node):
+                if pred not in visited:
+                    visited.add(pred)
+                    tree_nodes.add(pred)
+                    tree_edges.append((pred, node))
+                    queue.append((pred, depth + 1))
+            
+            # Also add successor nodes
+            for succ in self.G.successors(node):
+                if succ not in visited:
+                    visited.add(succ)
+                    tree_nodes.add(succ)
+                    tree_edges.append((node, succ))
+                    queue.append((succ, depth + 1))
+        
+        # Create a tree layout
+        net = Network(height="600px", width="100%", directed=True, notebook=False)
+        
+        # Define node colors by type
+        color_map = {
+            'CORE_RULE': '#FF5733',  # Red
+            'DERIVED_RULE': '#33FF57',  # Green
+            'EXCEPTION': '#3357FF',  # Blue
+            'DEFINITION': '#FFFF33',  # Yellow
+            'EXAMPLE': '#FF33FF',  # Magenta
+            'TABLE': '#33FFFF',  # Cyan
+            'UNKNOWN': '#AAAAAA'  # Grey
+        }
+        
+        # Add nodes to the network
+        for node_id in tree_nodes:
+            node_data = self.G.nodes[node_id]
+            
+            # Determine if this is the root rule
+            is_root = node_id == rule_id
+            
+            # Get rule text (truncated for tooltip)
+            rule = next((r for r in self.rules if r['id'] == node_id), None)
+            tooltip = rule['title'] if rule else node_data.get('label', '')
+            if rule and rule.get('text'):
+                tooltip += ": " + rule['text'][:100] + "..."
+            
+            # Determine node color based on type
+            node_type = node_data.get('type', 'UNKNOWN')
+            color = color_map.get(node_type, '#AAAAAA')
+            
+            # Make the root node larger
+            size = 20 if is_root else 10
+            
+            # Add node to network
+            net.add_node(
+                node_id, 
+                label=node_data.get('label', node_id),
+                title=tooltip,
+                color=color,
+                size=size,
+                borderWidth=3 if is_root else 1
+            )
+        
+        # Add edges to the network
+        for source, target in tree_edges:
+            # Get edge data from the original graph
+            edge_data = self.G.get_edge_data(source, target)
+            
+            # Determine edge label based on relationship type
+            edge_type = edge_data.get('type', '')
+            term = edge_data.get('term', '')
+            
+            if edge_type == 'REFERENCES':
+                label = 'references'
+            elif edge_type == 'USES_TERM':
+                label = f'uses "{term}"'
+            else:
+                label = edge_type.lower().replace('_', ' ')
+            
+            # Add edge to network
+            net.add_edge(source, target, label=label, arrows='to')
+        
+        # Use hierarchical layout for tree
+        net.set_options('''
+        {
+          "layout": {
+            "hierarchical": {
+              "enabled": true,
+              "direction": "UD",
+              "sortMethod": "directed",
+              "nodeSpacing": 150,
+              "levelSeparation": 150
+            }
+          },
+          "physics": {
+            "enabled": false
+          },
+          "interaction": {
+            "navigationButtons": true,
+            "keyboard": true
+          }
+        }
+        ''')
+        
+        # Save the network
+        net.save_graph(output_path)
+        print(f"Dependency tree saved to {output_path}")
+
+
+# Example usage
+if __name__ == "__main__":
+    import sys
+    
+    if len(sys.argv) < 2:
+        print("Usage: python rule_graph_visualizer.py <path_to_processed_srd.json> [output_directory]")
+        sys.exit(1)
+    
+    srd_path = sys.argv[1]
+    output_dir = sys.argv[2] if len(sys.argv) > 2 else "visualizations"
+    
+    # Create output directory if it doesn't exist
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Initialize visualizer
+    visualizer = RuleGraphVisualizer(srd_path)
+    
+    # Create visualizations
+    visualizer.plot_rule_distribution(os.path.join(output_dir, "rule_distribution.png"))
+    visualizer.create_interactive_graph(os.path.join(output_dir, "full_rule_graph.html"))
+    
+    # Example: Create a subgraph for some specific rules
+    # Find the first few rules as an example
+    example_rule_ids = [rule['id'] for rule in visualizer.rules[:5]]
+    visualizer.visualize_query_subgraph(example_rule_ids, os.path.join(output_dir, "example_subgraph.html"))
+    
+    # Example: Generate a dependency tree for the first rule
+    if visualizer.rules:
+        first_rule_id = visualizer.rules[0]['id']
+        visualizer.generate_dependency_tree(first_rule_id, output_path=os.path.join(output_dir, "example_dependency_tree.html"))

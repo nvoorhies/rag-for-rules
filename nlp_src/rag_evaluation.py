@@ -645,7 +645,8 @@ Important: If the provided rules are insufficient to answer the question, your A
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(html_content)
         
-        logger.info(f"HTML report generated at {output_path}")(output_path, 'w', encoding='utf-8') as f:
+        logger.info(f"HTML report generated at {output_path}")
+        with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(results, f, indent=2)
         logger.info(f"Results saved to {output_path}")
     

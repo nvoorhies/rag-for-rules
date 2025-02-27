@@ -35,7 +35,8 @@ class RulesRAG:
         embeddings = {}
         
         print("Creating rule embeddings...")
-        for rule in self.rules:
+        for i, rule in enumerate(self.rules):
+            print(f"Processing rule {i+1}/{len(self.rules)}")
             # Create embedding from title and text
             text_to_embed = f"{rule['title']}. {rule['text']}"
             embedding = self.model.encode(text_to_embed)
@@ -152,16 +153,30 @@ class RulesRAG:
         return top_rules
     
     def _retrieve_dependent_rules(self, rule_ids: List[str], max_depth: int = 2) -> Set[str]:
-        """Find all rules that these rules depend on (backward dependencies)."""
-        dependent_rule_ids = set()
-        
-        for rule_id in rule_ids:
-            # Get all rules this rule references (either directly or through term usage)
-            for path in nx.all_simple_paths(self.rule_graph, source=rule_id, 
-                                          cutoff=max_depth):
-                dependent_rule_ids.update(path)
-        
-        return dependent_rule_ids
+      """Find all rules that these rules depend on (backward dependencies)."""
+      dependent_rule_ids = set()
+    
+        # For each rule ID
+      for rule_id in rule_ids:
+        # Add rules that are reachable from this rule
+        for target in self.rule_graph.nodes():
+            if target != rule_id:  # Don't find paths to self
+                try:
+                    # Try to find paths from this rule to other rules
+                    paths = nx.all_simple_paths(
+                        self.rule_graph, 
+                        source=rule_id, 
+                        target=target,
+                        cutoff=max_depth
+                    )
+                    # Add all nodes in these paths to dependent rules
+                    for path in paths:
+                        dependent_rule_ids.update(path)
+                except nx.NetworkXNoPath:
+                    # No path exists
+                    continue
+    
+      return dependent_rule_ids
     
     def _retrieve_prerequisite_rules(self, rule_ids: List[str], max_depth: int = 2) -> Set[str]:
         """Find all rules that are prerequisites for understanding these rules."""
@@ -334,6 +349,7 @@ if __name__ == "__main__":
         for i, rule in enumerate(result['rules'], 1):
             print(f"\n--- Rule {i} ---")
             print(f"Title: {rule['title']}")
+            print(f"Path: {rule['path']}")
             print(f"Type: {rule['type']}")
             print(f"Score: {rule.get('relevance_score', 'N/A')}")
             
@@ -359,6 +375,7 @@ if __name__ == "__main__":
             for i, rule in enumerate(result['rules'], 1):
                 print(f"\n--- Rule {i} ---")
                 print(f"Title: {rule['title']}")
+                print(f"Path: {rule['path']}")
                 print(f"Type: {rule['type']}")
                 print(f"Score: {rule.get('relevance_score', 'N/A')}")
                 

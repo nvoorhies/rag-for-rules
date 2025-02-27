@@ -165,7 +165,8 @@ class SRDProcessor:
                 # Simple definition pattern: "Term: definition"
                 pattern = f"{term}:\\s+([^.]+)"
                 matches = re.search(pattern, rule['text'])
-                if matches:
+                if matches and matches.group(1) is not None:
+                    #print(f"matches.group(1) = {matches.group(1)}")
                     definition = matches.group(1).strip()
                     term_definitions[term] = {
                         'definition': definition,
@@ -175,7 +176,7 @@ class SRDProcessor:
                 # Alternative pattern: "Term. Definition starting sentence"
                 pattern = f"{term}\\.\\s+([A-Z][^.]+)"
                 matches = re.search(pattern, rule['text'])
-                if matches:
+                if matches and matches.group(1) is not None:
                     definition = matches.group(1).strip()
                     term_definitions[term] = {
                         'definition': definition,
