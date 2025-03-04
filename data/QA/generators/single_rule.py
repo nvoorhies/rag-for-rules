@@ -100,7 +100,7 @@ async def process_single_rule(rule_query: Dict, api_key: str, session: aiohttp.C
         qa_pair = await generate_qa_pair(rule_query, api_key, session)
         
         if qa_pair:
-            qa_pair['rules'] = rule_query['name']
+            qa_pair['rules'] = [rule_query['name']]  # Store as a single item list
             print(f"✓ Generated QA for: {rule_query['name']}")
             return qa_pair
         else:
@@ -129,7 +129,13 @@ async def main(filepath: str, output_path: str):
         if os.path.exists(output_path) and os.path.getsize(output_path) > 0:
             with open(output_path, 'r') as f:
                 qa_pairs = json.load(f)
-                finished_rules = {' > '.join(qa_pair['rules']) for qa_pair in qa_pairs}
+                # Handle both string and list formats for backward compatibility
+                finished_rules = set()
+                for qa_pair in qa_pairs:
+                    if isinstance(qa_pair['rules'], list):
+                        finished_rules.update(qa_pair['rules'])
+                    else:
+                        finished_rules.add(qa_pair['rules'])
                 print(f"Loaded {len(qa_pairs)} existing QA pairs")
     except (json.JSONDecodeError, IOError) as e:
         print(f"Error loading existing QA pairs: {e}")
