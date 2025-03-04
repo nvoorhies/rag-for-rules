@@ -10,12 +10,13 @@ import json
 import time
 import logging
 import pickle
-from typing import Dict, List, Any, Optional, Set, Tuple
+from typing import Dict, List, Any, Optional, Set, Tuple, Union
 import numpy as np
 import networkx as nx
 import spacy
 import sys
 from pathlib import Path
+from tqdm.auto import tqdm
 
 #from embedding_cache import EmbeddingCache
 from .rule_embedder import RuleSectionEmbedder
@@ -542,19 +543,99 @@ class CachedNNAugmentedRAG:
         """Get statistics about the embedding cache."""
         return self.cache.get_cache_stats()
 
+    def process_queries_from_file(self, query_file: str, top_k: int = 10) -> List[Dict[str, Any]]:
+        """
+        Process multiple queries from a file.
+        
+        Args:
+            query_file: Path to file containing queries (JSON format)
+            top_k: Maximum number of rules to return per query
+            
+        Returns:
+            List of query results
+        """
+        # Read queries from file
+        with open(query_file, 'r', encoding='utf-8') as f:
+            queries = json.load(f)
+        
+        # Extract questions based on format
+        if isinstance(queries, list) and queries and isinstance(queries[0], dict):
+            if 'question' in queries[0]:
+                # Format from evaluate_qa.py
+                query_texts = [q['question'] for q in queries]
+            elif 'id' in queries[0] and 'question' in queries[0]:
+                # Format from evaluate_qa.py's temp file
+                query_texts = [q['question'] for q in queries]
+            else:
+                # Unknown format
+                raise ValueError(f"Unsupported query file format: {query_file}")
+        else:
+            # Unknown format
+            raise ValueError(f"Unsupported query file format: {query_file}")
+        
+        logger.info(f"Processing {len(query_texts)} queries from {query_file}")
+        
+        # Process each query
+        results = []
+        for query_text in tqdm.tqdm(query_texts, desc="Processing queries"):
+            try:
+                result = self.query(query_text, max_rules=top_k)
+                results.append(result)
+            except Exception as e:
+                logger.error(f"Error processing query '{query_text}': {e}")
+                results.append({
+                    'query': query_text,
+                    'error': str(e),
+                    'rules': [],
+                    'rule_count': 0,
+                    'query_time': 0
+                })
+        
+        return results
+    
+    def save_results(self, results: Union[Dict[str, Any], List[Dict[str, Any]]], output_path: str):
+        """
+        Save query results to a file.
+        
+        Args:
+            results: Single query result or list of results
+            output_path: Path to save results
+        """
+        # Create directory if it doesn't exist
+        os.makedirs(os.path.dirname(os.path.abspath(output_path)), exist_ok=True)
+        
+        # Save results
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(results, f, indent=2)
+        
+        logger.info(f"Saved results to {output_path}")
+
 # For running as a script
 def main():
     """Main entry point for command-line execution."""
     import argparse
+    import tqdm  # Import here to avoid dependency if not used
     
     parser = argparse.ArgumentParser(description='NN-Augmented RAG with Embedding Cache')
-    parser.add_argument('--srd', '-s', required=True, help='Path to processed SRD JSON file')
-    parser.add_argument('--embeddings', '-e', help='Path to save/load embeddings')
-    parser.add_argument('--cache-dir', '-c', default='embedding_cache', help='Cache directory')
-    parser.add_argument('--model', '-m', default='all-MiniLM-L6-v2', help='Embedding model name')
-    parser.add_argument('--query', '-q', help='Query text')
-    parser.add_argument('--max-rules', type=int, default=10, help='Maximum rules to return')
-    parser.add_argument('--stats', action='store_true', help='Print cache statistics')
+    subparsers = parser.add_subparsers(dest='command', help='Command to run')
+    
+    # Common arguments
+    common_parser = argparse.ArgumentParser(add_help=False)
+    common_parser.add_argument('--srd', '-s', required=True, help='Path to processed SRD JSON file')
+    common_parser.add_argument('--embeddings', '-e', help='Path to save/load embeddings')
+    common_parser.add_argument('--cache-dir', '-c', default='embedding_cache', help='Cache directory')
+    common_parser.add_argument('--model', '-m', default='all-MiniLM-L6-v2', help='Embedding model name')
+    common_parser.add_argument('--max-rules', '-k', type=int, default=10, help='Maximum rules to return')
+    common_parser.add_argument('--stats', action='store_true', help='Print cache statistics')
+    
+    # Single query command
+    query_parser = subparsers.add_parser('query', parents=[common_parser], help='Run a single query')
+    query_parser.add_argument('--query', '-q', required=True, help='Query text')
+    
+    # Batch query command
+    batch_parser = subparsers.add_parser('batch', parents=[common_parser], help='Run batch queries from file')
+    batch_parser.add_argument('--queries-file', '-f', required=True, help='File containing queries (JSON format)')
+    batch_parser.add_argument('--output', '-o', required=True, help='Output file for results')
     
     args = parser.parse_args()
     
@@ -577,8 +658,9 @@ def main():
         for model_name, model_stats in stats['models'].items():
             print(f"  - {model_name}: {model_stats['embedding_count']} embeddings, {model_stats['size']}")
     
-    # If a query was provided, process it
-    if args.query:
+    # Process command
+    if args.command == 'query':
+        # Single query
         result = rag.query(args.query, max_rules=args.max_rules)
         
         print("\n=== Query Results ===")
@@ -630,6 +712,15 @@ def main():
             if len(text) > max_text_len:
                 text = text[:max_text_len] + "..."
             print(f"Text: {text}")
+    
+    elif args.command == 'batch':
+        # Batch queries from file
+        results = rag.process_queries_from_file(args.queries_file, top_k=args.max_rules)
+        rag.save_results(results, args.output)
+        print(f"Processed {len(results)} queries. Results saved to {args.output}")
+    
+    else:
+        parser.print_help()
 
 if __name__ == "__main__":
     import pickle  # Import here for pickle.dump
