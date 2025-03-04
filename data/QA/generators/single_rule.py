@@ -10,7 +10,7 @@ from pathlib import Path
 
 # Deepseek API integration
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
-MAX_CONCURRENT_REQUESTS = 5  # Limit concurrent API calls
+MAX_CONCURRENT_REQUESTS = 50  # Limit concurrent API calls
 TEMP_DIR = "/tmp/dnd_qa_generator"
 
 async def generate_qa_pair(section: Dict, api_key: str, session: aiohttp.ClientSession) -> Optional[Dict]:
@@ -129,7 +129,7 @@ async def main(filepath: str, output_path: str):
         if os.path.exists(output_path) and os.path.getsize(output_path) > 0:
             with open(output_path, 'r') as f:
                 qa_pairs = json.load(f)
-                finished_rules = {qa_pair['rules'] for qa_pair in qa_pairs}
+                finished_rules = {' > '.join(qa_pair['rules']) for qa_pair in qa_pairs}
                 print(f"Loaded {len(qa_pairs)} existing QA pairs")
     except (json.JSONDecodeError, IOError) as e:
         print(f"Error loading existing QA pairs: {e}")
