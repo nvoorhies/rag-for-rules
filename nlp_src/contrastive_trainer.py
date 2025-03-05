@@ -145,7 +145,8 @@ def train_model(model: SentenceTransformer,
     """
     # Create data loaders
     train_dataloader = DataLoader(train_dataset, shuffle=True, batch_size=batch_size)
-    
+    train_dataloader.collate_fn = model.smart_batching_collate
+
     # Create loss function
     train_loss = losses.ContrastiveLoss(model=model)
     
@@ -167,14 +168,16 @@ def train_model(model: SentenceTransformer,
     global_step = 0
     for epoch in range(epochs):
         model.train()
+        print(f"Training epoch {epoch+1}/{epochs}")
         train_iterator = tqdm(train_dataloader, desc=f"Epoch {epoch+1}/{epochs}")
-        
+        print("Training iterator: ", train_iterator)
         for batch_idx, batch in enumerate(train_iterator):
             global_step += 1
             
             # Train on batch
             model.train()
-            train_loss(batch)
+            print("Batch: ", batch)
+            train_loss(batch, labels=[1,0] * batch_size)
             
             # Evaluate and save checkpoint every checkpoint_steps
             if global_step % checkpoint_steps == 0:
