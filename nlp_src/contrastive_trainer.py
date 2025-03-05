@@ -54,6 +54,8 @@ class ContrastiveQADataset(Dataset):
         # Generate training examples
         self.examples = self._generate_examples()
         
+        logger.info(f"Created dataset with {len(self.examples)} examples")
+        
     def _generate_examples(self) -> List[InputExample]:
         """Generate training examples from QA pairs."""
         examples = []
@@ -83,13 +85,18 @@ class ContrastiveQADataset(Dataset):
             # Create negative examples (only for training)
             if self.is_train:
                 # Get random sections that are not the correct one
-                negative_sections = random.sample([s for s in self.srd_sections 
-                                                 if ' > '.join(s['path'] + [s['title']]) != rule_id], 
-                                                 k=1)  # Just one negative for balance
+                available_negative_sections = [s for s in self.srd_sections 
+                                              if ' > '.join(s['path'] + [s['title']]) != rule_id]
                 
-                for neg_section in negative_sections:
-                    neg_text = self._format_section_text(neg_section)
-                    examples.append(InputExample(texts=[question, neg_text], label=0.0))
+                # Ensure we have at least one negative example
+                if available_negative_sections:
+                    # Sample one negative section
+                    k = min(1, len(available_negative_sections))
+                    negative_sections = random.sample(available_negative_sections, k=k)
+                    
+                    for neg_section in negative_sections:
+                        neg_text = self._format_section_text(neg_section)
+                        examples.append(InputExample(texts=[question, neg_text], label=0.0))
         
         return examples
     
@@ -168,16 +175,23 @@ def train_model(model: SentenceTransformer,
     global_step = 0
     for epoch in range(epochs):
         model.train()
-        print(f"Training epoch {epoch+1}/{epochs}")
         train_iterator = tqdm(train_dataloader, desc=f"Epoch {epoch+1}/{epochs}")
-        print("Training iterator: ", train_iterator)
         for batch_idx, batch in enumerate(train_iterator):
             global_step += 1
             
             # Train on batch
             model.train()
-            print("Batch: ", batch)
-            train_loss(batch, labels=[1,0] * batch_size)
+            # Extract labels from the batch
+            labels = []
+            for example in batch:
+                if hasattr(example, 'label'):
+                    labels.append(example.label)
+                else:
+                    # Default to positive example if no label
+                    labels.append(1.0)
+            
+            # Apply the loss function
+            train_loss(batch)
             
             # Evaluate and save checkpoint every checkpoint_steps
             if global_step % checkpoint_steps == 0:
