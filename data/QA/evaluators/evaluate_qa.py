@@ -182,6 +182,35 @@ def run_reranker_hierarchical_rag(questions_file: str, srd_file: str, output_fil
         raise RuntimeError(f"Failed to run reranker_hierarchical_rag.py: {result.stderr}")
     
     return output_file
+
+def run_augmented_reranker_rag(questions_file: str, srd_file: str, output_file: str,
+                              top_k: int = 5, model: str = 'all-MiniLM-L6-v2',
+                              reranker_model: str = 'BAAI/bge-reranker-v2-m3',
+                              cache_dir: str = 'embedding_cache', verbose: bool = False) -> str:
+    """Run the augmented_reranker_rag.py script on the questions."""
+    cmd = [
+        sys.executable,
+        "nlp_src/augmented_reranker_rag.py",
+        "--srd", srd_file,
+        "--queries-file", questions_file,
+        "--output", output_file,
+        "--top-k", str(top_k),
+        "--model", model,
+        "--reranker", reranker_model,
+        "--cache-dir", cache_dir
+    ]
+    
+    if verbose:
+        cmd.append("--verbose")
+    
+    print(f"Running command: {' '.join(cmd)}")
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    
+    if result.returncode != 0:
+        print(f"Error running augmented_reranker_rag.py: {result.stderr}")
+        raise RuntimeError(f"Failed to run augmented_reranker_rag.py: {result.stderr}")
+    
+    return output_file
                                                                                                                                           
 def evaluate_results(rag_results_file: str, qa_pairs_file: str, output_file: Optional[str] = None) -> Dict[str, Any]:
     """Evaluate the RAG results against the original QA pairs."""
@@ -275,7 +304,7 @@ def main():
     parser.add_argument('--cache-dir', '-d', default='embedding_cache', help='Embedding cache directory')
     parser.add_argument('--verbose', '-v', action='store_true', help='Enable verbose output')
     parser.add_argument('--limit', '-l', type=int, help='Limit number of questions to evaluate')
-    parser.add_argument('--system', choices=['naive', 'hierarchical', 'augmented', 'nn-augmented', 'reranker', 'all'], 
+    parser.add_argument('--system', choices=['naive', 'hierarchical', 'augmented', 'nn-augmented', 'reranker', 'augmented-reranker', 'all'], 
                        default='naive', help='RAG system to evaluate')
     parser.add_argument('--reranker', default='BAAI/bge-reranker-v2-m3', 
                        help='Reranker model to use with reranker system')
@@ -492,6 +521,44 @@ def main():
             # Clean up
             if os.path.exists(reranker_results_file):
                 os.remove(reranker_results_file)
+                
+        # Run Augmented Reranker RAG if selected
+        if args.system in ['augmented-reranker', 'all']:
+            augmented_reranker_results_file = tempfile.mktemp(suffix='.json', prefix='augmented_reranker_results_')
+            
+            print(f"Running augmented_reranker_rag.py...")
+            run_augmented_reranker_rag(
+                questions_file=questions_file,
+                srd_file=args.srd,
+                output_file=augmented_reranker_results_file,
+                top_k=args.top_k,
+                model=args.model,
+                reranker_model=args.reranker,
+                cache_dir=args.cache_dir,
+                verbose=args.verbose
+            )
+            
+            print(f"Evaluating Augmented Reranker RAG results...")
+            augmented_reranker_results = evaluate_results(
+                rag_results_file=augmented_reranker_results_file,
+                qa_pairs_file=args.qa_pairs
+            )
+            
+            all_results['augmented_reranker'] = augmented_reranker_results
+            
+            # Print summary metrics
+            metrics = augmented_reranker_results['metrics']
+            print("\n=== Augmented Reranker RAG Evaluation Summary ===")
+            print(f"Total Questions: {metrics['total_questions']}")
+            print(f"Correct Rule Found: {metrics['correct_rule_found']} ({metrics['accuracy']:.2%})")
+            print(f"Top-1 Accuracy: {metrics['top_1_accuracy']:.2%}")
+            print(f"Top-3 Accuracy: {metrics['top_3_accuracy']:.2%}")
+            print(f"Top-5 Accuracy: {metrics['top_5_accuracy']:.2%}")
+            print(f"Average Query Time: {metrics['avg_query_time']:.4f} seconds")
+            
+            # Clean up
+            if os.path.exists(augmented_reranker_results_file):
+                os.remove(augmented_reranker_results_file)
         
         # Save combined results if evaluating multiple systems
         if args.system == 'all':
