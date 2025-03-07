@@ -154,6 +154,20 @@ class HierarchicalNaiveRAG:
             show_progress_bar=self.verbose and len(texts) > 10
         )
     
+    def _rerank(self, sections: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        """
+        Rerank the retrieved sections.
+        
+        Args:
+            sections: List of retrieved sections with similarity scores
+            
+        Returns:
+            Reranked list of sections
+        """
+        # For now, this is just an identity function
+        # Will be extended in subclasses
+        return sections
+    
     def query(self, query_text: str, max_rules: int = 10) -> Dict[str, Any]:
         """
         Process a query and return relevant sections.
@@ -204,11 +218,14 @@ class HierarchicalNaiveRAG:
             section['similarity_score'] = sorted_similarities[i][1]
             retrieved_sections.append(section)
         
+        # Apply reranking
+        reranked_sections = self._rerank(retrieved_sections)
+        
         # Format results
         results = {
             'question': query_text,
-            'rules': retrieved_sections,
-            'rule_count': len(retrieved_sections),
+            'rules': reranked_sections,
+            'rule_count': len(reranked_sections),
             'query_time': time.time() - start_time
         }
         
