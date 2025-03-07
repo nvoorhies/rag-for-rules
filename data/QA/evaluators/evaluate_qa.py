@@ -75,11 +75,10 @@ def run_hierarchical_naive_rag(questions_file: str, srd_file: str, output_file: 
     cmd = [
         sys.executable,
         "nlp_src/hierarchical_naive_rag.py",
-        "batch",
         "--srd", srd_file,
         "--queries-file", questions_file,
         "--output", output_file,
-        "--max-rules", str(top_k),
+        "--top-k", str(top_k),
         "--model", model,
         "--cache-dir", cache_dir
     ]
@@ -95,6 +94,37 @@ def run_hierarchical_naive_rag(questions_file: str, srd_file: str, output_file: 
         raise RuntimeError(f"Failed to run hierarchical_naive_rag.py: {result.stderr}")
     
     return output_file
+
+
+def run_augmented_naive_rag(questions_file: str, srd_file: str, output_file: str,
+                              top_k: int = 5, model: str = 'all-MiniLM-L6-v2',
+                              cache_dir: str = 'embedding_cache', verbose: bool = False,
+                              max_seq_length = 256) -> str:
+    """Run the augmented_hierarchical_rag.py script on the questions."""
+    cmd = [
+        sys.executable,
+        "nlp_src/augmented_hierarchical_rag.py",
+        "--srd", srd_file,
+        "--queries-file", questions_file,
+        "--output", output_file,
+        "--top-k", str(top_k),
+        "--model", model,
+        "--cache-dir", cache_dir,
+        "--max-seq-length", str(max_seq_length),
+    ]
+    
+    if verbose:
+        cmd.append("--verbose")
+    
+    print(f"Running command: {' '.join(cmd)}")
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    
+    if result.returncode != 0:
+        print(f"Error running augmented_hierarchical_rag.py: {result.stderr}")
+        raise RuntimeError(f"Failed to run augmented_hierarchical_rag.py: {result.stderr}")
+    
+    return output_file
+
 
 def run_cached_nn_augmented_rag(questions_file: str, srd_file: str, output_file: str,
                                top_k: int = 5, model: str = 'all-MiniLM-L6-v2',
@@ -140,7 +170,11 @@ def evaluate_results(rag_results_file: str, qa_pairs_file: str, output_file: Opt
     # Evaluate each result
     evaluations = []
     for result in rag_results:
-        query = result['query']
+        #print(f"Processing result: {result}")
+        if 'question' not in result:
+            print(f"Skipping result without question")
+            continue
+        query = result['question']
         if query in qa_lookup:
             original_qa = qa_lookup[query]
             
@@ -149,7 +183,7 @@ def evaluate_results(rag_results_file: str, qa_pairs_file: str, output_file: Opt
             rule_id = rule_ids[0] if isinstance(rule_ids, list) and rule_ids else 'unknown'
             
             # Check if the correct rule is in the retrieved rules
-            retrieved_rule_ids = [rule.get('id', '') for rule in result.get('rules', [])]
+            retrieved_rule_ids = [" > ".join(rule.get('path', []) + [rule.get('title', '')]) for rule in result.get('rules', [])]
             correct_rule_found = any(rule_id in r_id for r_id in retrieved_rule_ids)
             
             # Find position of the correct rule if present
@@ -167,6 +201,7 @@ def evaluate_results(rag_results_file: str, qa_pairs_file: str, output_file: Opt
                 'retrieved_rules': retrieved_rule_ids[:5],  # Show top 5 for brevity
                 'query_time': result.get('query_time', 0)
             }
+            #print(f"Evaluation: {evaluation}")
             evaluations.append(evaluation)
     
     # Calculate overall metrics
@@ -211,7 +246,7 @@ def main():
     parser.add_argument('--cache-dir', '-d', default='embedding_cache', help='Embedding cache directory')
     parser.add_argument('--verbose', '-v', action='store_true', help='Enable verbose output')
     parser.add_argument('--limit', '-l', type=int, help='Limit number of questions to evaluate')
-    parser.add_argument('--system', choices=['naive', 'hierarchical', 'nn-augmented', 'all'], 
+    parser.add_argument('--system', choices=['naive', 'hierarchical', 'augmented', 'nn-augmented', 'all'], 
                        default='naive', help='RAG system to evaluate')
     
     args = parser.parse_args()
@@ -241,7 +276,7 @@ def main():
         all_results = {}
         
         # Run naive RAG if selected
-        if args.system in ['naive', 'all']:
+        if args.system in ['naive']:
             naive_results_file = tempfile.mktemp(suffix='.json', prefix='naive_rag_results_')
             
             print(f"Running cached_naive_rag.py...")
@@ -314,8 +349,45 @@ def main():
             if os.path.exists(hierarchical_results_file):
                 os.remove(hierarchical_results_file)
         
+        # Run augmented RAG if selected
+        if args.system in ['augmented', 'all']:
+            augmented_results_file = tempfile.mktemp(suffix='.json', prefix='augmented_rag_results_')
+            
+            print(f"Running augmented_hierarchical_rag.py...")
+            run_augmented_naive_rag(
+                questions_file=questions_file,
+                srd_file=args.srd,
+                output_file=augmented_results_file,
+                top_k=args.top_k,
+                model=args.model,
+                cache_dir=args.cache_dir,
+                verbose=args.verbose
+            )
+            
+            print(f"Evaluating augmented RAG results...")
+            augmented_results = evaluate_results(
+                rag_results_file=augmented_results_file,
+                qa_pairs_file=args.qa_pairs
+            )
+            
+            all_results['augmented'] = augmented_results
+            
+            # Print summary metrics
+            metrics = augmented_results['metrics']
+            print("\n=== Augmented RAG Evaluation Summary ===")
+            print(f"Total Questions: {metrics['total_questions']}")
+            print(f"Correct Rule Found: {metrics['correct_rule_found']} ({metrics['accuracy']:.2%})")
+            print(f"Top-1 Accuracy: {metrics['top_1_accuracy']:.2%}")
+            print(f"Top-3 Accuracy: {metrics['top_3_accuracy']:.2%}")
+            print(f"Top-5 Accuracy: {metrics['top_5_accuracy']:.2%}")
+            print(f"Average Query Time: {metrics['avg_query_time']:.4f} seconds")
+            
+            # Clean up
+            if os.path.exists(augmented_results_file):
+                os.remove(augmented_results_file)
+
         # Run NN-augmented RAG if selected
-        if args.system in ['nn-augmented', 'all']:
+        if args.system in ['nn-augmented']:
             nn_augmented_results_file = tempfile.mktemp(suffix='.json', prefix='nn_augmented_rag_results_')
             
             print(f"Running cached_nn_augmented_rag.py...")
