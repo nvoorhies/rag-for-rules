@@ -418,7 +418,8 @@ def main():
                 os.remove(augmented_results_file)
 
         # Run NN-augmented RAG if selected
-        if args.system in ['nn-augmented', 'all']:
+
+        if args.system in ['nn-augmented']:
             nn_augmented_results_file = tempfile.mktemp(suffix='.json', prefix='nn_augmented_rag_results_')
             
             print(f"Running cached_nn_augmented_rag.py...")
