@@ -32,7 +32,7 @@ class EmbeddingCache:
     """A robust caching system for embeddings that stores data based on content hash and parameters."""
     
     def __init__(self, cache_dir: str = "embedding_cache", verbose: bool = True, 
-                 use_faiss: bool = True, chunk_size: int = 384):
+                 use_faiss: bool = False, chunk_size: int = 384):
         """
         Initialize the embedding cache.
         

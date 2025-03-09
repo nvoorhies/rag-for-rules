@@ -41,7 +41,7 @@ class HierarchicalNaiveRAG:
                 model_name: str = "all-mpnet-base-v2",
                 cache_dir: str = "embedding_cache",
                 max_seq_length: Optional[int] = None,
-                use_faiss: bool = True,
+                use_faiss: bool = False,
                 chunk_size: int = 384,
                 verbose: bool = False):
         """
@@ -512,7 +512,7 @@ def main():
     parser.add_argument('--model', default='all-mpnet-base-v2', help='Embedding model name')
     parser.add_argument('--max-seq-length', type=int, help='Maximum sequence length')
     parser.add_argument('--chunk-size', type=int, default=384, help='Chunk size for splitting long texts')
-    parser.add_argument('--no-faiss', action='store_true', help='Disable FAISS for vector search')
+    parser.add_argument('--use-faiss', action='store_true', help='Enable FAISS for vector search')
     parser.add_argument('--verbose', '-v', action='store_true', help='Verbose logging')
     parser.add_argument('--stats', '-S', action='store_true', help='Show cache statistics')
     
@@ -525,7 +525,7 @@ def main():
         model_name=args.model,
         cache_dir=args.cache_dir,
         max_seq_length=args.max_seq_length,
-        use_faiss=not args.no_faiss,
+        use_faiss=args.use_faiss,
         chunk_size=args.chunk_size,
         verbose=args.verbose
     )
