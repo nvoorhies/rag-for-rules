@@ -57,9 +57,7 @@ def train(data_file: str, model_name: str, output_dir: str, batch_size: int = 32
         model=model,
         train_dataset=split_dataset["train"],
         eval_dataset=split_dataset["test"],
-        loss=loss,
-        batch_size=batch_size,
-        epochs=epochs,
+        loss=loss
     )
     
     trainer.train()
