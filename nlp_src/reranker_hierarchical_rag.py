@@ -28,8 +28,8 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
     def __init__(self, 
                 processed_srd_path: str,
                 embeddings_path: Optional[str] = None,
-                model_name: str = "all-MiniLM-L6-v2",
-                reranker_model_name: str = "BAAI/bge-reranker-v2-m3",
+                model_name: str = "all-mpnet-base-v2",
+                reranker_model_name: str = "mixedbread-ai/mxbai-rerank-xsmall-v1",
                 cache_dir: str = "embedding_cache",
                 max_seq_length: Optional[int] = None,
                 verbose: bool = False):
