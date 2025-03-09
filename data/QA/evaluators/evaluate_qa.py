@@ -99,7 +99,7 @@ def run_hierarchical_naive_rag(questions_file: str, srd_file: str, output_file: 
 def run_augmented_naive_rag(questions_file: str, srd_file: str, output_file: str,
                               top_k: int = 5, model: str = 'all-MiniLM-L6-v2',
                               cache_dir: str = 'embedding_cache', verbose: bool = False,
-                              max_seq_length = 256) -> str:
+                              max_seq_length = 256, profile: bool = False) -> str:
     """Run the augmented_hierarchical_rag.py script on the questions."""
     cmd = [
         sys.executable,
@@ -115,6 +115,9 @@ def run_augmented_naive_rag(questions_file: str, srd_file: str, output_file: str
     
     if verbose:
         cmd.append("--verbose")
+        
+    if profile:
+        cmd.append("--profile")
     
     print(f"Running command: {' '.join(cmd)}")
     # Don't capture output so it displays in real-time
@@ -308,6 +311,7 @@ def main():
                        default='all', help='RAG system to evaluate')
     parser.add_argument('--reranker', default='mixedbread-ai/mxbai-rerank-xsmall-v1', 
                        help='Reranker model to use with reranker system')
+    parser.add_argument('--profile', action='store_true', help='Enable profiling to identify performance bottlenecks')
     
     args = parser.parse_args()
     
@@ -421,7 +425,8 @@ def main():
                 top_k=args.top_k,
                 model=args.model,
                 cache_dir=args.cache_dir,
-                verbose=args.verbose
+                verbose=args.verbose,
+                profile=args.profile
             )
             
             print(f"Evaluating augmented RAG results...")
