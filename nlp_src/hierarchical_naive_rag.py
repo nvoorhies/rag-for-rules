@@ -146,7 +146,7 @@ class HierarchicalNaiveRAG:
             logger.info(f"Computing embeddings for {len(sections_texts)} sections with caching...")
         
         # Process sections in batches to avoid memory issues
-        batch_size = 100
+        batch_size = 500
         section_id_to_embedding = {}
         
         # First check which sections are already cached
@@ -509,7 +509,7 @@ def main():
     parser.add_argument('--output', '-o', help='Output file for results')
     parser.add_argument('--embeddings', '-e', help='Path to save/load embeddings')
     parser.add_argument('--cache-dir', default='embedding_cache', help='Embedding cache directory')
-    parser.add_argument('--model', default='all-MiniLM-L6-v2', help='Embedding model name')
+    parser.add_argument('--model', default='all-mpnet-base-v2', help='Embedding model name')
     parser.add_argument('--max-seq-length', type=int, help='Maximum sequence length')
     parser.add_argument('--chunk-size', type=int, default=384, help='Chunk size for splitting long texts')
     parser.add_argument('--no-faiss', action='store_true', help='Disable FAISS for vector search')
