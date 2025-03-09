@@ -119,7 +119,7 @@ References: {', '.join(section.get('references', []))}
 Scope: {section.get('scope', 'Unknown')}                                                                                                                                                          
 """  
 
-    def query(self, query_text: str, max_rules: int = 10) -> Dict[str, Any]:
+    def query(self, query_text: str, max_rules: int = 10, profile: bool = False) -> Dict[str, Any]:
         """
         Process a query and return relevant sections with reranking.
         
