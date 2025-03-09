@@ -173,5 +173,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .DS_Store
-/tmp
-/data/old
+
+#project specific tmp dirs and caches
+tmp/
+data/old/
+embedding_cache/
+.aider*
