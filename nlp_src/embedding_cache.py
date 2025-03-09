@@ -45,14 +45,19 @@ class EmbeddingCache:
         self.cache_dir = Path(cache_dir)
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.metadata_path = self.cache_dir / "metadata.json"
+        self.embeddings_path = self.cache_dir / "embeddings.pkl"
         self.verbose = verbose
         self.tokenizer = None
         self.use_faiss = use_faiss
         self.chunk_size = chunk_size
         self.faiss_indices = {}
+        self.embeddings_cache = {}
         
         # Load metadata if it exists
         self.metadata = self._load_metadata()
+        
+        # Load embeddings from disk if they exist
+        self._load_embeddings_from_disk()
         
         if self.verbose:
             cached_item_count = sum(len(data['embeddings'].keys()) 
@@ -60,6 +65,7 @@ class EmbeddingCache:
                                   if 'embeddings' in data)
             logger.info(f"Initialized embedding cache at {self.cache_dir}")
             logger.info(f"Cache contains {len(self.metadata)} models with {cached_item_count} total embeddings")
+            logger.info(f"Loaded {len(self.embeddings_cache)} embeddings from disk")
             if self.use_faiss:
                 logger.info(f"Using FAISS for vector similarity search")
     
@@ -74,6 +80,32 @@ class EmbeddingCache:
         except Exception as e:
             logger.warning(f"Failed to load cache metadata: {e}")
             return {}
+    
+    def _load_embeddings_from_disk(self):
+        """Load all embeddings from disk into memory."""
+        if not self.embeddings_path.exists():
+            return
+        
+        try:
+            with open(self.embeddings_path, 'rb') as f:
+                self.embeddings_cache = pickle.load(f)
+                
+            if self.verbose:
+                logger.info(f"Loaded embeddings cache from {self.embeddings_path}")
+        except Exception as e:
+            logger.warning(f"Failed to load embeddings cache: {e}")
+            self.embeddings_cache = {}
+    
+    def _save_embeddings_to_disk(self):
+        """Save all embeddings to disk."""
+        try:
+            with open(self.embeddings_path, 'wb') as f:
+                pickle.dump(self.embeddings_cache, f)
+                
+            if self.verbose:
+                logger.debug(f"Saved embeddings cache to {self.embeddings_path}")
+        except Exception as e:
+            logger.warning(f"Failed to save embeddings cache: {e}")
     
     def _save_metadata(self):
         """Save cache metadata to disk."""
@@ -118,6 +150,13 @@ class EmbeddingCache:
         if 'embeddings' not in model_data or content_hash not in model_data['embeddings']:
             return None
         
+        # First check in-memory cache
+        cache_key = f"{model_key}_{content_hash}"
+        if cache_key in self.embeddings_cache:
+            if self.verbose:
+                logger.debug(f"Memory cache hit for {model_name} - {content_hash[:8]}")
+            return self.embeddings_cache[cache_key]
+        
         # Get the embedding file path
         embedding_path = self._get_embedding_path(model_key, content_hash)
         
@@ -132,8 +171,11 @@ class EmbeddingCache:
         try:
             embedding = np.load(embedding_path)
             
+            # Store in memory cache
+            self.embeddings_cache[cache_key] = embedding
+            
             if self.verbose:
-                logger.debug(f"Cache hit for {model_name} - {content_hash[:8]}")
+                logger.debug(f"Disk cache hit for {model_name} - {content_hash[:8]}")
             
             return embedding
         except Exception as e:
@@ -189,6 +231,7 @@ class EmbeddingCache:
         """
         model_key = self._generate_model_key(model_name, params)
         content_hash = self._compute_content_hash(content)
+        cache_key = f"{model_key}_{content_hash}"
         
         # Initialize model in metadata if needed
         if model_key not in self.metadata:
@@ -218,9 +261,12 @@ class EmbeddingCache:
         
         self.metadata[model_key]['embeddings'][content_hash] = embed_info
         
-        # Save the embedding
+        # Save the embedding to disk
         embedding_path = self._get_embedding_path(model_key, content_hash)
         np.save(embedding_path, embedding)
+        
+        # Store in memory cache
+        self.embeddings_cache[cache_key] = embedding
         
         # Update FAISS index if enabled
         if self.use_faiss:
@@ -238,6 +284,9 @@ class EmbeddingCache:
         
         # Update metadata
         self._save_metadata()
+        
+        # Save embeddings cache to disk
+        self._save_embeddings_to_disk()
         
         if self.verbose:
             logger.debug(f"Cached embedding for {model_name} - {content_hash[:8]}")
@@ -587,6 +636,7 @@ class EmbeddingCache:
         if len(contents) != len(embeddings):
             raise ValueError(f"Length mismatch: {len(contents)} contents vs {len(embeddings)} embeddings")
         
+        # Process each embedding
         for content, embedding in zip(contents, embeddings):
             self.put(content, embedding, model_name, params)
     
@@ -662,7 +712,10 @@ class EmbeddingCache:
             # Clear entire cache
             for file in self.cache_dir.glob("*.npy"):
                 file.unlink()
+            if self.embeddings_path.exists():
+                self.embeddings_path.unlink()
             self.metadata = {}
+            self.embeddings_cache = {}
             self._save_metadata()
             
             if self.verbose:
@@ -678,11 +731,18 @@ class EmbeddingCache:
             for model_key in models_to_clear:
                 model_data = self.metadata.pop(model_key, {})
                 for content_hash in model_data.get('embeddings', {}).keys():
+                    # Remove from disk
                     embedding_path = self._get_embedding_path(model_key, content_hash)
                     if embedding_path.exists():
                         embedding_path.unlink()
+                    
+                    # Remove from memory cache
+                    cache_key = f"{model_key}_{content_hash}"
+                    if cache_key in self.embeddings_cache:
+                        del self.embeddings_cache[cache_key]
             
             self._save_metadata()
+            self._save_embeddings_to_disk()
             
             if self.verbose:
                 logger.info(f"Cleared cache for model: {model_name}")
@@ -695,10 +755,15 @@ class EmbeddingCache:
                 if 'embeddings' in model_data:
                     for content_hash, embed_info in list(model_data['embeddings'].items()):
                         if embed_info.get('timestamp', 0) < older_than:
-                            # Remove old embedding
+                            # Remove old embedding from disk
                             embedding_path = self._get_embedding_path(model_key, content_hash)
                             if embedding_path.exists():
                                 embedding_path.unlink()
+                            
+                            # Remove from memory cache
+                            cache_key = f"{model_key}_{content_hash}"
+                            if cache_key in self.embeddings_cache:
+                                del self.embeddings_cache[cache_key]
                             
                             # Remove from metadata
                             model_data['embeddings'].pop(content_hash)
@@ -711,6 +776,7 @@ class EmbeddingCache:
                     self.metadata.pop(model_key)
             
             self._save_metadata()
+            self._save_embeddings_to_disk()
             
             if self.verbose:
                 if model_name:
