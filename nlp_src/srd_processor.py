@@ -130,9 +130,10 @@ class SRDProcessor:
     def extract_terms(self):
         """Extract game-specific terms from the rule text."""
         game_terms = set()
-        
+        print('')
         # First pass: collect capitalized terms that might be game concepts
-        for rule in self.rule_blocks:
+        for num, rule in enumerate(self.rule_blocks):
+            print(f"\033[AExtracting terms for rule {num + 1}/{len(self.rule_blocks)}")
             doc = self.nlp(rule['text'])
             
             # Look for capitalized multi-word terms or specific patterns
@@ -157,8 +158,11 @@ class SRDProcessor:
                     game_terms.add(term)
         
         # Second pass: find where these terms are defined
+        print('')
         term_definitions = {}
-        for rule in self.rule_blocks:
+        for num, rule in enumerate(self.rule_blocks):
+
+            print(f"\033[AProcessing definition locations for rule {num + 1}/{len(self.rule_blocks)}")
             doc = self.nlp(rule['text'])
             
             for term in game_terms:
@@ -195,7 +199,7 @@ class SRDProcessor:
     
     def identify_cross_references(self):
         """Identify references between rules."""
-        
+        #return self.rule_relationships
         # Common reference patterns in RPG rules
         reference_patterns = [
             r'see\s+(?:the\s+)?([^.,]+)',
@@ -216,7 +220,7 @@ class SRDProcessor:
             
             # Also check for heading references
             for section in self.sections:
-                if section['heading'] != rule['title'] and section['heading'] in rule['text']:
+                if section['heading'] != rule['title'] and section['heading'] in rule['text'] and section['heading'] not in rule['references']:
                     rule['references'].append(section['heading'])
         
         # Build relationship graph
