@@ -9,6 +9,9 @@ import os
 import time
 import logging
 import sys
+import cProfile
+import pstats
+import io
 from typing import List, Dict, Any, Optional, Union
 import numpy as np
 from tqdm.auto import tqdm
@@ -70,6 +73,7 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
         Rerank the retrieved sections using a cross-encoder.
         
         Args:
+            query: The query text
             sections: List of retrieved sections with similarity scores
             
         Returns:
@@ -87,25 +91,35 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
             return sections
         
         # Prepare pairs for reranking
+        format_start = time.time()
         pairs = []
         for section in sections:
             # Format section text
             section_text = self._format_section_text(section)
             pairs.append([query, section_text])
+        format_time = time.time() - format_start
         
         # Get scores from reranker
-        start_time = time.time()
+        predict_start = time.time()
         scores = self.reranker.predict(pairs, show_progress_bar=False)
+        predict_time = time.time() - predict_start
         
-        #if self.verbose:
-        #    logger.info(f"Reranking completed in {time.time() - start_time:.3f} seconds")
+        if self.verbose:
+            logger.debug(f"Reranking: format={format_time:.3f}s, predict={predict_time:.3f}s")
         
         # Add reranker scores to sections
         for i, section in enumerate(sections):
             section['reranker_score'] = float(scores[i])
+            section['rerank_format_time'] = format_time
+            section['rerank_predict_time'] = predict_time
         
         # Sort by reranker score (descending)
+        sort_start = time.time()
         reranked_sections = sorted(sections, key=lambda x: x.get('reranker_score', 0.0), reverse=True)
+        sort_time = time.time() - sort_start
+        
+        if self.verbose:
+            logger.debug(f"Reranking sort time: {sort_time:.3f}s")
         
         return reranked_sections
     
@@ -126,22 +140,65 @@ Scope: {section.get('scope', 'Unknown')}
         Args:
             query_text: The user's query text
             max_rules: Maximum number of sections to return
+            profile: Whether to enable profiling
             
         Returns:
             Dict containing query results
         """
+        if profile:
+            # Run with profiling
+            profiler = cProfile.Profile()
+            profiler.enable()
+            results = self._query_impl(query_text, max_rules)
+            profiler.disable()
+            
+            # Get profiling stats
+            s = io.StringIO()
+            ps = pstats.Stats(profiler, stream=s).sort_stats('cumulative')
+            ps.print_stats(30)  # Print top 30 functions by cumulative time
+            
+            # Add profiling info to results
+            results['profiling'] = s.getvalue()
+            return results
+        else:
+            # Run without profiling
+            return self._query_impl(query_text, max_rules)
+    
+    def _query_impl(self, query_text: str, max_rules: int = 10) -> Dict[str, Any]:
+        """
+        Implementation of query processing with reranking.
+        
+        Args:
+            query_text: The user's query text
+            max_rules: Maximum number of sections to return
+            
+        Returns:
+            Dict containing query results
+        """
+        start_time = time.time()
+        
         # Get initial results from base class
+        base_start = time.time()
         results = super().query(query_text, max_rules)
+        base_time = time.time() - base_start
         
         # Store query text in each section for reranking
         for section in results['rules']:
             section['_query_text'] = query_text
         
         # Apply reranking
+        rerank_start = time.time()
         reranked_sections = self._rerank(query_text, results['rules'])
+        rerank_time = time.time() - rerank_start
         
         # Update results
         results['rules'] = reranked_sections
+        
+        # Add timing information
+        if 'timings' not in results:
+            results['timings'] = {}
+        results['timings']['base_query'] = base_time
+        results['timings']['reranking'] = rerank_time
         
         return results
 
@@ -165,6 +222,7 @@ def main():
     parser.add_argument('--max-seq-length', type=int, help='Maximum sequence length')
     parser.add_argument('--verbose', '-v', action='store_true', help='Verbose logging')
     parser.add_argument('--stats', '-S', action='store_true', help='Show cache statistics')
+    parser.add_argument('--profile', action='store_true', help='Enable profiling to identify performance bottlenecks')
     
     args = parser.parse_args()
     
@@ -193,7 +251,7 @@ def main():
     # Process query or queries file
     if args.query:
         # Single query
-        result = rag.query(args.query, args.top_k)
+        result = rag.query(args.query, args.top_k, profile=args.profile)
         
         # Save to file or print to stdout
         if args.output:
@@ -203,7 +261,7 @@ def main():
             
     elif args.queries_file:
         # Multiple queries from file
-        results = rag.process_queries_from_file(args.queries_file, args.top_k)
+        results = rag.process_queries_from_file(args.queries_file, args.top_k, profile=args.profile)
         
         # Save to file or print to stdout
         if args.output:
