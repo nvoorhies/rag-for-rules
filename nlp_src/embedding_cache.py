@@ -206,20 +206,27 @@ class EmbeddingCache:
         if self.verbose:
             logger.debug(f"Cached embedding for {model_name} - {content_hash[:8]}")
     
-    def get_embedding(self, text: str, model_name: str, params: Optional[Dict[str, Any]] = None) -> Tuple[np.ndarray, Dict[str, Any]]:
+    def get_embedding(self, text: str, model_name: str, max_seq_length: Optional[int] = None, params: Optional[Dict[str, Any]] = None) -> Tuple[np.ndarray, Dict[str, Any]]:
         """
         Get embedding for a text, computing if necessary.
         
         Args:
             text: The text to embed
             model_name: Name of the embedding model
+            max_seq_length: Maximum sequence length for the model
             params: Optional dictionary of model parameters
             
         Returns:
             Tuple of (embedding, metadata)
         """
+        start_time = time.time()
+        
         if params is None:
             params = {}
+            
+        # Add max_seq_length to params if provided
+        if max_seq_length is not None:
+            params['max_seq_length'] = max_seq_length
             
         # Try to get from cache
         embedding = self.get(text, model_name, params)
@@ -230,8 +237,50 @@ class EmbeddingCache:
             from sentence_transformers import SentenceTransformer
             model = SentenceTransformer(model_name)
             
-            # Compute embedding
-            embedding = model.encode([text])[0]
+            # Set max sequence length if provided
+            if max_seq_length is not None:
+                model.max_seq_length = max_seq_length
+            
+            # Check if text needs chunking
+            if self.tokenizer is None:
+                from transformers import AutoTokenizer
+                try:
+                    self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+                except:
+                    # Fall back to the model's tokenizer
+                    self.tokenizer = model.tokenizer
+            
+            tokens = self.tokenizer.encode(text)
+            
+            # Metadata to return
+            metadata = {
+                'chunked': False,
+                'num_chunks': 1,
+                'compute_time': 0
+            }
+            
+            if len(tokens) <= model.max_seq_length:
+                # Text fits in one chunk
+                embedding = model.encode([text])[0]
+            else:
+                # Text is too long, need to chunk it
+                chunks = self._chunk_text(text, model.max_seq_length)
+                
+                # Update metadata
+                metadata['chunked'] = True
+                metadata['num_chunks'] = len(chunks)
+                
+                if self.verbose:
+                    logger.info(f"Chunking text into {len(chunks)} chunks")
+                
+                # Embed each chunk
+                chunk_embeddings = model.encode(chunks)
+                
+                # Average the embeddings
+                embedding = np.mean(chunk_embeddings, axis=0)
+                
+                # Normalize the final embedding
+                embedding = embedding / np.linalg.norm(embedding)
             
             # Cache it
             self.put(text, embedding, model_name, params)
@@ -242,7 +291,8 @@ class EmbeddingCache:
         
         metadata = {
             'content_hash': content_hash,
-            'model_key': model_key
+            'model_key': model_key,
+            'compute_time': time.time() - start_time
         }
         
         if model_key in self.metadata and 'embeddings' in self.metadata[model_key]:
@@ -552,6 +602,70 @@ class EmbeddingCache:
         
         return stats
     
+    def _chunk_text(self, text: str, max_seq_length: int) -> List[str]:
+        """Split text into chunks that fit within max_tokens."""
+        max_tokens = max_seq_length - 10  # Leave some margin
+        
+        # If text is short enough, return as is
+        tokens = self.tokenizer.encode(text)
+        if len(tokens) <= max_tokens:
+            return [text]
+        
+        # Split into sentences first
+        sentences = re.split(r'(?<=[.!?])\s+', text)
+        chunks = []
+        current_chunk = []
+        current_length = 0
+        
+        for sentence in sentences:
+            sentence_tokens = self.tokenizer.encode(sentence)
+            sentence_length = len(sentence_tokens)
+            
+            # If a single sentence is too long, split it further
+            if sentence_length > max_tokens:
+                if current_chunk:
+                    chunks.append(' '.join(current_chunk))
+                    current_chunk = []
+                    current_length = 0
+                
+                # Split long sentence into smaller pieces
+                words = sentence.split()
+                sub_chunk = []
+                sub_length = 0
+                
+                for word in words:
+                    word_tokens = self.tokenizer.encode(word)
+                    word_length = len(word_tokens)
+                    
+                    if sub_length + word_length + 1 <= max_tokens:  # +1 for space
+                        sub_chunk.append(word)
+                        sub_length += word_length + 1
+                    else:
+                        if sub_chunk:
+                            chunks.append(' '.join(sub_chunk))
+                        sub_chunk = [word]
+                        sub_length = word_length
+                
+                if sub_chunk:
+                    chunks.append(' '.join(sub_chunk))
+            
+            # If adding this sentence would exceed max_tokens, start a new chunk
+            elif current_length + sentence_length + 1 > max_tokens:  # +1 for space
+                chunks.append(' '.join(current_chunk))
+                current_chunk = [sentence]
+                current_length = sentence_length
+            
+            # Otherwise add to current chunk
+            else:
+                current_chunk.append(sentence)
+                current_length += sentence_length + 1  # +1 for space
+        
+        # Add the last chunk if it's not empty
+        if current_chunk:
+            chunks.append(' '.join(current_chunk))
+        
+        return chunks
+        
     def _format_size(self, size_bytes: int) -> str:
         """Format a byte size into a human-readable string."""
         if size_bytes < 1024:
