@@ -5,7 +5,7 @@ import time
 import hashlib
 import aiohttp
 import asyncio
-from typing import Dict, List, Set, Optional
+from typing import Dict, List, Set, Optional, Tuple
 from pathlib import Path
 
 # Deepseek API integration
@@ -13,13 +13,31 @@ DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
 MAX_CONCURRENT_REQUESTS = 50  # Limit concurrent API calls
 TEMP_DIR = "/tmp/dnd_qa_generator"
 
+# Token tracking
+class TokenTracker:
+    def __init__(self):
+        self.prompt_tokens = 0
+        self.completion_tokens = 0
+        self.total_tokens = 0
+    
+    def update(self, prompt_tokens: int, completion_tokens: int):
+        self.prompt_tokens += prompt_tokens
+        self.completion_tokens += completion_tokens
+        self.total_tokens = self.prompt_tokens + self.completion_tokens
+    
+    def __str__(self):
+        return f"Tokens - Prompt: {self.prompt_tokens}, Completion: {self.completion_tokens}, Total: {self.total_tokens}"
+
+# Global token tracker
+token_tracker = TokenTracker()
+
 async def generate_qa_pair(section: Dict, api_key: str, session: aiohttp.ClientSession) -> Optional[Dict]:
     """Generate a QA pair for a rule section using the Deepseek API."""
     assert section['name'] and section['content'], "Invalid rule section provided"
     
-    # Create a unique ID for this rule to use in temp files
-    rule_id = hashlib.md5(section['name'].encode()).hexdigest()
-    temp_file = Path(TEMP_DIR) / f"{rule_id}.json"
+    # Use the section name for the temp file
+    safe_name = section['name'].replace('/', '_').replace('\\', '_')
+    temp_file = Path(TEMP_DIR) / f"{safe_name}.json"
     
     # Check if we already have a result for this rule
     if temp_file.exists():
@@ -60,6 +78,13 @@ Section Content:
         async with session.post(DEEPSEEK_API_URL, headers=headers, json=payload) as response:
             response.raise_for_status()
             response_data = await response.json()
+            
+            # Track token usage
+            #if 'usage' in response_data:
+            #    token_tracker.update(
+            #        response_data['usage'].get('prompt_tokens', 0),
+            #        response_data['usage'].get('completion_tokens', 0)
+            #    )
             
             result = json.loads(response_data['choices'][0]['message']['content'])
             if isinstance(result, list) and len(result) > 0:
@@ -102,9 +127,11 @@ async def process_single_rule(rule_query: Dict, api_key: str, session: aiohttp.C
         if qa_pair:
             qa_pair['rules'] = [rule_query['name']]  # Store as a single item list
             print(f"✓ Generated QA for: {rule_query['name']}")
+            #print(f"Token usage: {token_tracker}")
             return qa_pair
         else:
             print(f"✗ Failed to generate QA for: {rule_query['name']}")
+            #print(f"Token usage: {token_tracker}")
             return None
 
 async def main(filepath: str, output_path: str):
@@ -167,6 +194,7 @@ async def main(filepath: str, output_path: str):
         json.dump(qa_pairs, f, indent=4)
     
     print(f"Completed processing. Total QA pairs: {len(qa_pairs)}")
+    print(f"Token usage statistics: {token_tracker}")
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:

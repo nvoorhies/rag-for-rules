@@ -300,13 +300,13 @@ def main():
     parser.add_argument('--srd', '-s', help='Path to processed SRD JSON file for hierarchical and NN-augmented RAG')
     parser.add_argument('--output', '-o', default='evaluation_results.json', help='Path to save evaluation results')
     parser.add_argument('--top-k', '-k', type=int, default=5, help='Number of results to return from RAG')
-    parser.add_argument('--model', '-m', default='all-MiniLM-L6-v2', help='Embedding model to use')
+    parser.add_argument('--model', '-m', default='all-mpnet-base-v2', help='Embedding model to use')
     parser.add_argument('--cache-dir', '-d', default='embedding_cache', help='Embedding cache directory')
     parser.add_argument('--verbose', '-v', action='store_true', help='Enable verbose output')
     parser.add_argument('--limit', '-l', type=int, help='Limit number of questions to evaluate')
     parser.add_argument('--system', choices=['naive', 'hierarchical', 'augmented', 'nn-augmented', 'reranker', 'augmented-reranker', 'all'], 
-                       default='naive', help='RAG system to evaluate')
-    parser.add_argument('--reranker', default='BAAI/bge-reranker-v2-m3', 
+                       default='all', help='RAG system to evaluate')
+    parser.add_argument('--reranker', default='mixedbread-ai/mxbai-rerank-xsmall-v1', 
                        help='Reranker model to use with reranker system')
     
     args = parser.parse_args()
@@ -327,7 +327,7 @@ def main():
     print(f"Wrote questions to temporary file: {questions_file}")
     
     # Validate required arguments based on selected system
-    if (args.system in ['naive', 'all']) and not args.chunks:
+    if (args.system in ['naive']) and not args.chunks:
         parser.error("--chunks is required when evaluating naive RAG")
     
     if (args.system in ['hierarchical', 'nn-augmented', 'all']) and not args.srd:
