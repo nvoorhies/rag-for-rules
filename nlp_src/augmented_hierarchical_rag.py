@@ -7,6 +7,7 @@ from typing import Dict, Any
 from hierarchical_naive_rag import HierarchicalNaiveRAG
 import logging
 import json
+import augmentation_functions
 
 logger = logging.getLogger("augmented_hierarchical_rag")
 
@@ -15,11 +16,7 @@ class AugmentedHierarchicalRAG(HierarchicalNaiveRAG):
     
     def _augment_section_text(self, section: Dict[str, Any]) -> str:
         """Augment texts with additional context before embedding."""
-        return f"""{' > '.join(section['path'] + [section['title']])}
-References: {', '.join(section['references'])}
-Scope: {section['scope']}
-
-{section['text']}"""
+        return augmentation_functions.augment_with_path_references_scope(section)
 
 # For running as a script
 def main():
@@ -36,7 +33,7 @@ def main():
     parser.add_argument('--output', '-o', help='Output file for results')
     parser.add_argument('--embeddings', '-e', help='Path to save/load embeddings')
     parser.add_argument('--cache-dir', default='embedding_cache', help='Embedding cache directory')
-    parser.add_argument('--model', default='all-MiniLM-L6-v2', help='Embedding model name')
+    parser.add_argument('--model', default='all-mpnet-base-v2', help='Embedding model name')
     parser.add_argument('--max-seq-length', type=int, help='Maximum sequence length')
     parser.add_argument('--verbose', '-v', action='store_true', help='Verbose logging')
     parser.add_argument('--stats', '-S', action='store_true', help='Show cache statistics')
