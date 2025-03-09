@@ -41,7 +41,7 @@ def write_questions_to_temp_file(questions: List[Dict[str, str]]) -> str:
     return temp_path
 
 def run_cached_naive_rag(questions_file: str, chunks_file: str, output_file: str,
-                         top_k: int = 5, model: str = 'all-MiniLM-L6-v2',
+                         top_k: int = 5, model: str = 'all-mpnet-base-v2',
                          cache_dir: str = 'embedding_cache', verbose: bool = False) -> str:
     """Run the cached_naive_rag.py script on the questions."""
     cmd = [
@@ -69,7 +69,7 @@ def run_cached_naive_rag(questions_file: str, chunks_file: str, output_file: str
     return output_file
 
 def run_hierarchical_naive_rag(questions_file: str, srd_file: str, output_file: str,
-                              top_k: int = 5, model: str = 'all-MiniLM-L6-v2',
+                              top_k: int = 5, model: str = 'all-mpnet-base-v2',
                               cache_dir: str = 'embedding_cache', verbose: bool = False) -> str:
     """Run the hierarchical_naive_rag.py script on the questions."""
     cmd = [
@@ -155,8 +155,8 @@ def run_cached_nn_augmented_rag(questions_file: str, srd_file: str, output_file:
     return output_file
 
 def run_reranker_hierarchical_rag(questions_file: str, srd_file: str, output_file: str,
-                                 top_k: int = 5, model: str = 'all-MiniLM-L6-v2',
-                                 reranker_model: str = 'BAAI/bge-reranker-v2-m3',
+                                 top_k: int = 5, model: str = 'all-mpnet-base-v2',
+                                 reranker_model: str = 'mixedbread-ai/mxbai-rerank-xsmall-v1',
                                  cache_dir: str = 'embedding_cache', verbose: bool = False) -> str:
     """Run the reranker_hierarchical_rag.py script on the questions."""
     cmd = [
@@ -184,8 +184,8 @@ def run_reranker_hierarchical_rag(questions_file: str, srd_file: str, output_fil
     return output_file
 
 def run_augmented_reranker_rag(questions_file: str, srd_file: str, output_file: str,
-                              top_k: int = 5, model: str = 'all-MiniLM-L6-v2',
-                              reranker_model: str = 'BAAI/bge-reranker-v2-m3',
+                              top_k: int = 5, model: str = 'all-mpnet-base-v2',
+                              reranker_model: str = 'mixedbread-ai/mxbai-rerank-xsmall-v1',
                               cache_dir: str = 'embedding_cache', verbose: bool = False) -> str:
     """Run the augmented_reranker_rag.py script on the questions."""
     cmd = [
