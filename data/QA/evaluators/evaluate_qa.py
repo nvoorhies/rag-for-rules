@@ -60,11 +60,11 @@ def run_cached_naive_rag(questions_file: str, chunks_file: str, output_file: str
         cmd.append("--verbose")
     
     print(f"Running command: {' '.join(cmd)}")
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    # Don't capture output so it displays in real-time
+    result = subprocess.run(cmd, text=True)
     
     if result.returncode != 0:
-        print(f"Error running cached_naive_rag.py: {result.stderr}")
-        raise RuntimeError(f"Failed to run cached_naive_rag.py: {result.stderr}")
+        raise RuntimeError(f"Failed to run cached_naive_rag.py")
     
     return output_file
 
@@ -87,11 +87,11 @@ def run_hierarchical_naive_rag(questions_file: str, srd_file: str, output_file: 
         cmd.append("--verbose")
     
     print(f"Running command: {' '.join(cmd)}")
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    # Don't capture output so it displays in real-time
+    result = subprocess.run(cmd, text=True)
     
     if result.returncode != 0:
-        print(f"Error running hierarchical_naive_rag.py: {result.stderr}")
-        raise RuntimeError(f"Failed to run hierarchical_naive_rag.py: {result.stderr}")
+        raise RuntimeError(f"Failed to run hierarchical_naive_rag.py")
     
     return output_file
 
@@ -117,11 +117,11 @@ def run_augmented_naive_rag(questions_file: str, srd_file: str, output_file: str
         cmd.append("--verbose")
     
     print(f"Running command: {' '.join(cmd)}")
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    # Don't capture output so it displays in real-time
+    result = subprocess.run(cmd, text=True)
     
     if result.returncode != 0:
-        print(f"Error running augmented_hierarchical_rag.py: {result.stderr}")
-        raise RuntimeError(f"Failed to run augmented_hierarchical_rag.py: {result.stderr}")
+        raise RuntimeError(f"Failed to run augmented_hierarchical_rag.py")
     
     return output_file
 
@@ -146,11 +146,11 @@ def run_cached_nn_augmented_rag(questions_file: str, srd_file: str, output_file:
         cmd.append("--stats")
     
     print(f"Running command: {' '.join(cmd)}")
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    # Don't capture output so it displays in real-time
+    result = subprocess.run(cmd, text=True)
     
     if result.returncode != 0:
-        print(f"Error running cached_nn_augmented_rag.py: {result.stderr}")
-        raise RuntimeError(f"Failed to run cached_nn_augmented_rag.py: {result.stderr}")
+        raise RuntimeError(f"Failed to run cached_nn_augmented_rag.py")
     
     return output_file
 
@@ -175,11 +175,11 @@ def run_reranker_hierarchical_rag(questions_file: str, srd_file: str, output_fil
         cmd.append("--verbose")
     
     print(f"Running command: {' '.join(cmd)}")
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    # Don't capture output so it displays in real-time
+    result = subprocess.run(cmd, text=True)
     
     if result.returncode != 0:
-        print(f"Error running reranker_hierarchical_rag.py: {result.stderr}")
-        raise RuntimeError(f"Failed to run reranker_hierarchical_rag.py: {result.stderr}")
+        raise RuntimeError(f"Failed to run reranker_hierarchical_rag.py")
     
     return output_file
 
@@ -204,11 +204,11 @@ def run_augmented_reranker_rag(questions_file: str, srd_file: str, output_file: 
         cmd.append("--verbose")
     
     print(f"Running command: {' '.join(cmd)}")
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    # Don't capture output so it displays in real-time
+    result = subprocess.run(cmd, text=True)
     
     if result.returncode != 0:
-        print(f"Error running augmented_reranker_rag.py: {result.stderr}")
-        raise RuntimeError(f"Failed to run augmented_reranker_rag.py: {result.stderr}")
+        raise RuntimeError(f"Failed to run augmented_reranker_rag.py")
     
     return output_file
                                                                                                                                           
