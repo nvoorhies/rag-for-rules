@@ -20,7 +20,6 @@ from tqdm.auto import tqdm
 import re
 from transformers import AutoTokenizer
 import faiss
-import faiss
 
 # Set up logging
 logging.basicConfig(
@@ -363,6 +362,128 @@ class EmbeddingCache:
                 missing_indices.append(i)
         
         return cached_embeddings, missing_indices
+    
+    def batch_get_embeddings(self, texts: List[str], model_name: str, 
+                           max_seq_length: Optional[int] = None, 
+                           params: Optional[Dict[str, Any]] = None) -> List[Tuple[np.ndarray, Dict[str, Any]]]:
+        """
+        Get embeddings for a batch of texts, using cache when possible.
+        
+        Args:
+            texts: List of texts to embed
+            model_name: Name of the embedding model
+            max_seq_length: Maximum sequence length for the model
+            params: Optional dictionary of model parameters
+            
+        Returns:
+            List of tuples (embedding, metadata) for each text
+        """
+        if params is None:
+            params = {}
+            
+        # Add max_seq_length to params if provided
+        if max_seq_length is not None:
+            params['max_seq_length'] = max_seq_length
+        
+        # Check cache for each text
+        results = []
+        missing_indices = []
+        missing_texts = []
+        
+        for i, text in enumerate(texts):
+            embedding = self.get(text, model_name, params)
+            if embedding is not None:
+                # Cache hit
+                content_hash = self._compute_content_hash(text)
+                model_key = self._generate_model_key(model_name, params)
+                
+                metadata = {
+                    'content_hash': content_hash,
+                    'model_key': model_key,
+                    'cached': True
+                }
+                
+                if model_key in self.metadata and 'embeddings' in self.metadata[model_key]:
+                    if content_hash in self.metadata[model_key]['embeddings']:
+                        metadata.update(self.metadata[model_key]['embeddings'][content_hash])
+                
+                results.append((embedding, metadata))
+            else:
+                # Cache miss
+                missing_indices.append(i)
+                missing_texts.append(text)
+        
+        # If there are missing embeddings, compute them
+        if missing_texts:
+            # Load the model
+            from sentence_transformers import SentenceTransformer
+            model = SentenceTransformer(model_name)
+            
+            # Set max sequence length if provided
+            if max_seq_length is not None:
+                model.max_seq_length = max_seq_length
+            
+            # Initialize tokenizer if needed
+            if self.tokenizer is None:
+                from transformers import AutoTokenizer
+                try:
+                    self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+                except:
+                    # Fall back to the model's tokenizer
+                    self.tokenizer = model.tokenizer
+            
+            # Process each missing text
+            for i, text in enumerate(missing_texts):
+                start_time = time.time()
+                tokens = self.tokenizer.encode(text)
+                
+                # Metadata to return
+                metadata = {
+                    'chunked': False,
+                    'num_chunks': 1,
+                    'compute_time': 0,
+                    'cached': False
+                }
+                
+                if len(tokens) <= model.max_seq_length:
+                    # Text fits in one chunk
+                    embedding = model.encode([text])[0]
+                else:
+                    # Text is too long, need to chunk it
+                    chunks = self._chunk_text(text, model.max_seq_length)
+                    
+                    # Update metadata
+                    metadata['chunked'] = True
+                    metadata['num_chunks'] = len(chunks)
+                    
+                    if self.verbose:
+                        logger.info(f"Chunking text into {len(chunks)} chunks")
+                    
+                    # Embed each chunk
+                    chunk_embeddings = model.encode(chunks)
+                    
+                    # Average the embeddings
+                    embedding = np.mean(chunk_embeddings, axis=0)
+                    
+                    # Normalize the final embedding
+                    embedding = embedding / np.linalg.norm(embedding)
+                
+                # Cache it
+                self.put(text, embedding, model_name, params)
+                
+                # Add metadata
+                content_hash = self._compute_content_hash(text)
+                model_key = self._generate_model_key(model_name, params)
+                
+                metadata['content_hash'] = content_hash
+                metadata['model_key'] = model_key
+                metadata['compute_time'] = time.time() - start_time
+                
+                # Insert at the correct position
+                original_idx = missing_indices[i]
+                results.insert(original_idx, (embedding, metadata))
+        
+        return results
     
     
     def similarity_search(self, query_embedding: np.ndarray, model_name: str, 

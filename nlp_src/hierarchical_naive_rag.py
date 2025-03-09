@@ -135,7 +135,7 @@ class HierarchicalNaiveRAG:
         sections_texts = []
         section_ids = []
         for section in self.sections:
-            # Simply combine title and text - no graph augmentation
+            # Augment text with title and context
             combined_text = self._augment_section_text(section)
             sections_texts.append(combined_text)
             section_ids.append(section['id'])
@@ -149,26 +149,63 @@ class HierarchicalNaiveRAG:
         batch_size = 100
         section_id_to_embedding = {}
         
-        for i in range(0, len(sections_texts), batch_size):
-            batch_texts = sections_texts[i:i+batch_size]
-            batch_ids = section_ids[i:i+batch_size]
+        # First check which sections are already cached
+        cached_embeddings = []
+        missing_indices = []
+        
+        for i, text in enumerate(sections_texts):
+            embedding = self.embedding_cache.get(text, self.model_name, self.model_params)
+            if embedding is not None:
+                cached_embeddings.append((i, embedding))
+            else:
+                missing_indices.append(i)
+        
+        if self.verbose:
+            logger.info(f"Found {len(cached_embeddings)} cached embeddings, need to compute {len(missing_indices)}")
+        
+        # Add cached embeddings to the result
+        for i, embedding in cached_embeddings:
+            section_id_to_embedding[section_ids[i]] = embedding
+        
+        # Process missing embeddings in batches
+        for i in range(0, len(missing_indices), batch_size):
+            batch_indices = missing_indices[i:i+batch_size]
+            batch_texts = [sections_texts[idx] for idx in batch_indices]
+            batch_ids = [section_ids[idx] for idx in batch_indices]
             
-            if self.verbose and len(sections_texts) > batch_size:
-                logger.info(f"Processing batch {i//batch_size + 1}/{(len(sections_texts)-1)//batch_size + 1}")
+            if self.verbose and len(missing_indices) > batch_size:
+                logger.info(f"Processing batch {i//batch_size + 1}/{(len(missing_indices)-1)//batch_size + 1} " +
+                           f"({len(batch_indices)} sections)")
             
-            # Get embeddings for this batch
-            for j, (text, section_id) in enumerate(zip(batch_texts, batch_ids)):
-                # Use the enhanced embedding function that handles chunking
-                embedding, metadata = self.embedding_cache.get_embedding(
-                    text,
-                    self.model_name,
-                    self.max_seq_length
-                )
+            # Load the model if not already loaded
+            if not hasattr(self, '_model_loaded'):
+                self._model_loaded = True
+            
+            # Compute embeddings for the batch
+            batch_embeddings = self.model.encode(
+                batch_texts,
+                batch_size=32,  # Sub-batch size for the model
+                show_progress_bar=self.verbose,
+                normalize_embeddings=True
+            )
+            
+            # Cache the embeddings and add to result
+            for j, (text, section_id, embedding) in enumerate(zip(batch_texts, batch_ids, batch_embeddings)):
+                # Check if text needs chunking
+                if self.tokenizer:
+                    tokens = self.tokenizer.encode(text)
+                    is_chunked = len(tokens) > self.model.max_seq_length
+                else:
+                    is_chunked = False
                 
+                # Cache the embedding
+                self.embedding_cache.put(text, embedding, self.model_name, self.model_params)
+                
+                # Add to result
                 section_id_to_embedding[section_id] = embedding
                 
-                if self.verbose and metadata.get('chunked', False):
-                    logger.debug(f"Section {section_id} was chunked into {metadata.get('num_chunks', 0)} chunks")
+                if self.verbose and is_chunked:
+                    logger.debug(f"Section {section_id} was chunked")
         
         if self.verbose:
             logger.info(f"Embedding completed in {time.time() - start_time:.2f} seconds")
