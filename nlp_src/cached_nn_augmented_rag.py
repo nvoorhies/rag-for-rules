@@ -19,7 +19,7 @@ from pathlib import Path
 from tqdm.auto import tqdm
 
 #from embedding_cache import EmbeddingCache
-from .rule_embedder import RuleSectionEmbedder
+from rule_embedder import RuleSectionEmbedder
 
 # Configure logging
 logging.basicConfig(
@@ -171,27 +171,28 @@ class CachedNNAugmentedRAG:
         # 2. Key terms from connected rules
         # 3. Relationship information
         
-        augmented_text = f"{rule['title']}. {rule['text']}"
+        augmented_text = f"{" > ".join(rule['path'] + [rule['title']])}\n {rule['text']}"
         
         # Add information about prerequisite rules
-        if predecessors:
-            prereq_titles = [self.rule_graph.nodes[p].get('label', '') for p in predecessors]
-            augmented_text += f" Requires understanding of: {', '.join(prereq_titles)}."
+        #if predecessors:
+        #    prereq_titles = [self.rule_graph.nodes[p].get('label', '') for p in predecessors]
+        #    augmented_text += f" Requires understanding of: {', '.join(prereq_titles)}."
         
         # Add information about dependent rules
-        if successors:
-            dependent_titles = [self.rule_graph.nodes[s].get('label', '') for s in successors]
-            augmented_text += f" Relevant to: {', '.join(dependent_titles)}."
+        #if successors:
+        #    dependent_titles = [self.rule_graph.nodes[s].get('label', '') for s in successors]
+        #    augmented_text += f" Relevant to: {', '.join(dependent_titles)}."
         
         # Add term definitions if this rule defines any terms
-        defined_terms = [t for t, info in self.terms.items() 
-                        if info.get('source_rule_id') == rule_id]
-        if defined_terms:
-            augmented_text += f" Defines terms: {', '.join(defined_terms)}."
+        #defined_terms = [t for t, info in self.terms.items() 
+        #                if info.get('source_rule_id') == rule_id]
+        #if defined_terms:
+        #    augmented_text += f" Defines terms: {', '.join(defined_terms)}."
         
         # Add rule type and scope information
         augmented_text += f" Rule type: {rule.get('type', 'UNKNOWN')}. Scope: {rule.get('scope', 'GENERAL')}."
-        
+        #print(augmented_text)
+        #print(f"augmented_text size: {len(augmented_text)}")
         return augmented_text
     
     def _extract_domain_info(self) -> Dict[str, Any]:
@@ -385,6 +386,7 @@ class CachedNNAugmentedRAG:
             races_str = ', '.join(features['detected_races'])
             augmented_query += f" Races: {races_str}."
         
+        augmented_query = query_text
         # Generate embedding through the cache
         query_embedding = self.model.encode(
             augmented_query, 
@@ -529,7 +531,7 @@ class CachedNNAugmentedRAG:
         
         # Prepare the response
         response = {
-            'query': query_text,
+            'question': query_text,
             'features': features,
             'rules': minimal_rules,
             'categorized_rules': categorized_rules,
@@ -577,14 +579,14 @@ class CachedNNAugmentedRAG:
         
         # Process each query
         results = []
-        for query_text in tqdm.tqdm(query_texts, desc="Processing queries"):
+        for query_text in tqdm(query_texts, desc="Processing queries"):
             try:
                 result = self.query(query_text, max_rules=top_k)
                 results.append(result)
             except Exception as e:
                 logger.error(f"Error processing query '{query_text}': {e}")
                 results.append({
-                    'query': query_text,
+                    'question': query_text,
                     'error': str(e),
                     'rules': [],
                     'rule_count': 0,
@@ -664,7 +666,7 @@ def main():
         result = rag.query(args.query, max_rules=args.max_rules)
         
         print("\n=== Query Results ===")
-        print(f"Query: {result['query']}")
+        print(f"Query: {result['question']}")
         print(f"Query time: {result['query_time']:.3f} seconds")
         
         if result['features']:

@@ -65,7 +65,7 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
         if self.verbose:
             logger.info(f"Reranker model loaded")
     
-    def _rerank(self, sections: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    def _rerank(self, query: str, sections: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """
         Rerank the retrieved sections using a cross-encoder.
         
@@ -79,7 +79,7 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
             return sections
         
         # Get the query from the first section's similarity score context
-        query = sections[0].get('_query_text', '')
+        # query = sections[0].get('_query_text', '')
         if not query:
             # If query isn't stored in the section, we can't rerank
             if self.verbose:
@@ -97,8 +97,8 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
         start_time = time.time()
         scores = self.reranker.predict(pairs)
         
-        if self.verbose:
-            logger.info(f"Reranking completed in {time.time() - start_time:.3f} seconds")
+        #if self.verbose:
+        #    logger.info(f"Reranking completed in {time.time() - start_time:.3f} seconds")
         
         # Add reranker scores to sections
         for i, section in enumerate(sections):
@@ -111,8 +111,14 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
     
     def _format_section_text(self, section: Dict[str, Any]) -> str:
         """Format section text for reranking."""
-        return f"{' > '.join(section.get('path', [])) + ' > ' + section.get('title', '')}\n{section.get('text', '')}"
-    
+        return self._augment_section_text(section)
+        #return f"{' > '.join(section.get('path', [])) + ' > ' + section.get('title', '')}\n{section.get('text', '')}"
+        return f"""{' > '.join(section['path'] + [section['title']])}
+{section['text']} 
+References: {', '.join(section.get('references', []))}                                                                                                                                            
+Scope: {section.get('scope', 'Unknown')}                                                                                                                                                          
+"""  
+
     def query(self, query_text: str, max_rules: int = 10) -> Dict[str, Any]:
         """
         Process a query and return relevant sections with reranking.
@@ -132,7 +138,7 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
             section['_query_text'] = query_text
         
         # Apply reranking
-        reranked_sections = self._rerank(results['rules'])
+        reranked_sections = self._rerank(query_text, results['rules'])
         
         # Update results
         results['rules'] = reranked_sections
@@ -154,8 +160,8 @@ def main():
     parser.add_argument('--output', '-o', help='Output file for results')
     parser.add_argument('--embeddings', '-e', help='Path to save/load embeddings')
     parser.add_argument('--cache-dir', default='embedding_cache', help='Embedding cache directory')
-    parser.add_argument('--model', default='all-MiniLM-L6-v2', help='Embedding model name')
-    parser.add_argument('--reranker', default='BAAI/bge-reranker-v2-m3', help='Reranker model name')
+    parser.add_argument('--model', default='all-mpnet-base-v2', help='Embedding model name')
+    parser.add_argument('--reranker', default='mixedbread-ai/mxbai-rerank-xsmall-v1', help='Reranker model name')
     parser.add_argument('--max-seq-length', type=int, help='Maximum sequence length')
     parser.add_argument('--verbose', '-v', action='store_true', help='Verbose logging')
     parser.add_argument('--stats', '-S', action='store_true', help='Show cache statistics')

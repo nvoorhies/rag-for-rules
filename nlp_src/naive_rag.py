@@ -85,7 +85,7 @@ class NaiveRAG:
         
         # Format results to match the structure-aware system's output
         results = {
-            'query': query_text,
+            'question': query_text,
             'rules': retrieved_chunks,
             'rule_count': len(retrieved_chunks),
             'query_time': time.time() - start_time
@@ -196,7 +196,7 @@ if __name__ == "__main__":
         results = rag.query(args.query, args.top_k)
         
         print("\n=== Query Results ===")
-        print(f"Query: {results['query']}")
+        print(f"Query: {results['question']}")
         print(f"Found {results['rule_count']} relevant chunks in {results['query_time']:.2f} seconds:")
         
         for i, chunk in enumerate(results['rules'], 1):

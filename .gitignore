@@ -179,3 +179,7 @@ tmp/
 data/old/
 embedding_cache/
 .aider*
+/model_checkpoints
+/model_output
+/models
+/tmp_trainer
