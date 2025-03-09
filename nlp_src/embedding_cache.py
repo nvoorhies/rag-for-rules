@@ -140,7 +140,44 @@ class EmbeddingCache:
         except Exception as e:
             logger.warning(f"Failed to load cached embedding: {e}")
             return None
-    
+    def _initialize_faiss_index(self, model_key: str, embedding_dim: int):
+        """Initialize a FAISS index for a model."""
+        if model_key in self.faiss_indices:
+            return
+            
+        # Create a new FAISS index
+        index = faiss.IndexFlatL2(embedding_dim)
+        
+        # Initialize the index data structures
+        self.faiss_indices[model_key] = {
+            'index': index,
+            'id_to_hash': [],
+            'hash_to_id': {}
+        }
+        
+        # Add existing embeddings to the index
+        if model_key in self.metadata:
+            for content_hash, embed_info in self.metadata[model_key].get('embeddings', {}).items():
+                # Skip chunks that are part of a parent document
+                if 'parent_hash' in embed_info:
+                    continue
+                    
+                # Load the embedding
+                embedding_path = self._get_embedding_path(model_key, content_hash)
+                if not embedding_path.exists():
+                    continue
+                    
+                try:
+                    embedding = np.load(embedding_path)
+                    
+                    # Add to FAISS index
+                    faiss_idx = len(self.faiss_indices[model_key]['id_to_hash'])
+                    self.faiss_indices[model_key]['id_to_hash'].append(content_hash)
+                    self.faiss_indices[model_key]['hash_to_id'][content_hash] = faiss_idx
+                    self.faiss_indices[model_key]['index'].add(embedding.reshape(1, -1))
+                except Exception as e:
+                    logger.warning(f"Failed to add embedding to FAISS index: {e}")  
+                
     def put(self, content: str, embedding: np.ndarray, model_name: str, params: Dict[str, Any]):
         """
         Cache an embedding for the given content.
