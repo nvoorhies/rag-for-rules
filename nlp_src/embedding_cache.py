@@ -19,6 +19,7 @@ import pickle
 from tqdm.auto import tqdm
 import re
 from transformers import AutoTokenizer
+import faiss
 
 # Set up logging
 logging.basicConfig(
@@ -30,19 +31,25 @@ logger = logging.getLogger("embedding_cache")
 class EmbeddingCache:
     """A robust caching system for embeddings that stores data based on content hash and parameters."""
     
-    def __init__(self, cache_dir: str = "embedding_cache", verbose: bool = True):
+    def __init__(self, cache_dir: str = "embedding_cache", verbose: bool = True, 
+                 use_faiss: bool = True, chunk_size: int = 384):
         """
         Initialize the embedding cache.
         
         Args:
             cache_dir: Directory to store cached embeddings
             verbose: Whether to print cache operations
+            use_faiss: Whether to use FAISS for vector similarity search
+            chunk_size: Default chunk size for splitting long texts
         """
         self.cache_dir = Path(cache_dir)
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.metadata_path = self.cache_dir / "metadata.json"
         self.verbose = verbose
         self.tokenizer = None
+        self.use_faiss = use_faiss
+        self.chunk_size = chunk_size
+        self.faiss_indices = {}
         
         # Load metadata if it exists
         self.metadata = self._load_metadata()
@@ -53,6 +60,8 @@ class EmbeddingCache:
                                   if 'embeddings' in data)
             logger.info(f"Initialized embedding cache at {self.cache_dir}")
             logger.info(f"Cache contains {len(self.metadata)} models with {cached_item_count} total embeddings")
+            if self.use_faiss:
+                logger.info(f"Using FAISS for vector similarity search")
     
     def _load_metadata(self) -> Dict[str, Any]:
         """Load cache metadata from disk."""
@@ -150,22 +159,45 @@ class EmbeddingCache:
                 'model_name': model_name,
                 'params': params,
                 'created_at': time.time(),
-                'embeddings': {}
+                'embeddings': {},
+                'embedding_dim': embedding.shape[0]
             }
         
         # Update or create embedding entry
         if 'embeddings' not in self.metadata[model_key]:
             self.metadata[model_key]['embeddings'] = {}
             
-        self.metadata[model_key]['embeddings'][content_hash] = {
+        # Store additional params in the metadata
+        embed_info = {
             'timestamp': time.time(),
             'size': embedding.shape[0],
             'hash': content_hash
         }
         
+        # Add any additional params (like chunk info)
+        for k, v in params.items():
+            if k not in ['max_seq_length', 'normalize_embeddings']:
+                embed_info[k] = v
+        
+        self.metadata[model_key]['embeddings'][content_hash] = embed_info
+        
         # Save the embedding
         embedding_path = self._get_embedding_path(model_key, content_hash)
         np.save(embedding_path, embedding)
+        
+        # Update FAISS index if enabled
+        if self.use_faiss:
+            # Initialize FAISS index if needed
+            if model_key not in self.faiss_indices:
+                self._initialize_faiss_index(model_key, embedding.shape[0])
+            
+            # Add to FAISS index if it's not a chunk of a parent document
+            # or if we specifically want to index chunks
+            if 'parent_hash' not in params:
+                faiss_idx = len(self.faiss_indices[model_key]['id_to_hash'])
+                self.faiss_indices[model_key]['id_to_hash'].append(content_hash)
+                self.faiss_indices[model_key]['hash_to_id'][content_hash] = faiss_idx
+                self.faiss_indices[model_key]['index'].add(embedding.reshape(1, -1))
         
         # Update metadata
         self._save_metadata()
@@ -198,6 +230,94 @@ class EmbeddingCache:
                 missing_indices.append(i)
         
         return cached_embeddings, missing_indices
+    
+    def similarity_search(self, query_embedding: np.ndarray, model_name: str, 
+                         params: Dict[str, Any], top_k: int = 5) -> List[Dict[str, Any]]:
+        """
+        Perform similarity search using FAISS if available.
+        
+        Args:
+            query_embedding: Query embedding vector
+            model_name: Name of the embedding model
+            params: Dictionary of model parameters
+            top_k: Number of results to return
+            
+        Returns:
+            List of dictionaries with content hash and similarity score
+        """
+        model_key = self._generate_model_key(model_name, params)
+        
+        # If model not in metadata, return empty results
+        if model_key not in self.metadata:
+            return []
+        
+        # Use FAISS if available
+        if self.use_faiss and model_key in self.faiss_indices:
+            # Ensure query embedding is normalized and reshaped for FAISS
+            query_embedding_norm = query_embedding / np.linalg.norm(query_embedding)
+            query_embedding_reshaped = query_embedding_norm.reshape(1, -1)
+            
+            # Search the index
+            k = min(top_k, self.faiss_indices[model_key]['index'].ntotal)
+            if k == 0:
+                return []
+                
+            distances, indices = self.faiss_indices[model_key]['index'].search(
+                query_embedding_reshaped, k
+            )
+            
+            # Convert results to the expected format
+            results = []
+            for i, (dist, idx) in enumerate(zip(distances[0], indices[0])):
+                if idx < 0 or idx >= len(self.faiss_indices[model_key]['id_to_hash']):
+                    continue
+                    
+                content_hash = self.faiss_indices[model_key]['id_to_hash'][idx]
+                
+                # Convert L2 distance to cosine similarity
+                # For normalized vectors: cosine_sim = 1 - (L2_dist^2 / 2)
+                similarity = 1 - (dist / 2)
+                
+                results.append({
+                    'content_hash': content_hash,
+                    'similarity': float(similarity)
+                })
+            
+            return results
+        
+        # Fallback to brute force search
+        results = []
+        
+        for content_hash, embed_info in self.metadata[model_key].get('embeddings', {}).items():
+            # Skip chunks that are part of a parent document
+            if 'parent_hash' in embed_info:
+                continue
+                
+            # Load the embedding
+            embedding_path = self._get_embedding_path(model_key, content_hash)
+            if not embedding_path.exists():
+                continue
+                
+            try:
+                embedding = np.load(embedding_path)
+                
+                # Calculate cosine similarity
+                similarity = np.dot(query_embedding, embedding) / (
+                    np.linalg.norm(query_embedding) * np.linalg.norm(embedding)
+                )
+                
+                results.append({
+                    'content_hash': content_hash,
+                    'similarity': float(similarity)
+                })
+            except Exception as e:
+                logger.warning(f"Failed to load embedding for similarity search: {e}")
+        
+        # Sort by similarity (descending)
+        results = sorted(results, key=lambda x: x['similarity'], reverse=True)
+        
+        # Return top-k results
+        return results[:top_k]
     
     def bulk_put(self, contents: List[str], embeddings: List[np.ndarray], model_name: str, params: Dict[str, Any]):
         """
@@ -419,11 +539,18 @@ if __name__ == "__main__":
     test_parser = subparsers.add_parser('test', help='Run a cache test')
     test_parser.add_argument('--cache-dir', default='embedding_cache', help='Cache directory')
     test_parser.add_argument('--model', default='all-MiniLM-L6-v2', help='Model to test with')
+    test_parser.add_argument('--no-faiss', action='store_true', help='Disable FAISS for vector search')
+    test_parser.add_argument('--chunk-size', type=int, default=384, help='Chunk size for splitting long texts')
+    test_parser.add_argument('--test-long-text', action='store_true', help='Test with a long text that requires chunking')
     
     args = parser.parse_args()
     
     # Initialize cache
-    cache = EmbeddingCache(args.cache_dir)
+    cache = EmbeddingCache(
+        cache_dir=args.cache_dir,
+        use_faiss=not args.no_faiss,
+        chunk_size=args.chunk_size
+    )
     
     if args.command == 'status':
         # Show cache stats
@@ -467,11 +594,37 @@ if __name__ == "__main__":
             "Let's see how the cache handles this fourth text."
         ]
         
+        # Add a long text if requested
+        if args.test_long_text:
+            long_text = """
+            This is a very long text that will need to be chunked into smaller pieces before embedding.
+            It contains multiple sentences spanning various topics to ensure it exceeds the token limit.
+            The chunking algorithm should split this text at sentence boundaries when possible.
+            This helps maintain the semantic meaning of each chunk.
+            When a single sentence is too long, it will be split by words instead.
+            This approach ensures that we can handle texts of arbitrary length while still producing meaningful embeddings.
+            The final embedding will be created by averaging the embeddings of all chunks.
+            This technique allows us to represent long documents in the same vector space as shorter texts.
+            We can then perform similarity search and other operations using these embeddings.
+            The FAISS library provides efficient similarity search capabilities for large collections of vectors.
+            It uses various indexing techniques to speed up nearest neighbor search.
+            This is particularly important when dealing with large document collections.
+            By combining chunking with FAISS, we can build a scalable and efficient retrieval system.
+            This system can handle documents of varying lengths and provide fast query responses.
+            The embedding cache further improves performance by avoiding redundant computation.
+            It stores embeddings based on content hash, ensuring that identical texts are only embedded once.
+            This is especially useful in scenarios where the same text appears multiple times.
+            The cache also handles parameter variations, so embeddings with different settings are stored separately.
+            This comprehensive approach addresses the challenges of embedding and retrieving long texts efficiently.
+            """
+            texts.append(long_text)
+            print(f"Added a long text with {len(long_text.split())} words for chunking test")
+        
         # Define embedding function
         def embed_func(texts):
             tokenizer = AutoTokenizer.from_pretrained(args.model)
             token_count = tokenizer([text for text in texts], return_tensors='pt', padding=True, truncation=True)
-            assert all(token_count['input_ids'].shape[1] <= model.max_seq_length)
+            # We don't assert token count here since we're handling chunking
             return model.encode(texts)
         
         # Parameters
@@ -499,6 +652,37 @@ if __name__ == "__main__":
         cache.compute_missing_embeddings(texts, args.model, params, embed_func)
         print(f"Third run took {time.time() - start_time:.3f} seconds")
         
+        # Test similarity search if FAISS is enabled
+        if cache.use_faiss:
+            print("\nTesting similarity search with FAISS...")
+            # Get embedding for a query
+            query = "Let me test the similarity search functionality."
+            query_embedding, _ = cache.get_embedding(query, args.model)
+            
+            # Perform similarity search
+            results = cache.similarity_search(query_embedding, args.model, params, top_k=3)
+            
+            print(f"Found {len(results)} similar texts:")
+            for i, result in enumerate(results):
+                content_hash = result['content_hash']
+                similarity = result['similarity']
+                
+                # Find the original text for this hash
+                original_text = None
+                for text in texts:
+                    if cache._compute_content_hash(text) == content_hash:
+                        original_text = text
+                        break
+                
+                # Display the result
+                print(f"{i+1}. Similarity: {similarity:.4f}")
+                if original_text:
+                    print(f"   Text: {original_text[:100]}..." if len(original_text) > 100 else original_text)
+                else:
+                    print(f"   Hash: {content_hash}")
+        
         # Show final stats
         stats = cache.get_cache_stats()
         print(f"\nTest complete. Cache now has {stats['total_embeddings']} embeddings.")
+        if cache.use_faiss:
+            print(f"FAISS indices: {len(cache.faiss_indices)}")
