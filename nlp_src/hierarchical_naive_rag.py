@@ -16,6 +16,7 @@ from pathlib import Path
 from tqdm.auto import tqdm
 import pickle
 from sentence_transformers import SentenceTransformer
+from augmentation_functions import augment_with_title
 
 # Add parent directory to path for importing embedding_cache
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -26,7 +27,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
-logger = logging.getLogger("hierarchical_naive_rag")
+logger = logging.getLogger("hierazrchical_naive_rag")
 
 class HierarchicalNaiveRAG:
     """Naive RAG implementation using document hierarchy but simple embedding approach."""
@@ -34,7 +35,7 @@ class HierarchicalNaiveRAG:
     def __init__(self, 
                 processed_srd_path: str,
                 embeddings_path: Optional[str] = None,
-                model_name: str = "all-MiniLM-L6-v2",
+                model_name: str = "all-mpnet-base-v2",
                 cache_dir: str = "embedding_cache",
                 max_seq_length: Optional[int] = None,
                 verbose: bool = False):
@@ -88,7 +89,8 @@ class HierarchicalNaiveRAG:
     def _augment_section_text(self, section: Dict[str, Any]) -> str:
         """Augment section text with parent titles for better context."""
         # Add parent section titles to the text
-        return f"{section['title']}: {section['text']}"
+        #return section['text']
+        return augment_with_title(section)
 
 
     def _load_or_create_embeddings(self, embeddings_path: Optional[str]) -> Dict[str, np.ndarray]:
@@ -154,7 +156,7 @@ class HierarchicalNaiveRAG:
             show_progress_bar=self.verbose and len(texts) > 10
         )
     
-    def _rerank(self, sections: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    def _rerank(self, query_text: str, sections: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """
         Rerank the retrieved sections.
         
@@ -219,7 +221,7 @@ class HierarchicalNaiveRAG:
             retrieved_sections.append(section)
         
         # Apply reranking
-        reranked_sections = self._rerank(retrieved_sections)
+        reranked_sections = self._rerank(query_text, retrieved_sections)
         
         # Format results
         results = {
