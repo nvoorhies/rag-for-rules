@@ -20,6 +20,7 @@ from tqdm.auto import tqdm
 import re
 from transformers import AutoTokenizer
 import faiss
+import faiss
 
 # Set up logging
 logging.basicConfig(
@@ -205,6 +206,51 @@ class EmbeddingCache:
         if self.verbose:
             logger.debug(f"Cached embedding for {model_name} - {content_hash[:8]}")
     
+    def get_embedding(self, text: str, model_name: str, params: Optional[Dict[str, Any]] = None) -> Tuple[np.ndarray, Dict[str, Any]]:
+        """
+        Get embedding for a text, computing if necessary.
+        
+        Args:
+            text: The text to embed
+            model_name: Name of the embedding model
+            params: Optional dictionary of model parameters
+            
+        Returns:
+            Tuple of (embedding, metadata)
+        """
+        if params is None:
+            params = {}
+            
+        # Try to get from cache
+        embedding = self.get(text, model_name, params)
+        
+        # If not in cache, compute it
+        if embedding is None:
+            # Load the model
+            from sentence_transformers import SentenceTransformer
+            model = SentenceTransformer(model_name)
+            
+            # Compute embedding
+            embedding = model.encode([text])[0]
+            
+            # Cache it
+            self.put(text, embedding, model_name, params)
+        
+        # Return embedding and metadata
+        content_hash = self._compute_content_hash(text)
+        model_key = self._generate_model_key(model_name, params)
+        
+        metadata = {
+            'content_hash': content_hash,
+            'model_key': model_key
+        }
+        
+        if model_key in self.metadata and 'embeddings' in self.metadata[model_key]:
+            if content_hash in self.metadata[model_key]['embeddings']:
+                metadata.update(self.metadata[model_key]['embeddings'][content_hash])
+        
+        return embedding, metadata
+        
     def bulk_get(self, contents: List[str], model_name: str, params: Dict[str, Any]) -> Tuple[List[np.ndarray], List[int]]:
         """
         Get cached embeddings for multiple content items.
@@ -659,7 +705,7 @@ if __name__ == "__main__":
             print("\nTesting similarity search with FAISS...")
             # Get embedding for a query
             query = "Let me test the similarity search functionality."
-            query_embedding = model.encode([query])[0]
+            query_embedding, _ = cache.get_embedding(query, args.model)
             
             # Perform similarity search
             results = cache.similarity_search(query_embedding, args.model, params, top_k=3)
