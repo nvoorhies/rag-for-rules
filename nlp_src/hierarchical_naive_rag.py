@@ -185,7 +185,7 @@ class HierarchicalNaiveRAG:
             batch_embeddings = self.model.encode(
                 batch_texts,
                 batch_size=32,  # Sub-batch size for the model
-                show_progress_bar=self.verbose,
+                show_progress_bar=False,  # Don't show inner progress bar
                 normalize_embeddings=True
             )
             
@@ -456,7 +456,8 @@ class HierarchicalNaiveRAG:
         
         # Process each query
         results = []
-        for query_text in tqdm(query_texts, desc="Processing queries", disable=not self.verbose):
+        for query_text in tqdm(query_texts, desc="Processing queries", disable=not self.verbose, 
+                              position=0, leave=True):
             try:
                 result = self.query(query_text, max_rules)
                 results.append(result)
