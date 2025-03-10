@@ -131,9 +131,33 @@ def train_cross_encoder(
     
     # Train the model
     logger.info("Starting training")
+    
+    # Create DataLoader
+    from torch.utils.data import DataLoader, TensorDataset
+    import torch
+    
+    # Convert to tensors
+    train_dataset = TensorDataset(
+        torch.tensor(range(len(train_samples))),  # Just indices
+    )
+    
+    # Create DataLoader
+    train_dataloader = DataLoader(
+        train_dataset,
+        shuffle=True,
+        batch_size=batch_size
+    )
+    
+    # Define a collate function to get the actual samples
+    def collate_fn(batch_idx):
+        # Get the actual samples and labels for these indices
+        batch_samples = [train_samples[idx[0]] for idx in batch_idx]
+        batch_labels = [train_labels[idx[0]] for idx in batch_idx]
+        return batch_samples, batch_labels
+    
     model.fit(
-        train_samples=train_samples,
-        train_labels=train_labels,
+        train_dataloader=train_dataloader,
+        collate_fn=collate_fn,
         epochs=num_epochs,
         warmup_steps=warmup_steps,
         optimizer_params={'lr': learning_rate},
