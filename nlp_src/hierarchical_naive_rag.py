@@ -43,7 +43,8 @@ class HierarchicalNaiveRAG:
                 max_seq_length: Optional[int] = None,
                 use_faiss: bool = False,
                 chunk_size: int = 384,
-                verbose: bool = False):
+                verbose: bool = False,
+                parallel: int = 1):
         """
         Initialize the hierarchical naive RAG system.
         
@@ -63,6 +64,7 @@ class HierarchicalNaiveRAG:
         self.max_seq_length = max_seq_length
         self.use_faiss = use_faiss
         self.chunk_size = chunk_size
+        self.parallel = parallel
         
         # Load the processed SRD
         with open(processed_srd_path, 'r', encoding='utf-8') as f:
@@ -516,6 +518,7 @@ def main():
     parser.add_argument('--use-faiss', action='store_true', help='Enable FAISS for vector search')
     parser.add_argument('--verbose', '-v', action='store_true', help='Verbose logging')
     parser.add_argument('--stats', '-S', action='store_true', help='Show cache statistics')
+    parser.add_argument('--parallel', '-p', type=int, default=1, help='Number of parallel processes to use')
     
     args = parser.parse_args()
     
@@ -528,7 +531,8 @@ def main():
         max_seq_length=args.max_seq_length,
         use_faiss=args.use_faiss,
         chunk_size=args.chunk_size,
-        verbose=args.verbose
+        verbose=args.verbose,
+        parallel=args.parallel
     )
     
     # Show cache stats if requested
