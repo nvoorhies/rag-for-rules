@@ -178,11 +178,6 @@ def run_reranker_hierarchical_rag(questions_file: str, srd_file: str, output_fil
     
     if device:
         cmd.extend(["--device", device])
-    ]
-    
-    if device:
-        cmd.extend(["--device", device])
-    ]
     
     if verbose:
         cmd.append("--verbose")
