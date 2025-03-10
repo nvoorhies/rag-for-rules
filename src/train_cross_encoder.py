@@ -123,12 +123,6 @@ def train_cross_encoder(
         device=None  # Use GPU if available, otherwise CPU
     )
     
-    # Check if GPU is available
-    if torch.cuda.is_available():
-        logger.info(f"Training on GPU: {torch.cuda.get_device_name(0)}")
-    else:
-        logger.info("Training on CPU")
-    
     # Train the model
     logger.info("Starting training")
     
@@ -157,7 +151,6 @@ def train_cross_encoder(
     
     model.fit(
         train_dataloader=train_dataloader,
-        collate_fn=collate_fn,
         epochs=num_epochs,
         warmup_steps=warmup_steps,
         optimizer_params={'lr': learning_rate},
