@@ -194,3 +194,5 @@ reranker.profile
 tmp.txt
 tmp2.txt
 colab.zip
+/path-references-scope-finetuned-mpnet-base-v2
+/title-finetuned-mpnet-base-v2
