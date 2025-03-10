@@ -83,7 +83,7 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
             device = self.device
         elif self.use_cuda:
             device = "cuda"
-        elif self.use_mps and os.environ.get('USE_MPS', '0') == '1':
+        elif self.use_mps: # and os.getenv("USE_MPS", "0") == "1":
             # Only use MPS if explicitly enabled via environment variable
             device = "mps"
             
@@ -136,7 +136,7 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
         
         # Get scores from reranker
         predict_start = time.time()
-        scores = self.reranker.predict(pairs, show_progress_bar=False, batch_size=32, num_workers=self.parallel)
+        scores = self.reranker.predict(pairs, show_progress_bar=False, batch_size=32, convert_to_numpy=True)
         predict_time = time.time() - predict_start
         
         if self.verbose:
