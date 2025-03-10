@@ -459,7 +459,7 @@ class HierarchicalNaiveRAG:
         # Process each query
         results = []
         for query_text in tqdm(query_texts, desc="Processing queries", disable=not self.verbose, 
-                              position=0, leave=True):
+                               leave=False):
             try:
                 result = self.query(query_text, max_rules, profile)
                 results.append(result)
