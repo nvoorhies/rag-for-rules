@@ -161,7 +161,7 @@ def run_reranker_hierarchical_rag(questions_file: str, srd_file: str, output_fil
                                  top_k: int = 5, model: str = 'all-mpnet-base-v2',
                                  reranker_model: str = 'mixedbread-ai/mxbai-rerank-xsmall-v1',
                                  cache_dir: str = 'embedding_cache', verbose: bool = False,
-                                 parallel: int = 1) -> str:
+                                 parallel: int = 1, device: Optional[str] = None) -> str:
     """Run the reranker_hierarchical_rag.py script on the questions."""
     cmd = [
         sys.executable,
@@ -174,6 +174,14 @@ def run_reranker_hierarchical_rag(questions_file: str, srd_file: str, output_fil
         "--reranker", reranker_model,
         "--cache-dir", cache_dir,
         "--parallel", str(parallel)
+    ]
+    
+    if device:
+        cmd.extend(["--device", device])
+    ]
+    
+    if device:
+        cmd.extend(["--device", device])
     ]
     
     if verbose:
@@ -192,7 +200,7 @@ def run_augmented_reranker_rag(questions_file: str, srd_file: str, output_file: 
                               top_k: int = 5, model: str = 'all-mpnet-base-v2',
                               reranker_model: str = 'mixedbread-ai/mxbai-rerank-xsmall-v1',
                               cache_dir: str = 'embedding_cache', verbose: bool = False,
-                              parallel: int = 1) -> str:
+                              parallel: int = 1, device: Optional[str] = None) -> str:
     """Run the augmented_reranker_rag.py script on the questions."""
     cmd = [
         sys.executable,
@@ -318,6 +326,8 @@ def main():
     parser.add_argument('--profile', action='store_true', help='Enable profiling to identify performance bottlenecks')
     parser.add_argument('--parallel', '-p', type=int, default=4, 
                        help='Number of parallel processes to use for evaluation')
+    parser.add_argument('--device', choices=['cpu', 'cuda', 'mps'], 
+                       help='Device to use for reranker models (default: cpu to avoid MPS issues)')
     
     args = parser.parse_args()
     
@@ -509,7 +519,8 @@ def main():
                 reranker_model=args.reranker,
                 cache_dir=args.cache_dir,
                 verbose=args.verbose,
-                parallel=args.parallel
+                parallel=args.parallel,
+                device=args.device
             )
             
             print(f"Evaluating Reranker Hierarchical RAG results...")
@@ -548,7 +559,8 @@ def main():
                 reranker_model=args.reranker,
                 cache_dir=args.cache_dir,
                 verbose=args.verbose,
-                parallel=args.parallel
+                parallel=args.parallel,
+                device=args.device
             )
             
             print(f"Evaluating Augmented Reranker RAG results...")

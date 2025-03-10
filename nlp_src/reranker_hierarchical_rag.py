@@ -37,7 +37,8 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
                 cache_dir: str = "embedding_cache",
                 max_seq_length: Optional[int] = None,
                 verbose: bool = False,
-                parallel: int = 1):
+                parallel: int = 1,
+                device: Optional[str] = None):
         """
         Initialize the reranker hierarchical RAG system.
         
@@ -69,16 +70,38 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
         if self.verbose:
             logger.info(f"Loading reranker model: {reranker_model_name}")
         
-        # Check for MPS (Apple Silicon) availability
+        # Check for device availability
         import torch
-        device = "mps" if torch.backends.mps.is_available() else "cpu"
+        self.use_mps = torch.backends.mps.is_available()
+        self.use_cuda = torch.cuda.is_available()
+        
+        # Default to CPU to avoid MPS issues with _share_filename_cpu
+        device = "cpu"
+        
+        # Add device parameter to control which device to use
+        if hasattr(self, 'device') and self.device:
+            device = self.device
+        elif self.use_cuda:
+            device = "cuda"
+        elif self.use_mps and os.environ.get('USE_MPS', '0') == '1':
+            # Only use MPS if explicitly enabled via environment variable
+            device = "mps"
+            
         if self.verbose:
             logger.info(f"Using device: {device} for reranker")
         
-        self.reranker = CrossEncoder(reranker_model_name, device=device)
-        
-        if self.verbose:
-            logger.info(f"Reranker model loaded on {device}")
+        try:
+            self.reranker = CrossEncoder(reranker_model_name, device=device)
+            self.device = device
+            if self.verbose:
+                logger.info(f"Reranker model loaded on {device}")
+        except Exception as e:
+            logger.warning(f"Failed to load reranker on {device}: {e}")
+            logger.info("Falling back to CPU")
+            self.reranker = CrossEncoder(reranker_model_name, device="cpu")
+            self.device = "cpu"
+            if self.verbose:
+                logger.info("Reranker model loaded on CPU")
     
     def _rerank(self, query: str, sections: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """
@@ -236,6 +259,7 @@ def main():
     parser.add_argument('--stats', '-S', action='store_true', help='Show cache statistics')
     parser.add_argument('--profile', action='store_true', help='Enable profiling to identify performance bottlenecks')
     parser.add_argument('--parallel', '-p', type=int, default=1, help='Number of parallel processes to use')
+    parser.add_argument('--device', choices=['cpu', 'cuda', 'mps'], help='Device to use for reranker (default: auto)')
     
     args = parser.parse_args()
     
@@ -248,7 +272,8 @@ def main():
         cache_dir=args.cache_dir,
         max_seq_length=args.max_seq_length,
         verbose=args.verbose,
-        parallel=args.parallel
+        parallel=args.parallel,
+        device=args.device
     )
     
     # Show cache stats if requested

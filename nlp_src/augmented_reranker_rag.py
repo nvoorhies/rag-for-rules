@@ -102,6 +102,7 @@ def main():
     parser.add_argument('--verbose', '-v', action='store_true', help='Verbose logging')                                                                                                           
     parser.add_argument('--stats', '-S', action='store_true', help='Show cache statistics')                                                                                                       
     parser.add_argument('--parallel', '-p', type=int, default=1, help='Number of parallel processes to use')
+    parser.add_argument('--device', choices=['cpu', 'cuda', 'mps'], help='Device to use for reranker (default: auto)')
                                                                                                                                                                                                   
     args = parser.parse_args()                                                                                                                                                                    
                                                                                                                                                                                                   
@@ -114,7 +115,8 @@ def main():
         cache_dir=args.cache_dir,                                                                                                                                                                 
         max_seq_length=args.max_seq_length,                                                                                                                                                       
         verbose=args.verbose,
-        parallel=args.parallel                                                                                                                                                                      
+        parallel=args.parallel,
+        device=args.device                                                                                                                                                                      
     )                                                                                                                                                                                             
                                                                                                                                                                                                   
     # Show cache stats if requested                                                                                                                                                               
