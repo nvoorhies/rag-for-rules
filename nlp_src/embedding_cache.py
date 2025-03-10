@@ -445,7 +445,8 @@ class EmbeddingCache:
     
     def batch_get_embeddings(self, texts: List[str], model_name: str, 
                            max_seq_length: Optional[int] = None, 
-                           params: Optional[Dict[str, Any]] = None) -> List[Tuple[np.ndarray, Dict[str, Any]]]:
+                           params: Optional[Dict[str, Any]] = None,
+                           batch_size: int = 32) -> List[Tuple[np.ndarray, Dict[str, Any]]]:
         """
         Get embeddings for a batch of texts, using cache when possible.
         
@@ -454,24 +455,24 @@ class EmbeddingCache:
             model_name: Name of the embedding model
             max_seq_length: Maximum sequence length for the model
             params: Optional dictionary of model parameters
+            batch_size: Batch size for processing missing embeddings
             
         Returns:
             List of tuples (embedding, metadata) for each text
         """
+        start_time = time.time()
+        
         if params is None:
             params = {}
             
-        # Add max_seq_length to params if provided
-        if max_seq_length is not None:
-            params['max_seq_length'] = max_seq_length
-        
         # Check cache for each text
-        results = []
+        results = [None] * len(texts)  # Pre-allocate results list
         missing_indices = []
         missing_texts = []
         
+        # First pass: check cache
         for i, text in enumerate(texts):
-            embedding = self.get(text, model_name, params)
+            embedding = self.get(text, model_name, max_seq_length, params)
             if embedding is not None:
                 # Cache hit
                 content_hash = self._compute_content_hash(text)
@@ -480,14 +481,15 @@ class EmbeddingCache:
                 metadata = {
                     'content_hash': content_hash,
                     'model_key': model_key,
-                    'cached': True
+                    'cached': True,
+                    'compute_time': 0
                 }
                 
                 if model_key in self.metadata and 'embeddings' in self.metadata[model_key]:
                     if content_hash in self.metadata[model_key]['embeddings']:
                         metadata.update(self.metadata[model_key]['embeddings'][content_hash])
                 
-                results.append((embedding, metadata))
+                results[i] = (embedding, metadata)
             else:
                 # Cache miss
                 missing_indices.append(i)
