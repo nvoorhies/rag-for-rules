@@ -132,10 +132,6 @@ def train_cross_encoder(
     # Train the model
     logger.info("Starting training")
     model.fit(
-        train_dataloader_kwargs={
-            'batch_size': batch_size,
-            'shuffle': True
-        },
         train_samples=train_samples,
         train_labels=train_labels,
         epochs=num_epochs,
