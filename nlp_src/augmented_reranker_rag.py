@@ -37,11 +37,6 @@ class AugmentedRerankerRAG(RerankerHierarchicalRAG):
             Augmented text string                                                                                                                                                                 
         """              
         return augment_with_path_references_scope(section)                                                                                                                                                                         
-        return f"""{' > '.join(section['path'] + [section['title']])}
-{section['text']}
-References: {', '.join(list(set(section.get('references', []))))} 
-Scope: {section.get('scope', 'Unknown')}
-"""                                                                                                                                                                              
                                                                                                                                                                                                   
     def _get_section_embedding(self, section: Dict[str, Any]) -> Dict[str, Any]:                                                                                                                  
         """                                                                                                                                                                                       
