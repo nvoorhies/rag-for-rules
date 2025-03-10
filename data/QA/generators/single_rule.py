@@ -65,7 +65,7 @@ Section Content:
     }
 
     payload = {
-        "model": "deepseek-chat",
+        "model": "deepseek-reasoner",
         "messages": [
             {"role": "system", "content": "You are a helpful assistant that generates question/answer pairs about D&D 5th edition rules."},
             {"role": "user", "content": prompt}
@@ -80,11 +80,11 @@ Section Content:
             response_data = await response.json()
             
             # Track token usage
-            #if 'usage' in response_data:
-            #    token_tracker.update(
-            #        response_data['usage'].get('prompt_tokens', 0),
-            #        response_data['usage'].get('completion_tokens', 0)
-            #    )
+            if 'usage' in response_data:
+                token_tracker.update(
+                    response_data['usage'].get('prompt_tokens', 0),
+                    response_data['usage'].get('completion_tokens', 0)
+                )
             
             result = json.loads(response_data['choices'][0]['message']['content'])
             if isinstance(result, list) and len(result) > 0:
