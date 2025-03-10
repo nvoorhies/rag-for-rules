@@ -126,18 +126,27 @@ class EmbeddingCache:
         """Get the path for a cached embedding file."""
         return self.cache_dir / f"{model_key}_{content_hash}.npy"
     
-    def get(self, content: str, model_name: str, params: Dict[str, Any]) -> Optional[np.ndarray]:
+    def get(self, content: str, model_name: str, max_seq_length: Optional[int] = None, 
+            params: Optional[Dict[str, Any]] = None) -> Optional[np.ndarray]:
         """
         Get cached embedding for content with the specified model and parameters.
         
         Args:
             content: The text content to get embeddings for
             model_name: Name of the embedding model
+            max_seq_length: Maximum sequence length for the model
             params: Dictionary of model parameters
             
         Returns:
             Numpy array containing the embedding, or None if not cached
         """
+        if params is None:
+            params = {}
+            
+        # Add max_seq_length to params if provided
+        if max_seq_length is not None:
+            params['max_seq_length'] = max_seq_length
+            
         model_key = self._generate_model_key(model_name, params)
         content_hash = self._compute_content_hash(content)
         
@@ -181,6 +190,39 @@ class EmbeddingCache:
         except Exception as e:
             logger.warning(f"Failed to load cached embedding: {e}")
             return None
+    def _ensure_model_loaded(self, model_name: str, max_seq_length: Optional[int] = None):
+        """Ensure the model is loaded, loading it if necessary."""
+        from sentence_transformers import SentenceTransformer
+        
+        if model_name not in self.models:
+            if self.verbose:
+                logger.info(f"Loading model: {model_name}")
+            self.models[model_name] = SentenceTransformer(model_name)
+            
+        # Set max sequence length if provided
+        if max_seq_length is not None:
+            self.models[model_name].max_seq_length = max_seq_length
+            
+        return self.models[model_name]
+        
+    def _ensure_tokenizer_loaded(self, model_name: str, model=None):
+        """Ensure the tokenizer is loaded, loading it if necessary."""
+        if self.tokenizer is None:
+            from transformers import AutoTokenizer
+            try:
+                if self.verbose:
+                    logger.info(f"Loading tokenizer for: {model_name}")
+                self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+            except Exception as e:
+                if self.verbose:
+                    logger.warning(f"Failed to load tokenizer directly, falling back to model tokenizer: {e}")
+                # Fall back to the model's tokenizer
+                if model is None:
+                    model = self._ensure_model_loaded(model_name)
+                self.tokenizer = model.tokenizer
+                
+        return self.tokenizer
+        
     def _initialize_faiss_index(self, model_key: str, embedding_dim: int):
         """Initialize a FAISS index for a model."""
         if model_key in self.faiss_indices:
@@ -219,7 +261,7 @@ class EmbeddingCache:
                 except Exception as e:
                     logger.warning(f"Failed to add embedding to FAISS index: {e}")  
                 
-    def put(self, content: str, embedding: np.ndarray, model_name: str, params: Dict[str, Any]):
+    def put(self, content: str, embedding: np.ndarray, model_name: str, params: Optional[Dict[str, Any]] = None):
         """
         Cache an embedding for the given content.
         
@@ -291,7 +333,8 @@ class EmbeddingCache:
         if self.verbose:
             logger.debug(f"Cached embedding for {model_name} - {content_hash[:8]}")
     
-    def get_embedding(self, text: str, model_name: str, max_seq_length: Optional[int] = None, params: Optional[Dict[str, Any]] = None) -> Tuple[np.ndarray, Dict[str, Any]]:
+    def get_embedding(self, text: str, model_name: str, max_seq_length: Optional[int] = None, 
+                     params: Optional[Dict[str, Any]] = None) -> Tuple[np.ndarray, Dict[str, Any]]:
         """
         Get embedding for a text, computing if necessary.
         
@@ -309,32 +352,17 @@ class EmbeddingCache:
         if params is None:
             params = {}
             
-        # Add max_seq_length to params if provided
-        if max_seq_length is not None:
-            params['max_seq_length'] = max_seq_length
-            
         # Try to get from cache
-        embedding = self.get(text, model_name, params)
+        embedding = self.get(text, model_name, max_seq_length, params)
         
         # If not in cache, compute it
         if embedding is None:
-            # Load the model
-            from sentence_transformers import SentenceTransformer
-            if model_name not in self.models:
-                self.models[model_name] = SentenceTransformer(model_name)
+            # Load the model - ensure we only initialize once per model_name
+            self._ensure_model_loaded(model_name, max_seq_length)
             model = self.models[model_name]
-            # Set max sequence length if provided
-            if max_seq_length is not None:
-                model.max_seq_length = max_seq_length
             
-            # Check if text needs chunking
-            if self.tokenizer is None:
-                from transformers import AutoTokenizer
-                try:
-                    self.tokenizer = AutoTokenizer.from_pretrained(model_name)
-                except:
-                    # Fall back to the model's tokenizer
-                    self.tokenizer = model.tokenizer
+            # Ensure tokenizer is loaded
+            self._ensure_tokenizer_loaded(model_name, model)
             
             tokens = self.tokenizer.encode(text)
             
@@ -387,13 +415,15 @@ class EmbeddingCache:
         
         return embedding, metadata
         
-    def bulk_get(self, contents: List[str], model_name: str, params: Dict[str, Any]) -> Tuple[List[np.ndarray], List[int]]:
+    def bulk_get(self, contents: List[str], model_name: str, max_seq_length: Optional[int] = None, 
+                params: Optional[Dict[str, Any]] = None) -> Tuple[List[np.ndarray], List[int]]:
         """
         Get cached embeddings for multiple content items.
         
         Args:
             contents: List of text contents to get embeddings for
             model_name: Name of the embedding model
+            max_seq_length: Maximum sequence length for the model
             params: Dictionary of model parameters
             
         Returns:
@@ -405,7 +435,7 @@ class EmbeddingCache:
         missing_indices = []
         
         for i, content in enumerate(contents):
-            embedding = self.get(content, model_name, params)
+            embedding = self.get(content, model_name, max_seq_length, params)
             if embedding is not None:
                 cached_embeddings.append(embedding)
             else:
