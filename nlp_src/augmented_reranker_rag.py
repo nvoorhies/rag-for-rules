@@ -118,7 +118,8 @@ def main():
         reranker_model_name=args.reranker,                                                                                                                                                        
         cache_dir=args.cache_dir,                                                                                                                                                                 
         max_seq_length=args.max_seq_length,                                                                                                                                                       
-        verbose=args.verbose                                                                                                                                                                      
+        verbose=args.verbose,
+        parallel=args.parallel                                                                                                                                                                      
     )                                                                                                                                                                                             
                                                                                                                                                                                                   
     # Show cache stats if requested                                                                                                                                                               

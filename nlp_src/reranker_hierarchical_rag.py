@@ -35,7 +35,8 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
                 reranker_model_name: str = "mixedbread-ai/mxbai-rerank-xsmall-v1",
                 cache_dir: str = "embedding_cache",
                 max_seq_length: Optional[int] = None,
-                verbose: bool = False):
+                verbose: bool = False,
+                parallel: int = 1):
         """
         Initialize the reranker hierarchical RAG system.
         
@@ -55,8 +56,12 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
             model_name=model_name,
             cache_dir=cache_dir,
             max_seq_length=max_seq_length,
-            verbose=verbose
+            verbose=verbose,
+            parallel=parallel
         )
+        
+        # Store parallel parameter for reranker
+        self.parallel = parallel
         
         # Initialize the reranker
         self.reranker_model_name = reranker_model_name
@@ -101,7 +106,7 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
         
         # Get scores from reranker
         predict_start = time.time()
-        scores = self.reranker.predict(pairs, show_progress_bar=False)
+        scores = self.reranker.predict(pairs, show_progress_bar=False, num_workers=self.parallel)
         predict_time = time.time() - predict_start
         
         if self.verbose:
@@ -235,7 +240,8 @@ def main():
         reranker_model_name=args.reranker,
         cache_dir=args.cache_dir,
         max_seq_length=args.max_seq_length,
-        verbose=args.verbose
+        verbose=args.verbose,
+        parallel=args.parallel
     )
     
     # Show cache stats if requested
