@@ -20,3 +20,7 @@ def augment_with_title(section: Dict[str, Any]) -> str:
     """Augment texts with additional context before embedding."""
     return f"""{section['title']}
 {section['text']}"""
+
+def augment_with_references(section: Dict[str, Any]) -> str:
+    """Augment texts with additional context before embedding."""
+    return section['text'] + f"""References: {', '.join(section['references'])}"""
