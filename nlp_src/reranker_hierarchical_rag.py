@@ -14,6 +14,7 @@ import pstats
 import io
 from typing import List, Dict, Any, Optional, Union
 import numpy as np
+import torch
 from tqdm.auto import tqdm
 from sentence_transformers import CrossEncoder
 from hierarchical_naive_rag import HierarchicalNaiveRAG
@@ -68,10 +69,16 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
         if self.verbose:
             logger.info(f"Loading reranker model: {reranker_model_name}")
         
-        self.reranker = CrossEncoder(reranker_model_name)
+        # Check for MPS (Apple Silicon) availability
+        import torch
+        device = "mps" if torch.backends.mps.is_available() else "cpu"
+        if self.verbose:
+            logger.info(f"Using device: {device} for reranker")
+        
+        self.reranker = CrossEncoder(reranker_model_name, device=device)
         
         if self.verbose:
-            logger.info(f"Reranker model loaded")
+            logger.info(f"Reranker model loaded on {device}")
     
     def _rerank(self, query: str, sections: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """
@@ -106,7 +113,7 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
         
         # Get scores from reranker
         predict_start = time.time()
-        scores = self.reranker.predict(pairs, show_progress_bar=False, batch_size=32)
+        scores = self.reranker.predict(pairs, show_progress_bar=False, batch_size=32, num_workers=self.parallel)
         predict_time = time.time() - predict_start
         
         if self.verbose:

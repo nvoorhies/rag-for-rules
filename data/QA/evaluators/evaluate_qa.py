@@ -316,7 +316,7 @@ def main():
     parser.add_argument('--reranker', default='mixedbread-ai/mxbai-rerank-xsmall-v1', 
                        help='Reranker model to use with reranker system')
     parser.add_argument('--profile', action='store_true', help='Enable profiling to identify performance bottlenecks')
-    parser.add_argument('--parallel', '-p', type=int, default=1, 
+    parser.add_argument('--parallel', '-p', type=int, default=4, 
                        help='Number of parallel processes to use for evaluation')
     
     args = parser.parse_args()
