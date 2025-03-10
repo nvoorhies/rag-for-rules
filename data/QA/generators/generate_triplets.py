@@ -220,7 +220,7 @@ async def main():
                         help="Path to the Python module with augmentation functions")
     parser.add_argument("--augmentation-func", default="augment_with_title", 
                         help="Name of the augmentation function to use")
-    parser.add_argument("--max-triplets", type=int, default=1000, 
+    parser.add_argument("--num-triplets", type=int, default=1000, 
                         help="Maximum number of triplets to generate")
     parser.add_argument("--concurrent", type=int, default=MAX_CONCURRENT_REQUESTS,
                         help=f"Maximum concurrent API requests (default: {MAX_CONCURRENT_REQUESTS})")
@@ -250,7 +250,7 @@ async def main():
     
     # Prepare rules to process
     rules = []
-    for rule in rules_data['rules']:
+    for rule in random.choices(rules_data['rules'], k=args.num_triplets):
         rule_query = {
             'name': ' > '.join(rule['path'] + [rule['title']]),
             'content': rule['text']
@@ -268,28 +268,28 @@ async def main():
             print(f"Error loading existing triplets: {e}")
     
     # Calculate how many more triplets we need to generate
-    num_to_generate = min(args.max_triplets - len(existing_triplets), len(rules))
-    if num_to_generate <= 0:
-        print(f"Already have {len(existing_triplets)} triplets, which meets or exceeds the requested {args.max_triplets}")
-        return
+    #num_to_generate = min(args.max_triplets - len(existing_triplets), len(rules))
+    #if num_to_generate <= 0:
+    #    print(f"Already have {len(existing_triplets)} triplets, which meets or exceeds the requested {args.max_triplets}")
+    #    return
     
-    print(f"Generating {num_to_generate} new triplets")
+    print(f"Generating {args.num_triplets} new triplets")
     
     # Process rules in parallel with rate limiting
     semaphore = asyncio.Semaphore(args.concurrent)
     
     # Use tqdm for progress tracking
-    with tqdm(total=num_to_generate, desc="Generating triplets") as pbar:
+    with tqdm(total=args.num_triplets, desc="Generating triplets") as pbar:
         # Shuffle rules to get a good variety
         random.shuffle(rules)
         
         # Process rules
         new_triplets = await process_rule_batch(
-            rules[:num_to_generate], 
+            rules[:args.num_triplets], 
             api_key, 
             augmentation_func, 
             rules,
-            num_to_generate,
+            args.num_triplets,
             semaphore,
             pbar
         )
