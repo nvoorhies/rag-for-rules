@@ -46,7 +46,7 @@ def run_cached_naive_rag(questions_file: str, chunks_file: str, output_file: str
     """Run the cached_naive_rag.py script on the questions."""
     cmd = [
         sys.executable,
-        "nlp_src/cached_naive_rag.py",
+        "src/cached_naive_rag.py",
         "query",
         "--chunks", chunks_file,
         "--queries-file", questions_file,
@@ -74,7 +74,7 @@ def run_hierarchical_naive_rag(questions_file: str, srd_file: str, output_file: 
     """Run the hierarchical_naive_rag.py script on the questions."""
     cmd = [
         sys.executable,
-        "nlp_src/hierarchical_naive_rag.py",
+        "src/hierarchical_naive_rag.py",
         "--srd", srd_file,
         "--queries-file", questions_file,
         "--output", output_file,
@@ -103,7 +103,7 @@ def run_augmented_naive_rag(questions_file: str, srd_file: str, output_file: str
     """Run the augmented_hierarchical_rag.py script on the questions."""
     cmd = [
         sys.executable,
-        "nlp_src/augmented_hierarchical_rag.py",
+        "src/augmented_hierarchical_rag.py",
         "--srd", srd_file,
         "--queries-file", questions_file,
         "--output", output_file,
@@ -135,7 +135,7 @@ def run_cached_nn_augmented_rag(questions_file: str, srd_file: str, output_file:
     """Run the cached_nn_augmented_rag.py script on the questions."""
     cmd = [
         sys.executable,
-        "nlp_src/cached_nn_augmented_rag.py",
+        "src/cached_nn_augmented_rag.py",
         "batch",
         "--srd", srd_file,
         "--queries-file", questions_file,
@@ -165,7 +165,7 @@ def run_reranker_hierarchical_rag(questions_file: str, srd_file: str, output_fil
     """Run the reranker_hierarchical_rag.py script on the questions."""
     cmd = [
         sys.executable,
-        "nlp_src/reranker_hierarchical_rag.py",
+        "src/reranker_hierarchical_rag.py",
         "--srd", srd_file,
         "--queries-file", questions_file,
         "--output", output_file,
@@ -199,7 +199,7 @@ def run_augmented_reranker_rag(questions_file: str, srd_file: str, output_file: 
     """Run the augmented_reranker_rag.py script on the questions."""
     cmd = [
         sys.executable,
-        "nlp_src/augmented_reranker_rag.py",
+        "src/augmented_reranker_rag.py",
         "--srd", srd_file,
         "--queries-file", questions_file,
         "--output", output_file,
