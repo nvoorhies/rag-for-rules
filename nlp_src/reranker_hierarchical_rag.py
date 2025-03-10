@@ -223,6 +223,7 @@ def main():
     parser.add_argument('--verbose', '-v', action='store_true', help='Verbose logging')
     parser.add_argument('--stats', '-S', action='store_true', help='Show cache statistics')
     parser.add_argument('--profile', action='store_true', help='Enable profiling to identify performance bottlenecks')
+    parser.add_argument('--parallel', '-p', type=int, default=1, help='Number of parallel processes to use')
     
     args = parser.parse_args()
     

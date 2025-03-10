@@ -160,7 +160,8 @@ def run_cached_nn_augmented_rag(questions_file: str, srd_file: str, output_file:
 def run_reranker_hierarchical_rag(questions_file: str, srd_file: str, output_file: str,
                                  top_k: int = 5, model: str = 'all-mpnet-base-v2',
                                  reranker_model: str = 'mixedbread-ai/mxbai-rerank-xsmall-v1',
-                                 cache_dir: str = 'embedding_cache', verbose: bool = False) -> str:
+                                 cache_dir: str = 'embedding_cache', verbose: bool = False,
+                                 parallel: int = 1) -> str:
     """Run the reranker_hierarchical_rag.py script on the questions."""
     cmd = [
         sys.executable,
@@ -171,7 +172,8 @@ def run_reranker_hierarchical_rag(questions_file: str, srd_file: str, output_fil
         "--top-k", str(top_k),
         "--model", model,
         "--reranker", reranker_model,
-        "--cache-dir", cache_dir
+        "--cache-dir", cache_dir,
+        "--parallel", str(parallel)
     ]
     
     if verbose:
@@ -189,7 +191,8 @@ def run_reranker_hierarchical_rag(questions_file: str, srd_file: str, output_fil
 def run_augmented_reranker_rag(questions_file: str, srd_file: str, output_file: str,
                               top_k: int = 5, model: str = 'all-mpnet-base-v2',
                               reranker_model: str = 'mixedbread-ai/mxbai-rerank-xsmall-v1',
-                              cache_dir: str = 'embedding_cache', verbose: bool = False) -> str:
+                              cache_dir: str = 'embedding_cache', verbose: bool = False,
+                              parallel: int = 1) -> str:
     """Run the augmented_reranker_rag.py script on the questions."""
     cmd = [
         sys.executable,
@@ -200,7 +203,8 @@ def run_augmented_reranker_rag(questions_file: str, srd_file: str, output_file: 
         "--top-k", str(top_k),
         "--model", model,
         "--reranker", reranker_model,
-        "--cache-dir", cache_dir
+        "--cache-dir", cache_dir,
+        "--parallel", str(parallel)
     ]
     
     if verbose:
@@ -504,7 +508,8 @@ def main():
                 model=args.model,
                 reranker_model=args.reranker,
                 cache_dir=args.cache_dir,
-                verbose=args.verbose
+                verbose=args.verbose,
+                parallel=args.parallel
             )
             
             print(f"Evaluating Reranker Hierarchical RAG results...")
@@ -542,7 +547,8 @@ def main():
                 model=args.model,
                 reranker_model=args.reranker,
                 cache_dir=args.cache_dir,
-                verbose=args.verbose
+                verbose=args.verbose,
+                parallel=args.parallel
             )
             
             print(f"Evaluating Augmented Reranker RAG results...")
