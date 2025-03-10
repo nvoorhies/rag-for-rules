@@ -333,7 +333,7 @@ class HierarchicalNaiveRAG:
         # Will be extended in subclasses
         return sections
     
-    def query(self, query_text: str, max_rules: int = 10) -> Dict[str, Any]:
+    def query(self, query_text: str, max_rules: int = 10, profile: bool = False) -> Dict[str, Any]:
         """
         Process a query and return relevant sections.
         
@@ -354,7 +354,7 @@ class HierarchicalNaiveRAG:
         )
         
         if self.verbose:
-            logger.info(f"Generated query embedding in {time.time() - start_time:.3f} seconds")
+            # logger.info(f"Generated query embedding in {time.time() - start_time:.3f} seconds")
             if metadata.get('chunked', False):
                 logger.info(f"Query was chunked into {metadata.get('num_chunks', 0)} chunks")
         
@@ -430,7 +430,7 @@ class HierarchicalNaiveRAG:
         
         return results
     
-    def process_queries_from_file(self, query_file: str, max_rules: int = 10) -> List[Dict[str, Any]]:
+    def process_queries_from_file(self, query_file: str, max_rules: int = 10, profile: bool=False) -> List[Dict[str, Any]]:
         """
         Process multiple queries from a file.
         
@@ -459,7 +459,7 @@ class HierarchicalNaiveRAG:
         for query_text in tqdm(query_texts, desc="Processing queries", disable=not self.verbose, 
                               position=0, leave=True):
             try:
-                result = self.query(query_text, max_rules)
+                result = self.query(query_text, max_rules, profile)
                 results.append(result)
             except Exception as e:
                 logger.error(f"Error processing query '{query_text}': {e}")

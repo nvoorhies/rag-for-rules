@@ -12,6 +12,7 @@ import pstats
 import io
 import time
 import augmentation_functions
+import numpy as np
 
 logger = logging.getLogger("augmented_hierarchical_rag")
 
