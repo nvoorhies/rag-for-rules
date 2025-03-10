@@ -16,7 +16,6 @@ from typing import Dict, List, Any, Optional, Union, Tuple
 import numpy as np
 from pathlib import Path
 import pickle
-from tqdm.auto import tqdm
 import re
 from transformers import AutoTokenizer
 import faiss
@@ -52,6 +51,7 @@ class EmbeddingCache:
         self.chunk_size = chunk_size
         self.faiss_indices = {}
         self.embeddings_cache = {}
+        self.models = {}
         
         # Load metadata if it exists
         self.metadata = self._load_metadata()
@@ -320,8 +320,9 @@ class EmbeddingCache:
         if embedding is None:
             # Load the model
             from sentence_transformers import SentenceTransformer
-            model = SentenceTransformer(model_name)
-            
+            if model_name not in self.models:
+                self.models[model_name] = SentenceTransformer(model_name)
+            model = self.models[model_name]
             # Set max sequence length if provided
             if max_seq_length is not None:
                 model.max_seq_length = max_seq_length
@@ -466,7 +467,9 @@ class EmbeddingCache:
         if missing_texts:
             # Load the model
             from sentence_transformers import SentenceTransformer
-            model = SentenceTransformer(model_name)
+            if model_name not in self.models:
+                self.models[model_name] = SentenceTransformer(model_name)
+            model = self.models[model_name]
             
             # Set max sequence length if provided
             if max_seq_length is not None:
