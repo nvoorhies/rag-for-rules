@@ -106,7 +106,7 @@ class RerankerHierarchicalRAG(HierarchicalNaiveRAG):
         
         # Get scores from reranker
         predict_start = time.time()
-        scores = self.reranker.predict(pairs, show_progress_bar=False, num_workers=self.parallel)
+        scores = self.reranker.predict(pairs, show_progress_bar=False, batch_size=32)
         predict_time = time.time() - predict_start
         
         if self.verbose:
