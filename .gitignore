@@ -197,3 +197,7 @@ colab.zip
 /path-references-scope-finetuned-mpnet-base-v2
 /title-finetuned-mpnet-base-v2
 rag_to_rules.zip
+/finetuned-augmented-reranker
+finetuned-title-only-reranker/model.safetensors
+/finetuned-title-only-reranker
+rag-for-rules-code.zip
