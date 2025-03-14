@@ -9,5 +9,6 @@ python data/QA/evaluators/evaluate_qa.py \
     --output tmp/finetune_title_only_eval.json \
     --system reranker \
     --top-k 10 \
-    --model title-finetuned-mpnet-base-v2
+    --model title-finetuned-mpnet-base-v2 \
+    --verbose
 
