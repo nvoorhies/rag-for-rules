@@ -65,6 +65,7 @@ def train_cross_encoder(data_path: str, output_dir: str, batch_size: int, epochs
         epochs=epochs,
         warmup_steps=warmup_steps,
         evaluation_steps=0,
+        show_progress_bar=False
     )
     
     model.save(output_dir)
