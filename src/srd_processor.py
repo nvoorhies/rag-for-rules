@@ -199,7 +199,6 @@ class SRDProcessor:
     
     def identify_cross_references(self):
         """Identify references between rules."""
-        #return self.rule_relationships
         # Common reference patterns in RPG rules
         reference_patterns = [
             r'see\s+(?:the\s+)?([^.,]+)',
